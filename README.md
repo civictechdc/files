@@ -1,4 +1,6 @@
-files
+Files
 =====
 
-A metarepository for Code for DC files of various sorts
+These files are used in other Code for DC projects, but needed a place to live. Here's what they are:
+
+`projects.json`: the master list of Code for DC projects to power the list on our site.
