@@ -3,6 +3,7 @@ import json, requests, os
 path = os.path.dirname(os.path.realpath(__file__))
 
 file_name = path + '/../projects.json'
+exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
 file = json.loads(open(file_name).read())
 projects = file['tracked']
@@ -14,7 +15,9 @@ for p in projects:
         name = key
         link = value
     q = link.replace('github.com','api.github.com/repos')
-    r = requests.get(q).json()
+    headers = {'Authorization': 'token 3f446009ac6bab1385940a7808f6edd22a0e49c4'}
+    r = requests.get(q, headers = headers).json()
+    print r
     data = {
         'id': r['id'],
         'name': r['name'],
