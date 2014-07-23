@@ -17,7 +17,6 @@ for p in projects:
     q = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token 3f446009ac6bab1385940a7808f6edd22a0e49c4'}
     r = requests.get(q, headers = headers).json()
-    print r
     data = {
         'id': r['id'],
         'name': r['name'],
