@@ -37,24 +37,24 @@
                 "thumbnailUrl": "http://ancfinder.org/static/img/favicon.png", 
                 "type": "Web App"
             }, 
-            "contributors_url": "https://api.github.com/repos/codefordc/ancbrigade/contributors", 
+            "contributors_url": "https://api.github.com/repos/codefordc/ancfinder/contributors", 
             "created_at": "2013-03-11T23:54:30Z", 
             "description": "A website about DC's Advisory Neighborhood Commission system.", 
             "forks_count": 21, 
             "homepage": "http://ancfinder.org/", 
-            "html_url": "https://github.com/codefordc/ancbrigade", 
+            "html_url": "https://github.com/codefordc/ancfinder", 
             "id": 8715969, 
             "language": "Python", 
-            "name": "ancbrigade", 
-            "open_issues": 23, 
+            "name": "ancfinder", 
+            "open_issues": 22, 
             "owner": {
                 "avatar": "https://avatars.githubusercontent.com/u/2768897?", 
                 "name": "codefordc", 
                 "type": "Organization", 
                 "url": "https://github.com/codefordc"
             }, 
-            "pushed_at": "2014-07-14T03:19:52Z", 
-            "updated_at": "2014-07-01T15:42:53Z", 
+            "pushed_at": "2014-07-23T11:35:26Z", 
+            "updated_at": "2014-07-23T18:24:16Z", 
             "watchers_count": 24
         }, 
         "Affordable Housing": {
@@ -234,7 +234,7 @@
                 "type": "User", 
                 "url": "https://github.com/ajschumacher"
             }, 
-            "pushed_at": "2014-07-22T10:14:04Z", 
+            "pushed_at": "2014-07-24T10:14:03Z", 
             "updated_at": "2014-06-26T08:14:04Z", 
             "watchers_count": 3
         }, 
@@ -332,7 +332,7 @@
             "Affordable Housing": "https://github.com/mlouie/dchousing-apps"
         }, 
         {
-            "ANC Finder": "https://github.com/codefordc/ancbrigade"
+            "ANC Finder": "https://github.com/codefordc/ancfinder"
         }, 
         {
             "CaBi Odds": "https://github.com/codefordc/bikeshare-odds"
