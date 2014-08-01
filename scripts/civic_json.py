@@ -6,18 +6,17 @@ file_name = path + '/../projects.json'
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
 file = json.loads(open(file_name).read())
-projects = file['tracked']
+tracked = file['tracked']
 
 file['projects'] = {}
 
-for p in projects:
-    for key, value in p.items():
+for project in tracked:
+    for key, value in project.items():
         name = key
         link = value
-    q = link.replace('github.com','api.github.com/repos')
+    url = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token 3f446009ac6bab1385940a7808f6edd22a0e49c4'}
-    r = requests.get(q, headers = headers).json()
-    print r
+    r = requests.get(url, headers = headers).json()
     data = {
         'id': r['id'],
         'name': r['name'],
@@ -26,7 +25,6 @@ for p in projects:
         'html_url': r['html_url'],
         'language': r['language'],
         'watchers_count': r['watchers_count'],
-        'contributors_url': r['contributors_url'],
         'forks_count': r['forks_count'],
         'open_issues': r['open_issues'],
         'created_at': r['created_at'],
@@ -39,11 +37,20 @@ for p in projects:
             'type': r['owner']['type']
         }
     }
+    contributors = {}
+    con = requests.get(r['contributors_url'], headers = headers).json()
+    for c in con:
+        contributors[c['login']] = {
+            'avatar_url': c['avatar_url'],
+            'link': c['html_url'],
+            'contributions': c['contributions']
+        }
+    data['contributors'] = contributors
     try:
-        c = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
+        civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
     except ValueError:
-        c = None
-    data['civic_json'] = c
+        civic = None
+    data['civic_json'] = civic
     file['projects'][name] = data
 
 output = json.dumps(file, sort_keys=True, indent=4)
