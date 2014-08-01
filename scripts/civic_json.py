@@ -46,6 +46,8 @@ for project in tracked:
             'contributions': c['contributions']
         }
     data['contributors'] = contributors
+    activity = requests.get(url+"/stats/participation", headers = headers).json()
+    data['activity'] = activity['all']
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
     except ValueError:
