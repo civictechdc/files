@@ -8,7 +8,7 @@ exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 file = json.loads(open(file_name).read())
 tracked = file['tracked']
 
-file['projects'] = {}
+file['projects'] = []
 
 for project in tracked:
     for key, value in project.items():
@@ -37,14 +37,15 @@ for project in tracked:
             'type': r['owner']['type']
         }
     }
-    contributors = {}
+    contributors = []
     con = requests.get(r['contributors_url'], headers = headers).json()
     for c in con:
-        contributors[c['login']] = {
+        contributors.append({
+            'name': c['login'],
             'avatar_url': c['avatar_url'],
             'link': c['html_url'],
             'contributions': c['contributions']
-        }
+        })
     data['contributors'] = contributors
     activity = requests.get(url+"/stats/participation", headers = headers).json()
     data['activity'] = activity['all']
@@ -53,7 +54,8 @@ for project in tracked:
     except ValueError:
         civic = None
     data['civic_json'] = civic
-    file['projects'][name] = data
+    data['name'] = name
+    file['projects'].append(data)
 
 output = json.dumps(file, sort_keys=True, indent=4)
 
