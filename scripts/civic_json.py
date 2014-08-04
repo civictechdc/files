@@ -1,4 +1,4 @@
-import json, requests, os
+import json, requests, os, time
 
 path = os.path.dirname(os.path.realpath(__file__))
 
@@ -48,7 +48,12 @@ for project in tracked:
         })
     data['contributors'] = contributors
     activity = requests.get(url+"/stats/participation", headers = headers).json()
-    data['activity'] = activity['all']
+    try:
+        data['activity'] = activity['all']
+    except KeyError:
+        time.sleep(4)
+        activity = requests.get(url+"/stats/participation", headers = headers).json()
+        data['activity'] = activity['all']
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
     except ValueError:
