@@ -66,3 +66,8 @@ output = json.dumps(file, sort_keys=True, indent=4)
 
 with open(file_name, 'w') as f:
     f.write(output)
+
+jsonp = "projects(" + output + ")"
+
+with open(path + '/../projects.js', 'w') as f:
+    f.write(jsonp)
