@@ -17,20 +17,20 @@
                 3, 
                 0, 
                 4, 
-                6, 
-                5, 
+                8, 
+                3, 
                 0, 
                 0, 
                 20, 
                 3, 
                 11, 
-                2, 
+                3, 
                 1, 
-                6, 
-                0, 
+                5, 
                 0, 
                 0, 
                 11, 
+                0, 
                 0, 
                 0, 
                 2, 
@@ -38,18 +38,18 @@
                 1, 
                 4, 
                 0, 
-                15, 
-                18, 
-                7, 
-                12, 
-                13, 
-                7, 
-                85, 
-                70, 
-                50, 
-                5, 
-                12, 
+                32, 
                 1, 
+                7, 
+                13, 
+                12, 
+                10, 
+                89, 
+                65, 
+                49, 
+                4, 
+                13, 
+                0, 
                 1, 
                 0, 
                 0, 
@@ -565,60 +565,85 @@
         }, 
         {
             "activity": [
-                0, 
-                6, 
-                1, 
-                3, 
-                15, 
-                14, 
-                0, 
-                0, 
                 4, 
                 3, 
                 0, 
-                0, 
-                0, 
-                0, 
-                0, 
                 6, 
-                4, 
-                3, 
-                1, 
-                0, 
-                1, 
-                0, 
-                0, 
-                1, 
-                0, 
-                0, 
-                0, 
+                21, 
                 5, 
+                0, 
+                0, 
+                7, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                6, 
+                3, 
+                4, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                3, 
+                2, 
                 1, 
                 0, 
                 4, 
                 0, 
                 0, 
                 0, 
-                1, 
-                8, 
+                2, 
+                7, 
                 7, 
                 0, 
                 2, 
-                0, 
-                9, 
-                0, 
-                0, 
-                0, 
-                0, 
-                0, 
-                0, 
-                0, 
-                0, 
+                3, 
                 6, 
                 0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                2, 
+                4, 
+                1, 
                 1
             ], 
-            "civic_json": null, 
+            "civic_json": {
+                "bornAt": "Code for DC", 
+                "categories": [
+                    {
+                        "category": "Meta Project"
+                    }
+                ], 
+                "communityPartner": {}, 
+                "contact": {
+                    "email": "", 
+                    "name": "", 
+                    "twitter": "@CodeforDC"
+                }, 
+                "geography": "DC", 
+                "governmentPartner": {}, 
+                "moreInfo": "", 
+                "needs": [
+                    {
+                        "need": "Meetup integration"
+                    }
+                ], 
+                "politicalEntity": {}, 
+                "status": "Production", 
+                "thumbnailUrl": "", 
+                "type": "Website"
+            }, 
             "contributors": [
                 {
                     "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
@@ -639,16 +664,16 @@
                     "name": "leahbannon"
                 }, 
                 {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                    "contributions": 5, 
+                    "link": "https://github.com/stvnrlly", 
+                    "name": "stvnrlly"
+                }, 
+                {
                     "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=2", 
                     "contributions": 5, 
                     "link": "https://github.com/jtreed25", 
                     "name": "jtreed25"
-                }, 
-                {
-                    "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                    "contributions": 4, 
-                    "link": "https://github.com/stvnrlly", 
-                    "name": "stvnrlly"
                 }, 
                 {
                     "avatar_url": "https://avatars.githubusercontent.com/u/2947360?v=2", 
@@ -696,7 +721,7 @@
                 "type": "Organization", 
                 "url": "https://github.com/codefordc"
             }, 
-            "pushed_at": "2014-08-16T12:58:47Z", 
+            "pushed_at": "2014-08-17T03:43:43Z", 
             "updated_at": "2014-08-14T20:21:53Z", 
             "watchers_count": 13
         }, 
@@ -741,8 +766,8 @@
                 0, 
                 0, 
                 0, 
-                7, 
-                4, 
+                8, 
+                3, 
                 0, 
                 0, 
                 0, 
@@ -835,10 +860,10 @@
                 0, 
                 0, 
                 0, 
-                0, 
-                8, 
+                6, 
+                3, 
                 2, 
-                2, 
+                1, 
                 1, 
                 0, 
                 0, 
@@ -848,13 +873,47 @@
                 0, 
                 0, 
                 0, 
-                2
+                6
             ], 
-            "civic_json": null, 
+            "civic_json": {
+                "bornAt": "Code for DC", 
+                "categories": [
+                    {
+                        "category": "Guide"
+                    }, 
+                    {
+                        "category": "Meta project"
+                    }
+                ], 
+                "communityPartner": {}, 
+                "contact": {
+                    "email": "", 
+                    "name": "", 
+                    "twitter": "@stvnrlly"
+                }, 
+                "geography": "DC", 
+                "governmentPartner": {}, 
+                "moreInfo": "", 
+                "needs": [
+                    {
+                        "need": "Guide translation"
+                    }, 
+                    {
+                        "need": "Resource submissions"
+                    }, 
+                    {
+                        "need": "Users"
+                    }
+                ], 
+                "politicalEntity": {}, 
+                "status": "Beta", 
+                "thumbnailUrl": "", 
+                "type": "Guide"
+            }, 
             "contributors": [
                 {
                     "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                    "contributions": 16, 
+                    "contributions": 18, 
                     "link": "https://github.com/stvnrlly", 
                     "name": "stvnrlly"
                 }, 
@@ -880,7 +939,7 @@
                 "type": "Organization", 
                 "url": "https://github.com/codefordc"
             }, 
-            "pushed_at": "2014-08-16T13:29:48Z", 
+            "pushed_at": "2014-08-17T03:44:00Z", 
             "updated_at": "2014-08-13T18:37:07Z", 
             "watchers_count": 2
         }, 
@@ -1107,8 +1166,8 @@
                 0, 
                 0, 
                 0, 
-                0, 
                 2, 
+                0, 
                 0
             ], 
             "civic_json": null, 
@@ -1153,9 +1212,9 @@
         }, 
         {
             "activity": [
-                13, 
+                16, 
                 3, 
-                3, 
+                0, 
                 0, 
                 0, 
                 0, 
@@ -1247,11 +1306,11 @@
                 0, 
                 0, 
                 0, 
-                0, 
-                11, 
-                0, 
-                5, 
                 2, 
+                9, 
+                0, 
+                6, 
+                1, 
                 0, 
                 0, 
                 1, 
@@ -1270,8 +1329,8 @@
                 0, 
                 0, 
                 0, 
-                1, 
-                3, 
+                4, 
+                0, 
                 0, 
                 0, 
                 0, 
