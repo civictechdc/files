@@ -625,21 +625,21 @@ projects({
                         "category": "Meta Project"
                     }
                 ], 
-                "communityPartner": {}, 
+                "communityPartner": "", 
                 "contact": {
                     "email": "", 
                     "name": "", 
                     "twitter": "@CodeforDC"
                 }, 
                 "geography": "DC", 
-                "governmentPartner": {}, 
+                "governmentPartner": "", 
                 "moreInfo": "", 
                 "needs": [
                     {
                         "need": "Meetup integration"
                     }
                 ], 
-                "politicalEntity": {}, 
+                "politicalEntity": "", 
                 "status": "Production", 
                 "thumbnailUrl": "", 
                 "type": "Website"
@@ -721,7 +721,7 @@ projects({
                 "type": "Organization", 
                 "url": "https://github.com/codefordc"
             }, 
-            "pushed_at": "2014-08-17T03:43:43Z", 
+            "pushed_at": "2014-08-17T12:57:38Z", 
             "updated_at": "2014-08-14T20:21:53Z", 
             "watchers_count": 13
         }, 
@@ -885,14 +885,14 @@ projects({
                         "category": "Meta project"
                     }
                 ], 
-                "communityPartner": {}, 
+                "communityPartner": "", 
                 "contact": {
                     "email": "", 
                     "name": "", 
                     "twitter": "@stvnrlly"
                 }, 
                 "geography": "DC", 
-                "governmentPartner": {}, 
+                "governmentPartner": "", 
                 "moreInfo": "", 
                 "needs": [
                     {
@@ -905,7 +905,7 @@ projects({
                         "need": "Users"
                     }
                 ], 
-                "politicalEntity": {}, 
+                "politicalEntity": "", 
                 "status": "Beta", 
                 "thumbnailUrl": "", 
                 "type": "Guide"
@@ -939,7 +939,7 @@ projects({
                 "type": "Organization", 
                 "url": "https://github.com/codefordc"
             }, 
-            "pushed_at": "2014-08-17T03:44:00Z", 
+            "pushed_at": "2014-08-17T12:58:00Z", 
             "updated_at": "2014-08-13T18:37:07Z", 
             "watchers_count": 2
         }, 
