@@ -157,7 +157,13 @@
             "homepage": "", 
             "html_url": "https://github.com/mlouie/dchousing-apps", 
             "id": 10896437, 
-            "language": "Ruby", 
+            "languages": {
+                "CSS": 11368, 
+                "CoffeeScript": 2202, 
+                "JavaScript": 663, 
+                "Ruby": 76369
+            }, 
+            "main_language": "Ruby", 
             "name": "Affordable Housing", 
             "open_issues": 13, 
             "owner": {
@@ -342,7 +348,13 @@
             "homepage": "http://ancfinder.org/", 
             "html_url": "https://github.com/codefordc/ancfinder", 
             "id": 8715969, 
-            "language": "Python", 
+            "languages": {
+                "CSS": 11429, 
+                "JavaScript": 1992, 
+                "Python": 82262, 
+                "Shell": 3677
+            }, 
+            "main_language": "Python", 
             "name": "ANC Finder", 
             "open_issues": 24, 
             "owner": {
@@ -396,7 +408,8 @@
                 0, 
                 0, 
                 0, 
-                0, 
+                1, 
+                2, 
                 0, 
                 0, 
                 0, 
@@ -414,29 +427,34 @@
             "contributors": [
                 {
                     "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
-                    "contributions": 16, 
+                    "contributions": 19, 
                     "link": "https://github.com/cmgiven", 
                     "name": "cmgiven"
                 }
             ], 
-            "created_at": "2014-05-16T21:42:45Z", 
+            "created_at": "2013-09-20T07:30:51Z", 
             "description": "Leaflet map of DC bikeshare stations and average availability.", 
-            "forks_count": 0, 
+            "forks_count": 1, 
             "homepage": "", 
-            "html_url": "https://github.com/codefordc/bikeshare-odds", 
-            "id": 19871589, 
-            "language": "CSS", 
-            "name": "CaBi Odds", 
-            "open_issues": 0, 
-            "owner": {
-                "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
-                "name": "codefordc", 
-                "type": "Organization", 
-                "url": "https://github.com/codefordc"
+            "html_url": "https://github.com/cmgiven/bikeshare-odds", 
+            "id": 12967944, 
+            "languages": {
+                "CSS": 14022, 
+                "JavaScript": 7807, 
+                "Ruby": 2941
             }, 
-            "pushed_at": "2014-03-19T21:54:27Z", 
-            "updated_at": "2014-05-16T21:42:45Z", 
-            "watchers_count": 0
+            "main_language": "CSS", 
+            "name": "CaBi Odds", 
+            "open_issues": 3, 
+            "owner": {
+                "avatar": "https://avatars.githubusercontent.com/u/5375557?v=2", 
+                "name": "cmgiven", 
+                "type": "User", 
+                "url": "https://github.com/cmgiven"
+            }, 
+            "pushed_at": "2014-05-28T00:02:22Z", 
+            "updated_at": "2014-05-28T00:02:22Z", 
+            "watchers_count": 5
         }, 
         {
             "activity": [
@@ -550,7 +568,13 @@
             "homepage": null, 
             "html_url": "https://github.com/HarlanH/code-for-dc-edu", 
             "id": 10422703, 
-            "language": "JavaScript", 
+            "languages": {
+                "CSS": 1673, 
+                "JavaScript": 34180, 
+                "R": 9169, 
+                "Ruby": 914
+            }, 
+            "main_language": "JavaScript", 
             "name": "Education", 
             "open_issues": 28, 
             "owner": {
@@ -712,7 +736,11 @@
             "homepage": "http://www.codefordc.org", 
             "html_url": "https://github.com/codefordc/codefordc-2.0", 
             "id": 11922700, 
-            "language": "CSS", 
+            "languages": {
+                "CSS": 12648, 
+                "JavaScript": 12522
+            }, 
+            "main_language": "CSS", 
             "name": "Code for DC Website", 
             "open_issues": 7, 
             "owner": {
@@ -807,7 +835,8 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/code-of-conduct", 
             "id": 19926261, 
-            "language": null, 
+            "languages": {}, 
+            "main_language": null, 
             "name": "Code of Conduct", 
             "open_issues": 3, 
             "owner": {
@@ -930,7 +959,11 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/getting-started", 
             "id": 19888517, 
-            "language": "Python", 
+            "languages": {
+                "Python": 33, 
+                "Ruby": 30
+            }, 
+            "main_language": "Python", 
             "name": "Code for DC Resources", 
             "open_issues": 4, 
             "owner": {
@@ -1019,7 +1052,11 @@
             "homepage": "http://ajschumacher.github.io/dc_mayor_schedule/", 
             "html_url": "https://github.com/ajschumacher/dc_mayor_schedule", 
             "id": 12283697, 
-            "language": "JavaScript", 
+            "languages": {
+                "JavaScript": 4860, 
+                "Python": 2213
+            }, 
+            "main_language": "JavaScript", 
             "name": "Mayor's Schedule Archive", 
             "open_issues": 0, 
             "owner": {
@@ -1102,7 +1139,8 @@
             "homepage": null, 
             "html_url": "https://github.com/pgehred/Wikipolicy", 
             "id": 12904042, 
-            "language": null, 
+            "languages": {}, 
+            "main_language": null, 
             "name": "Wikipolicy", 
             "open_issues": 0, 
             "owner": {
@@ -1197,7 +1235,11 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/open211", 
             "id": 10441030, 
-            "language": "CSS", 
+            "languages": {
+                "CSS": 11944, 
+                "JavaScript": 48
+            }, 
+            "main_language": "CSS", 
             "name": "Open 211", 
             "open_issues": 2, 
             "owner": {
@@ -1280,7 +1322,12 @@
             "homepage": null, 
             "html_url": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
             "id": 12226830, 
-            "language": "Python", 
+            "languages": {
+                "CSS": 5770, 
+                "Python": 546680, 
+                "Shell": 1568
+            }, 
+            "main_language": "Python", 
             "name": "Metro Metrics", 
             "open_issues": 3, 
             "owner": {
@@ -1363,7 +1410,10 @@
             "homepage": null, 
             "html_url": "https://github.com/evonfriedland/tree-map", 
             "id": 14220687, 
-            "language": "R", 
+            "languages": {
+                "R": 9737
+            }, 
+            "main_language": "R", 
             "name": "Street Tree Map", 
             "open_issues": 0, 
             "owner": {
@@ -1375,6 +1425,116 @@
             "pushed_at": "2014-04-18T15:18:06Z", 
             "updated_at": "2014-04-18T15:18:06Z", 
             "watchers_count": 1
+        }, 
+        {
+            "activity": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                5, 
+                0, 
+                6, 
+                0, 
+                2, 
+                0, 
+                3, 
+                2, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                4, 
+                6, 
+                4, 
+                6, 
+                4, 
+                4, 
+                0, 
+                0, 
+                2, 
+                0, 
+                0, 
+                0, 
+                4, 
+                0, 
+                0, 
+                2
+            ], 
+            "civic_json": null, 
+            "contributors": [
+                {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4000062?v=2", 
+                    "contributions": 20, 
+                    "link": "https://github.com/gemarcano", 
+                    "name": "gemarcano"
+                }, 
+                {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1148798?v=2", 
+                    "contributions": 16, 
+                    "link": "https://github.com/sbai", 
+                    "name": "sbai"
+                }, 
+                {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/5058998?v=2", 
+                    "contributions": 8, 
+                    "link": "https://github.com/BridgitD", 
+                    "name": "BridgitD"
+                }, 
+                {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/2334699?v=2", 
+                    "contributions": 7, 
+                    "link": "https://github.com/alexlyte", 
+                    "name": "alexlyte"
+                }, 
+                {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/3506636?v=2", 
+                    "contributions": 1, 
+                    "link": "https://github.com/DimeZilla", 
+                    "name": "DimeZilla"
+                }
+            ], 
+            "created_at": "2014-04-30T00:47:20Z", 
+            "description": "Analysis of emergency response data for Washington, DC.", 
+            "forks_count": 5, 
+            "homepage": "http://codefordc.github.io/ERDA/", 
+            "html_url": "https://github.com/codefordc/ERDA", 
+            "id": 19296315, 
+            "languages": {
+                "Python": 18697
+            }, 
+            "main_language": "Python", 
+            "name": "Emergency Response Times", 
+            "open_issues": 1, 
+            "owner": {
+                "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
+                "name": "codefordc", 
+                "type": "Organization", 
+                "url": "https://github.com/codefordc"
+            }, 
+            "pushed_at": "2014-08-19T01:15:25Z", 
+            "updated_at": "2014-08-19T01:11:25Z", 
+            "watchers_count": 3
         }
     ], 
     "tracked": [
@@ -1385,7 +1545,7 @@
             "ANC Finder": "https://github.com/codefordc/ancfinder"
         }, 
         {
-            "CaBi Odds": "https://github.com/codefordc/bikeshare-odds"
+            "CaBi Odds": "https://github.com/cmgiven/bikeshare-odds"
         }, 
         {
             "Education": "https://github.com/HarlanH/code-for-dc-edu"
@@ -1413,6 +1573,9 @@
         }, 
         {
             "Street Tree Map": "https://github.com/evonfriedland/tree-map"
+        }, 
+        {
+            "Emergency Response Times": "https://github.com/codefordc/ERDA"
         }
     ]
 }

@@ -23,7 +23,7 @@ for project in tracked:
         'description': r['description'],
         'homepage': r['homepage'],
         'html_url': r['html_url'],
-        'language': r['language'],
+        'main_language': r['language'],
         'watchers_count': r['watchers_count'],
         'forks_count': r['forks_count'],
         'open_issues': r['open_issues'],
@@ -54,6 +54,7 @@ for project in tracked:
         time.sleep(4)
         activity = requests.get(url+"/stats/participation", headers = headers).json()
         data['activity'] = activity['all']
+    data['languages'] = requests.get(url+"/languages", headers = headers).json()
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
     except ValueError:
