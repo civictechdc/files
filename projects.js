@@ -420,7 +420,6 @@ projects({
                 0, 
                 0, 
                 0, 
-                0, 
                 0
             ], 
             "civic_json": null, 
