@@ -157,12 +157,24 @@
             "homepage": "", 
             "html_url": "https://github.com/mlouie/dchousing-apps", 
             "id": 10896437, 
-            "languages": {
-                "CSS": 11368, 
-                "CoffeeScript": 2202, 
-                "JavaScript": 663, 
-                "Ruby": 76369
-            }, 
+            "languages": [
+                [
+                    "Ruby", 
+                    76369
+                ], 
+                [
+                    "CSS", 
+                    11368
+                ], 
+                [
+                    "CoffeeScript", 
+                    2202
+                ], 
+                [
+                    "JavaScript", 
+                    663
+                ]
+            ], 
             "main_language": "Ruby", 
             "name": "Affordable Housing", 
             "open_issues": 13, 
@@ -346,12 +358,24 @@
             "homepage": "http://ancfinder.org/", 
             "html_url": "https://github.com/codefordc/ancfinder", 
             "id": 8715969, 
-            "languages": {
-                "CSS": 11429, 
-                "JavaScript": 1992, 
-                "Python": 82262, 
-                "Shell": 3677
-            }, 
+            "languages": [
+                [
+                    "Python", 
+                    82262
+                ], 
+                [
+                    "CSS", 
+                    11429
+                ], 
+                [
+                    "Shell", 
+                    3677
+                ], 
+                [
+                    "JavaScript", 
+                    1992
+                ]
+            ], 
             "main_language": "Python", 
             "name": "ANC Finder", 
             "open_issues": 24, 
@@ -435,11 +459,20 @@
             "homepage": "", 
             "html_url": "https://github.com/cmgiven/bikeshare-odds", 
             "id": 12967944, 
-            "languages": {
-                "CSS": 14022, 
-                "JavaScript": 7807, 
-                "Ruby": 2941
-            }, 
+            "languages": [
+                [
+                    "CSS", 
+                    14022
+                ], 
+                [
+                    "JavaScript", 
+                    7807
+                ], 
+                [
+                    "Ruby", 
+                    2941
+                ]
+            ], 
             "main_language": "CSS", 
             "name": "CaBi Odds", 
             "open_issues": 3, 
@@ -565,12 +598,24 @@
             "homepage": null, 
             "html_url": "https://github.com/HarlanH/code-for-dc-edu", 
             "id": 10422703, 
-            "languages": {
-                "CSS": 1673, 
-                "JavaScript": 34180, 
-                "R": 9169, 
-                "Ruby": 914
-            }, 
+            "languages": [
+                [
+                    "JavaScript", 
+                    34180
+                ], 
+                [
+                    "R", 
+                    9169
+                ], 
+                [
+                    "CSS", 
+                    1673
+                ], 
+                [
+                    "Ruby", 
+                    914
+                ]
+            ], 
             "main_language": "JavaScript", 
             "name": "Education", 
             "open_issues": 28, 
@@ -733,10 +778,16 @@
             "homepage": "http://www.codefordc.org", 
             "html_url": "https://github.com/codefordc/codefordc-2.0", 
             "id": 11922700, 
-            "languages": {
-                "CSS": 12648, 
-                "JavaScript": 12522
-            }, 
+            "languages": [
+                [
+                    "CSS", 
+                    12648
+                ], 
+                [
+                    "JavaScript", 
+                    12522
+                ]
+            ], 
             "main_language": "CSS", 
             "name": "Code for DC Website", 
             "open_issues": 7, 
@@ -832,7 +883,7 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/code-of-conduct", 
             "id": 19926261, 
-            "languages": {}, 
+            "languages": [], 
             "main_language": null, 
             "name": "Code of Conduct", 
             "open_issues": 3, 
@@ -956,10 +1007,16 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/getting-started", 
             "id": 19888517, 
-            "languages": {
-                "Python": 33, 
-                "Ruby": 30
-            }, 
+            "languages": [
+                [
+                    "Python", 
+                    33
+                ], 
+                [
+                    "Ruby", 
+                    30
+                ]
+            ], 
             "main_language": "Python", 
             "name": "Code for DC Resources", 
             "open_issues": 4, 
@@ -1049,10 +1106,16 @@
             "homepage": "http://ajschumacher.github.io/dc_mayor_schedule/", 
             "html_url": "https://github.com/ajschumacher/dc_mayor_schedule", 
             "id": 12283697, 
-            "languages": {
-                "JavaScript": 4860, 
-                "Python": 2213
-            }, 
+            "languages": [
+                [
+                    "JavaScript", 
+                    4860
+                ], 
+                [
+                    "Python", 
+                    2213
+                ]
+            ], 
             "main_language": "JavaScript", 
             "name": "Mayor's Schedule Archive", 
             "open_issues": 0, 
@@ -1136,7 +1199,7 @@
             "homepage": null, 
             "html_url": "https://github.com/pgehred/Wikipolicy", 
             "id": 12904042, 
-            "languages": {}, 
+            "languages": [], 
             "main_language": null, 
             "name": "Wikipolicy", 
             "open_issues": 0, 
@@ -1232,10 +1295,16 @@
             "homepage": null, 
             "html_url": "https://github.com/codefordc/open211", 
             "id": 10441030, 
-            "languages": {
-                "CSS": 11944, 
-                "JavaScript": 48
-            }, 
+            "languages": [
+                [
+                    "CSS", 
+                    11944
+                ], 
+                [
+                    "JavaScript", 
+                    48
+                ]
+            ], 
             "main_language": "CSS", 
             "name": "Open 211", 
             "open_issues": 2, 
@@ -1319,11 +1388,20 @@
             "homepage": null, 
             "html_url": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
             "id": 12226830, 
-            "languages": {
-                "CSS": 5770, 
-                "Python": 546680, 
-                "Shell": 1568
-            }, 
+            "languages": [
+                [
+                    "Python", 
+                    546680
+                ], 
+                [
+                    "CSS", 
+                    5770
+                ], 
+                [
+                    "Shell", 
+                    1568
+                ]
+            ], 
             "main_language": "Python", 
             "name": "Metro Metrics", 
             "open_issues": 3, 
@@ -1407,9 +1485,12 @@
             "homepage": null, 
             "html_url": "https://github.com/evonfriedland/tree-map", 
             "id": 14220687, 
-            "languages": {
-                "R": 9737
-            }, 
+            "languages": [
+                [
+                    "R", 
+                    9737
+                ]
+            ], 
             "main_language": "R", 
             "name": "Street Tree Map", 
             "open_issues": 0, 
@@ -1517,9 +1598,12 @@
             "homepage": "http://codefordc.github.io/ERDA/", 
             "html_url": "https://github.com/codefordc/ERDA", 
             "id": 19296315, 
-            "languages": {
-                "Python": 18697
-            }, 
+            "languages": [
+                [
+                    "Python", 
+                    18697
+                ]
+            ], 
             "main_language": "Python", 
             "name": "Emergency Response Times", 
             "open_issues": 1, 
