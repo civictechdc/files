@@ -1,4 +1,4 @@
-import json, requests, os, time
+import json, requests, os, time, operator
 
 path = os.path.dirname(os.path.realpath(__file__))
 
@@ -54,7 +54,8 @@ for project in tracked:
         time.sleep(4)
         activity = requests.get(url+"/stats/participation", headers = headers).json()
         data['activity'] = activity['all']
-    data['languages'] = requests.get(url+"/languages", headers = headers).json()
+    languages = requests.get(url+"/languages", headers = headers).json()
+    data['languages'] = sorted(languages.iteritems(), key=operator.itemgetter(1), reverse=True)
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
     except ValueError:
