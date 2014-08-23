@@ -1089,7 +1089,7 @@ projects({
             "contributors": [
                 {
                     "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                    "contributions": 318, 
+                    "contributions": 319, 
                     "link": "https://github.com/ajschumacher", 
                     "name": "ajschumacher"
                 }, 
