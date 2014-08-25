@@ -1404,7 +1404,7 @@ projects({
             ], 
             "main_language": "Python", 
             "name": "Metro Metrics", 
-            "open_issues": 3, 
+            "open_issues": 5, 
             "owner": {
                 "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
                 "name": "LeeMendelowitz", 
