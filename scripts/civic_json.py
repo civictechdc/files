@@ -6,6 +6,7 @@ tracked = path + '/../tracked.json'
 file_name = path + '/../projects.json'
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
+# Load in the projects we're tracking
 tracked = json.loads(open(tracked).read())
 
 output = []
