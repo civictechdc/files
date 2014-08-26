@@ -159,15 +159,19 @@
         "languages": [
             [
                 "Ruby", 
-                76369
+                76442
             ], 
             [
                 "CSS", 
                 11368
             ], 
             [
+                "Puppet", 
+                5220
+            ], 
+            [
                 "CoffeeScript", 
-                2202
+                2339
             ], 
             [
                 "JavaScript", 
@@ -176,14 +180,14 @@
         ], 
         "main_language": "Ruby", 
         "name": "Affordable Housing", 
-        "open_issues": 13, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1302023?v=2", 
             "name": "mlouie", 
             "type": "User", 
             "url": "https://github.com/mlouie"
         }, 
-        "pushed_at": "2014-08-17T17:01:57Z", 
+        "pushed_at": "2014-08-26T23:01:54Z", 
         "updated_at": "2014-08-17T15:10:05Z", 
         "watchers_count": 8
     }, 
@@ -796,7 +800,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-08-21T12:12:34Z", 
+        "pushed_at": "2014-08-26T22:05:55Z", 
         "updated_at": "2014-08-14T20:21:53Z", 
         "watchers_count": 13
     }, 
@@ -1031,14 +1035,14 @@
     }, 
     {
         "activity": [
-            10, 
-            14, 
+            5, 
+            15, 
             6, 
             7, 
             7, 
             7, 
-            6, 
-            6, 
+            5, 
+            7, 
             7, 
             7, 
             6, 
@@ -1048,41 +1052,41 @@
             7, 
             7, 
             6, 
-            1, 
             0, 
+            1, 
             4, 
             5, 
             7, 
             10, 
             6, 
-            3, 
-            5, 
-            6, 
-            4, 
-            5, 
+            2, 
             6, 
             6, 
             4, 
+            5, 
+            6, 
+            5, 
+            5, 
             6, 
             5, 
             7, 
-            5, 
-            5, 
-            7, 
-            5, 
             4, 
+            6, 
+            7, 
+            4, 
+            5, 
             7, 
             29, 
-            11, 
+            10, 
+            5, 
+            5, 
             4, 
             5, 
+            9, 
+            5, 
+            6, 
             4, 
-            6, 
-            8, 
-            6, 
-            5, 
-            5, 
-            5
+            6
         ], 
         "civic_json": null, 
         "contributors": [
