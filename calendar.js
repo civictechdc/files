@@ -256,7 +256,7 @@ projects([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 11
     }, 
     {
         "created": 1404748848000, 
@@ -393,7 +393,7 @@ projects([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 51
+        "yes_rsvp_count": 50
     }, 
     {
         "created": 1407614349000, 
@@ -432,7 +432,7 @@ projects([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 385
+        "yes_rsvp_count": 387
     }, 
     {
         "created": 1408548417000, 
