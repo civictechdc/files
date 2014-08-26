@@ -2,12 +2,11 @@ import json, requests, os, time, operator
 
 path = os.path.dirname(os.path.realpath(__file__))
 
-tracked = path + '/../tracked.json'
-file_name = path + '/../projects.json'
+# Load
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
 # Load in the projects we're tracking
-tracked = json.loads(open(tracked).read())
+tracked = json.loads(open(path + '/../tracked.json').read())
 
 output = []
 
@@ -16,7 +15,7 @@ for project in tracked:
         name = key
         link = value
     url = link.replace('github.com','api.github.com/repos')
-    headers = {'Authorization': 'token 3f446009ac6bab1385940a7808f6edd22a0e49c4'}
+    headers = {'Authorization': 'token '+GITHUB_TOKEN}
     r = requests.get(url, headers = headers).json()
     print r
     data = {
@@ -68,7 +67,7 @@ for project in tracked:
 
 output = json.dumps(output, sort_keys=True, indent=4)
 
-with open(file_name, 'w') as f:
+with open(path + '/../projects.json', 'w') as f:
     f.write(output)
 
 jsonp = "projects(" + output + ")"
