@@ -1,27 +1,27 @@
 [
     {
         "activity": [
-            7, 
-            19, 
+            17, 
+            9, 
             0, 
             1, 
             2, 
-            2, 
-            3, 
-            16, 
-            8, 
-            7, 
-            3, 
-            3, 
-            0, 
-            8, 
             5, 
             2, 
+            14, 
+            13, 
+            3, 
+            4, 
+            1, 
             0, 
             8, 
-            14, 
+            7, 
+            0, 
+            0, 
+            20, 
             3, 
             9, 
+            2, 
             3, 
             4, 
             2, 
@@ -30,29 +30,29 @@
             11, 
             0, 
             0, 
+            2, 
+            8, 
             0, 
-            4, 
-            6, 
             1, 
             4, 
-            0, 
-            32, 
+            2, 
+            31, 
             1, 
-            13, 
-            7, 
+            16, 
+            4, 
             18, 
-            15, 
-            99, 
-            56, 
-            37, 
-            5, 
+            30, 
+            89, 
+            59, 
+            30, 
+            3, 
             12, 
             0, 
             1, 
             0, 
-            0, 
             1, 
-            0
+            9, 
+            5
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -91,9 +91,15 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=2", 
-                "contributions": 49, 
+                "contributions": 56, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=2", 
+                "contributions": 17, 
+                "link": "https://github.com/lankyfrenchman", 
+                "name": "lankyfrenchman"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4029733?v=2", 
@@ -102,28 +108,28 @@
                 "name": "ouzy"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=2", 
-                "contributions": 16, 
-                "link": "https://github.com/lankyfrenchman", 
-                "name": "lankyfrenchman"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=2", 
                 "contributions": 15, 
                 "link": "https://github.com/shiftyp", 
                 "name": "shiftyp"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=2", 
+                "contributions": 7, 
+                "link": "https://github.com/MikeyBurkman", 
+                "name": "MikeyBurkman"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=2", 
+                "contributions": 6, 
+                "link": "https://github.com/mepps", 
+                "name": "mepps"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
                 "name": "mpeteuil"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=2", 
-                "contributions": 3, 
-                "link": "https://github.com/mepps", 
-                "name": "mepps"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=2", 
@@ -159,7 +165,7 @@
         "languages": [
             [
                 "Ruby", 
-                76442
+                78372
             ], 
             [
                 "CSS", 
@@ -187,27 +193,27 @@
             "type": "User", 
             "url": "https://github.com/mlouie"
         }, 
-        "pushed_at": "2014-08-26T23:01:54Z", 
+        "pushed_at": "2014-08-27T00:45:21Z", 
         "updated_at": "2014-08-17T15:10:05Z", 
         "watchers_count": 8
     }, 
     {
         "activity": [
-            6, 
-            6, 
-            3, 
-            9, 
+            5, 
+            8, 
             0, 
             9, 
-            12, 
-            16, 
-            0, 
-            13, 
+            1, 
+            8, 
+            17, 
+            11, 
+            5, 
+            8, 
             0, 
             0, 
             1, 
-            11, 
             15, 
+            11, 
             9, 
             0, 
             0, 
@@ -218,8 +224,8 @@
             20, 
             5, 
             2, 
-            10, 
-            4, 
+            13, 
+            1, 
             12, 
             1, 
             0, 
@@ -236,13 +242,13 @@
             5, 
             0, 
             0, 
-            0, 
-            6, 
-            6, 
-            0, 
+            4, 
+            2, 
             6, 
             3, 
-            5, 
+            3, 
+            4, 
+            4, 
             5, 
             1
         ], 
@@ -397,17 +403,17 @@
             0, 
             0, 
             0, 
-            7, 
+            8, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            5, 
+            4, 
             2, 
             0, 
             0, 
@@ -432,8 +438,8 @@
             0, 
             0, 
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -492,13 +498,13 @@
     {
         "activity": [
             0, 
-            14, 
-            9, 
+            15, 
+            8, 
             13, 
             9, 
             15, 
-            11, 
-            11, 
+            14, 
+            8, 
             0, 
             5, 
             0, 
@@ -721,6 +727,12 @@
                 "name": "mattbailey0"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                "contributions": 17, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/justgrimes", 
@@ -731,12 +743,6 @@
                 "contributions": 7, 
                 "link": "https://github.com/leahbannon", 
                 "name": "leahbannon"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 6, 
-                "link": "https://github.com/stvnrlly", 
-                "name": "stvnrlly"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=2", 
@@ -763,6 +769,12 @@
                 "name": "konklone"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/JoshData", 
+                "name": "JoshData"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/leah-lib", 
@@ -777,14 +789,14 @@
         ], 
         "created_at": "2013-08-06T11:45:40Z", 
         "description": "The current Code for DC website", 
-        "forks_count": 18, 
+        "forks_count": 19, 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc-2.0", 
         "id": 11922700, 
         "languages": [
             [
                 "CSS", 
-                12648
+                13314
             ], 
             [
                 "JavaScript", 
@@ -793,15 +805,15 @@
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 7, 
+        "open_issues": 6, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-08-26T22:05:55Z", 
-        "updated_at": "2014-08-14T20:21:53Z", 
+        "pushed_at": "2014-08-27T03:25:19Z", 
+        "updated_at": "2014-08-27T00:54:45Z", 
         "watchers_count": 13
     }, 
     {
@@ -843,9 +855,9 @@
             0, 
             0, 
             0, 
-            5, 
-            3, 
-            3, 
+            6, 
+            4, 
+            1, 
             0, 
             0, 
             0, 
@@ -993,7 +1005,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 19, 
+                "contributions": 20, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1006,7 +1018,7 @@
         ], 
         "created_at": "2014-05-17T14:31:30Z", 
         "description": "How to do all things Code for DC", 
-        "forks_count": 2, 
+        "forks_count": 3, 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/getting-started", 
         "id": 19888517, 
@@ -1029,7 +1041,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-08-17T12:58:00Z", 
+        "pushed_at": "2014-08-27T00:40:43Z", 
         "updated_at": "2014-08-13T18:37:07Z", 
         "watchers_count": 2
     }, 
@@ -1136,8 +1148,8 @@
         "activity": [
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -1248,8 +1260,8 @@
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1407,14 +1419,14 @@
         ], 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
             "name": "LeeMendelowitz", 
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2014-08-26T12:38:21Z", 
+        "pushed_at": "2014-08-27T04:14:46Z", 
         "updated_at": "2014-05-26T20:14:13Z", 
         "watchers_count": 12
     }, 
@@ -1432,8 +1444,8 @@
             0, 
             7, 
             4, 
-            0, 
-            7, 
+            2, 
+            5, 
             0, 
             0, 
             1, 
@@ -1539,28 +1551,28 @@
             3, 
             2, 
             0, 
-            0, 
             1, 
             0, 
-            1, 
             0, 
+            1, 
+            2, 
+            3, 
+            5, 
             4, 
-            6, 
-            4, 
-            6, 
-            4, 
+            8, 
+            2, 
             4, 
             0, 
             0, 
             2, 
             0, 
             0, 
-            0, 
-            4, 
-            0, 
-            0, 
             2, 
-            1
+            2, 
+            0, 
+            0, 
+            3, 
+            0
         ], 
         "civic_json": null, 
         "contributors": [
