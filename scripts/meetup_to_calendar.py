@@ -22,7 +22,7 @@ output = json.dumps(output, sort_keys=True, indent=4)
 with open(path + '/../calendar.json', 'w') as f:
     f.write(output)
 
-jsonp = "projects(" + output + ")"
+jsonp = "calendar(" + output + ")"
 
 with open(path + '/../calendar.js', 'w') as f:
     f.write(jsonp)
