@@ -805,7 +805,7 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 2, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
