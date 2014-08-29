@@ -34,7 +34,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 27
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1406234785000, 
@@ -182,7 +182,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 32
+        "yes_rsvp_count": 34
     }, 
     {
         "created": 1404746991000, 
@@ -320,45 +320,6 @@ calendar([
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 1
-    }, 
-    {
-        "created": 1407614349000, 
-        "description": "<p>For our August Meetup, we're thrilled to have <a href=\"http://ben.klemens.org/\">Dr. Ben Klemens</a> from the US Census Bureau talking about statistical models that tell stories. Rather than simply scaling up simple models, or throwing horsepower at black boxes, Ben prefers to estimate and test models whose structure reflects theories about the world and how people make decisions. In <a href=\"http://www.census.gov/srd/papers/pdf/rrs2014-06.pdf\">a recent article</a>, he developed a formal algebraic system of statistical models that makes it easier to define and fit complex models to data. And in a related <a href=\"http://apophenia.info/\">software package</a>, he can compare and combine models from genres including linear models, Bayesian hierarchies, and microsimulations. If you're interested in new ways to build useful, insightful, descriptive statistical models, you should definitely attend!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>Social scientists develop nuanced, rich narratives. But when turning those narratives into testable models, a great deal is lost, leaving linear models or simple combinations of distributions. Can we do better? This talk will discuss the development of an algebraic system of models that provides a well-defined space of models, and transformations and combinations of models. This allows a researcher to develop descriptive models that mirror the narrative. Because even complex models have a standard form, they can be parameterized, estimated with data, and tested.</p> <p><br/><b>Bio:</b></p> <p>Ben Klemens has been doing statistical analysis and computationally intensive modeling of populations ever since getting his Ph.D. in Social Sciences from Caltech. He has written agent-based models and microsimulations for the Brookings Institution and the World Bank, and done statistical analyses with the National Institute of Mental Health and the US Census Bureau (where he currently works in the research division). He wrote a book on Modeling with Data, and was on the Kojo Nnamdi show. As a nonresident fellow at Brookings and with the Free Software Foundation, he has done work on ensuring that creative authors retain the right to use the software they write. Follow <a href=\"http://modelingwithdata.org/\">his blog</a> or his <a href=\"https://twitter.com/b__k\">Twitter account</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"https://www.ibm.com/ascdc\">IBM Analytics Solution Center</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Data-Science-DC/events/199998422/", 
-        "group": {
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.019996643066406, 
-            "id": 2215331, 
-            "join_mode": "open", 
-            "name": "Data Science DC", 
-            "urlname": "Data-Science-DC", 
-            "who": "Data Scientists"
-        }, 
-        "headcount": 0, 
-        "id": "199998422", 
-        "maybe_rsvp_count": 0, 
-        "name": "Transforming and Combining Statistical Models", 
-        "rsvp_limit": 550, 
-        "status": "upcoming", 
-        "time": 1409265000000, 
-        "updated": 1407680279000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "2201 G St. NW", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 13300352, 
-            "lat": 38.898952000000001, 
-            "lon": -77.048942999999994, 
-            "name": "GWU, Funger Hall, Room 108", 
-            "repinned": false, 
-            "state": "DC", 
-            "zip": "20052"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 409
     }, 
     {
         "created": 1408548417000, 
