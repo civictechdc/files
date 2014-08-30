@@ -1,4 +1,4 @@
-import json, requests, os, time, operator
+import json, requests, os, time, operator, validictory
 
 path = os.path.dirname(os.path.realpath(__file__))
 
@@ -10,6 +10,68 @@ tracked = json.loads(open(path + '/../tracked.json').read())
 
 output = []
 
+# Create schema for JSON validation
+schema = {
+    "type":"object",
+    "properties":{
+        "status":{
+            "type":"string",
+            "blank":True
+        },
+        "thumbnailUrl":{
+            "type":"string",
+            "blank":True
+        },
+        "contact":{
+            "type":"object",
+            "properties":{
+                "name":{
+                    "type":"string",
+                    "blank":True
+                },
+                "email":{
+                    "type":"string",
+                    "blank":True
+                },
+                "twitter":{
+                    "type":"string",
+                    "blank":True
+                }
+            }
+        },
+        "bornAt":{
+            "type":"string"
+        },
+        "geography":{
+            "type":"string",
+            "pattern":"^Washington, DC$"
+        },
+        "politicalEntity":{
+            "type":"object"
+        },
+        "governmentPartner":{
+            "type":"object"
+        },
+        "communityPartner":{
+            "type":"object"
+        },
+        "type":{
+            "type":"string",
+            "blank":"True"
+        },
+        "needs":{
+            "type":"array"
+        },
+        "categories":{
+            "type":"array"
+        },
+        "moreInfo":{
+            "type":"string",
+            "blank":True
+        }
+    }
+}
+
 for project in tracked:
     for key, value in project.items():
         name = key
@@ -17,7 +79,6 @@ for project in tracked:
     url = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token '+GITHUB_TOKEN}
     r = requests.get(url, headers = headers).json()
-    print r
     data = {
         'id': r['id'],
         'name': r['name'],
@@ -59,6 +120,13 @@ for project in tracked:
     data['languages'] = sorted(languages.iteritems(), key=operator.itemgetter(1), reverse=True)
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
+        try:
+            validictory.validate(civic,schema)
+        except ValueError, error:
+            print error
+            print civic
+            print "\n\n"
+#            civic = None
     except ValueError:
         civic = None
     data['civic_json'] = civic
