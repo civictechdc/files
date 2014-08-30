@@ -357,11 +357,11 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 46
+        "yes_rsvp_count": 52
     }, 
     {
         "created": 1408392086000, 
-        "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomolies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
+        "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -379,7 +379,7 @@ calendar([
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1412287200000, 
-        "updated": 1408905160000, 
+        "updated": 1409359301000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -395,7 +395,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 17
+        "yes_rsvp_count": 18
     }, 
     {
         "created": 1407622606000, 
