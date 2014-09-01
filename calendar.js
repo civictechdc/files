@@ -34,7 +34,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 29
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1406234785000, 
@@ -167,22 +167,22 @@ calendar([
         "name": "#LegalHack CopyNight", 
         "status": "upcoming", 
         "time": 1409785200000, 
-        "updated": 1409168202000, 
+        "updated": 1409540605000, 
         "utc_offset": -14400000, 
         "venue": {
-            "address_1": "600 New Jersey Avenue, NW ", 
+            "address_1": "600 New Jersey Avenue", 
             "city": "Washington", 
             "country": "us", 
-            "id": 19790922, 
+            "id": 22106532, 
             "lat": 38.898173999999997, 
             "lon": -77.012237999999996, 
-            "name": "McDonough Hall, Room 200  Georgetown University Law Center ", 
+            "name": "McDonough Hall, Room 520", 
             "repinned": false, 
             "state": "DC"
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 37
+        "yes_rsvp_count": 39
     }, 
     {
         "created": 1404746991000, 
@@ -256,7 +256,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1404748918000, 
@@ -357,7 +357,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 51
+        "yes_rsvp_count": 92
     }, 
     {
         "created": 1408548417000, 
@@ -395,7 +395,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 53
+        "yes_rsvp_count": 55
     }, 
     {
         "created": 1408392086000, 
