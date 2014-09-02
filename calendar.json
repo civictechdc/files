@@ -71,7 +71,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 11
     }, 
     {
         "created": 1406234837000, 
@@ -108,7 +108,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1406234864000, 
@@ -145,7 +145,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1404746039000, 
@@ -182,7 +182,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 42
+        "yes_rsvp_count": 41
     }, 
     {
         "created": 1404746991000, 
@@ -219,7 +219,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 10
     }, 
     {
         "created": 1404748848000, 
@@ -256,7 +256,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 11
     }, 
     {
         "created": 1404748918000, 
@@ -322,6 +322,43 @@
         "yes_rsvp_count": 1
     }, 
     {
+        "created": 1409686195000, 
+        "description": "<p>Hack and Tell will be at WeWork Chinatown again in September! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like 3d-printing aluminum parts]. Show us what you\u2019ve got! But remember: no startup pitches, dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+        "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/204722772/", 
+        "group": {
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 7361532, 
+            "join_mode": "open", 
+            "name": "DC Hack and Tell", 
+            "urlname": "DC-Hack-and-Tell", 
+            "who": "Hackers"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "by the couch!", 
+        "id": "204722772", 
+        "maybe_rsvp_count": 0, 
+        "name": "Round 13: Triskaidekaphilia", 
+        "status": "upcoming", 
+        "time": 1412118000000, 
+        "updated": 1409686195000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "718 7th St NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 19047832, 
+            "lat": 38.899109000000003, 
+            "lon": -77.022223999999994, 
+            "name": "WeWork Chinatown", 
+            "repinned": false, 
+            "state": "DC"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 20
+    }, 
+    {
         "created": 1409428206000, 
         "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Eight members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and interesting tools, all in bite-sized packages. We guarantee a great time!</p> <p>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!</p> <p><br/>The room location and speaker list are TBA -- please check back here soon for those details.</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There may be <i>hors d'</i><i>oeuvres</i>, or something else\u00a0-- we'll let you know soon.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Refreshments <i>TBA</i></p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Speakers:</b></p> <p><i>watch this space!</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
         "duration": 7200000, 
@@ -357,7 +394,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 112
+        "yes_rsvp_count": 118
     }, 
     {
         "created": 1408548417000, 
