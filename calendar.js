@@ -34,7 +34,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 33
+        "yes_rsvp_count": 36
     }, 
     {
         "created": 1406234785000, 
@@ -357,7 +357,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 107
+        "yes_rsvp_count": 112
     }, 
     {
         "created": 1408548417000, 
@@ -395,7 +395,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 55
+        "yes_rsvp_count": 57
     }, 
     {
         "created": 1408392086000, 
@@ -437,7 +437,7 @@ calendar([
     }, 
     {
         "created": 1407622606000, 
-        "description": "<p>We had a blast at our last Bike Hack Night in May, so we're doing it again in November. We're looking for folks who can demo cool bike-related apps or data visualizations. Or if you have a \u00a0cool data-generating bike gadget, that's good too.</p> <p>\u2022 Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022 Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>We'll post additional speakers as they get scheduled. Other than CaBi, what other sorts of bike-related data is out there?\u00a0If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -455,7 +455,7 @@ calendar([
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1415314800000, 
-        "updated": 1409255289000, 
+        "updated": 1409676395000, 
         "utc_offset": -18000000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -471,7 +471,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 24
+        "yes_rsvp_count": 25
     }, 
     {
         "created": 1407908606000, 
