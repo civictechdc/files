@@ -34,7 +34,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 36
+        "yes_rsvp_count": 37
     }, 
     {
         "created": 1406234785000, 
@@ -71,7 +71,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1406234837000, 
@@ -108,7 +108,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1406234864000, 
@@ -149,7 +149,7 @@ calendar([
     }, 
     {
         "created": 1404746039000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us on Tuesday, September 3, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/a/c/4/600_397326852.jpeg\" /></p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p><br/>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Discussion, co-lead by:</p> <p>\u2022 <a href=\"http://alisternburg.com/about/\">Ali Sternburg</a>,\u00a0Public Policy &amp; Regulatory Counsel\u00a0at the Computer &amp; Communications Industry Association (CCIA)<a href=\"https://twitter.com/CCIAnet\">&lt;/a&gt;</p> <p><br/>\u2022 &lt;a href=\"http://tushnet.com/about/\"&gt;Rebecca Tushnet</a>, Professor of Law at Georgetown Law School, teaching\u00a0intellectual property, advertising law, and First Amendment law.</p> <p>\u2022\u00a0<a href=\"http://cei.org/expert/ryan-radia\">Ryan Radia</a>,\u00a0Associate Director of Technology Studies of Competitive Enterprise Institute\u00a0</p> <p><br/>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us on Tuesday, September 3, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/a/c/4/600_397326852.jpeg\" /></p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p><br/>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Discussion, co-lead by:</p> <p>\u2022 <a href=\"http://alisternburg.com/about/\">Ali Sternburg</a>,\u00a0Public Policy &amp; Regulatory Counsel\u00a0at the Computer &amp; Communications Industry Association (CCIA)<a href=\"https://twitter.com/CCIAnet\">&lt;/a&gt;</p> <p><br/>\u2022 &lt;a href=\"http://tushnet.com/about/\"&gt;Rebecca Tushnet</a>, Professor of Law at Georgetown Law School, teaching\u00a0intellectual property, advertising law, and First Amendment law.</p> <p>\u2022\u00a0<a href=\"http://cei.org/expert/ryan-radia\">Ryan Radia</a>,\u00a0Associate Director of Technology Studies of Competitive Enterprise Institute\u00a0</p> <p><br/>\u2022 <a href=\"http://re.vu/Khanna\">Derek\u00a0Satya Khanna</a>,\u00a0Technology Consultant and Yale Law Fellow with the Information Society Project</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193489092/", 
         "group": {
@@ -167,7 +167,7 @@ calendar([
         "name": "#LegalHack CopyNight", 
         "status": "upcoming", 
         "time": 1409785200000, 
-        "updated": 1409540605000, 
+        "updated": 1409762269000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "600 New Jersey Avenue", 
@@ -182,7 +182,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 41
+        "yes_rsvp_count": 40
     }, 
     {
         "created": 1404746991000, 
@@ -394,7 +394,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 123
+        "yes_rsvp_count": 129
     }, 
     {
         "created": 1408548417000, 
@@ -432,7 +432,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 57
+        "yes_rsvp_count": 56
     }, 
     {
         "created": 1408392086000, 

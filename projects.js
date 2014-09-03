@@ -158,7 +158,7 @@ projects([
         ], 
         "created_at": "2013-06-24T02:05:03Z", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
-        "forks_count": 22, 
+        "forks_count": 23, 
         "homepage": "", 
         "html_url": "https://github.com/mlouie/dchousing-apps", 
         "id": 10896437, 
@@ -186,7 +186,7 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "Affordable Housing", 
-        "open_issues": 11, 
+        "open_issues": 12, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1302023?v=2", 
             "name": "mlouie", 
