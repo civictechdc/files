@@ -356,11 +356,11 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 143
+        "yes_rsvp_count": 145
     }, 
     {
         "created": 1408548417000, 
-        "description": "<p>For September, we'll be discussing three tech projects and their impact on local transportation issues.</p> <p>\u2022\u00a0Nick Ramfos of <a href=\"http://www.mwcog.org/\">MWCOG</a> will show us their new <a href=\"http://www.commuterconnections.org/\">Commuter Connections</a> app which helps you find carpool partners, locate park-and-ride lots, and access other tools to find easier, less expensive ways to get to work.</p> <p>\u2022\u00a0Stephanie Nguyen of <a href=\"http://silicalabs.com/\">Silica Labs</a> will preview their upcoming \"Landmark\" app, which helps people navigate streets using landmarks rather than traditional maps.</p> <p><br/>\u2022\u00a0Lou Huang will show us <a href=\"http://streetmix.net/\">streetmix</a>, a project he worked on as a <a href=\"http://www.codeforamerica.org/\">Code for America</a> fellow, and introduce us to a related Code for America project, <a href=\"http://www.transitmix.net/\">transitmix</a>.</p>", 
+        "description": "<p>For September, we'll be discussing three tech projects and their impact on local transportation issues. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. The lobby entrance is on Oak St. The revolving doors might be locked, but the doors beside them should remain unlocked all night. Mobility Lab is on the 11th floor.</p> <p>\u2022\u00a0Nick Ramfos of <a href=\"http://www.mwcog.org/\">MWCOG</a> will show us their new <a href=\"http://www.commuterconnections.org/\">Commuter Connections</a> app which helps you find carpool partners, locate park-and-ride lots, and access other tools to find easier, less expensive ways to get to work.</p> <p>\u2022\u00a0Stephanie Nguyen of <a href=\"http://silicalabs.com/\">Silica Labs</a> will preview their upcoming \"Landmark\" app, which helps people navigate streets using landmarks rather than traditional maps.</p> <p><br/>\u2022\u00a0Lou Huang will show us <a href=\"http://streetmix.net/\">streetmix</a>, a project he worked on as a <a href=\"http://www.codeforamerica.org/\">Code for America</a> fellow, and introduce us to a related Code for America project, <a href=\"http://www.transitmix.net/\">transitmix</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/202085172/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -378,7 +378,7 @@
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1409868000000, 
-        "updated": 1408851293000, 
+        "updated": 1409854123000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -394,7 +394,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 57
+        "yes_rsvp_count": 58
     }, 
     {
         "created": 1408392086000, 
@@ -432,7 +432,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 19
+        "yes_rsvp_count": 21
     }, 
     {
         "created": 1407622606000, 
@@ -470,7 +470,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 25
+        "yes_rsvp_count": 27
     }, 
     {
         "created": 1407908606000, 
@@ -508,6 +508,6 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 12
     }
 ]
