@@ -182,7 +182,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1404748848000, 
@@ -319,11 +319,11 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 24
+        "yes_rsvp_count": 25
     }, 
     {
         "created": 1409428206000, 
-        "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Eight members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and interesting tools, all in bite-sized packages. We guarantee a great time!</p> <p>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!</p> <p><br/>The room location and speaker list are TBA -- please check back here soon for those details.</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There may be <i>hors d'</i><i>oeuvres</i>, or something else\u00a0-- we'll let you know soon.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Refreshments <i>TBA</i></p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Speakers:</b></p> <p><i>watch this space!</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
+        "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Eight members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and interesting tools, all in bite-sized packages. We guarantee a great time!</p> <p>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!</p> <p><br/>The speaker list is TBA -- please check back here soon for those details.</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There may be <i>hors d'</i><i>oeuvres</i>, or something else\u00a0-- we'll let you know soon.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Refreshments <i>TBA</i></p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Speakers:</b></p> <p>\n\n<i>watch this space!</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/Data-Science-DC/events/204142852/", 
         "group": {
@@ -341,23 +341,22 @@
         "name": "Lightning Talks! (III)", 
         "status": "upcoming", 
         "time": 1410822000000, 
-        "updated": 1409428206000, 
+        "updated": 1409845353000, 
         "utc_offset": -14400000, 
         "venue": {
-            "address_1": "1000 H St NW", 
+            "address_1": "1000 H St. NW", 
             "city": "Washington", 
             "country": "us", 
-            "id": 758023, 
-            "lat": 38.899717000000003, 
-            "lon": -77.026498000000004, 
-            "name": "Grand Hyatt Washington ", 
+            "id": 22180872, 
+            "lat": 38.913868000000001, 
+            "lon": -77.026176000000007, 
+            "name": "Grand Hyatt Washington, Constitution B", 
             "repinned": false, 
-            "state": "DC", 
-            "zip": "20001"
+            "state": "DC"
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 138
+        "yes_rsvp_count": 143
     }, 
     {
         "created": 1408548417000, 
@@ -395,7 +394,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 55
+        "yes_rsvp_count": 57
     }, 
     {
         "created": 1408392086000, 
@@ -433,11 +432,11 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 18
+        "yes_rsvp_count": 19
     }, 
     {
         "created": 1407622606000, 
-        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022 <a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.</p> <p><br/>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.</p> <p><br/>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a> will talk about their model of dockless bikesharing.</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -455,7 +454,7 @@
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1415314800000, 
-        "updated": 1409793936000, 
+        "updated": 1409845572000, 
         "utc_offset": -18000000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
