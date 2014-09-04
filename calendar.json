@@ -34,7 +34,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 37
+        "yes_rsvp_count": 38
     }, 
     {
         "created": 1406234785000, 
@@ -148,43 +148,6 @@
         "yes_rsvp_count": 8
     }, 
     {
-        "created": 1404746039000, 
-        "description": "<p><b>Discussion begins at 7:30!</b></p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us on Tuesday, September 3, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/a/c/4/600_397326852.jpeg\" /></p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p><br/>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Discussion, co-lead by:</p> <p>\u2022 <a href=\"http://alisternburg.com/about/\">Ali Sternburg</a>,\u00a0Public Policy &amp; Regulatory Counsel\u00a0at the Computer &amp; Communications Industry Association (CCIA)<a href=\"https://twitter.com/CCIAnet\">&lt;/a&gt;</p> <p><br/>\u2022 &lt;a href=\"http://tushnet.com/about/\"&gt;Rebecca Tushnet</a>, Professor of Law at Georgetown Law School, teaching\u00a0intellectual property, advertising law, and First Amendment law.</p> <p>\u2022\u00a0<a href=\"http://cei.org/expert/ryan-radia\">Ryan Radia</a>,\u00a0Associate Director of Technology Studies of Competitive Enterprise Institute\u00a0</p> <p><br/>\u2022 <a href=\"http://re.vu/Khanna\">Derek\u00a0Satya Khanna</a>,\u00a0Technology Consultant and Yale Law Fellow with the Information Society Project</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><b>Get to Rm 520 via the 600 New Jersey Ave Entrance.</b></p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/DCLegalHackers/events/193489092/", 
-        "group": {
-            "group_lat": 38.919998168945312, 
-            "group_lon": -77.040000915527344, 
-            "id": 9201422, 
-            "join_mode": "open", 
-            "name": "DCLegalHackers", 
-            "urlname": "DCLegalHackers", 
-            "who": "Legal Hackers"
-        }, 
-        "headcount": 0, 
-        "id": "193489092", 
-        "maybe_rsvp_count": 0, 
-        "name": "#LegalHack CopyNight", 
-        "status": "upcoming", 
-        "time": 1409785200000, 
-        "updated": 1409786306000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "600 New Jersey Avenue", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 22106532, 
-            "lat": 38.898173999999997, 
-            "lon": -77.012237999999996, 
-            "name": "McDonough Hall, Room 520", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 42
-    }, 
-    {
         "created": 1404746991000, 
         "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Citation Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Access to Justice) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>PRIMARY ISSUE STATEMENT:\u00a0\u00a0Improving legal citation through hyperlinks!</p> <p>SCHEDULE:\u00a0</p> <p>9:30-10 Breakfast</p> <p>10 Github 101</p> <p>10:30 Citation 101</p> <p>11 Presenting the Access to Justice problem &amp; team forming*</p> <p>11-4:00 Hacking\u00a0with lunch.</p> <p>4:00 Presentations,\u00a0discussion, and next steps.\u00a0</p> <p><i>After: drinks, pats on backs, better linked citations</i></p> <p>* * * * * * * *</p> <p>*For those inclined, we have also outlined a few alternative tracks:</p> <p>\u2022\u00a0<a href=\"http://www.dcregs.dc.gov/\">DC regulatory law</a>\u00a0data modeling.\u00a0</p> <p>\u2022\u00a0<a href=\"http://hypothes.is/blog/annotating-the-law/\">Legal Annotation</a></p> <p><br/>\u2022 Legal Services Corp mapping</p> <p><br/>\u2022 Your legal tech idea!\u00a0</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 21600000, 
@@ -293,7 +256,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 5
+        "yes_rsvp_count": 7
     }, 
     {
         "created": 1404749084000, 
@@ -356,7 +319,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 23
+        "yes_rsvp_count": 24
     }, 
     {
         "created": 1409428206000, 
@@ -394,7 +357,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 136
+        "yes_rsvp_count": 138
     }, 
     {
         "created": 1408548417000, 
@@ -432,7 +395,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 56
+        "yes_rsvp_count": 55
     }, 
     {
         "created": 1408392086000, 
@@ -474,7 +437,7 @@
     }, 
     {
         "created": 1407622606000, 
-        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022 <a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.</p> <p><br/>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -492,7 +455,7 @@
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1415314800000, 
-        "updated": 1409676395000, 
+        "updated": 1409793936000, 
         "utc_offset": -18000000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
