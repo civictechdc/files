@@ -34,7 +34,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 43
+        "yes_rsvp_count": 44
     }, 
     {
         "created": 1406234785000, 
@@ -71,7 +71,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 13
+        "yes_rsvp_count": 14
     }, 
     {
         "created": 1406234837000, 
@@ -149,7 +149,7 @@ calendar([
     }, 
     {
         "created": 1404746991000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Citation Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Access to Justice) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>PRIMARY ISSUE STATEMENT:\u00a0\u00a0Improving legal citation through hyperlinks!</p> <p>SCHEDULE:\u00a0</p> <p>9:30-10 Breakfast</p> <p>10 Github 101</p> <p>10:30 Citation 101</p> <p>11 Presenting the Access to Justice problem &amp; team forming*</p> <p>11-4:00 Hacking\u00a0with lunch.</p> <p>4:00 Presentations,\u00a0discussion, and next steps.\u00a0</p> <p><i>After: drinks, pats on backs, better linked citations</i></p> <p>* * * * * * * *</p> <p>*For those inclined, we have also outlined a few alternative tracks:</p> <p>\u2022\u00a0<a href=\"http://www.dcregs.dc.gov/\">DC regulatory law</a>\u00a0data modeling.\u00a0</p> <p>\u2022\u00a0<a href=\"http://hypothes.is/blog/annotating-the-law/\">Legal Annotation</a></p> <p><br/>\u2022 Legal Services Corp mapping</p> <p><br/>\u2022 Your legal tech idea!\u00a0</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Citation Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Access to Justice) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- Improving citation parsers (such as github.com/unitedstates/citation)</p> <p>- Building applications that use the parsers (such as github.com/adelevie/downlaw)</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9:30 - 10 Breakfast</p> <p>10 - 12 Hacking</p> <p>12 - 12:30 Lunch</p> <p>12:30 - 4:00 Continued Hacking</p> <p><br/><i>After: drinks, pats on backs, better citation technology</i></p> <p><br/>* * * * * * * *</p> <p>\n\n\nFollow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 21600000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193491602/", 
         "group": {
@@ -164,25 +164,26 @@ calendar([
         "headcount": 0, 
         "id": "193491602", 
         "maybe_rsvp_count": 0, 
-        "name": "Citation Legal Hackathon", 
+        "name": "Legal Citation Hackathon", 
         "status": "upcoming", 
         "time": 1410616800000, 
-        "updated": 1407252398000, 
+        "updated": 1409956015000, 
         "utc_offset": -14400000, 
         "venue": {
-            "address_1": "600 New Jersey Avenue NW", 
+            "address_1": "711 D Street Northwest #200", 
             "city": "Washington", 
             "country": "us", 
-            "id": 19547872, 
-            "lat": 38.898173999999997, 
-            "lon": -77.012237999999996, 
-            "name": "Georgetown Law", 
+            "id": 15670162, 
+            "lat": 38.894897, 
+            "lon": -77.022537, 
+            "name": "Fastcase, Inc", 
             "repinned": false, 
-            "state": "DC"
+            "state": "DC", 
+            "zip": "20001"
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 13
     }, 
     {
         "created": 1404748848000, 
@@ -323,7 +324,7 @@ calendar([
     }, 
     {
         "created": 1409428206000, 
-        "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Eight members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and interesting tools, all in bite-sized packages. We guarantee a great time!</p> <p>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!</p> <p><br/>The speaker list is TBA -- please check back here soon for those details.</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There may be <i>hors d'</i><i>oeuvres</i>, or something else\u00a0-- we'll let you know soon.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Refreshments <i>TBA</i></p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Speakers:</b></p> <p>\n\n<i>watch this space!</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
+        "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Eight members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and interesting tools, all in bite-sized packages. We guarantee a great time!</p> <p><br/>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!\u00a0</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There may be <i>hors d'</i><i>oeuvres</i>, or something else\u00a0-- we'll let you know soon.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Refreshments <i>TBA</i></p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Speakers:</b></p> <p>\u2022\u00a0<a href=\"http://stephenbach.net/\">Stephen Bach</a>, University of Maryland, <i>Statistical Relational Models for Social Good</i></p> <p>\u2022\u00a0Kevin T. Smith, <a href=\"http://www.novetta.com/\">Novetta</a>,\u00a0<i>Security and Privacy of Big Data in a Dangerous World</i></p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nicktabbal\">Nick Tabbal</a>,\u00a0Bulletin Intelligence,\u00a0<i>Leveraging technology and human judgement to generate daily insights from Open Source Intelligence</i></p> <p><br/>\u2022\u00a0<a href=\"https://www.linkedin.com/profile/view?id=130190052\">Margaret Ward</a>, United States Coast Guard,\u00a0<i>Creating Healthy Workforce Flow</i></p> <p><br/><i>\u2022 more to come...!</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/Data-Science-DC/events/204142852/", 
         "group": {
@@ -341,7 +342,7 @@ calendar([
         "name": "Lightning Talks! (III)", 
         "status": "upcoming", 
         "time": 1410822000000, 
-        "updated": 1409845353000, 
+        "updated": 1409955405000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1000 H St. NW", 
@@ -356,7 +357,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 151
+        "yes_rsvp_count": 153
     }, 
     {
         "created": 1408392086000, 
@@ -394,7 +395,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 26
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1407622606000, 
