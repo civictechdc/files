@@ -71,7 +71,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 15
+        "yes_rsvp_count": 16
     }, 
     {
         "created": 1406234837000, 
@@ -149,7 +149,7 @@ calendar([
     }, 
     {
         "created": 1404746991000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Citation Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Access to Justice) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- Improving citation parsers (such as github.com/unitedstates/citation)</p> <p>- Building applications that use the parsers (such as github.com/adelevie/downlaw)</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9:30 - 10 Breakfast</p> <p>10 - 12 Hacking</p> <p>12 - 12:30 Lunch</p> <p>12:30 - 4:00 Continued Hacking</p> <p><br/><i>After: drinks, pats on backs, better citation technology</i></p> <p><br/>* * * * * * * *</p> <p>\n\n\nFollow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Citation Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Legal Citation) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- Improving citation parsers (such as github.com/unitedstates/citation)</p> <p>- Building applications that use the parsers (such as github.com/adelevie/downlaw)</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9:30 - 10 Breakfast</p> <p>10 - 12 Hacking</p> <p>12 - 12:30 Lunch</p> <p>12:30 - 4:00 Continued Hacking</p> <p><br/><i>After: drinks, pats on backs, better citation technology</i></p> <p><br/>* * * * * * * *</p> <p>\n\n\nFollow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 21600000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193491602/", 
         "group": {
@@ -167,7 +167,7 @@ calendar([
         "name": "Legal Citation Hackathon", 
         "status": "upcoming", 
         "time": 1410616800000, 
-        "updated": 1409956015000, 
+        "updated": 1410034716000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "711 D Street Northwest #200", 
@@ -183,7 +183,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 17
+        "yes_rsvp_count": 19
     }, 
     {
         "created": 1404748848000, 
