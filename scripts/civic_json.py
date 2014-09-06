@@ -126,7 +126,7 @@ for project in tracked:
             print error
             print civic
             print "\n\n"
-#            civic = None
+            civic = None
     except ValueError:
         civic = None
     data['civic_json'] = civic
