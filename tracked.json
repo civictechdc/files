@@ -37,5 +37,8 @@
     },
     {
         "Emergency Response Times": "https://github.com/codefordc/ERDA"
+    },
+    {
+    	"Community Gardens Visualization": "https://github.com/shiftyp/dc_community_gardens_visualization"
     }
 ]
