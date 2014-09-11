@@ -43,5 +43,8 @@
     },
     {
     	"Street Tree Map": "https://github.com/evonfriedland/tree-map"
+    },
+    {
+    	"Campaign Finance Watch": "https://github.com/codefordc/dc-campaign-finance-watch"
     }
 ]
