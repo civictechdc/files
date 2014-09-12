@@ -43,8 +43,7 @@ schema = {
             "type":"string"
         },
         "geography":{
-            "type":"string",
-            "pattern":"^Washington, DC$"
+            "type":"string"
         },
         "politicalEntity":{
             "type":"object"
