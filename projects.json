@@ -129,9 +129,10 @@
                 "name": "shariq1989"
             }
         ], 
+        "contributors_count": 12, 
         "created_at": "2013-06-24T02:05:03Z", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
-        "forks_count": 23, 
+        "forks": 23, 
         "homepage": "", 
         "html_url": "https://github.com/mlouie/dchousing-apps", 
         "id": 10896437, 
@@ -167,8 +168,9 @@
             "url": "https://github.com/mlouie"
         }, 
         "pushed_at": "2014-09-03T03:46:37Z", 
+        "size": 20649, 
         "updated_at": "2014-09-03T03:46:37Z", 
-        "watchers_count": 8
+        "watchers": 8
     }, 
     {
         "activity": [
@@ -336,9 +338,10 @@
                 "name": "shannonturner"
             }
         ], 
+        "contributors_count": 12, 
         "created_at": "2013-03-11T23:54:30Z", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
-        "forks_count": 21, 
+        "forks": 21, 
         "homepage": "http://ancfinder.org/", 
         "html_url": "https://github.com/codefordc/ancfinder", 
         "id": 8715969, 
@@ -370,8 +373,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-08-30T01:43:17Z", 
+        "size": 73421, 
         "updated_at": "2014-08-30T01:43:17Z", 
-        "watchers_count": 26
+        "watchers": 26
     }, 
     {
         "activity": [
@@ -437,9 +441,10 @@
                 "name": "cmgiven"
             }
         ], 
+        "contributors_count": 1, 
         "created_at": "2013-09-20T07:30:51Z", 
         "description": "Leaflet map of DC bikeshare stations and average availability.", 
-        "forks_count": 2, 
+        "forks": 2, 
         "homepage": "", 
         "html_url": "https://github.com/cmgiven/bikeshare-odds", 
         "id": 12967944, 
@@ -467,8 +472,9 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2014-05-28T00:02:22Z", 
+        "size": 1988, 
         "updated_at": "2014-05-28T00:02:22Z", 
-        "watchers_count": 5
+        "watchers": 5
     }, 
     {
         "activity": [
@@ -576,9 +582,10 @@
                 "name": "jenniferjinliu"
             }
         ], 
+        "contributors_count": 8, 
         "created_at": "2013-06-01T13:27:34Z", 
         "description": "Code for DC Education Project", 
-        "forks_count": 15, 
+        "forks": 15, 
         "homepage": null, 
         "html_url": "https://github.com/HarlanH/code-for-dc-edu", 
         "id": 10422703, 
@@ -610,31 +617,32 @@
             "url": "https://github.com/HarlanH"
         }, 
         "pushed_at": "2014-06-11T23:44:11Z", 
+        "size": 40024, 
         "updated_at": "2014-06-11T23:44:12Z", 
-        "watchers_count": 16
+        "watchers": 16
     }, 
     {
         "activity": [
-            18, 
-            9, 
-            0, 
-            0, 
+            21, 
             5, 
-            2, 
+            0, 
+            0, 
+            7, 
             0, 
             0, 
             0, 
             0, 
             0, 
             6, 
-            7, 
+            3, 
+            4, 
             1, 
             0, 
             0, 
             1, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             3, 
@@ -659,11 +667,11 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
-            1, 
+            2, 
             4, 
-            8, 
+            3, 
+            3, 
+            7, 
             3, 
             0, 
             4
@@ -762,9 +770,10 @@
                 "name": "shannonturner"
             }
         ], 
+        "contributors_count": 11, 
         "created_at": "2013-08-06T11:45:40Z", 
         "description": "The current Code for DC website", 
-        "forks_count": 18, 
+        "forks": 18, 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc-2.0", 
         "id": 11922700, 
@@ -788,8 +797,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-09-12T22:56:43Z", 
+        "size": 7897, 
         "updated_at": "2014-09-09T22:52:21Z", 
-        "watchers_count": 13
+        "watchers": 13
     }, 
     {
         "activity": [
@@ -828,8 +838,8 @@
             0, 
             0, 
             0, 
-            7, 
-            4, 
+            8, 
+            3, 
             0, 
             0, 
             0, 
@@ -873,9 +883,10 @@
                 "name": "mattbailey0"
             }
         ], 
+        "contributors_count": 4, 
         "created_at": "2014-05-19T01:58:01Z", 
         "description": "This repository contains the Code of Conduct used in the Code for DC community and Code for DC related events.", 
-        "forks_count": 0, 
+        "forks": 0, 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/code-of-conduct", 
         "id": 19926261, 
@@ -890,8 +901,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-09-11T11:56:39Z", 
+        "size": 228, 
         "updated_at": "2014-05-28T03:50:12Z", 
-        "watchers_count": 1
+        "watchers": 1
     }, 
     {
         "activity": [
@@ -929,10 +941,10 @@
             0, 
             0, 
             0, 
-            0, 
-            8, 
+            6, 
+            3, 
             2, 
-            2, 
+            1, 
             1, 
             0, 
             0, 
@@ -942,11 +954,11 @@
             0, 
             0, 
             0, 
-            4, 
             6, 
             4, 
+            5, 
             1, 
-            2
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -997,9 +1009,10 @@
                 "name": "justgrimes"
             }
         ], 
+        "contributors_count": 2, 
         "created_at": "2014-05-17T14:31:30Z", 
         "description": "How to do things", 
-        "forks_count": 3, 
+        "forks": 3, 
         "homepage": "", 
         "html_url": "https://github.com/codefordc/guides", 
         "id": 19888517, 
@@ -1023,8 +1036,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-09-10T23:54:11Z", 
+        "size": 1239, 
         "updated_at": "2014-09-11T13:35:39Z", 
-        "watchers_count": 4
+        "watchers": 4
     }, 
     {
         "activity": [
@@ -1096,9 +1110,10 @@
                 "name": "shiftyp"
             }
         ], 
+        "contributors_count": 2, 
         "created_at": "2013-08-21T23:20:41Z", 
         "description": "archive the DC mayor's public schedule; tabularize it; give archive web interface", 
-        "forks_count": 1, 
+        "forks": 1, 
         "homepage": "http://ajschumacher.github.io/dc_mayor_schedule/", 
         "html_url": "https://github.com/ajschumacher/dc_mayor_schedule", 
         "id": 12283697, 
@@ -1122,8 +1137,9 @@
             "url": "https://github.com/ajschumacher"
         }, 
         "pushed_at": "2014-09-13T06:14:06Z", 
+        "size": 2272, 
         "updated_at": "2014-09-04T04:14:07Z", 
-        "watchers_count": 4
+        "watchers": 4
     }, 
     {
         "activity": [
@@ -1189,9 +1205,10 @@
                 "name": "pgehred"
             }
         ], 
+        "contributors_count": 1, 
         "created_at": "2013-09-17T18:51:02Z", 
         "description": "Wikipolicy", 
-        "forks_count": 0, 
+        "forks": 0, 
         "homepage": null, 
         "html_url": "https://github.com/pgehred/Wikipolicy", 
         "id": 12904042, 
@@ -1206,8 +1223,9 @@
             "url": "https://github.com/pgehred"
         }, 
         "pushed_at": "2013-09-17T18:51:03Z", 
+        "size": 108, 
         "updated_at": "2014-04-03T22:18:58Z", 
-        "watchers_count": 0
+        "watchers": 0
     }, 
     {
         "activity": [
@@ -1285,9 +1303,10 @@
                 "name": "ernbrn"
             }
         ], 
+        "contributors_count": 3, 
         "created_at": "2013-06-02T19:27:08Z", 
         "description": "DC Community Data Commons", 
-        "forks_count": 7, 
+        "forks": 7, 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/open211", 
         "id": 10441030, 
@@ -1311,8 +1330,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-08-01T20:47:07Z", 
+        "size": 2932, 
         "updated_at": "2014-08-01T20:47:07Z", 
-        "watchers_count": 1
+        "watchers": 1
     }, 
     {
         "activity": [
@@ -1378,9 +1398,10 @@
                 "name": "LeeMendelowitz"
             }
         ], 
+        "contributors_count": 1, 
         "created_at": "2013-08-19T20:26:43Z", 
         "description": "DC Metro Metrics is a project dedicated to collecting and sharing publicly available data related to the DC WMATA Metrorail system.", 
-        "forks_count": 3, 
+        "forks": 3, 
         "homepage": null, 
         "html_url": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
         "id": 12226830, 
@@ -1408,8 +1429,9 @@
             "url": "https://github.com/LeeMendelowitz"
         }, 
         "pushed_at": "2014-09-12T16:27:41Z", 
+        "size": 5739, 
         "updated_at": "2014-05-26T20:14:13Z", 
-        "watchers_count": 12
+        "watchers": 12
     }, 
     {
         "activity": [
@@ -1475,9 +1497,10 @@
                 "name": "evonfriedland"
             }
         ], 
+        "contributors_count": 1, 
         "created_at": "2013-11-08T01:07:50Z", 
         "description": "", 
-        "forks_count": 0, 
+        "forks": 0, 
         "homepage": null, 
         "html_url": "https://github.com/evonfriedland/tree-map", 
         "id": 14220687, 
@@ -1497,8 +1520,9 @@
             "url": "https://github.com/evonfriedland"
         }, 
         "pushed_at": "2014-04-18T15:18:06Z", 
+        "size": 9616, 
         "updated_at": "2014-04-18T15:18:06Z", 
-        "watchers_count": 1
+        "watchers": 1
     }, 
     {
         "activity": [
@@ -1535,15 +1559,15 @@
             1, 
             0, 
             3, 
+            6, 
             5, 
-            6, 
             3, 
-            6, 
+            7, 
             3, 
+            1, 
+            0, 
             2, 
             0, 
-            1, 
-            1, 
             0, 
             0, 
             3, 
@@ -1588,9 +1612,10 @@
                 "name": "DimeZilla"
             }
         ], 
+        "contributors_count": 5, 
         "created_at": "2014-04-30T00:47:20Z", 
         "description": "Analysis of emergency response data for Washington, DC.", 
-        "forks_count": 5, 
+        "forks": 5, 
         "homepage": "http://codefordc.github.io/ERDA/", 
         "html_url": "https://github.com/codefordc/ERDA", 
         "id": 19296315, 
@@ -1610,8 +1635,9 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-08-19T01:15:25Z", 
+        "size": 105864, 
         "updated_at": "2014-08-19T01:11:25Z", 
-        "watchers_count": 3
+        "watchers": 3
     }, 
     {
         "activity": [
@@ -1683,9 +1709,10 @@
                 "name": "shiftyp"
             }
         ], 
+        "contributors_count": 2, 
         "created_at": "2014-06-24T23:23:23Z", 
         "description": "", 
-        "forks_count": 3, 
+        "forks": 3, 
         "homepage": "http://shiftyp.github.io/dc_community_gardens_visualization", 
         "html_url": "https://github.com/shiftyp/dc_community_gardens_visualization", 
         "id": 21183987, 
@@ -1705,8 +1732,9 @@
             "url": "https://github.com/shiftyp"
         }, 
         "pushed_at": "2014-07-13T21:56:15Z", 
+        "size": 592, 
         "updated_at": "2014-07-13T21:57:21Z", 
-        "watchers_count": 0
+        "watchers": 0
     }, 
     {
         "activity": [
@@ -1751,17 +1779,17 @@
             0, 
             0, 
             2, 
-            4, 
-            13, 
-            2, 
+            5, 
+            14, 
+            0, 
             1, 
             2, 
             0, 
-            12, 
-            31, 
+            37, 
+            6, 
             7, 
             0, 
-            3
+            14
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1790,9 +1818,10 @@
                 "name": "louh"
             }
         ], 
+        "contributors_count": 4, 
         "created_at": "2014-07-12T18:04:36Z", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks_count": 3, 
+        "forks": 3, 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
         "id": 21773181, 
@@ -1816,7 +1845,8 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-09-14T01:34:04Z", 
+        "size": 9177, 
         "updated_at": "2014-09-10T23:24:13Z", 
-        "watchers_count": 2
+        "watchers": 2
     }
 ]
