@@ -796,7 +796,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-12T22:56:43Z", 
+        "pushed_at": "2014-09-14T19:40:11Z", 
         "size": 7897, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -1816,9 +1816,15 @@
                 "contributions": 1, 
                 "link": "https://github.com/louh", 
                 "name": "louh"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 4, 
+        "contributors_count": 5, 
         "created_at": "2014-07-12T18:04:36Z", 
         "description": "Displays data about DC Campaign Finance on a site", 
         "forks": 3, 
@@ -1844,7 +1850,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-14T01:34:04Z", 
+        "pushed_at": "2014-09-14T18:59:08Z", 
         "size": 9177, 
         "updated_at": "2014-09-10T23:24:13Z", 
         "watchers": 2
