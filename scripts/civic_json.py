@@ -85,8 +85,9 @@ for project in tracked:
         'homepage': r['homepage'],
         'html_url': r['html_url'],
         'main_language': r['language'],
-        'watchers_count': r['watchers_count'],
-        'forks_count': r['forks_count'],
+        'watchers': r['watchers'],
+        'forks': r['forks'],
+        'size': r['size'],
         'open_issues': r['open_issues'],
         'created_at': r['created_at'],
         'updated_at': r['updated_at'],
@@ -108,6 +109,7 @@ for project in tracked:
             'contributions': c['contributions']
         })
     data['contributors'] = contributors
+    data['contributors_count'] = len(contributors)
     activity = requests.get(url+"/stats/participation", headers = headers).json()
     try:
         data['activity'] = activity['all']
