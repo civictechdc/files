@@ -245,7 +245,44 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 39
+        "yes_rsvp_count": 40
+    }, 
+    {
+        "created": 1410897105000, 
+        "description": "<p>With Fall's arrival, we finally have great weather to go with our great API presentations. \u00a0Come for great beer, tasty pizza, and a bunch of solid presentations. See you soon! \u00a0 \u00a0 \u00a0</p> <p>\n\n\n6:00pm - 6:30pm\u00a0 Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm\u00a0 Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm\u00a0 Presentations</p> <p>* Dave Goldberg - Capitol One<br/>* Bob Glass - Apigee<br/>* Taylor Lovett - 10up\u00a0<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm\u00a0 Refill your beverage\u00a0<br/>8:00pm - 8:30pm\u00a0 Panel discussions\u00a0<br/>8:30pm - 9:00pm\u00a0 Networking</p>", 
+        "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/207643152/", 
+        "group": {
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.069999694824219, 
+            "id": 4930742, 
+            "join_mode": "open", 
+            "name": "DC Web API User Group", 
+            "urlname": "DC-Web-API-User-Group", 
+            "who": "API enthusiasts"
+        }, 
+        "headcount": 0, 
+        "id": "207643152", 
+        "maybe_rsvp_count": 0, 
+        "name": "DC API User Group - September Edition", 
+        "status": "upcoming", 
+        "time": 1411509600000, 
+        "updated": 1410897105000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "1900 M Street, NW - 3rd floor", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 12283102, 
+            "lat": 38.905430000000003, 
+            "lon": -77.043746999999996, 
+            "name": "Chief", 
+            "repinned": false, 
+            "state": "DC", 
+            "zip": "20036"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 35
     }, 
     {
         "created": 1408392086000, 
@@ -283,7 +320,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 42
+        "yes_rsvp_count": 43
     }, 
     {
         "created": 1407622606000, 
