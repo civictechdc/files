@@ -92,6 +92,7 @@ for project in tracked:
         'created_at': r['created_at'],
         'updated_at': r['updated_at'],
         'pushed_at': r['pushed_at'],
+        'default_branch': r['default_branch'],
         'owner': {
             'name': r['owner']['login'],
             'avatar': r['owner']['avatar_url'],
@@ -120,7 +121,7 @@ for project in tracked:
     languages = requests.get(url+"/languages", headers = headers).json()
     data['languages'] = sorted(languages.iteritems(), key=operator.itemgetter(1), reverse=True)
     try:
-        civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/master/civic.json').json()
+        civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/civic.json').json()
         try:
             validictory.validate(civic,schema)
         except ValueError, error:
