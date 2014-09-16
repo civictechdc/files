@@ -248,43 +248,6 @@ calendar([
         "yes_rsvp_count": 38
     }, 
     {
-        "created": 1409428206000, 
-        "description": "<p>For our September Meetup, we're once again going to have Lightning Talks!\u00a0Seven members of our Data Science community will each be speaking for just eight minutes each. These talks will include research, lessons learned in practice, and policy, all in bite-sized packages. We guarantee a great time!</p> <p><br/>The event will be co-located with the <b>Predictive Analytics World - Government</b> conference, running the 15th through the 18th, which is why the new venue and slightly-delayed time. \u00a0You do <i>not</i> have to attend the conference to attend this Meetup event -- everyone is welcome! However, if you do want to attend the conference, we have a discount code for you. <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Use DATADC for 15% of registration to the\u00a0largest and only vendor-neutral analytics conference for government</a>!\u00a0</p> <p><b>Note</b>: Because of hotel catering requirements, we won't be serving empenadas as usual. There will be pretzels and chips before the presentations, and <b>the first round at the bar is on us</b>, but you may want to <b>eat before you arrive</b>!\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a07:00pm -- Networking and Light Snack</p> <p>\u2022\u00a07:30pm -- Introduction</p> <p>\u2022\u00a07:45pm -- Presentations!</p> <p>\u2022 9:00pm -- Data Drinks (<i>City Tap House,\u00a0</i>901 9th Street)</p> <p><b>Speakers:</b></p> <p>\u2022\u00a0<a href=\"http://stephenbach.net/\">Stephen Bach</a>, University of Maryland, <i>Statistical Relational Models for Social Good</i></p> <p>\u2022\u00a0Kevin T. Smith, <a href=\"http://www.novetta.com/\">Novetta</a>,\u00a0<i>Security and Privacy of Big Data in a Dangerous World</i></p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nicktabbal\">Nick Tabbal</a>,\u00a0Bulletin Intelligence,\u00a0<i>Leveraging technology and human judgement to generate daily insights from Open Source Intelligence</i>\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/castrotech\">Daniel Castro</a>, Center for Data Innovation, <i>Data is Law (and Law is Data)</i></p> <p><br/>\u2022 <a href=\"https://www.linkedin.com/profile/view?id=221277\">Marck Vaisman</a>, Data Community DC, <i>From Hierarchical to Graph Data</i></p> <p><br/>\u2022 <a href=\"https://www.linkedin.com/profile/view?id=5880923\">Douglas A. Samuelson</a>,\u00a0InfoLogix, Inc, \u00a0and \u00a0Group W, Inc.,\u00a0<i>Can Government Drive Information Innovation?</i></p> <p><br/><i>\u2022</i> <a href=\"https://www.linkedin.com/profile/view?id=316100541\">Olisa Stephensbailey</a>, Red Arch Solutions, <i>Assessing the Current State of Big Data Consumption within Federal Cybersecurity</i></p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.predictiveanalyticsworld.com/gov/2014/\">Predictive Analytics World - Government</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>. Would you like to sponsor too? Please get in touch!\u00a0</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Data-Science-DC/events/204142852/", 
-        "group": {
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.019996643066406, 
-            "id": 2215331, 
-            "join_mode": "open", 
-            "name": "Data Science DC", 
-            "urlname": "Data-Science-DC", 
-            "who": "Data Scientists"
-        }, 
-        "headcount": 0, 
-        "id": "204142852", 
-        "maybe_rsvp_count": 0, 
-        "name": "Lightning Talks! (III)", 
-        "status": "upcoming", 
-        "time": 1410822000000, 
-        "updated": 1410622053000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1000 H St. NW", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 22180872, 
-            "lat": 38.913868000000001, 
-            "lon": -77.026176000000007, 
-            "name": "Grand Hyatt Washington, Constitution B", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 297
-    }, 
-    {
         "created": 1408392086000, 
         "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
