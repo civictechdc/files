@@ -34,7 +34,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 33
+        "yes_rsvp_count": 35
     }, 
     {
         "created": 1406234837000, 
@@ -282,7 +282,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 58
+        "yes_rsvp_count": 59
     }, 
     {
         "created": 1408392086000, 
@@ -320,7 +320,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 43
+        "yes_rsvp_count": 42
     }, 
     {
         "created": 1407622606000, 
@@ -362,7 +362,7 @@
     }, 
     {
         "created": 1407908606000, 
-        "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>", 
+        "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
         "group": {
             "group_lat": 38.889999389648438, 
@@ -380,7 +380,7 @@
         "rsvp_limit": 75, 
         "status": "upcoming", 
         "time": 1417734000000, 
-        "updated": 1410381903000, 
+        "updated": 1411066547000, 
         "utc_offset": -18000000, 
         "venue": {
             "address_1": "641 S street NW", 
@@ -395,6 +395,6 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 16
+        "yes_rsvp_count": 17
     }
 ]
