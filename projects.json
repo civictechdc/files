@@ -448,7 +448,7 @@
         "default_branch": "master", 
         "description": "Leaflet map of DC bikeshare stations and average availability.", 
         "forks": 2, 
-        "homepage": "", 
+        "homepage": "http://cmgiven.github.io/bikeshare-odds/", 
         "html_url": "https://github.com/cmgiven/bikeshare-odds", 
         "id": 12967944, 
         "languages": [
@@ -467,7 +467,7 @@
         ], 
         "main_language": "CSS", 
         "name": "CaBi Odds", 
-        "open_issues": 4, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/5375557?v=2", 
             "name": "cmgiven", 
@@ -476,7 +476,7 @@
         }, 
         "pushed_at": "2014-05-28T00:02:22Z", 
         "size": 1988, 
-        "updated_at": "2014-05-28T00:02:22Z", 
+        "updated_at": "2014-09-19T20:46:19Z", 
         "watchers": 5
     }, 
     {
@@ -1004,7 +1004,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 26, 
+                "contributions": 27, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1042,8 +1042,8 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-10T23:54:11Z", 
-        "size": 1239, 
+        "pushed_at": "2014-09-19T21:12:22Z", 
+        "size": 1247, 
         "updated_at": "2014-09-18T01:47:42Z", 
         "watchers": 5
     }, 
