@@ -481,16 +481,15 @@ projects([
     }, 
     {
         "activity": [
-            4, 
-            8, 
-            14, 
-            15, 
-            7, 
-            3, 
+            6, 
+            18, 
             2, 
+            20, 
+            2, 
+            5, 
             0, 
-            4, 
-            0, 
+            1, 
+            3, 
             0, 
             0, 
             0, 
@@ -507,6 +506,7 @@ projects([
             0, 
             0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -1106,7 +1106,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 337, 
+                "contributions": 338, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1144,7 +1144,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-09-18T06:14:05Z", 
+        "pushed_at": "2014-09-19T06:14:06Z", 
         "size": 2319, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
@@ -1388,8 +1388,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            1, 
+            3, 
             0, 
             0, 
             0, 
