@@ -627,25 +627,25 @@
     }, 
     {
         "activity": [
-            8, 
-            0, 
-            0, 
             5, 
-            2, 
+            0, 
+            0, 
+            7, 
             0, 
             0, 
             0, 
             0, 
             0, 
             6, 
-            7, 
+            3, 
+            4, 
             1, 
             0, 
             0, 
             1, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             3, 
@@ -670,11 +670,11 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
-            1, 
+            2, 
             4, 
-            8, 
+            3, 
+            3, 
+            7, 
             3, 
             0, 
             5, 
@@ -1106,7 +1106,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 339, 
+                "contributions": 340, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1144,7 +1144,7 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-09-20T05:14:04Z", 
+        "pushed_at": "2014-09-21T06:14:04Z", 
         "size": 2319, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
@@ -1754,7 +1754,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
-                "contributions": 65, 
+                "contributions": 71, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
@@ -1798,7 +1798,7 @@
             ], 
             [
                 "JavaScript", 
-                658
+                676
             ]
         ], 
         "main_language": "CSS", 
@@ -1810,7 +1810,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-20T14:19:49Z", 
+        "pushed_at": "2014-09-21T04:31:45Z", 
         "size": 9892, 
         "updated_at": "2014-09-10T23:24:13Z", 
         "watchers": 2
