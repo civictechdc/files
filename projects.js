@@ -627,10 +627,10 @@ projects([
     }, 
     {
         "activity": [
-            5, 
+            2, 
             0, 
-            0, 
-            7, 
+            1, 
+            6, 
             0, 
             0, 
             0, 
@@ -641,8 +641,8 @@ projects([
             4, 
             1, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             1, 
             0, 
@@ -656,8 +656,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            7, 
+            3, 
+            6, 
             7, 
             0, 
             2, 
@@ -670,11 +670,11 @@ projects([
             0, 
             0, 
             0, 
-            2, 
+            3, 
+            3, 
+            3, 
+            6, 
             4, 
-            3, 
-            3, 
-            7, 
             3, 
             0, 
             5, 
@@ -794,7 +794,7 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 9, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
@@ -1106,7 +1106,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 340, 
+                "contributions": 341, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1144,7 +1144,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-09-21T06:14:04Z", 
+        "pushed_at": "2014-09-22T04:14:04Z", 
         "size": 2319, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
