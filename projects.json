@@ -637,10 +637,10 @@
     }, 
     {
         "activity": [
-            2, 
-            0, 
             1, 
-            6, 
+            0, 
+            2, 
+            5, 
             0, 
             0, 
             0, 
@@ -687,8 +687,8 @@
             4, 
             3, 
             0, 
-            5, 
-            5
+            6, 
+            4
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1143,7 +1143,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 341, 
+                "contributions": 342, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1182,7 +1182,7 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-09-22T04:14:04Z", 
+        "pushed_at": "2014-09-23T04:14:04Z", 
         "size": 2382, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4

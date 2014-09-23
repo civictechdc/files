@@ -197,9 +197,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [2, 0, 1, 6, 0, 0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2,
+- activity: [1, 0, 2, 5, 0, 0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2,
     1, 0, 4, 0, 0, 0, 3, 6, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3,
-    0, 5, 5]
+    0, 6, 4]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -356,7 +356,7 @@
     3, 5, 7]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 341,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 342,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -378,7 +378,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-09-22T04:14:04Z'
+  pushed_at: '2014-09-23T04:14:04Z'
   size: 2382
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
