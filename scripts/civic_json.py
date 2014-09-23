@@ -75,6 +75,8 @@ for project in tracked:
     for key, value in project.items():
         name = key
         link = value
+
+    # Get the basic Github data
     url = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token '+GITHUB_TOKEN}
     r = requests.get(url, headers = headers).json()
@@ -100,6 +102,8 @@ for project in tracked:
             'type': r['owner']['type']
         }
     }
+
+    # Add in contributor information from Github
     contributors = []
     con = requests.get(r['contributors_url'], headers = headers).json()
     for c in con:
@@ -111,6 +115,8 @@ for project in tracked:
         })
     data['contributors'] = contributors
     data['contributors_count'] = len(contributors)
+
+    # Get Github activity on the default branch for the past year
     activity = requests.get(url+"/stats/participation", headers = headers).json()
     try:
         data['activity'] = activity['all']
@@ -118,8 +124,34 @@ for project in tracked:
         time.sleep(4)
         activity = requests.get(url+"/stats/participation", headers = headers).json()
         data['activity'] = activity['all']
+
+    # Get languages used in the Github repo
     languages = requests.get(url+"/languages", headers = headers).json()
     data['languages'] = sorted(languages.iteritems(), key=operator.itemgetter(1), reverse=True)
+
+    # Look for issues tagged as "help wanted"
+    issues = requests.get(url+"/issues", headers = headers).json()
+    help_wanted = []
+    for i in issues:
+        for l in i['labels']:
+            if l['name'] == 'help wanted':
+                issue = {
+                    'project': name,
+                    'project_url': link,
+                    'issue': i['title'],
+                    'issue_url': i['html_url'],
+                    'body': i['body'],
+                    'created_at': i['created_at'],
+                    'updated_at': i['updated_at'],
+                    'comments': i['comments'],
+                    'assignee': i['assignee'],
+                    'labels': i['labels']
+                }
+                help_wanted.append(issue)
+    data['help_wanted'] = help_wanted
+
+    # Check if civic.json file is in repo
+    # If so, validate it before adding the data
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/civic.json').json()
         try:
@@ -132,8 +164,12 @@ for project in tracked:
     except ValueError:
         civic = None
     data['civic_json'] = civic
+
+    # Oh yeah, the project's name
     data['name'] = name
     output.append(data)
+
+# Write the JSON, JSONP, and YAML files
 
 output = json.dumps(output, sort_keys=True, indent=4)
 
