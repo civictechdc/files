@@ -64,7 +64,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=2", 
-                "contributions": 56, 
+                "contributions": 57, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
             }, 
@@ -105,6 +105,12 @@ projects([
                 "name": "mpeteuil"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/endash", 
@@ -117,23 +123,24 @@ projects([
                 "name": "ameensol"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=2", 
-                "contributions": 1, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2559167?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/shariq1989", 
                 "name": "shariq1989"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 12, 
+        "contributors_count": 13, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
         "forks": 23, 
+        "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/mlouie/dchousing-apps", 
         "id": 10896437, 
@@ -161,14 +168,14 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "Affordable Housing", 
-        "open_issues": 13, 
+        "open_issues": 12, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1302023?v=2", 
             "name": "mlouie", 
             "type": "User", 
             "url": "https://github.com/mlouie"
         }, 
-        "pushed_at": "2014-09-03T03:46:37Z", 
+        "pushed_at": "2014-09-23T01:56:13Z", 
         "size": 20649, 
         "updated_at": "2014-09-18T18:17:32Z", 
         "watchers": 9
@@ -344,6 +351,7 @@ projects([
         "default_branch": "master", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
         "forks": 21, 
+        "help_wanted": [], 
         "homepage": "http://ancfinder.org/", 
         "html_url": "https://github.com/codefordc/ancfinder", 
         "id": 8715969, 
@@ -448,6 +456,7 @@ projects([
         "default_branch": "master", 
         "description": "Leaflet map of DC bikeshare stations and average availability.", 
         "forks": 2, 
+        "help_wanted": [], 
         "homepage": "http://cmgiven.github.io/bikeshare-odds/", 
         "html_url": "https://github.com/cmgiven/bikeshare-odds", 
         "id": 12967944, 
@@ -590,6 +599,7 @@ projects([
         "default_branch": "master", 
         "description": "Code for DC Education Project", 
         "forks": 15, 
+        "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/HarlanH/code-for-dc-edu", 
         "id": 10422703, 
@@ -779,6 +789,31 @@ projects([
         "default_branch": "master", 
         "description": "The current Code for DC website", 
         "forks": 19, 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "", 
+                "comments": 0, 
+                "created_at": "2014-08-27T22:22:43Z", 
+                "issue": "Projects page: graph doesn't resize with window", 
+                "issue_url": "https://github.com/codefordc/codefordc-2.0/issues/88", 
+                "labels": [
+                    {
+                        "color": "fc2929", 
+                        "name": "bug", 
+                        "url": "https://api.github.com/repos/codefordc/codefordc-2.0/labels/bug"
+                    }, 
+                    {
+                        "color": "009800", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/codefordc-2.0/labels/help+wanted"
+                    }
+                ], 
+                "project": "Code for DC Website", 
+                "project_url": "https://github.com/codefordc/codefordc-2.0", 
+                "updated_at": "2014-09-12T11:42:59Z"
+            }
+        ], 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc-2.0", 
         "id": 11922700, 
@@ -794,14 +829,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-20T22:37:34Z", 
+        "pushed_at": "2014-09-23T01:04:57Z", 
         "size": 8053, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -893,6 +928,7 @@ projects([
         "default_branch": "master", 
         "description": "This repository contains the Code of Conduct used in the Code for DC community and Code for DC related events.", 
         "forks": 0, 
+        "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/code-of-conduct", 
         "id": 19926261, 
@@ -1020,6 +1056,7 @@ projects([
         "default_branch": "master", 
         "description": "How to do things", 
         "forks": 3, 
+        "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/codefordc/guides", 
         "id": 19888517, 
@@ -1122,6 +1159,7 @@ projects([
         "default_branch": "gh-pages", 
         "description": "archive the DC mayor's public schedule; tabularize it; give archive web interface", 
         "forks": 1, 
+        "help_wanted": [], 
         "homepage": "http://ajschumacher.github.io/dc_mayor_schedule/", 
         "html_url": "https://github.com/ajschumacher/dc_mayor_schedule", 
         "id": 12283697, 
@@ -1145,7 +1183,7 @@ projects([
             "url": "https://github.com/ajschumacher"
         }, 
         "pushed_at": "2014-09-22T04:14:04Z", 
-        "size": 2319, 
+        "size": 2382, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
     }, 
@@ -1230,6 +1268,7 @@ projects([
         "default_branch": "gh-pages", 
         "description": "DC Community Data Commons", 
         "forks": 7, 
+        "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/open211", 
         "id": 10441030, 
@@ -1326,6 +1365,7 @@ projects([
         "default_branch": "master", 
         "description": "DC Metro Metrics is a project dedicated to collecting and sharing publicly available data related to the DC WMATA Metrorail system.", 
         "forks": 3, 
+        "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
         "id": 12226830, 
@@ -1426,6 +1466,7 @@ projects([
         "default_branch": "master", 
         "description": "", 
         "forks": 0, 
+        "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/evonfriedland/tree-map", 
         "id": 14220687, 
@@ -1542,6 +1583,7 @@ projects([
         "default_branch": "master", 
         "description": "Analysis of emergency response data for Washington, DC.", 
         "forks": 5, 
+        "help_wanted": [], 
         "homepage": "http://codefordc.github.io/ERDA/", 
         "html_url": "https://github.com/codefordc/ERDA", 
         "id": 19296315, 
@@ -1640,6 +1682,7 @@ projects([
         "default_branch": "master", 
         "description": "", 
         "forks": 3, 
+        "help_wanted": [], 
         "homepage": "http://shiftyp.github.io/dc_community_gardens_visualization", 
         "html_url": "https://github.com/shiftyp/dc_community_gardens_visualization", 
         "id": 21183987, 
@@ -1788,6 +1831,7 @@ projects([
         "default_branch": "gh-pages", 
         "description": "Displays data about DC Campaign Finance on a site", 
         "forks": 3, 
+        "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
         "id": 21773181, 

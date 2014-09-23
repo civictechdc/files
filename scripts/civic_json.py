@@ -1,4 +1,4 @@
-import json, requests, os, time, operator, validictory
+import json, yaml, requests, os, time, operator, validictory
 
 path = os.path.dirname(os.path.realpath(__file__))
 
@@ -171,12 +171,17 @@ for project in tracked:
 
 # Write the JSON, JSONP, and YAML files
 
-output = json.dumps(output, sort_keys=True, indent=4)
+json = json.dumps(output, sort_keys=True, indent=4)
 
 with open(path + '/../projects.json', 'w') as f:
-    f.write(output)
+    f.write(json)
 
-jsonp = "projects(" + output + ")"
+jsonp = "projects(" + json + ")"
 
 with open(path + '/../projects.js', 'w') as f:
     f.write(jsonp)
+
+yml = yaml.safe_dump(output)
+
+with open(path + '/../projects.yaml', 'w') as f:
+    f.write(yml)
