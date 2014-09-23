@@ -5,6 +5,7 @@ calendar([
         "duration": 10800000, 
         "event_url": "http://www.meetup.com/Code-for-DC/events/196868692/", 
         "group": {
+            "created": 1375990708000, 
             "group_lat": 38.909999847412109, 
             "group_lon": -77.040000915527344, 
             "id": 9724492, 
@@ -34,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 56
+        "yes_rsvp_count": 58
     }, 
     {
         "created": 1406234837000, 
@@ -42,6 +43,7 @@ calendar([
         "duration": 10800000, 
         "event_url": "http://www.meetup.com/Code-for-DC/events/196868812/", 
         "group": {
+            "created": 1375990708000, 
             "group_lat": 38.909999847412109, 
             "group_lon": -77.040000915527344, 
             "id": 9724492, 
@@ -79,6 +81,7 @@ calendar([
         "duration": 10800000, 
         "event_url": "http://www.meetup.com/Code-for-DC/events/196868952/", 
         "group": {
+            "created": 1375990708000, 
             "group_lat": 38.909999847412109, 
             "group_lon": -77.040000915527344, 
             "id": 9724492, 
@@ -116,6 +119,7 @@ calendar([
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193499412/", 
         "group": {
+            "created": 1372871984000, 
             "group_lat": 38.919998168945312, 
             "group_lon": -77.040000915527344, 
             "id": 9201422, 
@@ -153,6 +157,7 @@ calendar([
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193499542/", 
         "group": {
+            "created": 1372871984000, 
             "group_lat": 38.919998168945312, 
             "group_lon": -77.040000915527344, 
             "id": 9201422, 
@@ -190,6 +195,7 @@ calendar([
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
         "group": {
+            "created": 1372871984000, 
             "group_lat": 38.919998168945312, 
             "group_lon": -77.040000915527344, 
             "id": 9201422, 
@@ -215,6 +221,7 @@ calendar([
         "description": "<p>Hack and Tell will be at WeWork Chinatown again in September! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like 3d-printing aluminum parts]. Show us what you\u2019ve got! But remember: no startup pitches, dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
         "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/204722772/", 
         "group": {
+            "created": 1361902062000, 
             "group_lat": 38.909999847412109, 
             "group_lon": -77.019996643066406, 
             "id": 7361532, 
@@ -245,13 +252,14 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 42
+        "yes_rsvp_count": 41
     }, 
     {
         "created": 1410897105000, 
         "description": "<p>With Fall's arrival, we finally have great weather to go with our great API presentations. \u00a0Come for great beer, tasty pizza, and a bunch of solid presentations. See you soon! \u00a0 \u00a0 \u00a0</p> <p>\n\n\n6:00pm - 6:30pm\u00a0 Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm\u00a0 Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm\u00a0 Presentations</p> <p>* Dave Goldberg - Capitol One<br/>* Bob Glass - Apigee<br/>* Taylor Lovett - 10up\u00a0<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm\u00a0 Refill your beverage\u00a0<br/>8:00pm - 8:30pm\u00a0 Panel discussions\u00a0<br/>8:30pm - 9:00pm\u00a0 Networking</p>", 
         "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/207643152/", 
         "group": {
+            "created": 1347647025000, 
             "group_lat": 38.909999847412109, 
             "group_lon": -77.069999694824219, 
             "id": 4930742, 
@@ -282,13 +290,14 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 80
+        "yes_rsvp_count": 86
     }, 
     {
         "created": 1408392086000, 
         "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
         "group": {
+            "created": 1384372275000, 
             "group_lat": 38.889999389648438, 
             "group_lon": -77.069999694824219, 
             "id": 11092702, 
@@ -327,6 +336,7 @@ calendar([
         "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.</p> <p><br/>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a> will talk about their model of dockless bikesharing.</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
         "group": {
+            "created": 1384372275000, 
             "group_lat": 38.889999389648438, 
             "group_lon": -77.069999694824219, 
             "id": 11092702, 
@@ -365,6 +375,7 @@ calendar([
         "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
         "group": {
+            "created": 1384372275000, 
             "group_lat": 38.889999389648438, 
             "group_lon": -77.069999694824219, 
             "id": 11092702, 
