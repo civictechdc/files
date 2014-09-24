@@ -1,43 +1,5 @@
 calendar([
     {
-        "created": 1406234785000, 
-        "description": "<p>6:00 - 6:30\u00a0Participants arrive and socialize.\u00a0</p> <p>6:30 - 6:45\u00a0Group introductions and announcements from participants and organizers.</p> <p>6:45 - 8:45\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>8:45 - 9:00\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\u00a0Sometimes an after party (Happy Hour)</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Steven at\u00a0301-996-2164\u00a0if you have problems.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can (but remember we only have a single sponsor that covers a small amount of our expenses: servers, food, etc)</p> <p>\u2022\u00a0Bring a laptop (it\u2019s ok if you can\u2019t) and review list of active projects:\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Please take a look at our website\u00a0<a href=\"http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\">http://www.codefordc.org</a></a>\u00a0</p> <p>\u2022\u00a0Next take a look at our active projects\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\u00a0Review the Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\">https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\u00a0If you are relatively new to civic hacking check out the Code for DC Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-        "duration": 10800000, 
-        "event_url": "http://www.meetup.com/Code-for-DC/events/196868692/", 
-        "group": {
-            "created": 1375990708000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.040000915527344, 
-            "id": 9724492, 
-            "join_mode": "open", 
-            "name": "Code for DC", 
-            "urlname": "Code-for-DC", 
-            "who": "Civic Hackers"
-        }, 
-        "headcount": 0, 
-        "id": "196868692", 
-        "maybe_rsvp_count": 0, 
-        "name": "September 2014 Civic Hacknight 2", 
-        "status": "upcoming", 
-        "time": 1411509600000, 
-        "updated": 1411510245000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "419 7th St NW, Second Floor", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 20407722, 
-            "lat": 0, 
-            "lon": 0, 
-            "name": "Impact Hub DC", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 58
-    }, 
-    {
         "created": 1406234837000, 
         "description": "<p>6:00 - 6:30\u00a0Participants arrive and socialize.\u00a0</p> <p>6:30 - 6:45\u00a0Group introductions and announcements from participants and organizers.</p> <p>6:45 - 8:45\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>8:45 - 9:00\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\u00a0Sometimes an after party (Happy Hour)</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812 if you have problems.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can (but remember we only have a single sponsor that covers a small amount of our expenses: servers, food, etc)</p> <p>\u2022\u00a0Bring a laptop (it\u2019s ok if you can\u2019t) and review list of active projects:\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Please take a look at our website\u00a0<a href=\"http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\">http://www.codefordc.org</a></a>\u00a0</p> <p>\u2022\u00a0Next take a look at our active projects\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\u00a0Review the Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\">https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\u00a0If you are relatively new to civic hacking check out the Code for DC Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
         "duration": 10800000, 
@@ -111,7 +73,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1404748848000, 
@@ -253,44 +215,6 @@ calendar([
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 41
-    }, 
-    {
-        "created": 1410897105000, 
-        "description": "<p>With Fall's arrival, we finally have great weather to go with our great API presentations. \u00a0Come for great beer, tasty pizza, and a bunch of solid presentations. See you soon! \u00a0 \u00a0 \u00a0</p> <p>\n\n\n6:00pm - 6:30pm\u00a0 Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm\u00a0 Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm\u00a0 Presentations</p> <p>* Dave Goldberg - Capitol One<br/>* Bob Glass - Apigee<br/>* Taylor Lovett - 10up\u00a0<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm\u00a0 Refill your beverage\u00a0<br/>8:00pm - 8:30pm\u00a0 Panel discussions\u00a0<br/>8:30pm - 9:00pm\u00a0 Networking</p>", 
-        "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/207643152/", 
-        "group": {
-            "created": 1347647025000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.069999694824219, 
-            "id": 4930742, 
-            "join_mode": "open", 
-            "name": "DC Web API User Group", 
-            "urlname": "DC-Web-API-User-Group", 
-            "who": "API enthusiasts"
-        }, 
-        "headcount": 0, 
-        "id": "207643152", 
-        "maybe_rsvp_count": 0, 
-        "name": "DC API User Group - September Edition", 
-        "status": "upcoming", 
-        "time": 1411509600000, 
-        "updated": 1410897105000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1900 M Street, NW - 3rd floor", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 12283102, 
-            "lat": 38.905430000000003, 
-            "lon": -77.043746999999996, 
-            "name": "Chief", 
-            "repinned": false, 
-            "state": "DC", 
-            "zip": "20036"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 95
     }, 
     {
         "created": 1408392086000, 

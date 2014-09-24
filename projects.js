@@ -58,7 +58,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=2", 
-                "contributions": 352, 
+                "contributions": 355, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -99,16 +99,22 @@ projects([
                 "name": "mepps"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=2", 
+                "contributions": 4, 
+                "link": "https://github.com/sethpuckett", 
+                "name": "sethpuckett"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
                 "name": "mpeteuil"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=2", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2306490?v=2", 
                 "contributions": 1, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
+                "link": "https://github.com/ameensol", 
+                "name": "ameensol"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=2", 
@@ -117,10 +123,10 @@ projects([
                 "name": "endash"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2306490?v=2", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=2", 
                 "contributions": 1, 
-                "link": "https://github.com/ameensol", 
-                "name": "ameensol"
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2559167?v=2", 
@@ -135,7 +141,7 @@ projects([
                 "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 13, 
+        "contributors_count": 14, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
@@ -147,7 +153,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                78372
+                82094
             ], 
             [
                 "CSS", 
@@ -168,14 +174,14 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "Affordable Housing", 
-        "open_issues": 15, 
+        "open_issues": 14, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1302023?v=2", 
             "name": "mlouie", 
             "type": "User", 
             "url": "https://github.com/mlouie"
         }, 
-        "pushed_at": "2014-09-23T01:56:13Z", 
+        "pushed_at": "2014-09-24T01:26:09Z", 
         "size": 20649, 
         "updated_at": "2014-09-18T18:17:32Z", 
         "watchers": 9
@@ -350,8 +356,27 @@ projects([
         "created_at": "2013-03-11T23:54:30Z", 
         "default_branch": "master", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
-        "forks": 21, 
-        "help_wanted": [], 
+        "forks": 22, 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "We have a big pdf of official SMD boundaries. We should split it up and make it linked from our site.", 
+                "comments": 0, 
+                "created_at": "2014-09-24T00:31:18Z", 
+                "issue": "Split the SMD boundaries PDF", 
+                "issue_url": "https://github.com/codefordc/ancfinder/issues/111", 
+                "labels": [
+                    {
+                        "color": "eb6420", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/ancfinder/labels/help+wanted"
+                    }
+                ], 
+                "project": "ANC Finder", 
+                "project_url": "https://github.com/codefordc/ancfinder", 
+                "updated_at": "2014-09-24T00:31:23Z"
+            }
+        ], 
         "homepage": "http://ancfinder.org/", 
         "html_url": "https://github.com/codefordc/ancfinder", 
         "id": 8715969, 
@@ -375,7 +400,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 28, 
+        "open_issues": 30, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
@@ -719,7 +744,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
-                "contributions": 38, 
+                "contributions": 41, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
             }, 
@@ -829,14 +854,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-23T23:16:05Z", 
+        "pushed_at": "2014-09-24T00:55:23Z", 
         "size": 8053, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -1797,7 +1822,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
-                "contributions": 75, 
+                "contributions": 76, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
@@ -1847,14 +1872,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 2, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-23T20:23:58Z", 
+        "pushed_at": "2014-09-24T02:24:00Z", 
         "size": 9892, 
         "updated_at": "2014-09-10T23:24:13Z", 
         "watchers": 2
