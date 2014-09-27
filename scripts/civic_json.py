@@ -7,6 +7,7 @@ exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
 # Load in the projects we're tracking
 tracked = json.loads(open(path + '/../tracked.json').read())
+tracked = tracked["projects"]
 
 output = []
 
@@ -56,7 +57,7 @@ schema = {
         },
         "type":{
             "type":"string",
-            "blank":"True"
+            "blank":True
         },
         "needs":{
             "type":"array"

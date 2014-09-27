@@ -1,4 +1,4 @@
-[
+{"projects": [
     {
         "Affordable Housing": "https://github.com/mlouie/dchousing-apps"
     },
@@ -36,15 +36,34 @@
         "Emergency Response Times": "https://github.com/codefordc/ERDA"
     },
     {
-    	"Community Gardens Visualization": "https://github.com/shiftyp/dc_community_gardens_visualization"
+        "Community Gardens Visualization": "https://github.com/shiftyp/dc_community_gardens_visualization"
     },
     {
-    	"Campaign Finance Watch": "https://github.com/codefordc/dc-campaign-finance-watch"
+        "Campaign Finance Watch": "https://github.com/codefordc/dc-campaign-finance-watch"
     },
     {
     	"DC Handguns": "https://github.com/cmgiven/dc-handguns"
     },
     {
     	"2014 Budget Treemap": "https://github.com/drewbo/dc-budget-treemap"
+
     }
+],
+"meetups": [
+    "Code-for-DC",
+    "DCLegalHackers",
+    "DC-Hack-and-Tell",
+    "DC-Web-API-User-Group",
+    "Data-Science-DC",
+    "Transportation-Techies",
+    "dc-pyladies",
+    "Girl-Develop-It-DC",
+    "Ladies-Who-Code-Washington-DC",
+    "railsgirlsdc",
+    "Women-Who-Code-DC",
+    "gdg-dc",
+    "Geo-DC",
+    "Maptime-DC",
+    "webcontentmavens"
 ]
+}

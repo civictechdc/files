@@ -1,9 +1,10 @@
-import requests, os, json
+import requests, os, json, yaml
 
 path = os.path.dirname(os.path.realpath(__file__))
 
-# Set the groups we'd like to grab
-groups = ["Code-for-DC","DCLegalHackers","DC-Hack-and-Tell","DC-Web-API-User-Group","Data-Science-DC","Transportation-Techies"]
+# Load the groups we'd like to grab
+tracked = json.loads(open(path + '/../tracked.json').read())
+tracked = tracked["meetups"]
 
 # Load MEETUP_API_KEY from creds.py
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
@@ -11,18 +12,25 @@ exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 output = []
 
 #Loop through the groups
-for g in groups:
+for g in tracked:
+    print g
     r = requests.get("http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname="+g+"&desc=false&offset=0&photo-host=public&format=json&page=20&fields=&key="+MEETUP_API_KEY+"&sign=true").json()
     for e in r["results"]:
         output.append(e)
 
-# Save the file as JSON and JSONP
-output = json.dumps(output, sort_keys=True, indent=4)
+# Write the JSON, JSONP, and YAML files
+
+json = json.dumps(output, sort_keys=True, indent=4)
 
 with open(path + '/../calendar.json', 'w') as f:
-    f.write(output)
+    f.write(json)
 
-jsonp = "calendar(" + output + ")"
+jsonp = "calendar(" + json + ")"
 
 with open(path + '/../calendar.js', 'w') as f:
     f.write(jsonp)
+
+yml = yaml.safe_dump(output)
+
+with open(path + '/../calendar.yaml', 'w') as f:
+    f.write(yml)
