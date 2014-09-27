@@ -211,9 +211,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [0, 0, 4, 3, 0, 0, 0, 0, 0, 6, 4, 3, 1, 0, 1, 0, 0, 1, 0, 0, 0, 5, 1,
-    0, 4, 0, 0, 0, 1, 8, 7, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 8, 3, 0,
-    4, 13, 8]
+- activity: [0, 0, 5, 2, 0, 0, 0, 0, 0, 6, 7, 1, 0, 0, 1, 0, 0, 1, 0, 0, 3, 2, 1,
+    0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 4, 8, 3, 0,
+    5, 14, 6]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -282,7 +282,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-09-24T00:55:23Z'
-  size: 8053
+  size: 8186
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -319,8 +319,8 @@
   updated_at: '2014-09-26T20:31:51Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 8, 4, 1,
-    2, 0, 2]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 4, 6, 4, 1,
+    2, 1, 1]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -340,7 +340,7 @@
     thumbnailUrl: ''
     type: Guide
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 28,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 31,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 4,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -358,10 +358,10 @@
   - [Ruby, 30]
   main_language: Python
   name: Code for DC Guides
-  open_issues: 5
+  open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-09-20T03:16:46Z'
+  pushed_at: '2014-09-27T14:33:45Z'
   size: 1258
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
@@ -370,7 +370,7 @@
     5, 6, 7]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 345,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 346,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -392,12 +392,12 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-09-26T07:14:03Z'
+  pushed_at: '2014-09-27T11:14:05Z'
   size: 2382
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -486,7 +486,7 @@
   updated_at: '2014-04-18T15:18:06Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3,
-    0, 2, 0, 1, 0, 1, 0, 3, 5, 5, 2, 8, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0,
+    0, 2, 0, 1, 0, 1, 0, 3, 5, 6, 3, 6, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -550,8 +550,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 29, 9,
-    0, 2, 17, 20]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 31, 7,
+    0, 3, 19, 20]
   civic_json:
     bornAt: Code for DC
     categories:
