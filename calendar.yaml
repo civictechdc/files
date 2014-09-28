@@ -121,7 +121,7 @@
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -214,7 +214,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1408392086000
   description: "<p>For October, we'll be discussing four tech projects and their impact\
     \ on local transportation issues.\_Doors open at 6:00 with pizza and drinks, and\
@@ -945,7 +945,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
