@@ -217,6 +217,82 @@
         "yes_rsvp_count": 53
     }, 
     {
+        "created": 1411918617000, 
+        "description": "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like hyperlapse mashups]. Show us what you\u2019ve got! But remember: no startup pitches, dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+        "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/210034052/", 
+        "group": {
+            "created": 1361902062000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 7361532, 
+            "join_mode": "open", 
+            "name": "DC Hack and Tell", 
+            "urlname": "DC-Hack-and-Tell", 
+            "who": "Hackers"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "by the couch!", 
+        "id": "210034052", 
+        "maybe_rsvp_count": 0, 
+        "name": "Round 14: Ghostscript Printah", 
+        "status": "upcoming", 
+        "time": 1415059200000, 
+        "updated": 1411918617000, 
+        "utc_offset": -18000000, 
+        "venue": {
+            "address_1": "718 7th St NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 19047832, 
+            "lat": 38.899109000000003, 
+            "lon": -77.022223999999994, 
+            "name": "WeWork Chinatown", 
+            "repinned": false, 
+            "state": "DC"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 3
+    }, 
+    {
+        "created": 1411918757000, 
+        "description": "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like inverted circuit wallpaper]. Show us what you\u2019ve got! But remember: no startup pitches, dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+        "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/210034202/", 
+        "group": {
+            "created": 1361902062000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 7361532, 
+            "join_mode": "open", 
+            "name": "DC Hack and Tell", 
+            "urlname": "DC-Hack-and-Tell", 
+            "who": "Hackers"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "by the couch!", 
+        "id": "210034202", 
+        "maybe_rsvp_count": 0, 
+        "name": "Round 15: Probably Hoverboards", 
+        "status": "upcoming", 
+        "time": 1418083200000, 
+        "updated": 1411918780000, 
+        "utc_offset": -18000000, 
+        "venue": {
+            "address_1": "718 7th St NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 19047832, 
+            "lat": 38.899109000000003, 
+            "lon": -77.022223999999994, 
+            "name": "WeWork Chinatown", 
+            "repinned": false, 
+            "state": "DC"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 3
+    }, 
+    {
         "created": 1408392086000, 
         "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
@@ -404,7 +480,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 30
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1406684550000, 
@@ -842,7 +918,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 25
+        "yes_rsvp_count": 27
     }, 
     {
         "created": 1406689663000, 
@@ -936,7 +1012,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 86
+        "yes_rsvp_count": 87
     }, 
     {
         "created": 1326383071000, 
