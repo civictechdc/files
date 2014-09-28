@@ -29,7 +29,7 @@
     \ time join Google Group and Meetup</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Code-for-DC/events/196868812/
-  group: {created: 1375990708000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
   headcount: 0
@@ -76,7 +76,7 @@
     \ time join Google Group and Meetup</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Code-for-DC/events/196868952/
-  group: {created: 1375990708000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
   headcount: 0
@@ -105,7 +105,7 @@
     \ along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499412/
-  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -117,10 +117,11 @@
   updated: 1406226505000
   utc_offset: -14400000
   venue: {address_1: 600 New Jersey Avenue NW, city: Washington, country: us, id: 19547872,
-    lat: 38.898174, lon: -77.012238, name: Georgetown Law, repinned: false, state: DC}
+    lat: 38.898173999999997, lon: -77.012237999999996, name: Georgetown Law, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -134,7 +135,7 @@
     \ <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499542/
-  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -146,7 +147,8 @@
   updated: 1404749244000
   utc_offset: -18000000
   venue: {address_1: 600 New Jersey Avenue NW, city: Washington, country: us, id: 19547872,
-    lat: 38.898174, lon: -77.012238, name: Georgetown Law, repinned: false, state: DC}
+    lat: 38.898173999999997, lon: -77.012237999999996, name: Georgetown Law, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 8
@@ -164,7 +166,7 @@
     \ on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499902/
-  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -196,7 +198,7 @@
     \ to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
     \ We love hacks! &lt;3</p>"
   event_url: http://www.meetup.com/DC-Hack-and-Tell/events/204722772/
-  group: {created: 1361902062000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
     who: Hackers}
   headcount: 0
@@ -208,8 +210,8 @@
   time: 1412118000000
   updated: 1409686195000
   utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109,
-    lon: -77.022224, name: WeWork Chinatown, repinned: false, state: DC}
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 52
@@ -229,7 +231,7 @@
     \ detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards\
     \ and\_is the company behind\_<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/201709462/
-  group: {created: 1384372275000, group_lat: 38.88999938964844, group_lon: -77.06999969482422,
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -242,11 +244,11 @@
   updated: 1410705716000
   utc_offset: -14400000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
-    id: 16609032, lat: 38.895149, lon: -77.074043, name: Mobility Lab, repinned: false,
-    state: VA, zip: '22209'}
+    id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
+      Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 52
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -273,7 +275,7 @@
     <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200015252/
-  group: {created: 1384372275000, group_lat: 38.88999938964844, group_lon: -77.06999969482422,
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -286,8 +288,8 @@
   updated: 1409845572000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
-    id: 16609032, lat: 38.895149, lon: -77.074043, name: Mobility Lab, repinned: false,
-    state: VA, zip: '22209'}
+    id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
+      Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 32
@@ -307,7 +309,7 @@
     \ of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s\
     \ first-mile/last-mile ridership.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
-  group: {created: 1384372275000, group_lat: 38.88999938964844, group_lon: -77.06999969482422,
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -320,8 +322,8 @@
   updated: 1411066547000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
-    lat: 38.914551, lon: -77.021095, name: WeWork Wonder Bread Factory, repinned: false,
-    state: DC}
+    lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 17
@@ -397,7 +399,7 @@
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/199153412/
   fee: {accepts: amazon, amount: 90, currency: USD, description: per person, label: Price,
     required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -433,7 +435,7 @@
     \ to see you there!</p>"
   duration: 5400000
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/209492612/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -445,11 +447,11 @@
   updated: 1411669748000
   utc_offset: -14400000
   venue: {address_1: '25 Massachusetts Avenue, NW, 9th floor', city: Washington, country: us,
-    id: 20369732, lat: 38.898457, lon: -77.0103, name: 'Google, Inc. ', repinned: false,
-    state: DC}
+    id: 20369732, lat: 38.898457000000001, lon: -77.010300000000001, name: 'Google,
+      Inc. ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -469,7 +471,7 @@
     \ \_RSVPing here on meetup will NOT register you! \_</b></p>"
   duration: 118800000
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/197863402/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -482,7 +484,7 @@
   updated: 1407178197000
   utc_offset: -14400000
   venue: {address_1: 1101 Wilson Boulevard, city: Arlington, country: us, id: 11535262,
-    lat: 38.895325, lon: -77.06971, name: Artisphere, repinned: false, state: VA,
+    lat: 38.895325, lon: -77.069710000000001, name: Artisphere, repinned: false, state: VA,
     zip: '22209'}
   visibility: public
   waitlist_count: 0
@@ -531,7 +533,7 @@
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/206263262/
   fee: {accepts: amazon, amount: 24, currency: USD, description: per person, label: Price,
     required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -555,7 +557,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -579,7 +581,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgyspbbc/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -603,7 +605,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgysqbxb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -627,7 +629,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -651,7 +653,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytdbzb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -675,7 +677,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytfbzb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -699,7 +701,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytgbvb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -723,7 +725,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgythbcc/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -747,7 +749,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytjbxb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -771,7 +773,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytkbvb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -795,7 +797,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytlbbc/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -819,7 +821,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytmbwb/
-  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -874,7 +876,7 @@
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/199777812/
-  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -887,8 +889,8 @@
   updated: 1411431816000
   utc_offset: -14400000
   venue: {address_1: '1710 Rhode Island Ave NW, Suite 800', city: Washington, country: us,
-    id: 21999182, lat: 38.905968, lon: -77.039169, name: TrackMaven, repinned: false,
-    state: DC}
+    id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 25
@@ -929,7 +931,7 @@
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/200479872/
-  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -981,7 +983,7 @@
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/200479922/
-  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -1038,9 +1040,9 @@
   time: 1412204400000
   updated: 1411660820000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 86
@@ -1060,9 +1062,9 @@
   time: 1415232000000
   updated: 1410139754000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
@@ -1082,9 +1084,9 @@
   time: 1417651200000
   updated: 1410139736000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
@@ -1104,9 +1106,9 @@
   time: 1420675200000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1126,9 +1128,9 @@
   time: 1423094400000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1148,9 +1150,9 @@
   time: 1425513600000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1170,9 +1172,9 @@
   time: 1427929200000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1192,9 +1194,9 @@
   time: 1430953200000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1214,9 +1216,9 @@
   time: 1433372400000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1236,9 +1238,9 @@
   time: 1435791600000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1258,9 +1260,9 @@
   time: 1438815600000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1280,9 +1282,9 @@
   time: 1441234800000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
-    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1308,7 +1310,7 @@
     follow us on twitter at @MaptimeDC.</p>'
   duration: 5400000
   event_url: http://www.meetup.com/Maptime-DC/events/206833492/
-  group: {created: 1399208438000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
       hackers}
   headcount: 0
@@ -1320,8 +1322,8 @@
   updated: 1411497008000
   utc_offset: -14400000
   venue: {address_1: 1203 19th Street NW 3rd Floor, city: Washington, country: us,
-    id: 7726762, lat: 38.90591, lon: -77.043289, name: Canvas.co, repinned: false,
-    state: DC, zip: '20036'}
+    id: 7726762, lat: 38.905909999999999, lon: -77.043289000000001, name: Canvas.co,
+    repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 11

@@ -278,7 +278,7 @@
   - [JavaScript, 12522]
   main_language: CSS
   name: Code for DC Website
-  open_issues: 11
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-09-24T00:55:23Z'
@@ -340,7 +340,7 @@
     thumbnailUrl: ''
     type: Guide
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 31,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 32,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 4,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -361,12 +361,12 @@
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-09-27T14:33:45Z'
+  pushed_at: '2014-09-27T22:15:39Z'
   size: 1258
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
-- activity: [6, 7, 5, 7, 7, 6, 7, 6, 7, 5, 7, 7, 3, 0, 3, 4, 6, 7, 9, 5, 4, 6, 6,
-    4, 5, 6, 4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 5, 5, 5, 7, 6, 5, 6, 4, 6, 3,
+- activity: [6, 6, 6, 7, 7, 6, 7, 6, 6, 6, 7, 7, 2, 0, 4, 4, 6, 7, 9, 5, 3, 7, 5,
+    4, 6, 6, 4, 6, 5, 6, 6, 5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5, 6, 4, 6, 3,
     5, 6, 7]
   civic_json: null
   contributors:
