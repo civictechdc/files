@@ -77,7 +77,7 @@ calendar([
     }, 
     {
         "created": 1404748848000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Tuesday, August 5, 2014 to legal hack crypto/ethereum law.</p> <p>7-7:30 Food, drinks and networking\u00a0\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday Oct 1, 2014 to legal hack crypto/ethereum law.</p> <p>7-7:30 Food, drinks and networking\u00a0\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\u00a0Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\u00a0@valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">Open Technology Institute, etc</a>,\u00a0@compleatang</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193499412/", 
         "group": {
@@ -96,16 +96,16 @@ calendar([
         "name": "#LegalHack Crypto / Ethereum Law", 
         "status": "upcoming", 
         "time": 1412204400000, 
-        "updated": 1406226505000, 
+        "updated": 1411946039000, 
         "utc_offset": -14400000, 
         "venue": {
-            "address_1": "600 New Jersey Avenue NW", 
+            "address_1": "600 F St. NW", 
             "city": "Washington", 
             "country": "us", 
-            "id": 19547872, 
-            "lat": 38.898173999999997, 
-            "lon": -77.012237999999996, 
-            "name": "Georgetown Law", 
+            "id": 22659682, 
+            "lat": 38.897067999999997, 
+            "lon": -77.020126000000005, 
+            "name": "The Loft, Floor 5", 
             "repinned": false, 
             "state": "DC"
         }, 
@@ -214,7 +214,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 53
+        "yes_rsvp_count": 56
     }, 
     {
         "created": 1411918617000, 
@@ -442,7 +442,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 9
+        "yes_rsvp_count": 10
     }, 
     {
         "created": 1411669748000, 
@@ -480,7 +480,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 32
+        "yes_rsvp_count": 33
     }, 
     {
         "created": 1406684550000, 
@@ -918,7 +918,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 27
+        "yes_rsvp_count": 29
     }, 
     {
         "created": 1406689663000, 

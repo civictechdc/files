@@ -365,9 +365,9 @@
   size: 1258
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
-- activity: [6, 6, 6, 7, 7, 6, 7, 6, 6, 6, 7, 7, 2, 0, 4, 4, 6, 7, 9, 5, 3, 7, 5,
-    4, 6, 6, 4, 6, 5, 6, 6, 5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5, 6, 4, 6, 3,
-    5, 6, 7]
+- activity: [6, 6, 6, 7, 7, 6, 6, 7, 5, 7, 7, 6, 1, 0, 4, 5, 7, 10, 6, 3, 5, 6, 4,
+    5, 6, 6, 4, 6, 5, 7, 5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6, 5, 5, 5, 5, 3,
+    5, 7, 6]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 346,
@@ -570,7 +570,7 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 81,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 84,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=2', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
@@ -590,7 +590,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 12164]
+  - [Python, 13360]
   - [CSS, 3370]
   - [JavaScript, 658]
   main_language: Python
@@ -598,7 +598,7 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-09-26T16:45:24Z'
+  pushed_at: '2014-09-28T18:06:40Z'
   size: 15652
   updated_at: '2014-09-24T19:16:31Z'
   watchers: 2

@@ -99,10 +99,14 @@
     \ the country.\_</p> <p>A legal hacker is someone who cares about the intersection\
     \ of law and technology and seeks to improve legal practice through technology\
     \ while simultaneously using legal skills to promote technological innovation\
-    \ and exploration.\_</p> <p>Join us on Tuesday, August 5, 2014 to legal hack crypto/ethereum\
+    \ and exploration.\_</p> <p>Join us on Wednesday Oct 1, 2014 to legal hack crypto/ethereum\
     \ law.</p> <p>7-7:30 Food, drinks and networking\_\_</p> <p>7:30-7:45 Introductions\
-    \ and Announcements\_</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow\
-    \ along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
+    \ and Announcements\_</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\_\
+    Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\_\
+    @valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">Open\
+    \ Technology Institute, etc</a>,\_@compleatang</p> <p>Follow along on twitter\
+    \ with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\"\
+    >www.twitter.com/DCLegalHackers</a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499412/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -114,11 +118,10 @@
   name: '#LegalHack Crypto / Ethereum Law'
   status: upcoming
   time: 1412204400000
-  updated: 1406226505000
+  updated: 1411946039000
   utc_offset: -14400000
-  venue: {address_1: 600 New Jersey Avenue NW, city: Washington, country: us, id: 19547872,
-    lat: 38.898173999999997, lon: -77.012237999999996, name: Georgetown Law, repinned: false,
-    state: DC}
+  venue: {address_1: 600 F St. NW, city: Washington, country: us, id: 22659682, lat: 38.897067999999997,
+    lon: -77.020126000000005, name: 'The Loft, Floor 5', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 31
@@ -214,7 +217,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 56
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -483,7 +486,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1411669748000
   description: "<p><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\_would love\
     \ to announce our\_<b><a href=\"http://dcfemtech.github.io/tourdecode.html\">Tour\_\
@@ -521,7 +524,7 @@
       Inc. ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -963,7 +966,7 @@
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
