@@ -54,7 +54,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1302023?v=2', name: mlouie,
     type: User, url: 'https://github.com/mlouie'}
   pushed_at: '2014-09-24T01:26:09Z'
-  size: 20649
+  size: 20728
   updated_at: '2014-09-24T21:00:25Z'
   watchers: 10
 - activity: [3, 8, 24, 2, 12, 1, 0, 1, 1, 19, 15, 0, 0, 0, 13, 2, 5, 12, 14, 2, 8,
@@ -455,7 +455,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=2', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2014-09-29T03:15:52Z'
-  size: 5796
+  size: 5838
   updated_at: '2014-05-26T20:14:13Z'
   watchers: 12
 - activity: [0, 0, 0, 0, 0, 5, 6, 0, 7, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
