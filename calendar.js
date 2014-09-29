@@ -111,7 +111,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 31
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1404748918000, 
@@ -214,7 +214,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 56
+        "yes_rsvp_count": 61
     }, 
     {
         "created": 1411918617000, 
@@ -606,33 +606,6 @@ calendar([
         "rsvp_limit": 50, 
         "status": "upcoming", 
         "time": 1416526200000, 
-        "updated": 1383661832000, 
-        "utc_offset": -18000000, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 1
-    }, 
-    {
-        "created": 1379643162000, 
-        "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-        "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgysqbxb/", 
-        "group": {
-            "created": 1378482158000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.040000915527344, 
-            "id": 10135982, 
-            "join_mode": "open", 
-            "name": "Ladies Who Code (Washington DC)", 
-            "urlname": "Ladies-Who-Code-Washington-DC", 
-            "who": "Ladies Who Code"
-        }, 
-        "headcount": 0, 
-        "id": "qkxmtgysqbxb", 
-        "maybe_rsvp_count": 0, 
-        "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-        "rsvp_limit": 50, 
-        "status": "upcoming", 
-        "time": 1418945400000, 
         "updated": 1383661832000, 
         "utc_offset": -18000000, 
         "visibility": "public", 

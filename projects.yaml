@@ -1,6 +1,6 @@
-- activity: [2, 3, 16, 8, 7, 3, 3, 0, 4, 8, 3, 0, 0, 20, 3, 11, 3, 1, 5, 0, 0, 11,
-    0, 0, 0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 12, 10, 89, 65, 49, 4, 13, 0, 1, 0, 0, 2,
-    8, 9, 2, 0, 0, 8]
+- activity: [2, 3, 16, 8, 7, 3, 3, 0, 5, 8, 2, 0, 0, 20, 4, 10, 3, 3, 3, 0, 0, 11,
+    0, 0, 0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 14, 8, 106, 48, 49, 4, 13, 0, 1, 0, 1, 9,
+    0, 9, 2, 0, 0, 8]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=2', contributions: 355,
@@ -167,7 +167,7 @@
   size: 1988
   updated_at: '2014-09-19T20:46:19Z'
   watchers: 5
-- activity: [17, 8, 14, 0, 5, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [16, 9, 13, 0, 5, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -370,7 +370,7 @@
     5, 7, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 346,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 347,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -392,7 +392,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-09-27T11:14:05Z'
+  pushed_at: '2014-09-29T07:14:04Z'
   size: 2382
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
@@ -454,11 +454,11 @@
   open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=2', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2014-09-15T17:47:31Z'
+  pushed_at: '2014-09-29T03:15:52Z'
   size: 5796
   updated_at: '2014-05-26T20:14:13Z'
   watchers: 12
-- activity: [0, 0, 0, 0, 0, 2, 9, 0, 6, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 5, 6, 0, 7, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
