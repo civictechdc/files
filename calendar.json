@@ -111,7 +111,34 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 41
+        "yes_rsvp_count": 40
+    }, 
+    {
+        "created": 1412040483000, 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our <a href=\"http://www.meetup.com/DCLegalHackers/events/193489092/\">CopyNight in September</a> was awesome, and there was a lot of interest in doing it regularly, so:</p> <p>Join us on Wednesday, October 15, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">my list</a> from last time), probably over pizza and beer again.</p> <p>Location TBD.</p> <p><br/>Questions? \u00a0Suggestions? \u00a0Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\">poll</a>, and/or contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/DCLegalHackers/events/210382132/", 
+        "group": {
+            "created": 1372871984000, 
+            "group_lat": 38.919998168945312, 
+            "group_lon": -77.040000915527344, 
+            "id": 9201422, 
+            "join_mode": "open", 
+            "name": "DCLegalHackers", 
+            "urlname": "DCLegalHackers", 
+            "who": "Legal Hackers"
+        }, 
+        "headcount": 0, 
+        "id": "210382132", 
+        "maybe_rsvp_count": 0, 
+        "name": "#LegalHack CopyNight Returns: October 15 Edition!", 
+        "status": "upcoming", 
+        "time": 1413414000000, 
+        "updated": 1412044167000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1404748918000, 
@@ -149,7 +176,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1404749084000, 
@@ -214,7 +241,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 63
+        "yes_rsvp_count": 62
     }, 
     {
         "created": 1411918617000, 
@@ -329,7 +356,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 91
+        "yes_rsvp_count": 111
     }, 
     {
         "created": 1408392086000, 
@@ -446,42 +473,6 @@
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 17
-    }, 
-    {
-        "created": 1407257234000, 
-        "description": "<p><i>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire course.\u00a0</i></p> <p><br/><i>This 4-class HTML5/CSS3 course runs for four Mondays:</i></p> <p>Class 1, Structure Standards and HTML5:\u00a0Monday, Sept 29 6:30p-8:30p</p> <p>Class 2, Intro to CSS3: Monday, Oct 6 6:30p-8:30p</p> <p>Class 3, Advances in HTML5:\u00a0Monday, Oct 13 6:30p-8:30p</p> <p>Class 4, Introduction to Responsive Design &amp; Compatibility:\u00a0Monday, Oct 27 6:30p-8:30p</p> <p><i>Please note there is a two week gap between Class 3 and Class 4 due to the MoDev Wearables + Things conference taking place on Monday Oct 20.\u00a0</i></p> <p>\n\n\n\nIn this class, we'll be building a single-page website (think\u00a0<a href=\"http://www.onepagelove.com/\">onepagelove.com</a>) with all the new hotness: HTML5 for structure and CSS3 for sweet visual flourishes like animations, gradients, rounded corners, and drop shadows. I'll show you how easy it is to use web fonts for typography (down with Arial amiright?!).\u00a0CSS3 provides advanced selectors, graphical enhancements, and better font support that makes our sites more visual appealing without using font image replacement techniques, complex JavaScript, or graphics tools.</p> <p><br/>To get the most out of this class, you should have a working knowledge of basic HTML and CSS. You may have taken Intro to HTML/CSS through Girl Develop It, or you have built a site for fun.</p> <p>To help you gauge whether or not this class is a good fit given your current skill set, <b>you must\u00a0<a href=\"http://pixelpushstudio.com/gdi/jquizzy.htm\">take this mandatory quiz</a></b>.\u00a0Anything better than 70% should allow you to follow along in the class. A review will be provided before we start the new material and you can view the material we'll be basing our class on\u00a0<a href=\"http://girldevelopit.com/materials\">on our website</a>\u00a0(look under \"Intermediate\u00a0HTML\"). If you have additional questions, feel free to post them below.</p> <p>\n\n\n<b>About the Teacher:</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/e/3/1/4/600_395098132.jpeg\" /></p> <p>Megan Robinson is the Associate Director of Creative and Digital Marketing Strategy for The Webster Group (TWG). \u00a0She\u2019s an experienced and skilled web developer and graphic designer with a strong background in marketing. \u00a0She combines her skills in web development, social media marketing and graphic design to create interactive and beautiful marketing packages for clients that help to establish them as leaders in their prospective industries.</p> <p>Ms. Robinson is an active member of the American Marketing Association and Phi Mu DC Alumni Chapter. In her free time, she enjoys cooking, exercising, lazy Sundays her husband, and surfing the web for the most epic cat memes and videos of the week</p> <p>\n\n\n\n<b>Please bring/install the following on your computer prior to class:\u00a0</b></p> <p>\u2022\u00a0Your laptop and charger. Note: A netbook or tablet is NOT a substitute. \u00a0</p> <p>\u2022 A code editor installed. (We recommend\u00a0<a href=\"http://notepad-plus-plus.org/download/v6.5.3.html\">Notepad++</a>\u00a0for Windows and\u00a0<a href=\"http://www.sublimetext.com/2\">SublimeText 2</a>\u00a0for Windows or Mac. \u00a0Both are free.)</p> <p>\u2022 A modern browser with either\u00a0<a href=\"https://www.google.com/intl/en/chrome/browser/\">Chrome</a>\u00a0and the\u00a0<a href=\"https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm\">\"Web Developer\"</a>extension or\u00a0<a href=\"http://www.mozilla.org/en-US/firefox/new/\">Firefox</a>\u00a0and\u00a0<a href=\"http://getfirebug.com/\">Firebug</a>\u00a0installed.</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\" /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\u00a0will be providing food and drinks for classes! \u00a0Please give them a shout out on Twitter\u00a0<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\u00a0</p> <p>\n\n\n<b>Parking:</b></p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free for events after 5pm. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/199153412/", 
-        "fee": {
-            "accepts": "amazon", 
-            "amount": 90, 
-            "currency": "USD", 
-            "description": "per person", 
-            "label": "Price", 
-            "required": "1"
-        }, 
-        "group": {
-            "created": 1395687537000, 
-            "group_lat": 38.900001525878906, 
-            "group_lon": -77.040000915527344, 
-            "id": 13526522, 
-            "join_mode": "open", 
-            "name": "Girl Develop It D.C.", 
-            "urlname": "Girl-Develop-It-DC", 
-            "who": "Nerdettes"
-        }, 
-        "headcount": 0, 
-        "id": "199153412", 
-        "maybe_rsvp_count": 0, 
-        "name": "HTML5/CSS3", 
-        "rsvp_limit": 31, 
-        "status": "upcoming", 
-        "time": 1412029800000, 
-        "updated": 1407271320000, 
-        "utc_offset": -14400000, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 12
     }, 
     {
         "created": 1411669748000, 
@@ -896,44 +887,6 @@
     }, 
     {
         "created": 1406689663000, 
-        "description": "<p>Demo by <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/13029115/\">Lentie</a></p> <p>Recent technologies used in a recent site build:</p> <p>\u2022\u00a0Highcharts</p> <p>\u2022\u00a0Foundation Framework</p> <p>\u2022\u00a0Maps</p> <p>-------------------------------------------------------------</p> <p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFiddle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p><a href=\"http://codecademy.com/\">&lt;/a&gt;</p> <p>Google Doc for Project Ideas:</p> <p>&lt;a href=\"https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing\"&gt;<a href=\"https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing</a></a></p>", 
-        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/199777812/", 
-        "group": {
-            "created": 1395616294000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.040000915527344, 
-            "id": 13508462, 
-            "join_mode": "open", 
-            "name": "Women Who Code DC", 
-            "urlname": "Women-Who-Code-DC", 
-            "who": "Coders"
-        }, 
-        "headcount": 0, 
-        "id": "qbbvpkysmbmc", 
-        "maybe_rsvp_count": 0, 
-        "name": "Front End Hack Night", 
-        "rsvp_limit": 40, 
-        "status": "upcoming", 
-        "time": 1412031600000, 
-        "updated": 1412030890000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1710 Rhode Island Ave NW, Suite 800", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 21999182, 
-            "lat": 38.905968000000001, 
-            "lon": -77.039169000000001, 
-            "name": "TrackMaven", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 31
-    }, 
-    {
-        "created": 1406689663000, 
         "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
         "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/200479872/", 
         "group": {
@@ -957,7 +910,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 12
+        "yes_rsvp_count": 13
     }, 
     {
         "created": 1406689663000, 
@@ -984,7 +937,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 6
+        "yes_rsvp_count": 7
     }, 
     {
         "created": 1412026429000, 
@@ -1012,12 +965,12 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 16
+        "yes_rsvp_count": 19
     }, 
     {
         "created": 1412028192000, 
         "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/qhzfskysnbbc/", 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210383992/", 
         "group": {
             "created": 1395616294000, 
             "group_lat": 38.909999847412109, 
@@ -1039,7 +992,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 3
+        "yes_rsvp_count": 4
     }, 
     {
         "created": 1412026524000, 
@@ -1067,12 +1020,12 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 19
+        "yes_rsvp_count": 26
     }, 
     {
         "created": 1412028192000, 
         "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/qhzfskysnbkc/", 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210384012/", 
         "group": {
             "created": 1395616294000, 
             "group_lat": 38.909999847412109, 
@@ -1094,7 +1047,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 3
+        "yes_rsvp_count": 4
     }, 
     {
         "created": 1326383071000, 
@@ -1134,7 +1087,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 92
+        "yes_rsvp_count": 94
     }, 
     {
         "created": 1326383071000, 
