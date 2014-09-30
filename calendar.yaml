@@ -124,7 +124,7 @@
     lon: -77.020126000000005, name: 'The Loft, Floor 5', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -156,7 +156,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 18
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -249,7 +249,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -369,7 +369,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 125
 - created: 1408392086000
   description: "<p>For October, we'll be discussing four tech projects and their impact\
     \ on local transportation issues.\_Doors open at 6:00 with pizza and drinks, and\
@@ -403,7 +403,7 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -519,7 +519,7 @@
       Inc. ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -615,7 +615,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -880,6 +880,45 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1412081417000
+  description: "<p>RSVP here also:\_<a href=\"https://nvite.com/DCfemtech/f83\"><a\
+    \ href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p>\
+    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
+    \ informal way to learn, code and work on projects with other members in the community.\
+    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
+    \ open to all women or those who support women and minorities in tech. Feel free\
+    \ to come early or stay later. These events are held at public coffee shops, so\
+    \ good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code\
+    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
+    \ plan. These events are very informal so ladies will usually bring their own\
+    \ projects or meet people who are working on similar projects to collaborate together.\
+    \ If you're a beginner we recommend some online tutorials like Code Academy or\
+    \ General Assembly Dash. The hope is that you will find ladies who are learning\
+    \ similar coding languages and projects to work with or ask questions.</p> <p>When\
+    \ you arrive, we'll ask you to visit our Hackpad so we can all get to know a little\
+    \ more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"\
+    \ class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code\
+    \ &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC,\
+    \ @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual\
+    \ pages for resources and more events throughout the month!</p>"
+  duration: 874800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/210456922/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '210456922'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1412445600000
+  updated: 1412081454000
+  utc_offset: -14400000
+  venue: {address_1: 1801 N Lynn St, city: Arlington, country: us, id: 21467472, lat: 38.896709000000001,
+    lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -931,7 +970,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 17
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1012,7 +1051,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 31
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1064,7 +1103,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -1094,7 +1133,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 44
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1194,7 +1233,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1475,4 +1514,4 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
