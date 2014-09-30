@@ -35,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 22
+        "yes_rsvp_count": 23
     }, 
     {
         "created": 1406234864000, 
@@ -111,7 +111,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 36
+        "yes_rsvp_count": 41
     }, 
     {
         "created": 1404748918000, 
@@ -214,7 +214,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 62
+        "yes_rsvp_count": 63
     }, 
     {
         "created": 1411918617000, 
@@ -293,6 +293,45 @@ calendar([
         "yes_rsvp_count": 3
     }, 
     {
+        "created": 1412021992000, 
+        "description": "<p>For our October Meetup, we're very pleased to have Jared Lander from NYC visit us to talk about <a href=\"http://en.wikipedia.org/wiki/Least_squares#Lasso_method\">Lasso regression</a>.\u00a0The Lasso is one of the most significant machine learning algorithms from the past 15 years. Conceived by Hastie, Tibshirani and Friedman from Stanford, the Lasso performs dimension reduction and variable selection, making it well suited for the high dimensionality of today's datasets. In this talk, Jared will go over some of the math behind the Lasso and discuss some recent advancements in performing statistical inference on Lasso-fitted models. He will also show the R code behind the results. This will be an engaging and highly informative presentation -- don't miss it!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Bio:</b></p> <p><a href=\"http://www.jaredlander.com/\">Jared Lander</a>\u00a0is the Founder and CEO of\u00a0<a href=\"http://www.landeranalytics.com/\">Lander Analytics</a>\u00a0a data science consultancy based in New York City, the Organizer of the\u00a0<a href=\"http://www.meetup.com/nyhackr/\">New York Open Statistical Programming Meetup</a>\u00a0and an Adjunct Professor of Statistics at\u00a0<a href=\"http://stat.columbia.edu/\">Columbia University</a>.\u00a0 His work for both large and small organizations\u00a0ranges from music and tech startups to finance and humanitarian relief efforts. \u00a0He is the author of\u00a0<a href=\"http://www.amazon.com/gp/product/0321888030/ref=as_li_tf_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0321888030&amp;link_code=as3&amp;tag=jareland-20\">R for Everyone: Advanced Analytics and Graphics</a>, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>, <a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
+        "event_url": "http://www.meetup.com/Data-Science-DC/events/210315282/", 
+        "group": {
+            "created": 1311348860000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 2215331, 
+            "join_mode": "open", 
+            "name": "Data Science DC", 
+            "urlname": "Data-Science-DC", 
+            "who": "Data Scientists"
+        }, 
+        "headcount": 0, 
+        "id": "210315282", 
+        "maybe_rsvp_count": 0, 
+        "name": "Confidence in the Lasso", 
+        "rsvp_limit": 500, 
+        "status": "upcoming", 
+        "time": 1413844200000, 
+        "updated": 1412032474000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "2201 G St. NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 13300352, 
+            "lat": 38.898952000000001, 
+            "lon": -77.048942999999994, 
+            "name": "GWU, Funger Hall, Room 108", 
+            "repinned": false, 
+            "state": "DC", 
+            "zip": "20052"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 91
+    }, 
+    {
         "created": 1408392086000, 
         "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
@@ -329,7 +368,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 55
+        "yes_rsvp_count": 57
     }, 
     {
         "created": 1407622606000, 
@@ -857,7 +896,7 @@ calendar([
     }, 
     {
         "created": 1406689663000, 
-        "description": "<p>Demo by <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/13029115/\">Lentie</a></p> <p>Recent technologies used in a recent site build:</p> <p>\u2022\u00a0Highcharts</p> <p>\u2022\u00a0Foundation Framework</p> <p>\u2022\u00a0Maps</p> <p>-------------------------------------------------------------</p> <p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+        "description": "<p>Demo by <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/13029115/\">Lentie</a></p> <p>Recent technologies used in a recent site build:</p> <p>\u2022\u00a0Highcharts</p> <p>\u2022\u00a0Foundation Framework</p> <p>\u2022\u00a0Maps</p> <p>-------------------------------------------------------------</p> <p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFiddle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p><a href=\"http://codecademy.com/\">&lt;/a&gt;</p> <p>Google Doc for Project Ideas:</p> <p>&lt;a href=\"https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing\"&gt;<a href=\"https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1dWMgo-I8S81HUmXRsXa2GvWcqz-lhKfsKIn_2K5Z3zw/edit?usp=sharing</a></a></p>", 
         "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/199777812/", 
         "group": {
             "created": 1395616294000, 
@@ -875,8 +914,8 @@ calendar([
         "name": "Front End Hack Night", 
         "rsvp_limit": 40, 
         "status": "upcoming", 
-        "time": 1412029800000, 
-        "updated": 1411431816000, 
+        "time": 1412031600000, 
+        "updated": 1412030890000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1710 Rhode Island Ave NW, Suite 800", 
@@ -891,7 +930,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 30
+        "yes_rsvp_count": 31
     }, 
     {
         "created": 1406689663000, 
@@ -918,7 +957,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1406689663000, 
@@ -935,17 +974,127 @@ calendar([
             "who": "Coders"
         }, 
         "headcount": 0, 
-        "id": "qbbvpkysnbrb", 
+        "id": "qhzfskysnbrb", 
         "maybe_rsvp_count": 0, 
         "name": "Front End Hack Night", 
         "rsvp_limit": 40, 
         "status": "upcoming", 
         "time": 1413239400000, 
-        "updated": 1410822963000, 
+        "updated": 1412028192000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 6
+    }, 
+    {
+        "created": 1412026429000, 
+        "description": "<p>Interested in learning to code, but don't know where to start? \u00a0Have an idea for a web application or an app, but aren't sure what the best platform is to build it in?\u00a0Do you want to learn what the differences are between Python, Ruby, \u00a0HTML,\u00a0Java, Javascript, and the dozens of other terms you hear when people talk about technology?</p> <p>This meetup will introduce you to a lot of the common terms that developers often forget can be so confusing when you first start out. We will be starting from the ground up to explain what languages are useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners to help determine what coding \"path\" you want to start out with. It could also be very useful for a developer that wants to expand\u00a0her\u00a0high-level understanding of new languages!</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210332182/", 
+        "group": {
+            "created": 1395616294000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.040000915527344, 
+            "id": 13508462, 
+            "join_mode": "open", 
+            "name": "Women Who Code DC", 
+            "urlname": "Women-Who-Code-DC", 
+            "who": "Coders"
+        }, 
+        "headcount": 0, 
+        "id": "210332182", 
+        "maybe_rsvp_count": 0, 
+        "name": "The Language of Languages", 
+        "rsvp_limit": 60, 
+        "status": "upcoming", 
+        "time": 1413412200000, 
+        "updated": 1412026429000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 16
+    }, 
+    {
+        "created": 1412028192000, 
+        "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/qhzfskysnbbc/", 
+        "group": {
+            "created": 1395616294000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.040000915527344, 
+            "id": 13508462, 
+            "join_mode": "open", 
+            "name": "Women Who Code DC", 
+            "urlname": "Women-Who-Code-DC", 
+            "who": "Coders"
+        }, 
+        "headcount": 0, 
+        "id": "qhzfskysnbbc", 
+        "maybe_rsvp_count": 0, 
+        "name": "Front End Hack Night", 
+        "rsvp_limit": 40, 
+        "status": "upcoming", 
+        "time": 1413844200000, 
+        "updated": 1412028192000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 3
+    }, 
+    {
+        "created": 1412026524000, 
+        "description": "<p>Have you ever lost code and been really frustrated? Have you needed a line you wrote two days ago but saved over? Maybe you want to code with other people but are tired of sending zip files back and forth via email? Are you just getting started coding and want to learn best practices for how and where you should save it?</p> <p>This meetup will introduce you to Git, a version control system. This event is perfect for beginners as we'll show you the tool many developers use to collaborate and back up code. If you're a developer and you are not using a version control system, you should come out too as it's an absolute must for a developer's workflow.</p> <p>This event will be hands-on, so we encourage you to bring your laptops as we'll be doing real examples and practicing together. If you want to get ahead of the curve, you can sign up for a free account over at Github.com and start reading some of their documentation.</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210332922/", 
+        "group": {
+            "created": 1395616294000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.040000915527344, 
+            "id": 13508462, 
+            "join_mode": "open", 
+            "name": "Women Who Code DC", 
+            "urlname": "Women-Who-Code-DC", 
+            "who": "Coders"
+        }, 
+        "headcount": 0, 
+        "id": "210332922", 
+        "maybe_rsvp_count": 0, 
+        "name": "Intro to Git", 
+        "rsvp_limit": 60, 
+        "status": "upcoming", 
+        "time": 1413930600000, 
+        "updated": 1412026524000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 19
+    }, 
+    {
+        "created": 1412028192000, 
+        "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/qhzfskysnbkc/", 
+        "group": {
+            "created": 1395616294000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.040000915527344, 
+            "id": 13508462, 
+            "join_mode": "open", 
+            "name": "Women Who Code DC", 
+            "urlname": "Women-Who-Code-DC", 
+            "who": "Coders"
+        }, 
+        "headcount": 0, 
+        "id": "qhzfskysnbkc", 
+        "maybe_rsvp_count": 0, 
+        "name": "Front End Hack Night", 
+        "rsvp_limit": 40, 
+        "status": "upcoming", 
+        "time": 1414449000000, 
+        "updated": 1412028192000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 3
     }, 
     {
         "created": 1326383071000, 
@@ -985,7 +1134,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 89
+        "yes_rsvp_count": 92
     }, 
     {
         "created": 1326383071000, 
@@ -1464,6 +1613,6 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 10
     }
 ])
