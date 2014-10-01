@@ -137,9 +137,9 @@
     \ it regularly, so:</p> <p>Join us on Wednesday, October 15, 2014 to legal hack\
     \ copyright and bring back CopyNight to DC!</p> <p>We\_will discuss a broad range\
     \ of recent copyright issues (<i>see, e.g.</i>,\_<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\"\
-    >my list</a> from last time), probably over pizza and beer again.</p> <p>Location\
-    \ TBD.</p> <p><br/>Questions? \_Suggestions? \_Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\"\
-    >poll</a>, and/or contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\"\
+    >our list</a> from last time), over pizza and beer.</p> <p>Questions? \_Suggestions?\
+    \ \_Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\">poll</a>, and/or\
+    \ contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\"\
     >@alisternburg</a>.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/210382132/
@@ -147,16 +147,19 @@
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
+  how_to_find_us: (We'll be on the second floor of WeWork!)
   id: '210382132'
   maybe_rsvp_count: 0
   name: '#LegalHack CopyNight Returns: October 15 Edition!'
   status: upcoming
   time: 1413414000000
-  updated: 1412044167000
+  updated: 1412109146000
   utc_offset: -14400000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -249,7 +252,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 62
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -284,7 +287,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 6
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -369,19 +372,17 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 134
 - created: 1408392086000
-  description: "<p>For October, we'll be discussing four tech projects and their impact\
-    \ on local transportation issues.\_Doors open at 6:00 with pizza and drinks, and\
-    \ the presentations start at 6:30.\_</p> <p>\u2022\_Trevor Gerhardt of <a href=\"\
-    http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\"\
+  description: "<p>For October, we'll be discussing three tech projects and their\
+    \ impact on local transportation issues.\_Doors open at 6:00 with pizza and drinks,\
+    \ and the presentations start at 6:30.\_</p> <p>\u2022\_Trevor Gerhardt of <a\
+    \ href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\"\
     >Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating\
-    \ a commute\" portion of the program.</p> <p>\u2022\_Eric Meyer will tell us about\
-    \ the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a>\
-    \ mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\
-    \_Chase Donnelly and\_Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\"\
-    >Boontrek</a> app, which\_creates a community marketplace for ride sharing.</p>\
-    \ <p><br/>\u2022\_Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\"\
+    \ a commute\" portion of the program.</p> <p>\u2022\_Chase Donnelly and\_Peter\
+    \ Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app,\
+    \ which\_creates a community marketplace for ride sharing.</p> <p><br/>\u2022\_\
+    Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\"\
     >EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data,\
     \ detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards\
     \ and\_is the company behind\_<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>"
@@ -396,14 +397,14 @@
   rsvp_limit: 60
   status: upcoming
   time: 1412287200000
-  updated: 1410705716000
+  updated: 1412111061000
   utc_offset: -14400000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 58
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -501,7 +502,7 @@
     \ <p><a href=\"https://nvite.com/DCFemTechTDC/eb6\"><a href=\"https://nvite.com/DCFemTechTDC/eb6\"\
     \ class=\"linkified\">https://nvite.com/DCFemTechTDC/eb6</a></a></p> <p><br/>Hope\
     \ to see you there!</p>"
-  duration: 5400000
+  duration: 7200000
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/209492612/
   group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
@@ -511,8 +512,8 @@
   maybe_rsvp_count: 0
   name: DCFemTech Tour de Code!
   status: upcoming
-  time: 1412289000000
-  updated: 1411669748000
+  time: 1412287200000
+  updated: 1412107565000
   utc_offset: -14400000
   venue: {address_1: '25 Massachusetts Avenue, NW, 9th floor', city: Washington, country: us,
     id: 20369732, lat: 38.898457000000001, lon: -77.010300000000001, name: 'Google,
@@ -557,6 +558,78 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1412113433000
+  description: "<p>We are in DC. \_The capital is here along with a whole slew of\
+    \ federal government agencies and state agencies for the tri-state area. \_What\
+    \ does that equate to? \_Lots of government jobs.\_</p> <p><br/>Do you know what\
+    \ collaboration platform is most prevalent in the DMV area? \_Microsoft SharePoint.\
+    \ \_Do a search for SharePoint jobs, and you will find an abundance of jobs in\
+    \ our area. \_But guess what? \_There are not enough people qualified to take\
+    \ these jobs. \_</p> <p>In addition to direct government jobs there are loads\
+    \ of government contractors, small businesses, and nonprofits in the area. \_\
+    What technology is taking off with those right now? \_Cloud. \_Microsoft\u2019\
+    s Office 365 is a cloud platform that is taking off and being adopted by more\
+    \ and more of these organizations every day. \_This\_includes SharePoint and some\
+    \ other powerful tools, like Lync which is used for instant messaging, presence,\
+    \ web conferencing and more!</p> <p>Why did I just go through saying all of that?\
+    \ \_I prefaced with all of that to say this:\_<b>Learning about these technologies\
+    \ are crucial to the market in which we live</b>. \_In this class, you will get\
+    \ a taste of how to use these tools, Office 365, Lync, and SharePoint, as an end\
+    \ user\u2026 And, don\u2019t worry, this is only the beginning!</p> <p>\n\n\n\
+    <b>About the teacher:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/b/d/0/600_416055312.jpeg\"\
+    \ /></p> <p>Nikkia\_Carter is the owner and CEO of CMS, LLC, a small woman and\
+    \ minority owned company in King George, VA.\_Nikkia's company is a Microsoft\
+    \ Partner, Cloud Accelerate Partner, SMB Champion, and Value Added Reseller business\
+    \ technology consulting, development, and training. Her company is also a Value\
+    \ Added Reseller of Constant Contact, Hootsuite, and BrainStorm and\_Nikkia\_\
+    is a CompTIA Certified Technical Trainer and a Microsoft certified Professional.\
+    \ \_Nikkia\_has industry experience since 2001 in software, web (intranet), Office\
+    \ 365, InfoPath, and SharePoint development.\_</p> <p>\n\n\n<b>Please bring/install\
+    \ the following on your computer prior to class:\_</b></p> <p>\u2022\_Your laptop\
+    \ and charger. Note: A netbook or tablet is NOT a substitute. \_</p> <p>\n\n\n\
+    <img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\"\
+    \ /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"\
+    http://disruption.vc/\"&gt;Disruption Corporation</a>\_is generously providing\
+    \ space at their Crystal Tech Fund offices in Crystal City for our classes! \_\
+    They are an amazing partner, and we encourage you to Tweet your thanks\_<a href=\"\
+    https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p>\n\n\n<b>Food\
+    \ &amp; Drinks:</b></p> <p>Please bring snacks and a bagged lunch. \_We do not\
+    \ have a food sponsor for this workshop!\_</p> <p><b>Parking:</b></p> <p>There's\
+    \ an underground parking garage at the intersection of Crystal Dr. and 23rd St.\
+    \ - you can park there as it's directly under the building (follow signs to bldg\
+    \ 2231). \_Parking is free on weekends. \_There is also a free garage across the\
+    \ street. \_</p> <p>Alternately, you can take the metro to the Crystal City metro\
+    \ station on yellow/blue lines. \_The office is only a couple short blocks away.\
+    \ \_</p> <p>\n\n\n<b>Refund Policy:\_</b>Your payment guarantees your seat in\
+    \ the course. If something changes after registration and you cannot attend the\
+    \ course, your seat is yours to sell or give to someone else - just please let\
+    \ us know who! \_As a rule we don't offer refunds or credits; \_Instead your class\
+    \ fee will go toward our chapter fund which we will use to establish a scholarship\
+    \ fund going forward. \_ That said, please do reach out and let us know if you\
+    \ have extenuating circumstances.</p>"
+  duration: 14400000
+  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/210566302/
+  fee: {accepts: amazon, amount: 48, currency: USD, description: per person, label: Price,
+    required: '1'}
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
+    who: Nerdettes}
+  headcount: 0
+  how_to_find_us: Come on into the elevator lobby and up to the 10th floor!
+  id: '210566302'
+  maybe_rsvp_count: 0
+  name: SharePoint End User Workshop
+  rsvp_limit: 30
+  status: upcoming
+  time: 1414245600000
+  updated: 1412113433000
+  utc_offset: -14400000
+  venue: {address_1: '2231 Crystal Drive, Suite 1000', city: Arlington, country: us,
+    id: 20218602, lat: 38.853779000000003, lon: -77.048766999999998, name: Crystal
+      Tech Fund, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -918,7 +991,7 @@
     lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -970,7 +1043,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1051,7 +1124,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1133,7 +1206,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -1233,7 +1306,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1255,7 +1328,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1514,4 +1587,4 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 21

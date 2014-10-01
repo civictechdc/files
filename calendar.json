@@ -115,7 +115,7 @@
     }, 
     {
         "created": 1412040483000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our <a href=\"http://www.meetup.com/DCLegalHackers/events/193489092/\">CopyNight in September</a> was awesome, and there was a lot of interest in doing it regularly, so:</p> <p>Join us on Wednesday, October 15, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">my list</a> from last time), probably over pizza and beer again.</p> <p>Location TBD.</p> <p><br/>Questions? \u00a0Suggestions? \u00a0Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\">poll</a>, and/or contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our <a href=\"http://www.meetup.com/DCLegalHackers/events/193489092/\">CopyNight in September</a> was awesome, and there was a lot of interest in doing it regularly, so:</p> <p>Join us on Wednesday, October 15, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a> from last time), over pizza and beer.</p> <p>Questions? \u00a0Suggestions? \u00a0Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\">poll</a>, and/or contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/210382132/", 
         "group": {
@@ -129,16 +129,28 @@
             "who": "Legal Hackers"
         }, 
         "headcount": 0, 
+        "how_to_find_us": "(We'll be on the second floor of WeWork!)", 
         "id": "210382132", 
         "maybe_rsvp_count": 0, 
         "name": "#LegalHack CopyNight Returns: October 15 Edition!", 
         "status": "upcoming", 
         "time": 1413414000000, 
-        "updated": 1412044167000, 
+        "updated": 1412109146000, 
         "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "718 7th St NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 19047832, 
+            "lat": 38.899109000000003, 
+            "lon": -77.022223999999994, 
+            "name": "WeWork Chinatown", 
+            "repinned": false, 
+            "state": "DC"
+        }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 18
+        "yes_rsvp_count": 20
     }, 
     {
         "created": 1404748918000, 
@@ -241,7 +253,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 63
+        "yes_rsvp_count": 62
     }, 
     {
         "created": 1411918617000, 
@@ -279,7 +291,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 3
+        "yes_rsvp_count": 6
     }, 
     {
         "created": 1411918757000, 
@@ -356,11 +368,11 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 125
+        "yes_rsvp_count": 134
     }, 
     {
         "created": 1408392086000, 
-        "description": "<p>For October, we'll be discussing four tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Eric Meyer will tell us about the Baltimore-based <a href=\"http://www.haystackmobile.com/\">Haystack</a> mobile app, which lets people buy and sell street-side parking spaces.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
+        "description": "<p>For October, we'll be discussing three tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
         "group": {
             "created": 1384372275000, 
@@ -379,7 +391,7 @@
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1412287200000, 
-        "updated": 1410705716000, 
+        "updated": 1412111061000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -395,7 +407,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 59
+        "yes_rsvp_count": 58
     }, 
     {
         "created": 1407622606000, 
@@ -477,7 +489,7 @@
     {
         "created": 1411669748000, 
         "description": "<p><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\u00a0would love to announce our\u00a0<b><a href=\"http://dcfemtech.github.io/tourdecode.html\">Tour\u00a0de\u00a0Code</a></b>,\u00a0a collaboration with dozens of organizations (Women Who\u00a0Code, Startup Weekend,\u00a0Code\u00a0for Progress, Girl Develop It, DC Web Women, AIGA, General Assembly and more!) to help you advance your technical skills. Get ready for an October filled with workshops and events to help beginners learn how to\u00a0code and design! \u00a0Follow\u00a0<a href=\"http://twitter.com/dcfemtech\">@DCFemTech</a>\u00a0for updates and sign up to get the latest with the\u00a0<a href=\"http://dcfemtech.github.io/newsletter.html\">Tech Lady Newsletter</a>.</p> <p><br/>Join us for a Kick off Celebration for the DCFT Tour de Code! \u00a0Our friends at Google DC are hosting, (they're kick ass hosts!), and it promises to be a great evening! \u00a0Come meet representatives from all the different WIT organizations and phenomenal people in our community!\u00a0</p> <p><b>Please RSVP on nvite (link below). \u00a0RSVPing on this meetup DOES NOT RSVP you to the event.</b> \u00a0Although this is a free event, space is limited and we're really hoping to fill it so RSVP on nvite and come JOIN US!\u00a0</p> <p><a href=\"https://nvite.com/DCFemTechTDC/eb6\"><a href=\"https://nvite.com/DCFemTechTDC/eb6\" class=\"linkified\">https://nvite.com/DCFemTechTDC/eb6</a></a></p> <p><br/>Hope to see you there!</p>", 
-        "duration": 5400000, 
+        "duration": 7200000, 
         "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/209492612/", 
         "group": {
             "created": 1395687537000, 
@@ -494,8 +506,8 @@
         "maybe_rsvp_count": 0, 
         "name": "DCFemTech Tour de Code!", 
         "status": "upcoming", 
-        "time": 1412289000000, 
-        "updated": 1411669748000, 
+        "time": 1412287200000, 
+        "updated": 1412107565000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "25 Massachusetts Avenue, NW, 9th floor", 
@@ -551,6 +563,54 @@
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 2
+    }, 
+    {
+        "created": 1412113433000, 
+        "description": "<p>We are in DC. \u00a0The capital is here along with a whole slew of federal government agencies and state agencies for the tri-state area. \u00a0What does that equate to? \u00a0Lots of government jobs.\u00a0</p> <p><br/>Do you know what collaboration platform is most prevalent in the DMV area? \u00a0Microsoft SharePoint. \u00a0Do a search for SharePoint jobs, and you will find an abundance of jobs in our area. \u00a0But guess what? \u00a0There are not enough people qualified to take these jobs. \u00a0</p> <p>In addition to direct government jobs there are loads of government contractors, small businesses, and nonprofits in the area. \u00a0What technology is taking off with those right now? \u00a0Cloud. \u00a0Microsoft\u2019s Office 365 is a cloud platform that is taking off and being adopted by more and more of these organizations every day. \u00a0This\u00a0includes SharePoint and some other powerful tools, like Lync which is used for instant messaging, presence, web conferencing and more!</p> <p>Why did I just go through saying all of that? \u00a0I prefaced with all of that to say this:\u00a0<b>Learning about these technologies are crucial to the market in which we live</b>. \u00a0In this class, you will get a taste of how to use these tools, Office 365, Lync, and SharePoint, as an end user\u2026 And, don\u2019t worry, this is only the beginning!</p> <p>\n\n\n<b>About the teacher:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/b/d/0/600_416055312.jpeg\" /></p> <p>Nikkia\u00a0Carter is the owner and CEO of CMS, LLC, a small woman and minority owned company in King George, VA.\u00a0Nikkia's company is a Microsoft Partner, Cloud Accelerate Partner, SMB Champion, and Value Added Reseller business technology consulting, development, and training. Her company is also a Value Added Reseller of Constant Contact, Hootsuite, and BrainStorm and\u00a0Nikkia\u00a0is a CompTIA Certified Technical Trainer and a Microsoft certified Professional. \u00a0Nikkia\u00a0has industry experience since 2001 in software, web (intranet), Office 365, InfoPath, and SharePoint development.\u00a0</p> <p>\n\n\n<b>Please bring/install the following on your computer prior to class:\u00a0</b></p> <p>\u2022\u00a0Your laptop and charger. Note: A netbook or tablet is NOT a substitute. \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p>\n\n\n<b>Food &amp; Drinks:</b></p> <p>Please bring snacks and a bagged lunch. \u00a0We do not have a food sponsor for this workshop!\u00a0</p> <p><b>Parking:</b></p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free on weekends. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+        "duration": 14400000, 
+        "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/210566302/", 
+        "fee": {
+            "accepts": "amazon", 
+            "amount": 48, 
+            "currency": "USD", 
+            "description": "per person", 
+            "label": "Price", 
+            "required": "1"
+        }, 
+        "group": {
+            "created": 1395687537000, 
+            "group_lat": 38.900001525878906, 
+            "group_lon": -77.040000915527344, 
+            "id": 13526522, 
+            "join_mode": "open", 
+            "name": "Girl Develop It D.C.", 
+            "urlname": "Girl-Develop-It-DC", 
+            "who": "Nerdettes"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Come on into the elevator lobby and up to the 10th floor!", 
+        "id": "210566302", 
+        "maybe_rsvp_count": 0, 
+        "name": "SharePoint End User Workshop", 
+        "rsvp_limit": 30, 
+        "status": "upcoming", 
+        "time": 1414245600000, 
+        "updated": 1412113433000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "2231 Crystal Drive, Suite 1000", 
+            "city": "Arlington", 
+            "country": "us", 
+            "id": 20218602, 
+            "lat": 38.853779000000003, 
+            "lon": -77.048766999999998, 
+            "name": "Crystal Tech Fund", 
+            "repinned": false, 
+            "state": "VA"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 1
     }, 
     {
         "created": 1410303623000, 
@@ -921,7 +981,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 4
+        "yes_rsvp_count": 5
     }, 
     {
         "created": 1406689663000, 
@@ -948,7 +1008,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 17
+        "yes_rsvp_count": 19
     }, 
     {
         "created": 1406689663000, 
@@ -1003,7 +1063,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 31
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1412028192000, 
@@ -1058,7 +1118,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 44
+        "yes_rsvp_count": 46
     }, 
     {
         "created": 1412028192000, 
@@ -1125,7 +1185,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 96
+        "yes_rsvp_count": 97
     }, 
     {
         "created": 1326383071000, 
@@ -1165,7 +1225,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 5
+        "yes_rsvp_count": 6
     }, 
     {
         "created": 1326383071000, 
@@ -1604,6 +1664,6 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 12
+        "yes_rsvp_count": 21
     }
 ]
