@@ -188,16 +188,16 @@
     }, 
     {
         "activity": [
-            9, 
-            12, 
-            16, 
-            0, 
-            13, 
+            8, 
+            17, 
+            11, 
+            5, 
+            8, 
             0, 
             0, 
             1, 
-            11, 
             15, 
+            11, 
             9, 
             0, 
             0, 
@@ -208,8 +208,8 @@
             20, 
             5, 
             2, 
-            10, 
-            4, 
+            13, 
+            1, 
             12, 
             1, 
             0, 
@@ -226,13 +226,13 @@
             5, 
             0, 
             0, 
-            0, 
-            6, 
-            6, 
-            0, 
+            4, 
+            2, 
             6, 
             3, 
-            5, 
+            3, 
+            4, 
+            4, 
             5, 
             1, 
             1, 
@@ -421,8 +421,8 @@
             0, 
             0, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             2, 
             0, 
             0, 
@@ -447,8 +447,8 @@
             0, 
             0, 
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -750,7 +750,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 30, 
+                "contributions": 31, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -854,14 +854,14 @@
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 12, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-24T00:55:23Z", 
+        "pushed_at": "2014-10-01T03:32:55Z", 
         "size": 8186, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -900,9 +900,9 @@
             0, 
             0, 
             0, 
-            5, 
-            3, 
-            3, 
+            6, 
+            4, 
+            1, 
             0, 
             0, 
             0, 
@@ -1168,7 +1168,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 348, 
+                "contributions": 349, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1207,7 +1207,7 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-09-30T05:14:04Z", 
+        "pushed_at": "2014-10-01T07:14:05Z", 
         "size": 2419, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
@@ -1410,7 +1410,7 @@
         ], 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 9, 
+        "open_issues": 7, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
             "name": "LeeMendelowitz", 
@@ -1671,8 +1671,8 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            1, 
+            5, 
             0, 
             0, 
             0, 
@@ -1822,7 +1822,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
-                "contributions": 84, 
+                "contributions": 86, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
@@ -1839,6 +1839,12 @@
                 "name": "kevko"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/adunkman", 
+                "name": "adunkman"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/louh", 
@@ -1851,7 +1857,7 @@
                 "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 5, 
+        "contributors_count": 6, 
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "gh-pages", 
         "description": "Displays data about DC Campaign Finance on a site", 
@@ -1876,14 +1882,14 @@
         ], 
         "main_language": "Python", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 1, 
+        "open_issues": 0, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-28T18:06:40Z", 
+        "pushed_at": "2014-10-01T01:22:09Z", 
         "size": 15652, 
         "updated_at": "2014-09-24T19:16:31Z", 
         "watchers": 2
