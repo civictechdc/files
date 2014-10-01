@@ -35,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 45
+        "yes_rsvp_count": 46
     }, 
     {
         "created": 1326383071000, 
@@ -75,7 +75,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 101
+        "yes_rsvp_count": 103
     }, 
     {
         "created": 1408392086000, 
@@ -113,8 +113,8 @@ calendar([
             "zip": "22209"
         }, 
         "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 59
+        "waitlist_count": 2, 
+        "yes_rsvp_count": 60
     }, 
     {
         "created": 1411669748000, 
@@ -152,7 +152,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 38
+        "yes_rsvp_count": 44
     }, 
     {
         "created": 1412081417000, 
@@ -190,7 +190,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 6
+        "yes_rsvp_count": 7
     }, 
     {
         "created": 1406689663000, 
@@ -217,7 +217,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 19
+        "yes_rsvp_count": 21
     }, 
     {
         "created": 1406234837000, 
@@ -255,7 +255,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 25
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1406689663000, 
@@ -310,7 +310,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 32
+        "yes_rsvp_count": 35
     }, 
     {
         "created": 1412040483000, 
@@ -455,7 +455,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 140
+        "yes_rsvp_count": 145
     }, 
     {
         "created": 1412028192000, 
@@ -510,7 +510,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 47
+        "yes_rsvp_count": 48
     }, 
     {
         "created": 1410535360000, 
@@ -549,7 +549,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 22
+        "yes_rsvp_count": 29
     }, 
     {
         "created": 1412113433000, 
@@ -736,7 +736,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 11
     }, 
     {
         "created": 1404748918000, 
@@ -814,7 +814,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 6
+        "yes_rsvp_count": 7
     }, 
     {
         "created": 1407622606000, 
@@ -1403,7 +1403,7 @@ calendar([
     {
         "created": 1379643162000, 
         "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-        "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytjbxb/", 
+        "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/210744552/", 
         "group": {
             "created": 1378482158000, 
             "group_lat": 38.909999847412109, 
@@ -1425,7 +1425,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 1
+        "yes_rsvp_count": 0
     }, 
     {
         "created": 1326383071000, 

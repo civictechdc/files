@@ -30,7 +30,7 @@
     lon: -77.020126000000005, name: 'The Loft, Floor 5', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1326383071000
   description: "<p>This month we'll feature demos of three new tools that approach\
     \ mapping in new and interesting ways. Come out to see them in action presented\
@@ -78,7 +78,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 103
 - created: 1408392086000
   description: "<p>For October, we'll be discussing three tech projects and their\
     \ impact on local transportation issues.\_Doors open at 6:00 with pizza and drinks,\
@@ -109,8 +109,8 @@
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 59
+  waitlist_count: 2
+  yes_rsvp_count: 60
 - created: 1411669748000
   description: "<p><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\_would love\
     \ to announce our\_<b><a href=\"http://dcfemtech.github.io/tourdecode.html\">Tour\_\
@@ -148,7 +148,7 @@
       Inc. ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 44
 - created: 1412081417000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/DCfemtech/f83\"><a\
     \ href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p>\
@@ -187,7 +187,7 @@
     lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -239,7 +239,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1406234837000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -286,7 +286,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -367,7 +367,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 35
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -513,7 +513,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 140
+  yes_rsvp_count: 145
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -595,7 +595,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
@@ -634,7 +634,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 29
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -899,7 +899,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 11
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -951,7 +951,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -1399,7 +1399,7 @@
     please read our rules, to determine if this group is right for you:</p> <p><a
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytjbxb/
+  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/210744552/
   group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
@@ -1414,7 +1414,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 0
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
