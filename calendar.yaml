@@ -9,10 +9,9 @@
     \ law.</p> <p>7-7:30 Food, drinks and networking\_\_</p> <p>7:30-7:45 Introductions\
     \ and Announcements\_</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\_\
     Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\_\
-    @valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">Open\
-    \ Technology Institute, etc</a>,\_@compleatang</p> <p>Follow along on twitter\
-    \ with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\"\
-    >www.twitter.com/DCLegalHackers</a></p>"
+    @valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">US Open\
+    \ Data Institute, etc</a>,\_@compleatang</p> <p>Follow along on twitter with the\
+    \ hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499412/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -24,7 +23,7 @@
   name: '#LegalHack Crypto / Ethereum Law'
   status: upcoming
   time: 1412204400000
-  updated: 1411946039000
+  updated: 1412193315000
   utc_offset: -14400000
   venue: {address_1: 600 F St. NW, city: Washington, country: us, id: 22659682, lat: 38.897067999999997,
     lon: -77.020126000000005, name: 'The Loft, Floor 5', repinned: false, state: DC}
@@ -78,7 +77,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 99
 - created: 1408392086000
   description: "<p>For October, we'll be discussing three tech projects and their\
     \ impact on local transportation issues.\_Doors open at 6:00 with pizza and drinks,\
@@ -109,7 +108,7 @@
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 6
   yes_rsvp_count: 60
 - created: 1411669748000
   description: "<p><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\_would love\
@@ -148,7 +147,7 @@
       Inc. ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1412081417000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/DCfemtech/f83\"><a\
     \ href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p>\
@@ -187,7 +186,7 @@
     lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -239,7 +238,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1406234837000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -367,7 +366,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -513,7 +512,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 151
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -595,7 +594,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
@@ -899,7 +898,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -995,7 +994,7 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You

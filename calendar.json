@@ -1,7 +1,7 @@
 [
     {
         "created": 1404748848000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday Oct 1, 2014 to legal hack crypto/ethereum law.</p> <p>7-7:30 Food, drinks and networking\u00a0\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\u00a0Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\u00a0@valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">Open Technology Institute, etc</a>,\u00a0@compleatang</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday Oct 1, 2014 to legal hack crypto/ethereum law.</p> <p>7-7:30 Food, drinks and networking\u00a0\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\u00a0Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\u00a0@valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">US Open Data Institute, etc</a>,\u00a0@compleatang</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/DCLegalHackers/events/193499412/", 
         "group": {
@@ -20,7 +20,7 @@
         "name": "#LegalHack Crypto / Ethereum Law", 
         "status": "upcoming", 
         "time": 1412204400000, 
-        "updated": 1411946039000, 
+        "updated": 1412193315000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "600 F St. NW", 
@@ -75,7 +75,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 103
+        "yes_rsvp_count": 99
     }, 
     {
         "created": 1408392086000, 
@@ -113,7 +113,7 @@
             "zip": "22209"
         }, 
         "visibility": "public", 
-        "waitlist_count": 2, 
+        "waitlist_count": 6, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -152,7 +152,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 44
+        "yes_rsvp_count": 46
     }, 
     {
         "created": 1412081417000, 
@@ -190,7 +190,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1406689663000, 
@@ -217,7 +217,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 21
+        "yes_rsvp_count": 22
     }, 
     {
         "created": 1406234837000, 
@@ -310,7 +310,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 35
+        "yes_rsvp_count": 36
     }, 
     {
         "created": 1412040483000, 
@@ -455,7 +455,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 145
+        "yes_rsvp_count": 151
     }, 
     {
         "created": 1412028192000, 
@@ -510,7 +510,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 48
+        "yes_rsvp_count": 50
     }, 
     {
         "created": 1410535360000, 
@@ -736,7 +736,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1404748918000, 
@@ -853,7 +853,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 32
+        "yes_rsvp_count": 33
     }, 
     {
         "created": 1379643162000, 
