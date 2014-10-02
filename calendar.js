@@ -1,83 +1,5 @@
 calendar([
     {
-        "created": 1404748848000, 
-        "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday Oct 1, 2014 to legal hack crypto/ethereum law.</p> <p>7-7:30 Food, drinks and networking\u00a0\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>*\u00a0Peter Van Valkenburgh, <a href=\"http://www.petervv.com/\">Tech Freedom, etc</a>,\u00a0@valkenburgh</p> <p>* Casey Kulman, <a href=\"http://caseykuhlman.com/\">US Open Data Institute, etc</a>,\u00a0@compleatang</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/DCLegalHackers/events/193499412/", 
-        "group": {
-            "created": 1372871984000, 
-            "group_lat": 38.919998168945312, 
-            "group_lon": -77.040000915527344, 
-            "id": 9201422, 
-            "join_mode": "open", 
-            "name": "DCLegalHackers", 
-            "urlname": "DCLegalHackers", 
-            "who": "Legal Hackers"
-        }, 
-        "headcount": 0, 
-        "id": "193499412", 
-        "maybe_rsvp_count": 0, 
-        "name": "#LegalHack Crypto / Ethereum Law", 
-        "status": "upcoming", 
-        "time": 1412204400000, 
-        "updated": 1412193315000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "600 F St. NW", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 22659682, 
-            "lat": 38.897067999999997, 
-            "lon": -77.020126000000005, 
-            "name": "The Loft, Floor 5", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 46
-    }, 
-    {
-        "created": 1326383071000, 
-        "description": "<p>This month we'll feature demos of three new tools that approach mapping in new and interesting ways. Come out to see them in action presented in five minute lightning talks. Here's our lineup:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\">Stephanie Nguyen</a> will demo <a href=\"http://www.landmarkdirections.com\">Landmark</a>, a mobile app from <a href=\"http://silicalabs.com/\">Silica Labs</a> for intuitive walking directions focused on photos of landmarks, not maps. Landmark combines beautiful photos with a strong crowdsourcing community who are passionate about their city and the architecture around them, all to provide directions in a different way.</p> <p>\u2022\u00a0Karl Phillips will show his work mapping historical changes in cities around the country and demo how he's using <a href=\"http://mapstory.org/\">MapStory</a> to crowdsource this work and release the data openly.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/jonnordling\">Jon Nordling</a> will show off the <a href=\"http://geoodk.com/\">Geographical Open Data Kit</a>, a mobile data collection and storing platform for geo-referenced information that's fully open source.</p> <p>\u2022\u00a0Trevor Gerhardt will demo &lt;a&gt;CarFreeAtoZ&lt;/a&gt;, a commute planner <a href=\"http://conveyal.com\">Conveyal</a> has been building for Arlington under their <a href=\"http://mobilitylab.org/tech/transit-tech-initiative/\">Transit Tech Initiative</a>, and will talk about using &lt;a&gt;OpenTripPlanner's&lt;/a&gt; journey profiler and using public census data to analyze accessibility in a region.</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. <a href=\"http://stetsons-dc.com/index.php\">Stetsons</a> is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow &lt;a&gt;@Geo_DC&lt;/a&gt; on Twitter, and join our <a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a> for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
-        "event_url": "http://www.meetup.com/Geo-DC/events/177463532/", 
-        "group": {
-            "created": 1307975249000, 
-            "group_lat": 38.939998626708984, 
-            "group_lon": -77.05999755859375, 
-            "id": 2013511, 
-            "join_mode": "open", 
-            "name": "Geo DC", 
-            "urlname": "Geo-DC", 
-            "who": "Members"
-        }, 
-        "headcount": 0, 
-        "how_to_find_us": "Upstairs bar", 
-        "id": "dlcllcysnbcb", 
-        "maybe_rsvp_count": 0, 
-        "name": "October GeoDC: Demos", 
-        "status": "upcoming", 
-        "time": 1412204400000, 
-        "updated": 1411660820000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1610 U St NW", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 794012, 
-            "lat": 38.916775999999999, 
-            "lon": -77.037339000000003, 
-            "name": "Stetson's Famous Bar & Restaurant", 
-            "phone": "(202) 667-6295", 
-            "repinned": false, 
-            "state": "DC", 
-            "zip": "20009"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 99
-    }, 
-    {
         "created": 1408392086000, 
         "description": "<p>For October, we'll be discussing three tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
@@ -152,7 +74,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 46
+        "yes_rsvp_count": 49
     }, 
     {
         "created": 1412081417000, 
@@ -190,7 +112,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 9
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1406689663000, 
@@ -217,7 +139,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 22
+        "yes_rsvp_count": 23
     }, 
     {
         "created": 1406234837000, 
@@ -255,7 +177,48 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 28
+        "yes_rsvp_count": 29
+    }, 
+    {
+        "created": 1412219294000, 
+        "description": "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\">DC Fem Tech's Tour De Code</a>, we are going to host two classes in October. This is the first of the <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">two</a>.\u00a0</p> <p>Join us for Intro to Python class. This is leads up to a <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">web scraping class</a> the following week.\u00a0</p> <p>This class will cover the basics of Python, including setting up your machine and will be lead by the super awesome <a href=\"http://therealkatie.net/\">Katie Cunningham</a>! YAY!</p> <p><b>Audience<br/></b> Python beginners, but all are welcome</p> <p><b>Requirements</b><br/>- A laptop that you can install stuff on (aka admin rights)<br/>- power supply</p> <p><b>Food &amp; beverage:</b><br/>Beverages are allow, but not food in the space. We will take a 20 minute break mid-class</p>", 
+        "duration": 14400000, 
+        "event_url": "http://www.meetup.com/dc-pyladies/events/210888442/", 
+        "group": {
+            "created": 1312496216000, 
+            "group_lat": 38.950000762939453, 
+            "group_lon": -77.019996643066406, 
+            "id": 2292131, 
+            "join_mode": "open", 
+            "name": "DC PyLadies", 
+            "urlname": "dc-pyladies", 
+            "who": "PyLadies"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Classroom in the Dream lab (the space to the left when you enter)", 
+        "id": "210888442", 
+        "maybe_rsvp_count": 0, 
+        "name": "Intro to Python", 
+        "rsvp_limit": 32, 
+        "status": "upcoming", 
+        "time": 1413034200000, 
+        "updated": 1412219866000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "901 G St NW # 400", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 4367692, 
+            "lat": 38.898448999999999, 
+            "lon": -77.024704, 
+            "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+            "repinned": false, 
+            "state": "DC", 
+            "zip": "20001"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 4
     }, 
     {
         "created": 1406689663000, 
@@ -282,7 +245,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1412026429000, 
@@ -353,7 +316,7 @@ calendar([
     }, 
     {
         "created": 1379643162000, 
-        "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+        "description": "<p>This October, join us for an overview on regular expressions, and some fun on a coding challenge.</p> <p>We'll start out talking regexes. All of us are called on, at one point or another, to manipulate a string or two, and regular expressions are a powerful tool but require some serious logical thinking. We'll talk about why websites, in the year 2014, \u00a0still require us to format our phone numbers with their scheme of dashes and parentheses. (Answer: they're bad at regular expressions, but we can do better.) Tips from Python, Bash, and Java should help illustrate.</p> <p>Then, Elaine leads us through an interview question. We'll practice in groups how to interpret a question, how to think about it, and how to format a response.</p> <p>Pizza arrives around 6:30 and we'll start to introduce ourselves around 7. See you there!</p>", 
         "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/", 
         "group": {
             "created": 1378482158000, 
@@ -368,15 +331,56 @@ calendar([
         "headcount": 0, 
         "id": "qkxmtgysnbvb", 
         "maybe_rsvp_count": 0, 
-        "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+        "name": "Regular Expressions and A Coding Interview Challenge", 
         "rsvp_limit": 50, 
         "status": "upcoming", 
         "time": 1413498600000, 
-        "updated": 1383661832000, 
+        "updated": 1412223899000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 9
+        "yes_rsvp_count": 10
+    }, 
+    {
+        "created": 1412219748000, 
+        "description": "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\">DC Fem Tech's Tour De Code</a>, we are going to host two classes in October. This is the second of <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\">two</a>.\u00a0</p> <p>Join us for an Intro to Web Scraping class. \u00a0</p> <p>This class will cover the basics of web scraping using Python. It will include lessons on retrieve web pages and parse them, how to automate, and how web pages are build. This session will be lead by <a href=\"https://twitter.com/JackieKazil\">Jackie Kazil</a>!\u00a0YAY!</p> <p><b>Audience<br/></b> Python developers of all levels that meet the requirements listed below.</p> <p><b>Requirements<br/></b> - Must have taken the previous <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\">Intro to Python class</a> OR know the equivalent<br/>- A laptop that you can install stuff on (aka admin rights)<br/>- Power supply<br/>- Bring a dataset or website that you would like to possibly scrape, so we can walk through some examples that are relevant to the attendees</p> <p><b>Food &amp; beverage:</b><br/>Beverages are allow, but not food in the space. We will take a 20 minute break mid-class</p>", 
+        "duration": 14400000, 
+        "event_url": "http://www.meetup.com/dc-pyladies/events/210889382/", 
+        "group": {
+            "created": 1312496216000, 
+            "group_lat": 38.950000762939453, 
+            "group_lon": -77.019996643066406, 
+            "id": 2292131, 
+            "join_mode": "open", 
+            "name": "DC PyLadies", 
+            "urlname": "dc-pyladies", 
+            "who": "PyLadies"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Classroom in the Dream lab (the space to the left when you enter)", 
+        "id": "210889382", 
+        "maybe_rsvp_count": 0, 
+        "name": "Intro to Web Scraping", 
+        "rsvp_limit": 32, 
+        "status": "upcoming", 
+        "time": 1413639000000, 
+        "updated": 1412219812000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "901 G St NW # 400", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 4367692, 
+            "lat": 38.898448999999999, 
+            "lon": -77.024704, 
+            "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+            "repinned": false, 
+            "state": "DC", 
+            "zip": "20001"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 4
     }, 
     {
         "created": 1406684550000, 
@@ -455,7 +459,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 151
+        "yes_rsvp_count": 153
     }, 
     {
         "created": 1412028192000, 
@@ -736,7 +740,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 12
+        "yes_rsvp_count": 13
     }, 
     {
         "created": 1404748918000, 
@@ -1067,7 +1071,7 @@ calendar([
     }, 
     {
         "created": 1379643162000, 
-        "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+        "description": "<p>In the new year, let's explore how the experience in our backgrounds plays into our tech careers. For January, a founder will share the intersection of her subject matter expertise with tech to talk about how localization interacts with design and development. Then, we'll break for some interactive coding fun!</p> <p>\n\n\nTerena Bell is CEO of <a href=\"http://www.ineverylanguage.com/index.php\">In Every Language</a>. She sits on the White House Business Roundtable and writes a monthly column for\u00a0<i>MultiLingual Magazine</i>\u00a0on the impact of societal macroforces on the translation industry. Terena is former Secretary of the Globalization and Localization Association (GALA) and a former Association of Language Companies (ALC) board member. She tweets as <a href=\"https://twitter.com/InEveryLanguage\">@InEveryLanguage</a>.</p> <p>Say the word \"language\" in tech circles, and people think Python or Ruby. But what about Urdu or Arabic? Since both these--as well as many others--read right to left, not thinking about foreign language now can lead to user interface and other development problems down the road. And that's just the beginning. Not only should (foreign) language impact HOW you design, but WHAT you design as globalization creates the need for more and more multilingual and translation apps. From idea to execution, Terena Bell, CEO of In Every Language, shows you why foreign languages are just as essential to today's developer as coding languages are.</p> <p>\n\n\nIf you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>", 
         "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/", 
         "group": {
             "created": 1378482158000, 
@@ -1086,7 +1090,7 @@ calendar([
         "rsvp_limit": 50, 
         "status": "upcoming", 
         "time": 1421364600000, 
-        "updated": 1383661832000, 
+        "updated": 1412223369000, 
         "utc_offset": -18000000, 
         "visibility": "public", 
         "waitlist_count": 0, 
