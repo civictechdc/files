@@ -1,44 +1,5 @@
 calendar([
     {
-        "created": 1408392086000, 
-        "description": "<p>For October, we'll be discussing three tech projects and their impact on local transportation issues.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0Trevor Gerhardt of <a href=\"http://conveyal.com/\">Conveyal</a> will show us their <a href=\"http://mobilitylab.org/transit-tech/\">Transit Tech Initiative</a> with Arlington County, specifically the \"evaluating a commute\" portion of the program.</p> <p>\u2022\u00a0Chase Donnelly and\u00a0Peter Mazzeo will demo their new <a href=\"http://boontrek.com/\">Boontrek</a> app, which\u00a0creates a community marketplace for ride sharing.</p> <p><br/>\u2022\u00a0Peter Shashkin and Vitaliy Fedonkin from <a href=\"http://www.eastbanctech.com/\">EastBanc Technologies</a> will show us TransitIQ, which analyzes transit data, detecting anomalies, bus bunching, and more. EastBanc works with SmarTrip cards and\u00a0is the company behind\u00a0<a href=\"http://developer.wmata.com/\">developer.wmata.com</a>.</p>", 
-        "event_url": "http://www.meetup.com/Transportation-Techies/events/201709462/", 
-        "group": {
-            "created": 1384372275000, 
-            "group_lat": 38.889999389648438, 
-            "group_lon": -77.069999694824219, 
-            "id": 11092702, 
-            "join_mode": "open", 
-            "name": "Transportation Techies", 
-            "urlname": "Transportation-Techies", 
-            "who": "Techies"
-        }, 
-        "headcount": 0, 
-        "id": "201709462", 
-        "maybe_rsvp_count": 0, 
-        "name": "Cool Mobility Apps: October Edition", 
-        "rsvp_limit": 66, 
-        "status": "upcoming", 
-        "time": 1412287200000, 
-        "updated": 1412255686000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1501 Wilson Blvd, Suite 1100", 
-            "city": "Arlington", 
-            "country": "us", 
-            "id": 16609032, 
-            "lat": 38.895149000000004, 
-            "lon": -77.074043000000003, 
-            "name": "Mobility Lab", 
-            "repinned": false, 
-            "state": "VA", 
-            "zip": "22209"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 66
-    }, 
-    {
         "created": 1412081417000, 
         "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/DCfemtech/f83\"><a href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
         "duration": 10800000, 
@@ -74,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1406689663000, 
@@ -139,7 +100,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 31
+        "yes_rsvp_count": 34
     }, 
     {
         "created": 1412253219000, 
@@ -187,7 +148,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 6
+        "yes_rsvp_count": 7
     }, 
     {
         "created": 1412219294000, 
@@ -228,7 +189,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 13
+        "yes_rsvp_count": 15
     }, 
     {
         "created": 1406689663000, 
@@ -283,7 +244,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 40
+        "yes_rsvp_count": 43
     }, 
     {
         "created": 1412040483000, 
@@ -349,7 +310,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 22
+        "yes_rsvp_count": 23
     }, 
     {
         "created": 1412219748000, 
@@ -390,7 +351,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 17
+        "yes_rsvp_count": 18
     }, 
     {
         "created": 1406684550000, 
@@ -469,7 +430,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 159
+        "yes_rsvp_count": 162
     }, 
     {
         "created": 1412028192000, 
@@ -524,7 +485,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 51
+        "yes_rsvp_count": 52
     }, 
     {
         "created": 1410535360000, 
@@ -563,7 +524,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 33
+        "yes_rsvp_count": 35
     }, 
     {
         "created": 1412113433000, 
@@ -712,7 +673,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1411918617000, 
@@ -750,7 +711,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 14
+        "yes_rsvp_count": 15
     }, 
     {
         "created": 1404748918000, 
