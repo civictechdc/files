@@ -84,11 +84,13 @@
   rsvp_limit: 40
   status: upcoming
   time: 1412634600000
-  updated: 1410822954000
+  updated: 1412345687000
   utc_offset: -14400000
+  venue: {address_1: 901 G St NW, city: Washington, country: us, id: 20287732, lat: 38.898415,
+    lon: -77.024101000000002, name: 'MLK Library, Room A-3', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1406234837000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -135,7 +137,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 38
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -207,7 +209,7 @@
       HQ, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 10
 - created: 1412219294000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -240,58 +242,33 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 15
-- created: 1406689663000
-  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
-    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
-    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
-    \ together. The study group is intended for everyone who wishes to learn JavaScript\
-    \ programming language, it's perfect for beginners with a basic understanding\
-    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
-    \ is hassle free to get started with and fun to create something that\u2019s easy\
-    \ to share with friends. If you already know JavaScript, this can be a great platform\
-    \ for you to get together with fellow developers and hone your skills. If you're\
-    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
-    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
-    \ or slow learner, or if you attend every week. It is a great platform for you\
-    \ to be able to work and play together, while providing each other with ongoing\
-    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
-    \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\_</b></p>\
-    \ <p>If you are passionate about learning JavaScript with fellow awesome women\
-    \ and want to help us, come on out! \_Shoot me a message or mail me and let me\
-    \ know that you are interested in helping us with the JS study group!\_</p> <p><b>RESOURCES</b></p>\
-    \ <p><i>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"\
-    http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    \ class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
-    \ <p><b>JavaScript is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
-    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
-    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
-    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
-    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
-    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
-    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/200479922/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
+- created: 1412354806000
+  description: <p>It's October now, popularly known as the month of falling leaves,
+    ghouls, and kickass API presentations. There's plenty of good stuff this month,
+    so go ahead, mark your calendars, and RSVP so we know how much pizza to get. :)</p>
+    <p>6:00pm - 6:30pm Food, drinks and networking<br/>6:40pm - 6:50pm Introductions
+    and Announcements<br/>6:50pm - 8:00pm Presentations</p> <p>* Raj Bhaskar - Hurdlr<br/>*
+    Alan Delevie and Eric Mill - 18F<br/>* Greg Bloom - Open 211<br/>* Anthea Watson
+    - Google 7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm
+    - 9:00pm Networking</p>
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/211207622/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
   headcount: 0
-  id: qhzfskysnbrb
+  id: '211207622'
   maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 40
+  name: DC API User Group - October Edition
   status: upcoming
-  time: 1413239400000
-  updated: 1412028192000
+  time: 1413410400000
+  updated: 1412354841000
   utc_offset: -14400000
+  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
+    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
+    repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 17
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -320,7 +297,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -383,7 +360,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 26
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -419,7 +396,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -506,7 +483,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 162
+  yes_rsvp_count: 169
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -588,7 +565,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
@@ -627,7 +604,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -988,7 +965,7 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
