@@ -17,10 +17,10 @@
         "id": "201709462", 
         "maybe_rsvp_count": 0, 
         "name": "Cool Mobility Apps: October Edition", 
-        "rsvp_limit": 60, 
+        "rsvp_limit": 66, 
         "status": "upcoming", 
         "time": 1412287200000, 
-        "updated": 1412111061000, 
+        "updated": 1412255686000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -35,51 +35,13 @@
             "zip": "22209"
         }, 
         "visibility": "public", 
-        "waitlist_count": 6, 
-        "yes_rsvp_count": 60
-    }, 
-    {
-        "created": 1411669748000, 
-        "description": "<p><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\u00a0would love to announce our\u00a0<b><a href=\"http://dcfemtech.github.io/tourdecode.html\">Tour\u00a0de\u00a0Code</a></b>,\u00a0a collaboration with dozens of organizations (Women Who\u00a0Code, Startup Weekend,\u00a0Code\u00a0for Progress, Girl Develop It, DC Web Women, AIGA, General Assembly and more!) to help you advance your technical skills. Get ready for an October filled with workshops and events to help beginners learn how to\u00a0code and design! \u00a0Follow\u00a0<a href=\"http://twitter.com/dcfemtech\">@DCFemTech</a>\u00a0for updates and sign up to get the latest with the\u00a0<a href=\"http://dcfemtech.github.io/newsletter.html\">Tech Lady Newsletter</a>.</p> <p><br/>Join us for a Kick off Celebration for the DCFT Tour de Code! \u00a0Our friends at Google DC are hosting, (they're kick ass hosts!), and it promises to be a great evening! \u00a0Come meet representatives from all the different WIT organizations and phenomenal people in our community!\u00a0</p> <p><b>Please RSVP on nvite (link below). \u00a0RSVPing on this meetup DOES NOT RSVP you to the event.</b> \u00a0Although this is a free event, space is limited and we're really hoping to fill it so RSVP on nvite and come JOIN US!\u00a0</p> <p><a href=\"https://nvite.com/DCFemTechTDC/eb6\"><a href=\"https://nvite.com/DCFemTechTDC/eb6\" class=\"linkified\">https://nvite.com/DCFemTechTDC/eb6</a></a></p> <p><br/>Hope to see you there!</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/209492612/", 
-        "group": {
-            "created": 1395687537000, 
-            "group_lat": 38.900001525878906, 
-            "group_lon": -77.040000915527344, 
-            "id": 13526522, 
-            "join_mode": "open", 
-            "name": "Girl Develop It D.C.", 
-            "urlname": "Girl-Develop-It-DC", 
-            "who": "Nerdettes"
-        }, 
-        "headcount": 0, 
-        "id": "209492612", 
-        "maybe_rsvp_count": 0, 
-        "name": "DCFemTech Tour de Code!", 
-        "status": "upcoming", 
-        "time": 1412287200000, 
-        "updated": 1412107565000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "25 Massachusetts Avenue, NW, 9th floor", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 20369732, 
-            "lat": 38.898457000000001, 
-            "lon": -77.010300000000001, 
-            "name": "Google, Inc. ", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 49
+        "yes_rsvp_count": 66
     }, 
     {
         "created": 1412081417000, 
         "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/DCfemtech/f83\"><a href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
-        "duration": 874800000, 
+        "duration": 10800000, 
         "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210456922/", 
         "group": {
             "created": 1395616294000, 
@@ -97,7 +59,7 @@
         "name": "Code & Coffee", 
         "status": "upcoming", 
         "time": 1412445600000, 
-        "updated": 1412081454000, 
+        "updated": 1412266891000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1801 N Lynn St", 
@@ -112,7 +74,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 10
     }, 
     {
         "created": 1406689663000, 
@@ -139,7 +101,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 23
+        "yes_rsvp_count": 27
     }, 
     {
         "created": 1406234837000, 
@@ -177,7 +139,55 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 29
+        "yes_rsvp_count": 31
+    }, 
+    {
+        "created": 1412253219000, 
+        "description": "<p>At its core, User Experience (UX) is defined as how someone feels about using a product, system, or service. Regardless of what we\u2019re designing--a website, an Android app, or a toaster--we all strive to make our designs useful, easy to use, and enjoyable to use. But how exactly do we make something useful, easy to use, and enjoyable? How do we know if the target audience is having a good or bad experience? This class will arm you with the essential tips to find those answers.</p> <p>This class is for anyone who currently makes (or wants to learn how to make) websites, mobile apps, or other software. If you\u2019re a developer, a designer, a project manager, a content creator, or something else, you can integrate UX research and design into your practice.</p> <p>The contents that this class will cover include:</p> <p>\u2022 \u00a0Fundamental concepts of user experience design (what UX is and why you should care)</p> <p>\u2022 Creating user personas</p> <p>\u2022 Identifying usability problems and prioritizing solutions</p> <p>\u2022 How to design and run usability tests</p> <p>\u2022 Getting useful feedback from your users</p> <p>\u2022 Information Architecture and interaction design</p> <p>\u2022 Where UX fits with project management methodologies</p> <p>\u2022 And much, much more!</p> <p>This is a hands on course which will give you actionable tools to get started with user experience in your work day! Be prepared to sketch, talk and brainstorm with your peers. Don't forget to bring something to write with and take notes!</p> <p><b>About the Teachers:</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/a/2/600_365640162.jpeg\" /></p> <p>Ramla Mahmood is a web designer at Vox Media, publisher of SB Nation, The Verge, Polygon, Curbed, Eater, Racked and Vox. Prior to that she worked at the Collaborative Learning Hub at George Mason University where she used to teach into to HTML/CSS and certification programs in Adobe Creative Suite. In her free time, she loves to travel, collect books and learn new things.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/b/6/b/4/600_416446772.jpeg\" /></p> <p>Afreen Habib is a User Experience Designer and Researcher. She creates great mobile and web experiences through user-centered design methods and eye-tracking studies at Apollo Matrix, Inc, a mobile design and development agency. At George Mason University she runs usability tests as a human factors researcher focusing on social decision-making and human-computer interaction studies.</p> <p>\n\n\n\n<b>Please bring the following prior to class:\u00a0</b></p> <p>\u2022\u00a0Something to write with: pen/paper, laptop or tablet will all work.</p> <p>\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/b/b/a/0/600_416448032.jpeg\" /></p> <p><a href=\"http://www.addthis.com\">AddThis</a> is generously providing space at their headquarters in Vienna, VA.\u00a0</p> <p>\n\n\n<b>Parking:</b> There's ample free parking in front and around the back of the building.\u00a0</p> <p>\n\n\n<b>Refund Policy:</b>\u00a0Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/210940482/", 
+        "fee": {
+            "accepts": "amazon", 
+            "amount": 24, 
+            "currency": "USD", 
+            "description": "per person", 
+            "label": "Price", 
+            "required": "1"
+        }, 
+        "group": {
+            "created": 1395687537000, 
+            "group_lat": 38.900001525878906, 
+            "group_lon": -77.040000915527344, 
+            "id": 13526522, 
+            "join_mode": "open", 
+            "name": "Girl Develop It D.C.", 
+            "urlname": "Girl-Develop-It-DC", 
+            "who": "Nerdettes"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Take the Silver Line to the Spring Hill metro stop. Exit from the West side of the station, walk down Spring Hill Road past the dealerships and the building will be the large office building straight ahead, 1595 Spring Hill Road.", 
+        "id": "210940482", 
+        "maybe_rsvp_count": 0, 
+        "name": "Intro to UX Design", 
+        "rsvp_limit": 41, 
+        "status": "upcoming", 
+        "time": 1412809200000, 
+        "updated": 1412253319000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "1595 Spring Hill Road, Suite 300", 
+            "city": "Vienna", 
+            "country": "us", 
+            "id": 18517372, 
+            "lat": 38.927261000000001, 
+            "lon": -77.244193999999993, 
+            "name": "AddThis HQ", 
+            "repinned": false, 
+            "state": "VA"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 6
     }, 
     {
         "created": 1412219294000, 
@@ -218,7 +228,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 4
+        "yes_rsvp_count": 13
     }, 
     {
         "created": 1406689663000, 
@@ -273,7 +283,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 36
+        "yes_rsvp_count": 40
     }, 
     {
         "created": 1412040483000, 
@@ -316,7 +326,7 @@
     }, 
     {
         "created": 1379643162000, 
-        "description": "<p>This October, join us for an overview on regular expressions, and some fun on a coding challenge.</p> <p>We'll start out talking regexes. All of us are called on, at one point or another, to manipulate a string or two, and regular expressions are a powerful tool but require some serious logical thinking. We'll talk about why websites, in the year 2014, \u00a0still require us to format our phone numbers with their scheme of dashes and parentheses. (Answer: they're bad at regular expressions, but we can do better.) Tips from Python, Bash, and Java should help illustrate.</p> <p>Then, Elaine leads us through an interview question. We'll practice in groups how to interpret a question, how to think about it, and how to format a response.</p> <p>Pizza arrives around 6:30 and we'll start to introduce ourselves around 7. See you there!</p>", 
+        "description": "<p>This October, join us for an overview on regular expressions, and some fun on a coding challenge.</p> <p>We'll start out talking regexes. All of us are called upon at some point to manipulate a string or two. Regular expressions are a powerful tool that requires some serious logical thinking. We'll talk about why websites, in the year 2014, still require us to type in our phone numbers with their scheme of dashes and parentheses. (Answer: they're bad at regular expressions, but we can do better.) Tips from Python, Bash, and Java should help illustrate practice, and we'll talk theory as well.</p> <p>Then, Elaine leads us through an interview question. We'll practice in groups how to interpret a question, how to think about it, and how to format a response.</p> <p>Pizza arrives around 6:30 and we'll start to introduce ourselves around 7. See you there!</p>", 
         "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/", 
         "group": {
             "created": 1378482158000, 
@@ -335,11 +345,11 @@
         "rsvp_limit": 50, 
         "status": "upcoming", 
         "time": 1413498600000, 
-        "updated": 1412223899000, 
+        "updated": 1412253495000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 22
     }, 
     {
         "created": 1412219748000, 
@@ -380,7 +390,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 4
+        "yes_rsvp_count": 17
     }, 
     {
         "created": 1406684550000, 
@@ -459,7 +469,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 153
+        "yes_rsvp_count": 159
     }, 
     {
         "created": 1412028192000, 
@@ -514,7 +524,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 50
+        "yes_rsvp_count": 51
     }, 
     {
         "created": 1410535360000, 
@@ -553,7 +563,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 29
+        "yes_rsvp_count": 33
     }, 
     {
         "created": 1412113433000, 
@@ -740,7 +750,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 13
+        "yes_rsvp_count": 14
     }, 
     {
         "created": 1404748918000, 
@@ -818,7 +828,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1407622606000, 
@@ -857,7 +867,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 33
+        "yes_rsvp_count": 34
     }, 
     {
         "created": 1379643162000, 
@@ -951,7 +961,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 5
+        "yes_rsvp_count": 6
     }, 
     {
         "created": 1407908606000, 
@@ -1071,7 +1081,7 @@
     }, 
     {
         "created": 1379643162000, 
-        "description": "<p>In the new year, let's explore how the experience in our backgrounds plays into our tech careers. For January, a founder will share the intersection of her subject matter expertise with tech to talk about how localization interacts with design and development. Then, we'll break for some interactive coding fun!</p> <p>\n\n\nTerena Bell is CEO of <a href=\"http://www.ineverylanguage.com/index.php\">In Every Language</a>. She sits on the White House Business Roundtable and writes a monthly column for\u00a0<i>MultiLingual Magazine</i>\u00a0on the impact of societal macroforces on the translation industry. Terena is former Secretary of the Globalization and Localization Association (GALA) and a former Association of Language Companies (ALC) board member. She tweets as <a href=\"https://twitter.com/InEveryLanguage\">@InEveryLanguage</a>.</p> <p>Say the word \"language\" in tech circles, and people think Python or Ruby. But what about Urdu or Arabic? Since both these--as well as many others--read right to left, not thinking about foreign language now can lead to user interface and other development problems down the road. And that's just the beginning. Not only should (foreign) language impact HOW you design, but WHAT you design as globalization creates the need for more and more multilingual and translation apps. From idea to execution, Terena Bell, CEO of In Every Language, shows you why foreign languages are just as essential to today's developer as coding languages are.</p> <p>\n\n\nIf you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>", 
+        "description": "<p>With the diverse skills and interests of our group, let's explore how the experience in our backgrounds plays into our tech careers. For January, a founder will share the intersection of her subject matter expertise with tech, discussing how localization (fitting a site or piece of software to a culture, often including language) interacts with design and development. Then, we'll break for some interactive coding fun!</p> <p>Terena Bell is CEO of <a href=\"http://www.ineverylanguage.com/index.php\">In Every Language</a>. She sits on the White House Business Roundtable and writes a monthly column for <i>MultiLingual Magazine</i> on the impact of societal macroforces on the translation industry. Terena is former Secretary of the Globalization and Localization Association (GALA) and a former Association of Language Companies (ALC) board member. She tweets as <a href=\"https://twitter.com/InEveryLanguage\">@InEveryLanguage</a>.</p> <p>Say the word \"language\" in tech circles, and people think Python or Ruby. But what about Urdu or Arabic? Since both these--as well as many others--read right to left, not thinking about foreign language now can lead to user interface and other development problems down the road. And that's just the beginning. Not only should (foreign) language impact HOW you design, but WHAT you design as globalization creates the need for more and more multilingual and translation apps. From idea to execution, Terena Bell, CEO of In Every Language, shows you why foreign languages are just as essential to today's developer as coding languages are.</p> <p>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>", 
         "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/", 
         "group": {
             "created": 1378482158000, 
@@ -1090,7 +1100,7 @@
         "rsvp_limit": 50, 
         "status": "upcoming", 
         "time": 1421364600000, 
-        "updated": 1412223369000, 
+        "updated": 1412253773000, 
         "utc_offset": -18000000, 
         "visibility": "public", 
         "waitlist_count": 0, 
