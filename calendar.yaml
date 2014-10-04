@@ -36,7 +36,7 @@
     lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -241,7 +241,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
     ghouls, and kickass API presentations. There's plenty of good stuff this month,
@@ -268,7 +268,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 26
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -332,7 +332,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1379643162000
   description: '<p>This October, join us for an overview on regular expressions, and
     some fun on a coding challenge.</p> <p>We''ll start out talking regexes. All of
@@ -535,7 +535,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -565,7 +565,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
