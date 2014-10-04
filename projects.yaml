@@ -1,6 +1,6 @@
-- activity: [3, 15, 1, 15, 2, 4, 0, 4, 4, 7, 0, 0, 20, 3, 11, 2, 1, 5, 1, 0, 0, 11,
-    0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 48, 104, 47, 11, 6, 7, 1, 0, 0, 2,
-    8, 9, 2, 0, 0, 8, 0]
+- activity: [3, 16, 8, 7, 3, 3, 0, 4, 6, 5, 0, 0, 20, 3, 11, 2, 1, 6, 0, 0, 0, 11,
+    0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 85, 70, 50, 5, 12, 1, 1, 0, 0, 2, 8,
+    9, 2, 0, 0, 8, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=2', contributions: 355,
@@ -57,9 +57,9 @@
   size: 20728
   updated_at: '2014-09-24T21:00:25Z'
   watchers: 10
-- activity: [10, 24, 2, 11, 2, 0, 0, 2, 19, 11, 4, 0, 0, 9, 6, 5, 10, 15, 3, 4, 11,
-    2, 11, 0, 1, 14, 0, 10, 5, 9, 0, 7, 1, 4, 0, 5, 0, 0, 6, 3, 3, 4, 4, 2, 7, 3,
-    0, 1, 0, 0, 0, 0]
+- activity: [10, 24, 2, 12, 1, 0, 0, 2, 19, 14, 1, 0, 0, 11, 4, 5, 12, 14, 2, 4, 11,
+    2, 11, 0, 9, 6, 0, 13, 2, 9, 0, 8, 0, 4, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 0,
+    1, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -167,7 +167,7 @@
   size: 1988
   updated_at: '2014-09-19T20:46:19Z'
   watchers: 5
-- activity: [2, 20, 2, 5, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+- activity: [0, 20, 2, 5, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -211,9 +211,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [0, 4, 3, 0, 0, 0, 0, 0, 6, 4, 3, 1, 0, 1, 0, 0, 1, 0, 0, 0, 5, 1, 0,
-    4, 0, 0, 0, 1, 8, 7, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 8, 3, 0, 4,
-    13, 9, 1]
+- activity: [0, 5, 2, 0, 0, 0, 0, 0, 6, 7, 1, 0, 0, 1, 0, 0, 1, 0, 0, 3, 2, 1, 0,
+    4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 4, 8, 3, 0, 5,
+    14, 7, 1]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -319,8 +319,8 @@
   updated_at: '2014-09-26T20:31:51Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 8, 4, 1, 2,
-    0, 2, 5]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 4, 6, 4, 1, 2,
+    1, 1, 5]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -365,12 +365,12 @@
   size: 2319
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
-- activity: [6, 5, 7, 7, 6, 7, 6, 7, 5, 7, 7, 3, 0, 3, 4, 6, 7, 9, 5, 4, 6, 6, 4,
-    5, 6, 4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 5, 5, 5, 7, 6, 5, 6, 4, 6, 3, 5,
+- activity: [5, 6, 7, 7, 6, 7, 6, 6, 6, 7, 7, 2, 0, 4, 4, 6, 7, 9, 5, 3, 7, 5, 4,
+    6, 6, 4, 6, 5, 6, 6, 5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5, 6, 4, 6, 3, 5,
     6, 7, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 351,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 352,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -392,12 +392,12 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-10-03T07:14:04Z'
+  pushed_at: '2014-10-04T07:14:05Z'
   size: 2419
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
+    0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -458,8 +458,8 @@
   size: 5838
   updated_at: '2014-05-26T20:14:13Z'
   watchers: 12
-- activity: [0, 0, 0, 0, 0, 11, 0, 5, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 2, 9, 0, 5, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -486,7 +486,7 @@
   updated_at: '2014-04-18T15:18:06Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3, 0,
-    2, 0, 1, 0, 1, 0, 3, 5, 5, 2, 8, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0,
+    2, 0, 1, 0, 1, 0, 3, 5, 6, 3, 6, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -550,8 +550,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 29, 9, 0,
-    2, 17, 21, 8]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 31, 7, 0,
+    3, 19, 21, 5]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -570,7 +570,7 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 86,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 87,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=2', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
@@ -592,7 +592,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 13360]
+  - [Python, 11956]
   - [CSS, 3370]
   - [JavaScript, 658]
   main_language: Python
@@ -600,13 +600,13 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-03T20:08:25Z'
+  pushed_at: '2014-10-04T05:11:55Z'
   size: 19754
   updated_at: '2014-09-24T19:16:31Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 0]
+    1, 2, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=2', contributions: 2,
