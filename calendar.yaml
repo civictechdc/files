@@ -1,42 +1,3 @@
-- created: 1412081417000
-  description: "<p>RSVP here also:\_<a href=\"https://nvite.com/DCfemtech/f83\"><a\
-    \ href=\"https://nvite.com/DCfemtech/f83\" class=\"linkified\">https://nvite.com/DCfemtech/f83</a></a></p>\
-    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
-    \ informal way to learn, code and work on projects with other members in the community.\
-    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
-    \ open to all women or those who support women and minorities in tech. Feel free\
-    \ to come early or stay later. These events are held at public coffee shops, so\
-    \ good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code\
-    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
-    \ plan. These events are very informal so ladies will usually bring their own\
-    \ projects or meet people who are working on similar projects to collaborate together.\
-    \ If you're a beginner we recommend some online tutorials like Code Academy or\
-    \ General Assembly Dash. The hope is that you will find ladies who are learning\
-    \ similar coding languages and projects to work with or ask questions.</p> <p>When\
-    \ you arrive, we'll ask you to visit our Hackpad so we can all get to know a little\
-    \ more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"\
-    \ class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code\
-    \ &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC,\
-    \ @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual\
-    \ pages for resources and more events throughout the month!</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/210456922/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '210456922'
-  maybe_rsvp_count: 0
-  name: Code & Coffee
-  status: upcoming
-  time: 1412445600000
-  updated: 1412266891000
-  utc_offset: -14400000
-  venue: {address_1: 1801 N Lynn St, city: Arlington, country: us, id: 21467472, lat: 38.896709000000001,
-    lon: -77.070503000000002, name: Cosi, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 11
 - created: 1406689663000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -90,7 +51,7 @@
     lon: -77.024101000000002, name: 'MLK Library, Room A-3', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1406234837000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -137,7 +98,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -241,7 +202,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
     ghouls, and kickass API presentations. There's plenty of good stuff this month,
@@ -268,7 +229,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -297,7 +258,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -360,7 +321,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -396,7 +357,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -483,7 +444,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 175
+  yes_rsvp_count: 178
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -565,7 +526,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
@@ -604,7 +565,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -869,7 +830,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
