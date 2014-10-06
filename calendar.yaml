@@ -51,7 +51,7 @@
     lon: -77.024101000000002, name: 'MLK Library, Room A-3', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 34
 - created: 1406234837000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -98,7 +98,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 45
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -229,7 +229,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -258,7 +258,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -293,7 +293,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1379643162000
   description: '<p>This October, join us for an overview on regular expressions, and
     some fun on a coding challenge.</p> <p>We''ll start out talking regexes. All of
@@ -444,7 +444,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 182
+  yes_rsvp_count: 183
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -496,7 +496,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -589,7 +589,7 @@
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 79
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -618,7 +618,7 @@
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 3
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -838,6 +838,62 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1412571086000
+  description: "<p>How many meetup groups do you belong to? If you find an interesting\
+    \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
+    \ we rarely attend but wish we could. How many of us stick to a few favorite groups?\
+    \ How many cast as wide a net as possible? How many join and never attend a single\
+    \ event? On October 27th Data Visualization DC and Salar al Khafaji, CEO of Silk.co\_\
+    are working together to bring these inter-event relationships to life.</p> <p>To\
+    \ show the power of Silk.co, we are working with local event organizers and creating\
+    \ an event page from scratch.\_<a href=\"http://silk.co/\">Silk.co</a>\_makes\
+    \ publishing data online easy, starting with\_CSV's to and Interactive Site with\
+    \ Visualizations in Minutes.</p> <p>If you're interested in how your meetup group\
+    \ fits into the DC meetup landscape, feel free to join us, the more the merrier!</p>\
+    \ <p><b>About\_Salar al Khafaji:</b></p> <p>Salar al Khafaji, CEO of data publishing\
+    \ platform\_Silk.co, will demonstrate how anyone with a\_browser can use Silk\
+    \ to quickly prepare and publish data in a highly interactive format, complete\_\
+    with data visualizations, embedded media and more. Silk allows users to quickly\
+    \ flip between\_multiple visualizations and present data with minimal previous\
+    \ visualization skill and zero\_code experience. Silk is used by numerous NGOs\
+    \ as a data publishing platform for engaging\_audiences and creating dynamic ways\
+    \ to share and show data. There are over 1 million pages\_published on the Silk\
+    \ platform.\_</p> <p><br/><b>Agenda:</b></p> <p>\u2022\_6:30 - Doors open, networking</p>\
+    \ <p>\u2022\_7ish - Introductions &amp; Announcements</p> <p>\u2022\_7:15 \_-\
+    \ Visualizing Meetup</p> <p>\u2022\_8:30 - Data Drinks</p> <p><b>Data Visualization\
+    \ DC Sponsors:</b></p> <p>Cloudera,\_<a href=\"http://www.synglyphx.com/\">SynglyphX</a>,\_\
+    <a href=\"http://statistics.com/sna\">Statistics.com</a>, General Assembly, Continuum\
+    \ Analytics\_</p> <p><img src=\"https://ci6.googleusercontent.com/proxy/WPPVRqxF3WrYfhaXlxVhi1vZMrzMnODL-ywIjxtL8IUHLmqPPcOiGt-jTBVh873q9Lyx2x64d2kAf1kOlXEEPDAD8BlPNlPAkq-aCwDK330_4TFXP1GE66_j3oFfwUNrD4IPntK5wREflAV53QCspxVlN7aLww=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/cloudera_logo_color_tag_249px.png\"\
+    \ /></p> <p>Hadoop-leader\_<a href=\"http://datacommunitydc.us3.list-manage1.com/track/click?u=75fc125999b198f97fe860a8d&amp;id=2a18cfe96b&amp;e=263865b99d\"\
+    >Cloudera</a>\_is an Organizational sponsor of Data Community DC!</p> <p><img\
+    \ src=\"http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,h_540,w_720/x8gh2iktzfwyiigycdim.png\"\
+    \ /></p> <p>Transform Data to Knowledge, Faster.</p> <p><img src=\"https://ci6.googleusercontent.com/proxy/d0XbpG6NP9zt4tX8slJ1-xznZcr5wFz3z-eoSmorfHp4c8sK-GY3XY61rDXP7Nu7epBpH11C_SrcYmyNynvLwPUlKAcSN-iL94rpwmR_dQSjL7552LbupKMabSRa7IM6jPXGY-Zi=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/statisticscom.gif\"\
+    \ /></p> <p>Use the code \"DC2\" at\_<a href=\"http://statistics.com/sna/\">Statistics.com</a>\_\
+    for 15% off their web-based courses!</p> <p><img src=\"https://ci4.googleusercontent.com/proxy/7-7ugKTCEZfSIEcHUhVn3Z85P-G3etW0ymL14If4t7RQXyC9Ot3byFk2AN3kdnE4DObpPSU-Fp6io7NZ3Pk0Lg9UTgiQ4pbA7ebf2QYtPdp1UN0CS4nq2rbj29-x5ttlna1jjQQkqILg52DRQ1_1vVl_lhiY8CHM=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/GA_stacked_FF0033_155x1003c8464.png\"\
+    \ /></p> <p><a href=\"http://datacommunitydc.us3.list-manage.com/track/click?u=75fc125999b198f97fe860a8d&amp;id=8eac8031e2&amp;e=263865b99d\"\
+    >General Assembly</a>\_has upcoming DC-based courses, including Data Science,\
+    \ Business, and Design!</p> <p><a href=\"https://ci5.googleusercontent.com/proxy/8M7l2hfr2BftyiiH8Iy_Bbh0HSCCUW-1tFOXJaodYLCT-xQC4UIPJQGBoL7DQyYlT3iCYwDp03kYqfJ8puwVvTWw_BeQ2l7HoFD2wz4SkrwBLzus0nKaYn8dpgYEjIgLYeGM6wMksy2b=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/DistrictDataLabs.PNG\"\
+    \ class=\"linkified\">https://ci5.googleusercontent.com/proxy/8M7l2hfr2BftyiiH8Iy_Bbh0HSCCUW-1tFOXJaodYLCT-xQC4UIPJQGBoL7DQyYlT3iCYwDp03kYqfJ8puwVvTWw_BeQ2l7HoFD2wz4SkrwBLzus0nKaYn8dpgYEjIgLYeGM6wMksy2b=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/DistrictDataLabs.PNG</a></p>\
+    \ <p>DDL runs hands-on Data Science Workshops, Courses, and Projects</p> <p>Want\
+    \ to sponsor Data Community DC, support our events, and help build this professional\
+    \ community?\_&lt;a&gt;Get in touch!&lt;/a&gt;\_</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Visualization-DC/events/211670252/
+  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
+    who: Data Visualizers}
+  headcount: 0
+  how_to_find_us: Downtown DC
+  id: '211670252'
+  maybe_rsvp_count: 0
+  name: 'Brouhaha: Our Interests Define Our Networks'
+  status: upcoming
+  time: 1414449000000
+  updated: 1412571086000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 13
 - created: 1406234864000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -1131,7 +1187,7 @@
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\

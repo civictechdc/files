@@ -35,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 35
+        "yes_rsvp_count": 34
     }, 
     {
         "created": 1406234837000, 
@@ -73,7 +73,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 43
+        "yes_rsvp_count": 45
     }, 
     {
         "created": 1412253219000, 
@@ -200,7 +200,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 30
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1412026429000, 
@@ -228,7 +228,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 48
+        "yes_rsvp_count": 49
     }, 
     {
         "created": 1412040483000, 
@@ -267,7 +267,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 22
+        "yes_rsvp_count": 23
     }, 
     {
         "created": 1379643162000, 
@@ -414,7 +414,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 182
+        "yes_rsvp_count": 183
     }, 
     {
         "created": 1412028192000, 
@@ -441,7 +441,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 7
+        "yes_rsvp_count": 8
     }, 
     {
         "created": 1410276545000, 
@@ -479,7 +479,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 80
+        "yes_rsvp_count": 79
     }, 
     {
         "created": 1412026524000, 
@@ -506,7 +506,7 @@ calendar([
         "updated": 1412026524000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
-        "waitlist_count": 0, 
+        "waitlist_count": 3, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -661,6 +661,34 @@ calendar([
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 6
+    }, 
+    {
+        "created": 1412571086000, 
+        "description": "<p>How many meetup groups do you belong to? If you find an interesting group, it's very likely you'll join, resulting in hundreds of groups whose events we rarely attend but wish we could. How many of us stick to a few favorite groups? How many cast as wide a net as possible? How many join and never attend a single event? On October 27th Data Visualization DC and Salar al Khafaji, CEO of Silk.co\u00a0are working together to bring these inter-event relationships to life.</p> <p>To show the power of Silk.co, we are working with local event organizers and creating an event page from scratch.\u00a0<a href=\"http://silk.co/\">Silk.co</a>\u00a0makes publishing data online easy, starting with\u00a0CSV's to and Interactive Site with Visualizations in Minutes.</p> <p>If you're interested in how your meetup group fits into the DC meetup landscape, feel free to join us, the more the merrier!</p> <p><b>About\u00a0Salar al Khafaji:</b></p> <p>Salar al Khafaji, CEO of data publishing platform\u00a0Silk.co, will demonstrate how anyone with a\u00a0browser can use Silk to quickly prepare and publish data in a highly interactive format, complete\u00a0with data visualizations, embedded media and more. Silk allows users to quickly flip between\u00a0multiple visualizations and present data with minimal previous visualization skill and zero\u00a0code experience. Silk is used by numerous NGOs as a data publishing platform for engaging\u00a0audiences and creating dynamic ways to share and show data. There are over 1 million pages\u00a0published on the Silk platform.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30 - Doors open, networking</p> <p>\u2022\u00a07ish - Introductions &amp; Announcements</p> <p>\u2022\u00a07:15 \u00a0- Visualizing Meetup</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p><b>Data Visualization DC Sponsors:</b></p> <p>Cloudera,\u00a0<a href=\"http://www.synglyphx.com/\">SynglyphX</a>,\u00a0<a href=\"http://statistics.com/sna\">Statistics.com</a>, General Assembly, Continuum Analytics\u00a0</p> <p><img src=\"https://ci6.googleusercontent.com/proxy/WPPVRqxF3WrYfhaXlxVhi1vZMrzMnODL-ywIjxtL8IUHLmqPPcOiGt-jTBVh873q9Lyx2x64d2kAf1kOlXEEPDAD8BlPNlPAkq-aCwDK330_4TFXP1GE66_j3oFfwUNrD4IPntK5wREflAV53QCspxVlN7aLww=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/cloudera_logo_color_tag_249px.png\" /></p> <p>Hadoop-leader\u00a0<a href=\"http://datacommunitydc.us3.list-manage1.com/track/click?u=75fc125999b198f97fe860a8d&amp;id=2a18cfe96b&amp;e=263865b99d\">Cloudera</a>\u00a0is an Organizational sponsor of Data Community DC!</p> <p><img src=\"http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,h_540,w_720/x8gh2iktzfwyiigycdim.png\" /></p> <p>Transform Data to Knowledge, Faster.</p> <p><img src=\"https://ci6.googleusercontent.com/proxy/d0XbpG6NP9zt4tX8slJ1-xznZcr5wFz3z-eoSmorfHp4c8sK-GY3XY61rDXP7Nu7epBpH11C_SrcYmyNynvLwPUlKAcSN-iL94rpwmR_dQSjL7552LbupKMabSRa7IM6jPXGY-Zi=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/statisticscom.gif\" /></p> <p>Use the code \"DC2\" at\u00a0<a href=\"http://statistics.com/sna/\">Statistics.com</a>\u00a0for 15% off their web-based courses!</p> <p><img src=\"https://ci4.googleusercontent.com/proxy/7-7ugKTCEZfSIEcHUhVn3Z85P-G3etW0ymL14If4t7RQXyC9Ot3byFk2AN3kdnE4DObpPSU-Fp6io7NZ3Pk0Lg9UTgiQ4pbA7ebf2QYtPdp1UN0CS4nq2rbj29-x5ttlna1jjQQkqILg52DRQ1_1vVl_lhiY8CHM=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/GA_stacked_FF0033_155x1003c8464.png\" /></p> <p><a href=\"http://datacommunitydc.us3.list-manage.com/track/click?u=75fc125999b198f97fe860a8d&amp;id=8eac8031e2&amp;e=263865b99d\">General Assembly</a>\u00a0has upcoming DC-based courses, including Data Science, Business, and Design!</p> <p><a href=\"https://ci5.googleusercontent.com/proxy/8M7l2hfr2BftyiiH8Iy_Bbh0HSCCUW-1tFOXJaodYLCT-xQC4UIPJQGBoL7DQyYlT3iCYwDp03kYqfJ8puwVvTWw_BeQ2l7HoFD2wz4SkrwBLzus0nKaYn8dpgYEjIgLYeGM6wMksy2b=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/DistrictDataLabs.PNG\" class=\"linkified\">https://ci5.googleusercontent.com/proxy/8M7l2hfr2BftyiiH8Iy_Bbh0HSCCUW-1tFOXJaodYLCT-xQC4UIPJQGBoL7DQyYlT3iCYwDp03kYqfJ8puwVvTWw_BeQ2l7HoFD2wz4SkrwBLzus0nKaYn8dpgYEjIgLYeGM6wMksy2b=s0-d-e1-ft#https://gallery.mailchimp.com/75fc125999b198f97fe860a8d/images/DistrictDataLabs.PNG</a></p> <p>DDL runs hands-on Data Science Workshops, Courses, and Projects</p> <p>Want to sponsor Data Community DC, support our events, and help build this professional community?\u00a0&lt;a&gt;Get in touch!&lt;/a&gt;\u00a0</p>", 
+        "duration": 9000000, 
+        "event_url": "http://www.meetup.com/Data-Visualization-DC/events/211670252/", 
+        "group": {
+            "created": 1359639162000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 6957082, 
+            "join_mode": "open", 
+            "name": "Data Visualization DC", 
+            "urlname": "Data-Visualization-DC", 
+            "who": "Data Visualizers"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Downtown DC", 
+        "id": "211670252", 
+        "maybe_rsvp_count": 0, 
+        "name": "Brouhaha: Our Interests Define Our Networks", 
+        "status": "upcoming", 
+        "time": 1414449000000, 
+        "updated": 1412571086000, 
+        "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 13
     }, 
     {
         "created": 1406234864000, 
@@ -929,7 +957,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 43
+        "yes_rsvp_count": 44
     }, 
     {
         "created": 1408981913000, 
