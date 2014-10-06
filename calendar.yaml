@@ -98,7 +98,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -202,7 +202,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
     ghouls, and kickass API presentations. There's plenty of good stuff this month,
@@ -357,7 +357,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -444,7 +444,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 179
+  yes_rsvp_count: 182
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -497,6 +497,99 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 7
+- created: 1410276545000
+  description: "<p>Ever wondered if people are really doing anything with big data\
+    \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
+    \ to hear how other people are making it work for them? Join us to learn more\
+    \ about how some major organizations are making an impact using big data.\_Schedule</p>\
+    \ <p><br/>6:00pm - 6:40pm Networking</p> <p><br/>6:40pm - 6:50pm Introductions</p>\
+    \ <p><br/>6:50pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming\
+    \ soon)</p> <p>\_\u201CData Warehousing at Opower\u201D</p> <p>Arjun Dasgupta,\
+    \ Opower, Research Engineer</p> <p>Arjun is a research engineer at Opower working\
+    \ on Business Intelligence and Data Warehousing. Over the last few years, he has\
+    \ led Opower's DW and BI initiatives. He has played an important part in architecting\
+    \ Opower's hadoop based data warehouse and tackling data scale, governance and\
+    \ integration issues. Prior to Opower, Arjun spent time in academia researching\
+    \ novel problems in databases, data mining and information retrieval.\_</p> <p>Opower\
+    \ has grown from a small startup to a publicly traded company in the last 6 years.\
+    \ Our datasets have also grown exponentially in complexity and scale. In order\
+    \ to tackle this data explosion, we started an initiative to move our enterprise\
+    \ data warehouse to a scalable hadoop ecosystem. The focus was to get all our\
+    \ data in one place, where it could be queried, mined and analyzed at scale. In\
+    \ this talk, I will share our experiences in building this core piece of infrastructure,\
+    \ the benefits that we have reaped and challenges that we have faced along the\
+    \ way.\_</p> <p><br/>\_\u201CHigh Performance Data Warehousing via Open Source\u201D\
+    </p> <p>Curtis Smith, \_Neustar , Director, Platform Services \u2013 Implementation\
+    \ and \_Integration</p> <p>Curtis has been instrumental in the creation and development\
+    \ of Neustar\u2019s Data Services organization which is responsible for Data Warehousing,\
+    \ Business Intelligence and over the last 4 years, \_Neustar\u2019s Big Data initiative.\
+    \ He is involved in the creation of both internal and external facing analytic\
+    \ solutions including product offerings. \_He is known for his ability to design,\
+    \ develop and implement processes to effectively collect and transform massive\
+    \ amounts of raw data into useful information and knowledge for Neustar and more\
+    \ importantly their customers. \_ He is an evangelist for innovation through the\
+    \ use of Open Source software and commodity hardware. \_Curtis has over 30 years\
+    \ of progressive software engineering experience with 24 years in the dynamic\
+    \ Communications / Telecommunications industry. \_</p> <p><br/>\_\u201CData2Action\
+    \ Project Outcomes and Achievements\u201D</p> <p>Dr. Fen Zhao, National Science\
+    \ Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant\
+    \ Director for Computer &amp; Information Science &amp; Engineering</p> <p>As\
+    \ a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director\
+    \ for Computer &amp; Information Science &amp; Engineering (CISE) at the National\
+    \ Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships\
+    \ around CISE's Big Data, next generation internet, and cybersecurity R&amp;D\
+    \ portfolios. \_During her tenure as a AAAS Fellow, Dr. Zhao also worked at the\
+    \ White House Office of Science and Technology Policy on Big Data and national\
+    \ security S&amp;T issues. \_Prior, Dr. Zhao was an associate with McKinsey and\
+    \ Company\u2019s Risk Management Practice, serving public sector clients in the\
+    \ mortgage and debt markets. \_Fen received a BS in Mathematics for Computer Science\
+    \ and a BS in Physics from Massachusetts Institute of Technology, and a PhD in\
+    \ Applied Physics from Stanford University. Her doctoral research was conducted\
+    \ at the Kavli Institute for Particle Astrophysics and Cosmology, where she developed\
+    \ astrophysical simulations of magnetic fields within the early universe using\
+    \ supercomputers.</p> <p>Abstract: \_Aiming to make the most of the fast-growing\
+    \ volume of digital data, in March 2012, the Obama Administration announced the\
+    \ \u201CBig Data Research and Development Initiative.\u201D By improving our ability\
+    \ to extract knowledge and insights from large and complex collections of digital\
+    \ data, the initiative promises to help solve some the Nation\u2019s most pressing\
+    \ challenges. \_At the launch of the initiative, the White House Office of Science\
+    \ and Technology Policy (OSTP) and research funding agencies across the federal\
+    \ government (including the National Science Foundation, National Institutes of\
+    \ Health, Department of Energy, and many others) announced over $200M in new funding\
+    \ opportunities for Big Data R&amp;D.</p> <p><br/>\_Beginning in the second year\
+    \ of the National Big Data Initiative, the Administration encouraged multiple\
+    \ stakeholders including federal agencies, private industry, academia, state and\
+    \ local government, non-profits, and foundations, to develop and participate in\
+    \ Big Data innovation projects across the country. \_On November 12, 2013, dozens\
+    \ of public and private organizations met at a White House-sponsored \u201CData\
+    \ to Knowledge to Action\u201D event to announce an inspiring array of Big Data\
+    \ related collaborations-- answering President Obama\u2019s call for partnerships\
+    \ that can enhance national priorities, including economic growth and job creation,\
+    \ education and health, energy and sustainability, public safety and national\
+    \ security, and global development. \_In this talk, I will discuss some of the\
+    \ projects launched at the Data2Action their recent outcomes and achievements,\
+    \ focusing on interdisciplinary collaborations that focus on serving public and\
+    \ social good. \_I will also discuss new and continuing Big Data programs being\
+    \ planned by NSF and other agencies in support of Big Data in national priority\
+    \ areas in the next phase of the Initiative.</p>"
+  event_url: http://www.meetup.com/Data-Business-DC/events/206173592/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  id: '206173592'
+  maybe_rsvp_count: 0
+  name: 'True Life: The Big Impact of Big Data'
+  status: upcoming
+  time: 1413928800000
+  updated: 1412343588000
+  utc_offset: -14400000
+  venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
+    id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
+      LLP, repinned: false, state: DC, zip: '20004'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 80
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -526,7 +619,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
     our lives and bust out the pen and paper. Join us for an evening of drawing and
@@ -565,7 +658,62 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 38
+- created: 1410577050000
+  description: "<p>Data is driving many business decisions in today's world but it\
+    \ is quickly expanding beyond just internal business decisions. Companies of all\
+    \ shapes and sizes are creating external data products meant for direct customer\
+    \ consumption. This is not without certain challenges though. For our October\
+    \ meetup, join us as Yhat discusses these data products.</p> <p><b>Schedule\_\
+    </b></p> <p>6:30 PM -- Networking &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05\
+    \ PM -- Data Driven Products:\_Building a Beer Recommender - Greg Lamp</p> <p>8:30\
+    \ PM -- Post-event Drinks</p> <p><b>Location</b></p> <p>Google maps does a good\
+    \ job of pinpointing the exact building location based on the address above.</p>\
+    \ <p>Parking is not an issue. You can park on the street nearby or you can take\
+    \ up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL\
+    \ employee parking lot but not in spaces marked Under Armour or Reserved.</p>\
+    \ <p><b>Topic</b></p> <p><b>Data Driven Products: Building a Beer Recommender</b></p>\
+    \ <p>Building data driven products is challenging. It requires coordination from\
+    \ multiple teams that often don\u2019t speak (or use) the same language. In this\
+    \ talk I\u2019ll give an overview of the challenges facing companies today, talk\
+    \ about some potential solutions, and then walk through a case study where we\u2019\
+    ll build a Beer Recommendation system using Yhat.\_</p> <p><br/><b>Speaker</b></p>\
+    \ <p><a href=\"http://twitter.com/theglamp\">Greg Lamp</a>\_is a founding member\
+    \ of Yhat and serves as the company's CTO.\_He leads development of \u0177hat's\
+    \ core products and infrastructure and is the principal architect of the company's\
+    \ cloud and on\xADpremise enterprise software applications. Greg was previously\
+    \ a product manager at OnDeck, a fintech startup in New York and before that an\
+    \ analyst at comScore.</p> <p>Greg is a graduate of the University of Virginia.</p>\
+    \ <p><b>About Yhat</b></p> <p><a href=\"http://www.yhathq.com\">Yhat</a> (pronounced\
+    \ y\xAD-hat) is a data science technology company that provides tools and systems\
+    \ that allow enterprises to turn data insights into data\xADdriven products.</p>\
+    \ <p>ScienceOps, Yhat's flagship product, is a data science operations system\
+    \ for managing predictive and advanced decision\xADmaking APIs and workflows.\
+    \ From product recommendation systems to credit scoring models and customer attrition\
+    \ estimators, ScienceOps lets data science teams go from insight to prototype\
+    \ to data\xADdriven product efficiently and at scale.\_</p> <p><b>Post-event Drinks</b></p>\
+    \ <p>Green Turtle</p> <p><br/>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p>\
+    \ <p>[masked]</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/3/2/600_268739442.jpeg\"\
+    \ /></p>"
+  event_url: http://www.meetup.com/Data-Science-MD/events/206958092/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '206958092'
+  maybe_rsvp_count: 0
+  name: 'Data Driven Products: Building a Beer Recommender'
+  rsvp_limit: 200
+  status: upcoming
+  time: 1414103400000
+  updated: 1410580836000
+  utc_offset: -14400000
+  venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
+    lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com
+      - Ivory Building, repinned: false, state: MD, zip: '21230'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 86
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -927,6 +1075,114 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 37
+- created: 1412436255000
+  description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
+    \ discussing the cultural changes that take place when switching to be a Big Data\
+    \ organization.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food</p>\
+    \ <p>6:55 PM -- Greetings &amp; Door Prizes</p> <p>7:00 PM -- <i>A\_</i><i>Big\
+    \ Data Culture</i> -\_Stephen Penn, DM, PMP</p> <p>8:30 PM -- Post event drinks\
+    \ at\_Looney's Pub (<a href=\"https://maps.google.com/maps?q=looney%27s+pub+maple+lawn&amp;fb=1&amp;gl=us&amp;hq=looney%27s+pub+maple+lawn&amp;hnear=0x89b7f8c5dc086bb1:0xf52eac251a995b95,Lake+Shore,+MD&amp;cid=0,0,7250839125243942391&amp;t=v&amp;z=16\"\
+    >8180 Maple Lawn Blvd, Fulton, MD</a>)</p> <p>\_</p> <p><b>Location</b></p> <p>Johns\
+    \ Hopkins University Applied Physics Laboratory (APL)</p> <p>Building 200 Room\
+    \ E100</p> <p>11100 Johns Hopkins Road</p> <p>Laurel, MD 20723</p> <p><img src=\"\
+    http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p>\
+    \ <p>\_</p> <p><b>Directions</b></p> <p>After the traffic light at Montpelier\
+    \ Road and Johns Hopkins Road, move into the Left-most lane on Johns Hopkins Rd.\
+    \ You will first pass the pond on your right and then see our 5-story Bldg 200\
+    \ on your left.</p> <p>Turn Left either just at Bldg 200 or at the traffic light\
+    \ just beyond it (where the tree-lined entrance road to the old campus is to the\
+    \ right). Either turn will take you into a multi-linked parking lot for Bldg 200.</p>\
+    \ <p>Park in any unmarked space.</p> <p>The entrance lobby to Bldg 200 is on the\
+    \ South side (opposite from Johns Hopkins Road), under the glassed-in curved windows\
+    \ of the 2nd floor projection.</p> <p>\_</p> <p><b>Talks</b></p> <p><i><b>A Big\
+    \ Data Culture</b></i><br/><a href=\"http://geomesa.github.io/\">&lt;/a&gt;Big\
+    \ Data creates a opportunity to base decisions, especially strategic decisions,\
+    \ on evidence. Current management practitioners are able to switch from anecdotal\
+    \ evidence to empirical evidence. This switch requires a change in organizational\
+    \ culture.</p> <p>\_</p> <p><b>Speakers</b></p> <p>&lt;a href=\"http://www.linkedin.com/pub/anna-onishi-cfa/1/b74/24\"\
+    &gt;</a></p> <p><a href=\"http://www.linkedin.com/in/stephenpenn\">Dr. Penn</a>\
+    \ is an Assistant Professor in the Computer Science department at Hood College\
+    \ in Frederick, MD. He earned his Doctor of Management from University of Maryland\
+    \ University College. His dissertation focused on data-driven decision making.\
+    \ He earned an MBA from Frostburg State University and bachelor's degrees in mathematics\
+    \ and Russian from University of Texas at Arlington. He is certified in project\
+    \ management and earned value management. Steve has worked in information technology\
+    \ for more than 20 years, specializing in database development and analytics.\
+    \ His experience in analytics includes projects focused on student achievement\
+    \ in higher education, insurance fraud and workforce optimization. Dr. Penn can\
+    \ be emailed at\_<a href=\"mailto:[masked]\">[masked]</a>.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-MD/events/211381012/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '211381012'
+  maybe_rsvp_count: 0
+  name: 'Big Data Culture: Switching to Evidence Based Decisions'
+  rsvp_limit: 200
+  status: upcoming
+  time: 1415748600000
+  updated: 1412436530000
+  utc_offset: -18000000
+  venue: {address_1: 11100 Johns Hopkins Road, city: Laurel, country: us, id: 11286692,
+    lat: 39.164036000000003, lon: -76.896636999999998, name: ' Johns Hopkins University
+      Applied Physics Laboratory (APL) - Building 200 Room E100', repinned: false,
+    state: MD, zip: '20723'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 43
+- created: 1408981913000
+  description: "<p>Operations Research has long helped large organizations and governments\
+    \ make better decisions through statistics and data. Now, this new-fangled Data\
+    \ Science thing comes along yet the two groups remain mostly separated, particularly\
+    \ ironic given OR's strong presence in Washington DC.\_</p> <p><br/>Thus, DIDC\
+    \ has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"\
+    ><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a>\
+    \ a professional organization dedicated to the advancement of the theory and practice\
+    \ of operations research and the management sciences in the greater Washington\
+    \ DC area) to bring to you a number of different companies using operations research\
+    \ and optimization techniques to create value from data.\_</p> <p>More speakers\
+    \ coming as soon as we get their bios. <i>If there is someone that you think would\
+    \ make a great speaker for this event, please comment below.</i></p> <p>\n\n\n\
+    <b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p>\
+    \ <p>6:50pm - 8:15pm Speakers</p> <p>This event is being co-sponsored with WINFORMS.</p>\
+    \ <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b><i>Video Killed\
+    \ the Radio Star</i>\_</b></p> <p>How do you serve 40 million video ads a day\
+    \ to online users across 25 countries, while ensuring that the right ad is shown\
+    \ to the right person on the right website at the right time?\_ With a lot of\
+    \ help from math, that's how!\_ Come hear how Videology, an Internet advertising\
+    \ company, combines mathematical programming, predictive modeling, and big data\
+    \ techniques to meet the objectives of advertisers and online publishers, while\
+    \ respecting the privacy of users and\_combating\_internet traffic fraud.</p>\
+    \ <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development\
+    \ at the Videology Group, one of the world's leading video advertising platforms.\
+    \ Dr. Sinha has extensive experience applying optimization, machine learning and\
+    \ statistical techniques to challenging problems across a spectrum of industries\
+    \ such as satellite communications and options trading. In his current role, he\
+    \ leads Videology's initiatives in the areas of\_machine learning, big data analytics,\
+    \ and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering\
+    \ from the University of Virginia and a Bachelors of Technology from the Indian\
+    \ Institute of Technology.</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Business-DC/events/203039932/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  id: '203039932'
+  maybe_rsvp_count: 0
+  name: Going Back to the Future - Operations Research and Data Science
+  status: upcoming
+  time: 1416351600000
+  updated: 1411344761000
+  utc_offset: -18000000
+  venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
+    lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
+      School of Continuing Studies, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 107
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -935,7 +1191,7 @@
     please read our rules, to determine if this group is right for you:</p> <p><a
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgyspbbc/
+  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/
   group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
@@ -950,7 +1206,7 @@
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 0
 - created: 1404749084000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
