@@ -1,43 +1,5 @@
 [
     {
-        "created": 1406689663000, 
-        "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-        "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/200479872/", 
-        "group": {
-            "created": 1395616294000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.040000915527344, 
-            "id": 13508462, 
-            "join_mode": "open", 
-            "name": "Women Who Code DC", 
-            "urlname": "Women-Who-Code-DC", 
-            "who": "Coders"
-        }, 
-        "headcount": 0, 
-        "id": "qbbvpkysnbjb", 
-        "maybe_rsvp_count": 0, 
-        "name": "Front End Hack Night", 
-        "rsvp_limit": 40, 
-        "status": "upcoming", 
-        "time": 1412634600000, 
-        "updated": 1412345687000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "901 G St NW", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 20287732, 
-            "lat": 38.898415, 
-            "lon": -77.024101000000002, 
-            "name": "MLK Library, Room A-3", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 32
-    }, 
-    {
         "created": 1406234837000, 
         "description": "<p>6:00 - 6:30\u00a0Participants arrive and socialize.\u00a0</p> <p>6:30 - 6:45\u00a0Group introductions and announcements from participants and organizers.</p> <p>6:45 - 8:45\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>8:45 - 9:00\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\u00a0Sometimes an after party (Happy Hour)</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812 if you have problems.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can (but remember we only have a single sponsor that covers a small amount of our expenses: servers, food, etc)</p> <p>\u2022\u00a0Bring a laptop (it\u2019s ok if you can\u2019t) and review list of active projects:\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Please take a look at our website\u00a0<a href=\"http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\">http://www.codefordc.org</a></a>\u00a0</p> <p>\u2022\u00a0Next take a look at our active projects\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\u00a0Review the Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\">https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\u00a0If you are relatively new to civic hacking check out the Code for DC Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
         "duration": 10800000, 
@@ -73,7 +35,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 46
+        "yes_rsvp_count": 47
     }, 
     {
         "created": 1412253219000, 
@@ -121,7 +83,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 17
+        "yes_rsvp_count": 18
     }, 
     {
         "created": 1412219294000, 
@@ -162,7 +124,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 27
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1412354806000, 
@@ -228,7 +190,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 56
+        "yes_rsvp_count": 57
     }, 
     {
         "created": 1412040483000, 
@@ -267,7 +229,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 26
+        "yes_rsvp_count": 27
     }, 
     {
         "created": 1379643162000, 
@@ -335,7 +297,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 29
+        "yes_rsvp_count": 30
     }, 
     {
         "created": 1406684550000, 
@@ -414,7 +376,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 185
+        "yes_rsvp_count": 187
     }, 
     {
         "created": 1412028192000, 
@@ -479,7 +441,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 81
+        "yes_rsvp_count": 82
     }, 
     {
         "created": 1412026524000, 
@@ -506,7 +468,7 @@
         "updated": 1412026524000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
-        "waitlist_count": 3, 
+        "waitlist_count": 5, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -585,7 +547,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 19
+        "yes_rsvp_count": 20
     }, 
     {
         "created": 1410577050000, 
@@ -727,7 +689,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 41
+        "yes_rsvp_count": 43
     }, 
     {
         "created": 1406234864000, 
@@ -996,7 +958,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 53
+        "yes_rsvp_count": 54
     }, 
     {
         "created": 1412599759000, 
@@ -1880,6 +1842,46 @@
         "time": 1442529000000, 
         "updated": 1383661832000, 
         "utc_offset": -14400000, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 1
+    }, 
+    {
+        "created": 1326383071000, 
+        "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+        "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcytnbkb/", 
+        "group": {
+            "created": 1307975249000, 
+            "group_lat": 38.939998626708984, 
+            "group_lon": -77.05999755859375, 
+            "id": 2013511, 
+            "join_mode": "open", 
+            "name": "Geo DC", 
+            "urlname": "Geo-DC", 
+            "who": "Members"
+        }, 
+        "headcount": 0, 
+        "how_to_find_us": "Upstairs bar", 
+        "id": "dlcllcytnbkb", 
+        "maybe_rsvp_count": 0, 
+        "name": "Monthly Meetup", 
+        "status": "upcoming", 
+        "time": 1444258800000, 
+        "updated": 1326383071000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "1610 U St NW", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 794012, 
+            "lat": 38.916775999999999, 
+            "lon": -77.037339000000003, 
+            "name": "Stetson's Famous Bar & Restaurant", 
+            "phone": "(202) 667-6295", 
+            "repinned": false, 
+            "state": "DC", 
+            "zip": "20009"
+        }, 
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 1
