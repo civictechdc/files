@@ -44,7 +44,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -116,7 +116,7 @@
       HQ, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1412219294000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -148,7 +148,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
     ghouls, and kickass API presentations. There's plenty of good stuff this month,
@@ -175,7 +175,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 44
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -204,7 +204,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 60
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -303,7 +303,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -390,7 +390,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 187
+  yes_rsvp_count: 194
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -442,7 +442,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -564,7 +564,7 @@
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 8
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -680,7 +680,7 @@
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 90
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -860,7 +860,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 49
 - created: 1406234864000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -1097,7 +1097,7 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 36
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -1154,7 +1154,7 @@
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -1225,7 +1225,7 @@
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 109
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
