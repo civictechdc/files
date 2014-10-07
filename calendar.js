@@ -35,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 35
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1406234837000, 
@@ -121,7 +121,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 16
+        "yes_rsvp_count": 17
     }, 
     {
         "created": 1412219294000, 
@@ -162,11 +162,11 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 25
+        "yes_rsvp_count": 27
     }, 
     {
         "created": 1412354806000, 
-        "description": "<p>It's October now, popularly known as the month of falling leaves, ghouls, and kickass API presentations. There's plenty of good stuff this month, so go ahead, mark your calendars, and RSVP so we know how much pizza to get. :)</p> <p>6:00pm - 6:30pm Food, drinks and networking<br/>6:40pm - 6:50pm Introductions and Announcements<br/>6:50pm - 8:00pm Presentations</p> <p>* Raj Bhaskar - Hurdlr<br/>* Alan Delevie and Eric Mill - 18F<br/>* Greg Bloom - Open 211<br/>* Anthea Watson - Google 7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
+        "description": "<p>It's October now, popularly known as the month of falling leaves, ghouls, and kickass API presentations. There's plenty of good stuff this month, so go ahead, mark your calendars, and RSVP so we know how much pizza to get. :)</p> <p>6:00pm - 6:30pm Food, drinks and networking<br/>6:40pm - 6:50pm Introductions and Announcements<br/>6:50pm - 8:00pm Presentations</p> <p>* Raj Bhaskar - Hurdlr<br/>* Alan Delevie and Eric Mill - 18F<br/>* Greg Bloom - Open 211<br/>* Anthea Watson - Google</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
         "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/211207622/", 
         "group": {
             "created": 1347647025000, 
@@ -184,7 +184,7 @@ calendar([
         "name": "DC API User Group - October Edition", 
         "status": "upcoming", 
         "time": 1413410400000, 
-        "updated": 1412354841000, 
+        "updated": 1412630369000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1900 M Street, NW - 3rd floor", 
@@ -200,7 +200,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 33
+        "yes_rsvp_count": 38
     }, 
     {
         "created": 1412026429000, 
@@ -228,7 +228,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 51
+        "yes_rsvp_count": 56
     }, 
     {
         "created": 1412040483000, 
@@ -267,7 +267,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 24
+        "yes_rsvp_count": 26
     }, 
     {
         "created": 1379643162000, 
@@ -294,7 +294,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 31
+        "yes_rsvp_count": 34
     }, 
     {
         "created": 1412219748000, 
@@ -335,7 +335,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 28
+        "yes_rsvp_count": 29
     }, 
     {
         "created": 1406684550000, 
@@ -414,7 +414,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 184
+        "yes_rsvp_count": 185
     }, 
     {
         "created": 1412028192000, 
@@ -441,7 +441,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 8
+        "yes_rsvp_count": 9
     }, 
     {
         "created": 1410276545000, 
@@ -585,7 +585,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 18
+        "yes_rsvp_count": 19
     }, 
     {
         "created": 1410577050000, 
@@ -624,7 +624,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 86
+        "yes_rsvp_count": 87
     }, 
     {
         "created": 1412113433000, 
@@ -996,7 +996,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 52
+        "yes_rsvp_count": 53
     }, 
     {
         "created": 1412599759000, 
