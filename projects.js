@@ -145,7 +145,7 @@ projects([
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
-        "forks": 25, 
+        "forks": 27, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/mlouie/dchousing-apps", 
@@ -174,7 +174,7 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "Affordable Housing", 
-        "open_issues": 14, 
+        "open_issues": 15, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1302023?v=2", 
             "name": "mlouie", 
@@ -400,7 +400,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 31, 
+        "open_issues": 33, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
@@ -813,7 +813,7 @@ projects([
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 19, 
+        "forks": 20, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -1826,7 +1826,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
-                "contributions": 94, 
+                "contributions": 95, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
@@ -1865,7 +1865,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "gh-pages", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 4, 
+        "forks": 5, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
@@ -1886,17 +1886,17 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 0, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-10-06T02:27:55Z", 
+        "pushed_at": "2014-10-08T20:17:16Z", 
         "size": 19754, 
-        "updated_at": "2014-09-24T19:16:31Z", 
-        "watchers": 2
+        "updated_at": "2014-10-08T23:59:41Z", 
+        "watchers": 3
     }, 
     {
         "activity": [

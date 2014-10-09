@@ -44,7 +44,7 @@
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1412253219000
   description: "<p>At its core, User Experience (UX) is defined as how someone feels\
     \ about using a product, system, or service. Regardless of what we\u2019re designing--a\
@@ -116,7 +116,7 @@
       HQ, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1412219294000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -148,7 +148,7 @@
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
     ghouls, and kickass API presentations. There's plenty of good stuff this month,
@@ -267,7 +267,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -302,7 +302,7 @@
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 7
   yes_rsvp_count: 32
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
@@ -390,7 +390,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 201
+  yes_rsvp_count: 204
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -442,7 +442,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -535,7 +535,7 @@
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -564,7 +564,7 @@
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 12
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -604,9 +604,49 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1412599027000
-  description: <p>Details to come but RSVP today!</p>
+  description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
+    \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
+    >GeoMesa</a> is an open-\xADsource, distributed, spatio-\xADtemporal database\
+    \ built on top of Apache Hadoop and Apache Accumulo. GeoMesa is capable of ingesting\
+    \ high\xAD-rate spatio-temporal data such as Twitter, FAA flight tracks, and near-\xAD\
+    realtime geolocated sensor data. It also leverages Storm and Spark to provide\
+    \ streaming data analytics.</p> <p>\n\nHunter and Andrew will provide an overview\
+    \ of how to adapt existing open-source geospatial libraries to build an open-source\
+    \ analytic pipeline for large geospatial datasets. They\u2019ll discuss GeoMesa\
+    \ architecture, query-\xADplanning, and OGC mapping capabilities along with demos\
+    \ of analytics including interpolated space-\xADtime queries, track similarity\
+    \ rankings, and distributed K\xAD-Nearest Neighbors.</p> <p><br/><b>Biographies</b></p>\
+    \ <p>Andrew Hulbert is a software engineer at CCRi specializing in distributed\
+    \ indexing and streaming analytics. He is an Eclipse Foundation committer on the\
+    \ LocationTech/GeoMesa project and has been using Accumulo for three years. Prior\
+    \ to joining CCRi, Andrew worked on several projects for the Department of Defense\
+    \ providing large\xAD-scale data management, storage, and indexing using Hadoop\
+    \ as well as traditional data\xAD-warehousing in parallel RDBMS environments.\
+    \ Andrew spends his spare time hiking, playing tennis, and enjoying the local\
+    \ breweries around Charlottesville. He earned his B.S. in Computer Science from\
+    \ the University of North Carolina at Chapel Hill.</p> <p><br/>Hunter Provyn is\
+    \ also a software engineer at CCRi with a background in geospatial and statistical\
+    \ analysis. He has significant experience developing backend software for geospatial\
+    \ analytical tools in Java and Scala. Mr. Provyn also has experience with the\
+    \ Hadoop Map/Reduce framework, Accumulo distributed database, Akka actors, and\
+    \ Kafka-Storm topologies. Previously, he worked at BBN Technologies as a Systems\
+    \ Engineer and Data Analyst, where he worked on numerous network and security\
+    \ analytical applications and studies. Hunter enjoys cycling, beer brewing and\
+    \ the epicurean lifestyle. Hunter earned his B.S. in Systems and Information Engineering\
+    \ at the University of Virginia.</p> <p><br/><b>Company Profile</b></p> <p><a\
+    \ href=\"http://www.ccri.com/\">CCRi (Commonwealth Computer Research, Inc.)</a>\
+    \ is a small analytics company in Charlottesville, VA. We design full\xAD-stack,\
+    \ scalable analytics for government, military, marketing, logistics, and healthcare\
+    \ sectors, and implement those solutions with effective and reliable software.\
+    \ At CCRi, our vision is to make sense of the world by fusing data from multiple\
+    \ sources. We bring together a highly trained team of researchers, problem solvers,\
+    \ and developers, trained across a spectrum of technical fields including data\
+    \ scientists, systems engineers, software engineers, mathematicians, and artists\
+    \ just to name a few. Our culture is scientifically rigorous, data driven, and\
+    \ product oriented yet open\xAD-minded and research oriented. We work to maintain\
+    \ an informal and creative work environment where people can think and share openly.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211704892/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -615,17 +655,17 @@
   headcount: 0
   id: '211704892'
   maybe_rsvp_count: 0
-  name: Working With Spatio-Temporal on Top of Accumulo
+  name: Scaling Up Spatiotemporal Analytics with GeoMesa
   status: upcoming
   time: 1413930600000
-  updated: 1412599027000
+  updated: 1412789899000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 28
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -680,7 +720,7 @@
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -1053,7 +1093,7 @@
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -1097,7 +1137,27 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
+- created: 1412599759000
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
+  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
+    who: Data Wranglers}
+  headcount: 0
+  id: '211706622'
+  maybe_rsvp_count: 0
+  name: November Meetup - TBD
+  status: upcoming
+  time: 1415748600000
+  updated: 1412599858000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -1145,8 +1205,8 @@
   name: 'Big Data Culture: Switching to Evidence Based Decisions'
   rsvp_limit: 200
   status: upcoming
-  time: 1415748600000
-  updated: 1412436530000
+  time: 1416007800000
+  updated: 1412805443000
   utc_offset: -18000000
   venue: {address_1: 11100 Johns Hopkins Road, city: Laurel, country: us, id: 11286692,
     lat: 39.164036000000003, lon: -76.896636999999998, name: ' Johns Hopkins University
@@ -1154,27 +1214,7 @@
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
-- created: 1412599759000
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: '211706622'
-  maybe_rsvp_count: 0
-  name: November Meetup - TBD
-  status: upcoming
-  time: 1415748600000
-  updated: 1412599858000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 60
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -1225,7 +1265,7 @@
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You

@@ -35,7 +35,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 59
+        "yes_rsvp_count": 60
     }, 
     {
         "created": 1412253219000, 
@@ -83,7 +83,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 27
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1412219294000, 
@@ -124,7 +124,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 31
+        "yes_rsvp_count": 32
     }, 
     {
         "created": 1412354806000, 
@@ -256,7 +256,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 34
+        "yes_rsvp_count": 35
     }, 
     {
         "created": 1412219748000, 
@@ -296,7 +296,7 @@ calendar([
             "zip": "20001"
         }, 
         "visibility": "public", 
-        "waitlist_count": 5, 
+        "waitlist_count": 7, 
         "yes_rsvp_count": 32
     }, 
     {
@@ -376,7 +376,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 201
+        "yes_rsvp_count": 204
     }, 
     {
         "created": 1412028192000, 
@@ -403,7 +403,7 @@ calendar([
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 13
+        "yes_rsvp_count": 14
     }, 
     {
         "created": 1410276545000, 
@@ -441,7 +441,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 82
+        "yes_rsvp_count": 83
     }, 
     {
         "created": 1412026524000, 
@@ -468,7 +468,7 @@ calendar([
         "updated": 1412026524000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
-        "waitlist_count": 11, 
+        "waitlist_count": 12, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -508,11 +508,11 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 39
+        "yes_rsvp_count": 40
     }, 
     {
         "created": 1412599027000, 
-        "description": "<p>Details to come but RSVP today!</p>", 
+        "description": "<p>Storing and analyzing large spatiotemporal datasets is becoming a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\">GeoMesa</a> is an open-\u00adsource, distributed, spatio-\u00adtemporal database built on top of Apache Hadoop and Apache Accumulo. GeoMesa is capable of ingesting high\u00ad-rate spatio-temporal data such as Twitter, FAA flight tracks, and near-\u00adrealtime geolocated sensor data. It also leverages Storm and Spark to provide streaming data analytics.</p> <p>\n\nHunter and Andrew will provide an overview of how to adapt existing open-source geospatial libraries to build an open-source analytic pipeline for large geospatial datasets. They\u2019ll discuss GeoMesa architecture, query-\u00adplanning, and OGC mapping capabilities along with demos of analytics including interpolated space-\u00adtime queries, track similarity rankings, and distributed K\u00ad-Nearest Neighbors.</p> <p><br/><b>Biographies</b></p> <p>Andrew Hulbert is a software engineer at CCRi specializing in distributed indexing and streaming analytics. He is an Eclipse Foundation committer on the LocationTech/GeoMesa project and has been using Accumulo for three years. Prior to joining CCRi, Andrew worked on several projects for the Department of Defense providing large\u00ad-scale data management, storage, and indexing using Hadoop as well as traditional data\u00ad-warehousing in parallel RDBMS environments. Andrew spends his spare time hiking, playing tennis, and enjoying the local breweries around Charlottesville. He earned his B.S. in Computer Science from the University of North Carolina at Chapel Hill.</p> <p><br/>Hunter Provyn is also a software engineer at CCRi with a background in geospatial and statistical analysis. He has significant experience developing backend software for geospatial analytical tools in Java and Scala. Mr. Provyn also has experience with the Hadoop Map/Reduce framework, Accumulo distributed database, Akka actors, and Kafka-Storm topologies. Previously, he worked at BBN Technologies as a Systems Engineer and Data Analyst, where he worked on numerous network and security analytical applications and studies. Hunter enjoys cycling, beer brewing and the epicurean lifestyle. Hunter earned his B.S. in Systems and Information Engineering at the University of Virginia.</p> <p><br/><b>Company Profile</b></p> <p><a href=\"http://www.ccri.com/\">CCRi (Commonwealth Computer Research, Inc.)</a> is a small analytics company in Charlottesville, VA. We design full\u00ad-stack, scalable analytics for government, military, marketing, logistics, and healthcare sectors, and implement those solutions with effective and reliable software. At CCRi, our vision is to make sense of the world by fusing data from multiple sources. We bring together a highly trained team of researchers, problem solvers, and developers, trained across a spectrum of technical fields including data scientists, systems engineers, software engineers, mathematicians, and artists just to name a few. Our culture is scientifically rigorous, data driven, and product oriented yet open\u00ad-minded and research oriented. We work to maintain an informal and creative work environment where people can think and share openly.</p>", 
         "duration": 9000000, 
         "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/211704892/", 
         "group": {
@@ -528,10 +528,10 @@ calendar([
         "headcount": 0, 
         "id": "211704892", 
         "maybe_rsvp_count": 0, 
-        "name": "Working With Spatio-Temporal on Top of Accumulo", 
+        "name": "Scaling Up Spatiotemporal Analytics with GeoMesa", 
         "status": "upcoming", 
         "time": 1413930600000, 
-        "updated": 1412599027000, 
+        "updated": 1412789899000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "2201 G St. NW", 
@@ -547,7 +547,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 20
+        "yes_rsvp_count": 28
     }, 
     {
         "created": 1410577050000, 
@@ -586,7 +586,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 94
+        "yes_rsvp_count": 95
     }, 
     {
         "created": 1412113433000, 
@@ -879,7 +879,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 10
+        "yes_rsvp_count": 11
     }, 
     {
         "created": 1407622606000, 
@@ -918,47 +918,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 39
-    }, 
-    {
-        "created": 1412436255000, 
-        "description": "<p>For our November meetup we are pleased to feature Dr. Stephen Penn discussing the cultural changes that take place when switching to be a Big Data organization.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food</p> <p>6:55 PM -- Greetings &amp; Door Prizes</p> <p>7:00 PM -- <i>A\u00a0</i><i>Big Data Culture</i> -\u00a0Stephen Penn, DM, PMP</p> <p>8:30 PM -- Post event drinks at\u00a0Looney's Pub (<a href=\"https://maps.google.com/maps?q=looney%27s+pub+maple+lawn&amp;fb=1&amp;gl=us&amp;hq=looney%27s+pub+maple+lawn&amp;hnear=0x89b7f8c5dc086bb1:0xf52eac251a995b95,Lake+Shore,+MD&amp;cid=0,0,7250839125243942391&amp;t=v&amp;z=16\">8180 Maple Lawn Blvd, Fulton, MD</a>)</p> <p>\u00a0</p> <p><b>Location</b></p> <p>Johns Hopkins University Applied Physics Laboratory (APL)</p> <p>Building 200 Room E100</p> <p>11100 Johns Hopkins Road</p> <p>Laurel, MD 20723</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p> <p>\u00a0</p> <p><b>Directions</b></p> <p>After the traffic light at Montpelier Road and Johns Hopkins Road, move into the Left-most lane on Johns Hopkins Rd. You will first pass the pond on your right and then see our 5-story Bldg 200 on your left.</p> <p>Turn Left either just at Bldg 200 or at the traffic light just beyond it (where the tree-lined entrance road to the old campus is to the right). Either turn will take you into a multi-linked parking lot for Bldg 200.</p> <p>Park in any unmarked space.</p> <p>The entrance lobby to Bldg 200 is on the South side (opposite from Johns Hopkins Road), under the glassed-in curved windows of the 2nd floor projection.</p> <p>\u00a0</p> <p><b>Talks</b></p> <p><i><b>A Big Data Culture</b></i><br/><a href=\"http://geomesa.github.io/\">&lt;/a&gt;Big Data creates a opportunity to base decisions, especially strategic decisions, on evidence. Current management practitioners are able to switch from anecdotal evidence to empirical evidence. This switch requires a change in organizational culture.</p> <p>\u00a0</p> <p><b>Speakers</b></p> <p>&lt;a href=\"http://www.linkedin.com/pub/anna-onishi-cfa/1/b74/24\"&gt;</a></p> <p><a href=\"http://www.linkedin.com/in/stephenpenn\">Dr. Penn</a> is an Assistant Professor in the Computer Science department at Hood College in Frederick, MD. He earned his Doctor of Management from University of Maryland University College. His dissertation focused on data-driven decision making. He earned an MBA from Frostburg State University and bachelor's degrees in mathematics and Russian from University of Texas at Arlington. He is certified in project management and earned value management. Steve has worked in information technology for more than 20 years, specializing in database development and analytics. His experience in analytics includes projects focused on student achievement in higher education, insurance fraud and workforce optimization. Dr. Penn can be emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Data-Science-MD/events/211381012/", 
-        "group": {
-            "created": 1355196079000, 
-            "group_lat": 39.270000457763672, 
-            "group_lon": -76.629997253417969, 
-            "id": 6195792, 
-            "join_mode": "open", 
-            "name": "Data Science MD", 
-            "urlname": "Data-Science-MD", 
-            "who": "Data Enthusiasts"
-        }, 
-        "headcount": 0, 
-        "id": "211381012", 
-        "maybe_rsvp_count": 0, 
-        "name": "Big Data Culture: Switching to Evidence Based Decisions", 
-        "rsvp_limit": 200, 
-        "status": "upcoming", 
-        "time": 1415748600000, 
-        "updated": 1412436530000, 
-        "utc_offset": -18000000, 
-        "venue": {
-            "address_1": "11100 Johns Hopkins Road", 
-            "city": "Laurel", 
-            "country": "us", 
-            "id": 11286692, 
-            "lat": 39.164036000000003, 
-            "lon": -76.896636999999998, 
-            "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
-            "repinned": false, 
-            "state": "MD", 
-            "zip": "20723"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 59
+        "yes_rsvp_count": 41
     }, 
     {
         "created": 1412599759000, 
@@ -999,6 +959,46 @@ calendar([
         "yes_rsvp_count": 1
     }, 
     {
+        "created": 1412436255000, 
+        "description": "<p>For our November meetup we are pleased to feature Dr. Stephen Penn discussing the cultural changes that take place when switching to be a Big Data organization.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food</p> <p>6:55 PM -- Greetings &amp; Door Prizes</p> <p>7:00 PM -- <i>A\u00a0</i><i>Big Data Culture</i> -\u00a0Stephen Penn, DM, PMP</p> <p>8:30 PM -- Post event drinks at\u00a0Looney's Pub (<a href=\"https://maps.google.com/maps?q=looney%27s+pub+maple+lawn&amp;fb=1&amp;gl=us&amp;hq=looney%27s+pub+maple+lawn&amp;hnear=0x89b7f8c5dc086bb1:0xf52eac251a995b95,Lake+Shore,+MD&amp;cid=0,0,7250839125243942391&amp;t=v&amp;z=16\">8180 Maple Lawn Blvd, Fulton, MD</a>)</p> <p>\u00a0</p> <p><b>Location</b></p> <p>Johns Hopkins University Applied Physics Laboratory (APL)</p> <p>Building 200 Room E100</p> <p>11100 Johns Hopkins Road</p> <p>Laurel, MD 20723</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p> <p>\u00a0</p> <p><b>Directions</b></p> <p>After the traffic light at Montpelier Road and Johns Hopkins Road, move into the Left-most lane on Johns Hopkins Rd. You will first pass the pond on your right and then see our 5-story Bldg 200 on your left.</p> <p>Turn Left either just at Bldg 200 or at the traffic light just beyond it (where the tree-lined entrance road to the old campus is to the right). Either turn will take you into a multi-linked parking lot for Bldg 200.</p> <p>Park in any unmarked space.</p> <p>The entrance lobby to Bldg 200 is on the South side (opposite from Johns Hopkins Road), under the glassed-in curved windows of the 2nd floor projection.</p> <p>\u00a0</p> <p><b>Talks</b></p> <p><i><b>A Big Data Culture</b></i><br/><a href=\"http://geomesa.github.io/\">&lt;/a&gt;Big Data creates a opportunity to base decisions, especially strategic decisions, on evidence. Current management practitioners are able to switch from anecdotal evidence to empirical evidence. This switch requires a change in organizational culture.</p> <p>\u00a0</p> <p><b>Speakers</b></p> <p>&lt;a href=\"http://www.linkedin.com/pub/anna-onishi-cfa/1/b74/24\"&gt;</a></p> <p><a href=\"http://www.linkedin.com/in/stephenpenn\">Dr. Penn</a> is an Assistant Professor in the Computer Science department at Hood College in Frederick, MD. He earned his Doctor of Management from University of Maryland University College. His dissertation focused on data-driven decision making. He earned an MBA from Frostburg State University and bachelor's degrees in mathematics and Russian from University of Texas at Arlington. He is certified in project management and earned value management. Steve has worked in information technology for more than 20 years, specializing in database development and analytics. His experience in analytics includes projects focused on student achievement in higher education, insurance fraud and workforce optimization. Dr. Penn can be emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/Data-Science-MD/events/211381012/", 
+        "group": {
+            "created": 1355196079000, 
+            "group_lat": 39.270000457763672, 
+            "group_lon": -76.629997253417969, 
+            "id": 6195792, 
+            "join_mode": "open", 
+            "name": "Data Science MD", 
+            "urlname": "Data-Science-MD", 
+            "who": "Data Enthusiasts"
+        }, 
+        "headcount": 0, 
+        "id": "211381012", 
+        "maybe_rsvp_count": 0, 
+        "name": "Big Data Culture: Switching to Evidence Based Decisions", 
+        "rsvp_limit": 200, 
+        "status": "upcoming", 
+        "time": 1416007800000, 
+        "updated": 1412805443000, 
+        "utc_offset": -18000000, 
+        "venue": {
+            "address_1": "11100 Johns Hopkins Road", 
+            "city": "Laurel", 
+            "country": "us", 
+            "id": 11286692, 
+            "lat": 39.164036000000003, 
+            "lon": -76.896636999999998, 
+            "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
+            "repinned": false, 
+            "state": "MD", 
+            "zip": "20723"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 60
+    }, 
+    {
         "created": 1408981913000, 
         "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p>More speakers coming as soon as we get their bios. <i>If there is someone that you think would make a great speaker for this event, please comment below.</i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:15pm Speakers</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b><i>Video Killed the Radio Star</i>\u00a0</b></p> <p>How do you serve 40 million video ads a day to online users across 25 countries, while ensuring that the right ad is shown to the right person on the right website at the right time?\u00a0 With a lot of help from math, that's how!\u00a0 Come hear how Videology, an Internet advertising company, combines mathematical programming, predictive modeling, and big data techniques to meet the objectives of advertisers and online publishers, while respecting the privacy of users and\u00a0combating\u00a0internet traffic fraud.</p> <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development at the Videology Group, one of the world's leading video advertising platforms. Dr. Sinha has extensive experience applying optimization, machine learning and statistical techniques to challenging problems across a spectrum of industries such as satellite communications and options trading. In his current role, he leads Videology's initiatives in the areas of\u00a0machine learning, big data analytics, and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering from the University of Virginia and a Bachelors of Technology from the Indian Institute of Technology.</p>", 
         "duration": 9000000, 
@@ -1033,7 +1033,7 @@ calendar([
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 109
+        "yes_rsvp_count": 110
     }, 
     {
         "created": 1379643162000, 
