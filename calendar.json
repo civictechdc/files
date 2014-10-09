@@ -76,7 +76,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 48
+        "yes_rsvp_count": 51
     }, 
     {
         "created": 1412026429000, 
@@ -103,7 +103,7 @@
         "updated": 1412026429000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
-        "waitlist_count": 3, 
+        "waitlist_count": 5, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -290,7 +290,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 207
+        "yes_rsvp_count": 209
     }, 
     {
         "created": 1412028192000, 
@@ -355,7 +355,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 84
+        "yes_rsvp_count": 83
     }, 
     {
         "created": 1412026524000, 
@@ -382,7 +382,7 @@
         "updated": 1412026524000, 
         "utc_offset": -14400000, 
         "visibility": "public", 
-        "waitlist_count": 12, 
+        "waitlist_count": 13, 
         "yes_rsvp_count": 60
     }, 
     {
@@ -422,7 +422,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 40
+        "yes_rsvp_count": 43
     }, 
     {
         "created": 1412599027000, 
@@ -461,7 +461,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 29
+        "yes_rsvp_count": 33
     }, 
     {
         "created": 1410577050000, 
@@ -504,7 +504,7 @@
     }, 
     {
         "created": 1397773268000, 
-        "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript</p> <p><br/>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/>twitter: @<a href=\"https://twitter.com/planarrowspacegithub:\">planarrowspace<br/></a> github:\u00a0<a href=\"https://github.com/ajschumacher/blog:\"><a href=\"https://github.com/ajschumacher/\" class=\"linkified\">https://github.com/ajschumacher/</a><br/></a> blog:\u00a0<a href=\"http://planspace.org/Hack\"><a href=\"http://planspace.org/\" class=\"linkified\">http://planspace.org/</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p>", 
+        "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript</p> <p><br/>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\" class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\" class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p>", 
         "duration": 7200000, 
         "event_url": "http://www.meetup.com/stats-prog-dc/events/177772502/", 
         "group": {
@@ -523,7 +523,7 @@
         "name": "Lightning Talks", 
         "status": "upcoming", 
         "time": 1414103400000, 
-        "updated": 1412823482000, 
+        "updated": 1412875540000, 
         "utc_offset": -14400000, 
         "venue": {
             "address_1": "1957 E St - Room 113", 
@@ -538,7 +538,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 65
+        "yes_rsvp_count": 85
     }, 
     {
         "created": 1412113433000, 
@@ -641,7 +641,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 56
+        "yes_rsvp_count": 57
     }, 
     {
         "created": 1406234864000, 
@@ -715,7 +715,7 @@
         "utc_offset": -14400000, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 9
+        "yes_rsvp_count": 10
     }, 
     {
         "created": 1411918617000, 
@@ -753,7 +753,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 24
+        "yes_rsvp_count": 25
     }, 
     {
         "created": 1404748918000, 
@@ -835,7 +835,7 @@
     }, 
     {
         "created": 1407622606000, 
-        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.</p> <p><br/>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a> will talk about their model of dockless bikesharing.</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.</p> <p><br/>\u2022\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the <a href=\"http://waycount.com/\">WayCount</a> device, which can be used to crowdsource bike traffic count data.</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+        "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. We've got a great lineup, with more to be added:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.</p> <p><br/>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note there is a chance the location will be changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
         "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
         "group": {
             "created": 1384372275000, 
@@ -854,7 +854,7 @@
         "rsvp_limit": 60, 
         "status": "upcoming", 
         "time": 1415314800000, 
-        "updated": 1409845572000, 
+        "updated": 1412867336000, 
         "utc_offset": -18000000, 
         "venue": {
             "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -870,7 +870,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 41
+        "yes_rsvp_count": 43
     }, 
     {
         "created": 1412599759000, 
@@ -948,7 +948,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 60
+        "yes_rsvp_count": 59
     }, 
     {
         "created": 1408981913000, 

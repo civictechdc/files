@@ -56,7 +56,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 51
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -84,7 +84,7 @@
   updated: 1412026429000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 5
   yes_rsvp_count: 60
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -271,7 +271,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 207
+  yes_rsvp_count: 209
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -416,7 +416,7 @@
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 83
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -445,7 +445,7 @@
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 13
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -485,7 +485,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -546,7 +546,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 33
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -619,20 +619,20 @@
     \ U.S. Coast Guard Academy. \_Originally from Boston, he works as an operations\
     \ research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"\
     http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist\
-    \ and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/>twitter:\
-    \ @<a href=\"https://twitter.com/planarrowspacegithub:\">planarrowspace<br/></a>\
-    \ github:\_<a href=\"https://github.com/ajschumacher/blog:\"><a href=\"https://github.com/ajschumacher/\"\
-    \ class=\"linkified\">https://github.com/ajschumacher/</a><br/></a> blog:\_<a\
-    \ href=\"http://planspace.org/Hack\"><a href=\"http://planspace.org/\" class=\"\
-    linkified\">http://planspace.org/</a></a></p> <p>Amanda is currently a Data Scientist\
-    \ for L-3 Data Tactics, where she has worked on network analysis, and creating\
-    \ R and JavaScript programs to visualize and analyze networks. She holds a PhD\
-    \ in Biomathematics, and has explored the uses of network science in everything\
-    \ from Facebook to prairie dogs to zombie outbreaks.\_<br/>Twitter: @altraud</p>\
-    \ <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone\
-    \ survey platform, and co-founder of the DataKind DC chapter, a volunteer group\
-    \ that connects data scientists with social sector organizations.<br/>Twitter:\
-    \ @richmanmax</p>"
+    \ and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a\
+    \ href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\"\
+    \ class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"\
+    https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\"\
+    \ class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"\
+    ><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p>\
+    \ <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has\
+    \ worked on network analysis, and creating R and JavaScript programs to visualize\
+    \ and analyze networks. She holds a PhD in Biomathematics, and has explored the\
+    \ uses of network science in everything from Facebook to prairie dogs to zombie\
+    \ outbreaks.\_<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist\
+    \ at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind\
+    \ DC chapter, a volunteer group that connects data scientists with social sector\
+    \ organizations.<br/>Twitter: @richmanmax</p>"
   duration: 7200000
   event_url: http://www.meetup.com/stats-prog-dc/events/177772502/
   group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
@@ -644,14 +644,14 @@
   name: Lightning Talks
   status: upcoming
   time: 1414103400000
-  updated: 1412823482000
+  updated: 1412875540000
   utc_offset: -14400000
   venue: {address_1: 1957 E St - Room 113, city: Washington, country: us, id: 22874212,
     lat: 38.896275000000003, lon: -77.044205000000005, name: GWU - Eliott School of
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 85
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -831,7 +831,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1406234864000
   description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
     \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
@@ -937,7 +937,7 @@
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -972,7 +972,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -1028,27 +1028,29 @@
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
-    \ <p>\u2022\_Betsy\_Emmons will show her animated\_<a href=\"http://mapstory.org/maps/1736/\"\
-    >MapStory</a>\_on the history of bike lanes in DC.</p> <p><br/>\u2022\_Lia Seremetis\
+    \ <p>\u2022\_\_<a href=\"http://tedullrich.com/\">Ted\_Ullrich</a>\_of\_<a href=\"\
+    http://tomorrow-lab.com/\">Tomorrow Lab</a>\_in New York City will show us the\_\
+    <a href=\"http://waycount.com/\">WayCount</a>\_device, which can be used to crowdsource\
+    \ bike traffic count data.</p> <p>\u2022\_<a href=\"http://socialbicycles.com/\"\
+    >SocialBicycles</a>\_will talk about their model of dockless bikesharing.</p>\
+    \ <p><br/>\u2022\_Betsy\_Emmons will show her animated\_<a href=\"http://mapstory.org/maps/1736/\"\
+    >MapStory</a>\_on the history of bike lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis\
     \ of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\_will talk about how\
     \ we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\_\
     Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\"\
     >mobile app</a>.</p> <p><br/>\u2022\_<a href=\"http://www.bikearlington.com/\"\
     >BikeArlington</a> will show us their upcoming app for creating a crowd-sourced\
-    \ map of bike racks.</p> <p><br/>\u2022\_<a href=\"http://socialbicycles.com/\"\
-    >SocialBicycles</a> will talk about their model of dockless bikesharing.</p> <p>\u2022\
-    \_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
-    \ Institute</a>\_will talk about bicycles and the future of connected vehicles.</p>\
-    \ <p><br/>\u2022\_Ola G\xF6ransson from the\_<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\"\
-    >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
-    >H\xF6vding</a>\_\"invisible\" helmet.</p> <p><br/>\u2022\_<a href=\"http://tedullrich.com/\"\
-    >Ted\_Ullrich</a> of <a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\_in\
-    \ New York City will show us the <a href=\"http://waycount.com/\">WayCount</a>\
-    \ device, which can be used to crowdsource bike traffic count data.</p> <p>If\
-    \ you have a bike-related app or data visualization that's creative and local,\
-    \ we want to see it!</p> <p>Please note there is a chance the location will be\
-    \ changed; we'll announce it later.</p> <p>Read about the last Bike Hack Night:\_\
-    <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
+    \ map of bike racks.\_</p> <p>\u2022\_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\"\
+    >Virginia Tech Transportation Institute</a>\_will talk about bicycles and the\
+    \ future of connected vehicles.</p> <p><br/>\u2022\_Ola G\xF6ransson from the\_\
+    <a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of\
+    \ Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\">H\xF6vding</a>\_\
+    \"invisible\" helmet.\_</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
+    >Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\
+    \ new bike counter on the Metropolitan Branch Trail.</p> <p><br/>If you have a\
+    \ bike-related app or data visualization that's creative and local, we want to\
+    \ see it!</p> <p>Please note there is a chance the location will be changed; we'll\
+    \ announce it later.</p> <p>Read about the last Bike Hack Night:\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200015252/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -1061,14 +1063,14 @@
   rsvp_limit: 60
   status: upcoming
   time: 1415314800000
-  updated: 1409845572000
+  updated: 1412867336000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -1145,7 +1147,7 @@
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 59
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
