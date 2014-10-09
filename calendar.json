@@ -1,91 +1,5 @@
 [
     {
-        "created": 1406234837000, 
-        "description": "<p>6:00 - 6:30\u00a0Participants arrive and socialize.\u00a0</p> <p>6:30 - 6:45\u00a0Group introductions and announcements from participants and organizers.</p> <p>6:45 - 8:45\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>8:45 - 9:00\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\u00a0Sometimes an after party (Happy Hour)</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812 if you have problems.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can (but remember we only have a single sponsor that covers a small amount of our expenses: servers, food, etc)</p> <p>\u2022\u00a0Bring a laptop (it\u2019s ok if you can\u2019t) and review list of active projects:\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Please take a look at our website\u00a0<a href=\"http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\">http://www.codefordc.org</a></a>\u00a0</p> <p>\u2022\u00a0Next take a look at our active projects\u00a0<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\" class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\u00a0Review the Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\">https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\u00a0If you are relatively new to civic hacking check out the Code for DC Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-        "duration": 10800000, 
-        "event_url": "http://www.meetup.com/Code-for-DC/events/196868812/", 
-        "group": {
-            "created": 1375990708000, 
-            "group_lat": 38.909999847412109, 
-            "group_lon": -77.040000915527344, 
-            "id": 9724492, 
-            "join_mode": "open", 
-            "name": "Code for DC", 
-            "urlname": "Code-for-DC", 
-            "who": "Civic Hackers"
-        }, 
-        "headcount": 0, 
-        "id": "196868812", 
-        "maybe_rsvp_count": 0, 
-        "name": "October 2014 Civic Hacknight 1", 
-        "status": "upcoming", 
-        "time": 1412805600000, 
-        "updated": 1406234837000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "419 7th St NW, Second Floor", 
-            "city": "Washington", 
-            "country": "us", 
-            "id": 20407722, 
-            "lat": 0, 
-            "lon": 0, 
-            "name": "Impact Hub DC", 
-            "repinned": false, 
-            "state": "DC"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 60
-    }, 
-    {
-        "created": 1412253219000, 
-        "description": "<p>At its core, User Experience (UX) is defined as how someone feels about using a product, system, or service. Regardless of what we\u2019re designing--a website, an Android app, or a toaster--we all strive to make our designs useful, easy to use, and enjoyable to use. But how exactly do we make something useful, easy to use, and enjoyable? How do we know if the target audience is having a good or bad experience? This class will arm you with the essential tips to find those answers.</p> <p>This class is for anyone who currently makes (or wants to learn how to make) websites, mobile apps, or other software. If you\u2019re a developer, a designer, a project manager, a content creator, or something else, you can integrate UX research and design into your practice.</p> <p>The contents that this class will cover include:</p> <p>\u2022 \u00a0Fundamental concepts of user experience design (what UX is and why you should care)</p> <p>\u2022 Creating user personas</p> <p>\u2022 Identifying usability problems and prioritizing solutions</p> <p>\u2022 How to design and run usability tests</p> <p>\u2022 Getting useful feedback from your users</p> <p>\u2022 Information Architecture and interaction design</p> <p>\u2022 Where UX fits with project management methodologies</p> <p>\u2022 And much, much more!</p> <p>This is a hands on course which will give you actionable tools to get started with user experience in your work day! Be prepared to sketch, talk and brainstorm with your peers. Don't forget to bring something to write with and take notes!</p> <p><b>About the Teachers:</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/a/2/600_365640162.jpeg\" /></p> <p>Ramla Mahmood is a web designer at Vox Media, publisher of SB Nation, The Verge, Polygon, Curbed, Eater, Racked and Vox. Prior to that she worked at the Collaborative Learning Hub at George Mason University where she used to teach into to HTML/CSS and certification programs in Adobe Creative Suite. In her free time, she loves to travel, collect books and learn new things.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/b/6/b/4/600_416446772.jpeg\" /></p> <p>Afreen Habib is a User Experience Designer and Researcher. She creates great mobile and web experiences through user-centered design methods and eye-tracking studies at Apollo Matrix, Inc, a mobile design and development agency. At George Mason University she runs usability tests as a human factors researcher focusing on social decision-making and human-computer interaction studies.</p> <p>\n\n\n\n<b>Please bring the following prior to class:\u00a0</b></p> <p>\u2022\u00a0Something to write with: pen/paper, laptop or tablet will all work.</p> <p>\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/b/b/a/0/600_416448032.jpeg\" /></p> <p><a href=\"http://www.addthis.com\">AddThis</a> is generously providing space at their headquarters in Vienna, VA.\u00a0</p> <p>\n\n\n<b>Parking:</b> There's ample free parking in front and around the back of the building.\u00a0</p> <p>\n\n\n<b>Refund Policy:</b>\u00a0Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-        "duration": 7200000, 
-        "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/210940482/", 
-        "fee": {
-            "accepts": "amazon", 
-            "amount": 24, 
-            "currency": "USD", 
-            "description": "per person", 
-            "label": "Price", 
-            "required": "1"
-        }, 
-        "group": {
-            "created": 1395687537000, 
-            "group_lat": 38.900001525878906, 
-            "group_lon": -77.040000915527344, 
-            "id": 13526522, 
-            "join_mode": "open", 
-            "name": "Girl Develop It D.C.", 
-            "urlname": "Girl-Develop-It-DC", 
-            "who": "Nerdettes"
-        }, 
-        "headcount": 0, 
-        "how_to_find_us": "Take the Silver Line to the Spring Hill metro stop. Exit from the West side of the station, walk down Spring Hill Road past the dealerships and the building will be the large office building straight ahead, 1595 Spring Hill Road.", 
-        "id": "210940482", 
-        "maybe_rsvp_count": 0, 
-        "name": "Intro to UX Design", 
-        "rsvp_limit": 41, 
-        "status": "upcoming", 
-        "time": 1412809200000, 
-        "updated": 1412253319000, 
-        "utc_offset": -14400000, 
-        "venue": {
-            "address_1": "1595 Spring Hill Road, Suite 300", 
-            "city": "Vienna", 
-            "country": "us", 
-            "id": 18517372, 
-            "lat": 38.927261000000001, 
-            "lon": -77.244193999999993, 
-            "name": "AddThis HQ", 
-            "repinned": false, 
-            "state": "VA"
-        }, 
-        "visibility": "public", 
-        "waitlist_count": 0, 
-        "yes_rsvp_count": 28
-    }, 
-    {
         "created": 1412219294000, 
         "description": "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\">DC Fem Tech's Tour De Code</a>, we are going to host two classes in October. This is the first of the <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">two</a>.\u00a0</p> <p>Join us for Intro to Python class. This is leads up to a <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">web scraping class</a> the following week.\u00a0</p> <p>This class will cover the basics of Python, including setting up your machine and will be lead by the super awesome <a href=\"http://therealkatie.net/\">Katie Cunningham</a>! YAY!</p> <p><b>Audience<br/></b> Python beginners, but all are welcome</p> <p><b>Requirements</b><br/>- A laptop that you can install stuff on (aka admin rights)<br/>- power supply</p> <p><b>Food &amp; beverage:</b><br/>Beverages are allow, but not food in the space. We will take a 20 minute break mid-class</p>", 
         "duration": 14400000, 
@@ -123,7 +37,7 @@
             "zip": "20001"
         }, 
         "visibility": "public", 
-        "waitlist_count": 0, 
+        "waitlist_count": 1, 
         "yes_rsvp_count": 32
     }, 
     {
@@ -376,7 +290,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 204
+        "yes_rsvp_count": 207
     }, 
     {
         "created": 1412028192000, 
@@ -441,7 +355,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 83
+        "yes_rsvp_count": 84
     }, 
     {
         "created": 1412026524000, 
@@ -547,7 +461,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 28
+        "yes_rsvp_count": 29
     }, 
     {
         "created": 1410577050000, 
@@ -587,6 +501,44 @@
         "visibility": "public", 
         "waitlist_count": 0, 
         "yes_rsvp_count": 95
+    }, 
+    {
+        "created": 1397773268000, 
+        "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript</p> <p><br/>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/>twitter: @<a href=\"https://twitter.com/planarrowspacegithub:\">planarrowspace<br/></a> github:\u00a0<a href=\"https://github.com/ajschumacher/blog:\"><a href=\"https://github.com/ajschumacher/\" class=\"linkified\">https://github.com/ajschumacher/</a><br/></a> blog:\u00a0<a href=\"http://planspace.org/Hack\"><a href=\"http://planspace.org/\" class=\"linkified\">http://planspace.org/</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p>", 
+        "duration": 7200000, 
+        "event_url": "http://www.meetup.com/stats-prog-dc/events/177772502/", 
+        "group": {
+            "created": 1249911519000, 
+            "group_lat": 38.909999847412109, 
+            "group_lon": -77.019996643066406, 
+            "id": 1503964, 
+            "join_mode": "open", 
+            "name": "Statistical Programming DC", 
+            "urlname": "stats-prog-dc", 
+            "who": "dc-hackeRs"
+        }, 
+        "headcount": 0, 
+        "id": "177772502", 
+        "maybe_rsvp_count": 0, 
+        "name": "Lightning Talks", 
+        "status": "upcoming", 
+        "time": 1414103400000, 
+        "updated": 1412823482000, 
+        "utc_offset": -14400000, 
+        "venue": {
+            "address_1": "1957 E St - Room 113", 
+            "city": "Washington", 
+            "country": "us", 
+            "id": 22874212, 
+            "lat": 38.896275000000003, 
+            "lon": -77.044205000000005, 
+            "name": "GWU - Eliott School of Int'l Affairs", 
+            "repinned": false, 
+            "state": "DC"
+        }, 
+        "visibility": "public", 
+        "waitlist_count": 0, 
+        "yes_rsvp_count": 65
     }, 
     {
         "created": 1412113433000, 
@@ -879,7 +831,7 @@
         }, 
         "visibility": "public", 
         "waitlist_count": 0, 
-        "yes_rsvp_count": 11
+        "yes_rsvp_count": 12
     }, 
     {
         "created": 1407622606000, 
