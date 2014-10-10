@@ -28,7 +28,7 @@
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 4
   yes_rsvp_count: 32
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
@@ -56,7 +56,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 60
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -84,7 +84,7 @@
   updated: 1412026429000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 10
   yes_rsvp_count: 60
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -120,7 +120,7 @@
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 29
 - created: 1379643162000
   description: '<p>This October, join us for an overview on regular expressions, and
     some fun on a coding challenge.</p> <p>We''ll start out talking regexes. All of
@@ -183,7 +183,7 @@
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 8
   yes_rsvp_count: 32
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
@@ -271,7 +271,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 209
+  yes_rsvp_count: 211
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -416,7 +416,7 @@
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -485,7 +485,7 @@
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 42
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -546,7 +546,7 @@
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -651,7 +651,7 @@
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 89
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -1070,7 +1070,7 @@
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -1147,7 +1147,7 @@
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 58
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
