@@ -1,3 +1,52 @@
+codefordc:
+- created: 1406234864000
+  description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
+    \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>6:45 - 8:45\_Hacking. Project teams break out to work. \_New participants\
+    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
+    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>8:45 - 9:00\_Everyone\
+    \ reconvenes and shares reactions to and progress made over the last two hours.\
+    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\_\
+    Sometimes an after party (Happy Hour)</p> <p>Notes:\_</p> <p>\u2022\_Text Matt\
+    \ 202-330-1154 or Justin at 301-538-5812 if you have problems.</p> <p>\u2022\_\
+    Bring cash for food and drink! Pay what you can (but remember we only have a single\
+    \ sponsor that covers a small amount of our expenses: servers, food, etc)</p>\
+    \ <p>\u2022\_Bring a laptop (it\u2019s ok if you can\u2019t) and review list of\
+    \ active projects:\_<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\"\
+    \ class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to\
+    \ Code for DC\u2026\_</p> <p>\u2022\_Please take a look at our website\_<a href=\"\
+    http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\"\
+    >http://www.codefordc.org</a></a>\_</p> <p>\u2022\_Next take a look at our active\
+    \ projects\_<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\"\
+    \ class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\_Review the\
+    \ Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"\
+    ><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\"\
+    >https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\_If you are\
+    \ relatively new to civic hacking check out the Code for DC Getting Started Guide\_\
+    <a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\"\
+    \ class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p>\
+    \ <p>\u2022\_Start working on a project with someone or bring your own project</p>\
+    \ <p><br/>\u2022\_Introduce yourself to others</p> <p>\u2022\_If you had a good\
+    \ time join Google Group and Meetup</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Code-for-DC/events/196868952/
+  group: {created: 1375990708000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
+  headcount: 0
+  id: '196868952'
+  maybe_rsvp_count: 0
+  name: October 2014 Civic Hacknight 2
+  status: upcoming
+  time: 1414533600000
+  updated: 1406234864000
+  utc_offset: -14400000
+  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
+    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 14
+other:
 - created: 1412219294000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -12,7 +61,7 @@
     \ are allow, but not food in the space. We will take a 20 minute break mid-class</p>"
   duration: 14400000
   event_url: http://www.meetup.com/dc-pyladies/events/210888442/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+  group: {created: 1312496216000, group_lat: 38.95000076293945, group_lon: -77.0199966430664,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
   headcount: 0
   how_to_find_us: Classroom in the Dream lab (the space to the left when you enter)
@@ -25,8 +74,8 @@
   updated: 1412219866000
   utc_offset: -14400000
   venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
-    lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
-      King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
+    lat: 38.898449, lon: -77.024704, name: 'DC Public Library:Martin Luther King Jr.
+      Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 4
   yes_rsvp_count: 32
@@ -40,7 +89,7 @@
     - Google</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel
     discussions<br/>8:30pm - 9:00pm Networking</p>
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/211207622/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+  group: {created: 1347647025000, group_lat: 38.90999984741211, group_lon: -77.06999969482422,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
     who: API enthusiasts}
   headcount: 0
@@ -52,8 +101,8 @@
   updated: 1412630369000
   utc_offset: -14400000
   venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
-    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
-    repinned: false, state: DC, zip: '20036'}
+    id: 12283102, lat: 38.90543, lon: -77.043747, name: Chief, repinned: false, state: DC,
+    zip: '20036'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 69
@@ -71,7 +120,7 @@
     \ wants to expand\_her\_high-level understanding of new languages!</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/210332182/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -104,7 +153,7 @@
     >@alisternburg</a>.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/210382132/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -116,8 +165,8 @@
   time: 1413414000000
   updated: 1412109146000
   utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109,
+    lon: -77.022224, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 30
@@ -134,7 +183,7 @@
     question, how to think about it, and how to format a response.</p> <p>Pizza arrives
     around 6:30 and we''ll start to introduce ourselves around 7. See you there!</p>'
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -167,7 +216,7 @@
     \ are allow, but not food in the space. We will take a 20 minute break mid-class</p>"
   duration: 14400000
   event_url: http://www.meetup.com/dc-pyladies/events/210889382/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+  group: {created: 1312496216000, group_lat: 38.95000076293945, group_lon: -77.0199966430664,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
   headcount: 0
   how_to_find_us: Classroom in the Dream lab (the space to the left when you enter)
@@ -180,8 +229,8 @@
   updated: 1412219812000
   utc_offset: -14400000
   venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
-    lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
-      King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
+    lat: 38.898449, lon: -77.024704, name: 'DC Public Library:Martin Luther King Jr.
+      Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 10
   yes_rsvp_count: 32
@@ -204,7 +253,7 @@
     \ \_RSVPing here on meetup will NOT register you! \_</b></p>"
   duration: 118800000
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/197863402/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -217,7 +266,7 @@
   updated: 1407178197000
   utc_offset: -14400000
   venue: {address_1: 1101 Wilson Boulevard, city: Arlington, country: us, id: 11535262,
-    lat: 38.895325, lon: -77.069710000000001, name: Artisphere, repinned: false, state: VA,
+    lat: 38.895325, lon: -77.06971, name: Artisphere, repinned: false, state: VA,
     zip: '22209'}
   visibility: public
   waitlist_count: 0
@@ -254,7 +303,7 @@
     \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
     >Five 9 Group</a>.</p>"
   event_url: http://www.meetup.com/Data-Science-DC/events/210315282/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1311348860000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
     who: Data Scientists}
   headcount: 0
@@ -266,9 +315,9 @@
   time: 1413844200000
   updated: 1412032474000
   utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952,
+    lon: -77.048943, name: 'GWU, Funger Hall, Room 108', repinned: false, state: DC,
+    zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 217
@@ -309,7 +358,7 @@
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/210383992/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -400,7 +449,7 @@
     \ planned by NSF and other agencies in support of Big Data in national priority\
     \ areas in the next phase of the Initiative.</p>"
   event_url: http://www.meetup.com/Data-Business-DC/events/206173592/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+  group: {created: 1339111847000, group_lat: 38.90999984741211, group_lon: -77.02999877929688,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
     who: Data-preneurs}
   headcount: 0
@@ -412,8 +461,8 @@
   updated: 1412343588000
   utc_offset: -14400000
   venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
-    id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
-      LLP, repinned: false, state: DC, zip: '20004'}
+    id: 11216352, lat: 38.896278, lon: -77.028313, name: Cooley LLP, repinned: false,
+    state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 89
@@ -432,7 +481,7 @@
     at Github.com and start reading some of their documentation.</p>
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/210332922/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -469,7 +518,7 @@
     follow us on twitter at @MaptimeDC.</p>'
   duration: 5400000
   event_url: http://www.meetup.com/Maptime-DC/events/206833492/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1399208438000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
       hackers}
   headcount: 0
@@ -481,8 +530,8 @@
   updated: 1411497008000
   utc_offset: -14400000
   venue: {address_1: 1203 19th Street NW 3rd Floor, city: Washington, country: us,
-    id: 7726762, lat: 38.905909999999999, lon: -77.043289000000001, name: Canvas.co,
-    repinned: false, state: DC, zip: '20036'}
+    id: 7726762, lat: 38.90591, lon: -77.043289, name: Canvas.co, repinned: false,
+    state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 45
@@ -530,7 +579,7 @@
     \ an informal and creative work environment where people can think and share openly.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211704892/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1384378071000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
     who: Data Wranglers}
   headcount: 0
@@ -541,9 +590,9 @@
   time: 1413930600000
   updated: 1412789899000
   utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952,
+    lon: -77.048943, name: 'GWU, Funger Hall, Room 103', repinned: false, state: DC,
+    zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 36
@@ -584,7 +633,7 @@
     \ <p>[masked]</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/3/2/600_268739442.jpeg\"\
     \ /></p>"
   event_url: http://www.meetup.com/Data-Science-MD/events/206958092/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+  group: {created: 1355196079000, group_lat: 39.27000045776367, group_lon: -76.62999725341797,
     id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
     who: Data Enthusiasts}
   headcount: 0
@@ -597,8 +646,8 @@
   updated: 1410580836000
   utc_offset: -14400000
   venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
-    lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com
-      - Ivory Building, repinned: false, state: MD, zip: '21230'}
+    lat: 39.275238, lon: -76.591057, name: AOL / Advertising.com - Ivory Building,
+    repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 96
@@ -635,7 +684,7 @@
     \ organizations.<br/>Twitter: @richmanmax</p>"
   duration: 7200000
   event_url: http://www.meetup.com/stats-prog-dc/events/177772502/
-  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1249911519000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
     who: dc-hackeRs}
   headcount: 0
@@ -647,8 +696,8 @@
   updated: 1412875540000
   utc_offset: -14400000
   venue: {address_1: 1957 E St - Room 113, city: Washington, country: us, id: 22874212,
-    lat: 38.896275000000003, lon: -77.044205000000005, name: GWU - Eliott School of
-      Int'l Affairs, repinned: false, state: DC}
+    lat: 38.896275, lon: -77.044205, name: GWU - Eliott School of Int'l Affairs, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 92
@@ -705,7 +754,7 @@
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/210566302/
   fee: {accepts: amazon, amount: 48, currency: USD, description: per person, label: Price,
     required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -719,8 +768,8 @@
   updated: 1412113433000
   utc_offset: -14400000
   venue: {address_1: '2231 Crystal Drive, Suite 1000', city: Arlington, country: us,
-    id: 20218602, lat: 38.853779000000003, lon: -77.048766999999998, name: Crystal
-      Tech Fund, repinned: false, state: VA}
+    id: 20218602, lat: 38.853779, lon: -77.048767, name: Crystal Tech Fund, repinned: false,
+    state: VA}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -761,7 +810,7 @@
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/210384012/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
@@ -817,7 +866,7 @@
     \ community?\_&lt;a&gt;Get in touch!&lt;/a&gt;\_</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Visualization-DC/events/211670252/
-  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1359639162000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
     who: Data Visualizers}
   headcount: 0
@@ -832,53 +881,6 @@
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 58
-- created: 1406234864000
-  description: "<p>6:00 - 6:30\_Participants arrive and socialize.\_</p> <p>6:30 -\
-    \ 6:45\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>6:45 - 8:45\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>8:45 - 9:00\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:00\_\
-    Sometimes an after party (Happy Hour)</p> <p>Notes:\_</p> <p>\u2022\_Text Matt\
-    \ 202-330-1154 or Justin at 301-538-5812 if you have problems.</p> <p>\u2022\_\
-    Bring cash for food and drink! Pay what you can (but remember we only have a single\
-    \ sponsor that covers a small amount of our expenses: servers, food, etc)</p>\
-    \ <p>\u2022\_Bring a laptop (it\u2019s ok if you can\u2019t) and review list of\
-    \ active projects:\_<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\"\
-    \ class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>If you are new to\
-    \ Code for DC\u2026\_</p> <p>\u2022\_Please take a look at our website\_<a href=\"\
-    http://www.codefordc.org/\"><a href=\"http://www.codefordc.org\" class=\"linkified\"\
-    >http://www.codefordc.org</a></a>\_</p> <p>\u2022\_Next take a look at our active\
-    \ projects\_<a href=\"http://bit.ly/codefordc\"><a href=\"http://bit.ly/codefordc\"\
-    \ class=\"linkified\">http://bit.ly/codefordc</a></a></p> <p>\u2022\_Review the\
-    \ Code for DC Code of Conduct (draft)<a href=\"https://github.com/codefordc/code-of-conduct\"\
-    ><a href=\"https://github.com/codefordc/code-of-conduct\" class=\"linkified\"\
-    >https://github.com/codefordc/code-of-conduct</a></a></p> <p>\u2022\_If you are\
-    \ relatively new to civic hacking check out the Code for DC Getting Started Guide\_\
-    <a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\"\
-    \ class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p>\
-    \ <p>\u2022\_Start working on a project with someone or bring your own project</p>\
-    \ <p><br/>\u2022\_Introduce yourself to others</p> <p>\u2022\_If you had a good\
-    \ time join Google Group and Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/196868952/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '196868952'
-  maybe_rsvp_count: 0
-  name: October 2014 Civic Hacknight 2
-  status: upcoming
-  time: 1414533600000
-  updated: 1406234864000
-  utc_offset: -14400000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -923,7 +925,7 @@
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/206263262/
   fee: {accepts: amazon, amount: 24, currency: USD, description: per person, label: Price,
     required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.04000091552734,
     id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
     who: Nerdettes}
   headcount: 0
@@ -956,7 +958,7 @@
     \ to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
     \ We love hacks! &lt;3</p>"
   event_url: http://www.meetup.com/DC-Hack-and-Tell/events/210034052/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1361902062000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
     who: Hackers}
   headcount: 0
@@ -968,8 +970,8 @@
   time: 1415059200000
   updated: 1411918617000
   utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109,
+    lon: -77.022224, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 26
@@ -986,7 +988,7 @@
     \ <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499542/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -998,8 +1000,7 @@
   updated: 1404749244000
   utc_offset: -18000000
   venue: {address_1: 600 New Jersey Avenue NW, city: Washington, country: us, id: 19547872,
-    lat: 38.898173999999997, lon: -77.012237999999996, name: Georgetown Law, repinned: false,
-    state: DC}
+    lat: 38.898174, lon: -77.012238, name: Georgetown Law, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 11
@@ -1019,9 +1020,9 @@
   time: 1415232000000
   updated: 1410139754000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 12
@@ -1053,7 +1054,7 @@
     \ announce it later.</p> <p>Read about the last Bike Hack Night:\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200015252/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+  group: {created: 1384372275000, group_lat: 38.88999938964844, group_lon: -77.06999969482422,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -1066,15 +1067,15 @@
   updated: 1412867336000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
-    id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
-      Lab, repinned: false, state: VA, zip: '22209'}
+    id: 16609032, lat: 38.895149, lon: -77.074043, name: Mobility Lab, repinned: false,
+    state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 45
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1384378071000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
     who: Data Wranglers}
   headcount: 0
@@ -1085,9 +1086,9 @@
   time: 1415748600000
   updated: 1412599858000
   utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952,
+    lon: -77.048943, name: 'GWU, Funger Hall, Room 108', repinned: false, state: DC,
+    zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1129,7 +1130,7 @@
     \ be emailed at\_<a href=\"mailto:[masked]\">[masked]</a>.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Data-Science-MD/events/211381012/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+  group: {created: 1355196079000, group_lat: 39.27000045776367, group_lon: -76.62999725341797,
     id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
     who: Data Enthusiasts}
   headcount: 0
@@ -1142,9 +1143,8 @@
   updated: 1412805443000
   utc_offset: -18000000
   venue: {address_1: 11100 Johns Hopkins Road, city: Laurel, country: us, id: 11286692,
-    lat: 39.164036000000003, lon: -76.896636999999998, name: ' Johns Hopkins University
-      Applied Physics Laboratory (APL) - Building 200 Room E100', repinned: false,
-    state: MD, zip: '20723'}
+    lat: 39.164036, lon: -76.896637, name: ' Johns Hopkins University Applied Physics
+      Laboratory (APL) - Building 200 Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 59
@@ -1182,7 +1182,7 @@
     \ Institute of Technology.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Business-DC/events/203039932/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+  group: {created: 1339111847000, group_lat: 38.90999984741211, group_lon: -77.02999877929688,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
     who: Data-preneurs}
   headcount: 0
@@ -1194,8 +1194,8 @@
   updated: 1411344761000
   utc_offset: -18000000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
-    lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
-      School of Continuing Studies, repinned: false}
+    lat: 38.901859, lon: -77.020996, name: Georgetown University School of Continuing
+      Studies, repinned: false}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 110
@@ -1208,7 +1208,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1226,7 +1226,7 @@
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1384378071000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
     who: Data Wranglers}
   headcount: 0
@@ -1237,9 +1237,9 @@
   time: 1417649400000
   updated: 1412599788000
   utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952,
+    lon: -77.048943, name: 'GWU, Funger Hall, Room 103', repinned: false, state: DC,
+    zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1257,7 +1257,7 @@
     \ on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499902/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+  group: {created: 1372871984000, group_lat: 38.91999816894531, group_lon: -77.04000091552734,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
       Hackers}
   headcount: 0
@@ -1287,9 +1287,9 @@
   time: 1417651200000
   updated: 1410139736000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
@@ -1309,7 +1309,7 @@
     \ of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s\
     \ first-mile/last-mile ridership.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+  group: {created: 1384372275000, group_lat: 38.88999938964844, group_lon: -77.06999969482422,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -1322,8 +1322,8 @@
   updated: 1411066547000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
-    lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
-    repinned: false, state: DC}
+    lat: 38.914551, lon: -77.021095, name: WeWork Wonder Bread Factory, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 17
@@ -1345,7 +1345,7 @@
     \ to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
     \ We love hacks! &lt;3</p>"
   event_url: http://www.meetup.com/DC-Hack-and-Tell/events/210034202/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+  group: {created: 1361902062000, group_lat: 38.90999984741211, group_lon: -77.0199966430664,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
     who: Hackers}
   headcount: 0
@@ -1357,8 +1357,8 @@
   time: 1418083200000
   updated: 1411918780000
   utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109,
+    lon: -77.022224, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -1378,9 +1378,9 @@
   time: 1420675200000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1408,7 +1408,7 @@
     is right for you:</p> <p><a href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/"
     class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1439,9 +1439,9 @@
   time: 1423094400000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1454,7 +1454,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytdbzb/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1485,9 +1485,9 @@
   time: 1425513600000
   updated: 1326383071000
   utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1500,7 +1500,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytfbzb/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1531,9 +1531,9 @@
   time: 1427929200000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1546,7 +1546,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytgbvb/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1577,9 +1577,9 @@
   time: 1430953200000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1592,7 +1592,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgythbcc/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1623,9 +1623,9 @@
   time: 1433372400000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1638,7 +1638,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/210744552/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1669,9 +1669,9 @@
   time: 1435791600000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1684,7 +1684,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytkbvb/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1715,9 +1715,9 @@
   time: 1438815600000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1730,7 +1730,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytlbbc/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1761,9 +1761,9 @@
   time: 1441234800000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1776,7 +1776,7 @@
     href="http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/" class="linkified">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>
     <p><br/>Gloria</p>
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytmbwb/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+  group: {created: 1378482158000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
     who: Ladies Who Code}
   headcount: 0
@@ -1807,9 +1807,9 @@
   time: 1444258800000
   updated: 1326383071000
   utc_offset: -14400000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916776,
+    lon: -77.037339, name: Stetson's Famous Bar & Restaurant, phone: (202) 667-6295,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1

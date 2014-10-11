@@ -9,15 +9,23 @@ tracked = tracked["meetups"]
 # Load MEETUP_API_KEY from creds.py
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
-output = []
+output = {}
+output["codefordc"] = []
+output["other"] = []
 
-#Loop through the groups
+# Get Code for DC events
+r = requests.get("http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname=Code-for-DC&desc=false&offset=0&photo-host=public&format=json&page=20&fields=&key="+MEETUP_API_KEY+"&sign=true").json()
+for e in r["results"]:
+    output["codefordc"].append(e)
+
+# Loop through the other groups
 for g in tracked:
     r = requests.get("http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname="+g+"&desc=false&offset=0&photo-host=public&format=json&page=20&fields=&key="+MEETUP_API_KEY+"&sign=true").json()
     for e in r["results"]:
-        output.append(e)
+        output["other"].append(e)
 
-output = sorted(output, key=operator.itemgetter('time'))
+# Sort events by date
+output["other"] = sorted(output["other"], key=operator.itemgetter('time'))
 
 # Write the JSON, JSONP, and YAML files
 
