@@ -36,51 +36,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 29
         }
     ], 
     "other": [
-        {
-            "created": 1412219294000, 
-            "description": "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\">DC Fem Tech's Tour De Code</a>, we are going to host two classes in October. This is the first of the <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">two</a>.\u00a0</p> <p>Join us for Intro to Python class. This is leads up to a <a href=\"http://www.meetup.com/dc-pyladies/events/210889382/\">web scraping class</a> the following week.\u00a0</p> <p>This class will cover the basics of Python, including setting up your machine and will be lead by the super awesome <a href=\"http://therealkatie.net/\">Katie Cunningham</a>! YAY!</p> <p><b>Audience<br/></b> Python beginners, but all are welcome</p> <p><b>Requirements</b><br/>- A laptop that you can install stuff on (aka admin rights)<br/>- power supply</p> <p><b>Food &amp; beverage:</b><br/>Beverages are allow, but not food in the space. We will take a 20 minute break mid-class</p>", 
-            "duration": 14400000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/210888442/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Classroom in the Dream lab (the space to the left when you enter)", 
-            "id": "210888442", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Python", 
-            "rsvp_limit": 36, 
-            "status": "upcoming", 
-            "time": 1413034200000, 
-            "updated": 1412991525000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 26
-        }, 
         {
             "created": 1412354806000, 
             "description": "<p>It's October now, popularly known as the month of falling leaves, ghouls, and kickass API presentations. There's plenty of good stuff this month, so go ahead, mark your calendars, and RSVP so we know how much pizza to get. :)</p> <p>6:00pm - 6:30pm Food, drinks and networking<br/>6:40pm - 6:50pm Introductions and Announcements<br/>6:50pm - 8:00pm Presentations</p> <p>* Raj Bhaskar - Hurdlr<br/>* Alan Delevie and Eric Mill - 18F<br/>* Greg Bloom - Open 211<br/>* Anthea Watson - Google</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
@@ -144,7 +103,7 @@
             "updated": 1412026429000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -211,7 +170,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1412219748000, 
@@ -331,7 +290,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 221
+            "yes_rsvp_count": 223
         }, 
         {
             "created": 1412028192000, 
@@ -423,7 +382,7 @@
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -463,7 +422,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1412599027000, 
@@ -873,7 +832,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1412599759000, 
