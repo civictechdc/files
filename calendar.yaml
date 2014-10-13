@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 other:
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
@@ -73,7 +73,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -137,7 +137,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1379643162000
   description: '<p>This October, join us for an overview on regular expressions, and
     some fun on a coding challenge.</p> <p>We''ll start out talking regexes. All of
@@ -288,7 +288,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 225
+  yes_rsvp_count: 226
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -340,7 +340,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -433,7 +433,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 92
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -462,7 +462,7 @@ other:
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 16
+  waitlist_count: 17
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -668,7 +668,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -792,7 +792,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1412571086000
   description: "<p>How many meetup groups do you belong to? If you find an interesting\
     \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
@@ -848,7 +848,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
