@@ -73,7 +73,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 75
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -288,7 +288,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 230
+  yes_rsvp_count: 232
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -433,7 +433,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 94
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -502,7 +502,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -563,7 +563,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -668,7 +668,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
