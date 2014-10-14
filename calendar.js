@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1412026429000, 
@@ -100,10 +100,20 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1413412200000, 
-            "updated": 1412026429000, 
+            "updated": 1413253601000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3299 K St Nw Ste 500", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 22966332, 
+                "lat": 38.902946, 
+                "lon": -77.064437999999996, 
+                "name": "Akqa Incorporated", 
+                "repinned": false
+            }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 18, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -210,7 +220,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 32
         }, 
         {
@@ -290,7 +300,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 233
+            "yes_rsvp_count": 235
         }, 
         {
             "created": 1412028192000, 
@@ -355,7 +365,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1412026524000, 
@@ -382,7 +392,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -500,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1397773268000, 
@@ -715,7 +725,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1404748918000, 
@@ -793,7 +803,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1407622606000, 

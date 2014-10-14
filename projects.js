@@ -54,7 +54,40 @@ projects([
             0, 
             3
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Housing"
+                }
+            ], 
+            "communityPartner": {
+                "Bread for City": "http://www.breadforthecity.org/"
+            }, 
+            "contact": {
+                "email": "", 
+                "name": "Marcus Louie", 
+                "twitter": "@mlouie"
+            }, 
+            "geography": "Washington, DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc", 
+            "needs": [
+                {
+                    "need": "Ruby"
+                }, 
+                {
+                    "need": "Salesforce"
+                }, 
+                {
+                    "need": "Passionate People"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Alpha", 
+            "thumbnailUrl": "", 
+            "type": ""
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=2", 
@@ -112,7 +145,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 2, 
+                "contributions": 3, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -187,7 +220,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-10-09T14:52:17Z", 
+        "pushed_at": "2014-10-14T00:33:49Z", 
         "size": 20739, 
         "updated_at": "2014-10-09T00:50:15Z", 
         "watchers": 10
@@ -668,7 +701,7 @@ projects([
     }, 
     {
         "activity": [
-            6, 
+            5, 
             0, 
             0, 
             0, 
@@ -715,11 +748,11 @@ projects([
             4, 
             3, 
             0, 
-            8, 
-            12, 
-            6, 
+            9, 
+            11, 
+            7, 
             1, 
-            0
+            4
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -750,7 +783,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
-                "contributions": 41, 
+                "contributions": 43, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
             }, 
@@ -761,16 +794,16 @@ projects([
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
-                "contributions": 7, 
-                "link": "https://github.com/leahbannon", 
-                "name": "leahbannon"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
+                "contributions": 7, 
+                "link": "https://github.com/leahbannon", 
+                "name": "leahbannon"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=2", 
@@ -779,8 +812,14 @@ projects([
                 "name": "jtreed25"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=2", 
+                "contributions": 4, 
+                "link": "https://github.com/drewbo", 
+                "name": "drewbo"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=2", 
-                "contributions": 3, 
+                "contributions": 4, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
@@ -815,7 +854,7 @@ projects([
                 "name": "shannonturner"
             }
         ], 
-        "contributors_count": 11, 
+        "contributors_count": 12, 
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
@@ -851,7 +890,7 @@ projects([
         "languages": [
             [
                 "CSS", 
-                13475
+                13517
             ], 
             [
                 "JavaScript", 
@@ -860,14 +899,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Code for DC Website", 
-        "open_issues": 12, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-10-11T01:21:41Z", 
+        "pushed_at": "2014-10-14T02:17:44Z", 
         "size": 8296, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -1071,7 +1110,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
-                "contributions": 33, 
+                "contributions": 35, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1103,15 +1142,15 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "Code for DC Guides", 
-        "open_issues": 4, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-09-30T19:54:12Z", 
-        "size": 2319, 
+        "pushed_at": "2014-10-14T02:52:24Z", 
+        "size": 2318, 
         "updated_at": "2014-09-26T20:32:06Z", 
         "watchers": 5
     }, 
@@ -1174,7 +1213,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 358, 
+                "contributions": 359, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1213,8 +1252,8 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-10-11T07:14:04Z", 
-        "size": 2465, 
+        "pushed_at": "2014-10-14T05:14:04Z", 
+        "size": 2495, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
     }, 

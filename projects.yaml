@@ -1,7 +1,23 @@
 - activity: [16, 8, 7, 3, 3, 0, 5, 8, 2, 0, 0, 20, 4, 10, 3, 3, 3, 0, 0, 11, 0, 0,
     0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 14, 8, 106, 48, 49, 4, 13, 0, 1, 0, 1, 9, 0, 9,
     2, 0, 0, 9, 0, 3]
-  civic_json: null
+  civic_json:
+    bornAt: Code for DC
+    categories:
+    - {category: Housing}
+    communityPartner: {Bread for City: 'http://www.breadforthecity.org/'}
+    contact: {email: '', name: Marcus Louie, twitter: '@mlouie'}
+    geography: Washington, DC
+    governmentPartner: {}
+    moreInfo: https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc
+    needs:
+    - {need: Ruby}
+    - {need: Salesforce}
+    - {need: Passionate People}
+    politicalEntity: {}
+    status: Alpha
+    thumbnailUrl: ''
+    type: ''
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=2', contributions: 355,
     link: 'https://github.com/jrunningen', name: jrunningen}
@@ -21,7 +37,7 @@
     link: 'https://github.com/sethpuckett', name: sethpuckett}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/459756?v=2', contributions: 4,
     link: 'https://github.com/mpeteuil', name: mpeteuil}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 2,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 3,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=2', contributions: 1,
     link: 'https://github.com/dfelsent', name: dfelsent}
@@ -55,7 +71,7 @@
   open_issues: 14
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-09T14:52:17Z'
+  pushed_at: '2014-10-14T00:33:49Z'
   size: 20739
   updated_at: '2014-10-09T00:50:15Z'
   watchers: 10
@@ -213,9 +229,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [6, 0, 0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4,
-    0, 0, 0, 3, 6, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 8, 12,
-    6, 1, 0]
+- activity: [5, 0, 0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4,
+    0, 0, 0, 3, 6, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 9, 11,
+    7, 1, 4]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -232,17 +248,19 @@
     thumbnailUrl: ''
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=2', contributions: 41,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=2', contributions: 43,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 31,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 7,
-    link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 7,
     link: 'https://github.com/justgrimes', name: justgrimes}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 7,
+    link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7332618?v=2', contributions: 5,
     link: 'https://github.com/jtreed25', name: jtreed25}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 3,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7108211?v=2', contributions: 4,
+    link: 'https://github.com/drewbo', name: drewbo}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 4,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4592?v=2', contributions: 2,
     link: 'https://github.com/konklone', name: konklone}
@@ -254,7 +272,7 @@
     link: 'https://github.com/leah-lib', name: leah-lib}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=2', contributions: 1,
     link: 'https://github.com/shannonturner', name: shannonturner}
-  contributors_count: 11
+  contributors_count: 12
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
@@ -276,14 +294,14 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [CSS, 13475]
+  - [CSS, 13517]
   - [JavaScript, 12522]
   main_language: CSS
   name: Code for DC Website
-  open_issues: 12
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-11T01:21:41Z'
+  pushed_at: '2014-10-14T02:17:44Z'
   size: 8296
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
@@ -342,7 +360,7 @@
     thumbnailUrl: ''
     type: Guide
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 33,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 35,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 4,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -360,11 +378,11 @@
   - [Ruby, 30]
   main_language: Python
   name: Code for DC Guides
-  open_issues: 4
+  open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-09-30T19:54:12Z'
-  size: 2319
+  pushed_at: '2014-10-14T02:52:24Z'
+  size: 2318
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
 - activity: [6, 7, 7, 6, 6, 7, 5, 7, 7, 6, 1, 0, 4, 5, 7, 10, 6, 3, 5, 6, 4, 5, 6,
@@ -372,7 +390,7 @@
     6, 6, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 358,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 359,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -394,8 +412,8 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-10-11T07:14:04Z'
-  size: 2465
+  pushed_at: '2014-10-14T05:14:04Z'
+  size: 2495
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
