@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 other:
 - created: 1412354806000
   description: <p>It's October now, popularly known as the month of falling leaves,
@@ -101,7 +101,7 @@ other:
   updated: 1412026429000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 16
+  waitlist_count: 17
   yes_rsvp_count: 60
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -165,7 +165,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -200,7 +200,7 @@ other:
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 15
   yes_rsvp_count: 32
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
@@ -288,7 +288,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 232
+  yes_rsvp_count: 233
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -462,7 +462,7 @@ other:
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 18
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -502,7 +502,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 51
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -563,7 +563,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -907,7 +907,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -942,7 +942,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -994,7 +994,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. We've got a great lineup, with more to be added:</p>\
@@ -1040,7 +1040,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -1117,7 +1117,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 63
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\

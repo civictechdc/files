@@ -59,8 +59,8 @@
   size: 20739
   updated_at: '2014-10-09T00:50:15Z'
   watchers: 10
-- activity: [24, 2, 13, 0, 0, 1, 11, 15, 9, 0, 0, 0, 13, 2, 7, 19, 5, 3, 8, 6, 12,
-    1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 6, 5, 1, 1, 0,
+- activity: [15, 0, 13, 0, 0, 1, 11, 15, 9, 0, 0, 0, 13, 2, 7, 20, 5, 2, 10, 4, 12,
+    1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 0, 6, 6, 0, 6, 3, 5, 5, 1, 1, 0,
     0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -457,7 +457,7 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=2', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2014-10-10T22:38:08Z'
+  pushed_at: '2014-10-13T17:48:52Z'
   size: 9896
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
