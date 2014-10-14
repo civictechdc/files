@@ -15,6 +15,11 @@ output = []
 schema = {
     "type":"object",
     "properties":{
+        "conformsTo":{
+            "type":"string",
+            "required":False,
+            "pattern":"^https://github\.com/codefordc/guides/blob/master/using-civic\.json/specification\.md$"
+        },
         "status":{
             "type":"string",
             "blank":True
@@ -58,6 +63,10 @@ schema = {
         "type":{
             "type":"string",
             "blank":True
+        },
+        "data":{
+            "type":"array",
+            "required":False
         },
         "needs":{
             "type":"array"
