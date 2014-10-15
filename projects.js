@@ -701,36 +701,36 @@ projects([
     }, 
     {
         "activity": [
+            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            6, 
+            3, 
+            4, 
+            1, 
+            0, 
+            1, 
+            0, 
+            0, 
+            1, 
+            0, 
+            0, 
+            0, 
+            4, 
+            2, 
+            0, 
+            0, 
+            4, 
+            0, 
+            0, 
+            0, 
+            3, 
+            8, 
             5, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
-            3, 
-            4, 
-            1, 
-            0, 
-            1, 
-            0, 
-            0, 
-            1, 
-            0, 
-            0, 
-            0, 
-            3, 
-            2, 
-            1, 
-            0, 
-            4, 
-            0, 
-            0, 
-            0, 
-            3, 
-            6, 
-            7, 
-            0, 
             2, 
             3, 
             6, 
@@ -741,18 +741,18 @@ projects([
             0, 
             0, 
             0, 
-            3, 
-            3, 
+            6, 
+            0, 
             3, 
             6, 
-            4, 
-            3, 
-            0, 
-            9, 
+            5, 
+            2, 
+            2, 
+            10, 
             11, 
-            7, 
+            4, 
             1, 
-            4
+            7
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1718,8 +1718,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            1, 
+            5, 
             0, 
             0, 
             0, 
@@ -1871,7 +1871,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
-                "contributions": 106, 
+                "contributions": 107, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
@@ -1882,16 +1882,22 @@ projects([
                 "name": "saulshanabrook"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=2", 
-                "contributions": 1, 
-                "link": "https://github.com/kevko", 
-                "name": "kevko"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/adunkman", 
                 "name": "adunkman"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/mkalish", 
+                "name": "mkalish"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=2", 
+                "contributions": 1, 
+                "link": "https://github.com/kevko", 
+                "name": "kevko"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=2", 
@@ -1906,11 +1912,11 @@ projects([
                 "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 6, 
+        "contributors_count": 7, 
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "gh-pages", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 5, 
+        "forks": 6, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
@@ -1918,7 +1924,7 @@ projects([
         "languages": [
             [
                 "Python", 
-                11987
+                16556
             ], 
             [
                 "CSS", 
@@ -1938,7 +1944,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-10-15T01:47:34Z", 
+        "pushed_at": "2014-10-15T15:33:59Z", 
         "size": 28974, 
         "updated_at": "2014-10-15T01:16:27Z", 
         "watchers": 3
