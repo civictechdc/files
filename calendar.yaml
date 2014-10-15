@@ -73,7 +73,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 85
 - created: 1412026429000
   description: "<p>Interested in learning to code, but don't know where to start?\
     \ \_Have an idea for a web application or an app, but aren't sure what the best\
@@ -103,7 +103,7 @@ other:
   venue: {address_1: 3299 K St Nw Ste 500, city: Washington, country: US, id: 22966332,
     lat: 38.902946, lon: -77.064437999999996, name: Akqa Incorporated, repinned: false}
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 20
   yes_rsvp_count: 60
 - created: 1412040483000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -166,7 +166,7 @@ other:
   updated: 1412253495000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 2
   yes_rsvp_count: 50
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
@@ -290,7 +290,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 237
+  yes_rsvp_count: 245
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -342,33 +342,40 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
     \ to hear how other people are making it work for them? Join us to learn more\
     \ about how some major organizations are making an impact using big data.\_Schedule</p>\
-    \ <p><br/>6:00pm - 6:40pm Networking</p> <p><br/>6:40pm - 6:50pm Introductions</p>\
-    \ <p><br/>6:50pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming\
-    \ soon)</p> <p>\_\u201CData Warehousing at Opower\u201D</p> <p>Arjun Dasgupta,\
-    \ Opower, Research Engineer</p> <p>Arjun is a research engineer at Opower working\
-    \ on Business Intelligence and Data Warehousing. Over the last few years, he has\
-    \ led Opower's DW and BI initiatives. He has played an important part in architecting\
-    \ Opower's hadoop based data warehouse and tackling data scale, governance and\
-    \ integration issues. Prior to Opower, Arjun spent time in academia researching\
-    \ novel problems in databases, data mining and information retrieval.\_</p> <p>Opower\
-    \ has grown from a small startup to a publicly traded company in the last 6 years.\
-    \ Our datasets have also grown exponentially in complexity and scale. In order\
-    \ to tackle this data explosion, we started an initiative to move our enterprise\
-    \ data warehouse to a scalable hadoop ecosystem. The focus was to get all our\
-    \ data in one place, where it could be queried, mined and analyzed at scale. In\
-    \ this talk, I will share our experiences in building this core piece of infrastructure,\
-    \ the benefits that we have reaped and challenges that we have faced along the\
-    \ way.\_</p> <p><br/>\_\u201CHigh Performance Data Warehousing via Open Source\u201D\
-    </p> <p>Curtis Smith, \_Neustar , Director, Platform Services \u2013 Implementation\
-    \ and \_Integration</p> <p>Curtis has been instrumental in the creation and development\
-    \ of Neustar\u2019s Data Services organization which is responsible for Data Warehousing,\
-    \ Business Intelligence and over the last 4 years, \_Neustar\u2019s Big Data initiative.\
+    \ <p><br/>6:00pm - 6:30pm Networking</p> <p>6:30pm - 6:40pm Introductions</p>\
+    \ <p>6:40pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming soon)</p>\
+    \ <p><b>Google - Felipa Hoffa</b></p> <p>In 2011 Felipe Hoffa move from Chile\
+    \ to San Francisco to join Google as a Software Engineer. Since 2013 he's been\
+    \ a Developer Advocate on big data - to inspire developers around the world to\
+    \ leverage the Google Cloud Platform tools to analyze and understand their data\
+    \ in ways they could never before. You can find him in several YouTube videos,\
+    \ blog posts, and conferences around the world.<br/><i>Follow Felipe at\_<a href=\"\
+    https://twitter.com/felipehoffa\">@felipehoffa</a>.</i></p> <p>\n\n\n\n<b>\u201C\
+    Data Warehousing at Opower\u201D\_</b></p> <p><b>Arjun Dasgupta, Opower, Research\
+    \ Engineer</b></p> <p>Arjun is a research engineer at Opower working on Business\
+    \ Intelligence and Data Warehousing. Over the last few years, he has led Opower's\
+    \ DW and BI initiatives. He has played an important part in architecting Opower's\
+    \ hadoop based data warehouse and tackling data scale, governance and integration\
+    \ issues. Prior to Opower, Arjun spent time in academia researching novel problems\
+    \ in databases, data mining and information retrieval.\_</p> <p>Opower has grown\
+    \ from a small startup to a publicly traded company in the last 6 years. Our datasets\
+    \ have also grown exponentially in complexity and scale. In order to tackle this\
+    \ data explosion, we started an initiative to move our enterprise data warehouse\
+    \ to a scalable hadoop ecosystem. The focus was to get all our data in one place,\
+    \ where it could be queried, mined and analyzed at scale. In this talk, I will\
+    \ share our experiences in building this core piece of infrastructure, the benefits\
+    \ that we have reaped and challenges that we have faced along the way.\_</p> <p><br/><b>\u201C\
+    High Performance Data Warehousing via Open Source\u201D</b></p> <p><b>Curtis Smith,\
+    \ \_Neustar , Director, Platform Services \u2013 Implementation and \_Integration</b></p>\
+    \ <p>Curtis has been instrumental in the creation and development of Neustar\u2019\
+    s Data Services organization which is responsible for Data Warehousing, Business\
+    \ Intelligence and over the last 4 years, \_Neustar\u2019s Big Data initiative.\
     \ He is involved in the creation of both internal and external facing analytic\
     \ solutions including product offerings. \_He is known for his ability to design,\
     \ develop and implement processes to effectively collect and transform massive\
@@ -376,16 +383,16 @@ other:
     \ importantly their customers. \_ He is an evangelist for innovation through the\
     \ use of Open Source software and commodity hardware. \_Curtis has over 30 years\
     \ of progressive software engineering experience with 24 years in the dynamic\
-    \ Communications / Telecommunications industry. \_</p> <p><br/>\_\u201CData2Action\
-    \ Project Outcomes and Achievements\u201D</p> <p>Dr. Fen Zhao, National Science\
-    \ Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant\
-    \ Director for Computer &amp; Information Science &amp; Engineering</p> <p>As\
-    \ a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director\
-    \ for Computer &amp; Information Science &amp; Engineering (CISE) at the National\
-    \ Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships\
-    \ around CISE's Big Data, next generation internet, and cybersecurity R&amp;D\
-    \ portfolios. \_During her tenure as a AAAS Fellow, Dr. Zhao also worked at the\
-    \ White House Office of Science and Technology Policy on Big Data and national\
+    \ Communications / Telecommunications industry. \_</p> <p><br/><b>\u201CData2Action\
+    \ Project Outcomes and Achievements\u201D</b></p> <p><b>Dr. Fen Zhao, National\
+    \ Science Foundation, AAAS Policy Fellow and Staff Associate at the Office of\
+    \ the Assistant Director for Computer &amp; Information Science &amp; Engineering</b></p>\
+    \ <p>As a AAAS Policy Fellow and Staff Associate at the Office of the Assistant\
+    \ Director for Computer &amp; Information Science &amp; Engineering (CISE) at\
+    \ the National Science Foundation, Dr. Fen Zhao focuses on building public-private\
+    \ partnerships around CISE's Big Data, next generation internet, and cybersecurity\
+    \ R&amp;D portfolios. \_During her tenure as a AAAS Fellow, Dr. Zhao also worked\
+    \ at the White House Office of Science and Technology Policy on Big Data and national\
     \ security S&amp;T issues. \_Prior, Dr. Zhao was an associate with McKinsey and\
     \ Company\u2019s Risk Management Practice, serving public sector clients in the\
     \ mortgage and debt markets. \_Fen received a BS in Mathematics for Computer Science\
@@ -402,22 +409,21 @@ other:
     \ and Technology Policy (OSTP) and research funding agencies across the federal\
     \ government (including the National Science Foundation, National Institutes of\
     \ Health, Department of Energy, and many others) announced over $200M in new funding\
-    \ opportunities for Big Data R&amp;D.</p> <p><br/>\_Beginning in the second year\
-    \ of the National Big Data Initiative, the Administration encouraged multiple\
-    \ stakeholders including federal agencies, private industry, academia, state and\
-    \ local government, non-profits, and foundations, to develop and participate in\
-    \ Big Data innovation projects across the country. \_On November 12, 2013, dozens\
-    \ of public and private organizations met at a White House-sponsored \u201CData\
-    \ to Knowledge to Action\u201D event to announce an inspiring array of Big Data\
-    \ related collaborations-- answering President Obama\u2019s call for partnerships\
-    \ that can enhance national priorities, including economic growth and job creation,\
-    \ education and health, energy and sustainability, public safety and national\
-    \ security, and global development. \_In this talk, I will discuss some of the\
-    \ projects launched at the Data2Action their recent outcomes and achievements,\
-    \ focusing on interdisciplinary collaborations that focus on serving public and\
-    \ social good. \_I will also discuss new and continuing Big Data programs being\
-    \ planned by NSF and other agencies in support of Big Data in national priority\
-    \ areas in the next phase of the Initiative.</p>"
+    \ opportunities for Big Data R&amp;D.</p> <p>Beginning in the second year of the\
+    \ National Big Data Initiative, the Administration encouraged multiple stakeholders\
+    \ including federal agencies, private industry, academia, state and local government,\
+    \ non-profits, and foundations, to develop and participate in Big Data innovation\
+    \ projects across the country. \_On November 12, 2013, dozens of public and private\
+    \ organizations met at a White House-sponsored \u201CData to Knowledge to Action\u201D\
+    \ event to announce an inspiring array of Big Data related collaborations-- answering\
+    \ President Obama\u2019s call for partnerships that can enhance national priorities,\
+    \ including economic growth and job creation, education and health, energy and\
+    \ sustainability, public safety and national security, and global development.\
+    \ \_In this talk, I will discuss some of the projects launched at the Data2Action\
+    \ their recent outcomes and achievements, focusing on interdisciplinary collaborations\
+    \ that focus on serving public and social good. \_I will also discuss new and\
+    \ continuing Big Data programs being planned by NSF and other agencies in support\
+    \ of Big Data in national priority areas in the next phase of the Initiative.</p>"
   event_url: http://www.meetup.com/Data-Business-DC/events/206173592/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
@@ -425,17 +431,17 @@ other:
   headcount: 0
   id: '206173592'
   maybe_rsvp_count: 0
-  name: 'True Life: The Big Impact of Big Data'
+  name: Google, NSF, Opower and Neustar - The Big Impact of Big Data
   status: upcoming
   time: 1413928800000
-  updated: 1412343588000
+  updated: 1413327429000
   utc_offset: -14400000
   venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 130
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -464,7 +470,7 @@ other:
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 25
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -504,7 +510,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 52
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -565,7 +571,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -670,7 +676,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 99
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -850,7 +856,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -999,26 +1005,27 @@ other:
   yes_rsvp_count: 14
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
-    \ and hardware projects. Our two lead speakers are both from New York City:</p>\
-    \ <p>\u2022\_\_<a href=\"http://tedullrich.com/\">Ted\_Ullrich</a>\_of\_<a href=\"\
-    http://tomorrow-lab.com/\">Tomorrow Lab</a>\_in New York City will show us the\_\
-    <a href=\"http://waycount.com/\">WayCount</a>\_device, which can be used to crowdsource\
-    \ bike traffic count data.</p> <p>\u2022\_<a href=\"http://socialbicycles.com/\"\
-    >SocialBicycles</a>\_will talk about their model of dockless bikesharing.</p>\
-    \ <p><br/>And we have a great lineup of locals who'll be giving lightning talks\
-    \ on bikes + technology:</p> <p>\u2022\_Betsy\_Emmons will show her animated\_\
-    <a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\_on the history of bike\
-    \ lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis of <a href=\"http://dcbikeparty.com/\"\
-    >DC Bike Party</a>\_will talk about how we GPS-tracked a big bike ride and made\
-    \ an animation of it.</p> <p>\u2022\_Shane Farthing of WABA will demo their <a\
-    \ href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\_\
-    <a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their\
-    \ upcoming app for creating a crowd-sourced map of bike racks.\_</p> <p>\u2022\
-    \_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
-    \ Institute</a>\_will talk about bicycles and the future of connected vehicles.</p>\
-    \ <p><br/>\u2022\_Ola G\xF6ransson from the\_<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\"\
-    >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
-    >H\xF6vding</a>\_\"invisible\" helmet.\_</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
+    \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
+    \ start at 6:30.\_Our two lead speakers are both from New York City:</p> <p>\u2022\
+    \_\_<a href=\"http://tedullrich.com/\">Ted\_Ullrich</a>\_of\_<a href=\"http://tomorrow-lab.com/\"\
+    >Tomorrow Lab</a>\_in New York City will show us the\_<a href=\"http://waycount.com/\"\
+    >WayCount</a>\_device, which can be used to crowdsource bike traffic count data.</p>\
+    \ <p>\u2022\_<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\_will talk\
+    \ about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup\
+    \ of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\
+    \_Betsy\_Emmons will show her animated\_<a href=\"http://mapstory.org/maps/1736/\"\
+    >MapStory</a>\_on the history of bike lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis\
+    \ of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\_will talk about how\
+    \ we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\_\
+    Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\"\
+    >mobile app</a>.</p> <p><br/>\u2022\_<a href=\"http://www.bikearlington.com/\"\
+    >BikeArlington</a> will show us their upcoming app for creating a crowd-sourced\
+    \ map of bike racks.\_</p> <p>\u2022\_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\"\
+    >Virginia Tech Transportation Institute</a>\_will talk about bicycles and the\
+    \ future of connected vehicles.</p> <p><br/>\u2022\_Ola G\xF6ransson from the\_\
+    <a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of\
+    \ Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\">H\xF6vding</a>\_\
+    \"invisible\" helmet.\_</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
     >Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\
     \ new bike counter on the Metropolitan Branch Trail.</p> <p><br/>If you have a\
     \ bike-related app or data visualization that's creative and local, we want to\
@@ -1037,14 +1044,14 @@ other:
   rsvp_limit: 60
   status: upcoming
   time: 1415314800000
-  updated: 1413305858000
+  updated: 1413310445000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 55
+  waitlist_count: 1
+  yes_rsvp_count: 60
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -1272,12 +1279,13 @@ other:
     \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
     >CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
     >CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\"\
-    \ not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>We'll\
-    \ add speakers here as folks sign up:</p> <p>\u2022\_Colin Hughes of the\_<a href=\"\
-    https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\_\
-    will talk about\_planning principles for bikeshare systems.</p> <p>\u2022\_Trevor\
-    \ Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs\
-    \ data explorer</a> for CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\"\
+    \ not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors\
+    \ open at 6:00 with pizza and drinks, and the presentations start at 6:30.\_</p>\
+    \ <p>We'll add speakers here as folks sign up:</p> <p>\u2022\_Colin Hughes of\
+    \ the\_<a href=\"https://www.itdp.org/\">Institute for Transportation and Development\
+    \ Policy</a>\_will talk about\_planning principles for bikeshare systems.</p>\
+    \ <p>\u2022\_Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\"\
+    >dcjs data explorer</a> for CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\"\
     >Mathias Hansen</a> will show us how he visualizes an individual's trip histories\
     \ with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager\
     \ of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s\
@@ -1293,14 +1301,14 @@ other:
   rsvp_limit: 75
   status: upcoming
   time: 1417734000000
-  updated: 1411066547000
+  updated: 1413310494000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1360,9 +1368,10 @@ other:
   yes_rsvp_count: 1
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
-    \ <p>\u2022\_Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\_\
-    will present \"Real-World Problems, Real-World Solutions,\" talking about probe\
-    \ vehicle data analytics, and showing us the Regional Integrated Transportation\
+    \ <p>Doors open at 6:00 with pizza and drinks, and the presentations start at\
+    \ 6:30.\_</p> <p><br/>\u2022\_Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\"\
+    >CATT Lab</a>\_will present \"Real-World Problems, Real-World Solutions,\" talking\
+    \ about probe vehicle data analytics, and showing us the Regional Integrated Transportation\
     \ Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
     >RITIS</a>).</p> <p>\u2022\_Van Standifer will show us <a href=\"http://flexspot.co/\"\
     >Flexspot</a>, an app he developed in Georgetown University to create a market\
@@ -1383,7 +1392,7 @@ other:
   rsvp_limit: 60
   status: upcoming
   time: 1420758000000
-  updated: 1413296590000
+  updated: 1413310523000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility

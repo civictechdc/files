@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1412026429000, 
@@ -113,7 +113,7 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -179,7 +179,7 @@ calendar({
             "updated": 1412253495000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -300,7 +300,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 237
+            "yes_rsvp_count": 245
         }, 
         {
             "created": 1412028192000, 
@@ -327,11 +327,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1410276545000, 
-            "description": "<p>Ever wondered if people are really doing anything with big data or if it\u2019s just a lot of noise? Or are you using big data already and want to hear how other people are making it work for them? Join us to learn more about how some major organizations are making an impact using big data.\u00a0Schedule</p> <p><br/>6:00pm - 6:40pm Networking</p> <p><br/>6:40pm - 6:50pm Introductions</p> <p><br/>6:50pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming soon)</p> <p>\u00a0\u201cData Warehousing at Opower\u201d</p> <p>Arjun Dasgupta, Opower, Research Engineer</p> <p>Arjun is a research engineer at Opower working on Business Intelligence and Data Warehousing. Over the last few years, he has led Opower's DW and BI initiatives. He has played an important part in architecting Opower's hadoop based data warehouse and tackling data scale, governance and integration issues. Prior to Opower, Arjun spent time in academia researching novel problems in databases, data mining and information retrieval.\u00a0</p> <p>Opower has grown from a small startup to a publicly traded company in the last 6 years. Our datasets have also grown exponentially in complexity and scale. In order to tackle this data explosion, we started an initiative to move our enterprise data warehouse to a scalable hadoop ecosystem. The focus was to get all our data in one place, where it could be queried, mined and analyzed at scale. In this talk, I will share our experiences in building this core piece of infrastructure, the benefits that we have reaped and challenges that we have faced along the way.\u00a0</p> <p><br/>\u00a0\u201cHigh Performance Data Warehousing via Open Source\u201d</p> <p>Curtis Smith, \u00a0Neustar , Director, Platform Services \u2013 Implementation and \u00a0Integration</p> <p>Curtis has been instrumental in the creation and development of Neustar\u2019s Data Services organization which is responsible for Data Warehousing, Business Intelligence and over the last 4 years, \u00a0Neustar\u2019s Big Data initiative. He is involved in the creation of both internal and external facing analytic solutions including product offerings. \u00a0He is known for his ability to design, develop and implement processes to effectively collect and transform massive amounts of raw data into useful information and knowledge for Neustar and more importantly their customers. \u00a0 He is an evangelist for innovation through the use of Open Source software and commodity hardware. \u00a0Curtis has over 30 years of progressive software engineering experience with 24 years in the dynamic Communications / Telecommunications industry. \u00a0</p> <p><br/>\u00a0\u201cData2Action Project Outcomes and Achievements\u201d</p> <p>Dr. Fen Zhao, National Science Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering</p> <p>As a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering (CISE) at the National Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships around CISE's Big Data, next generation internet, and cybersecurity R&amp;D portfolios. \u00a0During her tenure as a AAAS Fellow, Dr. Zhao also worked at the White House Office of Science and Technology Policy on Big Data and national security S&amp;T issues. \u00a0Prior, Dr. Zhao was an associate with McKinsey and Company\u2019s Risk Management Practice, serving public sector clients in the mortgage and debt markets. \u00a0Fen received a BS in Mathematics for Computer Science and a BS in Physics from Massachusetts Institute of Technology, and a PhD in Applied Physics from Stanford University. Her doctoral research was conducted at the Kavli Institute for Particle Astrophysics and Cosmology, where she developed astrophysical simulations of magnetic fields within the early universe using supercomputers.</p> <p>Abstract: \u00a0Aiming to make the most of the fast-growing volume of digital data, in March 2012, the Obama Administration announced the \u201cBig Data Research and Development Initiative.\u201d By improving our ability to extract knowledge and insights from large and complex collections of digital data, the initiative promises to help solve some the Nation\u2019s most pressing challenges. \u00a0At the launch of the initiative, the White House Office of Science and Technology Policy (OSTP) and research funding agencies across the federal government (including the National Science Foundation, National Institutes of Health, Department of Energy, and many others) announced over $200M in new funding opportunities for Big Data R&amp;D.</p> <p><br/>\u00a0Beginning in the second year of the National Big Data Initiative, the Administration encouraged multiple stakeholders including federal agencies, private industry, academia, state and local government, non-profits, and foundations, to develop and participate in Big Data innovation projects across the country. \u00a0On November 12, 2013, dozens of public and private organizations met at a White House-sponsored \u201cData to Knowledge to Action\u201d event to announce an inspiring array of Big Data related collaborations-- answering President Obama\u2019s call for partnerships that can enhance national priorities, including economic growth and job creation, education and health, energy and sustainability, public safety and national security, and global development. \u00a0In this talk, I will discuss some of the projects launched at the Data2Action their recent outcomes and achievements, focusing on interdisciplinary collaborations that focus on serving public and social good. \u00a0I will also discuss new and continuing Big Data programs being planned by NSF and other agencies in support of Big Data in national priority areas in the next phase of the Initiative.</p>", 
+            "description": "<p>Ever wondered if people are really doing anything with big data or if it\u2019s just a lot of noise? Or are you using big data already and want to hear how other people are making it work for them? Join us to learn more about how some major organizations are making an impact using big data.\u00a0Schedule</p> <p><br/>6:00pm - 6:30pm Networking</p> <p>6:30pm - 6:40pm Introductions</p> <p>6:40pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming soon)</p> <p><b>Google - Felipa Hoffa</b></p> <p>In 2011 Felipe Hoffa move from Chile to San Francisco to join Google as a Software Engineer. Since 2013 he's been a Developer Advocate on big data - to inspire developers around the world to leverage the Google Cloud Platform tools to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the world.<br/><i>Follow Felipe at\u00a0<a href=\"https://twitter.com/felipehoffa\">@felipehoffa</a>.</i></p> <p>\n\n\n\n<b>\u201cData Warehousing at Opower\u201d\u00a0</b></p> <p><b>Arjun Dasgupta, Opower, Research Engineer</b></p> <p>Arjun is a research engineer at Opower working on Business Intelligence and Data Warehousing. Over the last few years, he has led Opower's DW and BI initiatives. He has played an important part in architecting Opower's hadoop based data warehouse and tackling data scale, governance and integration issues. Prior to Opower, Arjun spent time in academia researching novel problems in databases, data mining and information retrieval.\u00a0</p> <p>Opower has grown from a small startup to a publicly traded company in the last 6 years. Our datasets have also grown exponentially in complexity and scale. In order to tackle this data explosion, we started an initiative to move our enterprise data warehouse to a scalable hadoop ecosystem. The focus was to get all our data in one place, where it could be queried, mined and analyzed at scale. In this talk, I will share our experiences in building this core piece of infrastructure, the benefits that we have reaped and challenges that we have faced along the way.\u00a0</p> <p><br/><b>\u201cHigh Performance Data Warehousing via Open Source\u201d</b></p> <p><b>Curtis Smith, \u00a0Neustar , Director, Platform Services \u2013 Implementation and \u00a0Integration</b></p> <p>Curtis has been instrumental in the creation and development of Neustar\u2019s Data Services organization which is responsible for Data Warehousing, Business Intelligence and over the last 4 years, \u00a0Neustar\u2019s Big Data initiative. He is involved in the creation of both internal and external facing analytic solutions including product offerings. \u00a0He is known for his ability to design, develop and implement processes to effectively collect and transform massive amounts of raw data into useful information and knowledge for Neustar and more importantly their customers. \u00a0 He is an evangelist for innovation through the use of Open Source software and commodity hardware. \u00a0Curtis has over 30 years of progressive software engineering experience with 24 years in the dynamic Communications / Telecommunications industry. \u00a0</p> <p><br/><b>\u201cData2Action Project Outcomes and Achievements\u201d</b></p> <p><b>Dr. Fen Zhao, National Science Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering</b></p> <p>As a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering (CISE) at the National Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships around CISE's Big Data, next generation internet, and cybersecurity R&amp;D portfolios. \u00a0During her tenure as a AAAS Fellow, Dr. Zhao also worked at the White House Office of Science and Technology Policy on Big Data and national security S&amp;T issues. \u00a0Prior, Dr. Zhao was an associate with McKinsey and Company\u2019s Risk Management Practice, serving public sector clients in the mortgage and debt markets. \u00a0Fen received a BS in Mathematics for Computer Science and a BS in Physics from Massachusetts Institute of Technology, and a PhD in Applied Physics from Stanford University. Her doctoral research was conducted at the Kavli Institute for Particle Astrophysics and Cosmology, where she developed astrophysical simulations of magnetic fields within the early universe using supercomputers.</p> <p>Abstract: \u00a0Aiming to make the most of the fast-growing volume of digital data, in March 2012, the Obama Administration announced the \u201cBig Data Research and Development Initiative.\u201d By improving our ability to extract knowledge and insights from large and complex collections of digital data, the initiative promises to help solve some the Nation\u2019s most pressing challenges. \u00a0At the launch of the initiative, the White House Office of Science and Technology Policy (OSTP) and research funding agencies across the federal government (including the National Science Foundation, National Institutes of Health, Department of Energy, and many others) announced over $200M in new funding opportunities for Big Data R&amp;D.</p> <p>Beginning in the second year of the National Big Data Initiative, the Administration encouraged multiple stakeholders including federal agencies, private industry, academia, state and local government, non-profits, and foundations, to develop and participate in Big Data innovation projects across the country. \u00a0On November 12, 2013, dozens of public and private organizations met at a White House-sponsored \u201cData to Knowledge to Action\u201d event to announce an inspiring array of Big Data related collaborations-- answering President Obama\u2019s call for partnerships that can enhance national priorities, including economic growth and job creation, education and health, energy and sustainability, public safety and national security, and global development. \u00a0In this talk, I will discuss some of the projects launched at the Data2Action their recent outcomes and achievements, focusing on interdisciplinary collaborations that focus on serving public and social good. \u00a0I will also discuss new and continuing Big Data programs being planned by NSF and other agencies in support of Big Data in national priority areas in the next phase of the Initiative.</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/206173592/", 
             "group": {
                 "created": 1339111847000, 
@@ -346,10 +346,10 @@ calendar({
             "headcount": 0, 
             "id": "206173592", 
             "maybe_rsvp_count": 0, 
-            "name": "True Life: The Big Impact of Big Data", 
+            "name": "Google, NSF, Opower and Neustar - The Big Impact of Big Data", 
             "status": "upcoming", 
             "time": 1413928800000, 
-            "updated": 1412343588000, 
+            "updated": 1413327429000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -365,7 +365,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1412026524000, 
@@ -392,7 +392,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1412599027000, 
@@ -471,7 +471,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1410577050000, 
@@ -548,7 +548,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1412113433000, 
@@ -651,7 +651,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1410303623000, 
@@ -807,7 +807,7 @@ calendar({
         }, 
         {
             "created": 1407622606000, 
-            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.</p> <p><br/>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.</p> <p><br/>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
             "group": {
                 "created": 1384372275000, 
@@ -826,7 +826,7 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1415314800000, 
-            "updated": 1413305858000, 
+            "updated": 1413310445000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -841,8 +841,8 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1412599759000, 
@@ -1093,7 +1093,7 @@ calendar({
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>", 
+            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -1112,7 +1112,7 @@ calendar({
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1411066547000, 
+            "updated": 1413310494000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -1127,7 +1127,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1411918757000, 
@@ -1209,7 +1209,7 @@ calendar({
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -1230,7 +1230,7 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1413296590000, 
+            "updated": 1413310523000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
