@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }
     ], 
     "other": [
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1412026429000, 
@@ -97,10 +97,10 @@ calendar({
             "id": "210332182", 
             "maybe_rsvp_count": 0, 
             "name": "The Language of Languages", 
-            "rsvp_limit": 60, 
+            "rsvp_limit": 85, 
             "status": "upcoming", 
             "time": 1413412200000, 
-            "updated": 1413253601000, 
+            "updated": 1413335957000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "3299 K St Nw Ste 500", 
@@ -113,8 +113,8 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
-            "yes_rsvp_count": 60
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1412040483000, 
@@ -179,7 +179,7 @@ calendar({
             "updated": 1412253495000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -300,7 +300,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 245
+            "yes_rsvp_count": 275
         }, 
         {
             "created": 1412028192000, 
@@ -327,7 +327,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1410276545000, 
@@ -365,7 +365,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 146
         }, 
         {
             "created": 1412026524000, 
@@ -392,7 +392,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -416,7 +416,7 @@ calendar({
             "name": "Maptime: Hand-Drawn Maps 101", 
             "status": "upcoming", 
             "time": 1413930600000, 
-            "updated": 1411497008000, 
+            "updated": 1413344212000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1203 19th Street NW 3rd Floor", 
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1412599027000, 
@@ -510,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1397773268000, 
@@ -548,7 +548,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1412113433000, 
@@ -841,7 +841,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -1847,6 +1847,33 @@ calendar({
                 "state": "DC", 
                 "zip": "20009"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1379643162000, 
+            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytnbtb/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "qkxmtgytnbtb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1444948200000, 
+            "updated": 1383661832000, 
+            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1

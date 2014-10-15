@@ -99,7 +99,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 217,
     link: 'https://github.com/JoshData', name: JoshData}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 107,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 114,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 30,
     link: 'https://github.com/leahbannon', name: leahbannon}
@@ -152,9 +152,9 @@
   open_issues: 36
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-08-30T01:43:17Z'
-  size: 73421
-  updated_at: '2014-08-30T01:43:17Z'
+  pushed_at: '2014-10-15T05:18:40Z'
+  size: 73581
+  updated_at: '2014-10-15T03:07:08Z'
   watchers: 26
 - activity: [0, 0, 0, 0, 0, 1, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
     0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -591,7 +591,7 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 98,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 106,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=2', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
@@ -613,17 +613,17 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 11956]
-  - [CSS, 3370]
+  - [Python, 11987]
+  - [CSS, 3540]
   - [JavaScript, 658]
   main_language: Python
   name: Campaign Finance Watch
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-12T02:15:02Z'
+  pushed_at: '2014-10-15T01:47:34Z'
   size: 28974
-  updated_at: '2014-10-08T23:59:41Z'
+  updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
