@@ -75,9 +75,9 @@
   size: 20739
   updated_at: '2014-10-09T00:50:15Z'
   watchers: 10
-- activity: [11, 5, 8, 0, 0, 1, 15, 11, 9, 0, 0, 0, 13, 2, 7, 20, 5, 2, 13, 1, 12,
-    1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 4, 2, 6, 3, 3, 4, 4, 5, 1, 1, 0,
-    0, 0, 0, 0, 0]
+- activity: [2, 8, 5, 0, 0, 2, 17, 8, 9, 0, 0, 9, 4, 2, 15, 15, 2, 2, 13, 2, 11, 1,
+    1, 14, 0, 2, 13, 8, 1, 7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0,
+    0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -99,7 +99,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 217,
     link: 'https://github.com/JoshData', name: JoshData}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 114,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 107,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 30,
     link: 'https://github.com/leahbannon', name: leahbannon}
@@ -152,12 +152,12 @@
   open_issues: 36
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-15T05:18:40Z'
+  pushed_at: '2014-10-16T02:09:58Z'
   size: 73581
   updated_at: '2014-10-15T03:07:08Z'
   watchers: 26
-- activity: [0, 0, 0, 0, 0, 1, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 5, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -390,7 +390,7 @@
     6, 6, 4]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 359,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 360,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -412,7 +412,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-10-14T05:14:04Z'
+  pushed_at: '2014-10-16T08:14:06Z'
   size: 2495
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
@@ -624,7 +624,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-10-15T15:33:59Z'
-  size: 28974
+  size: 26393
   updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

@@ -41,121 +41,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1412354806000, 
-            "description": "<p>It's October now, popularly known as the month of falling leaves, ghouls, and kickass API presentations. There's plenty of good stuff this month, so go ahead, mark your calendars, and RSVP so we know how much pizza to get. :)</p> <p>6:00pm - 6:30pm Food, drinks and networking<br/>6:40pm - 6:50pm Introductions and Announcements<br/>6:50pm - 8:00pm Presentations</p> <p>* Raj Bhaskar - Hurdlr<br/>* Alan Delevie and Eric Mill - 18F<br/>* Greg Bloom - Open 211<br/>* Anthea Watson - Google</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/211207622/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "211207622", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - October Edition", 
-            "status": "upcoming", 
-            "time": 1413410400000, 
-            "updated": 1412630369000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1900 M Street, NW - 3rd floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 12283102, 
-                "lat": 38.905430000000003, 
-                "lon": -77.043746999999996, 
-                "name": "Chief", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 93
-        }, 
-        {
-            "created": 1412026429000, 
-            "description": "<p>Interested in learning to code, but don't know where to start? \u00a0Have an idea for a web application or an app, but aren't sure what the best platform is to build it in?\u00a0Do you want to learn what the differences are between Python, Ruby, \u00a0HTML,\u00a0Java, Javascript, and the dozens of other terms you hear when people talk about technology?</p> <p>This meetup will introduce you to a lot of the common terms that developers often forget can be so confusing when you first start out. We will be starting from the ground up to explain what languages are useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners to help determine what coding \"path\" you want to start out with. It could also be very useful for a developer that wants to expand\u00a0her\u00a0high-level understanding of new languages!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210332182/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "210332182", 
-            "maybe_rsvp_count": 0, 
-            "name": "The Language of Languages", 
-            "rsvp_limit": 85, 
-            "status": "upcoming", 
-            "time": 1413412200000, 
-            "updated": 1413335957000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "3299 K St Nw Ste 500", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 22966332, 
-                "lat": 38.902946, 
-                "lon": -77.064437999999996, 
-                "name": "Akqa Incorporated", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 62
-        }, 
-        {
-            "created": 1412040483000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our <a href=\"http://www.meetup.com/DCLegalHackers/events/193489092/\">CopyNight in September</a> was awesome, and there was a lot of interest in doing it regularly, so:</p> <p>Join us on Wednesday, October 15, 2014 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a> from last time), over pizza and beer.</p> <p>Questions? \u00a0Suggestions? \u00a0Take this <a href=\"http://tiny.cc/CopyNightDCSept2014poll\">poll</a>, and/or contact Ali at alisternburg@gmail.com or <a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/210382132/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "(We'll be on the second floor of WeWork!)", 
-            "id": "210382132", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack CopyNight Returns: October 15 Edition!", 
-            "status": "upcoming", 
-            "time": 1413414000000, 
-            "updated": 1412109146000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 36
-        }, 
-        {
             "created": 1379643162000, 
             "description": "<p>This October, join us for an overview on regular expressions, and some fun on a coding challenge.</p> <p>We'll start out talking regexes. All of us are called upon at some point to manipulate a string or two. Regular expressions are a powerful tool that requires some serious logical thinking. We'll talk about why websites, in the year 2014, still require us to type in our phone numbers with their scheme of dashes and parentheses. (Answer: they're bad at regular expressions, but we can do better.) Tips from Python, Bash, and Java should help illustrate practice, and we'll talk theory as well.</p> <p>Then, Elaine leads us through an interview question. We'll practice in groups how to interpret a question, how to think about it, and how to format a response.</p> <p>Pizza arrives around 6:30 and we'll start to introduce ourselves around 7. See you there!</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/", 
@@ -179,7 +64,7 @@ calendar({
             "updated": 1412253495000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -300,7 +185,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 294
+            "yes_rsvp_count": 296
         }, 
         {
             "created": 1412028192000, 
@@ -347,9 +232,10 @@ calendar({
             "id": "206173592", 
             "maybe_rsvp_count": 0, 
             "name": "Google, NSF, Opower and Neustar - The Big Impact of Big Data", 
+            "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1413928800000, 
-            "updated": 1413327429000, 
+            "updated": 1413423257000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -365,7 +251,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 160
+            "yes_rsvp_count": 170
         }, 
         {
             "created": 1412026524000, 
@@ -392,7 +278,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 29, 
+            "waitlist_count": 33, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -471,7 +357,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1410577050000, 
@@ -510,7 +396,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1397773268000, 
@@ -548,7 +434,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1412113433000, 
@@ -729,7 +615,7 @@ calendar({
         }, 
         {
             "created": 1404748918000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Tuesday, August 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, November 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499542/", 
             "group": {
@@ -748,7 +634,7 @@ calendar({
             "name": "#LegalHack Standards Organizations", 
             "status": "upcoming", 
             "time": 1415232000000, 
-            "updated": 1404749244000, 
+            "updated": 1413427790000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 New Jersey Avenue NW", 
@@ -763,7 +649,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 
@@ -841,7 +727,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -1045,11 +931,22 @@ calendar({
             "name": "Legal Hackie Awards and Holiday Party (tentatively scheduled)", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1404749084000, 
+            "updated": 1413427710000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "600 F St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 22659682, 
+                "lat": 38.897067999999997, 
+                "lon": -77.020126000000005, 
+                "name": "The Loft, Floor 5", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
