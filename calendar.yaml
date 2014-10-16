@@ -73,7 +73,7 @@ other:
   updated: 1412253495000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 4
   yes_rsvp_count: 50
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
@@ -109,7 +109,7 @@ other:
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 15
   yes_rsvp_count: 32
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
@@ -197,7 +197,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 296
+  yes_rsvp_count: 298
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -214,15 +214,18 @@ other:
     \ to be able to work and play together, while providing each other with ongoing\
     \ support and feedback.\_</p> <p>There's always at least one mentor present to\
     \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\_</b></p>\
-    \ <p>If you are passionate about learning JavaScript with fellow awesome women\
-    \ and want to help us, come on out! \_Shoot me a message or mail me and let me\
-    \ know that you are interested in helping us with the JS study group!\_</p> <p><b>RESOURCES</b></p>\
-    \ <p><i>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"\
-    http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    \ class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
-    \ <p><b>JavaScript is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
     ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
     linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
     \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
@@ -245,11 +248,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1413844200000
-  updated: 1412028192000
+  updated: 1413477112000
   utc_offset: -14400000
+  venue: {address_1: '3030 Clarendon Blvd, 8th Floor', city: Arlington, country: us,
+    id: 8368782, lat: 38.886726000000003, lon: -77.094329999999999, name: Capital
+      One Labs, repinned: false, state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 33
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -349,7 +355,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 170
+  yes_rsvp_count: 178
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -378,7 +384,7 @@ other:
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 33
+  waitlist_count: 36
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -418,7 +424,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 54
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -479,7 +485,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 51
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -584,7 +590,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 104
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -858,7 +864,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -910,7 +916,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -959,7 +965,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 10
   yes_rsvp_count: 60
 - created: 1412599759000
   duration: 9000000
@@ -1220,7 +1226,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

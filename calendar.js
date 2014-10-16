@@ -64,7 +64,7 @@ calendar({
             "updated": 1412253495000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -105,7 +105,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 32
         }, 
         {
@@ -185,11 +185,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 296
+            "yes_rsvp_count": 298
         }, 
         {
             "created": 1412028192000, 
-            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210383992/", 
             "group": {
                 "created": 1395616294000, 
@@ -208,11 +208,23 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1413844200000, 
-            "updated": 1412028192000, 
+            "updated": 1413477112000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3030 Clarendon Blvd, 8th Floor", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 8368782, 
+                "lat": 38.886726000000003, 
+                "lon": -77.094329999999999, 
+                "name": "Capital One Labs", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22201"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1410276545000, 
@@ -251,7 +263,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 170
+            "yes_rsvp_count": 178
         }, 
         {
             "created": 1412026524000, 
@@ -278,7 +290,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 36, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -318,7 +330,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1412599027000, 
@@ -357,7 +369,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1410577050000, 
@@ -434,7 +446,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1412113433000, 
@@ -611,7 +623,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1404748918000, 
@@ -689,7 +701,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1407622606000, 
@@ -727,7 +739,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -1024,7 +1036,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1411918757000, 
