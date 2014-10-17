@@ -45,36 +45,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 other:
-- created: 1379643162000
-  description: '<p>This October, join us for an overview on regular expressions, and
-    some fun on a coding challenge.</p> <p>We''ll start out talking regexes. All of
-    us are called upon at some point to manipulate a string or two. Regular expressions
-    are a powerful tool that requires some serious logical thinking. We''ll talk about
-    why websites, in the year 2014, still require us to type in our phone numbers
-    with their scheme of dashes and parentheses. (Answer: they''re bad at regular
-    expressions, but we can do better.) Tips from Python, Bash, and Java should help
-    illustrate practice, and we''ll talk theory as well.</p> <p>Then, Elaine leads
-    us through an interview question. We''ll practice in groups how to interpret a
-    question, how to think about it, and how to format a response.</p> <p>Pizza arrives
-    around 6:30 and we''ll start to introduce ourselves around 7. See you there!</p>'
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
-    who: Ladies Who Code}
-  headcount: 0
-  id: qkxmtgysnbvb
-  maybe_rsvp_count: 0
-  name: Regular Expressions and A Coding Interview Challenge
-  rsvp_limit: 50
-  status: upcoming
-  time: 1413498600000
-  updated: 1412253495000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 41
 - created: 1412219748000
   description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
     >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
@@ -197,7 +169,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 303
+  yes_rsvp_count: 304
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -355,7 +327,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 182
+  yes_rsvp_count: 184
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -384,7 +356,7 @@ other:
   updated: 1412026524000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 36
+  waitlist_count: 37
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -485,7 +457,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -590,7 +562,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 106
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -965,7 +937,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 12
   yes_rsvp_count: 60
 - created: 1412599759000
   duration: 9000000
@@ -986,7 +958,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -1043,7 +1015,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -1094,7 +1066,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 114
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You

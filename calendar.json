@@ -36,37 +36,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }
     ], 
     "other": [
-        {
-            "created": 1379643162000, 
-            "description": "<p>This October, join us for an overview on regular expressions, and some fun on a coding challenge.</p> <p>We'll start out talking regexes. All of us are called upon at some point to manipulate a string or two. Regular expressions are a powerful tool that requires some serious logical thinking. We'll talk about why websites, in the year 2014, still require us to type in our phone numbers with their scheme of dashes and parentheses. (Answer: they're bad at regular expressions, but we can do better.) Tips from Python, Bash, and Java should help illustrate practice, and we'll talk theory as well.</p> <p>Then, Elaine leads us through an interview question. We'll practice in groups how to interpret a question, how to think about it, and how to format a response.</p> <p>Pizza arrives around 6:30 and we'll start to introduce ourselves around 7. See you there!</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/206162712/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgysnbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Regular Expressions and A Coding Interview Challenge", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1413498600000, 
-            "updated": 1412253495000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 41
-        }, 
         {
             "created": 1412219748000, 
             "description": "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\">DC Fem Tech's Tour De Code</a>, we are going to host two classes in October. This is the second of <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\">two</a>.\u00a0</p> <p>Join us for an Intro to Web Scraping class. \u00a0</p> <p>This class will cover the basics of web scraping using Python. It will include lessons on retrieve web pages and parse them, how to automate, and how web pages are build. This session will be lead by <a href=\"https://twitter.com/JackieKazil\">Jackie Kazil</a>!\u00a0YAY!</p> <p><b>Audience<br/></b> Python developers of all levels that meet the requirements listed below.</p> <p><b>Requirements<br/></b> - Must have taken the previous <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\">Intro to Python class</a> OR know the equivalent<br/>- A laptop that you can install stuff on (aka admin rights)<br/>- Power supply<br/>- Bring a dataset or website that you would like to possibly scrape, so we can walk through some examples that are relevant to the attendees</p> <p><b>Food &amp; beverage:</b><br/>Beverages are allow, but not food in the space. We will take a 20 minute break mid-class</p>", 
@@ -185,7 +158,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 303
+            "yes_rsvp_count": 304
         }, 
         {
             "created": 1412028192000, 
@@ -263,7 +236,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 182
+            "yes_rsvp_count": 184
         }, 
         {
             "created": 1412026524000, 
@@ -290,7 +263,7 @@
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 37, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -369,7 +342,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1410577050000, 
@@ -446,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1412113433000, 
@@ -739,7 +712,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -778,7 +751,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1412436255000, 
@@ -818,7 +791,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1408981913000, 
@@ -855,7 +828,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1379643162000, 
