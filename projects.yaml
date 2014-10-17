@@ -1,6 +1,6 @@
-- activity: [11, 13, 3, 4, 1, 0, 8, 7, 0, 0, 20, 3, 9, 2, 3, 4, 2, 0, 0, 11, 0, 0,
-    2, 8, 0, 1, 4, 2, 31, 1, 16, 4, 18, 30, 89, 59, 30, 3, 12, 0, 1, 0, 1, 9, 5, 4,
-    2, 0, 6, 3, 0, 4]
+- activity: [1, 15, 2, 4, 0, 4, 4, 7, 0, 0, 20, 3, 11, 2, 1, 5, 1, 0, 0, 11, 0, 0,
+    2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 48, 104, 47, 11, 6, 7, 1, 0, 0, 2, 8, 9,
+    2, 0, 0, 9, 0, 3, 1]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -185,8 +185,8 @@
   size: 1988
   updated_at: '2014-09-19T20:46:19Z'
   watchers: 5
-- activity: [8, 0, 5, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [3, 3, 2, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -306,7 +306,7 @@
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 6, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+    0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -339,7 +339,7 @@
   updated_at: '2014-09-26T20:31:51Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 5, 1, 1, 2,
+    0, 0, 0, 0, 0, 0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 8, 4, 1, 2, 0, 2,
     5, 0, 2]
   civic_json:
     bornAt: Code for DC
@@ -385,8 +385,8 @@
   size: 2318
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
-- activity: [6, 7, 6, 7, 6, 7, 5, 7, 7, 4, 0, 2, 4, 6, 7, 9, 6, 3, 6, 6, 4, 5, 6,
-    4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 6, 4, 5, 7, 6, 6, 6, 3, 7, 2, 6, 5, 7,
+- activity: [6, 7, 6, 7, 6, 7, 5, 7, 7, 3, 0, 3, 4, 6, 7, 9, 5, 4, 6, 6, 4, 5, 6,
+    4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 5, 5, 5, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7,
     6, 6, 4]
   civic_json: null
   contributors:
@@ -448,8 +448,8 @@
   size: 2932
   updated_at: '2014-08-01T20:47:07Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 8, 9, 5, 12, 0,
+- activity: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 10, 7, 8, 9, 0,
     10, 4, 1]
   civic_json: null
   contributors:
@@ -480,7 +480,7 @@
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
 - activity: [0, 0, 0, 11, 0, 5, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -506,8 +506,8 @@
   size: 9616
   updated_at: '2014-04-18T15:18:06Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 6, 0, 2, 0, 3, 2, 0,
-    1, 0, 0, 1, 2, 3, 5, 4, 8, 2, 4, 0, 0, 2, 0, 0, 2, 2, 0, 0, 3, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3, 0, 2, 0,
+    1, 0, 1, 0, 3, 5, 5, 2, 8, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -542,7 +542,7 @@
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -571,8 +571,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 16, 2, 1, 2, 0, 0, 41, 2, 7, 0, 18,
-    16, 12, 10, 4]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 29, 9, 0, 2, 17,
+    21, 8, 9, 15]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -591,14 +591,14 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 107,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 108,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=2', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=2', contributions: 2,
+    link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14930?v=2', contributions: 1,
     link: 'https://github.com/adunkman', name: adunkman}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=2', contributions: 1,
-    link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/578345?v=2', contributions: 1,
     link: 'https://github.com/kevko', name: kevko}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2553268?v=2', contributions: 1,
@@ -615,21 +615,21 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 16556]
+  - [Python, 16685]
   - [CSS, 3540]
   - [JavaScript, 658]
   main_language: Python
   name: Campaign Finance Watch
-  open_issues: 2
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-15T15:33:59Z'
+  pushed_at: '2014-10-16T18:19:55Z'
   size: 26393
   updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    2, 0, 7]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+    0, 5, 2]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=2', contributions: 5,
@@ -659,8 +659,8 @@
   updated_at: '2014-10-06T03:00:17Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
-    11, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8,
+    8, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7108211?v=2', contributions: 14,
