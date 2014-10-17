@@ -229,9 +229,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [3, 0, 0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 5, 1, 0, 4, 0,
-    0, 0, 0, 8, 8, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 4, 5, 7, 0, 2, 15, 9,
-    2, 0, 7]
+- activity: [3, 0, 0, 0, 0, 0, 6, 4, 3, 1, 0, 1, 0, 0, 1, 0, 0, 0, 5, 1, 0, 4, 0,
+    0, 0, 1, 8, 7, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 8, 3, 0, 4, 13, 9,
+    2, 1, 6]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -331,7 +331,7 @@
   languages: []
   main_language: null
   name: Code of Conduct
-  open_issues: 3
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-09-11T11:56:39Z'

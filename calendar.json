@@ -78,8 +78,48 @@
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 32
+        }, 
+        {
+            "created": 1413550754000, 
+            "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/DCfemtech/f83\"><a href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
+            "duration": 1047600000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/214002852/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "214002852", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee", 
+            "status": "upcoming", 
+            "time": 1413741600000, 
+            "updated": 1413550754000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2101 L. St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 1087494, 
+                "lat": 38.903855999999998, 
+                "lon": -77.047087000000005, 
+                "name": "Bourbon Coffee", 
+                "phone": "(202) 525-1886", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20037"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1406684550000, 
@@ -158,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 304
+            "yes_rsvp_count": 310
         }, 
         {
             "created": 1412028192000, 
@@ -178,10 +218,10 @@
             "id": "qhzfskysnbbc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
+            "rsvp_limit": 35, 
             "status": "upcoming", 
             "time": 1413844200000, 
-            "updated": 1413477112000, 
+            "updated": 1413543047000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "3030 Clarendon Blvd, 8th Floor", 
@@ -217,10 +257,10 @@
             "id": "206173592", 
             "maybe_rsvp_count": 0, 
             "name": "Google, NSF, Opower and Neustar - The Big Impact of Big Data", 
-            "rsvp_limit": 200, 
+            "rsvp_limit": 190, 
             "status": "upcoming", 
             "time": 1413928800000, 
-            "updated": 1413423257000, 
+            "updated": 1413564914000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -236,7 +276,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 184
+            "yes_rsvp_count": 189
         }, 
         {
             "created": 1412026524000, 
@@ -303,7 +343,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1412599027000, 
@@ -342,7 +382,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1410577050000, 
@@ -419,7 +459,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1412113433000, 
@@ -522,7 +562,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1410303623000, 
@@ -674,7 +714,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1407622606000, 
@@ -712,7 +752,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 60
         }, 
         {
