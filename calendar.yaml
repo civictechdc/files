@@ -72,17 +72,17 @@ other:
   id: '210889382'
   maybe_rsvp_count: 0
   name: Intro to Web Scraping
-  rsvp_limit: 32
+  rsvp_limit: 43
   status: upcoming
   time: 1413639000000
-  updated: 1412219812000
+  updated: 1413595576000
   utc_offset: -14400000
   venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 11
-  yes_rsvp_count: 32
+  waitlist_count: 0
+  yes_rsvp_count: 41
 - created: 1413550754000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/dcfemtech/d66\"><a\
     \ href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p>\
@@ -122,7 +122,7 @@ other:
     state: DC, zip: '20037'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -436,7 +436,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -497,7 +497,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -602,7 +602,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 117
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -782,7 +782,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
