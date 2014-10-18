@@ -78,12 +78,12 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 32
         }, 
         {
             "created": 1413550754000, 
-            "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/DCfemtech/f83\"><a href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
+            "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/dcfemtech/d66\"><a href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
             "duration": 1047600000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/214002852/", 
             "group": {
@@ -102,7 +102,7 @@ calendar({
             "name": "Code & Coffee", 
             "status": "upcoming", 
             "time": 1413741600000, 
-            "updated": 1413550754000, 
+            "updated": 1413575909000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2101 L. St. NW", 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1406684550000, 
@@ -198,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 310
+            "yes_rsvp_count": 313
         }, 
         {
             "created": 1412028192000, 
@@ -236,7 +236,7 @@ calendar({
                 "zip": "22201"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 35
         }, 
         {
@@ -275,8 +275,8 @@ calendar({
                 "zip": "20004"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 189
+            "waitlist_count": 2, 
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1412026524000, 
@@ -303,7 +303,7 @@ calendar({
             "updated": 1412026524000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 36, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -382,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1410577050000, 
@@ -421,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1397773268000, 
@@ -459,7 +459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1412113433000, 
@@ -674,7 +674,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
@@ -752,7 +752,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -1049,7 +1049,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1411918757000, 
