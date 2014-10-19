@@ -47,42 +47,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 40
 other:
-- created: 1412219748000
-  description: "<p>In celebration of <a href=\"http://dcfemtech.github.io/tourdecode.html\"\
-    >DC Fem Tech's Tour De Code</a>, we are going to host two classes in October.\
-    \ This is the second of <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\"\
-    >two</a>.\_</p> <p>Join us for an Intro to Web Scraping class. \_</p> <p>This\
-    \ class will cover the basics of web scraping using Python. It will include lessons\
-    \ on retrieve web pages and parse them, how to automate, and how web pages are\
-    \ build. This session will be lead by <a href=\"https://twitter.com/JackieKazil\"\
-    >Jackie Kazil</a>!\_YAY!</p> <p><b>Audience<br/></b> Python developers of all\
-    \ levels that meet the requirements listed below.</p> <p><b>Requirements<br/></b>\
-    \ - Must have taken the previous <a href=\"http://www.meetup.com/dc-pyladies/events/210888442/\"\
-    >Intro to Python class</a> OR know the equivalent<br/>- A laptop that you can\
-    \ install stuff on (aka admin rights)<br/>- Power supply<br/>- Bring a dataset\
-    \ or website that you would like to possibly scrape, so we can walk through some\
-    \ examples that are relevant to the attendees</p> <p><b>Food &amp; beverage:</b><br/>Beverages\
-    \ are allow, but not food in the space. We will take a 20 minute break mid-class</p>"
-  duration: 14400000
-  event_url: http://www.meetup.com/dc-pyladies/events/210889382/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  how_to_find_us: Classroom in the Dream lab (the space to the left when you enter)
-  id: '210889382'
-  maybe_rsvp_count: 0
-  name: Intro to Web Scraping
-  rsvp_limit: 43
-  status: upcoming
-  time: 1413639000000
-  updated: 1413595576000
-  utc_offset: -14400000
-  venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
-    lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
-      King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 37
 - created: 1413550754000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/dcfemtech/d66\"><a\
     \ href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p>\
@@ -122,7 +86,7 @@ other:
     state: DC, zip: '20037'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1406684550000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
     \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
@@ -209,7 +173,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 318
+  yes_rsvp_count: 319
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -366,7 +330,7 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 6
   yes_rsvp_count: 190
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
@@ -497,7 +461,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 56
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -552,7 +516,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 109
 - created: 1397773268000
   description: "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday,\
     \ Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St\
@@ -602,7 +566,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 120
+  yes_rsvp_count: 121
 - created: 1412113433000
   description: "<p>We are in DC. \_The capital is here along with a whole slew of\
     \ federal government agencies and state agencies for the tri-state area. \_What\
@@ -782,7 +746,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
