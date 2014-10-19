@@ -75,8 +75,8 @@
   size: 20739
   updated_at: '2014-10-09T00:50:15Z'
   watchers: 10
-- activity: [2, 12, 1, 0, 0, 2, 19, 14, 1, 0, 0, 11, 4, 5, 12, 14, 2, 4, 11, 2, 11,
-    0, 9, 6, 0, 13, 2, 9, 0, 8, 0, 4, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 0, 1, 0,
+- activity: [2, 12, 1, 0, 1, 1, 19, 15, 0, 0, 0, 13, 2, 5, 12, 14, 2, 8, 7, 9, 4,
+    0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0,
     0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -250,7 +250,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=2', contributions: 43,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 31,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 34,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 7,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -298,10 +298,10 @@
   - [JavaScript, 12522]
   main_language: CSS
   name: Code for DC Website
-  open_issues: 12
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-14T02:17:44Z'
+  pushed_at: '2014-10-19T16:36:21Z'
   size: 8367
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
@@ -360,7 +360,7 @@
     thumbnailUrl: ''
     type: Guide
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 35,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 36,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 4,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -381,7 +381,7 @@
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-14T02:52:24Z'
+  pushed_at: '2014-10-19T16:07:11Z'
   size: 2318
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
