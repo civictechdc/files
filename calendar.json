@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 48
         }
     ], 
     "other": [
@@ -156,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 340
+            "yes_rsvp_count": 335
         }, 
         {
             "created": 1412028192000, 
@@ -194,7 +194,7 @@
                 "zip": "22201"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 35
         }, 
         {
@@ -218,7 +218,7 @@
             "rsvp_limit": 190, 
             "status": "upcoming", 
             "time": 1413928800000, 
-            "updated": 1413750066000, 
+            "updated": 1413811824000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -233,8 +233,8 @@
                 "zip": "20004"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 190
+            "waitlist_count": 8, 
+            "yes_rsvp_count": 187
         }, 
         {
             "created": 1412026524000, 
@@ -272,7 +272,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 38, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -312,7 +312,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1412599027000, 
@@ -351,7 +351,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1410577050000, 
@@ -390,7 +390,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1397773268000, 
@@ -428,55 +428,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
-        }, 
-        {
-            "created": 1412113433000, 
-            "description": "<p>We are in DC. \u00a0The capital is here along with a whole slew of federal government agencies and state agencies for the tri-state area. \u00a0What does that equate to? \u00a0Lots of government jobs.\u00a0</p> <p><br/>Do you know what collaboration platform is most prevalent in the DMV area? \u00a0Microsoft SharePoint. \u00a0Do a search for SharePoint jobs, and you will find an abundance of jobs in our area. \u00a0But guess what? \u00a0There are not enough people qualified to take these jobs. \u00a0</p> <p>In addition to direct government jobs there are loads of government contractors, small businesses, and nonprofits in the area. \u00a0What technology is taking off with those right now? \u00a0Cloud. \u00a0Microsoft\u2019s Office 365 is a cloud platform that is taking off and being adopted by more and more of these organizations every day. \u00a0This\u00a0includes SharePoint and some other powerful tools, like Lync which is used for instant messaging, presence, web conferencing and more!</p> <p>Why did I just go through saying all of that? \u00a0I prefaced with all of that to say this:\u00a0<b>Learning about these technologies are crucial to the market in which we live</b>. \u00a0In this class, you will get a taste of how to use these tools, Office 365, Lync, and SharePoint, as an end user\u2026 And, don\u2019t worry, this is only the beginning!</p> <p>\n\n\n<b>About the teacher:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/b/d/0/600_416055312.jpeg\" /></p> <p>Nikkia\u00a0Carter is the owner and CEO of CMS, LLC, a small woman and minority owned company in King George, VA.\u00a0Nikkia's company is a Microsoft Partner, Cloud Accelerate Partner, SMB Champion, and Value Added Reseller business technology consulting, development, and training. Her company is also a Value Added Reseller of Constant Contact, Hootsuite, and BrainStorm and\u00a0Nikkia\u00a0is a CompTIA Certified Technical Trainer and a Microsoft certified Professional. \u00a0Nikkia\u00a0has industry experience since 2001 in software, web (intranet), Office 365, InfoPath, and SharePoint development.\u00a0</p> <p>\n\n\n<b>Please bring/install the following on your computer prior to class:\u00a0</b></p> <p>\u2022\u00a0Your laptop and charger. Note: A netbook or tablet is NOT a substitute. \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p>\n\n\n<b>Food &amp; Drinks:</b></p> <p>Please bring snacks and a bagged lunch. \u00a0We do not have a food sponsor for this workshop!\u00a0</p> <p><b>Parking:</b></p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free on weekends. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "duration": 14400000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/210566302/", 
-            "fee": {
-                "accepts": "amazon", 
-                "amount": 48, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Come on into the elevator lobby and up to the 10th floor!", 
-            "id": "210566302", 
-            "maybe_rsvp_count": 0, 
-            "name": "SharePoint End User Workshop", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1414245600000, 
-            "updated": 1412113433000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2231 Crystal Drive, Suite 1000", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 20218602, 
-                "lat": 38.853779000000003, 
-                "lon": -77.048766999999998, 
-                "name": "Crystal Tech Fund", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1412028192000, 
@@ -503,7 +455,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1412571086000, 
@@ -531,7 +483,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1410303623000, 
@@ -605,7 +557,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1404748918000, 
@@ -683,7 +635,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1407622606000, 
@@ -800,7 +752,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1408981913000, 
@@ -1018,7 +970,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1411918757000, 
