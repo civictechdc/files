@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 other:
 - created: 1413550754000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/dcfemtech/d66\"><a\
@@ -173,7 +173,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 334
+  yes_rsvp_count: 340
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -330,7 +330,7 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 5
   yes_rsvp_count: 190
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
@@ -403,7 +403,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -749,7 +749,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 78
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -1073,7 +1073,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 117
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1097,7 +1097,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
