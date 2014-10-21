@@ -124,114 +124,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
-- created: 1412021992000
-  description: "<p>For our October Meetup, we're very pleased to have Jared Lander\
-    \ from NYC visit us to talk about <a href=\"http://en.wikipedia.org/wiki/Least_squares#Lasso_method\"\
-    >Lasso regression</a>.\_The Lasso is one of the most significant machine learning\
-    \ algorithms from the past 15 years. Conceived by Hastie, Tibshirani and Friedman\
-    \ from Stanford, the Lasso performs dimension reduction and variable selection,\
-    \ making it well suited for the high dimensionality of today's datasets. In this\
-    \ talk, Jared will go over some of the math behind the Lasso and discuss some\
-    \ recent advancements in performing statistical inference on Lasso-fitted models.\
-    \ He will also show the R code behind the results. This will be an engaging and\
-    \ highly informative presentation -- don't miss it!</p> <p><b>Agenda:</b></p>\
-    \ <p>\u2022\_6:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\_\
-    7:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\_7:15pm -- Presentation\
-    \ and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_2036 G St NW</i>)</p>\
-    \ <p><b>Bio:</b></p> <p><a href=\"http://www.jaredlander.com/\">Jared Lander</a>\_\
-    is the Founder and CEO of\_<a href=\"http://www.landeranalytics.com/\">Lander\
-    \ Analytics</a>\_a data science consultancy based in New York City, the Organizer\
-    \ of the\_<a href=\"http://www.meetup.com/nyhackr/\">New York Open Statistical\
-    \ Programming Meetup</a>\_and an Adjunct Professor of Statistics at\_<a href=\"\
-    http://stat.columbia.edu/\">Columbia University</a>.\_ His work for both large\
-    \ and small organizations\_ranges from music and tech startups to finance and\
-    \ humanitarian relief efforts. \_He is the author of\_<a href=\"http://www.amazon.com/gp/product/0321888030/ref=as_li_tf_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0321888030&amp;link_code=as3&amp;tag=jareland-20\"\
-    >R for Everyone: Advanced Analytics and Graphics</a>, a book about R Programming\
-    \ geared toward Data Scientists and Non-Statisticians alike.</p> <p><b>Sponsors:</b></p>\
-    \ <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/decisionsciences/\"\
-    >GWU Department of Decision Sciences</a>, <a href=\"http://www.informit.com/\"\
-    >Pearson/InformIT</a>,\_<a href=\"http://www.cloudera.com/\">Cloudera</a>,\_<a\
-    \ href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
-    >LivingSocial</a>,\_<a href=\"http://novetta.com/\">Novetta Solutions</a>,\_<a\
-    \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
-    >Five 9 Group</a>.</p>"
-  event_url: http://www.meetup.com/Data-Science-DC/events/210315282/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
-    who: Data Scientists}
-  headcount: 0
-  id: '210315282'
-  maybe_rsvp_count: 0
-  name: Confidence in the Lasso
-  rsvp_limit: 500
-  status: upcoming
-  time: 1413844200000
-  updated: 1412032474000
-  utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 333
-- created: 1412028192000
-  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
-    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
-    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
-    \ together. The study group is intended for everyone who wishes to learn JavaScript\
-    \ programming language, it's perfect for beginners with a basic understanding\
-    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
-    \ is hassle free to get started with and fun to create something that\u2019s easy\
-    \ to share with friends. If you already know JavaScript, this can be a great platform\
-    \ for you to get together with fellow developers and hone your skills. If you're\
-    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
-    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
-    \ or slow learner, or if you attend every week. It is a great platform for you\
-    \ to be able to work and play together, while providing each other with ongoing\
-    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
-    \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
-    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
-    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
-    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
-    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
-    \ me a message or mail me and let me know that you are interested in helping us\
-    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
-    \ that members have been following along, feel free to suggest if you have more\
-    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
-    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
-    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
-    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
-    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
-    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
-    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
-    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
-    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/210383992/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: qhzfskysnbbc
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 35
-  status: upcoming
-  time: 1413844200000
-  updated: 1413543047000
-  utc_offset: -14400000
-  venue: {address_1: '3030 Clarendon Blvd, 8th Floor', city: Arlington, country: us,
-    id: 8368782, lat: 38.886726000000003, lon: -77.094329999999999, name: Capital
-      One Labs, repinned: false, state: VA, zip: '22201'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 28
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -331,7 +223,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 8
-  yes_rsvp_count: 185
+  yes_rsvp_count: 182
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -363,7 +255,7 @@ other:
     id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 37
+  waitlist_count: 32
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -403,7 +295,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -464,7 +356,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -519,7 +411,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 118
+  yes_rsvp_count: 117
 - created: 1397773268000
   description: "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday,\
     \ Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St\
@@ -569,7 +461,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 135
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -621,7 +513,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1412571086000
   description: "<p>How many meetup groups do you belong to? If you find an interesting\
     \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
@@ -677,7 +569,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -873,7 +765,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 16
-  yes_rsvp_count: 61
+  yes_rsvp_count: 60
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -893,7 +785,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -950,7 +842,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -1001,7 +893,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 118
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1104,17 +996,18 @@ other:
     >CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
     >CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\"\
     \ not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors\
-    \ open at 6:00 with pizza and drinks, and the presentations start at 6:30.\_</p>\
-    \ <p>We'll add speakers here as folks sign up:</p> <p>\u2022\_Colin Hughes of\
-    \ the\_<a href=\"https://www.itdp.org/\">Institute for Transportation and Development\
-    \ Policy</a>\_will talk about\_planning principles for bikeshare systems.</p>\
-    \ <p>\u2022\_Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\"\
-    >dcjs data explorer</a> for CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\"\
-    >Mathias Hansen</a> will show us how he visualizes an individual's trip histories\
-    \ with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager\
-    \ of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s\
-    \ first-mile/last-mile ridership.</p> <p>As always, stay tuned to\_<a href=\"\
-    https://twitter.com/techiesdc\">@techiesdc</a>\_for updates.</p>"
+    \ open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\"\
+    >Twilio</a>. The presentations start at 6:30.\_</p> <p>We'll add speakers here\
+    \ as folks sign up:</p> <p>\u2022\_Colin Hughes of the\_<a href=\"https://www.itdp.org/\"\
+    >Institute for Transportation and Development Policy</a>\_will talk about\_planning\
+    \ principles for bikeshare systems.</p> <p>\u2022\_Trevor Gerhardt will show us\
+    \ a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for\
+    \ CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will\
+    \ show us how he visualizes an individual's trip histories with his Trip statistics\
+    \ app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare\
+    \ service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>\
+    \ <p>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1126,14 +1019,14 @@ other:
   rsvp_limit: 75
   status: upcoming
   time: 1417734000000
-  updated: 1413387551000
+  updated: 1413858009000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1225,7 +1118,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1379643162000
   description: <p>With the diverse skills and interests of our group, let's explore
     how the experience in our backgrounds plays into our tech careers. For January,

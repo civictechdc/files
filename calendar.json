@@ -120,84 +120,6 @@
             "yes_rsvp_count": 3
         }, 
         {
-            "created": 1412021992000, 
-            "description": "<p>For our October Meetup, we're very pleased to have Jared Lander from NYC visit us to talk about <a href=\"http://en.wikipedia.org/wiki/Least_squares#Lasso_method\">Lasso regression</a>.\u00a0The Lasso is one of the most significant machine learning algorithms from the past 15 years. Conceived by Hastie, Tibshirani and Friedman from Stanford, the Lasso performs dimension reduction and variable selection, making it well suited for the high dimensionality of today's datasets. In this talk, Jared will go over some of the math behind the Lasso and discuss some recent advancements in performing statistical inference on Lasso-fitted models. He will also show the R code behind the results. This will be an engaging and highly informative presentation -- don't miss it!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Bio:</b></p> <p><a href=\"http://www.jaredlander.com/\">Jared Lander</a>\u00a0is the Founder and CEO of\u00a0<a href=\"http://www.landeranalytics.com/\">Lander Analytics</a>\u00a0a data science consultancy based in New York City, the Organizer of the\u00a0<a href=\"http://www.meetup.com/nyhackr/\">New York Open Statistical Programming Meetup</a>\u00a0and an Adjunct Professor of Statistics at\u00a0<a href=\"http://stat.columbia.edu/\">Columbia University</a>.\u00a0 His work for both large and small organizations\u00a0ranges from music and tech startups to finance and humanitarian relief efforts. \u00a0He is the author of\u00a0<a href=\"http://www.amazon.com/gp/product/0321888030/ref=as_li_tf_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0321888030&amp;link_code=as3&amp;tag=jareland-20\">R for Everyone: Advanced Analytics and Graphics</a>, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>, <a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/210315282/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "210315282", 
-            "maybe_rsvp_count": 0, 
-            "name": "Confidence in the Lasso", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1413844200000, 
-            "updated": 1412032474000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 333
-        }, 
-        {
-            "created": 1412028192000, 
-            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210383992/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qhzfskysnbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 35, 
-            "status": "upcoming", 
-            "time": 1413844200000, 
-            "updated": 1413543047000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "3030 Clarendon Blvd, 8th Floor", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 8368782, 
-                "lat": 38.886726000000003, 
-                "lon": -77.094329999999999, 
-                "name": "Capital One Labs", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22201"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 28
-        }, 
-        {
             "created": 1410276545000, 
             "description": "<p>Ever wondered if people are really doing anything with big data or if it\u2019s just a lot of noise? Or are you using big data already and want to hear how other people are making it work for them? Join us to learn more about how some major organizations are making an impact using big data.\u00a0Schedule</p> <p><br/>6:00pm - 6:30pm Networking</p> <p>6:30pm - 6:40pm Introductions</p> <p>6:40pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming soon)</p> <p><b>Google - Felipa Hoffa</b></p> <p>In 2011 Felipe Hoffa move from Chile to San Francisco to join Google as a Software Engineer. Since 2013 he's been a Developer Advocate on big data - to inspire developers around the world to leverage the Google Cloud Platform tools to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the world.<br/><i>Follow Felipe at\u00a0<a href=\"https://twitter.com/felipehoffa\">@felipehoffa</a>.</i></p> <p>\n\n\n\n<b>\u201cData Warehousing at Opower\u201d\u00a0</b></p> <p><b>Arjun Dasgupta, Opower, Research Engineer</b></p> <p>Arjun is a research engineer at Opower working on Business Intelligence and Data Warehousing. Over the last few years, he has led Opower's DW and BI initiatives. He has played an important part in architecting Opower's hadoop based data warehouse and tackling data scale, governance and integration issues. Prior to Opower, Arjun spent time in academia researching novel problems in databases, data mining and information retrieval.\u00a0</p> <p>Opower has grown from a small startup to a publicly traded company in the last 6 years. Our datasets have also grown exponentially in complexity and scale. In order to tackle this data explosion, we started an initiative to move our enterprise data warehouse to a scalable hadoop ecosystem. The focus was to get all our data in one place, where it could be queried, mined and analyzed at scale. In this talk, I will share our experiences in building this core piece of infrastructure, the benefits that we have reaped and challenges that we have faced along the way.\u00a0</p> <p><br/><b>\u201cHigh Performance Data Warehousing via Open Source\u201d</b></p> <p><b>Curtis Smith, \u00a0Neustar , Director, Platform Services \u2013 Implementation and \u00a0Integration</b></p> <p>Curtis has been instrumental in the creation and development of Neustar\u2019s Data Services organization which is responsible for Data Warehousing, Business Intelligence and over the last 4 years, \u00a0Neustar\u2019s Big Data initiative. He is involved in the creation of both internal and external facing analytic solutions including product offerings. \u00a0He is known for his ability to design, develop and implement processes to effectively collect and transform massive amounts of raw data into useful information and knowledge for Neustar and more importantly their customers. \u00a0 He is an evangelist for innovation through the use of Open Source software and commodity hardware. \u00a0Curtis has over 30 years of progressive software engineering experience with 24 years in the dynamic Communications / Telecommunications industry. \u00a0</p> <p><br/><b>\u201cData2Action Project Outcomes and Achievements\u201d</b></p> <p><b>Dr. Fen Zhao, National Science Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering</b></p> <p>As a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering (CISE) at the National Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships around CISE's Big Data, next generation internet, and cybersecurity R&amp;D portfolios. \u00a0During her tenure as a AAAS Fellow, Dr. Zhao also worked at the White House Office of Science and Technology Policy on Big Data and national security S&amp;T issues. \u00a0Prior, Dr. Zhao was an associate with McKinsey and Company\u2019s Risk Management Practice, serving public sector clients in the mortgage and debt markets. \u00a0Fen received a BS in Mathematics for Computer Science and a BS in Physics from Massachusetts Institute of Technology, and a PhD in Applied Physics from Stanford University. Her doctoral research was conducted at the Kavli Institute for Particle Astrophysics and Cosmology, where she developed astrophysical simulations of magnetic fields within the early universe using supercomputers.</p> <p>Abstract: \u00a0Aiming to make the most of the fast-growing volume of digital data, in March 2012, the Obama Administration announced the \u201cBig Data Research and Development Initiative.\u201d By improving our ability to extract knowledge and insights from large and complex collections of digital data, the initiative promises to help solve some the Nation\u2019s most pressing challenges. \u00a0At the launch of the initiative, the White House Office of Science and Technology Policy (OSTP) and research funding agencies across the federal government (including the National Science Foundation, National Institutes of Health, Department of Energy, and many others) announced over $200M in new funding opportunities for Big Data R&amp;D.</p> <p>Beginning in the second year of the National Big Data Initiative, the Administration encouraged multiple stakeholders including federal agencies, private industry, academia, state and local government, non-profits, and foundations, to develop and participate in Big Data innovation projects across the country. \u00a0On November 12, 2013, dozens of public and private organizations met at a White House-sponsored \u201cData to Knowledge to Action\u201d event to announce an inspiring array of Big Data related collaborations-- answering President Obama\u2019s call for partnerships that can enhance national priorities, including economic growth and job creation, education and health, energy and sustainability, public safety and national security, and global development. \u00a0In this talk, I will discuss some of the projects launched at the Data2Action their recent outcomes and achievements, focusing on interdisciplinary collaborations that focus on serving public and social good. \u00a0I will also discuss new and continuing Big Data programs being planned by NSF and other agencies in support of Big Data in national priority areas in the next phase of the Initiative.</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/206173592/", 
@@ -234,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 8, 
-            "yes_rsvp_count": 185
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1412026524000, 
@@ -272,7 +194,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -312,7 +234,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1412599027000, 
@@ -351,7 +273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1410577050000, 
@@ -390,7 +312,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1397773268000, 
@@ -428,7 +350,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 135
         }, 
         {
             "created": 1412028192000, 
@@ -455,7 +377,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1412571086000, 
@@ -483,7 +405,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1410303623000, 
@@ -674,7 +596,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 16, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1412599759000, 
@@ -712,7 +634,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1412436255000, 
@@ -752,7 +674,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1408981913000, 
@@ -789,7 +711,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1379643162000, 
@@ -936,7 +858,7 @@
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
+            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -955,7 +877,7 @@
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1413387551000, 
+            "updated": 1413858009000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -970,7 +892,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1411918757000, 
@@ -1089,7 +1011,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1379643162000, 
