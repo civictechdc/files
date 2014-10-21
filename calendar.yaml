@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 other:
 - created: 1413550754000
   description: "<p>RSVP here also:\_<a href=\"https://nvite.com/dcfemtech/d66\"><a\
@@ -173,7 +173,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 335
+  yes_rsvp_count: 333
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -230,8 +230,8 @@ other:
     id: 8368782, lat: 38.886726000000003, lon: -77.094329999999999, name: Capital
       One Labs, repinned: false, state: VA, zip: '22201'}
   visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 35
+  waitlist_count: 0
+  yes_rsvp_count: 28
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -331,7 +331,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 8
-  yes_rsvp_count: 187
+  yes_rsvp_count: 185
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -363,7 +363,7 @@ other:
     id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 38
+  waitlist_count: 37
   yes_rsvp_count: 60
 - created: 1410535360000
   description: '<p>Sometimes it''s nice to take a break from the digital screens of
@@ -403,7 +403,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 65
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -464,7 +464,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 70
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -519,7 +519,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 118
 - created: 1397773268000
   description: "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday,\
     \ Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St\
@@ -569,7 +569,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 132
+  yes_rsvp_count: 133
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -621,7 +621,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1412571086000
   description: "<p>How many meetup groups do you belong to? If you find an interesting\
     \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
@@ -873,7 +873,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 16
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -950,7 +950,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
