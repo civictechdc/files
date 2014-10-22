@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1397773268000, 
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1412028192000, 
@@ -142,7 +142,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1412571086000, 
@@ -170,7 +170,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1410303623000, 
@@ -521,7 +521,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1379643162000, 
@@ -606,25 +606,25 @@
             "headcount": 0, 
             "id": "193499902", 
             "maybe_rsvp_count": 0, 
-            "name": "Legal Hackie Awards and Holiday Party (tentatively scheduled)", 
+            "name": "Legal Hackie Awards and Holiday Party", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1413427710000, 
+            "updated": 1413992793000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 22659682, 
+                "id": 23132642, 
                 "lat": 38.897067999999997, 
                 "lon": -77.020126000000005, 
-                "name": "The Loft, Floor 5", 
+                "name": "Current place: The Loft, Floor 4", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
