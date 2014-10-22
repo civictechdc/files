@@ -155,11 +155,11 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-10-20T19:00:37Z'
-  size: 73581
+  size: 73717
   updated_at: '2014-10-15T03:07:08Z'
   watchers: 26
-- activity: [0, 0, 0, 0, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
-    0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 1, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -300,10 +300,10 @@
   - [JavaScript, 12522]
   main_language: CSS
   name: Code for DC Website
-  open_issues: 11
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-20T12:31:42Z'
+  pushed_at: '2014-10-22T03:17:42Z'
   size: 8367
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
@@ -451,8 +451,8 @@
   updated_at: '2014-08-01T20:47:07Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 7, 2, 6, 2, 6, 7, 8, 13, 0, 10,
-    0, 5, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 8, 9, 5, 12, 0, 10,
+    4, 1, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=2', contributions: 281,
