@@ -36,89 +36,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }
     ], 
     "other": [
-        {
-            "created": 1413550754000, 
-            "description": "<p>RSVP here also:\u00a0<a href=\"https://nvite.com/dcfemtech/d66\"><a href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
-            "duration": 1047600000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/214002852/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "214002852", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1413741600000, 
-            "updated": 1413740835000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1350 Connecticut Avenue Northwest", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9420312, 
-                "lat": 38.908454999999996, 
-                "lon": -77.043243000000004, 
-                "name": "Cosi", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1406684550000, 
-            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\" /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct 20-21!\u00a0</b></p> <p>Use code <b>GDI14\u00a0</b>for a 15% discount on tickets!\u00a0</p> <p>\n\n\nThe Wearables + Things conference is two days of essential talks, training, and product demos for anyone developing or designing for the Wearables and Internet of Things ecosystems. \u00a0</p> <p>$14B market for wearables alone in 2014 and more than 100 billion devices connected to the Internet by 2020 confirms that this IS next major technology revolution. From smart watches to connected devices, the leaders are being established and the opportunity for OEMs, developers, designers and service providers is now. Join us at Wearables + Things in October for two days of inspired action and training designed to help you take the reins of this market and ride the wave of the next decade.</p> <p>Join industry leaders including Adidas, Sony, Amazon, Bluetooth, Intel, and more. See the full schedule and speaker list at\u00a0<a href=\"http://modevwear.com/\">modevwear.com</a></p> <p><br/><b>Please visit the conference website to register. \u00a0RSVPing here on meetup will NOT register you! \u00a0</b></p>", 
-            "duration": 118800000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/197863402/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "1-2 blocks down from the Rosslyn Metro station", 
-            "id": "197863402", 
-            "maybe_rsvp_count": 0, 
-            "name": "MoDev's Wearables + Things Conference", 
-            "status": "upcoming", 
-            "time": 1413806400000, 
-            "updated": 1407178197000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1101 Wilson Boulevard", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 11535262, 
-                "lat": 38.895325, 
-                "lon": -77.069710000000001, 
-                "name": "Artisphere", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22209"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
         {
             "created": 1410276545000, 
             "description": "<p>Ever wondered if people are really doing anything with big data or if it\u2019s just a lot of noise? Or are you using big data already and want to hear how other people are making it work for them? Join us to learn more about how some major organizations are making an impact using big data.\u00a0Schedule</p> <p><br/>6:00pm - 6:30pm Networking</p> <p>6:30pm - 6:40pm Introductions</p> <p>6:40pm - 8:15pm Speakers</p> <p><br/>Talks and Speakers (more coming soon)</p> <p><b>Google - Felipa Hoffa</b></p> <p>In 2011 Felipe Hoffa move from Chile to San Francisco to join Google as a Software Engineer. Since 2013 he's been a Developer Advocate on big data - to inspire developers around the world to leverage the Google Cloud Platform tools to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the world.<br/><i>Follow Felipe at\u00a0<a href=\"https://twitter.com/felipehoffa\">@felipehoffa</a>.</i></p> <p>\n\n\n\n<b>\u201cData Warehousing at Opower\u201d\u00a0</b></p> <p><b>Arjun Dasgupta, Opower, Research Engineer</b></p> <p>Arjun is a research engineer at Opower working on Business Intelligence and Data Warehousing. Over the last few years, he has led Opower's DW and BI initiatives. He has played an important part in architecting Opower's hadoop based data warehouse and tackling data scale, governance and integration issues. Prior to Opower, Arjun spent time in academia researching novel problems in databases, data mining and information retrieval.\u00a0</p> <p>Opower has grown from a small startup to a publicly traded company in the last 6 years. Our datasets have also grown exponentially in complexity and scale. In order to tackle this data explosion, we started an initiative to move our enterprise data warehouse to a scalable hadoop ecosystem. The focus was to get all our data in one place, where it could be queried, mined and analyzed at scale. In this talk, I will share our experiences in building this core piece of infrastructure, the benefits that we have reaped and challenges that we have faced along the way.\u00a0</p> <p><br/><b>\u201cHigh Performance Data Warehousing via Open Source\u201d</b></p> <p><b>Curtis Smith, \u00a0Neustar , Director, Platform Services \u2013 Implementation and \u00a0Integration</b></p> <p>Curtis has been instrumental in the creation and development of Neustar\u2019s Data Services organization which is responsible for Data Warehousing, Business Intelligence and over the last 4 years, \u00a0Neustar\u2019s Big Data initiative. He is involved in the creation of both internal and external facing analytic solutions including product offerings. \u00a0He is known for his ability to design, develop and implement processes to effectively collect and transform massive amounts of raw data into useful information and knowledge for Neustar and more importantly their customers. \u00a0 He is an evangelist for innovation through the use of Open Source software and commodity hardware. \u00a0Curtis has over 30 years of progressive software engineering experience with 24 years in the dynamic Communications / Telecommunications industry. \u00a0</p> <p><br/><b>\u201cData2Action Project Outcomes and Achievements\u201d</b></p> <p><b>Dr. Fen Zhao, National Science Foundation, AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering</b></p> <p>As a AAAS Policy Fellow and Staff Associate at the Office of the Assistant Director for Computer &amp; Information Science &amp; Engineering (CISE) at the National Science Foundation, Dr. Fen Zhao focuses on building public-private partnerships around CISE's Big Data, next generation internet, and cybersecurity R&amp;D portfolios. \u00a0During her tenure as a AAAS Fellow, Dr. Zhao also worked at the White House Office of Science and Technology Policy on Big Data and national security S&amp;T issues. \u00a0Prior, Dr. Zhao was an associate with McKinsey and Company\u2019s Risk Management Practice, serving public sector clients in the mortgage and debt markets. \u00a0Fen received a BS in Mathematics for Computer Science and a BS in Physics from Massachusetts Institute of Technology, and a PhD in Applied Physics from Stanford University. Her doctoral research was conducted at the Kavli Institute for Particle Astrophysics and Cosmology, where she developed astrophysical simulations of magnetic fields within the early universe using supercomputers.</p> <p>Abstract: \u00a0Aiming to make the most of the fast-growing volume of digital data, in March 2012, the Obama Administration announced the \u201cBig Data Research and Development Initiative.\u201d By improving our ability to extract knowledge and insights from large and complex collections of digital data, the initiative promises to help solve some the Nation\u2019s most pressing challenges. \u00a0At the launch of the initiative, the White House Office of Science and Technology Policy (OSTP) and research funding agencies across the federal government (including the National Science Foundation, National Institutes of Health, Department of Energy, and many others) announced over $200M in new funding opportunities for Big Data R&amp;D.</p> <p>Beginning in the second year of the National Big Data Initiative, the Administration encouraged multiple stakeholders including federal agencies, private industry, academia, state and local government, non-profits, and foundations, to develop and participate in Big Data innovation projects across the country. \u00a0On November 12, 2013, dozens of public and private organizations met at a White House-sponsored \u201cData to Knowledge to Action\u201d event to announce an inspiring array of Big Data related collaborations-- answering President Obama\u2019s call for partnerships that can enhance national priorities, including economic growth and job creation, education and health, energy and sustainability, public safety and national security, and global development. \u00a0In this talk, I will discuss some of the projects launched at the Data2Action their recent outcomes and achievements, focusing on interdisciplinary collaborations that focus on serving public and social good. \u00a0I will also discuss new and continuing Big Data programs being planned by NSF and other agencies in support of Big Data in national priority areas in the next phase of the Initiative.</p>", 
@@ -155,8 +76,8 @@
                 "zip": "20004"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
-            "yes_rsvp_count": 177
+            "waitlist_count": 7, 
+            "yes_rsvp_count": 175
         }, 
         {
             "created": 1412026524000, 
@@ -194,47 +115,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 28, 
-            "yes_rsvp_count": 60
-        }, 
-        {
-            "created": 1410535360000, 
-            "description": "<p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Inspiration and activities here: <a href=\"https://github.com/ddai/hand-drawn-maps\" class=\"linkified\">https://github.com/ddai/hand-drawn-maps</a> Don't forget to bring your art supplies: sharpies, markers, crayons, highlighters, etc!</p> <p>**</p> <p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies.</p> <p>This open learning environment for all levels and degrees of knowledge offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time.</p> <p>Inspiration for Maptime comes from both hack nights and knitting circles. Both are models of spaces for people to create and learn together. Our goal is to provide this space with an open heart and without pretension. You can bring your own projects to work on, or just hang out and socialize or ask questions. Some people are experts, and some people are just getting started, but all of us are learning, so why not do it together?</p> <p>For more information about Maptime, visit maptime.io. Also, follow us on twitter at @MaptimeDC.</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/206833492/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "206833492", 
-            "maybe_rsvp_count": 0, 
-            "name": "Maptime: Hand-Drawn Maps 101", 
-            "status": "upcoming", 
-            "time": 1413930600000, 
-            "updated": 1413344212000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th Street NW 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 7726762, 
-                "lat": 38.905909999999999, 
-                "lon": -77.043289000000001, 
-                "name": "Canvas.co", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1412599027000, 
@@ -273,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1410577050000, 
@@ -316,7 +198,7 @@
         }, 
         {
             "created": 1397773268000, 
-            "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript</p> <p><br/>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\" class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\" class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p>", 
+            "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript<br/>Ken Wilkins - Implicit assumptions when handling missing data in typical (or more state-of-the-art) methods (R)<br/>John Tillinghast - STAN and rstan (R)</p> <p>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\" class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\" class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p> <p><br/>Ken is\u00a0Mathematical Statistician at NIH, R user since 1999 practicing biostatistics in clinical research for the public, private and non-profit sectors over the past decade.\u00a0<a href=\"http://www.twitter.com/Kenneth_Wilkins\">www.twitter.com/Kenneth_Wilkins</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/stats-prog-dc/events/177772502/", 
             "group": {
@@ -335,7 +217,7 @@
             "name": "Lightning Talks", 
             "status": "upcoming", 
             "time": 1414103400000, 
-            "updated": 1412875540000, 
+            "updated": 1413916153000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1957 E St - Room 113", 
@@ -350,7 +232,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1412028192000, 
@@ -377,7 +259,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1412571086000, 
@@ -405,7 +287,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1410303623000, 
@@ -557,7 +439,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1407622606000, 
@@ -858,7 +740,7 @@
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
+            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -877,7 +759,7 @@
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1413858009000, 
+            "updated": 1413930807000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -892,7 +774,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1411918757000, 

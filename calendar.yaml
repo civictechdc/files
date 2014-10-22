@@ -45,85 +45,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 other:
-- created: 1413550754000
-  description: "<p>RSVP here also:\_<a href=\"https://nvite.com/dcfemtech/d66\"><a\
-    \ href=\"https://nvite.com/dcfemtech/d66\" class=\"linkified\">https://nvite.com/dcfemtech/d66</a></a></p>\
-    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
-    \ informal way to learn, code and work on projects with other members in the community.\
-    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
-    \ open to all women or those who support women and minorities in tech. Feel free\
-    \ to come early or stay later. These events are held at public coffee shops, so\
-    \ good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code\
-    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
-    \ plan. These events are very informal so ladies will usually bring their own\
-    \ projects or meet people who are working on similar projects to collaborate together.\
-    \ If you're a beginner we recommend some online tutorials like Code Academy or\
-    \ General Assembly Dash. The hope is that you will find ladies who are learning\
-    \ similar coding languages and projects to work with or ask questions.</p> <p>When\
-    \ you arrive, we'll ask you to visit our Hackpad so we can all get to know a little\
-    \ more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"\
-    \ class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a><br/>Code\
-    \ &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC,\
-    \ @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual\
-    \ pages for resources and more events throughout the month!</p>"
-  duration: 1047600000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/214002852/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '214002852'
-  maybe_rsvp_count: 0
-  name: Code & Coffee
-  status: upcoming
-  time: 1413741600000
-  updated: 1413740835000
-  utc_offset: -14400000
-  venue: {address_1: 1350 Connecticut Avenue Northwest, city: Washington, country: us,
-    id: 9420312, lat: 38.908454999999996, lon: -77.043243000000004, name: Cosi, repinned: false,
-    state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 19
-- created: 1406684550000
-  description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/5/9/d/a/600_394763002.jpeg\"\
-    \ /></p> <p><b>MoDev is back in October with a Wearables + Things Conference Oct\
-    \ 20-21!\_</b></p> <p>Use code <b>GDI14\_</b>for a 15% discount on tickets!\_\
-    </p> <p>\n\n\nThe Wearables + Things conference is two days of essential talks,\
-    \ training, and product demos for anyone developing or designing for the Wearables\
-    \ and Internet of Things ecosystems. \_</p> <p>$14B market for wearables alone\
-    \ in 2014 and more than 100 billion devices connected to the Internet by 2020\
-    \ confirms that this IS next major technology revolution. From smart watches to\
-    \ connected devices, the leaders are being established and the opportunity for\
-    \ OEMs, developers, designers and service providers is now. Join us at Wearables\
-    \ + Things in October for two days of inspired action and training designed to\
-    \ help you take the reins of this market and ride the wave of the next decade.</p>\
-    \ <p>Join industry leaders including Adidas, Sony, Amazon, Bluetooth, Intel, and\
-    \ more. See the full schedule and speaker list at\_<a href=\"http://modevwear.com/\"\
-    >modevwear.com</a></p> <p><br/><b>Please visit the conference website to register.\
-    \ \_RSVPing here on meetup will NOT register you! \_</b></p>"
-  duration: 118800000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/197863402/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  how_to_find_us: 1-2 blocks down from the Rosslyn Metro station
-  id: '197863402'
-  maybe_rsvp_count: 0
-  name: MoDev's Wearables + Things Conference
-  status: upcoming
-  time: 1413806400000
-  updated: 1407178197000
-  utc_offset: -14400000
-  venue: {address_1: 1101 Wilson Boulevard, city: Arlington, country: us, id: 11535262,
-    lat: 38.895325, lon: -77.069710000000001, name: Artisphere, repinned: false, state: VA,
-    zip: '22209'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1410276545000
   description: "<p>Ever wondered if people are really doing anything with big data\
     \ or if it\u2019s just a lot of noise? Or are you using big data already and want\
@@ -222,8 +145,8 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 8
-  yes_rsvp_count: 177
+  waitlist_count: 7
+  yes_rsvp_count: 175
 - created: 1412026524000
   description: <p>Have you ever lost code and been really frustrated? Have you needed
     a line you wrote two days ago but saved over? Maybe you want to code with other
@@ -255,47 +178,8 @@ other:
     id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 28
-  yes_rsvp_count: 60
-- created: 1410535360000
-  description: '<p>Sometimes it''s nice to take a break from the digital screens of
-    our lives and bust out the pen and paper. Join us for an evening of drawing and
-    tracing beautiful maps at this special Maptime.</p> <p>Inspiration and activities
-    here: <a href="https://github.com/ddai/hand-drawn-maps" class="linkified">https://github.com/ddai/hand-drawn-maps</a>
-    Don''t forget to bring your art supplies: sharpies, markers, crayons, highlighters,
-    etc!</p> <p>**</p> <p>Maptime is, rather literally, time for mapmaking. Our mission
-    is to open the doors of cartographic possibility to anyone interested by creating
-    a time and space for collaborative learning, exploration, and map creation using
-    mapping tools and technologies.</p> <p>This open learning environment for all
-    levels and degrees of knowledge offers intentional support for the beginner. Maptime
-    is simultaneously flexible and structured, creating space for workshops, ongoing
-    projects with a shared goal, and independent/collaborative work time.</p> <p>Inspiration
-    for Maptime comes from both hack nights and knitting circles. Both are models
-    of spaces for people to create and learn together. Our goal is to provide this
-    space with an open heart and without pretension. You can bring your own projects
-    to work on, or just hang out and socialize or ask questions. Some people are experts,
-    and some people are just getting started, but all of us are learning, so why not
-    do it together?</p> <p>For more information about Maptime, visit maptime.io. Also,
-    follow us on twitter at @MaptimeDC.</p>'
-  duration: 5400000
-  event_url: http://www.meetup.com/Maptime-DC/events/206833492/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
-      hackers}
-  headcount: 0
-  id: '206833492'
-  maybe_rsvp_count: 0
-  name: 'Maptime: Hand-Drawn Maps 101'
-  status: upcoming
-  time: 1413930600000
-  updated: 1413344212000
-  utc_offset: -14400000
-  venue: {address_1: 1203 19th Street NW 3rd Floor, city: Washington, country: us,
-    id: 7726762, lat: 38.905909999999999, lon: -77.043289000000001, name: Canvas.co,
-    repinned: false, state: DC, zip: '20036'}
-  visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 60
 - created: 1412599027000
   description: "<p>Storing and analyzing large spatiotemporal datasets is becoming\
     \ a necessity as geo-tagged data becomes increasingly ubiquitous. <a href=\"http://geomesa.github.io/\"\
@@ -356,7 +240,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 67
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
     \ is quickly expanding beyond just internal business decisions. Companies of all\
@@ -419,20 +303,21 @@ other:
     \ <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac\
     \ Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights\
     \ (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\_GDELT and Networks\
-    \ in R, Python, and Javascript</p> <p><br/>Bios below:</p> <p>Harlan is Director\
-    \ of Data Science at The Education Advisory Board and President of Data Community\
-    \ DC.\_<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\"\
-    >www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform\
-    \ to host data science competitions for social good. \_He recently completed his\
-    \ master's in Computational Science and Engineering at Harvard\u2019s School of\
-    \ Engineering and Applied Sciences, and has a BS in Operations Research from the\
-    \ U.S. Coast Guard Academy. \_Originally from Boston, he works as an operations\
-    \ research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"\
-    http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist\
-    \ and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a\
-    \ href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\"\
-    \ class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"\
-    https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\"\
+    \ in R, Python, and Javascript<br/>Ken Wilkins - Implicit assumptions when handling\
+    \ missing data in typical (or more state-of-the-art) methods (R)<br/>John Tillinghast\
+    \ - STAN and rstan (R)</p> <p>Bios below:</p> <p>Harlan is Director of Data Science\
+    \ at The Education Advisory Board and President of Data Community DC.\_<br/>Twitter:\
+    \ @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p>\
+    \ <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions\
+    \ for social good. \_He recently completed his master's in Computational Science\
+    \ and Engineering at Harvard\u2019s School of Engineering and Applied Sciences,\
+    \ and has a BS in Operations Research from the U.S. Coast Guard Academy. \_Originally\
+    \ from Boston, he works as an operations research analyst in DC.<br/>Twitter:\
+    \ @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p>\
+    \ <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing,\
+    \ and Hack and Tell.<br/><a href=\"https://twitter.com/planarrowspace\"><a href=\"\
+    https://twitter.com/planarrowspace\" class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a\
+    \ href=\"https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\"\
     \ class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"\
     ><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p>\
     \ <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has\
@@ -442,7 +327,10 @@ other:
     \ outbreaks.\_<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist\
     \ at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind\
     \ DC chapter, a volunteer group that connects data scientists with social sector\
-    \ organizations.<br/>Twitter: @richmanmax</p>"
+    \ organizations.<br/>Twitter: @richmanmax</p> <p><br/>Ken is\_Mathematical Statistician\
+    \ at NIH, R user since 1999 practicing biostatistics in clinical research for\
+    \ the public, private and non-profit sectors over the past decade.\_<a href=\"\
+    http://www.twitter.com/Kenneth_Wilkins\">www.twitter.com/Kenneth_Wilkins</a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/stats-prog-dc/events/177772502/
   group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
@@ -454,14 +342,14 @@ other:
   name: Lightning Talks
   status: upcoming
   time: 1414103400000
-  updated: 1412875540000
+  updated: 1413916153000
   utc_offset: -14400000
   venue: {address_1: 1957 E St - Room 113, city: Washington, country: us, id: 22874212,
     lat: 38.896275000000003, lon: -77.044205000000005, name: GWU - Eliott School of
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 137
+  yes_rsvp_count: 140
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -513,7 +401,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1412571086000
   description: "<p>How many meetup groups do you belong to? If you find an interesting\
     \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
@@ -569,7 +457,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 85
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -715,7 +603,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -1004,10 +892,11 @@ other:
     \ a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for\
     \ CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will\
     \ show us how he visualizes an individual's trip histories with his Trip statistics\
-    \ app.</p> <p>\u2022 Paul DeMaio, the program manager of Arlington's Capital Bikeshare\
-    \ service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>\
-    \ <p>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
-    for updates.</p>"
+    \ app.</p> <p>\u2022\_Paul DeMaio, the program manager of Arlington's Capital\
+    \ Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>\
+    \ <p>\u2022\_Zach Rausnitz will show us\_<a href=\"http://www.rausnitz.com/iq/\"\
+    >Bikeshare IQ</a>.</p> <p><br/>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a>\_for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1019,14 +908,14 @@ other:
   rsvp_limit: 75
   status: upcoming
   time: 1417734000000
-  updated: 1413858009000
+  updated: 1413930807000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
