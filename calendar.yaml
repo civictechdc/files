@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 other:
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
@@ -101,7 +101,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 118
+  yes_rsvp_count: 120
 - created: 1397773268000
   description: "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday,\
     \ Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St\
@@ -270,7 +270,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -381,14 +381,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1415057400000
-  updated: 1413999274000
+  updated: 1414037541000
   utc_offset: -18000000
-  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
-    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: '1710 Rhode Island Ave NW, Suite 800', city: Washington, country: us,
+    id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 8
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -423,7 +423,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
     \ schedule multi-day events, so keep in mind that this Meetup event serves as\
@@ -505,7 +505,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -535,7 +535,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -666,7 +666,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -717,7 +717,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 27
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -774,7 +774,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -826,11 +826,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1416267000000
-  updated: 1413999274000
+  updated: 1414037633000
   utc_offset: -18000000
-  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
-    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
-    repinned: false, state: DC, zip: '20009'}
+  venue: {address_1: '1710 Rhode Island Ave NW, Suite 800', city: Washington, country: us,
+    id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -906,65 +906,6 @@ other:
   time: 1416526200000
   updated: 1383661832000
   utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
-- created: 1412028192000
-  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
-    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
-    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
-    \ together. The study group is intended for everyone who wishes to learn JavaScript\
-    \ programming language, it's perfect for beginners with a basic understanding\
-    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
-    \ is hassle free to get started with and fun to create something that\u2019s easy\
-    \ to share with friends. If you already know JavaScript, this can be a great platform\
-    \ for you to get together with fellow developers and hone your skills. If you're\
-    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
-    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
-    \ or slow learner, or if you attend every week. It is a great platform for you\
-    \ to be able to work and play together, while providing each other with ongoing\
-    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
-    \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
-    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
-    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
-    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
-    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
-    \ me a message or mail me and let me know that you are interested in helping us\
-    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
-    \ that members have been following along, feel free to suggest if you have more\
-    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
-    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
-    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
-    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
-    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
-    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
-    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
-    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
-    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/qhzfskyspbgc/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: qhzfskyspbgc
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 40
-  status: upcoming
-  time: 1416871800000
-  updated: 1413999274000
-  utc_offset: -18000000
-  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
-    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
-    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1058,7 +999,9 @@ other:
     \ app.</p> <p>\u2022\_Paul DeMaio, the program manager of Arlington's Capital\
     \ Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p>\
     \ <p>\u2022\_Zach Rausnitz will show us\_<a href=\"http://www.rausnitz.com/iq/\"\
-    >Bikeshare IQ</a>.</p> <p><br/>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
+    >Bikeshare IQ</a>.</p> <p><br/>\u2022\_Erek Dyskant of\_<a href=\"http://www.bluelabs.com/\"\
+    >BlueLabs</a>\_will show us a directed graph of CaBi trips that studies neighborhood\
+    \ clusters.</p> <p><br/>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a>\_for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -1071,7 +1014,7 @@ other:
   rsvp_limit: 75
   status: upcoming
   time: 1417734000000
-  updated: 1413930807000
+  updated: 1414029844000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,

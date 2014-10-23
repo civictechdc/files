@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }
     ], 
     "other": [
@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1397773268000, 
@@ -183,7 +183,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1410303623000, 
@@ -243,23 +243,22 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1415057400000, 
-            "updated": 1413999274000, 
+            "updated": 1414037541000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1630 Connecticut Ave NW 7th Floor", 
+                "address_1": "1710 Rhode Island Ave NW, Suite 800", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 9483992, 
-                "lat": 38.912044999999999, 
-                "lon": -77.045258000000004, 
-                "name": "iStrategyLabs", 
+                "id": 21999182, 
+                "lat": 38.905968000000001, 
+                "lon": -77.039169000000001, 
+                "name": "TrackMaven", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1411918617000, 
@@ -297,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1413939270000, 
@@ -342,7 +341,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1404748918000, 
@@ -380,7 +379,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -499,7 +498,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1412599759000, 
@@ -575,7 +574,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1412436255000, 
@@ -615,7 +614,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1412028192000, 
@@ -639,19 +638,18 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1416267000000, 
-            "updated": 1413999274000, 
+            "updated": 1414037633000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1630 Connecticut Ave NW 7th Floor", 
+                "address_1": "1710 Rhode Island Ave NW, Suite 800", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 9483992, 
-                "lat": 38.912044999999999, 
-                "lon": -77.045258000000004, 
-                "name": "iStrategyLabs", 
+                "id": 21999182, 
+                "lat": 38.905968000000001, 
+                "lon": -77.039169000000001, 
+                "name": "TrackMaven", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -717,46 +715,6 @@
             "time": 1416526200000, 
             "updated": 1383661832000, 
             "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1412028192000, 
-            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/qhzfskyspbgc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qhzfskyspbgc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1416871800000, 
-            "updated": 1413999274000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1630 Connecticut Ave NW 7th Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.912044999999999, 
-                "lon": -77.045258000000004, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -879,7 +837,7 @@
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
+            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -898,7 +856,7 @@
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1413930807000, 
+            "updated": 1414029844000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
