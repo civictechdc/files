@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 57
 other:
 - created: 1410577050000
   description: "<p>Data is driving many business decisions in today's world but it\
@@ -101,7 +101,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 118
 - created: 1397773268000
   description: "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday,\
     \ Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St\
@@ -155,7 +155,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 148
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -172,15 +172,18 @@ other:
     \ to be able to work and play together, while providing each other with ongoing\
     \ support and feedback.\_</p> <p>There's always at least one mentor present to\
     \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><br/><b>Want to be a JavaScript Study Group leader?\_</b></p>\
-    \ <p>If you are passionate about learning JavaScript with fellow awesome women\
-    \ and want to help us, come on out! \_Shoot me a message or mail me and let me\
-    \ know that you are interested in helping us with the JS study group!\_</p> <p><b>RESOURCES</b></p>\
-    \ <p><i>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"\
-    http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    \ class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
-    \ <p><b>JavaScript is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
     ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
     linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
     \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
@@ -192,6 +195,7 @@ other:
     \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/210384012/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -203,11 +207,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1414449000000
-  updated: 1412028192000
+  updated: 1413999274000
   utc_offset: -14400000
+  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
+    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 25
 - created: 1412571086000
   description: "<p>How many meetup groups do you belong to? If you find an interesting\
     \ group, it's very likely you'll join, resulting in hundreds of groups whose events\
@@ -263,7 +270,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -323,6 +330,65 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 12
+- created: 1412028192000
+  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
+    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
+    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
+    \ together. The study group is intended for everyone who wishes to learn JavaScript\
+    \ programming language, it's perfect for beginners with a basic understanding\
+    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
+    \ is hassle free to get started with and fun to create something that\u2019s easy\
+    \ to share with friends. If you already know JavaScript, this can be a great platform\
+    \ for you to get together with fellow developers and hone your skills. If you're\
+    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
+    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
+    \ or slow learner, or if you attend every week. It is a great platform for you\
+    \ to be able to work and play together, while providing each other with ongoing\
+    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
+    \ help you with best practices or guide you through if you are stuck with a nasty\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
+    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
+    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/215002112/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qhzfskyspbfb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1415057400000
+  updated: 1413999274000
+  utc_offset: -18000000
+  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
+    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20009'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -491,7 +557,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -542,6 +608,65 @@ other:
   visibility: public
   waitlist_count: 16
   yes_rsvp_count: 60
+- created: 1412028192000
+  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
+    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
+    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
+    \ together. The study group is intended for everyone who wishes to learn JavaScript\
+    \ programming language, it's perfect for beginners with a basic understanding\
+    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
+    \ is hassle free to get started with and fun to create something that\u2019s easy\
+    \ to share with friends. If you already know JavaScript, this can be a great platform\
+    \ for you to get together with fellow developers and hone your skills. If you're\
+    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
+    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
+    \ or slow learner, or if you attend every week. It is a great platform for you\
+    \ to be able to work and play together, while providing each other with ongoing\
+    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
+    \ help you with best practices or guide you through if you are stuck with a nasty\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
+    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
+    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/215002122/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qhzfskyspbnb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1415662200000
+  updated: 1413999274000
+  utc_offset: -18000000
+  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
+    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20009'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -561,7 +686,38 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
+- created: 1414008625000
+  description: "<p>As the weather gets colder and the leaves start to fall, there's\
+    \ nothing better to gather around than the warm flames of APIs, making the world\
+    \ and our lives better and more productive. \_Go ahead and mark your calendars\
+    \ now for this next meetup. \_We've got a great group of presenters and nothing\
+    \ is better on a fall evening than warm pizza, good beer, and interesting conversations\
+    \ with new people. \_See you soon! \_</p> <p>6:00pm - 6:30pm Food, drinks and\
+    \ networking\_<br/>6:40pm - 6:50pm Introductions and Announcements\_<br/>6:50pm\
+    \ - 8:00pm Presentations</p> <p>* Anthea Watson - Google\_\_<br/>* Matt Grasmick,\
+    \ Damian Danchenko - Department of Justice\_<br/>* Max Katz - Appery.io<br/>*\
+    \ Lindsay Hunt, Shawn Johnson - Regulations.gov\_</p> <p>7:55pm - 8:00pm Refill\
+    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
+    \ Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/215031462/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '215031462'
+  maybe_rsvp_count: 0
+  name: DC API User Group - November Edition
+  status: upcoming
+  time: 1415833200000
+  updated: 1414008625000
+  utc_offset: -18000000
+  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
+    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
+    repinned: false, state: DC, zip: '20036'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 22
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -618,7 +774,66 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 73
+- created: 1412028192000
+  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
+    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
+    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
+    \ together. The study group is intended for everyone who wishes to learn JavaScript\
+    \ programming language, it's perfect for beginners with a basic understanding\
+    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
+    \ is hassle free to get started with and fun to create something that\u2019s easy\
+    \ to share with friends. If you already know JavaScript, this can be a great platform\
+    \ for you to get together with fellow developers and hone your skills. If you're\
+    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
+    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
+    \ or slow learner, or if you attend every week. It is a great platform for you\
+    \ to be able to work and play together, while providing each other with ongoing\
+    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
+    \ help you with best practices or guide you through if you are stuck with a nasty\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
+    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
+    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/215064132/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qhzfskyspbwb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1416267000000
+  updated: 1413999274000
+  utc_offset: -18000000
+  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
+    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20009'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -669,7 +884,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 121
+  yes_rsvp_count: 122
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -691,6 +906,65 @@ other:
   time: 1416526200000
   updated: 1383661832000
   utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
+- created: 1412028192000
+  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
+    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
+    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
+    \ together. The study group is intended for everyone who wishes to learn JavaScript\
+    \ programming language, it's perfect for beginners with a basic understanding\
+    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
+    \ is hassle free to get started with and fun to create something that\u2019s easy\
+    \ to share with friends. If you already know JavaScript, this can be a great platform\
+    \ for you to get together with fellow developers and hone your skills. If you're\
+    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
+    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
+    \ or slow learner, or if you attend every week. It is a great platform for you\
+    \ to be able to work and play together, while providing each other with ongoing\
+    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
+    \ help you with best practices or guide you through if you are stuck with a nasty\
+    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
+    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
+    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
+    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
+    \ me a message or mail me and let me know that you are interested in helping us\
+    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
+    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
+    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
+    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/qhzfskyspbgc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qhzfskyspbgc
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1416871800000
+  updated: 1413999274000
+  utc_offset: -18000000
+  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
+    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -844,7 +1118,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcytcbkb/
+  event_url: http://www.meetup.com/Geo-DC/events/215042312/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -961,7 +1235,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcytdbgb/
+  event_url: http://www.meetup.com/Geo-DC/events/215042332/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
