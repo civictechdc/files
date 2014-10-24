@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }
     ], 
     "other": [
@@ -191,7 +191,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1413939270000, 
@@ -275,7 +275,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1404748918000, 
@@ -508,7 +508,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1412436255000, 
@@ -548,7 +548,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1412028192000, 
@@ -628,7 +628,7 @@
         }, 
         {
             "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+            "description": "<p>This November, we've got our first ever hardware hacking talk, as a member shows us how she built an Adafruit bracelet. Then, we'll see how the data in a spreadsheet becomes a map that illustrates an important social topic.</p> <p>Catherine Dodge will present on how she made a bracelet out of Adafruit NeoPixel rings. More info soon!</p> <p><a href=\"http://shannonvturner.com/\">Shannon Turner</a>\u00a0is a software developer and founder of\u00a0<a href=\"http://hearmecode.com/\">Hear Me Code</a>, offering free, beginner-friendly coding classes for women in the DC area. In her spare time she creates projects like\u00a0<a href=\"http://shutthatdown.com/\">Shut That Down</a>\u00a0and serves as a mentor with\u00a0<a href=\"http://www.codeforprogress.org/\">Code for Progress</a>. She writes about her presentation: \"<i>Seriously?! is a map of nearly 500 colleges and universities that reported having zero sexual assaults over a three-year period.\u00a0 I'll show you how I created the map from concept to completion.\"</i></p> <p>As always, we gather around 6:30 over pizza from our generous sponsor, Excella Consulting. We'll kick it off with intros and announcements a little after 7. See you there!</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/", 
             "group": {
                 "created": 1378482158000, 
@@ -643,11 +643,11 @@
             "headcount": 0, 
             "id": "qkxmtgyspbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "name": "Adafruit Wearables and From Spreadsheet to Map", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1416526200000, 
-            "updated": 1383661832000, 
+            "updated": 1414164733000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -689,7 +689,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1412599788000, 
