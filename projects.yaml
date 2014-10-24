@@ -392,7 +392,7 @@
     6, 4, 8]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 370,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 371,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -414,7 +414,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-10-23T13:37:19Z'
+  pushed_at: '2014-10-24T08:08:03Z'
   size: 2545
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
@@ -474,7 +474,7 @@
   - [Shell, 4387]
   main_language: Python
   name: Metro Metrics
-  open_issues: 7
+  open_issues: 8
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=2', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2014-10-13T17:48:52Z'

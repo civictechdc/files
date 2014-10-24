@@ -1219,7 +1219,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 370, 
+                "contributions": 371, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1258,7 +1258,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-10-23T13:37:19Z", 
+        "pushed_at": "2014-10-24T08:08:03Z", 
         "size": 2545, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
@@ -1465,7 +1465,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
             "name": "LeeMendelowitz", 

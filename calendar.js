@@ -41,83 +41,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1410577050000, 
-            "description": "<p>Data is driving many business decisions in today's world but it is quickly expanding beyond just internal business decisions. Companies of all shapes and sizes are creating external data products meant for direct customer consumption. This is not without certain challenges though. For our October meetup, join us as Yhat discusses these data products.</p> <p><b>Schedule\u00a0</b></p> <p>6:30 PM -- Networking &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05 PM -- Data Driven Products:\u00a0Building a Beer Recommender - Greg Lamp</p> <p>8:30 PM -- Post-event Drinks</p> <p><b>Location</b></p> <p>Google maps does a good job of pinpointing the exact building location based on the address above.</p> <p>Parking is not an issue. You can park on the street nearby or you can take up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour or Reserved.</p> <p><b>Topic</b></p> <p><b>Data Driven Products: Building a Beer Recommender</b></p> <p>Building data driven products is challenging. It requires coordination from multiple teams that often don\u2019t speak (or use) the same language. In this talk I\u2019ll give an overview of the challenges facing companies today, talk about some potential solutions, and then walk through a case study where we\u2019ll build a Beer Recommendation system using Yhat.\u00a0</p> <p><br/><b>Speaker</b></p> <p><a href=\"http://twitter.com/theglamp\">Greg Lamp</a>\u00a0is a founding member of Yhat and serves as the company's CTO.\u00a0He leads development of \u0177hat's core products and infrastructure and is the principal architect of the company's cloud and on\u00adpremise enterprise software applications. Greg was previously a product manager at OnDeck, a fintech startup in New York and before that an analyst at comScore.</p> <p>Greg is a graduate of the University of Virginia.</p> <p><b>About Yhat</b></p> <p><a href=\"http://www.yhathq.com\">Yhat</a> (pronounced y\u00ad-hat) is a data science technology company that provides tools and systems that allow enterprises to turn data insights into data\u00addriven products.</p> <p>ScienceOps, Yhat's flagship product, is a data science operations system for managing predictive and advanced decision\u00admaking APIs and workflows. From product recommendation systems to credit scoring models and customer attrition estimators, ScienceOps lets data science teams go from insight to prototype to data\u00addriven product efficiently and at scale.\u00a0</p> <p><b>Post-event Drinks</b></p> <p>Green Turtle</p> <p><br/>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p> <p>[masked]</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/3/2/600_268739442.jpeg\" /></p>", 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/206958092/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "206958092", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data Driven Products: Building a Beer Recommender", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1414103400000, 
-            "updated": 1410580836000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1020 Hull St #100", 
-                "city": "Baltimore", 
-                "country": "us", 
-                "id": 6042402, 
-                "lat": 39.275238000000002, 
-                "lon": -76.591057000000006, 
-                "name": "AOL / Advertising.com - Ivory Building", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21230"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 121
-        }, 
-        {
-            "created": 1397773268000, 
-            "description": "<p>Lightning talks are scheduled!</p> <p>Please join us on Thursday, Oct. 23rd at 6:30 pm at GWU's Eliott School of International Affairs on E St (not Funger Hall). Here are the confirmed talks - more to be added soon.</p> <p>Harlan Harris - VennEuler.jl (Julia)<br/>Aaron Schumacher - JSON/Stat (R)<br/>Isaac Slavitt - Modeling with scikit-learn (Python)<br/>Max Richman - Survey Weights (R)<br/>Lee De Cola - R Spatial Bestiary (R)<br/>Amanda Traud -\u00a0GDELT and Networks in R, Python, and Javascript<br/>Ken Wilkins - Implicit assumptions when handling missing data in typical (or more state-of-the-art) methods (R)<br/>John Tillinghast - STAN and rstan (R)</p> <p>Bios below:</p> <p>Harlan is Director of Data Science at The Education Advisory Board and President of Data Community DC.\u00a0<br/>Twitter: @harlanh<br/>Blog: <a href=\"http://www.harlan.harris.name\">www.harlan.harris.name</a></p> <p>Isaac is a co-founder of DrivenData, a platform to host data science competitions for social good. \u00a0He recently completed his master's in Computational Science and Engineering at Harvard\u2019s School of Engineering and Applied Sciences, and has a BS in Operations Research from the U.S. Coast Guard Academy. \u00a0Originally from Boston, he works as an operations research analyst in DC.<br/>Twitter: @drivendataorg<br/>Website: <a href=\"http://www.drivendata.org\">www.drivendata.org</a></p> <p>Aaron is a data scientist and educator. He enjoys Emacs, Python, R, breakdancing, and Hack and Tell.<br/><a href=\"https://twitter.com/planarrowspace\"><a href=\"https://twitter.com/planarrowspace\" class=\"linkified\">https://twitter.com/planarrowspace</a></a><br/><a href=\"https://github.com/ajschumacher\"><a href=\"https://github.com/ajschumacher\" class=\"linkified\">https://github.com/ajschumacher</a></a><br/><a href=\"http://planspace.org\"><a href=\"http://planspace.org\" class=\"linkified\">http://planspace.org</a></a></p> <p>Amanda is currently a Data Scientist for L-3 Data Tactics, where she has worked on network analysis, and creating R and JavaScript programs to visualize and analyze networks. She holds a PhD in Biomathematics, and has explored the uses of network science in everything from Facebook to prairie dogs to zombie outbreaks.\u00a0<br/>Twitter: @altraud</p> <p>Max Richman is the chief data scientist at GeoPoll, a global mobile phone survey platform, and co-founder of the DataKind DC chapter, a volunteer group that connects data scientists with social sector organizations.<br/>Twitter: @richmanmax</p> <p><br/>Ken is\u00a0Mathematical Statistician at NIH, R user since 1999 practicing biostatistics in clinical research for the public, private and non-profit sectors over the past decade.\u00a0<a href=\"http://www.twitter.com/Kenneth_Wilkins\">www.twitter.com/Kenneth_Wilkins</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/177772502/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "177772502", 
-            "maybe_rsvp_count": 0, 
-            "name": "Lightning Talks", 
-            "status": "upcoming", 
-            "time": 1414103400000, 
-            "updated": 1413916153000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1957 E St - Room 113", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 22874212, 
-                "lat": 38.896275000000003, 
-                "lon": -77.044205000000005, 
-                "name": "GWU - Eliott School of Int'l Affairs", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 149
-        }, 
-        {
             "created": 1412028192000, 
             "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
@@ -155,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1410303623000, 
@@ -313,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1414101496000, 
@@ -352,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1404748918000, 
@@ -585,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1412436255000, 
@@ -729,6 +652,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1414121795000, 
+            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Our 2015 Devfest will have multiple hands-on code labs, technical talks, and panels on all things Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p> <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p> <p>+ much more...</p> <p>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p>", 
+            "event_url": "http://www.meetup.com/gdg-dc/events/215327092/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Technology and Developer Group - Washington DC", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "215327092", 
+            "maybe_rsvp_count": 0, 
+            "name": "DevFestDC 2014 - Google Developer Group DC", 
+            "status": "upcoming", 
+            "time": 1416578400000, 
+            "updated": 1414123664000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "22000 AOL Way", 
+                "city": "Dulles", 
+                "country": "us", 
+                "id": 1637409, 
+                "lat": 39.005215, 
+                "lon": -77.445723999999998, 
+                "name": "AOL", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "20166"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1412599788000, 
