@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }
     ], 
     "other": [
@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1397773268000, 
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 150
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1412028192000, 
@@ -316,6 +316,45 @@
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1414101496000, 
+            "description": "<p>Plotly (<a href=\"https://plot.ly\" class=\"linkified\">https://plot.ly</a>) is a new web-based platform for making graphs and analyzing data. Plotly's APIs and web app let teams work together online to make 2D, 3D, and streaming graphs using R, Python, MATLAB, Julia, SAS, and and Excel, all together, all in one platform. The goal is to support technical and non-technical collaboration at all levels. Plotly translates ggplot2, matplotlib, and MATLAB plots into interactive, web-based, shareable plots. Graphs are rendered in D3.js (a popular JavaScript visualization library), and interactive out of the box. Plotly is free for unlimited public sharing, lets you control privacy and collaboratively edit graphs from different languages and environments, and you always own your data. The goal is to be a GitHub for sharing data and plots.</p> <p>In this talk, we'll make graphs with Plotly's APIs (<a href=\"https://plot.ly/api\" class=\"linkified\">https://plot.ly/api</a>), and use Plotly's statistical tools, data analysis tools, and web app. We'll show how Plotly and the new IPython kernels for multiple languages support plotting across languages and libraries. We'll also discuss data visualization concepts and ideas.</p> <p>About the speaker:<br/>Matt Sundquist is a co-founder and COO at Plotly, a graphing and analytics project. Matt studied philosophy at Harvard College, then worked as a writer for SCOTUSblog.com and for Akin Gump's Supreme Court practice. He was a Fulbright Scholar in Argentina, and a Student Fellow of the Harvard Law School Program on the Legal Profession. He previously worked on the Privacy Team at Facebook. He has published articles on the Supreme Court, privacy, the social contract, and sundials. He has been cited in Senate Judiciary Committee Testimony, the New York Times, and Yale Law Journal and is a member of the CA Vital Statistics Advisory Committee. He lives in San Francisco.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/215260572/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "215260572", 
+            "maybe_rsvp_count": 0, 
+            "name": "Plotly: Collaborative, web-based plotting for R, Python, Julia, MATLAB and SAS", 
+            "status": "upcoming", 
+            "time": 1415230200000, 
+            "updated": 1414101496000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 30
+        }, 
+        {
             "created": 1404748918000, 
             "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, November 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
             "duration": 7200000, 
@@ -355,7 +394,7 @@
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>Recent local and regional executive orders require the implementation of technology and policy that deliver open data to be released to the public. We still have room for speakers, so if you'd like to give a five minute lightning talk message us via Meetup or Twitter at @Geo_DC. Here's our current lineup:</p> <p>\u2022\u00a0&lt;a&gt;Tim Abdella&lt;/a&gt;, GIO for the District will briefly discuss the recent Washington DC executive order and the impacts of the policy on the geospatial community within the District and broader.</p> <p>\u2022\u00a0&lt;a&gt;Barney Krucoff&lt;/a&gt;, Maryland's Geographic Information Officer, will briefly review the new Maryland open data law and demo two of Maryland's data portals:\u00a0<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\" class=\"linkified\">http://data.maryland.gov</a></a>\u00a0and\u00a0<a href=\"http://data.imap.maryland.gov/\"><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>. \u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else.\u00a0<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\u00a0is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow\u00a0<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\u00a0on Twitter, and join our\u00a0<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a>\u00a0for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/177463542/", 
             "group": {
                 "created": 1307975249000, 
@@ -374,7 +413,7 @@
             "name": "November GeoDC: Geo Policy", 
             "status": "upcoming", 
             "time": 1415232000000, 
-            "updated": 1410139754000, 
+            "updated": 1414109003000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -391,7 +430,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1407622606000, 
@@ -546,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1412436255000, 
@@ -662,7 +701,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1379643162000, 
