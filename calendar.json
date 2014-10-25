@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }
     ], 
     "other": [
@@ -275,7 +275,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1404748918000, 
@@ -317,7 +317,7 @@
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>Recent local and regional executive orders require the implementation of technology and policy that deliver open data to be released to the public. We still have room for speakers, so if you'd like to give a five minute lightning talk message us via Meetup or Twitter at @Geo_DC. Here's our current lineup:</p> <p>\u2022\u00a0&lt;a&gt;Tim Abdella&lt;/a&gt;, GIO for the District will briefly discuss the recent Washington DC executive order and the impacts of the policy on the geospatial community within the District and broader.</p> <p>\u2022\u00a0&lt;a&gt;Barney Krucoff&lt;/a&gt;, Maryland's Geographic Information Officer, will briefly review the new Maryland open data law and demo two of Maryland's data portals:\u00a0<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\" class=\"linkified\">http://data.maryland.gov</a></a>\u00a0and\u00a0<a href=\"http://data.imap.maryland.gov/\"><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>. \u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else.\u00a0<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\u00a0is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow\u00a0<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\u00a0on Twitter, and join our\u00a0<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a>\u00a0for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
+            "description": "<p>Recent local and regional executive orders require the implementation of technology and policy that deliver open data to be released to the public. We still have room for speakers, so if you'd like to give a five minute lightning talk message us via Meetup or Twitter at @Geo_DC. Here's our current lineup:</p> <p>\u2022\u00a0&lt;a&gt;Tim Abdella&lt;/a&gt;, GIO for the District will briefly discuss the recent Washington DC executive order and the impacts of the policy on the geospatial community within the District and broader.</p> <p>\u2022\u00a0&lt;a&gt;Barney Krucoff&lt;/a&gt;, Maryland's Geographic Information Officer, will briefly review the new Maryland open data law and demo two of Maryland's data portals:\u00a0<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\" class=\"linkified\">http://data.maryland.gov</a></a>\u00a0and\u00a0<a href=\"http://data.imap.maryland.gov/\"><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>.</p> <p>\u2022 Victoria Lewis, from Montgomery County MD, will talk about dataMontgomery, the county's open data plans, and the information they make available. \u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else.\u00a0<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\u00a0is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow\u00a0<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\u00a0on Twitter, and join our\u00a0<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a>\u00a0for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/177463542/", 
             "group": {
                 "created": 1307975249000, 
@@ -336,7 +336,7 @@
             "name": "November GeoDC: Geo Policy", 
             "status": "upcoming", 
             "time": 1415232000000, 
-            "updated": 1414109003000, 
+            "updated": 1414201858000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -353,7 +353,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1407622606000, 
@@ -391,7 +391,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -470,7 +470,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1414008625000, 
@@ -508,7 +508,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1412436255000, 
@@ -689,7 +689,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1412599788000, 
@@ -843,7 +843,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1411918757000, 

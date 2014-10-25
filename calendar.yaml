@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 other:
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
@@ -385,7 +385,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -428,18 +428,20 @@ other:
     \ will briefly review the new Maryland open data law and demo two of Maryland's\
     \ data portals:\_<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\"\
     \ class=\"linkified\">http://data.maryland.gov</a></a>\_and\_<a href=\"http://data.imap.maryland.gov/\"\
-    ><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>.\
-    \ \_</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off\
-    \ introductions and lightning talks at 7:30pm. There will be time after to talk\
-    \ with our speakers and everyone else.\_<a href=\"http://stetsons-dc.com/index.php\"\
-    >Stetsons</a>\_is a 21 and over venue. If you're not yet 21 but want to attend,\
-    \ message us via meetup and we'll do our best to get you in.\_</p> <p><br/>GeoDC\
-    \ meets on the first Wednesday of the month to learn, network, and talk about\
-    \ the work people are doing with maps, GIS, geodata, and more. Join this meetup\
-    \ group, follow\_<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\_on Twitter,\
-    \ and join our\_<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\"\
-    >Google group</a>\_for updates.</p> <p>Do you have something you'd like to share\
-    \ with the group? Let us know!</p>"
+    ><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>.</p>\
+    \ <p>\u2022 Victoria Lewis, from Montgomery County MD, will talk about dataMontgomery,\
+    \ the county's open data plans, and the information they make available. \_</p>\
+    \ <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions\
+    \ and lightning talks at 7:30pm. There will be time after to talk with our speakers\
+    \ and everyone else.\_<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\_\
+    is a 21 and over venue. If you're not yet 21 but want to attend, message us via\
+    \ meetup and we'll do our best to get you in.\_</p> <p><br/>GeoDC meets on the\
+    \ first Wednesday of the month to learn, network, and talk about the work people\
+    \ are doing with maps, GIS, geodata, and more. Join this meetup group, follow\_\
+    <a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\_on Twitter, and join our\_\
+    <a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google\
+    \ group</a>\_for updates.</p> <p>Do you have something you'd like to share with\
+    \ the group? Let us know!</p>"
   event_url: http://www.meetup.com/Geo-DC/events/177463542/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -450,14 +452,14 @@ other:
   name: 'November GeoDC: Geo Policy'
   status: upcoming
   time: 1415232000000
-  updated: 1414109003000
+  updated: 1414201858000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 32
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -507,7 +509,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 18
+  waitlist_count: 19
   yes_rsvp_count: 60
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
@@ -587,7 +589,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -618,7 +620,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -849,7 +851,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 40
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -962,7 +964,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
