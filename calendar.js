@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 71
         }
     ], 
     "other": [
@@ -275,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1404748918000, 
@@ -353,7 +353,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1407622606000, 
@@ -587,7 +587,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1408981913000, 
@@ -655,7 +655,8 @@ calendar({
         }, 
         {
             "created": 1414121795000, 
-            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Our 2015 Devfest will have multiple hands-on code labs, technical talks, and panels on all things Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p> <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p> <p>+ much more...</p> <p>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p>", 
+            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Our 2015 Devfest will have multiple hands-on code labs, technical talks, and panels on all things Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p> <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p> <p>+ much more...</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p>", 
+            "duration": 28800000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/215327092/", 
             "group": {
                 "created": 1268219647000, 
@@ -673,7 +674,7 @@ calendar({
             "name": "DevFestDC 2014 - Google Developer Group DC", 
             "status": "upcoming", 
             "time": 1416578400000, 
-            "updated": 1414123664000, 
+            "updated": 1414326897000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "22000 AOL Way", 
@@ -689,7 +690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1412599788000, 
