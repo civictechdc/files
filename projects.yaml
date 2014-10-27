@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=2', contributions: 355,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=2', contributions: 375,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=2', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -59,27 +59,27 @@
     Section 8 housing applications using information collected via an online form. '
   forks: 27
   help_wanted: []
-  homepage: ''
+  homepage: http://districthousing.runningen.net/
   html_url: https://github.com/codefordc/dchousing-apps
   id: 10896437
   languages:
-  - [Ruby, 82094]
-  - [CSS, 11368]
+  - [Ruby, 82620]
+  - [CSS, 11187]
   - [Puppet, 5220]
-  - [CoffeeScript, 2339]
+  - [CoffeeScript, 1111]
   - [JavaScript, 663]
   main_language: Ruby
   name: Affordable Housing
-  open_issues: 14
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-14T00:33:49Z'
+  pushed_at: '2014-10-27T01:28:57Z'
   size: 20745
-  updated_at: '2014-10-09T00:50:15Z'
+  updated_at: '2014-10-27T02:24:17Z'
   watchers: 10
-- activity: [12, 1, 0, 1, 1, 19, 15, 0, 0, 0, 13, 2, 5, 12, 14, 2, 8, 7, 9, 4, 0,
-    9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0,
-    2, 3, 0, 1, 5]
+- activity: [13, 0, 0, 1, 11, 15, 9, 0, 0, 0, 13, 2, 7, 19, 5, 3, 8, 6, 12, 1, 0,
+    9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 6, 5, 1, 1, 0, 0, 0,
+    2, 3, 0, 4, 2]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -231,9 +231,9 @@
   size: 40024
   updated_at: '2014-06-11T23:44:12Z'
   watchers: 16
-- activity: [0, 0, 0, 0, 6, 3, 4, 1, 0, 0, 1, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0,
-    0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2,
-    3, 4, 2]
+- activity: [0, 0, 0, 0, 6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0,
+    0, 3, 6, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 8, 12, 8, 2,
+    3, 6, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -341,8 +341,8 @@
   updated_at: '2014-09-26T20:31:51Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 6, 3, 2, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 6, 4, 5, 1, 1, 2, 4, 1,
-    0, 2, 4]
+    0, 0, 0, 0, 0, 6, 3, 3, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 5, 1, 1, 2, 4, 1,
+    0, 3, 3]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -508,8 +508,8 @@
   size: 9616
   updated_at: '2014-04-18T15:18:06Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3, 0, 2, 0, 1,
-    0, 1, 0, 3, 6, 5, 3, 7, 3, 1, 0, 2, 0, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3, 1, 1, 0, 1,
+    0, 1, 0, 3, 7, 4, 3, 7, 3, 1, 0, 2, 0, 0, 0, 4, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -573,8 +573,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 1, 2, 0, 37, 6, 7, 0, 14, 10, 19,
-    6, 11, 12, 2]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16,
+    8, 6, 13, 1]
   civic_json:
     bornAt: Code for DC
     categories:

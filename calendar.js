@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1410303623000, 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1411918617000, 
@@ -275,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1404748918000, 
@@ -353,7 +353,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1407622606000, 
@@ -627,6 +627,46 @@ calendar({
             "yes_rsvp_count": 129
         }, 
         {
+            "created": 1414371914000, 
+            "description": "<p>For our November Meetup, we're thrilled to have three speakers on one of the most prominent domains for Data Science innovation -- Marketing. From politics to products, predictive models have been fundamental for a number of years in identifying what to sell, how to sell it, and who to sell it to. Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand will talk about how to incorporate unstructured social media data into models of customer feedback. <b>David Young</b> from MarketShare will overview challenges and best practices for Marketing Mix Modeling, optimizing the allocation of dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling, showing how you can estimate the impact of outreach to individual people. Whether you work in the field or not, these talks will provide practical insights into working with the complex, noisy data of real people making real decisions.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\">NewBrand</a>, a social media monitoring and online reputation management tool that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b> Incorporating unstructured data directly into your feature set can improve predictive power of a model, sometimes significantly. However, there are some inherent challenges in doing so that can confound even the most statistically sophisticated. I'll walk through a couple basic approaches that can be used to do this, techniques to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\u00a0Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>, the Marketing Mix Modeling vendor ranked highest in the industry by Forester Research in both of their latest 2011 and 2013 industry studies. Previously David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis, Marketing Mix Modeling aims to parse out the incremental impacts of all advertising channels and non-media influences on sales, and optimize marketing budgets according to which marginal investments offer the highest returns. \u00a0Technically this offers several challenges since the optimization requires estimates for all medias. \u00a0That requirement implies that correlated variables cannot be excluded and that the magnitudes of individual coefficients are as, or more important, than predictive accuracy. \u00a0 The talk will cover a few of the unique technical challenges encountered in MMM and how they can be addressed, as well as the basic value proposition of the analysis.</p> <p><b>Dan Porter</b>\u00a0</p> <p>(bio and abstract pending)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/215796952/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "215796952", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Science and Marketing", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1416526200000, 
+            "updated": 1414376782000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1379643162000, 
             "description": "<p>This November, we've got our first ever hardware hacking talk, as a member shows us how she built an Adafruit bracelet. Then, we'll see how the data in a spreadsheet becomes a map that illustrates an important social topic.</p> <p>Catherine Dodge will present on how she made a bracelet out of Adafruit NeoPixel rings. More info soon!</p> <p><a href=\"http://shannonvturner.com/\">Shannon Turner</a>\u00a0is a software developer and founder of\u00a0<a href=\"http://hearmecode.com/\">Hear Me Code</a>, offering free, beginner-friendly coding classes for women in the DC area. In her spare time she creates projects like\u00a0<a href=\"http://shutthatdown.com/\">Shut That Down</a>\u00a0and serves as a mentor with\u00a0<a href=\"http://www.codeforprogress.org/\">Code for Progress</a>. She writes about her presentation: \"<i>Seriously?! is a map of nearly 500 colleges and universities that reported having zero sexual assaults over a three-year period.\u00a0 I'll show you how I created the map from concept to completion.\"</i></p> <p>As always, we gather around 6:30 over pizza from our generous sponsor, Excella Consulting. We'll kick it off with intros and announcements a little after 7. See you there!</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/", 
@@ -690,7 +730,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1412599788000, 

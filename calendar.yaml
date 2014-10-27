@@ -45,7 +45,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 other:
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
@@ -105,7 +105,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -223,7 +223,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -385,7 +385,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 66
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -459,7 +459,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 44
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -788,6 +788,73 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 129
+- created: 1414371914000
+  description: "<p>For our November Meetup, we're thrilled to have three speakers\
+    \ on one of the most prominent domains for Data Science innovation -- Marketing.\
+    \ From politics to products, predictive models have been fundamental for a number\
+    \ of years in identifying what to sell, how to sell it, and who to sell it to.\
+    \ Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand\
+    \ will talk about how to incorporate unstructured social media data into models\
+    \ of customer feedback. <b>David Young</b> from MarketShare will overview challenges\
+    \ and best practices for Marketing Mix Modeling, optimizing the allocation of\
+    \ dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling,\
+    \ showing how you can estimate the impact of outreach to individual people. Whether\
+    \ you work in the field or not, these talks will provide practical insights into\
+    \ working with the complex, noisy data of real people making real decisions.</p>\
+    \ <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking, Empenadas, and Refreshments</p>\
+    \ <p>\u2022\_7:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\_\
+    7:15pm -- Presentation and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_\
+    2036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist\
+    \ for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\"\
+    >NewBrand</a>, a social media monitoring and online reputation management tool\
+    \ that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b>\
+    \ Incorporating unstructured data directly into your feature set can improve predictive\
+    \ power of a model, sometimes significantly. However, there are some inherent\
+    \ challenges in doing so that can confound even the most statistically sophisticated.\
+    \ I'll walk through a couple basic approaches that can be used to do this, techniques\
+    \ to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\_\
+    Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>,\
+    \ the Marketing Mix Modeling vendor ranked highest in the industry by Forester\
+    \ Research in both of their latest 2011 and 2013 industry studies. Previously\
+    \ David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and\
+    \ Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis,\
+    \ Marketing Mix Modeling aims to parse out the incremental impacts of all advertising\
+    \ channels and non-media influences on sales, and optimize marketing budgets according\
+    \ to which marginal investments offer the highest returns. \_Technically this\
+    \ offers several challenges since the optimization requires estimates for all\
+    \ medias. \_That requirement implies that correlated variables cannot be excluded\
+    \ and that the magnitudes of individual coefficients are as, or more important,\
+    \ than predictive accuracy. \_ The talk will cover a few of the unique technical\
+    \ challenges encountered in MMM and how they can be addressed, as well as the\
+    \ basic value proposition of the analysis.</p> <p><b>Dan Porter</b>\_</p> <p>(bio\
+    \ and abstract pending)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored\
+    \ by the\_<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department\
+    \ of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\_\
+    <a href=\"http://www.cloudera.com/\">Cloudera</a>,\_<a href=\"http://bit.ly/12YljkP\"\
+    >Statistics.com</a>,\_<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
+    >LivingSocial</a>,\_<a href=\"http://novetta.com/\">Novetta Solutions</a>,\_<a\
+    \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
+    >Five 9 Group</a>.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-DC/events/215796952/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '215796952'
+  maybe_rsvp_count: 0
+  name: Data Science and Marketing
+  rsvp_limit: 500
+  status: upcoming
+  time: 1416526200000
+  updated: 1414376782000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -857,7 +924,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
