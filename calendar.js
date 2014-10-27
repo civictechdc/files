@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1410303623000, 
@@ -114,7 +114,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1412028192000, 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1414101496000, 
@@ -275,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1404748918000, 
@@ -353,7 +353,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1407622606000, 
@@ -391,7 +391,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 24, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1412599759000, 
@@ -628,7 +628,7 @@ calendar({
         }, 
         {
             "created": 1414371914000, 
-            "description": "<p>For our November Meetup, we're thrilled to have three speakers on one of the most prominent domains for Data Science innovation -- Marketing. From politics to products, predictive models have been fundamental for a number of years in identifying what to sell, how to sell it, and who to sell it to. Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand will talk about how to incorporate unstructured social media data into models of customer feedback. <b>David Young</b> from MarketShare will overview challenges and best practices for Marketing Mix Modeling, optimizing the allocation of dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling, showing how you can estimate the impact of outreach to individual people. Whether you work in the field or not, these talks will provide practical insights into working with the complex, noisy data of real people making real decisions.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\">NewBrand</a>, a social media monitoring and online reputation management tool that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b> Incorporating unstructured data directly into your feature set can improve predictive power of a model, sometimes significantly. However, there are some inherent challenges in doing so that can confound even the most statistically sophisticated. I'll walk through a couple basic approaches that can be used to do this, techniques to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\u00a0Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>, the Marketing Mix Modeling vendor ranked highest in the industry by Forester Research in both of their latest 2011 and 2013 industry studies. Previously David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis, Marketing Mix Modeling aims to parse out the incremental impacts of all advertising channels and non-media influences on sales, and optimize marketing budgets according to which marginal investments offer the highest returns. \u00a0Technically this offers several challenges since the optimization requires estimates for all medias. \u00a0That requirement implies that correlated variables cannot be excluded and that the magnitudes of individual coefficients are as, or more important, than predictive accuracy. \u00a0 The talk will cover a few of the unique technical challenges encountered in MMM and how they can be addressed, as well as the basic value proposition of the analysis.</p> <p><b>Dan Porter</b>\u00a0</p> <p>(bio and abstract pending)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
+            "description": "<p>For our November Meetup, we're thrilled to have three speakers on one of the most prominent domains for Data Science innovation -- Marketing. From politics to products, predictive models have been fundamental for a number of years in identifying what to sell, how to sell it, and who to sell it to. Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand will talk about how to incorporate unstructured social media data into models of customer feedback. <b>David Young</b> from MarketShare will overview challenges and best practices for Marketing Mix Modeling, optimizing the allocation of dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling, showing how you can estimate the impact of outreach to individual people. Whether you work on marketing data or not, these talks will provide practical insights into working with the complex, noisy data of real people making real decisions.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\">NewBrand</a>, a social media monitoring and online reputation management tool that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b> Incorporating unstructured data directly into your feature set can improve predictive power of a model, sometimes significantly. However, there are some inherent challenges in doing so that can confound even the most statistically sophisticated. I'll walk through a couple basic approaches that can be used to do this, techniques to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\u00a0Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>, the Marketing Mix Modeling vendor ranked highest in the industry by Forester Research in both of their latest 2011 and 2013 industry studies. Previously David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis, Marketing Mix Modeling aims to parse out the incremental impacts of all advertising channels and non-media influences on sales, and optimize marketing budgets according to which marginal investments offer the highest returns. \u00a0Technically this offers several challenges since the optimization requires estimates for all medias. \u00a0That requirement implies that correlated variables cannot be excluded and that the magnitudes of individual coefficients are as, or more important, than predictive accuracy. \u00a0 The talk will cover a few of the unique technical challenges encountered in MMM and how they can be addressed, as well as the basic value proposition of the analysis.</p> <p><b>Daniel Porter</b> is a cofounder and head of the Analytics Practice at BlueLabs, a Washington DC based analytics, data and technology company formed by the lead practitioners from the Obama 2012 Analytics Team.\u00a0On the Obama campaign, Daniel was Director of Statistical Modeling, where he and his team developed individual level statistical models that were used throughout the campaign for fundraising, media buying and state strategy.\u00a0</p> <p><i>Abstract</i>: Marketing, political campaigning, and healthcare have one major thing in common: millions of per-person treatment decisions must be selected in order to drive positive outcomes.\u00a0Prior to President Obama's reelection campaign, standard practices for persuading voters\u2014that is, changing their minds\u2014were unscientific and driven by long-standing assumptions and hunches. This mirrors outreach efforts by other companies and organizations, which know that a certain percentage of their marketing efforts will inevitably be wasted on people who are not going to be receptive to it. Daniel will discuss his experience using the results from a large-scale randomized, controlled experiment to target persuadable voters for\u00a0political campaigns, as well as ways these cutting edge statistical modeling techniques can be applied to influencing behavior in realms ranging from health outcomes to customer retention.\u00a0</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/215796952/", 
             "group": {
@@ -648,7 +648,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1416526200000, 
-            "updated": 1414376782000, 
+            "updated": 1414419417000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -664,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1379643162000, 
@@ -691,7 +691,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1414121795000, 
@@ -730,7 +730,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1412599788000, 
@@ -966,7 +966,7 @@ calendar({
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022 <a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -987,7 +987,7 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1413387636000, 
+            "updated": 1414430142000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 

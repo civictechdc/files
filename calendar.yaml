@@ -105,7 +105,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -164,7 +164,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -340,7 +340,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -385,7 +385,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 70
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -459,7 +459,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -509,7 +509,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 24
   yes_rsvp_count: 60
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
@@ -569,7 +569,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 23
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -799,8 +799,8 @@ other:
     \ and best practices for Marketing Mix Modeling, optimizing the allocation of\
     \ dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling,\
     \ showing how you can estimate the impact of outreach to individual people. Whether\
-    \ you work in the field or not, these talks will provide practical insights into\
-    \ working with the complex, noisy data of real people making real decisions.</p>\
+    \ you work on marketing data or not, these talks will provide practical insights\
+    \ into working with the complex, noisy data of real people making real decisions.</p>\
     \ <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking, Empenadas, and Refreshments</p>\
     \ <p>\u2022\_7:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\_\
     7:15pm -- Presentation and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_\
@@ -826,12 +826,28 @@ other:
     \ and that the magnitudes of individual coefficients are as, or more important,\
     \ than predictive accuracy. \_ The talk will cover a few of the unique technical\
     \ challenges encountered in MMM and how they can be addressed, as well as the\
-    \ basic value proposition of the analysis.</p> <p><b>Dan Porter</b>\_</p> <p>(bio\
-    \ and abstract pending)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored\
-    \ by the\_<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department\
-    \ of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\_\
-    <a href=\"http://www.cloudera.com/\">Cloudera</a>,\_<a href=\"http://bit.ly/12YljkP\"\
-    >Statistics.com</a>,\_<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
+    \ basic value proposition of the analysis.</p> <p><b>Daniel Porter</b> is a cofounder\
+    \ and head of the Analytics Practice at BlueLabs, a Washington DC based analytics,\
+    \ data and technology company formed by the lead practitioners from the Obama\
+    \ 2012 Analytics Team.\_On the Obama campaign, Daniel was Director of Statistical\
+    \ Modeling, where he and his team developed individual level statistical models\
+    \ that were used throughout the campaign for fundraising, media buying and state\
+    \ strategy.\_</p> <p><i>Abstract</i>: Marketing, political campaigning, and healthcare\
+    \ have one major thing in common: millions of per-person treatment decisions must\
+    \ be selected in order to drive positive outcomes.\_Prior to President Obama's\
+    \ reelection campaign, standard practices for persuading voters\u2014that is,\
+    \ changing their minds\u2014were unscientific and driven by long-standing assumptions\
+    \ and hunches. This mirrors outreach efforts by other companies and organizations,\
+    \ which know that a certain percentage of their marketing efforts will inevitably\
+    \ be wasted on people who are not going to be receptive to it. Daniel will discuss\
+    \ his experience using the results from a large-scale randomized, controlled experiment\
+    \ to target persuadable voters for\_political campaigns, as well as ways these\
+    \ cutting edge statistical modeling techniques can be applied to influencing behavior\
+    \ in realms ranging from health outcomes to customer retention.\_</p> <p><b>Sponsors:</b></p>\
+    \ <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/decisionsciences/\"\
+    >GWU Department of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\"\
+    >Pearson/InformIT</a>,\_<a href=\"http://www.cloudera.com/\">Cloudera</a>,\_<a\
+    \ href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
     >LivingSocial</a>,\_<a href=\"http://novetta.com/\">Novetta Solutions</a>,\_<a\
     \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
     >Five 9 Group</a>.</p>"
@@ -847,14 +863,14 @@ other:
   rsvp_limit: 500
   status: upcoming
   time: 1416526200000
-  updated: 1414376782000
+  updated: 1414419417000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 130
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -886,7 +902,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 5
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -924,7 +940,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1104,8 +1120,10 @@ other:
     \ Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
     >RITIS</a>).</p> <p>\u2022\_Van Standifer will show us <a href=\"http://flexspot.co/\"\
     >Flexspot</a>, an app he developed in Georgetown University to create a market\
-    \ for private parking spaces.</p> <p><br/>Do you have an auto-centric app or data\
-    \ viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    \ for private parking spaces.</p> <p><br/>\u2022 <a href=\"https://www.parkingpanda.com/\"\
+    >ParkingPanda</a> will talk about their app that lets drivers\_reserve parking\
+    \ in advance.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up\
+    \ to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
     >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
     for \"Transportation Techies\" updates.</p>"
   duration: 10800000
@@ -1122,7 +1140,7 @@ other:
   rsvp_limit: 60
   status: upcoming
   time: 1420758000000
-  updated: 1413387636000
+  updated: 1414430142000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
