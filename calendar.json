@@ -36,50 +36,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 74
         }
     ], 
     "other": [
-        {
-            "created": 1412028192000, 
-            "description": "<p><b>Tonight's presentation/discussion topic:</b></p> <p><i>Mandy Moore would introduce us to <b><a href=\"http://foundation.zurb.com/\">Foundation</a></b> a CSS Framework and what she's learnt about it so far!\u00a0</i></p> <p>----------------------------------------------------------------</p> <p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210384012/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qhzfskysnbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1414449000000, 
-            "updated": 1414432045000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1630 Connecticut Ave NW 7th Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.912044999999999, 
-                "lon": -77.045258000000004, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
         {
             "created": 1410303623000, 
             "description": "<p>Recruiters notoriously spend an average of six seconds reviewing a resume. Technical recruiters also do not typically have technical training but rely on keywords and a very general understanding of software development to decide which candidates to move forward.\u00a0</p> <p>Sharing her perspective as a technical recruiter, Chelsea Cohen will discuss best-practices when it comes to creating a technical resume that will appeal to recruiters along with ways to make yourself more \"findable\" online.\u00a0</p> <p>We will go over resume content (including objectives/summaries and keywords) and format as well as social media/branding ideas to help you stand out as a rockstar developer to the non-technical \"technical\" recruiter.\u00a0</p> <p><b><br/></b></p> <p><b>About the teacher</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/d/f/2/600_408131762.jpeg\" /></p> <p>As the Founder of Synaptic Talent, LLC, Chelsea Cohen helps leading technology and finance firms enhance their technical workforce. She learned the tools of her trade first hiring quants for a New York City hedge fund and then recruiting software engineers for Google. She received her master's degree in Human Development and Psychology from the Harvard Graduate School of Education and loves combining her education and recruiting backgrounds whenever possible to help more women enter and flourish in tech and finance. Find out more about her business at\u00a0<a href=\"http://www.synaptictalent.com/\">SynapticTalent.com</a>, follow her on Twitter\u00a0<a href=\"http://www.twitter.com/synaptictalent\">@synaptictalent</a>, or connect with her on\u00a0<a href=\"https://www.linkedin.com/in/synaptictalent\">LinkedIn</a>.</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/f/c/6/600_408140422.jpeg\" /></p> <p><a href=\"http://www.google.com/about/\">Google</a> is graciously hosting us in their new DC office! \u00a0They are also generous enough to provide food &amp; drinks for attendees! \u00a0Please take a minute to send a huge thanks via <a href=\"http://twitter.com/google\">Twitter</a>\u00a0(@google),\u00a0<a href=\"https://plus.google.com/+google/\">G+</a>, or whatever your fave social media platform is to them for being awesome to us!\u00a0</p> <p>\n\n\n<b>Requirements</b></p> <p>Please bring your laptop and a copy of your resume to class! \u00a0We'll be working based off actual resumes to provide feedback. \u00a0</p> <p><b>Parking:</b></p> <p>There is nearby garage or street parking if you are driving. \u00a0Alternately, you can take the metro to the Union Station metro station on the red line. \u00a0The office is only a block and a half away.</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
@@ -153,7 +113,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1411918617000, 
@@ -236,7 +196,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1414101496000, 
@@ -275,7 +235,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1404748918000, 
@@ -313,7 +273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -508,7 +468,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1412436255000, 
@@ -548,7 +508,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1414444580000, 
@@ -702,7 +662,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 167
         }, 
         {
             "created": 1379643162000, 
@@ -729,7 +689,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1414121795000, 

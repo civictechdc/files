@@ -45,69 +45,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 74
 other:
-- created: 1412028192000
-  description: "<p><b>Tonight's presentation/discussion topic:</b></p> <p><i>Mandy\
-    \ Moore would introduce us to <b><a href=\"http://foundation.zurb.com/\">Foundation</a></b>\
-    \ a CSS Framework and what she's learnt about it so far!\_</i></p> <p>----------------------------------------------------------------</p>\
-    \ <p>Have you ever wondered how to add interactive behavior to an otherwise bland,\
-    \ static HTML CSS page? It is now time to take your webpage a step ahead with\
-    \ JavaScript!</p> <p>We're a group of women who want to learn JavaScript together.\
-    \ The study group is intended for everyone who wishes to learn JavaScript programming\
-    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
-    \ CSS, and since there is no prior installation required, JavaScript is hassle\
-    \ free to get started with and fun to create something that\u2019s easy to share\
-    \ with friends. If you already know JavaScript, this can be a great platform for\
-    \ you to get together with fellow developers and hone your skills. If you're advanced,\
-    \ we'd love for you to come and help others learn more.</p> <p>JavaScript Study\
-    \ Groups are relaxed and informal, so it doesn't matter if you are a fast or slow\
-    \ learner, or if you attend every week. It is a great platform for you to be able\
-    \ to work and play together, while providing each other with ongoing support and\
-    \ feedback.\_</p> <p>There's always at least one mentor present to help you with\
-    \ best practices or guide you through if you are stuck with a nasty problem!</p>\
-    \ <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
-    \ class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p>\
-    \ <p><b>Want to be a JavaScript Study Group leader?\_</b></p> <p>If you are passionate\
-    \ about learning JavaScript with fellow awesome women and want to help us, come\
-    \ on out! \_Shoot me a message or mail me and let me know that you are interested\
-    \ in helping us with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These\
-    \ are the resources that members have been following along, feel free to suggest\
-    \ if you have more to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
-    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
-    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
-    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
-    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
-    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
-    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
-    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
-    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/210384012/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: qhzfskysnbkc
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 40
-  status: upcoming
-  time: 1414449000000
-  updated: 1414432045000
-  utc_offset: -14400000
-  venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
-    id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
-    repinned: false, state: DC, zip: '20009'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 32
 - created: 1410303623000
   description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
     \ a resume. Technical recruiters also do not typically have technical training\
@@ -225,7 +164,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1411918617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -342,7 +281,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -387,7 +326,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 77
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -417,7 +356,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 21
 - created: 1326383071000
   description: "<p>Recent local and regional executive orders require the implementation\
     \ of technology and policy that deliver open data to be released to the public.\
@@ -622,7 +561,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -679,7 +618,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 84
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -900,7 +839,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 157
+  yes_rsvp_count: 167
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -941,7 +880,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 20
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
