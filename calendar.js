@@ -36,13 +36,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }
     ], 
     "other": [
         {
             "created": 1412028192000, 
-            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+            "description": "<p><b>Tonight's presentation/discussion topic:</b></p> <p><i>Mandy Moore would introduce us to <b><a href=\"http://foundation.zurb.com/\">Foundation</a></b> a CSS Framework and what she's learnt about it so far!\u00a0</i></p> <p>----------------------------------------------------------------</p> <p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/210384012/", 
             "group": {
@@ -62,7 +62,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1414449000000, 
-            "updated": 1413999274000, 
+            "updated": 1414432045000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1630 Connecticut Ave NW 7th Floor", 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1410303623000, 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1411918617000, 
@@ -275,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1404748918000, 
@@ -353,7 +353,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1407622606000, 
@@ -551,6 +551,44 @@ calendar({
             "yes_rsvp_count": 85
         }, 
         {
+            "created": 1414444580000, 
+            "description": "<p>I'd like to experiment with doing an online class, especially as the weather starts to get rough. I am a delicate Southern flower and do not tolerate snow well.</p> <p><br/>I'm going to try to do this via Hangouts on Air. This means that I won't be able to see anyone else's screen, but you'll be able to see mine. You'll also be able to send me questions via the Q+A app.</p> <p>It'll be a learning experience for us all.</p> <p><br/>This will be a basic Intro to Python course. I'll send out install instructions before the class date. Because I can't see your screen, I'll need everyone to try to get Python installed before the class starts. That way, if you have issues, one of us can help you out.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/215982522/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "215982522", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Python in your PJ's!", 
+            "status": "upcoming", 
+            "time": 1416061800000, 
+            "updated": 1414444580000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "All RSVP'ers will be invited and sent the Google Hangout link.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 14858682, 
+                "lat": 38.907229999999998, 
+                "lon": -77.036461000000003, 
+                "name": "Google Hangout", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1412028192000, 
             "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
@@ -664,11 +702,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 157
         }, 
         {
             "created": 1379643162000, 
-            "description": "<p>This November, we've got our first ever hardware hacking talk, as a member shows us how she built an Adafruit bracelet. Then, we'll see how the data in a spreadsheet becomes a map that illustrates an important social topic.</p> <p>Catherine Dodge will present on how she made a bracelet out of Adafruit NeoPixel rings. More info soon!</p> <p><a href=\"http://shannonvturner.com/\">Shannon Turner</a>\u00a0is a software developer and founder of\u00a0<a href=\"http://hearmecode.com/\">Hear Me Code</a>, offering free, beginner-friendly coding classes for women in the DC area. In her spare time she creates projects like\u00a0<a href=\"http://shutthatdown.com/\">Shut That Down</a>\u00a0and serves as a mentor with\u00a0<a href=\"http://www.codeforprogress.org/\">Code for Progress</a>. She writes about her presentation: \"<i>Seriously?! is a map of nearly 500 colleges and universities that reported having zero sexual assaults over a three-year period.\u00a0 I'll show you how I created the map from concept to completion.\"</i></p> <p>As always, we gather around 6:30 over pizza from our generous sponsor, Excella Consulting. We'll kick it off with intros and announcements a little after 7. See you there!</p>", 
+            "description": "<p>This November, we've got our first ever hardware hacking talk, as a member shows us how she built an Adafruit bracelet. Then, we'll see how the data in a spreadsheet becomes a map that illustrates an important social topic.</p> <p>First, Catherine Dodge will present on how she made a bracelet out of Adafruit NeoPixel rings. She explains her project with her daughter: <i>\"As a programmer who was getting a bit bored by programming, I resolved that in the New Year I would learn to solder. Wires and hot metal, what's not to like? I headed over to the Adafruit website which is teeming with fun, wearable electronics projects. And made the mistake of promising my six year old daughter I would make her any project she chose, to go with her Halloweeen costume. Deadline established, could I hit it?\u00a0 Follow our journey from Arduino to Amazon to Adafruit as we learned to glue and solder and hack and sketch our way to a light-up bracelet!\u00a0 Bring your laptop if you'd like to get started with the Adafruit development environment, we'll walk through setup.\"</i></p> <p><a href=\"http://shannonvturner.com/\">Shannon Turner</a>\u00a0is a software developer and founder of\u00a0<a href=\"http://hearmecode.com/\">Hear Me Code</a>, offering free, beginner-friendly coding classes for women in the DC area. In her spare time she creates projects like\u00a0<a href=\"http://shutthatdown.com/\">Shut That Down</a>\u00a0and serves as a mentor with\u00a0<a href=\"http://www.codeforprogress.org/\">Code for Progress</a>. She writes about her presentation: \"<i>Seriously?! is a map of nearly 500 colleges and universities that reported having zero sexual assaults over a three-year period.\u00a0 I'll show you how I created the map from concept to completion.\"</i></p> <p>As always, we gather around 6:30 over pizza from our generous sponsor, Excella Consulting. We'll kick it off with intros and announcements a little after 7. See you there!</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/", 
             "group": {
                 "created": 1378482158000, 
@@ -687,11 +725,11 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1416526200000, 
-            "updated": 1414164733000, 
+            "updated": 1414447786000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1414121795000, 
@@ -730,7 +768,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1412599788000, 
@@ -1030,7 +1068,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1413740084000, 
