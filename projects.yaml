@@ -70,7 +70,7 @@
   - [JavaScript, 663]
   main_language: Ruby
   name: Affordable Housing
-  open_issues: 12
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-10-27T01:28:57Z'
@@ -99,7 +99,7 @@
     thumbnailUrl: http://ancfinder.org/static/img/favicon.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 222,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=2', contributions: 224,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 107,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -145,21 +145,21 @@
   html_url: https://github.com/codefordc/ancfinder
   id: 8715969
   languages:
-  - [Python, 82640]
+  - [Python, 82747]
   - [CSS, 11429]
   - [Shell, 4622]
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 36
+  open_issues: 37
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-20T19:00:37Z'
+  pushed_at: '2014-10-29T00:26:55Z'
   size: 73717
   updated_at: '2014-10-15T03:07:08Z'
   watchers: 26
-- activity: [0, 0, 0, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
-    0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 1, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -387,9 +387,9 @@
   size: 2349
   updated_at: '2014-09-26T20:32:06Z'
   watchers: 5
-- activity: [6, 6, 6, 7, 5, 7, 7, 6, 1, 0, 4, 5, 7, 10, 6, 3, 5, 6, 4, 5, 6, 6, 4,
-    6, 5, 7, 5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6, 5, 5, 5, 5, 3, 5, 7, 6, 6,
-    6, 5, 10]
+- activity: [5, 7, 6, 7, 5, 7, 7, 5, 0, 1, 4, 6, 7, 10, 5, 3, 6, 6, 4, 5, 6, 4, 6,
+    6, 5, 7, 4, 6, 7, 4, 5, 7, 32, 6, 6, 4, 5, 5, 8, 6, 6, 3, 7, 3, 5, 5, 7, 6, 6,
+    5, 7, 9]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 375,
@@ -451,8 +451,8 @@
   updated_at: '2014-08-01T20:47:07Z'
   watchers: 1
 - activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1,
-    5, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 8, 9, 5, 12, 0, 10, 4,
+    1, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=2', contributions: 281,
@@ -481,7 +481,7 @@
   size: 10140
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
-- activity: [0, 5, 6, 0, 7, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 7, 4, 2, 5, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -593,7 +593,7 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 110,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=2', contributions: 113,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=2', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
@@ -617,7 +617,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 16435]
+  - [Python, 22048]
   - [CSS, 5195]
   - [JavaScript, 658]
   main_language: Python
@@ -625,7 +625,7 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-20T20:28:58Z'
+  pushed_at: '2014-10-28T21:33:12Z'
   size: 23279
   updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
