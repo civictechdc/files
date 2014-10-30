@@ -58,7 +58,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -152,7 +152,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
     \ schedule multi-day events, so keep in mind that this Meetup event serves as\
@@ -279,7 +279,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 85
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -353,7 +353,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -571,7 +571,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -599,7 +599,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -710,6 +710,37 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 131
+- created: 1414011250000
+  description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
+    \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
+    ll talk about the story boarding process and how spatial narratives are bridging\
+    \ the gap between GIS and your community.\_Esri Story Maps are both open source\
+    \ and public facing while enabling anyone to create sleek geographically focused\
+    \ narratives on the web. By the time you leave you\u2019ll have made two different\
+    \ types of story maps!\_</p> <p>If you already have an ArcGIS Online account personal\
+    \ or organizational great! If not, and to get a jump start on this event head\
+    \ to the site below and sign up for a free online account here;</p> <p><a href=\"\
+    https://www.arcgis.com/home/createaccount.html\"><a href=\"https://www.arcgis.com/home/createaccount.html\"\
+    \ class=\"linkified\">https://www.arcgis.com/home/createaccount.html</a></a></p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/215039132/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  how_to_find_us: http://dc.esri.com/
+  id: '215039132'
+  maybe_rsvp_count: 0
+  name: 'Maptime: ESRI StoryMaps'
+  status: upcoming
+  time: 1416353400000
+  updated: 1414684598000
+  utc_offset: -18000000
+  venue: {address_1: '1001 19th St. North, Suite 910', city: Arlington, country: us,
+    id: 23139382, lat: 38.897305000000003, lon: -77.069229000000007, name: ESRI DC
+      Dev Center, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -792,7 +823,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 205
+  yes_rsvp_count: 212
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
