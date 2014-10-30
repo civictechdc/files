@@ -196,7 +196,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1404748918000, 
@@ -469,7 +469,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1414444580000, 
@@ -623,7 +623,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 202
+            "yes_rsvp_count": 205
         }, 
         {
             "created": 1379643162000, 
@@ -809,7 +809,7 @@
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
+            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool <a href=\"http://www.capitalbikeshare.com/\">CaBi</a> project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>.</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research in progress on how bikeshare station popularity is connected to the accessibility of the stations to things such as residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -828,7 +828,7 @@
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1414029844000, 
+            "updated": 1414640800000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
