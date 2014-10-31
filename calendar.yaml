@@ -58,7 +58,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -152,7 +152,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
     \ schedule multi-day events, so keep in mind that this Meetup event serves as\
@@ -357,34 +357,36 @@ other:
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
-    \ start at 6:30.\_Our two lead speakers are both from New York City:</p> <p>\u2022\
-    \_\_<a href=\"http://tedullrich.com/\">Ted\_Ullrich</a>\_of\_<a href=\"http://tomorrow-lab.com/\"\
-    >Tomorrow Lab</a>\_in New York City will show us the\_<a href=\"http://waycount.com/\"\
-    >WayCount</a>\_device, which can be used to crowdsource bike traffic count data.</p>\
-    \ <p>\u2022\_<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\_will talk\
-    \ about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup\
-    \ of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\
-    \_Betsy\_Emmons will show her animated\_<a href=\"http://mapstory.org/maps/1736/\"\
-    >MapStory</a>\_on the history of bike lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis\
-    \ of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\_will talk about how\
-    \ we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\_\
-    Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\"\
-    >mobile app</a>.</p> <p><br/>\u2022\_<a href=\"http://www.bikearlington.com/\"\
-    >BikeArlington</a> will show us their upcoming app for creating a crowd-sourced\
-    \ map of bike racks.\_</p> <p>\u2022\_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\"\
-    >Virginia Tech Transportation Institute</a>\_will talk about bicycles and the\
-    \ future of connected vehicles.</p> <p><br/>\u2022\_Ola G\xF6ransson from the\_\
-    <a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of\
-    \ Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\">H\xF6vding</a>\_\
-    \"invisible\" helmet.\_</p> <p>\u2022\_Patrick Madden from WAMU will talk about\
-    \ his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
-    >Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\
-    \ new bike counter on the Metropolitan Branch Trail.\_</p> <p>If you have a bike-related\
-    \ app or data visualization that's creative and local, we want to see it!</p>\
-    \ <p>Please note in the event the location gets changed, we will post it here\
-    \ and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\_<a href=\"\
-    http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
+    \ start at 6:30. Because we want as many people as we can fit to join us, the\
+    \ room will be configured without the normal tables, and the back part of the\
+    \ room will be for those standing.</p> <p>Our two lead speakers are both from\
+    \ New York City:</p> <p>\u2022\_\_<a href=\"http://tedullrich.com/\">Ted\_Ullrich</a>\_\
+    of\_<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\_in New York City will\
+    \ show us the\_<a href=\"http://waycount.com/\">WayCount</a>\_device, which can\
+    \ be used to crowdsource bike traffic count data.</p> <p>\u2022\_<a href=\"http://socialbicycles.com/\"\
+    >SocialBicycles</a>\_will talk about their model of dockless bikesharing.</p>\
+    \ <p><br/>And we have a great lineup of locals who'll be giving lightning talks\
+    \ on bikes + technology:</p> <p>\u2022\_Betsy\_Emmons will show her animated\_\
+    <a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\_on the history of bike\
+    \ lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis of <a href=\"http://dcbikeparty.com/\"\
+    >DC Bike Party</a>\_will talk about how we GPS-tracked a big bike ride and made\
+    \ an animation of it.</p> <p>\u2022\_Shane Farthing of WABA will demo their <a\
+    \ href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\_\
+    <a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their\
+    \ upcoming app for creating a crowd-sourced map of bike racks.\_</p> <p>\u2022\
+    \_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
+    \ Institute</a>\_will talk about bicycles and the future of connected vehicles.</p>\
+    \ <p><br/>\u2022\_Ola G\xF6ransson from the\_<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\"\
+    >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
+    >H\xF6vding</a>\_\"invisible\" helmet.\_</p> <p>\u2022\_Patrick Madden from WAMU\
+    \ will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"\
+    https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"\
+    http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\_\
+    </p> <p>If you have a bike-related app or data visualization that's creative and\
+    \ local, we want to see it!</p> <p>Please note in the event the location gets\
+    \ changed, we will post it here and send out an email to all members. Follow <a\
+    \ href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read\
+    \ about the last Bike Hack Night:\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200015252/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -394,17 +396,17 @@ other:
   id: '200015252'
   maybe_rsvp_count: 0
   name: Bike Hack Night II
-  rsvp_limit: 60
+  rsvp_limit: 70
   status: upcoming
   time: 1415314800000
-  updated: 1414074486000
+  updated: 1414704412000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 29
-  yes_rsvp_count: 60
+  waitlist_count: 20
+  yes_rsvp_count: 70
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -492,11 +494,11 @@ other:
     \ is better on a fall evening than warm pizza, good beer, and interesting conversations\
     \ with new people. \_See you soon! \_</p> <p>6:00pm - 6:30pm Food, drinks and\
     \ networking\_<br/>6:40pm - 6:50pm Introductions and Announcements\_<br/>6:50pm\
-    \ - 8:00pm Presentations</p> <p>* Anthea Watson - Google\_\_<br/>* Matt Grasmick,\
-    \ Damian Danchenko - Department of Justice\_<br/>* Max Katz - Appery.io<br/>*\
-    \ Lindsay Hunt, Shawn Johnson - Regulations.gov\_</p> <p>7:55pm - 8:00pm Refill\
-    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
-    \ Networking</p>"
+    \ - 8:00pm Presentations</p> <p>* Erik Arnold, Greg Gershman - General Services\
+    \ Administration, Ad Hoc LLC<br/>* Matt Grasmick, Damian Danchenko - Department\
+    \ of Justice\_<br/>* Max Katz - Appery.io<br/>* Lindsay Hunt, Shawn Johnson -\
+    \ Regulations.gov\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm -\
+    \ 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/215031462/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -507,14 +509,14 @@ other:
   name: DC API User Group - November Edition
   status: upcoming
   time: 1415833200000
-  updated: 1414008625000
+  updated: 1414703967000
   utc_offset: -18000000
   venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
     id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 47
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -571,7 +573,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -599,7 +601,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -740,7 +742,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 24
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -823,7 +825,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 212
+  yes_rsvp_count: 218
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -864,7 +866,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -902,7 +904,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/

@@ -35,7 +35,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1412028192000, 
@@ -112,7 +112,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1413939270000, 
@@ -278,7 +278,7 @@
         }, 
         {
             "created": 1407622606000, 
-            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
             "group": {
                 "created": 1384372275000, 
@@ -294,10 +294,10 @@
             "id": "200015252", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night II", 
-            "rsvp_limit": 60, 
+            "rsvp_limit": 70, 
             "status": "upcoming", 
             "time": 1415314800000, 
-            "updated": 1414074486000, 
+            "updated": 1414704412000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -312,8 +312,8 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 29, 
-            "yes_rsvp_count": 60
+            "waitlist_count": 20, 
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1412028192000, 
@@ -395,7 +395,7 @@
         }, 
         {
             "created": 1414008625000, 
-            "description": "<p>As the weather gets colder and the leaves start to fall, there's nothing better to gather around than the warm flames of APIs, making the world and our lives better and more productive. \u00a0Go ahead and mark your calendars now for this next meetup. \u00a0We've got a great group of presenters and nothing is better on a fall evening than warm pizza, good beer, and interesting conversations with new people. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Anthea Watson - Google\u00a0\u00a0<br/>* Matt Grasmick, Damian Danchenko - Department of Justice\u00a0<br/>* Max Katz - Appery.io<br/>* Lindsay Hunt, Shawn Johnson - Regulations.gov\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>As the weather gets colder and the leaves start to fall, there's nothing better to gather around than the warm flames of APIs, making the world and our lives better and more productive. \u00a0Go ahead and mark your calendars now for this next meetup. \u00a0We've got a great group of presenters and nothing is better on a fall evening than warm pizza, good beer, and interesting conversations with new people. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Erik Arnold, Greg Gershman - General Services Administration, Ad Hoc LLC<br/>* Matt Grasmick, Damian Danchenko - Department of Justice\u00a0<br/>* Max Katz - Appery.io<br/>* Lindsay Hunt, Shawn Johnson - Regulations.gov\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/215031462/", 
             "group": {
                 "created": 1347647025000, 
@@ -413,7 +413,7 @@
             "name": "DC API User Group - November Edition", 
             "status": "upcoming", 
             "time": 1415833200000, 
-            "updated": 1414008625000, 
+            "updated": 1414703967000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1900 M Street, NW - 3rd floor", 
@@ -429,7 +429,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1412436255000, 
@@ -469,7 +469,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1414444580000, 
@@ -507,7 +507,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1412028192000, 
@@ -621,7 +621,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1414371914000, 
@@ -661,7 +661,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 212
+            "yes_rsvp_count": 218
         }, 
         {
             "created": 1379643162000, 
@@ -688,7 +688,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1414121795000, 
@@ -727,7 +727,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1412599788000, 
