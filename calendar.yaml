@@ -93,7 +93,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
     \ schedule multi-day events, so keep in mind that this Meetup event serves as\
@@ -220,7 +220,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 96
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -243,11 +243,11 @@ other:
   name: '#LegalHack Standards Organizations'
   status: upcoming
   time: 1415232000000
-  updated: 1413427790000
+  updated: 1414773793000
   utc_offset: -18000000
-  venue: {address_1: 600 New Jersey Avenue NW, city: Washington, country: us, id: 19547872,
-    lat: 38.898173999999997, lon: -77.012237999999996, name: Georgetown Law, repinned: false,
-    state: DC}
+  venue: {address_1: '4801 Massachusetts Avenue, NW', city: Washington, country: us,
+    id: 23304322, lat: 38.945076, lon: -77.094879000000006, name: American University
+      Washington College of Law Rm 504, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 21
@@ -294,7 +294,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 60
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -652,7 +652,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 132
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -683,7 +683,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -766,7 +766,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 218
+  yes_rsvp_count: 222
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -807,7 +807,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -845,7 +845,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/

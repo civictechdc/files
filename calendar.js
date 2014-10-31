@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1413939270000, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1404748918000, 
@@ -183,16 +183,16 @@ calendar({
             "name": "#LegalHack Standards Organizations", 
             "status": "upcoming", 
             "time": 1415232000000, 
-            "updated": 1413427790000, 
+            "updated": 1414773793000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "600 New Jersey Avenue NW", 
+                "address_1": "4801 Massachusetts Avenue, NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 19547872, 
-                "lat": 38.898173999999997, 
-                "lon": -77.012237999999996, 
-                "name": "Georgetown Law", 
+                "id": 23304322, 
+                "lat": 38.945076, 
+                "lon": -77.094879000000006, 
+                "name": "American University Washington College of Law Rm 504", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -238,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1407622606000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1414011250000, 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1414371914000, 
@@ -625,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 218
+            "yes_rsvp_count": 222
         }, 
         {
             "created": 1379643162000, 
@@ -652,7 +652,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1414121795000, 
@@ -691,7 +691,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1412599788000, 
