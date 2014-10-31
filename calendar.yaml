@@ -1,64 +1,5 @@
 codefordc: []
 other:
-- created: 1410303623000
-  description: "<p>Recruiters notoriously spend an average of six seconds reviewing\
-    \ a resume. Technical recruiters also do not typically have technical training\
-    \ but rely on keywords and a very general understanding of software development\
-    \ to decide which candidates to move forward.\_</p> <p>Sharing her perspective\
-    \ as a technical recruiter, Chelsea Cohen will discuss best-practices when it\
-    \ comes to creating a technical resume that will appeal to recruiters along with\
-    \ ways to make yourself more \"findable\" online.\_</p> <p>We will go over resume\
-    \ content (including objectives/summaries and keywords) and format as well as\
-    \ social media/branding ideas to help you stand out as a rockstar developer to\
-    \ the non-technical \"technical\" recruiter.\_</p> <p><b><br/></b></p> <p><b>About\
-    \ the teacher</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/d/f/2/600_408131762.jpeg\"\
-    \ /></p> <p>As the Founder of Synaptic Talent, LLC, Chelsea Cohen helps leading\
-    \ technology and finance firms enhance their technical workforce. She learned\
-    \ the tools of her trade first hiring quants for a New York City hedge fund and\
-    \ then recruiting software engineers for Google. She received her master's degree\
-    \ in Human Development and Psychology from the Harvard Graduate School of Education\
-    \ and loves combining her education and recruiting backgrounds whenever possible\
-    \ to help more women enter and flourish in tech and finance. Find out more about\
-    \ her business at\_<a href=\"http://www.synaptictalent.com/\">SynapticTalent.com</a>,\
-    \ follow her on Twitter\_<a href=\"http://www.twitter.com/synaptictalent\">@synaptictalent</a>,\
-    \ or connect with her on\_<a href=\"https://www.linkedin.com/in/synaptictalent\"\
-    >LinkedIn</a>.</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/f/c/6/600_408140422.jpeg\"\
-    \ /></p> <p><a href=\"http://www.google.com/about/\">Google</a> is graciously\
-    \ hosting us in their new DC office! \_They are also generous enough to provide\
-    \ food &amp; drinks for attendees! \_Please take a minute to send a huge thanks\
-    \ via <a href=\"http://twitter.com/google\">Twitter</a>\_(@google),\_<a href=\"\
-    https://plus.google.com/+google/\">G+</a>, or whatever your fave social media\
-    \ platform is to them for being awesome to us!\_</p> <p>\n\n\n<b>Requirements</b></p>\
-    \ <p>Please bring your laptop and a copy of your resume to class! \_We'll be working\
-    \ based off actual resumes to provide feedback. \_</p> <p><b>Parking:</b></p>\
-    \ <p>There is nearby garage or street parking if you are driving. \_Alternately,\
-    \ you can take the metro to the Union Station metro station on the red line. \_\
-    The office is only a block and a half away.</p> <p>\n\n\n<b>Refund Policy:\_</b>Your\
-    \ payment guarantees your seat in the course. If something changes after registration\
-    \ and you cannot attend the course, your seat is yours to sell or give to someone\
-    \ else - just please let us know who! \_As a rule we don't offer refunds or credits;\
-    \ \_Instead your class fee will go toward our chapter fund which we will use to\
-    \ establish a scholarship fund going forward. \_ That said, please do reach out\
-    \ and let us know if you have extenuating circumstances.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/206263262/
-  fee: {accepts: amazon, amount: 24, currency: USD, description: per person, label: Price,
-    required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '206263262'
-  maybe_rsvp_count: 0
-  name: Tech Resume Writing Workshop
-  rsvp_limit: 31
-  status: upcoming
-  time: 1414708200000
-  updated: 1410363207000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 18
 - created: 1412028192000
   description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
     \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
@@ -279,7 +220,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 89
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -353,7 +294,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -742,7 +683,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -904,7 +845,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
