@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1411918617000, 
@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1413939270000, 
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1414101496000, 
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1404748918000, 
@@ -238,7 +238,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1407622606000, 
@@ -258,10 +258,10 @@
             "id": "200015252", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night II", 
-            "rsvp_limit": 70, 
+            "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1415314800000, 
-            "updated": 1414704412000, 
+            "updated": 1415031754000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -276,8 +276,8 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
-            "yes_rsvp_count": 70
+            "waitlist_count": 13, 
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1412028192000, 
@@ -393,7 +393,55 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
+        }, 
+        {
+            "created": 1415032769000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217354782/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblyspbqb", 
+            "maybe_rsvp_count": 0, 
+            "name": "\"One Month Rails\": Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1415833200000, 
+            "updated": 1415033482000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1412436255000, 
@@ -547,7 +595,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1414011250000, 
@@ -585,7 +633,54 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
+        }, 
+        {
+            "created": 1415033293000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217356532/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblyspbzb", 
+            "maybe_rsvp_count": 0, 
+            "name": "One Month Rails: Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1416438000000, 
+            "updated": 1415033293000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1414371914000, 
@@ -625,7 +720,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 240
+            "yes_rsvp_count": 242
         }, 
         {
             "created": 1379643162000, 
@@ -691,7 +786,128 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
+        }, 
+        {
+            "created": 1415033293000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblyspbjc/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblyspbjc", 
+            "maybe_rsvp_count": 0, 
+            "name": "One Month Rails: Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1417042800000, 
+            "updated": 1415033293000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1415033293000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbfb/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblysqbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "One Month Rails: Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1417647600000, 
+            "updated": 1415033293000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1415028866000, 
+            "description": "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending, but</i><i>\u00a0you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Tech The Halls Eventbrite page found here</a>. \u00a0</i><i>If you do not have an Eventbrite ticket, you are not registered for the event. \u00a0Make sure to use promo code\u00a0<b>DCFTTTH15</b> for <b>15% off!</b></i><i>**</i><b>\u00a0</b></p> <p><br/><b><br/></b></p> <p><b>Come in from the cold, grab a drink and kick off the holiday season with a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0<b>Wednesday, December 3rd</b>\u00a0for the 3rd annual <b>DC Web Women's Tech The Halls 2014 Holiday Party</b>\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>! \u00a0</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0<b>DCWW, Girl Develop It DC, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech, NAMDE</b>\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p><i><b>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</b></i></p> <p><i>As always, men are encouraged to attend any DCWW event!</i></p> <p>Twitter hashtag:\u00a0<b>#techthehalls2014</b></p> <p><b>Interested in sponsoring Tech The Halls? please contact us at [masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit our sponsorships page</a>.</b></p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>\n\n\n<i>**Last day to receive a refund is\u00a0Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/217339452/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "217339452", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech The Halls 2014", 
+            "status": "upcoming", 
+            "time": 1417649400000, 
+            "updated": 1415028866000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1412599788000, 
@@ -845,7 +1061,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1411918757000, 
@@ -884,6 +1100,100 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1415033293000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbnb/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblysqbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "One Month Rails: Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1418252400000, 
+            "updated": 1415033293000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1415033293000, 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbwb/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 70, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "drmkblysqbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "One Month Rails: Learn Ruby on Rails", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1418857200000, 
+            "updated": 1415033293000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
@@ -964,7 +1274,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1379643162000, 
