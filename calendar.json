@@ -2,83 +2,6 @@
     "codefordc": [], 
     "other": [
         {
-            "created": 1412028192000, 
-            "description": "<p>Have you ever wondered how to add interactive behavior to an otherwise bland, static HTML CSS page? It is now time to take your webpage a step ahead with JavaScript!</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS, and since there is no prior installation required, JavaScript is hassle free to get started with and fun to create something that\u2019s easy to share with friends. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript Study Groups are relaxed and informal, so it doesn't matter if you are a fast or slow learner, or if you attend every week. It is a great platform for you to be able to work and play together, while providing each other with ongoing support and feedback.\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Shoot me a message or mail me and let me know that you are interested in helping us with the JS study group!\u00a0</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><b>Coursera\u00a0\u00a0</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript is Sexy</b>\u00a0\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p><b>Codecademy\u00a0\u00a0</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/215002112/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qhzfskyspbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1415057400000, 
-            "updated": 1414037541000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1710 Rhode Island Ave NW, Suite 800", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21999182, 
-                "lat": 38.905968000000001, 
-                "lon": -77.039169000000001, 
-                "name": "TrackMaven", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
-        {
-            "created": 1411918617000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like hyperlapse mashups]. Show us what you\u2019ve got! But remember: no startup pitches, dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/210034052/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "210034052", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 14: Ghostscript Printah", 
-            "status": "upcoming", 
-            "time": 1415059200000, 
-            "updated": 1414068566000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 53
-        }, 
-        {
             "created": 1413939270000, 
             "description": "<p><b><i>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Nov 4, 11, 18 and 25;[masked]p).\u00a0</i>\u00a0<br/></b></p> <p><b><br/></b></p> <p><b>Introduction to Java:\u00a0</b></p> <p>Java is one of\u00a0the most popular computer languages for implementing both web-based and mobile applications, especially the enterprise applications that power most businesses today.\u00a0 Java skills are highly sought after by employers: Computerworld ranked Java as the #2 skill to have in its\u00a0</p> <p><a href=\"http://www.computerworld.com/article/2473702/it-careers/97819-Top-10-Programming-Skills-That-Will-Get-You-Hired.html\">2013 survey \"Programming Skills That Will Get You Hired\"</a></p> <p>\u00a0(and since the #1 spot went to the query language SQL, that makes Java the #1 general-purpose language on the list, beating out Javascript, C/C++, C# and Perl).\u00a0 And, since Java is strongly related to both C++ and C#, learning Java will make learning those other languages much easier. \u00a0</p> <p><br/>This course covers the basics of Java, right down to the fundamentals of object-oriented programming.\u00a0 It is divided into four 2-hour sessions (one session per week).\u00a0 The content may vary slightly based on the skill levels of the class members, but the planned syllabus is as follows:</p> <p><b>Session 1</b></p> <p>\u00a0(2 hours,[masked]p).\u00a0 Basic concepts of Java and OOP.\u00a0 Primitive types and arrays.\u00a0 Operators.\u00a0 Control structures.</p> <p><br/><b>Session 2\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Classes and objects (in-depth).\u00a0 Inheritance.\u00a0 Interfaces.\u00a0 Packages.\u00a0</p> <p><br/><b>Session 3\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Exceptions.\u00a0 Strings (in-depth).\u00a0 Collections.\u00a0 Generics.</p> <p><br/><b>Session 4\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Java standard libraries (doing math, fetching URLs, creating/reading files).\u00a0 Servlets and JSPs.</p> <p><br/>Access to a Java development environment is not required for this introductory course, but is recommended for after-course experimentation.\u00a0 Detailed step-by-step instructions for setting up a Java development environment and creating a simple \"Hello World\" program on a PC will be provided soon; in the meanwhile, adventurous participants can try these links:\u00a0</p> <p><br/>Download and install the Java 7 or Java 8 Software Development Kits (SDK) here: \u00a0</p> <p><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\"><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\" class=\"linkified\">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a></a></p> <p><br/>Download and install the Eclipse \"Luna\" Java development environment here:\u00a0</p> <p><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\"><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\" class=\"linkified\">https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1</a></a></p> <p><b><br/></b></p> <p><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/6/0/0/600_424306592.jpeg\" /></p> <p>Erik Dorfman has been a\u00a0professional software developer for about thirty years.\u00a0 He is the President of Zeegee<b>\u00ae,\u00a0</b>a small consulting business in Bethesda, MD, through which he currently provides software development services for the National Institutes of Health.\u00a0 Erik holds a BA in Computer Science from Cornell University and an MSE in Computer/Information Science from the University of Pennsylvania, where he studied Artificial Intelligence technologies before moving to the DC area to work at NASA/Goddard Space Flight Center.</p> <p><br/>Erik enjoys teaching and lecturing; in addition to Java, he has taught introductory courses in C++, Perl, and Object Oriented Programming, and he has recently begun to present some of his pet projects at international software development conferences.\u00a0 In his spare time he writes, draws, and occasionally sleeps.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/c/1/d/6/600_424309622.jpeg\" /></p> <p>Food and drinks will be generously provided by our sponsor,<a href=\"http://www.weddingwire.com/\">WeddingWire</a>! \u00a0</p> <p><br/><b>Getting there:</b> \u00a0WeddingWire offices are located on the 3rd floor in the Chevy Chase Metro Center building directly above the Friendship Heights metro stop on the red line. \u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/214875812/", 
@@ -121,7 +44,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1414101496000, 
@@ -160,7 +83,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1404748918000, 
@@ -238,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1407622606000, 
@@ -393,7 +316,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1415032769000, 
@@ -441,7 +364,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1415054932000, 
@@ -468,7 +391,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1412436255000, 
@@ -508,7 +431,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1414444580000, 
@@ -747,7 +670,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 244
+            "yes_rsvp_count": 249
         }, 
         {
             "created": 1379643162000, 
@@ -888,6 +811,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 15
+        }, 
+        {
+            "created": 1415086907000, 
+            "description": "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick off the holiday season with a bang!</p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0Wednesday, December 3rd\u00a0for the 3rd annual\u00a0Tech The Halls 2014 Holiday Party\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>!</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0DCWW, \u00a0UXPA-DC, STC WDC, Web Content Mavens (us!), Reaching Latinos Online, Color of Tech, Girl Develop It, NAMDE\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</p> <p>Twitter hashtag:\u00a0#techthehalls2014</p> <p>Interested in sponsoring Tech The Halls? Please use the Contact Organizer link or email [masked].</p> <p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Register now</a>!</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/217528642/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "217528642", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech The Halls 2014", 
+            "status": "upcoming", 
+            "time": 1417649400000, 
+            "updated": 1415087520000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1301 K St NW, Washington", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 16389972, 
+                "lat": 38.902926999999998, 
+                "lon": -77.030563000000001, 
+                "name": "Capitale", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1412599788000, 
@@ -1079,7 +1040,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1415033293000, 
@@ -1127,6 +1088,33 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1415066979000, 
+            "description": "<p>Please note you are\u00a0<b>NOT</b>\u00a0registered for this event by RSVPing on this meetup. \u00a0<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\">event registration page</a>.</b>\u00a0\u00a0You'll note\u00a0<b>discount codes</b>\u00a0along the right side of the page as you scroll down. \u00a0Be sure to look those over and take advantage of a discount code if you're eligible!\u00a0</p> <p>Join\u00a0<a href=\"http://gomodev.us7.list-manage.com/track/click?u=99b90f58e23183ba913447d43&amp;id=41e0edb5c3&amp;e=059db689d3\">50+ industry experts</a>\u00a0for two days of deep dive workshops, talks and keynotes and a 24-hour Hackathon\u2014for the East Coast's only mobile-first event of its kind. \u00a0Swift / iOS, Android, the MEAN stack, Metal, Bluetooth, Beacons, API / SDK strategies, UX + Design, security and testing, monetization strategies, and much more. Everything you need to set up a productive 2015.\u00a0</p> <p>With the ever-quickening pace of mobile, staying up-to-date on the latest APIs and SDKs is essential for any developer or business. Now in its fourth year, ModevCon (formerly ModevEast)\u2014happening December 11-12, 2014 in Washington, D.C.\u2014is must-attend for anyone developing, designing, and marketing mobile apps, websites and related products. For two intensive days, we\u2019ll put you face to face with the world\u2019s foremost industry experts to teach you the the latest methods, tools, and best practices for the industry's most important development platforms.</p> <p><b>December 11</b>:\u00a0Premium Workshops and Breakouts, Opening Reception, Sponsor Gallery<br/><b>December 12</b>:\u00a0Morning Breakout Sessions, Afternoon Keynotes, Closing Reception, Sponsor Gallery</p> <p>For details on speakers, schedule, and more please visit the <b><a href=\"http://mdc.gomodev.com/\">ModevCon website!</a>\u00a0\u00a0</b></p>", 
+            "duration": 118800000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/217485172/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "217485172", 
+            "maybe_rsvp_count": 0, 
+            "name": "ModevCon 2014", 
+            "status": "upcoming", 
+            "time": 1418302800000, 
+            "updated": 1415066979000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1415033293000, 
@@ -1919,6 +1907,46 @@
             "time": 1444948200000, 
             "updated": 1383661832000, 
             "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcytpbgb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcytpbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1446681600000, 
+            "updated": 1326383071000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1610 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 794012, 
+                "lat": 38.916775999999999, 
+                "lon": -77.037339000000003, 
+                "name": "Stetson's Famous Bar & Restaurant", 
+                "phone": "(202) 667-6295", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1

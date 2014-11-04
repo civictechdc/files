@@ -1259,7 +1259,7 @@ projects([
             "url": "https://github.com/ajschumacher"
         }, 
         "pushed_at": "2014-11-03T06:07:39Z", 
-        "size": 2635, 
+        "size": 2668, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
     }, 

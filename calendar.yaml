@@ -1,99 +1,5 @@
 codefordc: []
 other:
-- created: 1412028192000
-  description: "<p>Have you ever wondered how to add interactive behavior to an otherwise\
-    \ bland, static HTML CSS page? It is now time to take your webpage a step ahead\
-    \ with JavaScript!</p> <p>We're a group of women who want to learn JavaScript\
-    \ together. The study group is intended for everyone who wishes to learn JavaScript\
-    \ programming language, it's perfect for beginners with a basic understanding\
-    \ of HTML &amp; CSS, and since there is no prior installation required, JavaScript\
-    \ is hassle free to get started with and fun to create something that\u2019s easy\
-    \ to share with friends. If you already know JavaScript, this can be a great platform\
-    \ for you to get together with fellow developers and hone your skills. If you're\
-    \ advanced, we'd love for you to come and help others learn more.</p> <p>JavaScript\
-    \ Study Groups are relaxed and informal, so it doesn't matter if you are a fast\
-    \ or slow learner, or if you attend every week. It is a great platform for you\
-    \ to be able to work and play together, while providing each other with ongoing\
-    \ support and feedback.\_</p> <p>There's always at least one mentor present to\
-    \ help you with best practices or guide you through if you are stuck with a nasty\
-    \ problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a\
-    \ href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
-    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Want to be a\
-    \ JavaScript Study Group leader?\_</b></p> <p>If you are passionate about learning\
-    \ JavaScript with fellow awesome women and want to help us, come on out! \_Shoot\
-    \ me a message or mail me and let me know that you are interested in helping us\
-    \ with the JS study group!\_</p> <p><b>RESOURCES</b></p> <p><i>These are the resources\
-    \ that members have been following along, feel free to suggest if you have more\
-    \ to add!</i></p> <p><b>Coursera\_\_</b><br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
-    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
-    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p><b>JavaScript\
-    \ is Sexy</b>\_\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
-    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
-    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p><b>Codecademy\_\_</b><br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p><b>Bentobox for references</b><br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\"\
-    >http://www.bento.io/</a></a></p> <p><b>JavaScript Official Guide</b><br/><a href=\"\
-    http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
-    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p><b>JSFidlle</b>- create/edit/test/share HTML CSS JS code<br/><a href=\"http://codecademy.com/\"\
-    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/215002112/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: qhzfskyspbfb
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 40
-  status: upcoming
-  time: 1415057400000
-  updated: 1414037541000
-  utc_offset: -18000000
-  venue: {address_1: '1710 Rhode Island Ave NW, Suite 800', city: Washington, country: us,
-    id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 40
-- created: 1411918617000
-  description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
-    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
-    \ signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal,\
-    \ engaging, and friendly: presenters have 5 minutes to show off their hack (it\
-    \ goes faster than you\u2019d expect) and then the audience has 5 minutes to ask\
-    \ questions, make jokes, and suggest ideas and feedback. The hacks that people\
-    \ present are anything from how to train your dog to text you when it needs a\
-    \ walk to [something more serious... like hyperlapse mashups]. Show us what you\u2019\
-    ve got! But remember: no startup pitches, dull work projects, no deckware!</p>\
-    \ <p>If you\u2019re interested in presenting, complete this short form to let\
-    \ us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the\
-    \ meetup! We'll start close to seven. There may be a couple beers. It's going\
-    \ to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
-    \ We love hacks! &lt;3</p>"
-  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/210034052/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  how_to_find_us: by the couch!
-  id: '210034052'
-  maybe_rsvp_count: 0
-  name: 'Round 14: Ghostscript Printah'
-  status: upcoming
-  time: 1415059200000
-  updated: 1414068566000
-  utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 53
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
     \ schedule multi-day events, so keep in mind that this Meetup event serves as\
@@ -175,7 +81,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -220,7 +126,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 114
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -294,7 +200,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 76
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -455,7 +361,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 52
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -492,7 +398,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
@@ -522,7 +428,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 21
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -579,7 +485,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 97
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -867,7 +773,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 244
+  yes_rsvp_count: 249
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -1029,6 +935,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 15
+- created: 1415086907000
+  description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
+    >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
+    \ off the holiday season with a bang!</p> <p>Please join us as we celebrate all\
+    \ of the reasons DC is a tech mecca,\_Wednesday, December 3rd\_for the 3rd annual\_\
+    Tech The Halls 2014 Holiday Party\_presented by\_<a href=\"http://www.adobe.com/\"\
+    >Adobe</a>!</p> <p>Tech The Halls! is a celebration that brings together local\
+    \ and national tech groups as one community for the DC area.\_DCWW, \_UXPA-DC,\
+    \ STC WDC, Web Content Mavens (us!), Reaching Latinos Online, Color of Tech, Girl\
+    \ Develop It, NAMDE\_and technologists from all over the DC-Metro area will meet,\
+    \ share ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
+    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
+    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
+    \ unify, network, and learn more about changing technology trends and best practices,\
+    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
+    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
+    >DJ Clinton Matthews</a>!!</p> <p>Attendees will receive a holiday tech-themed\
+    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
+    \ a very special grand prize!</p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
+    \ in sponsoring Tech The Halls? Please use the Contact Organizer link or email\
+    \ [masked].</p> <p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
+    >Register now</a>!</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/217528642/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '217528642'
+  maybe_rsvp_count: 0
+  name: Tech The Halls 2014
+  status: upcoming
+  time: 1417649400000
+  updated: 1415087520000
+  utc_offset: -18000000
+  venue: {address_1: '1301 K St NW, Washington', city: Washington, country: us, id: 16389972,
+    lat: 38.902926999999998, lon: -77.030563000000001, name: Capitale, repinned: false,
+    state: DC, zip: '20005'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1182,7 +1128,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 21
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1219,6 +1165,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1415066979000
+  description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
+    \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
+    >event registration page</a>.</b>\_\_You'll note\_<b>discount codes</b>\_along\
+    \ the right side of the page as you scroll down. \_Be sure to look those over\
+    \ and take advantage of a discount code if you're eligible!\_</p> <p>Join\_<a\
+    \ href=\"http://gomodev.us7.list-manage.com/track/click?u=99b90f58e23183ba913447d43&amp;id=41e0edb5c3&amp;e=059db689d3\"\
+    >50+ industry experts</a>\_for two days of deep dive workshops, talks and keynotes\
+    \ and a 24-hour Hackathon\u2014for the East Coast's only mobile-first event of\
+    \ its kind. \_Swift / iOS, Android, the MEAN stack, Metal, Bluetooth, Beacons,\
+    \ API / SDK strategies, UX + Design, security and testing, monetization strategies,\
+    \ and much more. Everything you need to set up a productive 2015.\_</p> <p>With\
+    \ the ever-quickening pace of mobile, staying up-to-date on the latest APIs and\
+    \ SDKs is essential for any developer or business. Now in its fourth year, ModevCon\
+    \ (formerly ModevEast)\u2014happening December 11-12, 2014 in Washington, D.C.\u2014\
+    is must-attend for anyone developing, designing, and marketing mobile apps, websites\
+    \ and related products. For two intensive days, we\u2019ll put you face to face\
+    \ with the world\u2019s foremost industry experts to teach you the the latest\
+    \ methods, tools, and best practices for the industry's most important development\
+    \ platforms.</p> <p><b>December 11</b>:\_Premium Workshops and Breakouts, Opening\
+    \ Reception, Sponsor Gallery<br/><b>December 12</b>:\_Morning Breakout Sessions,\
+    \ Afternoon Keynotes, Closing Reception, Sponsor Gallery</p> <p>For details on\
+    \ speakers, schedule, and more please visit the <b><a href=\"http://mdc.gomodev.com/\"\
+    >ModevCon website!</a>\_\_</b></p>"
+  duration: 118800000
+  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/217485172/
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
+    who: Nerdettes}
+  headcount: 0
+  id: '217485172'
+  maybe_rsvp_count: 0
+  name: ModevCon 2014
+  status: upcoming
+  time: 1418302800000
+  updated: 1415066979000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1785,6 +1771,28 @@ other:
   time: 1444948200000
   updated: 1383661832000
   utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1326383071000
+  description: <p>On the first Wednesday of the month, we'll gather to socialize,
+    network, and hear about the work people are doing with maps, GIS, geodata, and
+    more.</p>
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcytpbgb/
+  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
+    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
+  headcount: 0
+  how_to_find_us: Upstairs bar
+  id: dlcllcytpbgb
+  maybe_rsvp_count: 0
+  name: Monthly Meetup
+  status: upcoming
+  time: 1446681600000
+  updated: 1326383071000
+  utc_offset: -18000000
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
