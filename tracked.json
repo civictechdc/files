@@ -50,6 +50,9 @@
     },
     {
     	"DC Juvenile Arrests": "https://github.com/drewbo/dc-juvenile"
+    },
+    {
+    	"Open Elections Map": "https://github.com/cmgiven/open-election-map"
     }
 ],
 "meetups": [
