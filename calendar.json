@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1414101496000, 
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1404748918000, 
@@ -198,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -238,11 +238,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1407622606000, 
-            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC.\u00a0</p> <p><br/>\u2022\u00a0Lia Seremetis of <a href=\"http://dcbikeparty.com/\">DC Bike Party</a>\u00a0will talk about how we GPS-tracked a big bike ride and made an animation of it.</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC. \u00a0\u00a0</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
             "group": {
                 "created": 1384372275000, 
@@ -261,7 +261,7 @@
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1415314800000, 
-            "updated": 1415031754000, 
+            "updated": 1415042167000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -317,7 +317,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1412599759000, 
@@ -393,7 +393,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1415032769000, 
@@ -422,10 +422,10 @@
             "id": "drmkblyspbqb", 
             "maybe_rsvp_count": 0, 
             "name": "\"One Month Rails\": Learn Ruby on Rails", 
-            "rsvp_limit": 20, 
+            "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1415833200000, 
-            "updated": 1415033482000, 
+            "updated": 1415053618000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 K St NW", 
@@ -441,7 +441,34 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 18
+        }, 
+        {
+            "created": 1415054932000, 
+            "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and lead by Josephine and Romina - our new Professional Development leads \u00a0for IGNITE! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our IGNITE meetup group- a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217444582/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "217444582", 
+            "maybe_rsvp_count": 0, 
+            "name": "IGNITE-Professional Development Happy Hour!", 
+            "rsvp_limit": 150, 
+            "status": "upcoming", 
+            "time": 1415921400000, 
+            "updated": 1415055924000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1412436255000, 
@@ -481,7 +508,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1414444580000, 
@@ -558,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1408981913000, 
@@ -680,7 +707,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1414371914000, 
@@ -720,7 +747,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 242
+            "yes_rsvp_count": 244
         }, 
         {
             "created": 1379643162000, 
@@ -747,7 +774,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1414121795000, 
@@ -786,59 +813,12 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1415033293000, 
             "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblyspbjc/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 70, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "0"
-            }, 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "drmkblyspbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "One Month Rails: Learn Ruby on Rails", 
-            "rsvp_limit": 20, 
-            "status": "upcoming", 
-            "time": 1417042800000, 
-            "updated": 1415033293000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1415033293000, 
-            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbfb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465952/", 
             "fee": {
                 "accepts": "cash", 
                 "amount": 70, 
@@ -880,11 +860,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415028866000, 
-            "description": "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending, but</i><i>\u00a0you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Tech The Halls Eventbrite page found here</a>. \u00a0</i><i>If you do not have an Eventbrite ticket, you are not registered for the event. \u00a0Make sure to use promo code\u00a0<b>DCFTTTH15</b> for <b>15% off!</b></i><i>**</i><b>\u00a0</b></p> <p><br/><b><br/></b></p> <p><b>Come in from the cold, grab a drink and kick off the holiday season with a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0<b>Wednesday, December 3rd</b>\u00a0for the 3rd annual <b>DC Web Women's Tech The Halls 2014 Holiday Party</b>\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>! \u00a0</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0<b>DCWW, Girl Develop It DC, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech, NAMDE</b>\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p><i><b>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</b></i></p> <p><i>As always, men are encouraged to attend any DCWW event!</i></p> <p>Twitter hashtag:\u00a0<b>#techthehalls2014</b></p> <p><b>Interested in sponsoring Tech The Halls? please contact us at [masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit our sponsorships page</a>.</b></p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>\n\n\n<i>**Last day to receive a refund is\u00a0Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>", 
+            "description": "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending, but</i><i>\u00a0you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Tech The Halls Eventbrite page found here</a>. \u00a0</i><i>If you do not have an Eventbrite ticket, you are not registered for the event. \u00a0Make sure to use promo code\u00a0<b>GDITTH15</b> for <b>15% off!</b></i><i>**</i><b>\u00a0</b></p> <p><br/><b><br/></b></p> <p><b>Come in from the cold, grab a drink and kick off the holiday season with a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0<b>Wednesday, December 3rd</b>\u00a0for the 3rd annual <b>DC Web Women's Tech The Halls 2014 Holiday Party</b>\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>! \u00a0</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0<b>DCWW, Girl Develop It DC, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech, NAMDE</b>\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p><i><b>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</b></i></p> <p><i>As always, men are encouraged to attend any DCWW event!</i></p> <p>Twitter hashtag:\u00a0<b>#techthehalls2014</b></p> <p><b>Interested in sponsoring Tech The Halls? please contact us at [masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit our sponsorships page</a>.</b></p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>\n\n\n<i>**Last day to receive a refund is\u00a0Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/217339452/", 
             "group": {
@@ -903,11 +883,11 @@
             "name": "Tech The Halls 2014", 
             "status": "upcoming", 
             "time": 1417649400000, 
-            "updated": 1415028866000, 
+            "updated": 1415059366000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1412599788000, 
@@ -1023,7 +1003,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1407908606000, 
@@ -1061,7 +1041,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1411918757000, 
@@ -1099,12 +1079,12 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1415033293000, 
             "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbnb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465752/", 
             "fee": {
                 "accepts": "cash", 
                 "amount": 70, 
@@ -1146,12 +1126,12 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415033293000, 
             "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbwb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465612/", 
             "fee": {
                 "accepts": "cash", 
                 "amount": 70, 
@@ -1193,7 +1173,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -1233,7 +1213,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1413296467000, 
@@ -1378,7 +1358,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1379643162000, 
@@ -1410,7 +1390,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcytfbgb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/217395362/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1445,7 +1425,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1379643162000, 
@@ -1477,7 +1457,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcytgbcb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/217395372/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1512,7 +1492,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1379643162000, 
@@ -1544,7 +1524,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcythbjb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/217395382/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1579,7 +1559,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1379643162000, 

@@ -175,7 +175,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -220,7 +220,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 111
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -250,7 +250,7 @@ other:
       Washington College of Law Rm 504, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1326383071000
   description: "<p>Recent local and regional executive orders require the implementation\
     \ of technology and policy that deliver open data to be released to the public.\
@@ -294,7 +294,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 73
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -309,13 +309,11 @@ other:
     \ <p><br/>And we have a great lineup of locals who'll be giving lightning talks\
     \ on bikes + technology:</p> <p>\u2022\_Betsy\_Emmons will show her animated\_\
     <a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\_on the history of bike\
-    \ lanes in DC.\_</p> <p><br/>\u2022\_Lia Seremetis of <a href=\"http://dcbikeparty.com/\"\
-    >DC Bike Party</a>\_will talk about how we GPS-tracked a big bike ride and made\
-    \ an animation of it.</p> <p>\u2022\_Shane Farthing of WABA will demo their <a\
-    \ href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\_\
-    <a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their\
-    \ upcoming app for creating a crowd-sourced map of bike racks.\_</p> <p>\u2022\
-    \_Reg Viray from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
+    \ lanes in DC. \_\_</p> <p>\u2022\_Shane Farthing of WABA will demo their <a href=\"\
+    http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\_<a href=\"\
+    http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming\
+    \ app for creating a crowd-sourced map of bike racks.\_</p> <p>\u2022\_Reg Viray\
+    \ from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
     \ Institute</a>\_will talk about bicycles and the future of connected vehicles.</p>\
     \ <p><br/>\u2022\_Ola G\xF6ransson from the\_<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\"\
     >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
@@ -340,7 +338,7 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1415314800000
-  updated: 1415031754000
+  updated: 1415042167000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
@@ -406,7 +404,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -457,7 +455,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -484,17 +482,47 @@ other:
   id: drmkblyspbqb
   maybe_rsvp_count: 0
   name: '"One Month Rails": Learn Ruby on Rails'
-  rsvp_limit: 20
+  rsvp_limit: 25
   status: upcoming
   time: 1415833200000
-  updated: 1415033482000
+  updated: 1415053618000
   utc_offset: -18000000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 18
+- created: 1415054932000
+  description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
+    \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
+    \ lead by Josephine and Romina - our new Professional Development leads \_for\
+    \ IGNITE! \_We are going to have an evening at Stetsons where everyone will be\
+    \ able to meet and mingle to welcome in the holiday season.</p> <p>The main focus\
+    \ for the event will be on kicking off our IGNITE meetup group- a new \u201Ctrack\u201D\
+    \ centered around everything related to professional development / working life.\
+    \ We'll host resume workshops, discuss how to go about salary negotiations, provide\
+    \ tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be\
+    \ subject matter for upcoming meetups. Please stop by with ideas for things you\
+    \ would like to learn more about or topics for the future as we get this work\
+    \ started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll\
+    \ have light appetizers and one free drink ticket for the first 50 people!)</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217444582/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '217444582'
+  maybe_rsvp_count: 0
+  name: IGNITE-Professional Development Happy Hour!
+  rsvp_limit: 150
+  status: upcoming
+  time: 1415921400000
+  updated: 1415055924000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 17
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -551,7 +579,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -638,7 +666,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -756,7 +784,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 4
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -839,7 +867,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 242
+  yes_rsvp_count: 244
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -880,7 +908,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -918,7 +946,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -934,43 +962,7 @@ other:
     person (30% discount for Women Who Code members included.)</p> <p>Attendees are
     encouraged to bring their laptops to meetups so we can go over any code questions
     you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>'
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/drmkblyspbjc/
-  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
-    required: '0'}
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: drmkblyspbjc
-  maybe_rsvp_count: 0
-  name: 'One Month Rails: Learn Ruby on Rails'
-  rsvp_limit: 20
-  status: upcoming
-  time: 1417042800000
-  updated: 1415033293000
-  utc_offset: -18000000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
-- created: 1415033293000
-  description: '<p>Learn to create a Ruby on Rails application in one month! This
-    meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
-    class="linkified">https://onemonth.com/courses/one-month-rails</a>) which teaches
-    anyone (including beginners) how to create a simple application using Ruby on
-    Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the
-    Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises
-    during the week. At the meetup, we will review the week''s lessons, answer any
-    questions and do additional exercises to deepen our knowledge of web technologies.
-    At the end of the 5 week meetup, we will present the applications we built.</p>
-    <p>Because we are using the "One Month Rails" coursework this meetup will require
-    attendees to pay for online access to the video tutorials. This comes to $70 a
-    person (30% discount for Women Who Code members included.)</p> <p>Attendees are
-    encouraged to bring their laptops to meetups so we can go over any code questions
-    you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>'
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbfb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465952/
   fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
     required: '0'}
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -990,13 +982,13 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Tech The Halls Eventbrite page found here</a>. \_</i><i>If you do not have an\
     \ Eventbrite ticket, you are not registered for the event. \_Make sure to use\
-    \ promo code\_<b>DCFTTTH15</b> for <b>15% off!</b></i><i>**</i><b>\_</b></p> <p><br/><b><br/></b></p>\
+    \ promo code\_<b>GDITTH15</b> for <b>15% off!</b></i><i>**</i><b>\_</b></p> <p><br/><b><br/></b></p>\
     \ <p><b>Come in from the cold, grab a drink and kick off the holiday season with\
     \ a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a\
     \ tech mecca,\_<b>Wednesday, December 3rd</b>\_for the 3rd annual <b>DC Web Women's\
@@ -1032,11 +1024,11 @@ other:
   name: Tech The Halls 2014
   status: upcoming
   time: 1417649400000
-  updated: 1415028866000
+  updated: 1415059366000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 15
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1109,7 +1101,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 6
 - created: 1407908606000
   description: "<p>Putting out the call for new and exciting apps and data visualizations\
     \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
@@ -1155,7 +1147,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1190,7 +1182,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 7
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1206,7 +1198,7 @@ other:
     person (30% discount for Women Who Code members included.)</p> <p>Attendees are
     encouraged to bring their laptops to meetups so we can go over any code questions
     you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>'
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbnb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465752/
   fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
     required: '0'}
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1226,7 +1218,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1242,7 +1234,7 @@ other:
     person (30% discount for Women Who Code members included.)</p> <p>Attendees are
     encouraged to bring their laptops to meetups so we can go over any code questions
     you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>'
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/drmkblysqbwb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465612/
   fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
     required: '0'}
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1262,7 +1254,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1284,7 +1276,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>Doors open at 6:00 with pizza and drinks, and the presentations start at\
@@ -1403,7 +1395,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1432,7 +1424,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcytfbgb/
+  event_url: http://www.meetup.com/Geo-DC/events/217395362/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1449,7 +1441,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1478,7 +1470,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcytgbcb/
+  event_url: http://www.meetup.com/Geo-DC/events/217395372/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1495,7 +1487,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1524,7 +1516,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcythbjb/
+  event_url: http://www.meetup.com/Geo-DC/events/217395382/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1541,7 +1533,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
