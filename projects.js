@@ -896,7 +896,7 @@ projects([
         "languages": [
             [
                 "CSS", 
-                13573
+                13517
             ], 
             [
                 "JavaScript", 
@@ -912,7 +912,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-10-30T03:49:04Z", 
+        "pushed_at": "2014-11-05T05:17:27Z", 
         "size": 13820, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -1219,7 +1219,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
-                "contributions": 381, 
+                "contributions": 382, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1258,7 +1258,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-11-03T06:07:39Z", 
+        "pushed_at": "2014-11-05T08:07:35Z", 
         "size": 2668, 
         "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
@@ -1721,8 +1721,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            1, 
+            5, 
             0, 
             0, 
             0, 
@@ -2309,7 +2309,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
-                "contributions": 48, 
+                "contributions": 86, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }
@@ -2318,7 +2318,7 @@ projects([
         "created_at": "2014-10-31T01:37:53Z", 
         "default_branch": "master", 
         "description": "Election map for DC's 2014 general election", 
-        "forks": 0, 
+        "forks": 1, 
         "help_wanted": [], 
         "homepage": "http://electionmap.wamu.org", 
         "html_url": "https://github.com/cmgiven/open-election-map", 
@@ -2346,9 +2346,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2014-11-04T18:47:32Z", 
-        "size": 576, 
-        "updated_at": "2014-11-05T00:18:13Z", 
-        "watchers": 3
+        "pushed_at": "2014-11-05T04:46:15Z", 
+        "size": 784, 
+        "updated_at": "2014-11-05T03:04:26Z", 
+        "watchers": 5
     }
 ])

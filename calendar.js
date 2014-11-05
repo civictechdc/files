@@ -36,55 +36,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 24
         }
     ], 
     "other": [
-        {
-            "created": 1413939270000, 
-            "description": "<p><b><i>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Nov 4, 11, 18 and 25;[masked]p).\u00a0</i>\u00a0<br/></b></p> <p><b><br/></b></p> <p><b>Introduction to Java:\u00a0</b></p> <p>Java is one of\u00a0the most popular computer languages for implementing both web-based and mobile applications, especially the enterprise applications that power most businesses today.\u00a0 Java skills are highly sought after by employers: Computerworld ranked Java as the #2 skill to have in its\u00a0</p> <p><a href=\"http://www.computerworld.com/article/2473702/it-careers/97819-Top-10-Programming-Skills-That-Will-Get-You-Hired.html\">2013 survey \"Programming Skills That Will Get You Hired\"</a></p> <p>\u00a0(and since the #1 spot went to the query language SQL, that makes Java the #1 general-purpose language on the list, beating out Javascript, C/C++, C# and Perl).\u00a0 And, since Java is strongly related to both C++ and C#, learning Java will make learning those other languages much easier. \u00a0</p> <p><br/>This course covers the basics of Java, right down to the fundamentals of object-oriented programming.\u00a0 It is divided into four 2-hour sessions (one session per week).\u00a0 The content may vary slightly based on the skill levels of the class members, but the planned syllabus is as follows:</p> <p><b>Session 1</b></p> <p>\u00a0(2 hours,[masked]p).\u00a0 Basic concepts of Java and OOP.\u00a0 Primitive types and arrays.\u00a0 Operators.\u00a0 Control structures.</p> <p><br/><b>Session 2\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Classes and objects (in-depth).\u00a0 Inheritance.\u00a0 Interfaces.\u00a0 Packages.\u00a0</p> <p><br/><b>Session 3\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Exceptions.\u00a0 Strings (in-depth).\u00a0 Collections.\u00a0 Generics.</p> <p><br/><b>Session 4\u00a0</b></p> <p>(2 hours,[masked]p).\u00a0 Java standard libraries (doing math, fetching URLs, creating/reading files).\u00a0 Servlets and JSPs.</p> <p><br/>Access to a Java development environment is not required for this introductory course, but is recommended for after-course experimentation.\u00a0 Detailed step-by-step instructions for setting up a Java development environment and creating a simple \"Hello World\" program on a PC will be provided soon; in the meanwhile, adventurous participants can try these links:\u00a0</p> <p><br/>Download and install the Java 7 or Java 8 Software Development Kits (SDK) here: \u00a0</p> <p><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\"><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\" class=\"linkified\">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a></a></p> <p><br/>Download and install the Eclipse \"Luna\" Java development environment here:\u00a0</p> <p><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\"><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\" class=\"linkified\">https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1</a></a></p> <p><b><br/></b></p> <p><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/6/0/0/600_424306592.jpeg\" /></p> <p>Erik Dorfman has been a\u00a0professional software developer for about thirty years.\u00a0 He is the President of Zeegee<b>\u00ae,\u00a0</b>a small consulting business in Bethesda, MD, through which he currently provides software development services for the National Institutes of Health.\u00a0 Erik holds a BA in Computer Science from Cornell University and an MSE in Computer/Information Science from the University of Pennsylvania, where he studied Artificial Intelligence technologies before moving to the DC area to work at NASA/Goddard Space Flight Center.</p> <p><br/>Erik enjoys teaching and lecturing; in addition to Java, he has taught introductory courses in C++, Perl, and Object Oriented Programming, and he has recently begun to present some of his pet projects at international software development conferences.\u00a0 In his spare time he writes, draws, and occasionally sleeps.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/c/1/d/6/600_424309622.jpeg\" /></p> <p>Food and drinks will be generously provided by our sponsor,<a href=\"http://www.weddingwire.com/\">WeddingWire</a>! \u00a0</p> <p><br/><b>Getting there:</b> \u00a0WeddingWire offices are located on the 3rd floor in the Chevy Chase Metro Center building directly above the Friendship Heights metro stop on the red line. \u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/214875812/", 
-            "fee": {
-                "accepts": "amazon", 
-                "amount": 90, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "214875812", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Java", 
-            "rsvp_limit": 26, 
-            "status": "upcoming", 
-            "time": 1415143800000, 
-            "updated": 1413939270000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2 Wisconsin Cir", 
-                "city": "Chevy Chase", 
-                "country": "US", 
-                "id": 19274942, 
-                "lat": 38.962009000000002, 
-                "lon": -77.085434000000006, 
-                "name": "Weddingwire", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
-        }, 
         {
             "created": 1414101496000, 
             "description": "<p>Plotly (<a href=\"https://plot.ly\" class=\"linkified\">https://plot.ly</a>) is a new web-based platform for making graphs and analyzing data. Plotly's APIs and web app let teams work together online to make 2D, 3D, and streaming graphs using R, Python, MATLAB, Julia, SAS, and and Excel, all together, all in one platform. The goal is to support technical and non-technical collaboration at all levels. Plotly translates ggplot2, matplotlib, and MATLAB plots into interactive, web-based, shareable plots. Graphs are rendered in D3.js (a popular JavaScript visualization library), and interactive out of the box. Plotly is free for unlimited public sharing, lets you control privacy and collaboratively edit graphs from different languages and environments, and you always own your data. The goal is to be a GitHub for sharing data and plots.</p> <p>In this talk, we'll make graphs with Plotly's APIs (<a href=\"https://plot.ly/api\" class=\"linkified\">https://plot.ly/api</a>), and use Plotly's statistical tools, data analysis tools, and web app. We'll show how Plotly and the new IPython kernels for multiple languages support plotting across languages and libraries. We'll also discuss data visualization concepts and ideas.</p> <p>About the speaker:<br/>Matt Sundquist is a co-founder and COO at Plotly, a graphing and analytics project. Matt studied philosophy at Harvard College, then worked as a writer for SCOTUSblog.com and for Akin Gump's Supreme Court practice. He was a Fulbright Scholar in Argentina, and a Student Fellow of the Harvard Law School Program on the Legal Profession. He previously worked on the Privacy Team at Facebook. He has published articles on the Supreme Court, privacy, the social contract, and sundials. He has been cited in Senate Judiciary Committee Testimony, the New York Times, and Yale Law Journal and is a member of the CA Vital Statistics Advisory Committee. He lives in San Francisco.</p>", 
@@ -122,7 +77,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1404748918000, 
@@ -200,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1407622606000, 
@@ -244,6 +199,7 @@ calendar({
         {
             "created": 1415135668000, 
             "description": "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p><br/>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p><br/>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"><a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a></a>\u00a0</p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
+            "duration": 10800000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217644452/", 
             "group": {
                 "created": 1395616294000, 
@@ -260,8 +216,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Code & Coffee", 
             "status": "upcoming", 
-            "time": 1415491200000, 
-            "updated": 1415135786000, 
+            "time": 1415473200000, 
+            "updated": 1415156484000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1801 N Lynn St", 
@@ -275,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1412028192000, 
@@ -315,7 +271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1412599759000, 
@@ -391,7 +347,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1415032769000, 
@@ -438,7 +394,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -466,7 +422,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1412436255000, 
@@ -609,7 +565,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1414011250000, 
@@ -734,7 +690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 253
+            "yes_rsvp_count": 256
         }, 
         {
             "created": 1379643162000, 
@@ -1016,7 +972,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -1056,7 +1012,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1407908606000, 
@@ -1094,7 +1050,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415119879000, 
@@ -1200,7 +1156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1415033293000, 
@@ -1445,7 +1401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1413296467000, 
@@ -1486,7 +1442,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1415119879000, 

@@ -37,90 +37,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 24
 other:
-- created: 1413939270000
-  description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
-    \ schedule multi-day events, so keep in mind that this Meetup event serves as\
-    \ registration for the entire 4-session course (Nov 4, 11, 18 and 25;[masked]p).\_\
-    </i>\_<br/></b></p> <p><b><br/></b></p> <p><b>Introduction to Java:\_</b></p>\
-    \ <p>Java is one of\_the most popular computer languages for implementing both\
-    \ web-based and mobile applications, especially the enterprise applications that\
-    \ power most businesses today.\_ Java skills are highly sought after by employers:\
-    \ Computerworld ranked Java as the #2 skill to have in its\_</p> <p><a href=\"\
-    http://www.computerworld.com/article/2473702/it-careers/97819-Top-10-Programming-Skills-That-Will-Get-You-Hired.html\"\
-    >2013 survey \"Programming Skills That Will Get You Hired\"</a></p> <p>\_(and\
-    \ since the #1 spot went to the query language SQL, that makes Java the #1 general-purpose\
-    \ language on the list, beating out Javascript, C/C++, C# and Perl).\_ And, since\
-    \ Java is strongly related to both C++ and C#, learning Java will make learning\
-    \ those other languages much easier. \_</p> <p><br/>This course covers the basics\
-    \ of Java, right down to the fundamentals of object-oriented programming.\_ It\
-    \ is divided into four 2-hour sessions (one session per week).\_ The content may\
-    \ vary slightly based on the skill levels of the class members, but the planned\
-    \ syllabus is as follows:</p> <p><b>Session 1</b></p> <p>\_(2 hours,[masked]p).\_\
-    \ Basic concepts of Java and OOP.\_ Primitive types and arrays.\_ Operators.\_\
-    \ Control structures.</p> <p><br/><b>Session 2\_</b></p> <p>(2 hours,[masked]p).\_\
-    \ Classes and objects (in-depth).\_ Inheritance.\_ Interfaces.\_ Packages.\_</p>\
-    \ <p><br/><b>Session 3\_</b></p> <p>(2 hours,[masked]p).\_ Exceptions.\_ Strings\
-    \ (in-depth).\_ Collections.\_ Generics.</p> <p><br/><b>Session 4\_</b></p> <p>(2\
-    \ hours,[masked]p).\_ Java standard libraries (doing math, fetching URLs, creating/reading\
-    \ files).\_ Servlets and JSPs.</p> <p><br/>Access to a Java development environment\
-    \ is not required for this introductory course, but is recommended for after-course\
-    \ experimentation.\_ Detailed step-by-step instructions for setting up a Java\
-    \ development environment and creating a simple \"Hello World\" program on a PC\
-    \ will be provided soon; in the meanwhile, adventurous participants can try these\
-    \ links:\_</p> <p><br/>Download and install the Java 7 or Java 8 Software Development\
-    \ Kits (SDK) here: \_</p> <p><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\"\
-    ><a href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\"\
-    \ class=\"linkified\">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a></a></p>\
-    \ <p><br/>Download and install the Eclipse \"Luna\" Java development environment\
-    \ here:\_</p> <p><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\"\
-    ><a href=\"https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1\"\
-    \ class=\"linkified\">https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr1</a></a></p>\
-    \ <p><b><br/></b></p> <p><b>About the Instructor:\_</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/6/0/0/600_424306592.jpeg\"\
-    \ /></p> <p>Erik Dorfman has been a\_professional software developer for about\
-    \ thirty years.\_ He is the President of Zeegee<b>\xAE,\_</b>a small consulting\
-    \ business in Bethesda, MD, through which he currently provides software development\
-    \ services for the National Institutes of Health.\_ Erik holds a BA in Computer\
-    \ Science from Cornell University and an MSE in Computer/Information Science from\
-    \ the University of Pennsylvania, where he studied Artificial Intelligence technologies\
-    \ before moving to the DC area to work at NASA/Goddard Space Flight Center.</p>\
-    \ <p><br/>Erik enjoys teaching and lecturing; in addition to Java, he has taught\
-    \ introductory courses in C++, Perl, and Object Oriented Programming, and he has\
-    \ recently begun to present some of his pet projects at international software\
-    \ development conferences.\_ In his spare time he writes, draws, and occasionally\
-    \ sleeps.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/c/1/d/6/600_424309622.jpeg\"\
-    \ /></p> <p>Food and drinks will be generously provided by our sponsor,<a href=\"\
-    http://www.weddingwire.com/\">WeddingWire</a>! \_</p> <p><br/><b>Getting there:</b>\
-    \ \_WeddingWire offices are located on the 3rd floor in the Chevy Chase Metro\
-    \ Center building directly above the Friendship Heights metro stop on the red\
-    \ line. \_</p> <p>\n\n\n<b>Refund Policy:\_</b>Your payment guarantees your seat\
-    \ in the course. If something changes after registration and you cannot attend\
-    \ the course, your seat is yours to sell or give to someone else - just please\
-    \ let us know who! \_As a rule we don't offer refunds or credits; \_Instead your\
-    \ class fee will go toward our chapter fund which we will use to establish a scholarship\
-    \ fund going forward. \_ That said, please do reach out and let us know if you\
-    \ have extenuating circumstances.</p>"
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/214875812/
-  fee: {accepts: amazon, amount: 90, currency: USD, description: per person, label: Price,
-    required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '214875812'
-  maybe_rsvp_count: 0
-  name: Intro to Java
-  rsvp_limit: 26
-  status: upcoming
-  time: 1415143800000
-  updated: 1413939270000
-  utc_offset: -18000000
-  venue: {address_1: 2 Wisconsin Cir, city: Chevy Chase, country: US, id: 19274942,
-    lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 17
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -165,7 +83,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 124
+  yes_rsvp_count: 128
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -244,7 +162,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 87
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -317,6 +235,7 @@ other:
     </p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
     \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out\
     \ their individual pages for resources and more events throughout the month!</p>"
+  duration: 10800000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/217644452/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -326,14 +245,14 @@ other:
   maybe_rsvp_count: 0
   name: Code & Coffee
   status: upcoming
-  time: 1415491200000
-  updated: 1415135786000
+  time: 1415473200000
+  updated: 1415156484000
   utc_offset: -18000000
   venue: {address_1: 1801 N Lynn St, city: Arlington, country: US, id: 23382872, lat: 38.896884999999997,
     lon: -77.070671000000004, name: Cosi, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 10
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -387,7 +306,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -438,7 +357,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -474,7 +393,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
@@ -505,7 +424,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -693,7 +612,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 132
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -843,7 +762,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 253
+  yes_rsvp_count: 256
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -1148,7 +1067,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1170,7 +1089,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1407908606000
   description: "<p>Putting out the call for new and exciting apps and data visualizations\
     \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
@@ -1216,7 +1135,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1369,7 +1288,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 15
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1659,7 +1578,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>Doors open at 6:00 with pizza and drinks, and the presentations start at\
@@ -1696,7 +1615,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
