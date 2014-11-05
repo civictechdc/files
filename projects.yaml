@@ -250,14 +250,14 @@
     thumbnailUrl: ''
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=2', contributions: 43,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=2', contributions: 44,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=2', contributions: 35,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 11,
+    link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=2', contributions: 7,
     link: 'https://github.com/justgrimes', name: justgrimes}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=2', contributions: 7,
-    link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7332618?v=2', contributions: 5,
     link: 'https://github.com/jtreed25', name: jtreed25}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7108211?v=2', contributions: 4,
@@ -296,14 +296,14 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [CSS, 13517]
+  - [CSS, 13573]
   - [JavaScript, 12522]
   main_language: CSS
   name: Code for DC Website
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-05T05:17:27Z'
+  pushed_at: '2014-11-05T17:15:20Z'
   size: 13820
   updated_at: '2014-09-09T22:52:21Z'
   watchers: 13
@@ -474,7 +474,7 @@
   - [Shell, 4387]
   main_language: Python
   name: Metro Metrics
-  open_issues: 8
+  open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=2', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2014-10-13T17:48:52Z'
@@ -713,15 +713,15 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7108211?v=2', name: drewbo,
     type: User, url: 'https://github.com/drewbo'}
   pushed_at: '2014-10-29T15:14:54Z'
-  size: 0
+  size: 1420
   updated_at: '2014-10-29T14:42:12Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 40]
+    0, 0, 48]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=2', contributions: 86,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=2', contributions: 90,
     link: 'https://github.com/cmgiven', name: cmgiven}
   contributors_count: 1
   created_at: '2014-10-31T01:37:53Z'
@@ -733,7 +733,7 @@
   html_url: https://github.com/cmgiven/open-election-map
   id: 25997253
   languages:
-  - [JavaScript, 236792]
+  - [JavaScript, 236795]
   - [CSS, 22839]
   - [Ruby, 1093]
   main_language: JavaScript
@@ -741,7 +741,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=2', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2014-11-05T04:46:15Z'
+  pushed_at: '2014-11-05T13:10:50Z'
   size: 784
   updated_at: '2014-11-05T03:04:26Z'
   watchers: 5

@@ -789,7 +789,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
-                "contributions": 43, 
+                "contributions": 44, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
             }, 
@@ -800,16 +800,16 @@ projects([
                 "name": "stvnrlly"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
+                "contributions": 11, 
+                "link": "https://github.com/leahbannon", 
+                "name": "leahbannon"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
-                "contributions": 7, 
-                "link": "https://github.com/leahbannon", 
-                "name": "leahbannon"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=2", 
@@ -896,7 +896,7 @@ projects([
         "languages": [
             [
                 "CSS", 
-                13517
+                13573
             ], 
             [
                 "JavaScript", 
@@ -912,7 +912,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-05T05:17:27Z", 
+        "pushed_at": "2014-11-05T17:15:20Z", 
         "size": 13820, 
         "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
@@ -1465,7 +1465,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 8, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
             "name": "LeeMendelowitz", 
@@ -2246,7 +2246,7 @@ projects([
             "url": "https://github.com/drewbo"
         }, 
         "pushed_at": "2014-10-29T15:14:54Z", 
-        "size": 0, 
+        "size": 1420, 
         "updated_at": "2014-10-29T14:42:12Z", 
         "watchers": 0
     }, 
@@ -2303,13 +2303,13 @@ projects([
             0, 
             0, 
             0, 
-            40
+            48
         ], 
         "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
-                "contributions": 86, 
+                "contributions": 90, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }
@@ -2326,7 +2326,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                236792
+                236795
             ], 
             [
                 "CSS", 
@@ -2346,7 +2346,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2014-11-05T04:46:15Z", 
+        "pushed_at": "2014-11-05T13:10:50Z", 
         "size": 784, 
         "updated_at": "2014-11-05T03:04:26Z", 
         "watchers": 5
