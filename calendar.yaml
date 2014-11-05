@@ -1,4 +1,43 @@
-codefordc: []
+codefordc:
+- created: 1415133387000
+  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
+    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
+    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
+    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
+    \ reconvenes and shares reactions to and progress made over the last two hours.\
+    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
+    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
+    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
+    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
+    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
+    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
+    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
+    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
+    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
+    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
+    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
+    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
+    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
+    \ Meetup</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Code-for-DC/events/217635662/
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
+  headcount: 0
+  id: '217635662'
+  maybe_rsvp_count: 0
+  name: Civic Hacknight
+  status: upcoming
+  time: 1415835000000
+  updated: 1415133387000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
+    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 other:
 - created: 1413939270000
   description: "<p><b><i>Due to the restrictions of Meetup's registration, we can't\
@@ -81,7 +120,7 @@ other:
     lat: 38.962009000000002, lon: -77.085434000000006, name: Weddingwire, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1414101496000
   description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
     is a new web-based platform for making graphs and analyzing data. Plotly's APIs
@@ -126,7 +165,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 124
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -137,7 +176,12 @@ other:
     \ and exploration.\_</p> <p>Join us on Wednesday, November 5, 2014 to legal hack\
     \ standards organizations.</p> <p>7-7:30 Food, drinks and networking\_</p> <p>7:30-7:45\
     \ Introductions and Announcements\_</p> <p>7:45 - 9:00 Presentations and Discussion</p>\
-    \ <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>"
+    \ <p>\u2022\_Matt Larson and David Long, Kelley Drye &amp; Warren LLP (IP and\
+    \ standards bodies)\_</p> <p>\u2022\_Kirsten Gullickson,\_Sr. Systems Analyst\
+    \ at U.S. House of Representatives (legal data standards)</p> <p><br/>\u2022\_\
+    Philip Ashlock, Open 311 (building a standards body across jurisdictions)\_</p>\
+    \ <p><br/>Follow along on twitter with the hashtag #LegalHack or at <a href=\"\
+    http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/193499542/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -149,14 +193,14 @@ other:
   name: '#LegalHack Standards Organizations'
   status: upcoming
   time: 1415232000000
-  updated: 1414773793000
+  updated: 1415133363000
   utc_offset: -18000000
   venue: {address_1: '4801 Massachusetts Avenue, NW', city: Washington, country: us,
     id: 23304322, lat: 38.945076, lon: -77.094879000000006, name: American University
       Washington College of Law Rm 504, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 33
 - created: 1326383071000
   description: "<p>Recent local and regional executive orders require the implementation\
     \ of technology and policy that deliver open data to be released to the public.\
@@ -200,7 +244,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 85
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -252,6 +296,44 @@ other:
   visibility: public
   waitlist_count: 14
   yes_rsvp_count: 80
+- created: 1415135668000
+  description: "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"\
+    ><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p>\
+    \ <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for\
+    \ a fun, informal way to learn, code and work on projects with other members in\
+    \ the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS,\
+    \ these events are open to all women or those who support women and minorities\
+    \ in tech. Feel free to come early or stay later. These events are held at public\
+    \ coffee shops, so good seats are on a first come first serve basis. Beginners\
+    \ welcome!</p> <p><br/>Code &amp; Coffees are not coding workshops. No instructors,\
+    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
+    \ bring their own projects or meet people who are working on similar projects\
+    \ to collaborate together. If you're a beginner we recommend some online tutorials\
+    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
+    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
+    \ <p><br/>When you arrive, we'll ask you to visit our Hackpad so we can all get\
+    \ to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"\
+    ><a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a></a>\_\
+    </p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
+    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out\
+    \ their individual pages for resources and more events throughout the month!</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217644452/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '217644452'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1415491200000
+  updated: 1415135786000
+  utc_offset: -18000000
+  venue: {address_1: 1801 N Lynn St, city: Arlington, country: US, id: 23382872, lat: 38.896884999999997,
+    lon: -77.070671000000004, name: Cosi, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -356,7 +438,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -393,14 +475,14 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
-    \ lead by Josephine and Romina - our new Professional Development leads \_for\
-    \ IGNITE! \_We are going to have an evening at Stetsons where everyone will be\
-    \ able to meet and mingle to welcome in the holiday season.</p> <p>The main focus\
-    \ for the event will be on kicking off our IGNITE meetup group- a new \u201Ctrack\u201D\
+    \ led by Josephine and Romina - our new Professional Development leads \_for IGNITE!\
+    \ \_We are going to have an evening at Stetsons where everyone will be able to\
+    \ meet and mingle to welcome in the holiday season.</p> <p>The main focus for\
+    \ the event will be on kicking off our IGNITE meetup group- a new \u201Ctrack\u201D\
     \ centered around everything related to professional development / working life.\
     \ We'll host resume workshops, discuss how to go about salary negotiations, provide\
     \ tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be\
@@ -419,11 +501,11 @@ other:
   rsvp_limit: 150
   status: upcoming
   time: 1415921400000
-  updated: 1415055924000
+  updated: 1415129769000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 33
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -678,7 +760,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -810,7 +892,8 @@ other:
     \ our day long 2014 GDG Devfest hosted by AOL. \_Come join your vibrant community\
     \ of developers, innovators and influential thought leaders on November 21st!\
     \ \_Come learn something new, play with code in the code lab, make new friends,\
-    \ sharpen your code chops, or see what's new.</p> <p><br/>Our 2015 Devfest will\
+    \ sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p>\
+    \ <p>Steven Kim - Google - How to code like Google</p> <p>Our 2015 Devfest will\
     \ have multiple hands-on code labs, technical talks, and panels on all things\
     \ Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p>\
     \ <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p>\
@@ -823,7 +906,7 @@ other:
     \ href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This\
     \ is a paid event, please purchase your tickets at this link. \_Thank you!&gt;&gt;\_\
     </a></p>"
-  duration: 28800000
+  duration: 32400000
   event_url: http://www.meetup.com/gdg-dc/events/215327092/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
     id: 1612017, join_mode: open, name: Google Technology and Developer Group - Washington
@@ -833,8 +916,8 @@ other:
   maybe_rsvp_count: 0
   name: DevFestDC 2014 - Google Developer Group DC
   status: upcoming
-  time: 1416578400000
-  updated: 1414326897000
+  time: 1416574800000
+  updated: 1415132502000
   utc_offset: -18000000
   venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
@@ -928,7 +1011,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
@@ -1014,7 +1097,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1065,7 +1148,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1220,7 +1303,73 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
+- created: 1415149990000
+  description: "<p>Hiring can the right person can be hard. Come join us in December\
+    \ to hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
+    \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p>\
+    \ <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive\
+    \ Analytics to Hiring\_and Team Assembly\_</i><i>-</i> Myra Norton</p> <p>9:00\
+    \ PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Google\
+    \ maps does a good job of pinpointing the exact building location based on the\
+    \ address above.</p> <p>Parking is not an issue. You can park on the street nearby\
+    \ or you can take up any Visitor spot that you can find. Also, feel free to park\
+    \ in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour\
+    \ or Reserved.</p> <p><b>Talk</b></p> <p><b><i>Transforming Labor Markets: Applying\
+    \ Data Science and Predictive Analytics to Hiring\_and Team Assembly</i><br/></b></p>\
+    \ <p>This talk will provide an overview of the rapidly growing but still small\
+    \ industry of\_applying emerging data techniques to hiring and team assembly.\
+    \ It will cover the\_methods used and results achieved in several verticals\u2014\
+    healthcare and long term care,\_application development, and business process\
+    \ outsourcing.\_The session will cover the strengths and weaknesses of different\
+    \ techniques, and will\_outline specific outcomes and adoption challenges from\
+    \ several enterprise case studies.\_We will also discuss the opportunities uncovered\
+    \ by these techniques, where the industry\_is headed, and how rapidly evolving\
+    \ technology and regulatory developments are likely\_<br/>to affect those opportunities.</p>\
+    \ <p><b>Speakers</b></p> <p><i>&lt;a&gt;Myra Norton&lt;/a&gt;</i><br/>President\
+    \ and COO<br/>Myra Norton joined Pegged Software in November of 2012 after a rich\
+    \ career in data\_and analytics. Norton accumulated extensive academic experience\
+    \ as an administrator in\_the College of Science and Technology at Temple University,\
+    \ teaching in the Business\_School and the College of Science and Technology at\
+    \ Temple University, and lecturing on\_mathematics and statistics at Towson University\
+    \ while providing academic support to\_midshipmen at the United States Naval Academy.\_\
+    </p> <p>A leading thinker on the application of analytics to Big Data, she has\
+    \ been speaking and\_writing on this subject in a variety of venues: as a speaker\
+    \ and facilitator for the Network\_Roundtable at the University of Virginia, the\
+    \ Chief Marketing Officer (CMO) Council, the\_Council for the Advancement and\
+    \ Support of Education (CASE), the Business Marketing\_Association (BMA). She\
+    \ has worked with researchers from Harvard University, Babson\_College, University\
+    \ of Virginia, NIH, University of Maryland, and the University of\_Chicago. She\
+    \ leads the National Girls Collaborative Project as part of her work with the\_\
+    Center for Women in Technology, is currently serving as a member and immediate\
+    \ past\_chair of the Industrial Advisory Board for the College of Engineering\
+    \ and Information\_Technology at UMBC, serves as a mentor for college students\
+    \ and young professionals in\_the Baltimore area, and works with high school students\
+    \ through the National\_Foundation for Teaching Entrepreneurship (NFTE).\_Norton\
+    \ graduated from the University of Alabama with a BS in Math Education and\_received\
+    \ an MA in Mathematics and an MS in Statistics at Temple University.</p> <p><b>Post-event\
+    \ Drinks</b></p> <p>Green Turtle\_</p> <p>1606 Whetstone Way</p> <p>Baltimore,\
+    \ MD 21230</p> <p>[masked]</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Science-MD/events/217689842/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '217689842'
+  maybe_rsvp_count: 0
+  name: Transforming Labor Markets
+  rsvp_limit: 200
+  status: upcoming
+  time: 1418167800000
+  updated: 1415150215000
+  utc_offset: -18000000
+  venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
+    lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com
+      - Ivory Building, repinned: false, state: MD, zip: '21230'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1256,7 +1405,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -1384,7 +1533,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\

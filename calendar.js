@@ -1,5 +1,44 @@
 calendar({
-    "codefordc": [], 
+    "codefordc": [
+        {
+            "created": 1415133387000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/217635662/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "217635662", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1415835000000, 
+            "updated": 1415133387000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "419 7th St NW, Second Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 20407722, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
+        }
+    ], 
     "other": [
         {
             "created": 1413939270000, 
@@ -44,7 +83,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1414101496000, 
@@ -83,11 +122,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1404748918000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, November 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, November 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>\u2022\u00a0Matt Larson and David Long, Kelley Drye &amp; Warren LLP (IP and standards bodies)\u00a0</p> <p>\u2022\u00a0Kirsten Gullickson,\u00a0Sr. Systems Analyst at U.S. House of Representatives (legal data standards)</p> <p><br/>\u2022\u00a0Philip Ashlock, Open 311 (building a standards body across jurisdictions)\u00a0</p> <p><br/>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499542/", 
             "group": {
@@ -106,7 +145,7 @@ calendar({
             "name": "#LegalHack Standards Organizations", 
             "status": "upcoming", 
             "time": 1415232000000, 
-            "updated": 1414773793000, 
+            "updated": 1415133363000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "4801 Massachusetts Avenue, NW", 
@@ -121,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1326383071000, 
@@ -161,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1407622606000, 
@@ -201,6 +240,42 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 14, 
             "yes_rsvp_count": 80
+        }, 
+        {
+            "created": 1415135668000, 
+            "description": "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p><br/>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p><br/>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"><a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a></a>\u00a0</p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217644452/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "217644452", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee", 
+            "status": "upcoming", 
+            "time": 1415491200000, 
+            "updated": 1415135786000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1801 N Lynn St", 
+                "city": "Arlington", 
+                "country": "US", 
+                "id": 23382872, 
+                "lat": 38.896884999999997, 
+                "lon": -77.070671000000004, 
+                "name": "Cosi", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1412028192000, 
@@ -316,7 +391,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1415032769000, 
@@ -364,11 +439,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1415054932000, 
-            "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and lead by Josephine and Romina - our new Professional Development leads \u00a0for IGNITE! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our IGNITE meetup group- a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
+            "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and led by Josephine and Romina - our new Professional Development leads \u00a0for IGNITE! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our IGNITE meetup group- a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217444582/", 
             "group": {
                 "created": 1395616294000, 
@@ -387,11 +462,11 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1415921400000, 
-            "updated": 1415055924000, 
+            "updated": 1415129769000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1412436255000, 
@@ -619,7 +694,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1414371914000, 
@@ -690,8 +765,8 @@ calendar({
         }, 
         {
             "created": 1414121795000, 
-            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Our 2015 Devfest will have multiple hands-on code labs, technical talks, and panels on all things Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p> <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p> <p>+ much more...</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p>", 
-            "duration": 28800000, 
+            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p> <p>Steven Kim - Google - How to code like Google</p> <p>Our 2015 Devfest will have multiple hands-on code labs, technical talks, and panels on all things Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p> <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p> <p>+ much more...</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p>", 
+            "duration": 32400000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/215327092/", 
             "group": {
                 "created": 1268219647000, 
@@ -708,8 +783,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "DevFestDC 2014 - Google Developer Group DC", 
             "status": "upcoming", 
-            "time": 1416578400000, 
-            "updated": 1414326897000, 
+            "time": 1416574800000, 
+            "updated": 1415132502000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "22000 AOL Way", 
@@ -800,7 +875,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415028866000, 
@@ -865,7 +940,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1412599788000, 
@@ -941,7 +1016,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -1085,7 +1160,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
+        }, 
+        {
+            "created": 1415149990000, 
+            "description": "<p>Hiring can the right person can be hard. Come join us in December to hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly\u00a0</i><i>-</i> Myra Norton</p> <p>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Google maps does a good job of pinpointing the exact building location based on the address above.</p> <p>Parking is not an issue. You can park on the street nearby or you can take up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour or Reserved.</p> <p><b>Talk</b></p> <p><b><i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly</i><br/></b></p> <p>This talk will provide an overview of the rapidly growing but still small industry of\u00a0applying emerging data techniques to hiring and team assembly. It will cover the\u00a0methods used and results achieved in several verticals\u2014healthcare and long term care,\u00a0application development, and business process outsourcing.\u00a0The session will cover the strengths and weaknesses of different techniques, and will\u00a0outline specific outcomes and adoption challenges from several enterprise case studies.\u00a0We will also discuss the opportunities uncovered by these techniques, where the industry\u00a0is headed, and how rapidly evolving technology and regulatory developments are likely\u00a0<br/>to affect those opportunities.</p> <p><b>Speakers</b></p> <p><i>&lt;a&gt;Myra Norton&lt;/a&gt;</i><br/>President and COO<br/>Myra Norton joined Pegged Software in November of 2012 after a rich career in data\u00a0and analytics. Norton accumulated extensive academic experience as an administrator in\u00a0the College of Science and Technology at Temple University, teaching in the Business\u00a0School and the College of Science and Technology at Temple University, and lecturing on\u00a0mathematics and statistics at Towson University while providing academic support to\u00a0midshipmen at the United States Naval Academy.\u00a0</p> <p>A leading thinker on the application of analytics to Big Data, she has been speaking and\u00a0writing on this subject in a variety of venues: as a speaker and facilitator for the Network\u00a0Roundtable at the University of Virginia, the Chief Marketing Officer (CMO) Council, the\u00a0Council for the Advancement and Support of Education (CASE), the Business Marketing\u00a0Association (BMA). She has worked with researchers from Harvard University, Babson\u00a0College, University of Virginia, NIH, University of Maryland, and the University of\u00a0Chicago. She leads the National Girls Collaborative Project as part of her work with the\u00a0Center for Women in Technology, is currently serving as a member and immediate past\u00a0chair of the Industrial Advisory Board for the College of Engineering and Information\u00a0Technology at UMBC, serves as a mentor for college students and young professionals in\u00a0the Baltimore area, and works with high school students through the National\u00a0Foundation for Teaching Entrepreneurship (NFTE).\u00a0Norton graduated from the University of Alabama with a BS in Math Education and\u00a0received an MA in Mathematics and an MS in Statistics at Temple University.</p> <p><b>Post-event Drinks</b></p> <p>Green Turtle\u00a0</p> <p>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p> <p>[masked]</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/217689842/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "217689842", 
+            "maybe_rsvp_count": 0, 
+            "name": "Transforming Labor Markets", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1418167800000, 
+            "updated": 1415150215000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1020 Hull St #100", 
+                "city": "Baltimore", 
+                "country": "us", 
+                "id": 6042402, 
+                "lat": 39.275238000000002, 
+                "lon": -76.591057000000006, 
+                "name": "AOL / Advertising.com - Ivory Building", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "21230"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415033293000, 
@@ -1132,7 +1247,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415066979000, 
@@ -1234,7 +1349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415119879000, 
