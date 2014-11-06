@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1404748918000, 
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1326383071000, 
@@ -155,11 +155,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1407622606000, 
-            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC. \u00a0\u00a0</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles.</p> <p><br/>\u2022\u00a0Ola G\u00f6ransson from the\u00a0<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>\u00a0\"invisible\" helmet.\u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
+            "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC. \u00a0\u00a0</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles. \u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200015252/", 
             "group": {
                 "created": 1384372275000, 
@@ -178,7 +178,7 @@
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1415314800000, 
-            "updated": 1415042167000, 
+            "updated": 1415221391000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -193,7 +193,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -271,7 +271,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1412599759000, 
@@ -309,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1414008625000, 
@@ -347,7 +347,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1415032769000, 
@@ -394,7 +394,7 @@
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -422,7 +422,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1412436255000, 
@@ -462,7 +462,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1414444580000, 
@@ -529,43 +529,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1408981913000, 
-            "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p>More speakers coming as soon as we get their bios. <i>If there is someone that you think would make a great speaker for this event, please comment below.</i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:15pm Speakers</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b><i>Video Killed the Radio Star</i>\u00a0</b></p> <p>How do you serve 40 million video ads a day to online users across 25 countries, while ensuring that the right ad is shown to the right person on the right website at the right time?\u00a0 With a lot of help from math, that's how!\u00a0 Come hear how Videology, an Internet advertising company, combines mathematical programming, predictive modeling, and big data techniques to meet the objectives of advertisers and online publishers, while respecting the privacy of users and\u00a0combating\u00a0internet traffic fraud.</p> <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development at the Videology Group, one of the world's leading video advertising platforms. Dr. Sinha has extensive experience applying optimization, machine learning and statistical techniques to challenging problems across a spectrum of industries such as satellite communications and options trading. In his current role, he leads Videology's initiatives in the areas of\u00a0machine learning, big data analytics, and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering from the University of Virginia and a Bachelors of Technology from the Indian Institute of Technology.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Business-DC/events/203039932/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Business-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "203039932", 
-            "maybe_rsvp_count": 0, 
-            "name": "Going Back to the Future - Operations Research and Data Science", 
-            "status": "upcoming", 
-            "time": 1416351600000, 
-            "updated": 1411344761000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 132
         }, 
         {
             "created": 1414011250000, 
@@ -653,6 +616,45 @@
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1408981913000, 
+            "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p>More speakers coming as soon as we get their bios. <i>If there is someone that you think would make a great speaker for this event, please comment below.</i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:00pm Speakers and Questions</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b><i>Video Killed the Radio Star</i>\u00a0</b></p> <p>How do you serve 40 million video ads a day to online users across 25 countries, while ensuring that the right ad is shown to the right person on the right website at the right time?\u00a0 With a lot of help from math, that's how!\u00a0 Come hear how Videology, an Internet advertising company, combines mathematical programming, predictive modeling, and big data techniques to meet the objectives of advertisers and online publishers, while respecting the privacy of users and\u00a0combating\u00a0internet traffic fraud.</p> <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development at the Videology Group, one of the world's leading video advertising platforms. Dr. Sinha has extensive experience applying optimization, machine learning and statistical techniques to challenging problems across a spectrum of industries such as satellite communications and options trading. In his current role, he leads Videology's initiatives in the areas of\u00a0machine learning, big data analytics, and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering from the University of Virginia and a Bachelors of Technology from the Indian Institute of Technology.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/203039932/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "203039932", 
+            "maybe_rsvp_count": 0, 
+            "name": "Going Back to the Future - Operations Research and Data Science", 
+            "status": "upcoming", 
+            "time": 1416524400000, 
+            "updated": 1415229184000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2100 M Street", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10818502, 
+                "lat": 38.905033000000003, 
+                "lon": -77.046843999999993, 
+                "name": "George Washington University", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20037"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 132
+        }, 
+        {
             "created": 1414371914000, 
             "description": "<p>For our November Meetup, we're thrilled to have three speakers on one of the most prominent domains for Data Science innovation -- Marketing. From politics to products, predictive models have been fundamental for a number of years in identifying what to sell, how to sell it, and who to sell it to. Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand will talk about how to incorporate unstructured social media data into models of customer feedback. <b>David Young</b> from MarketShare will overview challenges and best practices for Marketing Mix Modeling, optimizing the allocation of dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling, showing how you can estimate the impact of outreach to individual people. Whether you work on marketing data or not, these talks will provide practical insights into working with the complex, noisy data of real people making real decisions.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\">NewBrand</a>, a social media monitoring and online reputation management tool that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b> Incorporating unstructured data directly into your feature set can improve predictive power of a model, sometimes significantly. However, there are some inherent challenges in doing so that can confound even the most statistically sophisticated. I'll walk through a couple basic approaches that can be used to do this, techniques to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\u00a0Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>, the Marketing Mix Modeling vendor ranked highest in the industry by Forester Research in both of their latest 2011 and 2013 industry studies. Previously David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis, Marketing Mix Modeling aims to parse out the incremental impacts of all advertising channels and non-media influences on sales, and optimize marketing budgets according to which marginal investments offer the highest returns. \u00a0Technically this offers several challenges since the optimization requires estimates for all medias. \u00a0That requirement implies that correlated variables cannot be excluded and that the magnitudes of individual coefficients are as, or more important, than predictive accuracy. \u00a0 The talk will cover a few of the unique technical challenges encountered in MMM and how they can be addressed, as well as the basic value proposition of the analysis.</p> <p><b>Daniel Porter</b> is a cofounder and head of the Analytics Practice at BlueLabs, a Washington DC based analytics, data and technology company formed by the lead practitioners from the Obama 2012 Analytics Team.\u00a0On the Obama campaign, Daniel was Director of Statistical Modeling, where he and his team developed individual level statistical models that were used throughout the campaign for fundraising, media buying and state strategy.\u00a0</p> <p><i>Abstract</i>: Marketing, political campaigning, and healthcare have one major thing in common: millions of per-person treatment decisions must be selected in order to drive positive outcomes.\u00a0Prior to President Obama's reelection campaign, standard practices for persuading voters\u2014that is, changing their minds\u2014were unscientific and driven by long-standing assumptions and hunches. This mirrors outreach efforts by other companies and organizations, which know that a certain percentage of their marketing efforts will inevitably be wasted on people who are not going to be receptive to it. Daniel will discuss his experience using the results from a large-scale randomized, controlled experiment to target persuadable voters for\u00a0political campaigns, as well as ways these cutting edge statistical modeling techniques can be applied to influencing behavior in realms ranging from health outcomes to customer retention.\u00a0</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
             "duration": 7200000, 
@@ -690,7 +692,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 258
+            "yes_rsvp_count": 260
         }, 
         {
             "created": 1379643162000, 
@@ -756,7 +758,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1415119879000, 
@@ -896,7 +898,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1412599788000, 
@@ -1156,7 +1158,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1415033293000, 

@@ -83,7 +83,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 128
 - created: 1404748918000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -118,7 +118,7 @@ other:
       Washington College of Law Rm 504, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 33
 - created: 1326383071000
   description: "<p>Recent local and regional executive orders require the implementation\
     \ of technology and policy that deliver open data to be released to the public.\
@@ -162,7 +162,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 91
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -182,18 +182,16 @@ other:
     http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming\
     \ app for creating a crowd-sourced map of bike racks.\_</p> <p>\u2022\_Reg Viray\
     \ from the\_<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation\
-    \ Institute</a>\_will talk about bicycles and the future of connected vehicles.</p>\
-    \ <p><br/>\u2022\_Ola G\xF6ransson from the\_<a href=\"http://www.swedenabroad.com/en-GB/Embassies/Washington/\"\
-    >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
-    >H\xF6vding</a>\_\"invisible\" helmet.\_</p> <p>\u2022\_Patrick Madden from WAMU\
-    \ will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"\
-    https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"\
-    http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\_\
-    </p> <p>If you have a bike-related app or data visualization that's creative and\
-    \ local, we want to see it!</p> <p>Please note in the event the location gets\
-    \ changed, we will post it here and send out an email to all members. Follow <a\
-    \ href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read\
-    \ about the last Bike Hack Night:\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
+    \ Institute</a>\_will talk about bicycles and the future of connected vehicles.\
+    \ \_</p> <p>\u2022\_Patrick Madden from WAMU will talk about his \"stolen bike\
+    \ data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
+    >Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\
+    \ new bike counter on the Metropolitan Branch Trail.\_</p> <p>If you have a bike-related\
+    \ app or data visualization that's creative and local, we want to see it!</p>\
+    \ <p>Please note in the event the location gets changed, we will post it here\
+    \ and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\_<a href=\"\
+    http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200015252/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -206,13 +204,13 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1415314800000
-  updated: 1415042167000
+  updated: 1415221391000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 13
+  waitlist_count: 10
   yes_rsvp_count: 80
 - created: 1415135668000
   description: "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"\
@@ -306,7 +304,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1412599759000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706622/
@@ -326,7 +324,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -357,7 +355,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -393,7 +391,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 4
   yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
@@ -424,7 +422,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -481,7 +479,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 98
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -562,57 +560,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 10
-- created: 1408981913000
-  description: "<p>Operations Research has long helped large organizations and governments\
-    \ make better decisions through statistics and data. Now, this new-fangled Data\
-    \ Science thing comes along yet the two groups remain mostly separated, particularly\
-    \ ironic given OR's strong presence in Washington DC.\_</p> <p><br/>Thus, DIDC\
-    \ has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"\
-    ><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a>\
-    \ a professional organization dedicated to the advancement of the theory and practice\
-    \ of operations research and the management sciences in the greater Washington\
-    \ DC area) to bring to you a number of different companies using operations research\
-    \ and optimization techniques to create value from data.\_</p> <p>More speakers\
-    \ coming as soon as we get their bios. <i>If there is someone that you think would\
-    \ make a great speaker for this event, please comment below.</i></p> <p>\n\n\n\
-    <b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p>\
-    \ <p>6:50pm - 8:15pm Speakers</p> <p>This event is being co-sponsored with WINFORMS.</p>\
-    \ <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b><i>Video Killed\
-    \ the Radio Star</i>\_</b></p> <p>How do you serve 40 million video ads a day\
-    \ to online users across 25 countries, while ensuring that the right ad is shown\
-    \ to the right person on the right website at the right time?\_ With a lot of\
-    \ help from math, that's how!\_ Come hear how Videology, an Internet advertising\
-    \ company, combines mathematical programming, predictive modeling, and big data\
-    \ techniques to meet the objectives of advertisers and online publishers, while\
-    \ respecting the privacy of users and\_combating\_internet traffic fraud.</p>\
-    \ <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development\
-    \ at the Videology Group, one of the world's leading video advertising platforms.\
-    \ Dr. Sinha has extensive experience applying optimization, machine learning and\
-    \ statistical techniques to challenging problems across a spectrum of industries\
-    \ such as satellite communications and options trading. In his current role, he\
-    \ leads Videology's initiatives in the areas of\_machine learning, big data analytics,\
-    \ and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering\
-    \ from the University of Virginia and a Bachelors of Technology from the Indian\
-    \ Institute of Technology.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Business-DC/events/203039932/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '203039932'
-  maybe_rsvp_count: 0
-  name: Going Back to the Future - Operations Research and Data Science
-  status: upcoming
-  time: 1416351600000
-  updated: 1411344761000
-  utc_offset: -18000000
-  venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
-    lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
-      School of Continuing Studies, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 132
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -680,6 +627,57 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1408981913000
+  description: "<p>Operations Research has long helped large organizations and governments\
+    \ make better decisions through statistics and data. Now, this new-fangled Data\
+    \ Science thing comes along yet the two groups remain mostly separated, particularly\
+    \ ironic given OR's strong presence in Washington DC.\_</p> <p><br/>Thus, DIDC\
+    \ has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"\
+    ><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a>\
+    \ a professional organization dedicated to the advancement of the theory and practice\
+    \ of operations research and the management sciences in the greater Washington\
+    \ DC area) to bring to you a number of different companies using operations research\
+    \ and optimization techniques to create value from data.\_</p> <p>More speakers\
+    \ coming as soon as we get their bios. <i>If there is someone that you think would\
+    \ make a great speaker for this event, please comment below.</i></p> <p>\n\n\n\
+    <b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p>\
+    \ <p>6:50pm - 8:00pm Speakers and Questions</p> <p>This event is being co-sponsored\
+    \ with WINFORMS.</p> <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p>\
+    \ <p><b><i>Video Killed the Radio Star</i>\_</b></p> <p>How do you serve 40 million\
+    \ video ads a day to online users across 25 countries, while ensuring that the\
+    \ right ad is shown to the right person on the right website at the right time?\_\
+    \ With a lot of help from math, that's how!\_ Come hear how Videology, an Internet\
+    \ advertising company, combines mathematical programming, predictive modeling,\
+    \ and big data techniques to meet the objectives of advertisers and online publishers,\
+    \ while respecting the privacy of users and\_combating\_internet traffic fraud.</p>\
+    \ <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development\
+    \ at the Videology Group, one of the world's leading video advertising platforms.\
+    \ Dr. Sinha has extensive experience applying optimization, machine learning and\
+    \ statistical techniques to challenging problems across a spectrum of industries\
+    \ such as satellite communications and options trading. In his current role, he\
+    \ leads Videology's initiatives in the areas of\_machine learning, big data analytics,\
+    \ and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering\
+    \ from the University of Virginia and a Bachelors of Technology from the Indian\
+    \ Institute of Technology.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Business-DC/events/203039932/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  id: '203039932'
+  maybe_rsvp_count: 0
+  name: Going Back to the Future - Operations Research and Data Science
+  status: upcoming
+  time: 1416524400000
+  updated: 1415229184000
+  utc_offset: -18000000
+  venue: {address_1: 2100 M Street, city: Washington, country: us, id: 10818502, lat: 38.905033000000003,
+    lon: -77.046843999999993, name: George Washington University, repinned: false,
+    state: DC, zip: '20037'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 132
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -762,7 +760,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 258
+  yes_rsvp_count: 260
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -842,7 +840,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 64
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1016,7 +1014,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1288,7 +1286,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 31
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
