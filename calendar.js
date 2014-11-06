@@ -36,127 +36,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }
     ], 
     "other": [
-        {
-            "created": 1414101496000, 
-            "description": "<p>Plotly (<a href=\"https://plot.ly\" class=\"linkified\">https://plot.ly</a>) is a new web-based platform for making graphs and analyzing data. Plotly's APIs and web app let teams work together online to make 2D, 3D, and streaming graphs using R, Python, MATLAB, Julia, SAS, and and Excel, all together, all in one platform. The goal is to support technical and non-technical collaboration at all levels. Plotly translates ggplot2, matplotlib, and MATLAB plots into interactive, web-based, shareable plots. Graphs are rendered in D3.js (a popular JavaScript visualization library), and interactive out of the box. Plotly is free for unlimited public sharing, lets you control privacy and collaboratively edit graphs from different languages and environments, and you always own your data. The goal is to be a GitHub for sharing data and plots.</p> <p>In this talk, we'll make graphs with Plotly's APIs (<a href=\"https://plot.ly/api\" class=\"linkified\">https://plot.ly/api</a>), and use Plotly's statistical tools, data analysis tools, and web app. We'll show how Plotly and the new IPython kernels for multiple languages support plotting across languages and libraries. We'll also discuss data visualization concepts and ideas.</p> <p>About the speaker:<br/>Matt Sundquist is a co-founder and COO at Plotly, a graphing and analytics project. Matt studied philosophy at Harvard College, then worked as a writer for SCOTUSblog.com and for Akin Gump's Supreme Court practice. He was a Fulbright Scholar in Argentina, and a Student Fellow of the Harvard Law School Program on the Legal Profession. He previously worked on the Privacy Team at Facebook. He has published articles on the Supreme Court, privacy, the social contract, and sundials. He has been cited in Senate Judiciary Committee Testimony, the New York Times, and Yale Law Journal and is a member of the CA Vital Statistics Advisory Committee. He lives in San Francisco.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/215260572/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "215260572", 
-            "maybe_rsvp_count": 0, 
-            "name": "Plotly: Collaborative, web-based plotting for R, Python, Julia, MATLAB and SAS", 
-            "status": "upcoming", 
-            "time": 1415230200000, 
-            "updated": 1414101496000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 128
-        }, 
-        {
-            "created": 1404748918000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, November 5, 2014 to legal hack standards organizations.</p> <p>7-7:30 Food, drinks and networking\u00a0</p> <p>7:30-7:45 Introductions and Announcements\u00a0</p> <p>7:45 - 9:00 Presentations and Discussion</p> <p>\u2022\u00a0Matt Larson and David Long, Kelley Drye &amp; Warren LLP (IP and standards bodies)\u00a0</p> <p>\u2022\u00a0Kirsten Gullickson,\u00a0Sr. Systems Analyst at U.S. House of Representatives (legal data standards)</p> <p><br/>\u2022\u00a0Philip Ashlock, Open 311 (building a standards body across jurisdictions)\u00a0</p> <p><br/>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/193499542/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "193499542", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack Standards Organizations", 
-            "status": "upcoming", 
-            "time": 1415232000000, 
-            "updated": 1415133363000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "4801 Massachusetts Avenue, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23304322, 
-                "lat": 38.945076, 
-                "lon": -77.094879000000006, 
-                "name": "American University Washington College of Law Rm 504", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 33
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>Recent local and regional executive orders require the implementation of technology and policy that deliver open data to be released to the public. We still have room for speakers, so if you'd like to give a five minute lightning talk message us via Meetup or Twitter at @Geo_DC. Here's our current lineup:</p> <p>\u2022\u00a0&lt;a&gt;Tim Abdella&lt;/a&gt;, GIO for the District will briefly discuss the recent Washington DC executive order and the impacts of the policy on the geospatial community within the District and broader.</p> <p>\u2022\u00a0&lt;a&gt;Barney Krucoff&lt;/a&gt;, Maryland's Geographic Information Officer, will briefly review the new Maryland open data law and demo two of Maryland's data portals:\u00a0<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\" class=\"linkified\">http://data.maryland.gov</a></a>\u00a0and\u00a0<a href=\"http://data.imap.maryland.gov/\"><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>.</p> <p>\u2022 Victoria Lewis, from Montgomery County MD, will talk about dataMontgomery, the county's open data plans, and the information they make available. \u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else.\u00a0<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\u00a0is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow\u00a0<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\u00a0on Twitter, and join our\u00a0<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a>\u00a0for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/177463542/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyspbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "November GeoDC: Geo Policy", 
-            "status": "upcoming", 
-            "time": 1415232000000, 
-            "updated": 1414201858000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1610 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 91
-        }, 
         {
             "created": 1407622606000, 
             "description": "<p>For our second Bike Hack Night, we're going to look at both software and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30. Because we want as many people as we can fit to join us, the room will be configured without the normal tables, and the back part of the room will be for those standing.</p> <p>Our two lead speakers are both from New York City:</p> <p>\u2022\u00a0\u00a0<a href=\"http://tedullrich.com/\">Ted\u00a0Ullrich</a>\u00a0of\u00a0<a href=\"http://tomorrow-lab.com/\">Tomorrow Lab</a>\u00a0in New York City will show us the\u00a0<a href=\"http://waycount.com/\">WayCount</a>\u00a0device, which can be used to crowdsource bike traffic count data.</p> <p>\u2022\u00a0<a href=\"http://socialbicycles.com/\">SocialBicycles</a>\u00a0will talk about their model of dockless bikesharing.</p> <p><br/>And we have a great lineup of locals who'll be giving lightning talks on bikes + technology:</p> <p>\u2022\u00a0Betsy\u00a0Emmons will show her animated\u00a0<a href=\"http://mapstory.org/maps/1736/\">MapStory</a>\u00a0on the history of bike lanes in DC. \u00a0\u00a0</p> <p>\u2022\u00a0Shane Farthing of WABA will demo their <a href=\"http://www.waba.org/mobile-app/\">mobile app</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.bikearlington.com/\">BikeArlington</a> will show us their upcoming app for creating a crowd-sourced map of bike racks.\u00a0</p> <p>\u2022\u00a0Reg Viray from the\u00a0<a href=\"https://www.vtti.vt.edu/\">Virginia Tech Transportation Institute</a>\u00a0will talk about bicycles and the future of connected vehicles. \u00a0</p> <p>\u2022\u00a0Patrick Madden from WAMU will talk about his \"stolen bike data project.\"</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> will show us data from <a href=\"http://ddot.dc.gov/\">DDOT</a>'s new bike counter on the Metropolitan Branch Trail.\u00a0</p> <p>If you have a bike-related app or data visualization that's creative and local, we want to see it!</p> <p>Please note in the event the location gets changed, we will post it here and send out an email to all members. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p> <p>Read about the last Bike Hack Night:\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>.</p>", 
@@ -193,8 +76,8 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
-            "yes_rsvp_count": 80
+            "waitlist_count": 6, 
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1415135668000, 
@@ -309,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1414008625000, 
@@ -394,7 +277,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -566,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1415033293000, 
@@ -636,19 +519,18 @@ calendar({
             "name": "Going Back to the Future - Operations Research and Data Science", 
             "status": "upcoming", 
             "time": 1416524400000, 
-            "updated": 1415229184000, 
+            "updated": 1415246275000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "2100 M Street", 
+                "address_1": "805 21st St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 10818502, 
-                "lat": 38.905033000000003, 
-                "lon": -77.046843999999993, 
-                "name": "George Washington University", 
+                "id": 19222872, 
+                "lat": 38.899914000000003, 
+                "lon": -77.046204000000003, 
+                "name": "GWU Media & Public Affairs Room B07", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20037"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -692,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 260
+            "yes_rsvp_count": 263
         }, 
         {
             "created": 1379643162000, 
@@ -758,13 +640,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1415119879000, 
             "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqbcb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217943262/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -786,7 +668,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415033293000, 
@@ -898,7 +780,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1412599788000, 
@@ -974,7 +856,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
@@ -1052,13 +934,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1415119879000, 
             "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqblb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217943312/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1080,7 +962,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1411918757000, 
@@ -1238,7 +1120,7 @@ calendar({
             "created": 1415119879000, 
             "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqbtb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217943332/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1260,7 +1142,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415033293000, 

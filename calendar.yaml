@@ -37,132 +37,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 other:
-- created: 1414101496000
-  description: <p>Plotly (<a href="https://plot.ly" class="linkified">https://plot.ly</a>)
-    is a new web-based platform for making graphs and analyzing data. Plotly's APIs
-    and web app let teams work together online to make 2D, 3D, and streaming graphs
-    using R, Python, MATLAB, Julia, SAS, and and Excel, all together, all in one platform.
-    The goal is to support technical and non-technical collaboration at all levels.
-    Plotly translates ggplot2, matplotlib, and MATLAB plots into interactive, web-based,
-    shareable plots. Graphs are rendered in D3.js (a popular JavaScript visualization
-    library), and interactive out of the box. Plotly is free for unlimited public
-    sharing, lets you control privacy and collaboratively edit graphs from different
-    languages and environments, and you always own your data. The goal is to be a
-    GitHub for sharing data and plots.</p> <p>In this talk, we'll make graphs with
-    Plotly's APIs (<a href="https://plot.ly/api" class="linkified">https://plot.ly/api</a>),
-    and use Plotly's statistical tools, data analysis tools, and web app. We'll show
-    how Plotly and the new IPython kernels for multiple languages support plotting
-    across languages and libraries. We'll also discuss data visualization concepts
-    and ideas.</p> <p>About the speaker:<br/>Matt Sundquist is a co-founder and COO
-    at Plotly, a graphing and analytics project. Matt studied philosophy at Harvard
-    College, then worked as a writer for SCOTUSblog.com and for Akin Gump's Supreme
-    Court practice. He was a Fulbright Scholar in Argentina, and a Student Fellow
-    of the Harvard Law School Program on the Legal Profession. He previously worked
-    on the Privacy Team at Facebook. He has published articles on the Supreme Court,
-    privacy, the social contract, and sundials. He has been cited in Senate Judiciary
-    Committee Testimony, the New York Times, and Yale Law Journal and is a member
-    of the CA Vital Statistics Advisory Committee. He lives in San Francisco.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/stats-prog-dc/events/215260572/
-  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
-    who: dc-hackeRs}
-  headcount: 0
-  id: '215260572'
-  maybe_rsvp_count: 0
-  name: 'Plotly: Collaborative, web-based plotting for R, Python, Julia, MATLAB and
-    SAS'
-  status: upcoming
-  time: 1415230200000
-  updated: 1414101496000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 128
-- created: 1404748918000
-  description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
-    https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
-    >\_more than twenty</a>\_legal hacking, technology, or innovation groups around\
-    \ the country.\_</p> <p>A legal hacker is someone who cares about the intersection\
-    \ of law and technology and seeks to improve legal practice through technology\
-    \ while simultaneously using legal skills to promote technological innovation\
-    \ and exploration.\_</p> <p>Join us on Wednesday, November 5, 2014 to legal hack\
-    \ standards organizations.</p> <p>7-7:30 Food, drinks and networking\_</p> <p>7:30-7:45\
-    \ Introductions and Announcements\_</p> <p>7:45 - 9:00 Presentations and Discussion</p>\
-    \ <p>\u2022\_Matt Larson and David Long, Kelley Drye &amp; Warren LLP (IP and\
-    \ standards bodies)\_</p> <p>\u2022\_Kirsten Gullickson,\_Sr. Systems Analyst\
-    \ at U.S. House of Representatives (legal data standards)</p> <p><br/>\u2022\_\
-    Philip Ashlock, Open 311 (building a standards body across jurisdictions)\_</p>\
-    \ <p><br/>Follow along on twitter with the hashtag #LegalHack or at <a href=\"\
-    http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/DCLegalHackers/events/193499542/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '193499542'
-  maybe_rsvp_count: 0
-  name: '#LegalHack Standards Organizations'
-  status: upcoming
-  time: 1415232000000
-  updated: 1415133363000
-  utc_offset: -18000000
-  venue: {address_1: '4801 Massachusetts Avenue, NW', city: Washington, country: us,
-    id: 23304322, lat: 38.945076, lon: -77.094879000000006, name: American University
-      Washington College of Law Rm 504, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 33
-- created: 1326383071000
-  description: "<p>Recent local and regional executive orders require the implementation\
-    \ of technology and policy that deliver open data to be released to the public.\
-    \ We still have room for speakers, so if you'd like to give a five minute lightning\
-    \ talk message us via Meetup or Twitter at @Geo_DC. Here's our current lineup:</p>\
-    \ <p>\u2022\_&lt;a&gt;Tim Abdella&lt;/a&gt;, GIO for the District will briefly\
-    \ discuss the recent Washington DC executive order and the impacts of the policy\
-    \ on the geospatial community within the District and broader.</p> <p>\u2022\_\
-    &lt;a&gt;Barney Krucoff&lt;/a&gt;, Maryland's Geographic Information Officer,\
-    \ will briefly review the new Maryland open data law and demo two of Maryland's\
-    \ data portals:\_<a href=\"http://data.maryland.gov/\"><a href=\"http://data.maryland.gov\"\
-    \ class=\"linkified\">http://data.maryland.gov</a></a>\_and\_<a href=\"http://data.imap.maryland.gov/\"\
-    ><a href=\"http://data.imap.maryland.gov\" class=\"linkified\">http://data.imap.maryland.gov</a></a>.</p>\
-    \ <p>\u2022 Victoria Lewis, from Montgomery County MD, will talk about dataMontgomery,\
-    \ the county's open data plans, and the information they make available. \_</p>\
-    \ <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions\
-    \ and lightning talks at 7:30pm. There will be time after to talk with our speakers\
-    \ and everyone else.\_<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\_\
-    is a 21 and over venue. If you're not yet 21 but want to attend, message us via\
-    \ meetup and we'll do our best to get you in.\_</p> <p><br/>GeoDC meets on the\
-    \ first Wednesday of the month to learn, network, and talk about the work people\
-    \ are doing with maps, GIS, geodata, and more. Join this meetup group, follow\_\
-    <a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\_on Twitter, and join our\_\
-    <a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google\
-    \ group</a>\_for updates.</p> <p>Do you have something you'd like to share with\
-    \ the group? Let us know!</p>"
-  event_url: http://www.meetup.com/Geo-DC/events/177463542/
-  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
-    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
-  headcount: 0
-  how_to_find_us: Upstairs bar
-  id: dlcllcyspbhb
-  maybe_rsvp_count: 0
-  name: 'November GeoDC: Geo Policy'
-  status: upcoming
-  time: 1415232000000
-  updated: 1414201858000
-  utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 91
 - created: 1407622606000
   description: "<p>For our second Bike Hack Night, we're going to look at both software\
     \ and hardware projects. Doors open at 6:00 with pizza and drinks, and the presentations\
@@ -210,8 +86,8 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 10
-  yes_rsvp_count: 80
+  waitlist_count: 6
+  yes_rsvp_count: 81
 - created: 1415135668000
   description: "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"\
     ><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p>\
@@ -324,7 +200,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 14
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -391,7 +267,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
@@ -590,7 +466,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -670,11 +546,11 @@ other:
   name: Going Back to the Future - Operations Research and Data Science
   status: upcoming
   time: 1416524400000
-  updated: 1415229184000
+  updated: 1415246275000
   utc_offset: -18000000
-  venue: {address_1: 2100 M Street, city: Washington, country: us, id: 10818502, lat: 38.905033000000003,
-    lon: -77.046843999999993, name: George Washington University, repinned: false,
-    state: DC, zip: '20037'}
+  venue: {address_1: 805 21st St. NW, city: Washington, country: us, id: 19222872,
+    lat: 38.899914000000003, lon: -77.046204000000003, name: GWU Media & Public Affairs
+      Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 132
@@ -760,7 +636,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 260
+  yes_rsvp_count: 263
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -840,7 +716,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 66
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -877,7 +753,7 @@ other:
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqbcb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217943262/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -892,7 +768,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1014,7 +890,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1412599788000
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
@@ -1065,7 +941,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1133,7 +1009,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1170,7 +1046,7 @@ other:
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqblb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217943312/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1185,7 +1061,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1399,7 +1275,7 @@ other:
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
     \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqbtb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217943332/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1414,7 +1290,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"

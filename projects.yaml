@@ -392,7 +392,7 @@
     8, 9, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 382,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=2', contributions: 383,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=2', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -414,7 +414,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=2', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-11-05T08:07:35Z'
+  pushed_at: '2014-11-06T08:07:32Z'
   size: 2668
   updated_at: '2014-09-04T04:14:07Z'
   watchers: 4
@@ -626,7 +626,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=2', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-10-31T03:56:54Z'
-  size: 29704
+  size: 25662
   updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
