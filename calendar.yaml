@@ -162,7 +162,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 75
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -198,7 +198,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 15
   yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
@@ -229,7 +229,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 53
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -397,7 +397,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -433,7 +433,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -504,7 +504,7 @@ other:
       Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 132
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -587,7 +587,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 272
+  yes_rsvp_count: 273
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -841,7 +841,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 20
 - created: 1412599788000
   description: <p>Details are forthcoming!</p>
   duration: 9000000
@@ -893,7 +893,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -915,7 +915,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1407908606000
   description: "<p>Putting out the call for new and exciting apps and data visualizations\
     \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
@@ -961,7 +961,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
