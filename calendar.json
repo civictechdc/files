@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1414008625000, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1415032769000, 
@@ -163,7 +163,7 @@
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 26
         }, 
         {
@@ -231,7 +231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1414444580000, 
@@ -269,7 +269,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1412028192000, 
@@ -297,7 +297,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1414011250000, 
@@ -335,7 +335,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1415033293000, 
@@ -487,7 +487,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1414121795000, 
@@ -527,6 +527,55 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 72
+        }, 
+        {
+            "created": 1415549873000, 
+            "description": "<p>Are you a professional female developer? You're not alone. Come brunch with others like you! This brunch is for working developers only because it can be tough to find times to network with other women in the industry.</p> <p>The estimated cost for the brunch is $20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/218575099/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 20, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Look for \"Women Who Code.\"", 
+            "id": "218575099", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Developer Brunch", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1416675600000, 
+            "updated": 1415549873000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "623 H Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 1192235, 
+                "lat": 38.900118999999997, 
+                "lon": -77.021023, 
+                "name": "Vapiano Chinatown", 
+                "phone": "P. 202.621.7636 ", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1415119879000, 
@@ -628,7 +677,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1415086907000, 
@@ -705,7 +754,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1404749084000, 
@@ -821,7 +870,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1415119879000, 
