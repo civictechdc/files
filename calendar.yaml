@@ -39,45 +39,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 38
 other:
-- created: 1415135668000
-  description: "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"\
-    ><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p>\
-    \ <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for\
-    \ a fun, informal way to learn, code and work on projects with other members in\
-    \ the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS,\
-    \ these events are open to all women or those who support women and minorities\
-    \ in tech. Feel free to come early or stay later. These events are held at public\
-    \ coffee shops, so good seats are on a first come first serve basis. Beginners\
-    \ welcome!</p> <p><br/>Code &amp; Coffees are not coding workshops. No instructors,\
-    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
-    \ bring their own projects or meet people who are working on similar projects\
-    \ to collaborate together. If you're a beginner we recommend some online tutorials\
-    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
-    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
-    \ <p><br/>When you arrive, we'll ask you to visit our Hackpad so we can all get\
-    \ to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"\
-    ><a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a></a>\_\
-    </p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
-    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out\
-    \ their individual pages for resources and more events throughout the month!</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217644452/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '217644452'
-  maybe_rsvp_count: 0
-  name: Code & Coffee
-  status: upcoming
-  time: 1415473200000
-  updated: 1415156484000
-  utc_offset: -18000000
-  venue: {address_1: 1801 N Lynn St, city: Arlington, country: US, id: 23382872, lat: 38.896884999999997,
-    lon: -77.070671000000004, name: Cosi, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 19
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -131,7 +92,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 40
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -162,7 +123,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -199,7 +160,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 15
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
@@ -286,7 +247,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -587,7 +548,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 273
+  yes_rsvp_count: 274
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -667,7 +628,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1050,8 +1011,8 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 25
 - created: 1415149990000
-  description: "<p>Hiring can the right person can be hard. Come join us in December\
-    \ to hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
+  description: "<p>Hiring the right person can be hard. Come join us in December to\
+    \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
     \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p>\
     \ <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive\
     \ Analytics to Hiring\_and Team Assembly\_</i><i>-</i> Myra Norton</p> <p>9:00\
@@ -1107,7 +1068,7 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1418167800000
-  updated: 1415150215000
+  updated: 1415484065000
   utc_offset: -18000000
   venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
     lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com

@@ -41,43 +41,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1415135668000, 
-            "description": "<p><b>RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p><br/>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p><br/>When you arrive, we'll ask you to visit our Hackpad so we can all get to know a little more about who is in the room! <a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\"><a href=\"https://hackpad.com/Code-Coffee-no2YwWl8UVc\" class=\"linkified\">https://hackpad.com/Code-Coffee-no2YwWl8UVc</a></a>\u00a0</p> <p><br/>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217644452/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "217644452", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1415473200000, 
-            "updated": 1415156484000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1801 N Lynn St", 
-                "city": "Arlington", 
-                "country": "US", 
-                "id": 23382872, 
-                "lat": 38.896884999999997, 
-                "lon": -77.070671000000004, 
-                "name": "Cosi", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
             "created": 1412028192000, 
             "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>", 
             "duration": 7200000, 
@@ -115,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1414008625000, 
@@ -153,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1415032769000, 
@@ -201,7 +164,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 15, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1415054932000, 
@@ -268,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1414444580000, 
@@ -497,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 273
+            "yes_rsvp_count": 274
         }, 
         {
             "created": 1379643162000, 
@@ -563,7 +526,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1415119879000, 
@@ -928,7 +891,7 @@ calendar({
         }, 
         {
             "created": 1415149990000, 
-            "description": "<p>Hiring can the right person can be hard. Come join us in December to hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly\u00a0</i><i>-</i> Myra Norton</p> <p>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Google maps does a good job of pinpointing the exact building location based on the address above.</p> <p>Parking is not an issue. You can park on the street nearby or you can take up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour or Reserved.</p> <p><b>Talk</b></p> <p><b><i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly</i><br/></b></p> <p>This talk will provide an overview of the rapidly growing but still small industry of\u00a0applying emerging data techniques to hiring and team assembly. It will cover the\u00a0methods used and results achieved in several verticals\u2014healthcare and long term care,\u00a0application development, and business process outsourcing.\u00a0The session will cover the strengths and weaknesses of different techniques, and will\u00a0outline specific outcomes and adoption challenges from several enterprise case studies.\u00a0We will also discuss the opportunities uncovered by these techniques, where the industry\u00a0is headed, and how rapidly evolving technology and regulatory developments are likely\u00a0<br/>to affect those opportunities.</p> <p><b>Speakers</b></p> <p><i>&lt;a&gt;Myra Norton&lt;/a&gt;</i><br/>President and COO<br/>Myra Norton joined Pegged Software in November of 2012 after a rich career in data\u00a0and analytics. Norton accumulated extensive academic experience as an administrator in\u00a0the College of Science and Technology at Temple University, teaching in the Business\u00a0School and the College of Science and Technology at Temple University, and lecturing on\u00a0mathematics and statistics at Towson University while providing academic support to\u00a0midshipmen at the United States Naval Academy.\u00a0</p> <p>A leading thinker on the application of analytics to Big Data, she has been speaking and\u00a0writing on this subject in a variety of venues: as a speaker and facilitator for the Network\u00a0Roundtable at the University of Virginia, the Chief Marketing Officer (CMO) Council, the\u00a0Council for the Advancement and Support of Education (CASE), the Business Marketing\u00a0Association (BMA). She has worked with researchers from Harvard University, Babson\u00a0College, University of Virginia, NIH, University of Maryland, and the University of\u00a0Chicago. She leads the National Girls Collaborative Project as part of her work with the\u00a0Center for Women in Technology, is currently serving as a member and immediate past\u00a0chair of the Industrial Advisory Board for the College of Engineering and Information\u00a0Technology at UMBC, serves as a mentor for college students and young professionals in\u00a0the Baltimore area, and works with high school students through the National\u00a0Foundation for Teaching Entrepreneurship (NFTE).\u00a0Norton graduated from the University of Alabama with a BS in Math Education and\u00a0received an MA in Mathematics and an MS in Statistics at Temple University.</p> <p><b>Post-event Drinks</b></p> <p>Green Turtle\u00a0</p> <p>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p> <p>[masked]</p>", 
+            "description": "<p>Hiring the right person can be hard. Come join us in December to hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly\u00a0</i><i>-</i> Myra Norton</p> <p>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Google maps does a good job of pinpointing the exact building location based on the address above.</p> <p>Parking is not an issue. You can park on the street nearby or you can take up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour or Reserved.</p> <p><b>Talk</b></p> <p><b><i>Transforming Labor Markets: Applying Data Science and Predictive Analytics to Hiring\u00a0and Team Assembly</i><br/></b></p> <p>This talk will provide an overview of the rapidly growing but still small industry of\u00a0applying emerging data techniques to hiring and team assembly. It will cover the\u00a0methods used and results achieved in several verticals\u2014healthcare and long term care,\u00a0application development, and business process outsourcing.\u00a0The session will cover the strengths and weaknesses of different techniques, and will\u00a0outline specific outcomes and adoption challenges from several enterprise case studies.\u00a0We will also discuss the opportunities uncovered by these techniques, where the industry\u00a0is headed, and how rapidly evolving technology and regulatory developments are likely\u00a0<br/>to affect those opportunities.</p> <p><b>Speakers</b></p> <p><i>&lt;a&gt;Myra Norton&lt;/a&gt;</i><br/>President and COO<br/>Myra Norton joined Pegged Software in November of 2012 after a rich career in data\u00a0and analytics. Norton accumulated extensive academic experience as an administrator in\u00a0the College of Science and Technology at Temple University, teaching in the Business\u00a0School and the College of Science and Technology at Temple University, and lecturing on\u00a0mathematics and statistics at Towson University while providing academic support to\u00a0midshipmen at the United States Naval Academy.\u00a0</p> <p>A leading thinker on the application of analytics to Big Data, she has been speaking and\u00a0writing on this subject in a variety of venues: as a speaker and facilitator for the Network\u00a0Roundtable at the University of Virginia, the Chief Marketing Officer (CMO) Council, the\u00a0Council for the Advancement and Support of Education (CASE), the Business Marketing\u00a0Association (BMA). She has worked with researchers from Harvard University, Babson\u00a0College, University of Virginia, NIH, University of Maryland, and the University of\u00a0Chicago. She leads the National Girls Collaborative Project as part of her work with the\u00a0Center for Women in Technology, is currently serving as a member and immediate past\u00a0chair of the Industrial Advisory Board for the College of Engineering and Information\u00a0Technology at UMBC, serves as a mentor for college students and young professionals in\u00a0the Baltimore area, and works with high school students through the National\u00a0Foundation for Teaching Entrepreneurship (NFTE).\u00a0Norton graduated from the University of Alabama with a BS in Math Education and\u00a0received an MA in Mathematics and an MS in Statistics at Temple University.</p> <p><b>Post-event Drinks</b></p> <p>Green Turtle\u00a0</p> <p>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p> <p>[masked]</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/217689842/", 
             "group": {
@@ -948,7 +911,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1418167800000, 
-            "updated": 1415150215000, 
+            "updated": 1415484065000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1020 Hull St #100", 
