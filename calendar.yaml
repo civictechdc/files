@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 other:
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
@@ -92,7 +92,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 37
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -123,7 +123,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 79
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -164,17 +164,17 @@ other:
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
-    \ led by Josephine and Romina - our new Professional Development leads \_for IGNITE!\
-    \ \_We are going to have an evening at Stetsons where everyone will be able to\
-    \ meet and mingle to welcome in the holiday season.</p> <p>The main focus for\
-    \ the event will be on kicking off our IGNITE meetup group- a new \u201Ctrack\u201D\
-    \ centered around everything related to professional development / working life.\
-    \ We'll host resume workshops, discuss how to go about salary negotiations, provide\
-    \ tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be\
-    \ subject matter for upcoming meetups. Please stop by with ideas for things you\
-    \ would like to learn more about or topics for the future as we get this work\
-    \ started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll\
-    \ have light appetizers and one free drink ticket for the first 50 people!)</p>"
+    \ led by Josephine and Romina - our new Professional Development leads! \_We are\
+    \ going to have an evening at Stetsons where everyone will be able to meet and\
+    \ mingle to welcome in the holiday season.</p> <p>The main focus for the event\
+    \ will be on kicking off our Professional Development focused events - a new \u201C\
+    track\u201D centered around everything related to professional development / working\
+    \ life. We'll host resume workshops, discuss how to go about salary negotiations,\
+    \ provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above\
+    \ could be subject matter for upcoming meetups. Please stop by with ideas for\
+    \ things you would like to learn more about or topics for the future as we get\
+    \ this work started!</p> <p>And of course, the food and drinks won\u2019t hurt.\
+    \ :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/217444582/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -182,11 +182,11 @@ other:
   headcount: 0
   id: '217444582'
   maybe_rsvp_count: 0
-  name: IGNITE-Professional Development Happy Hour!
+  name: Happy Hour!
   rsvp_limit: 150
   status: upcoming
   time: 1415921400000
-  updated: 1415129769000
+  updated: 1415564429000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -247,7 +247,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 113
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -275,7 +275,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 56
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -628,7 +628,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 - created: 1415549873000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -657,7 +657,7 @@ other:
       202.621.7636 ', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -792,6 +792,55 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 23
+- created: 1415562292000
+  description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
+    ><b>Registration is here\_</b></a><b>-\_</b>use <b>WWCTTH15</b> to get an additional\
+    \ 15% off the event!\_We'll be meeting up together at the event though, so feel\
+    \ free to RSVP here so that we can update you about it!</p> <p>Also it's listed\
+    \ below, but if your company, or another that you know, might be interested in\
+    \ sponsoring - direct them to\_[masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
+    >visit the sponsorships page</a>.</p> <p>~~~ Event Description ~~~</p> <p>Come\
+    \ in from the cold, grab a drink and kick off the holiday season with a bang!</p>\
+    \ <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\_Wednesday,\
+    \ December 3rd\_for the 3rd annual\_<b>DC Web Women's Tech The Halls 2014 Holiday\
+    \ Party</b>\_presented by\_<a href=\"http://www.adobe.com/\">Adobe</a>! \_</p>\
+    \ <p>Tech The Halls! is a celebration that brings together local and national\
+    \ tech groups as one community for the DC area.\_DCWW, UXPA-DC, STC WDC,Web Mavens,\
+    \ Reaching Latinos Online, Color of Tech, Girl Develop It, NAMDE, InfoDevDC, Women\
+    \ Who Code\_and technologists from all over the DC-Metro area will meet, share\
+    \ ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
+    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
+    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
+    \ unify, network, and learn more about changing technology trends and best practices,\
+    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
+    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
+    >DJ Clinton Matthews</a>!!</p> <p><i>Attendees will receive a holiday tech-themed\
+    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
+    \ a very special grand prize!</i></p> <p><i>As always, men are encouraged to attend\
+    \ any DCWW event!</i></p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
+    \ in sponsoring Tech The Halls? please contact us at [masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
+    >visit our sponsorships page</a>.</p> <p>General event questions? Please contact\_\
+    <a href=\"mailto:[masked]\">[masked]</a>.</p> <p><i>**Last day to receive a refund\
+    \ is\_Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/218578778/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '218578778'
+  maybe_rsvp_count: 0
+  name: Tech the Halls
+  status: upcoming
+  time: 1417649400000
+  updated: 1415562292000
+  utc_offset: -18000000
+  venue: {address_1: '1301 K Street, Suite 103', city: Washington, country: us, id: 23469480,
+    lat: 38.902923999999999, lon: -77.030556000000004, name: Capitale, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1415086907000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
@@ -905,7 +954,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1407908606000
   description: "<p>Putting out the call for new and exciting apps and data visualizations\
     \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
@@ -951,7 +1000,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1431,7 +1480,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\

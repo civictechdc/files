@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1414008625000, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1415032769000, 
@@ -168,7 +168,7 @@
         }, 
         {
             "created": 1415054932000, 
-            "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and led by Josephine and Romina - our new Professional Development leads \u00a0for IGNITE! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our IGNITE meetup group- a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
+            "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and led by Josephine and Romina - our new Professional Development leads! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our Professional Development focused events - a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217444582/", 
             "group": {
                 "created": 1395616294000, 
@@ -183,11 +183,11 @@
             "headcount": 0, 
             "id": "217444582", 
             "maybe_rsvp_count": 0, 
-            "name": "IGNITE-Professional Development Happy Hour!", 
+            "name": "Happy Hour!", 
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1415921400000, 
-            "updated": 1415129769000, 
+            "updated": 1415564429000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -231,7 +231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1414444580000, 
@@ -269,7 +269,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1412028192000, 
@@ -526,7 +526,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1415549873000, 
@@ -575,7 +575,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415119879000, 
@@ -678,6 +678,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 23
+        }, 
+        {
+            "created": 1415562292000, 
+            "description": "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"><b>Registration is here\u00a0</b></a><b>-\u00a0</b>use <b>WWCTTH15</b> to get an additional 15% off the event!\u00a0We'll be meeting up together at the event though, so feel free to RSVP here so that we can update you about it!</p> <p>Also it's listed below, but if your company, or another that you know, might be interested in sponsoring - direct them to\u00a0[masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit the sponsorships page</a>.</p> <p>~~~ Event Description ~~~</p> <p>Come in from the cold, grab a drink and kick off the holiday season with a bang!</p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0Wednesday, December 3rd\u00a0for the 3rd annual\u00a0<b>DC Web Women's Tech The Halls 2014 Holiday Party</b>\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>! \u00a0</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0DCWW, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech, Girl Develop It, NAMDE, InfoDevDC, Women Who Code\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p><i>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</i></p> <p><i>As always, men are encouraged to attend any DCWW event!</i></p> <p>Twitter hashtag:\u00a0#techthehalls2014</p> <p>Interested in sponsoring Tech The Halls? please contact us at [masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit our sponsorships page</a>.</p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><i>**Last day to receive a refund is\u00a0Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/218578778/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "218578778", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech the Halls", 
+            "status": "upcoming", 
+            "time": 1417649400000, 
+            "updated": 1415562292000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1301 K Street, Suite 103", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23469480, 
+                "lat": 38.902923999999999, 
+                "lon": -77.030556000000004, 
+                "name": "Capitale", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1415086907000, 
@@ -832,7 +870,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1407908606000, 
@@ -870,7 +908,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1415119879000, 
@@ -1262,7 +1300,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1415119879000, 
