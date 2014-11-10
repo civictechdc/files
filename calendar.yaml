@@ -92,7 +92,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 40
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -123,7 +123,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 82
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -138,7 +138,11 @@ other:
     attendees to pay for online access to the video tutorials. This comes to $70 a
     person (30% discount for Women Who Code members included.)</p> <p>Attendees are
     encouraged to bring their laptops to meetups so we can go over any code questions
-    you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>'
+    you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>
+    <p>Update:<br/>Hi All, We were able to get a promo code from One Month Rails that
+    we will give out during the first meetup. The price of the one month class is
+    $70. Please, please modify your RSVPs if you cannot make it for all 5 meet ups
+    to allow those on the wait list to RSVP. We look forward to seeing you! Thanks!!</p>'
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/217354782/
   fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
@@ -153,7 +157,7 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1415833200000
-  updated: 1415053618000
+  updated: 1415586804000
   utc_offset: -18000000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -190,7 +194,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 55
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -247,7 +251,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 115
 - created: 1414444580000
   description: <p>I'd like to experiment with doing an online class, especially as
     the weather starts to get rough. I am a delicate Southern flower and do not tolerate
@@ -275,7 +279,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -327,7 +331,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -358,7 +362,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -548,7 +552,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 275
+  yes_rsvp_count: 276
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -657,7 +661,7 @@ other:
       202.621.7636 ', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -791,7 +795,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1415562292000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     ><b>Registration is here\_</b></a><b>-\_</b>use <b>WWCTTH15</b> to get an additional\
@@ -1153,7 +1157,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"

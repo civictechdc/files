@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1414008625000, 
@@ -116,11 +116,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1415032769000, 
-            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p>", 
+            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. Attendees will watch the video tutorials and complete exercises during the week. At the meetup, we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will present the applications we built.</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.)</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have. Dates of this meetup will be: 11/12, 11/19, 12/3, 12/10, 12/17</p> <p>Update:<br/>Hi All, We were able to get a promo code from One Month Rails that we will give out during the first meetup. The price of the one month class is $70. Please, please modify your RSVPs if you cannot make it for all 5 meet ups to allow those on the wait list to RSVP. We look forward to seeing you! Thanks!!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217354782/", 
             "fee": {
@@ -148,7 +148,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1415833200000, 
-            "updated": 1415053618000, 
+            "updated": 1415586804000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 K St NW", 
@@ -191,7 +191,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1412436255000, 
@@ -231,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1414444580000, 
@@ -269,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1412028192000, 
@@ -297,7 +297,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1414011250000, 
@@ -335,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1415033293000, 
@@ -460,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 275
+            "yes_rsvp_count": 276
         }, 
         {
             "created": 1379643162000, 
@@ -575,7 +575,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1415119879000, 
@@ -677,7 +677,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1415562292000, 
@@ -1014,7 +1014,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1415033293000, 
