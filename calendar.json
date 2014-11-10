@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 43
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1414008625000, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1415032769000, 
@@ -163,8 +163,8 @@
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
-            "yes_rsvp_count": 26
+            "waitlist_count": 15, 
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1415054932000, 
@@ -191,7 +191,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1412436255000, 
@@ -269,7 +269,34 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 59
+        }, 
+        {
+            "created": 1415635417000, 
+            "description": "<p><b>Please RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/218595069/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "218595069", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee", 
+            "status": "upcoming", 
+            "time": 1416164400000, 
+            "updated": 1415635723000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1412028192000, 
@@ -335,7 +362,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1415033293000, 
@@ -460,7 +487,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 276
+            "yes_rsvp_count": 278
         }, 
         {
             "created": 1379643162000, 
@@ -650,7 +677,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415028866000, 
@@ -677,7 +704,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1415562292000, 
@@ -792,7 +819,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1404749084000, 
@@ -870,11 +897,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>Putting out the call for new and exciting apps and data visualizations about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\" not a hackathon. Got a cool <a href=\"http://www.capitalbikeshare.com/\">CaBi</a> project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>.</p> <p>We'll add speakers here as folks sign up:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research in progress on how bikeshare station popularity is connected to the accessibility of the stations to things such as residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -890,10 +917,10 @@
             "id": "200661602", 
             "maybe_rsvp_count": 0, 
             "name": "CaBi Hack Night III", 
-            "rsvp_limit": 75, 
+            "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1414640800000, 
+            "updated": 1415634883000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -908,7 +935,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1415119879000, 
@@ -1014,7 +1041,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1415033293000, 
@@ -1061,7 +1088,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415066979000, 
@@ -1163,7 +1190,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415119879000, 

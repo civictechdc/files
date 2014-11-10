@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 other:
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
@@ -92,7 +92,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 36
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -123,7 +123,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 94
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -163,8 +163,8 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 16
-  yes_rsvp_count: 26
+  waitlist_count: 15
+  yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
@@ -194,7 +194,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 59
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -279,7 +279,44 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
+- created: 1415635417000
+  description: <p><b>Please RSVP here also:</b> <a href="https://nvite.com/dcfemtech/d7b"><a
+    href="https://nvite.com/dcfemtech/d7b" class="linkified">https://nvite.com/dcfemtech/d7b</a></a></p>
+    <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,
+    informal way to learn, code and work on projects with other members in the community.
+    From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are
+    open to all women or those who support women and minorities in tech. Feel free
+    to come early or stay later. These events are held at public coffee shops, so
+    good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code
+    &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan.
+    These events are very informal so ladies will usually bring their own projects
+    or meet people who are working on similar projects to collaborate together. If
+    you're a beginner we recommend some online tutorials like Code Academy or General
+    Assembly Dash. The hope is that you will find ladies who are learning similar
+    coding languages and projects to work with or ask questions.</p> <p>When you arrive,
+    we'll be around the tables/booths in the back. Look for a few signs. If you can't
+    find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp;
+    Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC,
+    @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources
+    and more events throughout the month!</p> <p><img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif"
+    /></p>
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/218595069/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '218595069'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1416164400000
+  updated: 1415635723000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -362,7 +399,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -552,7 +589,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 276
+  yes_rsvp_count: 278
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -749,7 +786,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 4
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
@@ -795,7 +832,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1415562292000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     ><b>Registration is here\_</b></a><b>-\_</b>use <b>WWCTTH15</b> to get an additional\
@@ -905,7 +942,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1404749084000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -958,34 +995,36 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
 - created: 1407908606000
-  description: "<p>Putting out the call for new and exciting apps and data visualizations\
-    \ about Capital Bikeshare. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
-    >CaBiHackNight I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
-    >CaBiHackNight II</a> to get an idea of how it works. This is a \"show and tell,\"\
-    \ not a hackathon. Got a cool <a href=\"http://www.capitalbikeshare.com/\">CaBi</a>\
-    \ project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy\
-    \ of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations\
-    \ start at 6:30.\_Note our location this month is in DC, at\_WeWork's beautiful\
-    \ space at the\_<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\"\
-    >Wonder Bread Factory</a>.</p> <p>We'll add speakers here as folks sign up:</p>\
-    \ <p>\u2022\_Colin Hughes of the\_<a href=\"https://www.itdp.org/\">Institute\
-    \ for Transportation and Development Policy</a>\_will talk about\_planning principles\
-    \ for bikeshare systems.</p> <p>\u2022\_Trevor Gerhardt will show us a <a href=\"\
-    http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\
-    \_<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes\
-    \ an individual's trip histories with his Trip statistics app.</p> <p>\u2022\_\
-    Paul DeMaio, the program manager of Arlington's Capital Bikeshare service, will\
-    \ share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\_\
-    Zach Rausnitz will show us\_<a href=\"http://www.rausnitz.com/iq/\">Bikeshare\
-    \ IQ</a>.</p> <p><br/>\u2022\_Erek Dyskant of\_<a href=\"http://www.bluelabs.com/\"\
-    >BlueLabs</a>\_will show us a directed graph of CaBi trips that studies neighborhood\
-    \ clusters.</p> <p><br/>\u2022\_<a href=\"http://www.indicatrix.org/\">Matt Conway</a>\
-    \ will present research in progress on how bikeshare station popularity is connected\
-    \ to the accessibility of the stations to things such as residences, jobs, and\
-    \ neighborhood amenities.</p> <p><br/>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for updates.</p>"
+  description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
+    \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
+    \ about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
+    >CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
+    >CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project?\
+    \ We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor\
+    \ <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\_\
+    Note our location this month is in DC, at\_WeWork's beautiful space at the\_<a\
+    \ href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\"\
+    >Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a>\
+    \ for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\_Colin Hughes\
+    \ of the\_<a href=\"https://www.itdp.org/\">Institute for Transportation and Development\
+    \ Policy</a>\_will talk about\_planning principles for bikeshare systems.</p>\
+    \ <p>\u2022\_Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\"\
+    >dcjs data explorer</a> for CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\"\
+    >Mathias Hansen</a> will show us how he visualizes an individual's trip histories\
+    \ with his Trip statistics app.</p> <p>\u2022\_<a href=\"http://www.metrobike.net/\"\
+    >Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study\
+    \ on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\_Zach Rausnitz\
+    \ will show us\_<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p>\
+    \ <p><br/>\u2022\_Erek Dyskant of\_<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\_\
+    will show us a directed graph of CaBi trips that studies neighborhood clusters.</p>\
+    \ <p><br/>\u2022\_<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will\
+    \ present research on how bikeshare station popularity is connected to the stations'\_\
+    accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As\
+    \ always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\"\
+    >#cabihacknight</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -994,17 +1033,17 @@ other:
   id: '200661602'
   maybe_rsvp_count: 0
   name: CaBi Hack Night III
-  rsvp_limit: 75
+  rsvp_limit: 80
   status: upcoming
   time: 1417734000000
-  updated: 1414640800000
+  updated: 1415634883000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 72
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1157,7 +1196,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1415033293000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -1193,7 +1232,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -1321,7 +1360,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 4
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
