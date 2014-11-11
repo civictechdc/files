@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 other:
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
@@ -50,14 +50,14 @@ other:
     \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
     ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
     >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
-    \ at buildings that need access</b></p> <p>Certain building managements requires\
-    \ meetup hosts to let people in and do not encourage them being contacted. Please\
-    \ respect the policy, in case\_the\_location\_requires access to the building\_\
-    contact the group lead if information is provided, or drop a comment on the meetup\
-    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
-    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
-    \ awesome women and want to help us, come on out! \_Drop us a message or email\
-    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ at buildings</b></p> <p>Certain building managements requires meetup hosts to\
+    \ let people in and do not encourage them being contacted. Please respect the\
+    \ policy, in case\_the\_location\_requires access to the building\_contact the\
+    \ group lead if information is provided, or drop a comment on the meetup page.\
+    \ We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group leader?\_\
+    </b></p> <p>If you are passionate about learning JavaScript with fellow awesome\
+    \ women and want to help us, come on out! \_Drop us a message or email us and\
+    \ let us know that you are interested in helping us with the JS study group!</p>\
     \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
     \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
     <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
@@ -85,14 +85,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1415662200000
-  updated: 1415119798000
+  updated: 1415657174000
   utc_offset: -18000000
   venue: {address_1: 1630 Connecticut Ave NW 7th Floor, city: Washington, country: us,
     id: 9483992, lat: 38.912044999999999, lon: -77.045258000000004, name: iStrategyLabs,
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
 - created: 1414008625000
   description: "<p>As the weather gets colder and the leaves start to fall, there's\
     \ nothing better to gather around than the warm flames of APIs, making the world\
@@ -123,7 +123,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1415032769000
   description: '<p>Learn to create a Ruby on Rails application in one month! This
     meetup will follow the "One Month Rails" video series (<a href="https://onemonth.com/courses/one-month-rails"
@@ -163,7 +163,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 18
   yes_rsvp_count: 25
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
@@ -194,7 +194,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 61
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -312,11 +312,11 @@ other:
   name: Code & Coffee
   status: upcoming
   time: 1416164400000
-  updated: 1415635723000
+  updated: 1415658671000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 9
 - created: 1412028192000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -368,7 +368,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -589,7 +589,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 278
+  yes_rsvp_count: 281
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -630,7 +630,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 43
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -639,19 +639,22 @@ other:
     \ of developers, innovators and influential thought leaders on November 21st!\
     \ \_Come learn something new, play with code in the code lab, make new friends,\
     \ sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p>\
-    \ <p>Steven Kim - Google - How to code like Google</p> <p>Our 2015 Devfest will\
-    \ have multiple hands-on code labs, technical talks, and panels on all things\
-    \ Google, including:</p> <p>+ Android Wear</p> <p>+ Polymer</p> <p>+ Cloud</p>\
-    \ <p>+ Angular</p> <p>+ Design...design, design.</p> <p>+ Big Data</p> <p>+ Go</p>\
-    \ <p>+ much more...</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
-    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
-    \ you!&gt;&gt;\_</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a>\
-    \ for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\"\
-    >Google Developer Group DC</a>.</p> <p>Last two year event schedule is at <a href=\"\
-    http://www.devfestdc.org/\">DevFestDC</a></p> <p>See ya at the event!</p> <p><a\
+    \ <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick\
+    \ - <b>Google</b> - Polymer Session -</p> <p>Peter Burkholder - Chef - Google\
+    \ Compute Engine + Chef (DevOps)</p> <p>Kalev Leetaru - GDELT Project - Google\
+    \ BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal - <b>Google</b>\
+    \ - Cloud</p> <p>Mark Helmstetter - mongoDB - Google Compute Engine + mongoDB\
+    \ -</p> <p>Todd Reedy - <b>Google</b> - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik\
+    \ Isaksen - 3Pilllar Global - Polymer</p> <p>Danny Blue - Deloitte Digital - Polymer</p>\
+    \ <p><br/><b>Code Labs</b></p> <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p>\
+    \ <p>AngularJS - 3 Sessions</p> <p><br/>Android Wear - Mini Hackathon</p> <p><a\
     \ href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This\
     \ is a paid event, please purchase your tickets at this link. \_Thank you!&gt;&gt;\_\
-    </a></p>"
+    </a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details\
+    \ and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\"\
+    >Google Developer Group DC</a>.</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
+    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
+    \ you!&gt;&gt;\_</a></p>"
   duration: 32400000
   event_url: http://www.meetup.com/gdg-dc/events/215327092/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
@@ -663,13 +666,13 @@ other:
   name: DevFestDC 2014 - Google Developer Group DC
   status: upcoming
   time: 1416574800000
-  updated: 1415132502000
+  updated: 1415644777000
   utc_offset: -18000000
   venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1415549873000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -698,7 +701,7 @@ other:
       202.621.7636 ', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -921,7 +924,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1412599788000
   description: <p>Details are forthcoming!</p>
   duration: 9000000
@@ -995,7 +998,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -1043,7 +1046,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 77
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1523,7 +1526,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
