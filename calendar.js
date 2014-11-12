@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 48
         }
     ], 
     "other": [
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1415032769000, 
@@ -123,8 +123,8 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
-            "yes_rsvp_count": 25
+            "waitlist_count": 13, 
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1415054932000, 
@@ -191,7 +191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1414444580000, 
@@ -229,11 +229,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1415635417000, 
-            "description": "<p><b>Please RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/dcfemtech/d7b\" class=\"linkified\">https://nvite.com/dcfemtech/d7b</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
+            "description": "<p><b>Please RSVP here also:</b> <a href=\"https://nvite.com/dcfemtech/d7b\"><a href=\"https://nvite.com/CodeCoffee/cd0\" class=\"linkified\">https://nvite.com/CodeCoffee/cd0</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/218595069/", 
             "group": {
@@ -252,11 +252,11 @@ calendar({
             "name": "Code & Coffee", 
             "status": "upcoming", 
             "time": 1416164400000, 
-            "updated": 1415658671000, 
+            "updated": 1415732232000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1412028192000, 
@@ -284,7 +284,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1414011250000, 
@@ -447,7 +447,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 283
+            "yes_rsvp_count": 284
         }, 
         {
             "created": 1379643162000, 
@@ -513,7 +513,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1415549873000, 
@@ -562,7 +562,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1415119879000, 
@@ -652,7 +652,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1415562292000, 
@@ -728,7 +728,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1412599788000, 
@@ -767,7 +767,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1404749084000, 
@@ -883,7 +883,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1415119879000, 
@@ -949,7 +949,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415149990000, 
@@ -989,7 +989,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1415033293000, 
