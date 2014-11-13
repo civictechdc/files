@@ -1,44 +1,6 @@
 {
     "codefordc": [
         {
-            "created": 1415133387000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/217635662/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "217635662", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1415835000000, 
-            "updated": 1415133387000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th St NW, Second Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20407722, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 55
-        }, 
-        {
             "created": 1415829873000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -345,44 +307,6 @@
     ], 
     "other": [
         {
-            "created": 1414008625000, 
-            "description": "<p>As the weather gets colder and the leaves start to fall, there's nothing better to gather around than the warm flames of APIs, making the world and our lives better and more productive. \u00a0Go ahead and mark your calendars now for this next meetup. \u00a0We've got a great group of presenters and nothing is better on a fall evening than warm pizza, good beer, and interesting conversations with new people. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Erik Arnold, Greg Gershman - General Services Administration, Ad Hoc LLC<br/>* Matt Grasmick, Damian Danchenko - Department of Justice\u00a0<br/>* Max Katz - Appery.io<br/>* Lindsay Hunt, Shawn Johnson - Regulations.gov\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/215031462/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "215031462", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - November Edition", 
-            "status": "upcoming", 
-            "time": 1415833200000, 
-            "updated": 1414703967000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1900 M Street, NW - 3rd floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 12283102, 
-                "lat": 38.905430000000003, 
-                "lon": -77.043746999999996, 
-                "name": "Chief", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 100
-        }, 
-        {
             "created": 1415054932000, 
             "description": "<p>THIS is the moment we have all been waiting for. Women Who Code DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and led by Josephine and Romina - our new Professional Development leads! \u00a0We are going to have an evening at Stetsons where everyone will be able to meet and mingle to welcome in the holiday season.</p> <p>The main focus for the event will be on kicking off our Professional Development focused events - a new \u201ctrack\u201d centered around everything related to professional development / working life. We'll host resume workshops, discuss how to go about salary negotiations, provide tips on how to post/apply to jobs, etc. etc. etc.- all of the above could be subject matter for upcoming meetups. Please stop by with ideas for things you would like to learn more about or topics for the future as we get this work started!</p> <p>And of course, the food and drinks won\u2019t hurt. :) (We'll have light appetizers and one free drink ticket for the first 50 people!)</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217444582/", 
@@ -407,7 +331,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1412436255000, 
@@ -485,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1415635417000, 
@@ -578,7 +502,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1415033293000, 
@@ -703,7 +627,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 286
+            "yes_rsvp_count": 287
         }, 
         {
             "created": 1379643162000, 
@@ -908,7 +832,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1415562292000, 

@@ -1,43 +1,4 @@
 codefordc:
-- created: 1415133387000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
-    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
-    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
-    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
-    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
-    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
-    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
-    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
-    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
-    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
-    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
-    \ Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/217635662/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '217635662'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1415835000000
-  updated: 1415133387000
-  utc_offset: -18000000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 55
 - created: 1415829873000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -351,37 +312,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1414008625000
-  description: "<p>As the weather gets colder and the leaves start to fall, there's\
-    \ nothing better to gather around than the warm flames of APIs, making the world\
-    \ and our lives better and more productive. \_Go ahead and mark your calendars\
-    \ now for this next meetup. \_We've got a great group of presenters and nothing\
-    \ is better on a fall evening than warm pizza, good beer, and interesting conversations\
-    \ with new people. \_See you soon! \_</p> <p>6:00pm - 6:30pm Food, drinks and\
-    \ networking\_<br/>6:40pm - 6:50pm Introductions and Announcements\_<br/>6:50pm\
-    \ - 8:00pm Presentations</p> <p>* Erik Arnold, Greg Gershman - General Services\
-    \ Administration, Ad Hoc LLC<br/>* Matt Grasmick, Damian Danchenko - Department\
-    \ of Justice\_<br/>* Max Katz - Appery.io<br/>* Lindsay Hunt, Shawn Johnson -\
-    \ Regulations.gov\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm -\
-    \ 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/215031462/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '215031462'
-  maybe_rsvp_count: 0
-  name: DC API User Group - November Edition
-  status: upcoming
-  time: 1415833200000
-  updated: 1414703967000
-  utc_offset: -18000000
-  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
-    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
-    repinned: false, state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 100
 - created: 1415054932000
   description: "<p>THIS is the moment we have all been waiting for. Women Who Code\
     \ DC\u2019s very first happy hour! Sponsored by the wonderful Eliassen Group and\
@@ -411,7 +341,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 62
 - created: 1412436255000
   description: "<p>For our November meetup we are pleased to feature Dr. Stephen Penn\
     \ discussing the cultural changes that take place when switching to be a Big Data\
@@ -496,7 +426,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1415635417000
   description: "<p><b>Please RSVP here also:</b>\_<a href=\"https://nvite.com/CodeCoffee/cd0\"\
     ><a href=\"https://nvite.com/CodeCoffee/cd0\" class=\"linkified\">https://nvite.com/CodeCoffee/cd0</a></a></p>\
@@ -616,7 +546,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -823,7 +753,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 286
+  yes_rsvp_count: 287
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -1083,7 +1013,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 27
 - created: 1415562292000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     ><b>Registration is here\_</b></a><b>-\_</b>use <b>WWCTTH15</b> to get an additional\
