@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1415829900000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -396,7 +396,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 66
 - created: 1414011250000
   description: "<p>Who doesn\u2019t have a story to tell?! This month come hang out\
     \ at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019\
@@ -427,7 +427,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -498,7 +498,7 @@ other:
       Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 134
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -581,7 +581,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 290
+  yes_rsvp_count: 296
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -664,7 +664,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
@@ -710,7 +710,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1415086907000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
@@ -824,7 +824,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -872,7 +872,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -907,7 +907,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 40
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -973,7 +973,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -1013,7 +1013,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1072,7 +1072,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
