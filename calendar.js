@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1415829900000, 
@@ -307,46 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1412436255000, 
-            "description": "<p>For our November meetup we are pleased to feature Dr. Stephen Penn discussing the cultural changes that take place when switching to be a Big Data organization.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food</p> <p>6:55 PM -- Greetings &amp; Door Prizes</p> <p>7:00 PM -- <i>A\u00a0</i><i>Big Data Culture</i> -\u00a0Stephen Penn, DM, PMP</p> <p>8:30 PM -- Post event drinks at\u00a0Looney's Pub (<a href=\"https://maps.google.com/maps?q=looney%27s+pub+maple+lawn&amp;fb=1&amp;gl=us&amp;hq=looney%27s+pub+maple+lawn&amp;hnear=0x89b7f8c5dc086bb1:0xf52eac251a995b95,Lake+Shore,+MD&amp;cid=0,0,7250839125243942391&amp;t=v&amp;z=16\">8180 Maple Lawn Blvd, Fulton, MD</a>)</p> <p>\u00a0</p> <p><b>Location</b></p> <p>Johns Hopkins University Applied Physics Laboratory (APL)</p> <p>Building 200 Room E100</p> <p>11100 Johns Hopkins Road</p> <p>Laurel, MD 20723</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p> <p>\u00a0</p> <p><b>Directions</b></p> <p>After the traffic light at Montpelier Road and Johns Hopkins Road, move into the Left-most lane on Johns Hopkins Rd. You will first pass the pond on your right and then see our 5-story Bldg 200 on your left.</p> <p>Turn Left either just at Bldg 200 or at the traffic light just beyond it (where the tree-lined entrance road to the old campus is to the right). Either turn will take you into a multi-linked parking lot for Bldg 200.</p> <p>Park in any unmarked space.</p> <p>The entrance lobby to Bldg 200 is on the South side (opposite from Johns Hopkins Road), under the glassed-in curved windows of the 2nd floor projection.</p> <p>\u00a0</p> <p><b>Talks</b></p> <p><i><b>A Big Data Culture</b></i><br/><a href=\"http://geomesa.github.io/\">&lt;/a&gt;Big Data creates a opportunity to base decisions, especially strategic decisions, on evidence. Current management practitioners are able to switch from anecdotal evidence to empirical evidence. This switch requires a change in organizational culture.</p> <p>\u00a0</p> <p><b>Speakers</b></p> <p>&lt;a href=\"http://www.linkedin.com/pub/anna-onishi-cfa/1/b74/24\"&gt;</a></p> <p><a href=\"http://www.linkedin.com/in/stephenpenn\">Dr. Penn</a> is an Assistant Professor in the Computer Science department at Hood College in Frederick, MD. He earned his Doctor of Management from University of Maryland University College. His dissertation focused on data-driven decision making. He earned an MBA from Frostburg State University and bachelor's degrees in mathematics and Russian from University of Texas at Arlington. He is certified in project management and earned value management. Steve has worked in information technology for more than 20 years, specializing in database development and analytics. His experience in analytics includes projects focused on student achievement in higher education, insurance fraud and workforce optimization. Dr. Penn can be emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/211381012/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "211381012", 
-            "maybe_rsvp_count": 0, 
-            "name": "Big Data Culture: Switching to Evidence Based Decisions", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1416007800000, 
-            "updated": 1412805443000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "11100 Johns Hopkins Road", 
-                "city": "Laurel", 
-                "country": "us", 
-                "id": 11286692, 
-                "lat": 39.164036000000003, 
-                "lon": -76.896636999999998, 
-                "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "20723"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 125
-        }, 
-        {
             "created": 1414444580000, 
             "description": "<p>I'd like to experiment with doing an online class, especially as the weather starts to get rough. I am a delicate Southern flower and do not tolerate snow well.</p> <p><br/>I'm going to try to do this via Hangouts on Air. This means that I won't be able to see anyone else's screen, but you'll be able to see mine. You'll also be able to send me questions via the Q+A app.</p> <p>It'll be a learning experience for us all.</p> <p><br/>This will be a basic Intro to Python course. I'll send out install instructions before the class date. Because I can't see your screen, I'll need everyone to try to get Python installed before the class starts. That way, if you have issues, one of us can help you out.</p>", 
             "duration": 10800000, 
@@ -458,7 +418,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1414371914000, 
@@ -498,7 +458,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 296
+            "yes_rsvp_count": 313
         }, 
         {
             "created": 1379643162000, 
@@ -564,7 +524,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1415028866000, 
@@ -822,7 +782,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1415149990000, 
@@ -862,7 +822,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1415066979000, 
