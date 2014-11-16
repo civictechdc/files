@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 425,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 426,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -308,7 +308,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-11-15T04:14:17Z'
-  size: 14601
+  size: 14959
   updated_at: '2014-11-13T01:50:16Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -391,8 +391,8 @@
   size: 2354
   updated_at: '2014-11-14T17:11:38Z'
   watchers: 10
-- activity: [6, 7, 5, 7, 7, 3, 0, 3, 4, 6, 7, 9, 5, 4, 6, 6, 4, 5, 6, 4, 6, 6, 5,
-    7, 4, 6, 7, 3, 6, 7, 32, 6, 5, 5, 5, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10,
+- activity: [6, 5, 7, 7, 7, 1, 0, 4, 5, 6, 10, 6, 4, 4, 7, 4, 5, 6, 6, 4, 6, 5, 6,
+    6, 5, 6, 6, 4, 6, 25, 15, 5, 5, 4, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10,
     7, 6, 6]
   civic_json: null
   contributors:
@@ -454,8 +454,8 @@
   size: 2932
   updated_at: '2014-08-01T20:47:07Z'
   watchers: 1
-- activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 11, 6, 11, 6, 1, 9, 4, 1, 0,
+- activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 4, 5, 0, 8, 0, 13, 4, 14, 3, 5, 5, 5, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -485,7 +485,7 @@
   size: 10140
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
-- activity: [0, 5, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3,
+- activity: [0, 6, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -548,7 +548,7 @@
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -597,11 +597,11 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 120,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 121,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=3', contributions: 24,
     link: 'https://github.com/saulshanabrook', name: saulshanabrook}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 2,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 6,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14930?v=3', contributions: 1,
     link: 'https://github.com/adunkman', name: adunkman}
@@ -621,20 +621,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 22484]
+  - [Python, 31029]
   - [CSS, 5195]
-  - [JavaScript, 658]
+  - [JavaScript, 5165]
   main_language: Python
   name: Campaign Finance Watch
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-10-31T03:56:54Z'
+  pushed_at: '2014-11-15T19:42:23Z'
   size: 25662
   updated_at: '2014-10-15T01:16:27Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5, 2, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -722,10 +722,10 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    10, 81, 3]
+    16, 75, 4]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 94,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 95,
     link: 'https://github.com/cmgiven', name: cmgiven}
   contributors_count: 1
   created_at: '2014-10-31T01:37:53Z'
@@ -737,7 +737,7 @@
   html_url: https://github.com/cmgiven/open-election-map
   id: 25997253
   languages:
-  - [JavaScript, 237578]
+  - [JavaScript, 238146]
   - [CSS, 22839]
   - [Ruby, 1576]
   main_language: JavaScript
@@ -745,7 +745,7 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2014-11-11T23:05:16Z'
+  pushed_at: '2014-11-15T22:44:51Z'
   size: 868
   updated_at: '2014-11-10T15:19:49Z'
   watchers: 7
