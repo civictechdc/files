@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 426,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 437,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -63,17 +63,17 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 92767]
-  - [CSS, 11025]
+  - [Ruby, 97653]
+  - [CSS, 12234]
   - [Puppet, 5220]
-  - [CoffeeScript, 1322]
+  - [CoffeeScript, 1533]
   - [JavaScript, 663]
   main_language: Ruby
   name: Affordable Housing
-  open_issues: 12
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-15T18:19:53Z'
+  pushed_at: '2014-11-17T01:10:33Z'
   size: 20876
   updated_at: '2014-11-13T00:37:18Z'
   watchers: 12
@@ -391,9 +391,9 @@
   size: 2354
   updated_at: '2014-11-14T17:11:38Z'
   watchers: 10
-- activity: [6, 5, 7, 7, 7, 1, 0, 4, 5, 6, 10, 6, 4, 4, 7, 4, 5, 6, 6, 4, 6, 5, 6,
-    6, 5, 6, 6, 4, 6, 25, 15, 5, 5, 4, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10,
-    7, 6, 6]
+- activity: [6, 5, 7, 7, 6, 1, 0, 4, 5, 7, 10, 6, 3, 5, 6, 4, 5, 6, 6, 4, 6, 5, 7,
+    5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6, 5, 5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10,
+    7, 5, 6]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 391,
@@ -455,7 +455,7 @@
   updated_at: '2014-08-01T20:47:07Z'
   watchers: 1
 - activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 4, 5, 0, 8, 0, 13, 4, 14, 3, 5, 5, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -485,7 +485,7 @@
   size: 10140
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
-- activity: [0, 6, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
+- activity: [0, 7, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -722,7 +722,7 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    16, 75, 4]
+    23, 68, 4]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 95,

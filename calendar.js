@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1415829900000, 
@@ -346,7 +346,7 @@ calendar({
         }, 
         {
             "created": 1408981913000, 
-            "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p>More speakers coming as soon as we get their bios. <i>If there is someone that you think would make a great speaker for this event, please comment below.</i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:00pm Speakers and Questions</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>Speakers and Talks</b></p> <p><b><br/></b></p> <p><b>Data-driven Methods for Causal Analysis of Emergency Room Delays</b></p> <p><b>Abstract:</b> Emergency Room (ER) delay is a widespread problem that negatively affects patient safety, quality of care, and patient satisfaction. We employ novel data analytics approaches such as competing risk analysis and Bayesian networks in conjunction with historical data comprised of more than 8 million records and 70,000 ER visits in three years to study the root causes of ER delays. Competing risk survival analysis identifies contribution of each cause to the length of delay.\u00a0 Bayesian network models show interaction among different causes of delay.\u00a0 This analysis shows that ER delays were mostly related to the hospital operations outside the ER. Expanding ER, increasing staff, or improving operations of ER were less likely to have an impact on delay than interventions that improved hospital occupancy (better discharge, expansion of beds, etc.) or improved laboratory response times.\u00a0</p> <p><b>Presenter Bio:</b> Shervin AhmadBeygi is currently the director of systems redesign in the Washington DC Veterans Affairs Medical Center. He received his Ph.D. in Industrial and Operations Engineering from the University of Michigan. His key research areas are in modeling and solving complex real-world optimization problems under uncertainty using mathematical programming and simulation with applications to health care, transportation, and aviation. He is an active member of the Institute for Operations Research and Management Sciences (INFORMS) and the Washington DC chapter.</p> <p><br/><b><i>Video Killed the Radio Star</i>\u00a0</b></p> <p>How do you serve 40 million video ads a day to online users across 25 countries, while ensuring that the right ad is shown to the right person on the right website at the right time?\u00a0 With a lot of help from math, that's how!\u00a0 Come hear how Videology, an Internet advertising company, combines mathematical programming, predictive modeling, and big data techniques to meet the objectives of advertisers and online publishers, while respecting the privacy of users and\u00a0combating\u00a0internet traffic fraud.</p> <p><br/>Kaushik Sinha, Ph.D., is a Senior Scientist in Research and Development at the Videology Group, one of the world's leading video advertising platforms. Dr. Sinha has extensive experience applying optimization, machine learning and statistical techniques to challenging problems across a spectrum of industries such as satellite communications and options trading. In his current role, he leads Videology's initiatives in the areas of\u00a0machine learning, big data analytics, and predictive modeling. Kaushik holds a Ph.D. degree in Systems Engineering from the University of Virginia and a Bachelors of Technology from the Indian Institute of Technology.</p>", 
+            "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p><i><b>If there is someone that you think would make a great speaker for this event, please comment below.</b></i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:00pm Speakers and Questions</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>SPEAKERS AND TALKS</b></p> <p><b>Data-driven Methods for Causal Analysis of Emergency Room Delays</b></p> <p><b>Abstract:</b> Emergency Room (ER) delay is a widespread problem that negatively affects patient safety, quality of care, and patient satisfaction. We employ novel data analytics approaches such as competing risk analysis and Bayesian networks in conjunction with historical data comprised of more than 8 million records and 70,000 ER visits in three years to study the root causes of ER delays. Competing risk survival analysis identifies contribution of each cause to the length of delay.\u00a0 Bayesian network models show interaction among different causes of delay.\u00a0 This analysis shows that ER delays were mostly related to the hospital operations outside the ER. Expanding ER, increasing staff, or improving operations of ER were less likely to have an impact on delay than interventions that improved hospital occupancy (better discharge, expansion of beds, etc.) or improved laboratory response times.\u00a0</p> <p><b>Presenter Bio:</b> Shervin AhmadBeygi is currently the director of systems redesign in the Washington DC Veterans Affairs Medical Center. He received his Ph.D. in Industrial and Operations Engineering from the University of Michigan. His key research areas are in modeling and solving complex real-world optimization problems under uncertainty using mathematical programming and simulation with applications to health care, transportation, and aviation. He is an active member of the Institute for Operations Research and Management Sciences (INFORMS) and the Washington DC chapter.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/203039932/", 
             "group": {
@@ -365,7 +365,7 @@ calendar({
             "name": "Going Back to the Future - Operations Research and Data Science", 
             "status": "upcoming", 
             "time": 1416524400000, 
-            "updated": 1415296943000, 
+            "updated": 1416164461000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "805 21st St. NW", 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1414371914000, 
@@ -420,7 +420,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 340
+            "yes_rsvp_count": 343
         }, 
         {
             "created": 1379643162000, 
@@ -513,7 +513,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415086907000, 
@@ -706,7 +706,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1411918757000, 
@@ -744,7 +744,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1415149990000, 
