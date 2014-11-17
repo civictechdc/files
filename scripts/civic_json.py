@@ -86,7 +86,10 @@ for project in tracked:
         name = key
         link = value
 
+    print "Finding out about " + name
+
     # Get the basic Github data
+    print "...Getting Github repo data"
     url = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token '+GITHUB_TOKEN}
     r = requests.get(url, headers = headers).json()
@@ -114,6 +117,7 @@ for project in tracked:
     }
 
     # Add in contributor information from Github
+    print "...Getting contributor info"
     contributors = []
     con = requests.get(r['contributors_url'], headers = headers).json()
     for c in con:
@@ -127,6 +131,7 @@ for project in tracked:
     data['contributors_count'] = len(contributors)
 
     # Get Github activity on the default branch for the past year
+    print "...Getting the past year's Github activity"
     activity = requests.get(url+"/stats/participation", headers = headers).json()
     try:
         data['activity'] = activity['all']
@@ -136,10 +141,12 @@ for project in tracked:
         data['activity'] = activity['all']
 
     # Get languages used in the Github repo
+    print "...Getting languages used"
     languages = requests.get(url+"/languages", headers = headers).json()
     data['languages'] = sorted(languages.iteritems(), key=operator.itemgetter(1), reverse=True)
 
     # Look for issues tagged as "help wanted"
+    print "...Getting help wanted issues"
     issues = requests.get(url+"/issues", headers = headers).json()
     help_wanted = []
     for i in issues:
@@ -162,24 +169,26 @@ for project in tracked:
 
     # Check if civic.json file is in repo
     # If so, validate it before adding the data
+    print "...Checking for civic.json data"
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/civic.json').json()
         try:
             validictory.validate(civic,schema)
         except ValueError, error:
-            print error
-            print civic
-            print "\n\n"
+            print "civic.json error: " + error
+            print "Here's the file: " + civic
             civic = None
     except ValueError:
         civic = None
     data['civic_json'] = civic
 
     # Oh yeah, the project's name
+    print "...Adding a nice-looking name\n"
     data['name'] = name
     output.append(data)
 
 # Write the JSON, JSONP, and YAML files
+print "Writing it all to files"
 
 json = json.dumps(output, sort_keys=True, indent=4)
 
@@ -195,3 +204,5 @@ yml = yaml.safe_dump(output)
 
 with open(path + '/../projects.yaml', 'w') as f:
     f.write(yml)
+
+print "Done!"
