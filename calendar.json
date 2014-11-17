@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415829900000, 
@@ -380,7 +380,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 143
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1414371914000, 
@@ -420,7 +420,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 343
+            "yes_rsvp_count": 344
         }, 
         {
             "created": 1379643162000, 
@@ -447,7 +447,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1414121795000, 
@@ -594,7 +594,7 @@
         }, 
         {
             "created": 1404749084000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us in December for our Legal Hackie Awards and Holiday Party</p> <p>7-7:30 Food, drinks and networking holiday party addition</p> <p>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 9:00 Food, drinks and networking holiday party addition</p> <p>Follow along on twitter with the hashtag #LegalHack or at www.twitter.com/DCLegalHackers</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>Nominate Legal Hackie Awardees <a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>. 7-7:30 Food, drinks and networking holiday party addition</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 9:00 Food, drinks and networking holiday party addition</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
             "group": {
@@ -610,10 +610,10 @@
             "headcount": 0, 
             "id": "193499902", 
             "maybe_rsvp_count": 0, 
-            "name": "Legal Hackie Awards and Holiday Party", 
+            "name": "Le Hackie Awards and Holiday Party", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1413992793000, 
+            "updated": 1416201340000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
