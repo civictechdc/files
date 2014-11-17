@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415829900000, 
@@ -134,8 +134,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1422401400000, 
-            "updated": 1415829952000, 
+            "time": 1422487800000, 
+            "updated": 1416242661000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Second Floor", 
@@ -210,8 +210,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1424820600000, 
-            "updated": 1415830056000, 
+            "time": 1424907000000, 
+            "updated": 1416242685000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Second Floor", 
@@ -342,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1408981913000, 
@@ -420,7 +420,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 344
+            "yes_rsvp_count": 351
         }, 
         {
             "created": 1379643162000, 
@@ -447,7 +447,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1414121795000, 
@@ -486,7 +486,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1415028866000, 
@@ -513,7 +513,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415086907000, 
@@ -594,8 +594,8 @@ calendar({
         }, 
         {
             "created": 1404749084000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>Nominate Legal Hackie Awardees <a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>. 7-7:30 Food, drinks and networking holiday party addition</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 9:00 Food, drinks and networking holiday party addition</p> <p>Follow along on twitter with the hashtag #LegalHack or at <a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
-            "duration": 7200000, 
+            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP <a href=\"https://lehackieawards.splashthat.com\">here</a> today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
+            "duration": 14400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
             "group": {
                 "created": 1372871984000, 
@@ -613,7 +613,7 @@ calendar({
             "name": "Le Hackie Awards and Holiday Party", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416201340000, 
+            "updated": 1416246824000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
@@ -628,7 +628,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1326383071000, 
@@ -706,7 +706,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1411918757000, 
@@ -815,7 +815,7 @@ calendar({
         }, 
         {
             "created": 1414594350000, 
-            "description": "<p>Learn about Flask without leaving your house! Flask is a micro-framework that you can use to create dynamic websites with only a bit of HTML and Python.</p> <p><br/>Because this will be held via Hangouts On Air, it is vital that you have everything installed before the class starts. Installation instructions will be made available before the class. If you have any problems, ping us!</p> <p>Things you need to have installed:</p> <p>\u2022 Python (2.7+)</p> <p><br/>\u2022\u00a0pip (we use it to install Flask)</p> <p><br/>\u2022 Flask</p> <p>\u2022 Git (for accessing the class materials)</p>", 
+            "description": "<p>Learn about Flask without leaving your house! Flask is a micro-framework that you can use to create dynamic websites with only a bit of HTML and Python.</p> <p><br/>Because this will be held via Hangouts On Air, it is vital that you have everything installed before the class starts. Installation instructions will be made available before the class. If you have any problems, ping us!</p> <p>Things you need to have installed:</p> <p>\u2022 Python (2.7+)</p> <p><br/>\u2022\u00a0pip (we use it to install Flask)</p> <p><br/>\u2022 Flask</p> <p>\u2022 Git (for accessing the class materials)</p> <p><a href=\"https://plus.google.com/events/ch7kuda2oj19n5mpmih7moe5hk8?authkey=CIm_2fDv7-3A-wE\">Here is the link for the class</a>. You won't see much until the class starts.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/216344622/", 
             "group": {
@@ -834,7 +834,7 @@ calendar({
             "name": "Flask in your PJ's!", 
             "status": "upcoming", 
             "time": 1418481000000, 
-            "updated": 1416072094000, 
+            "updated": 1416226564000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
