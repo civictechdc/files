@@ -342,7 +342,7 @@ other:
       Dev Center, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1408981913000
   description: "<p>Operations Research has long helped large organizations and governments\
     \ make better decisions through statistics and data. Now, this new-fangled Data\
@@ -397,7 +397,7 @@ other:
       Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 140
+  yes_rsvp_count: 141
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -480,7 +480,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 355
+  yes_rsvp_count: 356
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -670,7 +670,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1404749084000
   description: "<p>On December 3rd, join the DC Legal Hackers community for our\_\
     first\_ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie\
@@ -704,7 +704,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -875,7 +875,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -962,7 +962,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>Doors open at 6:00 with pizza and drinks, and the presentations start at\
@@ -972,12 +972,15 @@ other:
     \ Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
     >RITIS</a>).</p> <p>\u2022\_Van Standifer will show us <a href=\"http://flexspot.co/\"\
     >Flexspot</a>, an app he developed in Georgetown University to create a market\
-    \ for private parking spaces.</p> <p><br/>\u2022 <a href=\"https://www.parkingpanda.com/\"\
+    \ for private parking spaces.</p> <p><br/>\u2022\_<a href=\"https://www.parkingpanda.com/\"\
     >ParkingPanda</a> will talk about their app that lets drivers\_reserve parking\
-    \ in advance.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up\
-    \ to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
-    for \"Transportation Techies\" updates.</p>"
+    \ in advance.</p> <p><br/>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
+    >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
+    \ employers and government agencies to drive improvements in metro mobility.</p>\
+    \ <p>Do you have an auto-centric app or data viz? Sign up to present by contacting\
+    \ <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\_\
+    </p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
+    \ \"Transportation Techies\" updates.</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Transportation-Techies/events/213357602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -992,14 +995,14 @@ other:
   rsvp_limit: 60
   status: upcoming
   time: 1420758000000
-  updated: 1414430142000
+  updated: 1416279735000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 21
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
