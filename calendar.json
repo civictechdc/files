@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415829900000, 
@@ -342,7 +342,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1408981913000, 
@@ -420,7 +420,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 356
+            "yes_rsvp_count": 360
         }, 
         {
             "created": 1379643162000, 
@@ -513,7 +513,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1415086907000, 
@@ -551,7 +551,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1412599788000, 
@@ -590,11 +590,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1404749084000, 
-            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP <a href=\"https://lehackieawards.splashthat.com\">here</a> today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
+            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP here\u00a0today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
             "duration": 14400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
             "group": {
@@ -613,7 +613,7 @@
             "name": "Le Hackie Awards and Holiday Party", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416246824000, 
+            "updated": 1416320027000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
@@ -628,7 +628,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1326383071000, 
@@ -668,7 +668,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1407908606000, 
@@ -706,7 +706,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1411918757000, 
@@ -784,7 +784,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1415066979000, 
@@ -811,7 +811,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1414594350000, 
@@ -838,7 +838,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1326383071000, 
@@ -919,7 +919,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1379643162000, 
@@ -946,7 +946,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1413740084000, 
