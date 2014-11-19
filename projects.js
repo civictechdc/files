@@ -457,7 +457,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 41, 
+        "open_issues": 39, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -471,8 +471,8 @@ projects([
     }, 
     {
         "activity": [
-            0, 
-            5, 
+            1, 
+            4, 
             2, 
             0, 
             0, 
@@ -497,8 +497,8 @@ projects([
             0, 
             0, 
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
