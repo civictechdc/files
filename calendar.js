@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1415829929000, 
@@ -307,44 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1414011250000, 
-            "description": "<p>Who doesn\u2019t have a story to tell?! This month come hang out at Esri\u2019s R&amp;D Office in Rosslyn to learn how to make Story Maps. We\u2019ll talk about the story boarding process and how spatial narratives are bridging the gap between GIS and your community.\u00a0Esri Story Maps are both open source and public facing while enabling anyone to create sleek geographically focused narratives on the web. By the time you leave you\u2019ll have made two different types of story maps!\u00a0</p> <p>If you already have an ArcGIS Online account personal or organizational great! If not, and to get a jump start on this event head to the site below and sign up for a free online account here;</p> <p><a href=\"https://www.arcgis.com/home/createaccount.html\"><a href=\"https://www.arcgis.com/home/createaccount.html\" class=\"linkified\">https://www.arcgis.com/home/createaccount.html</a></a></p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/215039132/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "http://dc.esri.com/", 
-            "id": "215039132", 
-            "maybe_rsvp_count": 0, 
-            "name": "Maptime: ESRI StoryMaps", 
-            "status": "upcoming", 
-            "time": 1416353400000, 
-            "updated": 1414684598000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1001 19th St. North, Suite 910", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 23139382, 
-                "lat": 38.897305000000003, 
-                "lon": -77.069229000000007, 
-                "name": "ESRI DC Dev Center", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 63
-        }, 
-        {
             "created": 1408981913000, 
             "description": "<p>Operations Research has long helped large organizations and governments make better decisions through statistics and data. Now, this new-fangled Data Science thing comes along yet the two groups remain mostly separated, particularly ironic given OR's strong presence in Washington DC.\u00a0</p> <p><br/>Thus, DIDC has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a> a professional organization dedicated to the advancement of the theory and practice of operations research and the management sciences in the greater Washington DC area) to bring to you a number of different companies using operations research and optimization techniques to create value from data.\u00a0</p> <p><i><b>If there is someone that you think would make a great speaker for this event, please comment below.</b></i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p> <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:00pm Speakers and Questions</p> <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>SPEAKERS AND TALKS</b></p> <p><b>Data-driven Methods for Causal Analysis of Emergency Room Delays</b></p> <p><b>Abstract:</b> Emergency Room (ER) delay is a widespread problem that negatively affects patient safety, quality of care, and patient satisfaction. We employ novel data analytics approaches such as competing risk analysis and Bayesian networks in conjunction with historical data comprised of more than 8 million records and 70,000 ER visits in three years to study the root causes of ER delays. Competing risk survival analysis identifies contribution of each cause to the length of delay.\u00a0 Bayesian network models show interaction among different causes of delay.\u00a0 This analysis shows that ER delays were mostly related to the hospital operations outside the ER. Expanding ER, increasing staff, or improving operations of ER were less likely to have an impact on delay than interventions that improved hospital occupancy (better discharge, expansion of beds, etc.) or improved laboratory response times.\u00a0</p> <p><b>Presenter Bio:</b> Shervin AhmadBeygi is currently the director of systems redesign in the Washington DC Veterans Affairs Medical Center. He received his Ph.D. in Industrial and Operations Engineering from the University of Michigan. His key research areas are in modeling and solving complex real-world optimization problems under uncertainty using mathematical programming and simulation with applications to health care, transportation, and aviation. He is an active member of the Institute for Operations Research and Management Sciences (INFORMS) and the Washington DC chapter.</p>", 
             "duration": 7200000, 
@@ -447,7 +409,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1414121795000, 
@@ -611,9 +573,10 @@ calendar({
             "id": "193499902", 
             "maybe_rsvp_count": 0, 
             "name": "Le Hackie Awards and Holiday Party", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416320027000, 
+            "updated": 1416369847000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
@@ -1624,6 +1587,33 @@ calendar({
                 "state": "DC", 
                 "zip": "20009"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1379643162000, 
+            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytpbzb/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "qkxmtgytpbzb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1447975800000, 
+            "updated": 1383661832000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
