@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1415829900000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -366,7 +366,7 @@ other:
       Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 136
+  yes_rsvp_count: 139
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -449,7 +449,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 383
+  yes_rsvp_count: 403
 - created: 1379643162000
   description: "<p>This November, we've got our first ever hardware hacking talk,\
     \ as a member shows us how she built an Adafruit bracelet. Then, we'll see how\
@@ -490,7 +490,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 44
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -532,7 +532,7 @@ other:
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 99
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
@@ -639,7 +639,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1404749084000
   description: "<p>On December 3rd, join the DC Legal Hackers community for our\_\
     first\_ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie\
@@ -947,10 +947,12 @@ other:
     \ in advance.</p> <p><br/>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
     >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
     \ employers and government agencies to drive improvements in metro mobility.</p>\
-    \ <p>Do you have an auto-centric app or data viz? Sign up to present by contacting\
-    \ <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\_\
-    </p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
-    \ \"Transportation Techies\" updates.</p>"
+    \ <p>\u2022\_<a href=\"http://www.bridj.com/\">Bridj</a> will tell us about their\
+    \ data-powered transportation system that adapts in real-time to where you live,\
+    \ work, and play. \_</p> <p><br/>Do you have an auto-centric app or data viz?\
+    \ Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for \"Transportation Techies\" updates.</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Transportation-Techies/events/213357602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -965,14 +967,14 @@ other:
   rsvp_limit: 60
   status: upcoming
   time: 1420758000000
-  updated: 1416279735000
+  updated: 1416424346000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 33
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
