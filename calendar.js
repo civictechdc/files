@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1415829900000, 
@@ -342,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 139
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1414371914000, 
@@ -382,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 403
+            "yes_rsvp_count": 408
         }, 
         {
             "created": 1379643162000, 
@@ -409,7 +409,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1414121795000, 
@@ -448,7 +448,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1415028866000, 
@@ -845,7 +845,7 @@ calendar({
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.</p> <p>\u2022\u00a0<a href=\"http://www.bridj.com/\">Bridj</a> will tell us about their data-powered transportation system that adapts in real-time to where you live, work, and play. \u00a0</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're makes cities smarter by crunching millions of data points to see how people are traveling throughout the city.</p> <p><br/>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -866,7 +866,7 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1416424346000, 
+            "updated": 1416449988000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
