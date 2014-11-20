@@ -16,27 +16,28 @@
                 "who": "Civic Hackers"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Check in at the front desk and then head on up to the fifth floor!", 
             "id": "218646917", 
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1416958200000, 
-            "updated": 1415829873000, 
+            "updated": 1416495148000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "419 7th St NW, Second Floor", 
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 20407722, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1415829900000, 
@@ -342,7 +343,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1414371914000, 
@@ -366,7 +367,7 @@
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1416526200000, 
-            "updated": 1414419417000, 
+            "updated": 1416490429000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -382,7 +383,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 408
+            "yes_rsvp_count": 410
         }, 
         {
             "created": 1379643162000, 
@@ -409,7 +410,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1414121795000, 
@@ -448,7 +449,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1415028866000, 
@@ -591,7 +592,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
@@ -747,7 +748,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1415066979000, 
