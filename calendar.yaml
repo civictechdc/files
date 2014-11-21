@@ -39,7 +39,7 @@ codefordc:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1415829900000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -314,61 +314,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1408981913000
-  description: "<p>Operations Research has long helped large organizations and governments\
-    \ make better decisions through statistics and data. Now, this new-fangled Data\
-    \ Science thing comes along yet the two groups remain mostly separated, particularly\
-    \ ironic given OR's strong presence in Washington DC.\_</p> <p><br/>Thus, DIDC\
-    \ has teamed up with the excellent WINFORMS (<a href=\"http://www.meetup.com/WINFORMS/,\"\
-    ><a href=\"http://www.meetup.com/WINFORMS/\" class=\"linkified\">http://www.meetup.com/WINFORMS/</a>,</a>\
-    \ a professional organization dedicated to the advancement of the theory and practice\
-    \ of operations research and the management sciences in the greater Washington\
-    \ DC area) to bring to you a number of different companies using operations research\
-    \ and optimization techniques to create value from data.\_</p> <p><i><b>If there\
-    \ is someone that you think would make a great speaker for this event, please\
-    \ comment below.</b></i></p> <p>\n\n\n<b>Schedule</b></p> <p>6:00pm - 6:40pm Networking</p>\
-    \ <p>6:40pm - 6:50pm Introductions</p> <p>6:50pm - 8:00pm Speakers and Questions</p>\
-    \ <p>This event is being co-sponsored with WINFORMS.</p> <p>\n\n\n<b>SPEAKERS\
-    \ AND TALKS</b></p> <p><b>Data-driven Methods for Causal Analysis of Emergency\
-    \ Room Delays</b></p> <p><b>Abstract:</b> Emergency Room (ER) delay is a widespread\
-    \ problem that negatively affects patient safety, quality of care, and patient\
-    \ satisfaction. We employ novel data analytics approaches such as competing risk\
-    \ analysis and Bayesian networks in conjunction with historical data comprised\
-    \ of more than 8 million records and 70,000 ER visits in three years to study\
-    \ the root causes of ER delays. Competing risk survival analysis identifies contribution\
-    \ of each cause to the length of delay.\_ Bayesian network models show interaction\
-    \ among different causes of delay.\_ This analysis shows that ER delays were mostly\
-    \ related to the hospital operations outside the ER. Expanding ER, increasing\
-    \ staff, or improving operations of ER were less likely to have an impact on delay\
-    \ than interventions that improved hospital occupancy (better discharge, expansion\
-    \ of beds, etc.) or improved laboratory response times.\_</p> <p><b>Presenter\
-    \ Bio:</b> Shervin AhmadBeygi is currently the director of systems redesign in\
-    \ the Washington DC Veterans Affairs Medical Center. He received his Ph.D. in\
-    \ Industrial and Operations Engineering from the University of Michigan. His key\
-    \ research areas are in modeling and solving complex real-world optimization problems\
-    \ under uncertainty using mathematical programming and simulation with applications\
-    \ to health care, transportation, and aviation. He is an active member of the\
-    \ Institute for Operations Research and Management Sciences (INFORMS) and the\
-    \ Washington DC chapter.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Business-DC/events/203039932/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '203039932'
-  maybe_rsvp_count: 0
-  name: Going Back to the Future - Operations Research and Data Science
-  status: upcoming
-  time: 1416524400000
-  updated: 1416164461000
-  utc_offset: -18000000
-  venue: {address_1: 805 21st St. NW, city: Washington, country: us, id: 19222872,
-    lat: 38.899914000000003, lon: -77.046204000000003, name: GWU Media & Public Affairs
-      Room B07, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 137
 - created: 1414371914000
   description: "<p>For our November Meetup, we're thrilled to have three speakers\
     \ on one of the most prominent domains for Data Science innovation -- Marketing.\
@@ -492,7 +437,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 39
 - created: 1414121795000
   description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
@@ -501,19 +446,21 @@ other:
     \ of developers, innovators and influential thought leaders on November 21st!\
     \ \_Come learn something new, play with code in the code lab, make new friends,\
     \ sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p>\
-    \ <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick\
+    \ <p>Ian Kelly - <b>Google</b> - Keynote - \"A Morning Buffet of Geeky Topics\"\
+    </p> <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick\
     \ - <b>Google</b> - Polymer Session -</p> <p>Peter Burkholder - Chef - Google\
-    \ Compute Engine + Chef (DevOps)</p> <p>Kalev Leetaru - GDELT Project - Google\
-    \ BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal - <b>Google</b>\
-    \ - Cloud</p> <p>Mark Helmstetter - mongoDB - Google Compute Engine + mongoDB\
-    \ -</p> <p>Todd Reedy - <b>Google</b> - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik\
-    \ Isaksen - 3Pilllar Global - Polymer</p> <p>Danny Blue - Deloitte Digital - Polymer</p>\
-    \ <p><br/><b>Code Labs</b></p> <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p>\
-    \ <p>AngularJS - 3 Sessions</p> <p><br/>Android Wear - Mini Hackathon</p> <p><a\
-    \ href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This\
-    \ is a paid event, please purchase your tickets at this link. \_Thank you!&gt;&gt;\_\
-    </a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details\
-    \ and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\"\
+    \ Compute Engine + Chef (DevOps)</p> <p>Eliot Danner - <b>Google</b> -\_Deciding\
+    \ what to use and when in Google Cloud Platform</p> <p>Kalev Leetaru - GDELT Project\
+    \ - Google BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal\
+    \ + Patrick Flynn - <b>Google</b> - Cloud + Android</p> <p>Mark Helmstetter -\
+    \ mongoDB - Google Compute Engine + mongoDB -</p> <p>Todd Reedy - <b>Google</b>\
+    \ - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik Isaksen - 3Pilllar Global - Polymer</p>\
+    \ <p>Danny Blue - Deloitte Digital - Polymer</p> <p><br/><b>Code Labs</b></p>\
+    \ <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p> <p>AngularJS - 3 Sessions</p>\
+    \ <p>Android Wear - Mini Hackathon</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
+    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
+    \ you!&gt;&gt;\_</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a>\
+    \ for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\"\
     >Google Developer Group DC</a>.</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
     >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
     \ you!&gt;&gt;\_</a></p>"
@@ -528,7 +475,7 @@ other:
   name: DevFestDC 2014 - Google Developer Group DC
   status: upcoming
   time: 1416574800000
-  updated: 1415644777000
+  updated: 1416524947000
   utc_offset: -18000000
   venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
@@ -641,7 +588,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1404749084000
   description: "<p>On December 3rd, join the DC Legal Hackers community for our\_\
     first\_ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie\
@@ -698,7 +645,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -888,6 +835,59 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1416514594000
+  description: "<p>For December's Data Science DC, we're very happy to have Dr. Regina\
+    \ Nuzzo from Gallaudet University\_discuss a fundamental, but flawed, tool of\
+    \ statistical inference and statistical communication, the <i>p</i>-value. Expect\
+    \ a very... significant... presentation.</p> <p><b>Agenda:</b></p> <p>\u2022\_\
+    6:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction,\
+    \ Announcements, Give-aways</p> <p>\u2022\_7:15pm -- Presentation and Discussion</p>\
+    \ <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_2036 G St NW</i>)</p> <p><b>Abstract:</b></p>\
+    \ <p>What's the fuss around the <i>p</i>-value? This standard measure been widely\
+    \ canonized -- from entry-level statistics texts all the way to regulatory agencies\
+    \ and the scientific publication system -- yet also often misunderstood, misapplied,\
+    \ and obsessively stalked. In this talk, Dr. Nuzzo will discuss misleading interpretations\
+    \ and puzzling paradoxes that can result from statements of statistical significance,\
+    \ present some of the latest thinking about teasing out certainty and evidence\
+    \ in data, and discuss the most interesting philosophical and practical trends\
+    \ to look for on the horizon.</p> <p><b>Bio:</b></p> <p><a href=\"http://www.gallaudet.edu/faculty-staff/psychology/nuzzo_regina.html\"\
+    >Dr. Regina Nuzzo</a> is a freelance science journalist and professor at Gallaudet\
+    \ University. She received her Ph.D. in statistics from Stanford University, post-doctoral\
+    \ training in the Music Cognition Lab at McGill University, and graduate science\
+    \ journalism training at University of California, Santa Cruz. Her writings about\
+    \ data, probability, and statistics have been published in\_<i>Nature</i>,\_<i>Science\
+    \ News</i>,\_<i>Biomedical Computation Review</i>, and\_<i>Scientific American</i>.\
+    \ Her\_<a href=\"http://www.nature.com/news/scientific-method-statistical-errors-1.14700\"\
+    >Nature\_feature article about the p-value</a> recently won the American Statistical\
+    \ Association\u2019s 2014 Excellence in Statistical Reporting Award. Follow her\
+    \ on Twitter <a href=\"https://twitter.com/ReginaNuzzo\">@ReginaNuzzo</a>.</p>\
+    \ <p><b>Sponsors:</b></p> <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/decisionsciences/\"\
+    >GWU Department of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\"\
+    >Pearson/InformIT</a>,\_<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_\
+    <a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
+    >LivingSocial</a>,\_<a href=\"http://novetta.com/\">Novetta Solutions</a>,\_<a\
+    \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
+    >Five 9 Group</a>.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-DC/events/218805060/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '218805060'
+  maybe_rsvp_count: 0
+  name: Problems with the p-value
+  rsvp_limit: 500
+  status: upcoming
+  time: 1418340600000
+  updated: 1416514594000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 98
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
