@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1415829900000, 
@@ -113,7 +113,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415829952000, 
@@ -308,73 +308,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1414371914000, 
-            "description": "<p>For our November Meetup, we're thrilled to have three speakers on one of the most prominent domains for Data Science innovation -- Marketing. From politics to products, predictive models have been fundamental for a number of years in identifying what to sell, how to sell it, and who to sell it to. Our speakers will dive into the technical details. <b>Rob Mealey</b> from NewBrand will talk about how to incorporate unstructured social media data into models of customer feedback. <b>David Young</b> from MarketShare will overview challenges and best practices for Marketing Mix Modeling, optimizing the allocation of dollars. And <b>Dan Porter</b> from BlueLabs will present persuasion modeling, showing how you can estimate the impact of outreach to individual people. Whether you work on marketing data or not, these talks will provide practical insights into working with the complex, noisy data of real people making real decisions.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p><b>Rob Mealey</b> is Senior Technologist for machine learning and data science solutions at <a href=\"http://www.newbrandanalytics.com/\">NewBrand</a>, a social media monitoring and online reputation management tool that transforms online reviews into operational social intelligence.</p> <p><i>Abstract</i><b>:</b> Incorporating unstructured data directly into your feature set can improve predictive power of a model, sometimes significantly. However, there are some inherent challenges in doing so that can confound even the most statistically sophisticated. I'll walk through a couple basic approaches that can be used to do this, techniques to be aware of, and their trade-offs and advantages.</p> <p><br/><b>David\u00a0Young</b> is a VP of Analytics for <a href=\"http://www.marketshare.com/\">MarketShare</a>, the Marketing Mix Modeling vendor ranked highest in the industry by Forester Research in both of their latest 2011 and 2013 industry studies. Previously David\u2019s worked in the areas of Customer Targeting, Choice Modeling, and Market Segmentation.</p> <p><i>Abstract</i>: Based in Time Series Analysis, Marketing Mix Modeling aims to parse out the incremental impacts of all advertising channels and non-media influences on sales, and optimize marketing budgets according to which marginal investments offer the highest returns. \u00a0Technically this offers several challenges since the optimization requires estimates for all medias. \u00a0That requirement implies that correlated variables cannot be excluded and that the magnitudes of individual coefficients are as, or more important, than predictive accuracy. \u00a0 The talk will cover a few of the unique technical challenges encountered in MMM and how they can be addressed, as well as the basic value proposition of the analysis.</p> <p><b>Daniel Porter</b> is a cofounder and head of the Analytics Practice at BlueLabs, a Washington DC based analytics, data and technology company formed by the lead practitioners from the Obama 2012 Analytics Team.\u00a0On the Obama campaign, Daniel was Director of Statistical Modeling, where he and his team developed individual level statistical models that were used throughout the campaign for fundraising, media buying and state strategy.\u00a0</p> <p><i>Abstract</i>: Marketing, political campaigning, and healthcare have one major thing in common: millions of per-person treatment decisions must be selected in order to drive positive outcomes.\u00a0Prior to President Obama's reelection campaign, standard practices for persuading voters\u2014that is, changing their minds\u2014were unscientific and driven by long-standing assumptions and hunches. This mirrors outreach efforts by other companies and organizations, which know that a certain percentage of their marketing efforts will inevitably be wasted on people who are not going to be receptive to it. Daniel will discuss his experience using the results from a large-scale randomized, controlled experiment to target persuadable voters for\u00a0political campaigns, as well as ways these cutting edge statistical modeling techniques can be applied to influencing behavior in realms ranging from health outcomes to customer retention.\u00a0</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://www.cloudera.com/\">Cloudera</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/215796952/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "215796952", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data Science and Marketing", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1416526200000, 
-            "updated": 1416490429000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 410
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>This November, we've got our first ever hardware hacking talk, as a member shows us how she built an Adafruit bracelet. Then, we'll see how the data in a spreadsheet becomes a map that illustrates an important social topic.</p> <p>First, Catherine Dodge will present on how she made a bracelet out of Adafruit NeoPixel rings. She explains her project with her daughter: <i>\"As a programmer who was getting a bit bored by programming, I resolved that in the New Year I would learn to solder. Wires and hot metal, what's not to like? I headed over to the Adafruit website which is teeming with fun, wearable electronics projects. And made the mistake of promising my six year old daughter I would make her any project she chose, to go with her Halloweeen costume. Deadline established, could I hit it?\u00a0 Follow our journey from Arduino to Amazon to Adafruit as we learned to glue and solder and hack and sketch our way to a light-up bracelet!\u00a0 Bring your laptop if you'd like to get started with the Adafruit development environment, we'll walk through setup.\"</i></p> <p><a href=\"http://shannonvturner.com/\">Shannon Turner</a>\u00a0is a software developer and founder of\u00a0<a href=\"http://hearmecode.com/\">Hear Me Code</a>, offering free, beginner-friendly coding classes for women in the DC area. In her spare time she creates projects like\u00a0<a href=\"http://shutthatdown.com/\">Shut That Down</a>\u00a0and serves as a mentor with\u00a0<a href=\"http://www.codeforprogress.org/\">Code for Progress</a>. She writes about her presentation: \"<i>Seriously?! is a map of nearly 500 colleges and universities that reported having zero sexual assaults over a three-year period.\u00a0 I'll show you how I created the map from concept to completion.\"</i></p> <p>As always, we gather around 6:30 over pizza from our generous sponsor, Excella Consulting. We'll kick it off with intros and announcements a little after 7. See you there!</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/211619962/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgyspbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Adafruit Wearables and From Spreadsheet to Map", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1416526200000, 
-            "updated": 1414447786000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 39
-        }, 
-        {
             "created": 1414121795000, 
             "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p> <p>Ian Kelly - <b>Google</b> - Keynote - \"A Morning Buffet of Geeky Topics\"</p> <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick - <b>Google</b> - Polymer Session -</p> <p>Peter Burkholder - Chef - Google Compute Engine + Chef (DevOps)</p> <p>Eliot Danner - <b>Google</b> -\u00a0Deciding what to use and when in Google Cloud Platform</p> <p>Kalev Leetaru - GDELT Project - Google BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal + Patrick Flynn - <b>Google</b> - Cloud + Android</p> <p>Mark Helmstetter - mongoDB - Google Compute Engine + mongoDB -</p> <p>Todd Reedy - <b>Google</b> - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik Isaksen - 3Pilllar Global - Polymer</p> <p>Danny Blue - Deloitte Digital - Polymer</p> <p><br/><b>Code Labs</b></p> <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p> <p>AngularJS - 3 Sessions</p> <p>Android Wear - Mini Hackathon</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p>", 
             "duration": 32400000, 
@@ -411,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1415028866000, 
@@ -670,7 +603,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1415149990000, 
@@ -777,7 +710,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1414594350000, 
@@ -804,7 +737,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1326383071000, 

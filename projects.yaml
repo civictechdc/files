@@ -1,6 +1,6 @@
-- activity: [4, 4, 7, 0, 0, 20, 3, 9, 2, 3, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15,
-    18, 7, 10, 9, 13, 40, 112, 35, 21, 3, 17, 5, 0, 0, 1, 9, 9, 3, 0, 0, 9, 0, 0,
-    8, 2, 12, 6, 26, 37]
+- activity: [4, 4, 7, 0, 0, 20, 3, 11, 2, 1, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0,
+    15, 18, 7, 12, 13, 7, 48, 104, 47, 11, 6, 12, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0,
+    7, 1, 2, 14, 7, 29, 33]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 452,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 458,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -65,19 +65,19 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 104821]
+  - [Ruby, 104690]
   - [CSS, 12422]
   - [Puppet, 5220]
   - [CoffeeScript, 1744]
   - [JavaScript, 663]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 10
+  open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-20T02:05:07Z'
+  pushed_at: '2014-11-21T03:53:16Z'
   size: 21036
-  updated_at: '2014-11-20T01:19:02Z'
+  updated_at: '2014-11-21T03:53:16Z'
   watchers: 13
 - activity: [2, 17, 8, 9, 0, 0, 9, 4, 2, 15, 15, 2, 2, 13, 2, 11, 1, 1, 14, 0, 2,
     13, 8, 1, 7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 0, 3, 2, 0,
@@ -347,7 +347,7 @@
   updated_at: '2014-09-26T20:31:51Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 8, 2, 2, 0, 1, 0, 0, 0, 1, 0, 0, 0, 2, 8, 4, 1, 2, 0, 2, 5, 0, 2, 4, 0,
+    0, 0, 8, 2, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 8, 4, 1, 2, 0, 2, 5, 0, 2, 4, 0,
     0, 1, 3]
   civic_json:
     bornAt: Code for DC
@@ -400,7 +400,7 @@
     6, 6, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 395,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 396,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -422,9 +422,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-11-20T09:06:57Z'
+  pushed_at: '2014-11-21T09:06:55Z'
   size: 2745
-  updated_at: '2014-11-20T09:06:58Z'
+  updated_at: '2014-11-21T09:06:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -516,8 +516,8 @@
   size: 9616
   updated_at: '2014-04-18T15:18:06Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 1, 2, 0, 3, 0, 2, 0, 1, 0, 1, 0, 3,
-    5, 5, 1, 9, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 2, 0, 3, 0, 2, 0, 1, 0, 1, 0, 3,
+    5, 5, 2, 8, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
