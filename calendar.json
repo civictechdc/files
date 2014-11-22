@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1415829900000, 
@@ -308,45 +308,6 @@
     ], 
     "other": [
         {
-            "created": 1414121795000, 
-            "description": "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to our day long 2014 GDG Devfest hosted by AOL. \u00a0Come join your vibrant community of developers, innovators and influential thought leaders on November 21st! \u00a0Come learn something new, play with code in the code lab, make new friends, sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p> <p>Ian Kelly - <b>Google</b> - Keynote - \"A Morning Buffet of Geeky Topics\"</p> <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick - <b>Google</b> - Polymer Session -</p> <p>Peter Burkholder - Chef - Google Compute Engine + Chef (DevOps)</p> <p>Eliot Danner - <b>Google</b> -\u00a0Deciding what to use and when in Google Cloud Platform</p> <p>Kalev Leetaru - GDELT Project - Google BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal + Patrick Flynn - <b>Google</b> - Cloud + Android</p> <p>Mark Helmstetter - mongoDB - Google Compute Engine + mongoDB -</p> <p>Todd Reedy - <b>Google</b> - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik Isaksen - 3Pilllar Global - Polymer</p> <p>Danny Blue - Deloitte Digital - Polymer</p> <p><br/><b>Code Labs</b></p> <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p> <p>AngularJS - 3 Sessions</p> <p>Android Wear - Mini Hackathon</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a> for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\">Google Developer Group DC</a>.</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\">&lt;&lt;This is a paid event, please purchase your tickets at this link. \u00a0Thank you!&gt;&gt;\u00a0</a></p>", 
-            "duration": 32400000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/215327092/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Technology and Developer Group - Washington DC", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "id": "215327092", 
-            "maybe_rsvp_count": 0, 
-            "name": "DevFestDC 2014 - Google Developer Group DC", 
-            "status": "upcoming", 
-            "time": 1416574800000, 
-            "updated": 1416524947000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "22000 AOL Way", 
-                "city": "Dulles", 
-                "country": "us", 
-                "id": 1637409, 
-                "lat": 39.005215, 
-                "lon": -77.445723999999998, 
-                "name": "AOL", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "20166"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 115
-        }, 
-        {
             "created": 1415028866000, 
             "description": "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending, but</i><i>\u00a0you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\">Tech The Halls Eventbrite page found here</a>. \u00a0</i><i>If you do not have an Eventbrite ticket, you are not registered for the event. \u00a0Make sure to use promo code\u00a0<b>GDITTH15</b> for <b>15% off!</b></i><i>**</i><b>\u00a0</b></p> <p><br/><b><br/></b></p> <p><b>Come in from the cold, grab a drink and kick off the holiday season with a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\u00a0<b>Wednesday, December 3rd</b>\u00a0for the 3rd annual <b>DC Web Women's Tech The Halls 2014 Holiday Party</b>\u00a0presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>! \u00a0</p> <p>Tech The Halls! is a celebration that brings together local and national tech groups as one community for the DC area.\u00a0<b>DCWW, Girl Develop It DC, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech, NAMDE</b>\u00a0and technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech the Halls provides an opportunity for entrepreneurs, startups, designers, developers, coders and strategists to unify, network, and learn more about changing technology trends and best practices, as well as promoting the important role we play in the burgeoning tech economy.</p> <p>There will be an open bar, unlimited food, and music by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p><i><b>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</b></i></p> <p><i>As always, men are encouraged to attend any DCWW event!</i></p> <p>Twitter hashtag:\u00a0<b>#techthehalls2014</b></p> <p><b>Interested in sponsoring Tech The Halls? please contact us at [masked] or\u00a0<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\">visit our sponsorships page</a>.</b></p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>\n\n\n<i>**Last day to receive a refund is\u00a0Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>", 
             "duration": 10800000, 
@@ -371,7 +332,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1415086907000, 
@@ -448,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1404749084000, 
@@ -487,7 +448,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1326383071000, 
@@ -603,7 +564,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1415149990000, 
@@ -710,7 +671,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1414594350000, 
@@ -737,7 +698,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1326383071000, 

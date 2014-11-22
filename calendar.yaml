@@ -39,7 +39,7 @@ codefordc:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1415829900000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -314,50 +314,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1414121795000
-  description: "<p><b><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
-    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
-    \ you!&gt;&gt;\_</a></b></p> <p>\n\n\nGoogle Developer Group DC invites you to\
-    \ our day long 2014 GDG Devfest hosted by AOL. \_Come join your vibrant community\
-    \ of developers, innovators and influential thought leaders on November 21st!\
-    \ \_Come learn something new, play with code in the code lab, make new friends,\
-    \ sharpen your code chops, or see what's new.</p> <p><br/>Speakers confirmed:</p>\
-    \ <p>Ian Kelly - <b>Google</b> - Keynote - \"A Morning Buffet of Geeky Topics\"\
-    </p> <p>Steven Kim - <b>Google</b> - \"Code Like Google\"</p> <p>Jeffrey Posnick\
-    \ - <b>Google</b> - Polymer Session -</p> <p>Peter Burkholder - Chef - Google\
-    \ Compute Engine + Chef (DevOps)</p> <p>Eliot Danner - <b>Google</b> -\_Deciding\
-    \ what to use and when in Google Cloud Platform</p> <p>Kalev Leetaru - GDELT Project\
-    \ - Google BigQuery in Action Computing on the Whole Planet</p> <p>Rajeev Dayal\
-    \ + Patrick Flynn - <b>Google</b> - Cloud + Android</p> <p>Mark Helmstetter -\
-    \ mongoDB - Google Compute Engine + mongoDB -</p> <p>Todd Reedy - <b>Google</b>\
-    \ - Code Lab</p> <p>Jade Chu - AOL -</p> <p>Erik Isaksen - 3Pilllar Global - Polymer</p>\
-    \ <p>Danny Blue - Deloitte Digital - Polymer</p> <p><br/><b>Code Labs</b></p>\
-    \ <p><br/>Polymer</p> <p>Google Cloud - 3 Sessions</p> <p>AngularJS - 3 Sessions</p>\
-    \ <p>Android Wear - Mini Hackathon</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
-    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
-    \ you!&gt;&gt;\_</a></p> <p><br/>Go to <a href=\"http://www.gdgdc.com/\">GDGDC</a>\
-    \ for more details and schedule.</p> <p>The event is organized by <a href=\"http://www.meetup.com/gdg-dc\"\
-    >Google Developer Group DC</a>.</p> <p><a href=\"http://devfestdc2014.eventbrite.com/?aff=GDGMeetupGroup\"\
-    >&lt;&lt;This is a paid event, please purchase your tickets at this link. \_Thank\
-    \ you!&gt;&gt;\_</a></p>"
-  duration: 32400000
-  event_url: http://www.meetup.com/gdg-dc/events/215327092/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Technology and Developer Group - Washington
-      DC, urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  id: '215327092'
-  maybe_rsvp_count: 0
-  name: DevFestDC 2014 - Google Developer Group DC
-  status: upcoming
-  time: 1416574800000
-  updated: 1416524947000
-  utc_offset: -18000000
-  venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
-    lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 115
 - created: 1415028866000
   description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
     \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
@@ -403,7 +359,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1415086907000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
@@ -464,7 +420,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1404749084000
   description: "<p>On December 3rd, join the DC Legal Hackers community for our\_\
     first\_ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie\
@@ -499,7 +455,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1326383071000
   description: '<p>December edition: humanitarian mapping. Hear from folks building
     the tools and gathering the data to put detailed maps in the hands of humanitarians
@@ -605,7 +561,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -764,7 +720,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 144
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -789,7 +745,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
