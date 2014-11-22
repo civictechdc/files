@@ -93,28 +93,31 @@ for project in tracked:
     url = link.replace('github.com','api.github.com/repos')
     headers = {'Authorization': 'token '+GITHUB_TOKEN}
     r = requests.get(url, headers = headers).json()
-    data = {
-        'id': r['id'],
-        'name': r['name'],
-        'description': r['description'],
-        'homepage': r['homepage'],
-        'html_url': r['html_url'],
-        'main_language': r['language'],
-        'watchers': r['watchers'],
-        'forks': r['forks'],
-        'size': r['size'],
-        'open_issues': r['open_issues'],
-        'created_at': r['created_at'],
-        'updated_at': r['updated_at'],
-        'pushed_at': r['pushed_at'],
-        'default_branch': r['default_branch'],
-        'owner': {
-            'name': r['owner']['login'],
-            'avatar': r['owner']['avatar_url'],
-            'url': r['owner']['html_url'],
-            'type': r['owner']['type']
+    try:
+        data = {
+            'id': r['id'],
+            'name': r['name'],
+            'description': r['description'],
+            'homepage': r['homepage'],
+            'html_url': r['html_url'],
+            'main_language': r['language'],
+            'watchers': r['watchers'],
+            'forks': r['forks'],
+            'size': r['size'],
+            'open_issues': r['open_issues'],
+            'created_at': r['created_at'],
+            'updated_at': r['updated_at'],
+            'pushed_at': r['pushed_at'],
+            'default_branch': r['default_branch'],
+            'owner': {
+                'name': r['owner']['login'],
+                'avatar': r['owner']['avatar_url'],
+                'url': r['owner']['html_url'],
+                'type': r['owner']['type']
+            }
         }
-    }
+    except KeyError:
+        continue
 
     # Add in contributor information from Github
     print "...Getting contributor info"
