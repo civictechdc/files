@@ -225,7 +225,7 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 9, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1243,7 +1243,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 396, 
+                "contributions": 397, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1282,9 +1282,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-11-21T09:06:55Z", 
+        "pushed_at": "2014-11-22T09:06:53Z", 
         "size": 2745, 
-        "updated_at": "2014-11-21T09:06:55Z", 
+        "updated_at": "2014-11-22T09:06:54Z", 
         "watchers": 4
     }, 
     {
@@ -1620,9 +1620,9 @@ projects([
             0, 
             3, 
             5, 
-            5, 
-            2, 
-            8, 
+            6, 
+            3, 
+            6, 
             3, 
             2, 
             0, 
