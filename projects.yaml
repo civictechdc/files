@@ -59,7 +59,7 @@
   description: 'The DC Housing Application Assistant aids DC residents and case workers
     apply for Section 8 housing by empowering them to automatically fill out multiple
     Section 8 housing applications using information collected via an online form. '
-  forks: 31
+  forks: 32
   help_wanted: []
   homepage: http://districthousing.runningen.net/
   html_url: https://github.com/codefordc/districthousing
@@ -77,11 +77,11 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-11-21T03:53:16Z'
   size: 21036
-  updated_at: '2014-11-21T03:53:16Z'
-  watchers: 13
-- activity: [2, 19, 14, 1, 0, 0, 11, 4, 5, 12, 14, 2, 4, 11, 2, 11, 0, 9, 6, 0, 13,
-    2, 9, 0, 8, 0, 4, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 0, 1, 0, 0, 2, 3, 0, 0,
-    6, 2, 2, 5, 0]
+  updated_at: '2014-11-23T22:55:20Z'
+  watchers: 14
+- activity: [11, 15, 9, 0, 0, 0, 13, 2, 7, 19, 5, 3, 8, 6, 12, 1, 0, 9, 6, 0, 15,
+    0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 6, 5, 1, 1, 0, 0, 0, 2, 3, 0, 4,
+    2, 2, 2, 5, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -237,8 +237,8 @@
   size: 40024
   updated_at: '2014-10-28T01:19:02Z'
   watchers: 17
-- activity: [0, 6, 7, 1, 0, 0, 1, 0, 0, 1, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7,
-    0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 4, 8, 3, 0, 5, 14, 8, 3, 3, 4, 6, 1,
+- activity: [6, 3, 4, 1, 0, 0, 1, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7,
+    0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 3, 4, 6, 1,
     5, 1, 6]
   civic_json:
     bornAt: Code for DC
@@ -309,12 +309,12 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-22T17:20:40Z'
+  pushed_at: '2014-11-23T23:40:26Z'
   size: 17614
   updated_at: '2014-11-18T18:21:14Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 8, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -395,9 +395,9 @@
   size: 2388
   updated_at: '2014-11-14T17:11:38Z'
   watchers: 10
-- activity: [5, 6, 7, 7, 2, 0, 4, 4, 6, 7, 9, 5, 3, 7, 5, 4, 6, 6, 4, 6, 5, 6, 6,
-    5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7,
-    6, 6, 6]
+- activity: [4, 7, 7, 6, 1, 0, 4, 5, 7, 10, 6, 3, 5, 6, 4, 5, 6, 6, 4, 6, 5, 7, 5,
+    5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6, 5, 5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10,
+    7, 5, 6, 6]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 397,
@@ -459,7 +459,7 @@
   updated_at: '2014-11-18T00:08:30Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 11, 6, 14, 3, 1, 9, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -489,7 +489,7 @@
   size: 10140
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
-- activity: [5, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0,
+- activity: [7, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -552,7 +552,7 @@
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -581,8 +581,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 31, 7, 0, 3, 19, 21, 5, 9, 15,
-    2, 13, 0, 1, 1]
+    0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16, 8, 6, 13,
+    1, 13, 0, 2, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -725,8 +725,8 @@
   updated_at: '2014-11-13T02:02:36Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10,
-    81, 3, 3]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23,
+    68, 4, 2]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 97,
