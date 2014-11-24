@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1415829900000, 
@@ -332,7 +332,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1415086907000, 
@@ -488,7 +488,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1407908606000, 
@@ -526,7 +526,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1411918757000, 
@@ -564,7 +564,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1415149990000, 
@@ -671,7 +671,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 164
+            "yes_rsvp_count": 168
         }, 
         {
             "created": 1414594350000, 
@@ -779,7 +779,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1379643162000, 
@@ -884,6 +884,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1416852247000, 
+            "description": "<p>Now seeking presentations for our second Metro Hack Night. This is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>Our special guest is Michael Eichler, the voice of the <a href=\"http://planitmetro.com/\">PlanItMetro blog</a>. Our focus will be on the impact of the new Silver Line.\u00a0</p> <p>To build your own Metro visualizations, find WMATA's open data via the <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Lobby doors on Oak St. Revolving doors might be locked, but side doors should remain open. Meetup is on 11th floor.", 
+            "id": "218874680", 
+            "maybe_rsvp_count": 0, 
+            "name": "Metro Hack Night II: Silver Line Edition", 
+            "rsvp_limit": 80, 
+            "status": "upcoming", 
+            "time": 1423782000000, 
+            "updated": 1416853100000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1501 Wilson Blvd, Suite 1100", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 16609032, 
+                "lat": 38.895149000000004, 
+                "lon": -77.074043000000003, 
+                "name": "Mobility Lab", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22209"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1379643162000, 

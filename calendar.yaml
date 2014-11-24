@@ -39,7 +39,7 @@ codefordc:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1415829900000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -359,7 +359,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1415086907000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
@@ -478,7 +478,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -526,7 +526,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 97
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -561,7 +561,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -719,7 +719,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 164
+  yes_rsvp_count: 168
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -809,7 +809,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -900,6 +900,42 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1416852247000
+  description: "<p>Now seeking presentations for our second Metro Hack Night. This\
+    \ is a show &amp; tell of Metro-related apps and data visualizations.\_Doors open\
+    \ at 6:00 with pizza and drinks, and the presentations start at 6:30.\_</p> <p>Our\
+    \ special guest is Michael Eichler, the voice of the <a href=\"http://planitmetro.com/\"\
+    >PlanItMetro blog</a>. Our focus will be on the impact of the new Silver Line.\_\
+    </p> <p>To build your own Metro visualizations, find WMATA's open data via the\
+    \ <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag.\_\
+    Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael Schade</a>\_an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
+    >Metro Hack Night I</a> was held on January 2, 2014. You can read about it on\
+    \ the Mobility Lab blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
+    >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\_<a href=\"\
+    https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation Techies\"\
+    \ updates.</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/218874680/
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  how_to_find_us: Lobby doors on Oak St. Revolving doors might be locked, but side
+    doors should remain open. Meetup is on 11th floor.
+  id: '218874680'
+  maybe_rsvp_count: 0
+  name: 'Metro Hack Night II: Silver Line Edition'
+  rsvp_limit: 80
+  status: upcoming
+  time: 1423782000000
+  updated: 1416853100000
+  utc_offset: -18000000
+  venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
+    id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
+      Lab, repinned: false, state: VA, zip: '22209'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
