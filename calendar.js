@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1415829900000, 
@@ -374,7 +374,7 @@ calendar({
         }, 
         {
             "created": 1412599788000, 
-            "description": "<p>Details are forthcoming!</p>", 
+            "description": "<p>In this talk Marck will provide tips and tricks on data hackery with R using dplyr, data.table, and other hacks he's has put together over the years.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/211706682/", 
             "group": {
@@ -390,10 +390,10 @@ calendar({
             "headcount": 0, 
             "id": "211706682", 
             "maybe_rsvp_count": 0, 
-            "name": "Marck Vaisman on Data Wrangling", 
+            "name": "Data Wrangling Hacks With R from Marck Vaisman", 
             "status": "upcoming", 
             "time": 1417649400000, 
-            "updated": 1415285605000, 
+            "updated": 1416929011000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -409,7 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1404749084000, 
@@ -526,7 +526,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1411918757000, 
@@ -635,7 +635,7 @@ calendar({
         }, 
         {
             "created": 1416514594000, 
-            "description": "<p>For December's Data Science DC, we're very happy to have Dr. Regina Nuzzo from Gallaudet University\u00a0discuss a fundamental, but flawed, tool of statistical inference and statistical communication, the <i>p</i>-value. Expect a very... significant... presentation.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empenadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>What's the fuss around the <i>p</i>-value? This standard measure been widely canonized -- from entry-level statistics texts all the way to regulatory agencies and the scientific publication system -- yet also often misunderstood, misapplied, and obsessively stalked. In this talk, Dr. Nuzzo will discuss misleading interpretations and puzzling paradoxes that can result from statements of statistical significance, present some of the latest thinking about teasing out certainty and evidence in data, and discuss the most interesting philosophical and practical trends to look for on the horizon.</p> <p><b>Bio:</b></p> <p><a href=\"http://www.gallaudet.edu/faculty-staff/psychology/nuzzo_regina.html\">Dr. Regina Nuzzo</a> is a freelance science journalist and professor at Gallaudet University. She received her Ph.D. in statistics from Stanford University, post-doctoral training in the Music Cognition Lab at McGill University, and graduate science journalism training at University of California, Santa Cruz. Her writings about data, probability, and statistics have been published in\u00a0<i>Nature</i>,\u00a0<i>Science News</i>,\u00a0<i>Biomedical Computation Review</i>, and\u00a0<i>Scientific American</i>. Her\u00a0<a href=\"http://www.nature.com/news/scientific-method-statistical-errors-1.14700\">Nature\u00a0feature article about the p-value</a> recently won the American Statistical Association\u2019s 2014 Excellence in Statistical Reporting Award. Follow her on Twitter <a href=\"https://twitter.com/ReginaNuzzo\">@ReginaNuzzo</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
+            "description": "<p>For December's Data Science DC, we're very happy to partner with our friends at the <a href=\"http://washstat.org/\">Washington Statistical Society</a> to present Dr. Regina Nuzzo from Gallaudet University. She will discuss a fundamental, but flawed, tool of statistical inference and statistical communication, the <i>p</i>-value. Expect a very... significant... presentation.</p> <p>You can sign up for this event either here or at <a href=\"http://www.meetup.com/WashStat/events/218881685/\">WSS' Meetup page</a>, but please don't register in both places.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>What's the fuss around the <i>p</i>-value? This standard measure been widely canonized -- from entry-level statistics texts all the way to regulatory agencies and the scientific publication system -- yet also often misunderstood, misapplied, and obsessively stalked. In this talk, Dr. Nuzzo will discuss misleading interpretations and puzzling paradoxes that can result from statements of statistical significance, present some of the latest thinking about teasing out certainty and evidence in data, and discuss the most interesting philosophical and practical trends to look for on the horizon.</p> <p><b>Bio:</b></p> <p><a href=\"http://www.gallaudet.edu/faculty-staff/psychology/nuzzo_regina.html\">Dr. Regina Nuzzo</a> is a freelance science journalist and professor at Gallaudet University. She received her Ph.D. in statistics from Stanford University, post-doctoral training in the Music Cognition Lab at McGill University, and graduate science journalism training at University of California, Santa Cruz. Her writings about data, probability, and statistics have been published in\u00a0<i>Nature</i>,\u00a0<i>Science News</i>,\u00a0<i>Biomedical Computation Review</i>, and\u00a0<i>Scientific American</i>. Her\u00a0<a href=\"http://www.nature.com/news/scientific-method-statistical-errors-1.14700\">Nature\u00a0feature article about the p-value</a> recently won the American Statistical Association\u2019s 2014 Excellence in Statistical Reporting Award. Follow her on Twitter <a href=\"https://twitter.com/ReginaNuzzo\">@ReginaNuzzo</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/218805060/", 
             "group": {
@@ -655,7 +655,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1418340600000, 
-            "updated": 1416514594000, 
+            "updated": 1416928178000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -671,7 +671,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 177
+            "yes_rsvp_count": 178
         }, 
         {
             "created": 1414594350000, 
@@ -699,6 +699,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 43
+        }, 
+        {
+            "created": 1416927353000, 
+            "description": "<p>For our December meetup, we are pleased to have a very interesting discussion about using open source tools and distributed computing for MRI image reconstruction. Please join us on Tuesday 12/16 at 6:30 (location to be confirmed soon),</p> <p>6:30 - 7:00 Food &amp; Networking<br/>7:00 - 7:10 Intros and announcements<br/>7:15 - 8:15ish Presentation / Q&amp;A<br/>Adjourn to Data Drinks</p> <p>Title: Magnetic Resonance Image Reconstruction 1. 5 minute introduction to MRI and MRI reconstruction: where does the signal come from, how does it get turned into an image (that's the reconstruction part), what are the typical constraints in terms of imaging speed, etc.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract</a></p> <p>2. Image reconstruction in units of signal to noise (SNR): This would be me taking a more statistical view of how we reconstruct images such that at the end we know what the signal to noise is in each pixel.</p> <p>3. The extension of the SNR reconstruction to region of interest analysis in MRI images: pixels in the image are not entirely independent, what happens to ROI analysis? Extension to flow measuremens, how do we measure flow with MRI and how do we assign a confidence interval on such flow measurements.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract</a><br/><a href=\"http://www.jcmr-online.com/content/16/1/46\" class=\"linkified\">http://www.jcmr-online.com/content/16/1/46</a></p> <p>4. Open source software tools that we develop/use. I will focus on our open raw data standard (ismrmrd.github.io) and a high performance reconstruction pipeline that I have designed (gadgetron.github.io)<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract</a></p> <p>5. Using cloud computing in MRI reconstruction. Interfacing clinical MRI systems directly to Gadgetron instances in the cloud.<br/><a href=\"http://www.ncbi.nlm.nih.gov/pubmed/24687458\" class=\"linkified\">http://www.ncbi.nlm.nih.gov/pubmed/24687458</a></p> <p>Michael Hansen is a biomedical engineer with a PhD from University of Aarhus, Denmark. After completing his PhD, he was a research fellow at University College, London and Great Ormond Street Hospital for Children, London. He also worked at Novartis Institutes for BioMedical Research in Cambridge, MA before moving to the National Heart, Lung, and Blood Institute, NIH, where he heads the Magnetic Resonance Technology Program. His program focuses on MRI techniques for cardiac imaging, pediatric imaging, and real-time guidance of interventional procedures. His particular areas of interest are fast pulse sequences, non-Cartesian imaging, real-time image reconstruction, GPU based reconstruction, Distributed Computing, and motion correction. He has extensive experience in the area of high throughput real-time processing and reconstruction of imaging data.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/218890687/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "218890687", 
+            "maybe_rsvp_count": 0, 
+            "name": "Magnetic Resonance Image Reconstruction", 
+            "status": "upcoming", 
+            "time": 1418772600000, 
+            "updated": 1416927422000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
