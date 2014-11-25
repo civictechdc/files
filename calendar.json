@@ -413,7 +413,7 @@
         }, 
         {
             "created": 1404749084000, 
-            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP here\u00a0today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
+            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP <a href=\"http://lehackieawards.splashthat.com/\">on this site</a>\u00a0today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
             "duration": 14400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
             "group": {
@@ -433,7 +433,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416369847000, 
+            "updated": 1416857542000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
@@ -448,7 +448,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1326383071000, 
@@ -564,7 +564,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1415149990000, 
@@ -604,7 +604,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1415066979000, 
@@ -671,7 +671,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 168
+            "yes_rsvp_count": 172
         }, 
         {
             "created": 1414594350000, 
@@ -887,7 +887,7 @@
         }, 
         {
             "created": 1416852247000, 
-            "description": "<p>Now seeking presentations for our second Metro Hack Night. This is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>Our special guest is Michael Eichler, the voice of the <a href=\"http://planitmetro.com/\">PlanItMetro blog</a>. Our focus will be on the impact of the new Silver Line.\u00a0</p> <p>To build your own Metro visualizations, find WMATA's open data via the <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for\u00a0the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via the <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -907,7 +907,7 @@
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1416853100000, 
+            "updated": 1416867871000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -923,7 +923,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1379643162000, 
