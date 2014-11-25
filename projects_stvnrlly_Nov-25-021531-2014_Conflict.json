@@ -1,58 +1,58 @@
 [
     {
         "activity": [
-            5, 
-            8, 
             2, 
+            4, 
+            0, 
+            4, 
+            4, 
+            7, 
             0, 
             0, 
             20, 
-            4, 
-            10, 
             3, 
-            3, 
-            3, 
+            11, 
+            2, 
+            1, 
+            5, 
+            1, 
             0, 
             0, 
             11, 
             0, 
             0, 
-            0, 
             2, 
             8, 
             1, 
             4, 
             0, 
-            32, 
-            1, 
-            7, 
-            13, 
-            14, 
-            8, 
-            106, 
-            48, 
-            49, 
-            4, 
+            15, 
             18, 
-            3, 
-            2, 
-            0, 
-            1, 
-            9, 
-            0, 
-            9, 
-            3, 
-            0, 
-            0, 
-            9, 
-            0, 
             7, 
+            12, 
+            13, 
+            7, 
+            48, 
+            104, 
+            47, 
+            11, 
+            6, 
+            12, 
+            5, 
+            0, 
+            0, 
+            2, 
+            8, 
+            9, 
+            3, 
+            0, 
+            0, 
+            9, 
+            0, 
+            6, 
             1, 
             2, 
-            16, 
-            22, 
-            23, 
-            28
+            14
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -74,7 +74,7 @@
             "moreInfo": "https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc", 
             "needs": [
                 {
-                    "need": "Rails enthusiasts"
+                    "need": "Ruby"
                 }, 
                 {
                     "need": "Salesforce"
@@ -90,125 +90,119 @@
         }, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 463, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=2", 
+                "contributions": 384, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=2", 
                 "contributions": 59, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=2", 
                 "contributions": 17, 
                 "link": "https://github.com/lankyfrenchman", 
                 "name": "lankyfrenchman"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4029733?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4029733?v=2", 
                 "contributions": 16, 
                 "link": "https://github.com/ouzy", 
                 "name": "ouzy"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=2", 
                 "contributions": 15, 
                 "link": "https://github.com/shiftyp", 
                 "name": "shiftyp"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/MikeyBurkman", 
                 "name": "MikeyBurkman"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=2", 
                 "contributions": 6, 
                 "link": "https://github.com/mepps", 
                 "name": "mepps"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
                 "name": "mpeteuil"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/sethpuckett", 
                 "name": "sethpuckett"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8462602?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/lizhaney", 
-                "name": "lizhaney"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6130671?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/6130671?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/cszimm", 
                 "name": "cszimm"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/endash", 
                 "name": "endash"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2306490?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2306490?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/ameensol", 
                 "name": "ameensol"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/dfelsent", 
                 "name": "dfelsent"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/8462602?v=2", 
                 "contributions": 1, 
-                "link": "https://github.com/dirkkelly", 
-                "name": "dirkkelly"
+                "link": "https://github.com/lizhaney", 
+                "name": "lizhaney"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2559167?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2559167?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/shariq1989", 
                 "name": "shariq1989"
             }
         ], 
-        "contributors_count": 17, 
+        "contributors_count": 16, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "The DC Housing Application Assistant aids DC residents and case workers apply for Section 8 housing by empowering them to automatically fill out multiple Section 8 housing applications using information collected via an online form. ", 
-        "forks": 32, 
+        "forks": 27, 
         "help_wanted": [], 
-        "homepage": "http://districthousing.org/", 
-        "html_url": "https://github.com/codefordc/districthousing", 
+        "homepage": "http://districthousing.runningen.net/", 
+        "html_url": "https://github.com/codefordc/dchousing-apps", 
         "id": 10896437, 
         "languages": [
             [
                 "Ruby", 
-                104713
+                84546
             ], 
             [
                 "CSS", 
-                12422
+                11187
             ], 
             [
                 "Puppet", 
@@ -216,7 +210,7 @@
             ], 
             [
                 "CoffeeScript", 
-                1744
+                1111
             ], 
             [
                 "JavaScript", 
@@ -224,60 +218,64 @@
             ]
         ], 
         "main_language": "Ruby", 
-        "name": "District Housing Application Assistant", 
-        "open_issues": 10, 
+        "name": "Affordable Housing", 
+        "open_issues": 13, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-25T03:22:27Z", 
-        "size": 21069, 
-        "updated_at": "2014-11-25T03:22:27Z", 
-        "watchers": 14
+        "pushed_at": "2014-10-30T04:26:40Z", 
+        "size": 20786, 
+        "updated_at": "2014-10-27T02:24:17Z", 
+        "watchers": 10
     }, 
     {
         "activity": [
+            2, 
+            0, 
+            0, 
+            2, 
+            19, 
             11, 
+            4, 
+            0, 
+            0, 
+            9, 
+            6, 
+            5, 
+            10, 
             15, 
+            3, 
+            4, 
+            11, 
+            2, 
+            11, 
+            0, 
+            1, 
+            14, 
+            0, 
+            10, 
+            5, 
             9, 
             0, 
+            7, 
+            1, 
+            4, 
+            0, 
+            5, 
             0, 
             0, 
-            13, 
+            6, 
+            3, 
+            3, 
+            4, 
+            4, 
             2, 
             7, 
-            20, 
-            5, 
-            2, 
-            10, 
-            4, 
-            12, 
-            1, 
-            0, 
-            9, 
-            6, 
-            0, 
-            15, 
-            0, 
-            9, 
-            0, 
-            8, 
-            2, 
-            2, 
-            5, 
-            0, 
-            0, 
-            0, 
-            6, 
-            6, 
-            0, 
-            6, 
             3, 
-            5, 
-            5, 
-            1, 
+            0, 
             1, 
             0, 
             0, 
@@ -286,11 +284,7 @@
             2, 
             0, 
             6, 
-            0, 
-            2, 
-            2, 
-            5, 
-            0
+            2
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -331,102 +325,90 @@
         }, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 227, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=2", 
+                "contributions": 224, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
                 "contributions": 107, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
                 "contributions": 30, 
                 "link": "https://github.com/leahbannon", 
                 "name": "leahbannon"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3245105?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3245105?v=2", 
                 "contributions": 5, 
                 "link": "https://github.com/mesb", 
                 "name": "mesb"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2132260?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/JKesMc9tqIQe9M", 
-                "name": "JKesMc9tqIQe9M"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1551510?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1551510?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/mcwhittemore", 
                 "name": "mcwhittemore"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2487968?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2487968?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/tvanantwerp", 
                 "name": "tvanantwerp"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/903759?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/903759?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/kdurril", 
                 "name": "kdurril"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6344446?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/6344446?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/rschuster3", 
                 "name": "rschuster3"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/125098?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/125098?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/joshfinnie", 
                 "name": "joshfinnie"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/78930?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/apendleton", 
-                "name": "apendleton"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/tmcw", 
                 "name": "tmcw"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3248065?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3248065?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/shannonturner", 
                 "name": "shannonturner"
             }
         ], 
-        "contributors_count": 14, 
+        "contributors_count": 12, 
         "created_at": "2013-03-11T23:54:30Z", 
         "default_branch": "master", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
-        "forks": 23, 
+        "forks": 22, 
         "help_wanted": [
             {
                 "assignee": null, 
                 "body": "We have a big pdf of official SMD boundaries. We should split it up and make it linked from our site.", 
-                "comments": 3, 
+                "comments": 0, 
                 "created_at": "2014-09-24T00:31:18Z", 
-                "issue": "Add SMD boundary pdf links to ANC pages", 
+                "issue": "Split the SMD boundaries PDF", 
                 "issue_url": "https://github.com/codefordc/ancfinder/issues/111", 
                 "labels": [
                     {
@@ -437,7 +419,7 @@
                 ], 
                 "project": "ANC Finder", 
                 "project_url": "https://github.com/codefordc/ancfinder", 
-                "updated_at": "2014-11-13T02:31:19Z"
+                "updated_at": "2014-10-02T00:15:16Z"
             }
         ], 
         "homepage": "http://ancfinder.org/", 
@@ -446,7 +428,7 @@
         "languages": [
             [
                 "Python", 
-                84900
+                82747
             ], 
             [
                 "CSS", 
@@ -463,20 +445,23 @@
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 39, 
+        "open_issues": 37, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-13T02:19:33Z", 
-        "size": 73765, 
+        "pushed_at": "2014-10-29T00:26:55Z", 
+        "size": 73684, 
         "updated_at": "2014-10-15T03:07:08Z", 
         "watchers": 26
     }, 
     {
         "activity": [
+            0, 
+            0, 
+            0, 
             5, 
             2, 
             0, 
@@ -525,15 +510,12 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
                 "contributions": 19, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
@@ -566,7 +548,7 @@
         "name": "CaBi Odds", 
         "open_issues": 3, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/5375557?v=2", 
             "name": "cmgiven", 
             "type": "User", 
             "url": "https://github.com/cmgiven"
@@ -578,6 +560,9 @@
     }, 
     {
         "activity": [
+            0, 
+            1, 
+            3, 
             0, 
             0, 
             0, 
@@ -626,57 +611,54 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/130809?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/130809?v=2", 
                 "contributions": 87, 
                 "link": "https://github.com/HarlanH", 
                 "name": "HarlanH"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
                 "contributions": 37, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2593347?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2593347?v=2", 
                 "contributions": 13, 
                 "link": "https://github.com/sleitner", 
                 "name": "sleitner"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
                 "contributions": 12, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1072856?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1072856?v=2", 
                 "contributions": 11, 
                 "link": "https://github.com/matthewlkey", 
                 "name": "matthewlkey"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/235397?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/235397?v=2", 
                 "contributions": 9, 
                 "link": "https://github.com/rosskarchner", 
                 "name": "rosskarchner"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1596991?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1596991?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/cherihung", 
                 "name": "cherihung"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4514186?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4514186?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/jenniferjinliu", 
                 "name": "jenniferjinliu"
@@ -713,7 +695,7 @@
         "name": "Education", 
         "open_issues": 28, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/130809?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/130809?v=2", 
             "name": "HarlanH", 
             "type": "User", 
             "url": "https://github.com/HarlanH"
@@ -725,58 +707,58 @@
     }, 
     {
         "activity": [
-            6, 
-            3, 
-            4, 
-            1, 
-            0, 
-            1, 
-            0, 
-            0, 
-            1, 
-            0, 
-            0, 
-            0, 
-            3, 
-            2, 
-            1, 
-            0, 
-            4, 
-            0, 
-            0, 
-            0, 
-            3, 
-            6, 
-            7, 
-            0, 
-            2, 
-            3, 
-            6, 
             0, 
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            3, 
-            3, 
-            3, 
             6, 
             4, 
             3, 
-            0, 
-            9, 
-            11, 
-            8, 
-            2, 
-            4, 
-            7, 
-            2, 
             1, 
+            0, 
+            1, 
+            0, 
+            0, 
+            1, 
+            0, 
+            0, 
+            0, 
             5, 
             1, 
-            6
+            0, 
+            4, 
+            0, 
+            0, 
+            0, 
+            1, 
+            8, 
+            7, 
+            0, 
+            2, 
+            0, 
+            9, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            6, 
+            0, 
+            5, 
+            8, 
+            3, 
+            0, 
+            4, 
+            13, 
+            10, 
+            3, 
+            1, 
+            6, 
+            2, 
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -806,73 +788,73 @@
         }, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
-                "contributions": 49, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
+                "contributions": 43, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 40, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                "contributions": 35, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3", 
-                "contributions": 12, 
-                "link": "https://github.com/leahbannon", 
-                "name": "leahbannon"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
+                "contributions": 7, 
+                "link": "https://github.com/leahbannon", 
+                "name": "leahbannon"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=2", 
                 "contributions": 5, 
                 "link": "https://github.com/jtreed25", 
                 "name": "jtreed25"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/drewbo", 
                 "name": "drewbo"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4592?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4592?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/konklone", 
                 "name": "konklone"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1693152?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1693152?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/Fran33", 
                 "name": "Fran33"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2947360?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2947360?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/PeteOK", 
                 "name": "PeteOK"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/leah-lib", 
                 "name": "leah-lib"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3248065?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3248065?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/shannonturner", 
                 "name": "shannonturner"
@@ -882,7 +864,7 @@
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 23, 
+        "forks": 22, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -913,26 +895,26 @@
         "id": 11922700, 
         "languages": [
             [
-                "JavaScript", 
-                28711
+                "CSS", 
+                13573
             ], 
             [
-                "CSS", 
-                14125
+                "JavaScript", 
+                12522
             ]
         ], 
-        "main_language": "JavaScript", 
+        "main_language": "CSS", 
         "name": "Code for DC Website", 
         "open_issues": 13, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-23T23:40:26Z", 
-        "size": 17614, 
-        "updated_at": "2014-11-18T18:21:14Z", 
+        "pushed_at": "2014-10-30T03:49:04Z", 
+        "size": 8433, 
+        "updated_at": "2014-09-09T22:52:21Z", 
         "watchers": 13
     }, 
     {
@@ -961,9 +943,12 @@
             0, 
             0, 
             0, 
-            5, 
-            3, 
-            3, 
+            0, 
+            0, 
+            0, 
+            0, 
+            7, 
+            4, 
             0, 
             0, 
             0, 
@@ -985,33 +970,30 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 8, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/leahbannon", 
                 "name": "leahbannon"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
@@ -1031,7 +1013,7 @@
         "name": "Code of Conduct", 
         "open_issues": 3, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
@@ -1067,34 +1049,34 @@
             0, 
             0, 
             0, 
-            6, 
-            3, 
-            3, 
-            0, 
-            1, 
-            0, 
-            0, 
-            0, 
-            1, 
             0, 
             0, 
             0, 
             0, 
-            10, 
-            0, 
-            5, 
-            1, 
-            1, 
+            8, 
             2, 
+            2, 
+            1, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            8, 
             4, 
             1, 
+            2, 
             0, 
-            3, 
-            3, 
+            2, 
+            5, 
             0, 
-            0, 
-            1, 
-            3
+            2, 
+            4, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1133,25 +1115,19 @@
         }, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 42, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
+                "contributions": 39, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/leahbannon", 
-                "name": "leahbannon"
             }
         ], 
-        "contributors_count": 3, 
+        "contributors_count": 2, 
         "created_at": "2014-05-17T14:31:30Z", 
         "default_branch": "master", 
         "description": "How to do things", 
@@ -1174,81 +1150,81 @@
         "name": "Code for DC Guides", 
         "open_issues": 3, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-17T05:28:27Z", 
-        "size": 2388, 
-        "updated_at": "2014-11-14T17:11:38Z", 
-        "watchers": 10
+        "pushed_at": "2014-10-21T04:02:17Z", 
+        "size": 2349, 
+        "updated_at": "2014-09-26T20:32:06Z", 
+        "watchers": 5
     }, 
     {
         "activity": [
-            4, 
-            7, 
+            6, 
             7, 
             6, 
+            7, 
+            5, 
+            7, 
+            7, 
+            3, 
             0, 
-            1, 
-            4, 
-            5, 
-            7, 
-            10, 
-            6, 
-            2, 
-            6, 
-            6, 
-            4, 
-            5, 
-            6, 
-            5, 
-            5, 
-            6, 
-            5, 
-            7, 
+            3, 
             4, 
             6, 
             7, 
-            4, 
-            5, 
-            7, 
-            29, 
-            10, 
-            5, 
-            5, 
-            4, 
-            5, 
             9, 
             5, 
+            4, 
+            6, 
+            6, 
+            4, 
+            5, 
             6, 
             4, 
             6, 
+            6, 
+            5, 
+            7, 
             4, 
-            4, 
+            6, 
+            7, 
+            3, 
+            6, 
+            7, 
+            32, 
+            6, 
+            5, 
+            5, 
             5, 
             7, 
             6, 
-            6, 
             5, 
             6, 
+            4, 
+            6, 
+            3, 
+            5, 
+            6, 
+            7, 
+            6, 
+            6, 
+            4, 
             10, 
-            7, 
-            5, 
-            6, 
-            6
+            7
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 399, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=2", 
+                "contributions": 378, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=2", 
                 "contributions": 24, 
                 "link": "https://github.com/shiftyp", 
                 "name": "shiftyp"
@@ -1277,14 +1253,14 @@
         "name": "Mayor's Schedule Archive", 
         "open_issues": 0, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/1071322?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/1071322?v=2", 
             "name": "ajschumacher", 
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-11-25T09:06:45Z", 
-        "size": 2794, 
-        "updated_at": "2014-11-25T09:06:45Z", 
+        "pushed_at": "2014-10-31T04:07:49Z", 
+        "size": 2635, 
+        "updated_at": "2014-09-04T04:14:07Z", 
         "watchers": 4
     }, 
     {
@@ -1307,20 +1283,6 @@
             0, 
             0, 
             0, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -1329,6 +1291,20 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
             0, 
             0, 
             0, 
@@ -1345,19 +1321,19 @@
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4021179?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4021179?v=2", 
                 "contributions": 3, 
                 "link": "https://github.com/noahpatterson", 
                 "name": "noahpatterson"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7637609?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7637609?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/ernbrn", 
                 "name": "ernbrn"
@@ -1386,20 +1362,21 @@
         "name": "Open 211", 
         "open_issues": 2, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-08-01T20:47:07Z", 
         "size": 2932, 
-        "updated_at": "2014-11-18T00:08:30Z", 
-        "watchers": 2
+        "updated_at": "2014-08-01T20:47:07Z", 
+        "watchers": 1
     }, 
     {
         "activity": [
             0, 
             0, 
+            1, 
             0, 
             0, 
             0, 
@@ -1413,7 +1390,10 @@
             0, 
             0, 
             0, 
-            6, 
+            0, 
+            0, 
+            5, 
+            1, 
             0, 
             0, 
             0, 
@@ -1432,29 +1412,25 @@
             0, 
             0, 
             0, 
-            7, 
-            2, 
-            6, 
-            2, 
-            6, 
-            7, 
+            9, 
+            0, 
             8, 
-            13, 
             0, 
-            10, 
-            0, 
-            5, 
-            0, 
-            0, 
-            0, 
-            0, 
+            11, 
+            6, 
+            11, 
+            6, 
+            1, 
+            9, 
+            4, 
+            1, 
             0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=2", 
                 "contributions": 281, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
@@ -1489,9 +1465,9 @@
         ], 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 9, 
+        "open_issues": 8, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2424933?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2424933?v=2", 
             "name": "LeeMendelowitz", 
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
@@ -1503,7 +1479,11 @@
     }, 
     {
         "activity": [
-            7, 
+            0, 
+            11, 
+            0, 
+            5, 
+            2, 
             0, 
             0, 
             1, 
@@ -1522,12 +1502,8 @@
             0, 
             0, 
             0, 
-            0, 
-            4, 
-            0, 
-            0, 
-            0, 
-            0, 
+            1, 
+            3, 
             0, 
             0, 
             0, 
@@ -1559,7 +1535,7 @@
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=2", 
                 "contributions": 13, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
@@ -1584,7 +1560,7 @@
         "name": "Street Tree Map", 
         "open_issues": 0, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/4269640?v=2", 
             "name": "evonfriedland", 
             "type": "User", 
             "url": "https://github.com/evonfriedland"
@@ -1605,39 +1581,39 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
             5, 
             6, 
             0, 
             2, 
             0, 
             3, 
-            1, 
-            1, 
+            0, 
+            2, 
             0, 
             1, 
             0, 
             1, 
             0, 
             3, 
-            7, 
-            4, 
+            5, 
+            5, 
+            2, 
+            8, 
             3, 
-            7, 
+            2, 
+            0, 
+            1, 
+            1, 
+            0, 
+            0, 
             3, 
             1, 
             0, 
             2, 
-            0, 
-            0, 
-            0, 
-            4, 
-            0, 
-            0, 
-            2, 
             1, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -1652,31 +1628,31 @@
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4000062?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4000062?v=2", 
                 "contributions": 20, 
                 "link": "https://github.com/gemarcano", 
                 "name": "gemarcano"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1148798?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1148798?v=2", 
                 "contributions": 16, 
                 "link": "https://github.com/sbai", 
                 "name": "sbai"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5058998?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5058998?v=2", 
                 "contributions": 8, 
                 "link": "https://github.com/BridgitD", 
                 "name": "BridgitD"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2334699?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2334699?v=2", 
                 "contributions": 7, 
                 "link": "https://github.com/alexlyte", 
                 "name": "alexlyte"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3506636?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3506636?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/DimeZilla", 
                 "name": "DimeZilla"
@@ -1701,7 +1677,7 @@
         "name": "Emergency Response Times", 
         "open_issues": 2, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
@@ -1743,11 +1719,11 @@
             0, 
             0, 
             0, 
-            6, 
             0, 
             0, 
             0, 
-            0, 
+            5, 
+            1, 
             0, 
             0, 
             0, 
@@ -1769,13 +1745,13 @@
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/62615?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/62615?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/ncb000gt", 
                 "name": "ncb000gt"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=2", 
                 "contributions": 2, 
                 "link": "https://github.com/shiftyp", 
                 "name": "shiftyp"
@@ -1800,7 +1776,7 @@
         "name": "Community Gardens Visualization", 
         "open_issues": 1, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/131928?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/131928?v=2", 
             "name": "shiftyp", 
             "type": "User", 
             "url": "https://github.com/shiftyp"
@@ -1842,28 +1818,28 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
             2, 
-            5, 
-            14, 
-            0, 
-            3, 
-            0, 
-            0, 
-            37, 
-            6, 
-            7, 
-            0, 
-            16, 
-            14, 
-            16, 
-            10, 
             4, 
-            14, 
-            0, 
             13, 
+            2, 
+            1, 
+            2, 
+            0, 
+            12, 
+            29, 
+            9, 
             0, 
             2, 
-            0
+            17, 
+            21, 
+            8, 
+            9, 
+            15, 
+            2, 
+            8
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1900,43 +1876,43 @@
         }, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
-                "contributions": 121, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=2", 
+                "contributions": 120, 
                 "link": "https://github.com/donaldbraman", 
                 "name": "donaldbraman"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1186124?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1186124?v=2", 
                 "contributions": 24, 
                 "link": "https://github.com/saulshanabrook", 
                 "name": "saulshanabrook"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 6, 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=2", 
+                "contributions": 2, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/adunkman", 
                 "name": "adunkman"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/kevko", 
                 "name": "kevko"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/louh", 
                 "name": "louh"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
@@ -1954,7 +1930,7 @@
         "languages": [
             [
                 "Python", 
-                31029
+                22484
             ], 
             [
                 "CSS", 
@@ -1962,22 +1938,22 @@
             ], 
             [
                 "JavaScript", 
-                5165
+                658
             ]
         ], 
         "main_language": "Python", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 13, 
+        "open_issues": 1, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=2", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-15T19:42:23Z", 
-        "size": 21551, 
-        "updated_at": "2014-11-18T18:10:17Z", 
-        "watchers": 5
+        "pushed_at": "2014-10-31T03:56:54Z", 
+        "size": 29704, 
+        "updated_at": "2014-10-15T01:16:27Z", 
+        "watchers": 3
     }, 
     {
         "activity": [
@@ -2023,27 +1999,27 @@
             0, 
             0, 
             0, 
-            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            3, 
+            0, 
+            5, 
             2, 
-            0, 
-            7, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=2", 
                 "contributions": 5, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=2", 
                 "contributions": 5, 
                 "link": "https://github.com/drewbo", 
                 "name": "drewbo"
@@ -2076,7 +2052,7 @@
         "name": "DC Handguns", 
         "open_issues": 1, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/5375557?v=2", 
             "name": "cmgiven", 
             "type": "User", 
             "url": "https://github.com/cmgiven"
@@ -2130,11 +2106,11 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
             5, 
             11, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2144,19 +2120,19 @@
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=2", 
                 "contributions": 14, 
                 "link": "https://github.com/drewbo", 
                 "name": "drewbo"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/719357?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/719357?v=2", 
                 "contributions": 1, 
                 "link": "https://github.com/kamicut", 
                 "name": "kamicut"
@@ -2176,7 +2152,7 @@
         "name": "2014 Budget Treemap", 
         "open_issues": 4, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/7108211?v=2", 
             "name": "drewbo", 
             "type": "User", 
             "url": "https://github.com/drewbo"
@@ -2236,15 +2212,15 @@
             0, 
             0, 
             0, 
-            4, 
             0, 
             0, 
-            0
+            0, 
+            4
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=2", 
                 "contributions": 4, 
                 "link": "https://github.com/drewbo", 
                 "name": "drewbo"
@@ -2264,216 +2240,14 @@
         "name": "DC Juvenile Arrests", 
         "open_issues": 0, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+            "avatar": "https://avatars.githubusercontent.com/u/7108211?v=2", 
             "name": "drewbo", 
             "type": "User", 
             "url": "https://github.com/drewbo"
         }, 
         "pushed_at": "2014-10-29T15:14:54Z", 
-        "size": 1420, 
-        "updated_at": "2014-11-13T02:02:36Z", 
-        "watchers": 1
-    }, 
-    {
-        "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            40, 
-            51, 
-            5, 
-            1
-        ], 
-        "civic_json": null, 
-        "contributors": [
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 97, 
-                "link": "https://github.com/cmgiven", 
-                "name": "cmgiven"
-            }
-        ], 
-        "contributors_count": 1, 
-        "created_at": "2014-10-31T01:37:53Z", 
-        "default_branch": "master", 
-        "description": "Election map for DC's 2014 general election", 
-        "forks": 1, 
-        "help_wanted": [], 
-        "homepage": "http://electionmap.wamu.org", 
-        "html_url": "https://github.com/cmgiven/open-election-map", 
-        "id": 25997253, 
-        "languages": [
-            [
-                "JavaScript", 
-                238146
-            ], 
-            [
-                "CSS", 
-                22839
-            ], 
-            [
-                "Ruby", 
-                1576
-            ]
-        ], 
-        "main_language": "JavaScript", 
-        "name": "Open Elections Map", 
-        "open_issues": 0, 
-        "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-            "name": "cmgiven", 
-            "type": "User", 
-            "url": "https://github.com/cmgiven"
-        }, 
-        "pushed_at": "2014-11-21T14:39:43Z", 
-        "size": 967, 
-        "updated_at": "2014-11-21T14:39:43Z", 
-        "watchers": 8
-    }, 
-    {
-        "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            3, 
-            0
-        ], 
-        "civic_json": null, 
-        "contributors": [
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5669259?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/gxespino", 
-                "name": "gxespino"
-            }
-        ], 
-        "contributors_count": 1, 
-        "created_at": "2014-11-13T01:27:42Z", 
-        "default_branch": "master", 
-        "description": "The DC Healthcare Issues acts as an outlet for DC healthcare workers to report unsafe working conditions within their organizations without fear of reprisal. ", 
-        "forks": 0, 
-        "help_wanted": [], 
-        "homepage": null, 
-        "html_url": "https://github.com/gxespino/dc_healthcare_issues", 
-        "id": 26564654, 
-        "languages": [
-            [
-                "Ruby", 
-                15379
-            ], 
-            [
-                "CSS", 
-                683
-            ], 
-            [
-                "JavaScript", 
-                664
-            ]
-        ], 
-        "main_language": "Ruby", 
-        "name": "DC Healthcare Issues", 
-        "open_issues": 0, 
-        "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/5669259?v=3", 
-            "name": "gxespino", 
-            "type": "User", 
-            "url": "https://github.com/gxespino"
-        }, 
-        "pushed_at": "2014-11-13T01:40:00Z", 
-        "size": 128, 
-        "updated_at": "2014-11-13T01:31:13Z", 
+        "size": 0, 
+        "updated_at": "2014-10-29T14:42:12Z", 
         "watchers": 0
     }
 ]

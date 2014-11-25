@@ -1,0 +1,76 @@
+{"projects": [
+    {
+        "Affordable Housing": "https://github.com/codefordc/dchousing-apps"
+    },
+    {
+        "ANC Finder": "https://github.com/codefordc/ancfinder"
+    },
+    {
+        "CaBi Odds": "https://github.com/cmgiven/bikeshare-odds"
+    },
+    {
+        "Education": "https://github.com/HarlanH/code-for-dc-edu"
+    },
+    {
+        "Code for DC Website": "https://github.com/codefordc/codefordc-2.0"
+    },
+    {
+        "Code of Conduct": "https://github.com/codefordc/code-of-conduct"
+    },
+    {
+        "Code for DC Guides": "https://github.com/codefordc/guides"
+    },
+    {
+        "Mayor's Schedule Archive": "https://github.com/ajschumacher/dc_mayor_schedule"
+    },
+    {
+        "Open 211": "https://github.com/codefordc/open211"
+    },
+    {
+        "Metro Metrics": "https://github.com/LeeMendelowitz/DCMetroMetrics"
+    },
+    {
+        "Street Tree Map": "https://github.com/evonfriedland/tree-map"
+    },
+    {
+        "Emergency Response Times": "https://github.com/codefordc/ERDA"
+    },
+    {
+        "Community Gardens Visualization": "https://github.com/shiftyp/dc_community_gardens_visualization"
+    },
+    {
+        "Campaign Finance Watch": "https://github.com/codefordc/dc-campaign-finance-watch"
+    },
+    {
+    	"DC Handguns": "https://github.com/cmgiven/dc-handguns"
+    },
+    {
+    	"2014 Budget Treemap": "https://github.com/drewbo/dc-budget-treemap"
+
+    },
+    {
+    	"DC Juvenile Arrests": "https://github.com/drewbo/dc-juvenile"
+    }
+],
+"meetups": [
+    "DCLegalHackers",
+    "DC-Hack-and-Tell",
+    "DC-Web-API-User-Group",
+    "Data-Science-DC",
+    "Transportation-Techies",
+    "dc-pyladies",
+    "Girl-Develop-It-DC",
+    "Ladies-Who-Code-Washington-DC",
+    "railsgirlsdc",
+    "Women-Who-Code-DC",
+    "gdg-dc",
+    "Geo-DC",
+    "Maptime-DC",
+    "webcontentmavens",
+    "data-visualization-dc",
+    "Data-Science-MD",
+    "Data-Business-DC",
+    "stats-prog-dc",
+    "Data-Wranglers-DC"
+]
+}
