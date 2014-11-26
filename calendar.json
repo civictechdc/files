@@ -331,7 +331,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1412599788000, 
@@ -370,7 +370,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1404749084000, 
@@ -453,7 +453,7 @@
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>.</p> <p><br/>\u2022\u00a0Erek Dyskant of\u00a0<a href=\"http://www.bluelabs.com/\">BlueLabs</a>\u00a0will show us a directed graph of CaBi trips that studies neighborhood clusters.</p> <p><br/>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -472,7 +472,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1415672107000, 
+            "updated": 1417022878000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -487,7 +487,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1411918757000, 
@@ -632,7 +632,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 181
+            "yes_rsvp_count": 184
         }, 
         {
             "created": 1414594350000, 
@@ -659,7 +659,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1416927353000, 
@@ -686,7 +686,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1326383071000, 
