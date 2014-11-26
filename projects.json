@@ -91,7 +91,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 463, 
+                "contributions": 465, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -204,7 +204,7 @@
         "languages": [
             [
                 "Ruby", 
-                104713
+                104762
             ], 
             [
                 "CSS", 
@@ -225,16 +225,16 @@
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 16, 
+        "open_issues": 20, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-25T03:22:27Z", 
+        "pushed_at": "2014-11-26T05:41:38Z", 
         "size": 21069, 
-        "updated_at": "2014-11-25T03:22:27Z", 
+        "updated_at": "2014-11-26T05:41:38Z", 
         "watchers": 14
     }, 
     {
@@ -332,7 +332,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 227, 
+                "contributions": 228, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
@@ -419,7 +419,7 @@
         "created_at": "2013-03-11T23:54:30Z", 
         "default_branch": "master", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
-        "forks": 23, 
+        "forks": 24, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -450,7 +450,7 @@
             ], 
             [
                 "CSS", 
-                11429
+                9547
             ], 
             [
                 "Shell", 
@@ -463,16 +463,16 @@
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 39, 
+        "open_issues": 38, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-13T02:19:33Z", 
-        "size": 73765, 
-        "updated_at": "2014-11-26T00:58:36Z", 
+        "pushed_at": "2014-11-26T01:41:36Z", 
+        "size": 73754, 
+        "updated_at": "2014-11-26T01:41:36Z", 
         "watchers": 27
     }, 
     {
@@ -1243,7 +1243,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 399, 
+                "contributions": 400, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1282,9 +1282,9 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-11-25T09:06:45Z", 
+        "pushed_at": "2014-11-26T09:06:44Z", 
         "size": 2794, 
-        "updated_at": "2014-11-25T09:06:45Z", 
+        "updated_at": "2014-11-26T09:06:44Z", 
         "watchers": 4
     }, 
     {
@@ -1841,26 +1841,26 @@
             0, 
             0, 
             0, 
-            0, 
+            1, 
             2, 
-            5, 
-            14, 
+            16, 
+            2, 
+            1, 
+            2, 
             0, 
-            3, 
             0, 
-            0, 
-            37, 
-            6, 
+            41, 
+            2, 
             7, 
             0, 
+            18, 
             16, 
-            14, 
-            16, 
+            12, 
             10, 
             4, 
             14, 
-            0, 
-            13, 
+            6, 
+            7, 
             0, 
             2, 
             0
@@ -2324,9 +2324,9 @@
             0, 
             0, 
             0, 
-            40, 
-            51, 
-            5, 
+            48, 
+            46, 
+            2, 
             1
         ], 
         "civic_json": null, 
@@ -2371,7 +2371,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2014-11-21T14:39:43Z", 
-        "size": 967, 
+        "size": 891, 
         "updated_at": "2014-11-21T14:39:43Z", 
         "watchers": 8
     }, 
