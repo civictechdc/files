@@ -72,15 +72,15 @@
   - [JavaScript, 663]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 10
+  open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-11-25T03:22:27Z'
   size: 21069
   updated_at: '2014-11-25T03:22:27Z'
   watchers: 14
-- activity: [11, 15, 9, 0, 0, 0, 13, 2, 7, 20, 5, 2, 10, 4, 12, 1, 0, 9, 6, 0, 15,
-    0, 9, 0, 8, 2, 2, 5, 0, 0, 0, 6, 6, 0, 6, 3, 5, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6,
+- activity: [15, 11, 9, 0, 0, 0, 13, 2, 7, 20, 5, 2, 13, 1, 12, 1, 0, 9, 6, 0, 15,
+    0, 9, 0, 8, 2, 2, 5, 0, 0, 4, 2, 6, 3, 3, 4, 4, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6,
     0, 2, 2, 5, 0]
   civic_json:
     bornAt: Code for DC
@@ -162,8 +162,8 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-11-13T02:19:33Z'
   size: 73765
-  updated_at: '2014-10-15T03:07:08Z'
-  watchers: 26
+  updated_at: '2014-11-26T00:58:36Z'
+  watchers: 27
 - activity: [5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -237,9 +237,9 @@
   size: 40024
   updated_at: '2014-10-28T01:19:02Z'
   watchers: 17
-- activity: [6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 3, 6, 7,
-    0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 9, 11, 8, 2, 4, 7, 2, 1,
-    5, 1, 6]
+- activity: [6, 3, 4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 4, 2, 0, 0, 4, 0, 0, 0, 3, 8, 5,
+    0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 3, 6, 5, 2, 2, 10, 12, 4, 2, 7, 4, 2, 1,
+    5, 7, 0]
   civic_json:
     bornAt: Code for DC
     categories:
