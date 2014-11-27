@@ -293,7 +293,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1415086907000, 
@@ -370,7 +370,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1404749084000, 
@@ -409,11 +409,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>December edition: humanitarian mapping. Hear from folks building the tools and gathering the data to put detailed maps in the hands of humanitarians to aid crisis and disaster response and conflict mitigation. Learn why map data is critical to humanitarians, how they use it, and how you can help.</p>", 
+            "description": "<p>December edition: humanitarian mapping. Meet the people building the tools and gathering the data to put detailed maps in the hands of humanitarians to aid crisis response and conflict mitigation. Learn why map data is critical to humanitarians, how they use it, and how you can help.</p> <p>- Patrick Dufour and Benson Wilder will describe how the World Bank, State Department, American Red Cross, and UN partnered to build an open source, open data site \u2013\u00a0<a href=\"http://ebolageonode.org/\">ebolageonode.org</a>\u00a0\u2013 that allows for the sharing of operational data in support of the Ebola response.</p> <p>- Professor Tom Snitch of the University of Maryland's Institute for Advanced Computer Studies will demonstrate how he uses mathematical modeling, UAVs, and high resolution satellite imagery to combat poaching in Africa.</p> <p>- Helen Welch, the American Red Cross lead for information management, will share stories of humanitarians using maps and geospatial data to aid on-the-ground operations in crisis zones like the Philippines after Typhoon Haiyan.</p> <p>\n\nCome out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else.\u00a0<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\u00a0is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow\u00a0<a href=\"https://twitter.com/geo_dc\">@Geo_DC</a>\u00a0on Twitter, and join our\u00a0<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\">Google group</a>\u00a0for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/184749202/", 
             "group": {
                 "created": 1307975249000, 
@@ -432,7 +432,7 @@
             "name": "December GeoDC: Humanitarian", 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416580691000, 
+            "updated": 1417034974000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -449,7 +449,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1407908606000, 
@@ -486,7 +486,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -525,7 +525,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1415149990000, 
@@ -632,7 +632,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 184
+            "yes_rsvp_count": 187
         }, 
         {
             "created": 1414594350000, 
@@ -659,7 +659,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1416927353000, 
@@ -686,7 +686,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1326383071000, 
