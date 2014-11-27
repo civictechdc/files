@@ -449,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1407908606000, 
@@ -686,7 +686,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
