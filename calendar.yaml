@@ -358,7 +358,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1412599788000
   description: <p>In this talk Marck will provide tips and tricks on data hackery
     with R using dplyr, data.table, and other hacks he's has put together over the
@@ -381,7 +381,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1404749084000
   description: "<p>On December 3rd, join the DC Legal Hackers community for our\_\
     first\_ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie\
@@ -417,7 +417,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1326383071000
   description: "<p>December edition: humanitarian mapping. Meet the people building\
     \ the tools and gathering the data to put detailed maps in the hands of humanitarians\
@@ -460,7 +460,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -606,7 +606,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
