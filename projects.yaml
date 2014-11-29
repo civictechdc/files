@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 473,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 475,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -65,19 +65,19 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 104819]
+  - [Ruby, 104818]
   - [CSS, 11875]
   - [Puppet, 5220]
   - [CoffeeScript, 1744]
   - [JavaScript, 663]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 21
+  open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-28T16:23:39Z'
+  pushed_at: '2014-11-29T05:15:09Z'
   size: 21069
-  updated_at: '2014-11-28T16:23:39Z'
+  updated_at: '2014-11-29T05:15:09Z'
   watchers: 14
 - activity: [19, 11, 4, 0, 0, 9, 6, 5, 10, 15, 3, 4, 11, 2, 11, 0, 1, 14, 0, 10, 5,
     9, 0, 7, 1, 4, 0, 5, 0, 0, 6, 3, 3, 4, 4, 2, 7, 3, 0, 1, 0, 0, 0, 3, 2, 0, 6,
@@ -400,7 +400,7 @@
     6, 6, 4]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 400,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 401,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -422,9 +422,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-11-26T09:06:44Z'
+  pushed_at: '2014-11-29T09:06:37Z'
   size: 2794
-  updated_at: '2014-11-26T09:06:44Z'
+  updated_at: '2014-11-29T09:06:38Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

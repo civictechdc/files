@@ -91,7 +91,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 473, 
+                "contributions": 475, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -204,7 +204,7 @@
         "languages": [
             [
                 "Ruby", 
-                104819
+                104818
             ], 
             [
                 "CSS", 
@@ -225,16 +225,16 @@
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 21, 
+        "open_issues": 19, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-28T16:23:39Z", 
+        "pushed_at": "2014-11-29T05:15:09Z", 
         "size": 21069, 
-        "updated_at": "2014-11-28T16:23:39Z", 
+        "updated_at": "2014-11-29T05:15:09Z", 
         "watchers": 14
     }, 
     {
@@ -1243,7 +1243,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 400, 
+                "contributions": 401, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1282,9 +1282,9 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-11-26T09:06:44Z", 
+        "pushed_at": "2014-11-29T09:06:37Z", 
         "size": 2794, 
-        "updated_at": "2014-11-26T09:06:44Z", 
+        "updated_at": "2014-11-29T09:06:38Z", 
         "watchers": 4
     }, 
     {
