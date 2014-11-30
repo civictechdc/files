@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 475,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 476,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -65,7 +65,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 104818]
+  - [Ruby, 104876]
   - [CSS, 11875]
   - [Puppet, 5220]
   - [CoffeeScript, 1744]
@@ -75,12 +75,12 @@
   open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-29T05:15:09Z'
+  pushed_at: '2014-11-30T18:24:43Z'
   size: 21069
-  updated_at: '2014-11-29T05:15:09Z'
+  updated_at: '2014-11-30T18:24:43Z'
   watchers: 14
-- activity: [19, 14, 1, 0, 0, 11, 4, 5, 12, 14, 2, 4, 11, 2, 11, 0, 9, 6, 0, 13, 2,
-    9, 0, 8, 0, 4, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 0, 1, 0, 0, 2, 3, 0, 0, 6,
+- activity: [13, 15, 0, 0, 0, 13, 2, 5, 12, 14, 2, 8, 7, 9, 4, 0, 9, 6, 0, 15, 0,
+    9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0, 2, 3, 0, 1, 5,
     2, 2, 5, 0, 1]
   civic_json:
     bornAt: Code for DC
@@ -237,8 +237,8 @@
   size: 40024
   updated_at: '2014-10-28T01:19:02Z'
   watchers: 17
-- activity: [6, 7, 1, 0, 0, 1, 0, 0, 1, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7, 0,
-    2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 4, 8, 3, 0, 5, 14, 8, 3, 3, 4, 6, 1, 5,
+- activity: [3, 4, 1, 0, 0, 1, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7, 0,
+    2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 3, 4, 6, 1, 5,
     1, 6, 0]
   civic_json:
     bornAt: Code for DC
@@ -581,8 +581,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0, 12, 31, 7, 0, 3, 19, 21, 5, 9, 15, 2,
-    13, 0, 1, 1, 0]
+    0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 1, 2, 0, 37, 6, 7, 0, 14, 10, 19, 6, 11, 12, 2,
+    13, 0, 2, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
