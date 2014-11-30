@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1415829929000, 
@@ -370,11 +370,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1404749084000, 
-            "description": "<p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP <a href=\"http://lehackieawards.splashthat.com/\">on this site</a>\u00a0today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p>", 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/a/1/2/1/600_431981249.jpeg\" /></p> <p>On December 3rd, join the DC Legal Hackers community for our\u00a0first\u00a0ever\u00a0Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards will celebrate the awesome folks and amazing achievements of the legal hacking movement.\u00a0</p> <p><br/>We'll be taking over two floors of\u00a0The Loft at 600 F (600 F St NW), with live entertainment, food, and drinks, and we can't wait to see you there!</p> <p>_______________________________</p> <p>\u2022 Space is limited:\u00a0RSVP <a href=\"http://lehackieawards.splashthat.com/\">on this site</a>\u00a0today!</p> <p>\u2022\u00a0Nominate Legal Hackie Awardees\u00a0<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\">here</a>.</p> <p>\u2022\u00a0Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p> <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and networking holiday party\u00a0</p> <p><br/>7:30-8:00 Award announcements and featured project recognition\u00a0</p> <p>8:00 - 11:00 Food, drinks and networking holiday party</p> <p>_______________________________\u00a0</p> <p><br/><b>Thank you to our sponsors:\u00a0</b></p> <p>The Internet Society<br/>Google<br/>Open Gov Foundation<br/>FastCase<br/>R Street Institute<br/>Clio<br/>HP Idol OnDemand<br/>Sunlight Foundation</p>", 
             "duration": 14400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/193499902/", 
             "group": {
@@ -391,10 +391,10 @@ calendar({
             "id": "193499902", 
             "maybe_rsvp_count": 0, 
             "name": "Le Hackie Awards and Holiday Party", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1417651200000, 
-            "updated": 1416857542000, 
+            "updated": 1417307036000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F St. NW", 
@@ -409,7 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1326383071000, 
@@ -486,7 +486,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -632,7 +632,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 201
+            "yes_rsvp_count": 204
         }, 
         {
             "created": 1414594350000, 
@@ -686,7 +686,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1326383071000, 
