@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -608,7 +608,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -983,10 +983,14 @@ other:
     will share visualizations he made for\_the\_<a href=\"http://planitmetro.com/\"\
     >PlanItMetro blog</a>.</p> <p>\u2022\_<a href=\"https://twitter.com/tracktwentynine\"\
     >Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
-    >interactive Metro map</a> of station\_architectures.</p> <p><br/>To build your\
-    \ own Metro visualizations, find WMATA's open data via the <a href=\"http://planitmetro.com/tag/data-download/\"\
-    >data-download</a> tag.\_Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael Schade</a>\_an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
+    >interactive Metro map</a> of station\_architectures.</p> <p><br/>\u2022\_<a href=\"\
+    https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that\
+    \ tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>To\
+    \ build your own Metro visualizations, find WMATA's open data via PlanItMetro's\_\
+    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or\
+    \ use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\_Send\_\
+    <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael\
+    \ Schade</a>\_an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
     >Metro Hack Night I</a> was held on January 2, 2014. You can read about it on\
     \ the Mobility Lab blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
     >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\_<a href=\"\
@@ -1005,7 +1009,7 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1423782000000
-  updated: 1416867871000
+  updated: 1417319384000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
