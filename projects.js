@@ -720,8 +720,8 @@ projects([
         }, 
         "pushed_at": "2014-06-11T23:44:11Z", 
         "size": 40024, 
-        "updated_at": "2014-10-28T01:19:02Z", 
-        "watchers": 17
+        "updated_at": "2014-11-30T20:36:17Z", 
+        "watchers": 18
     }, 
     {
         "activity": [
@@ -2372,8 +2372,8 @@ projects([
         }, 
         "pushed_at": "2014-11-21T14:39:43Z", 
         "size": 891, 
-        "updated_at": "2014-11-30T05:30:26Z", 
-        "watchers": 9
+        "updated_at": "2014-11-30T20:34:39Z", 
+        "watchers": 10
     }, 
     {
         "activity": [
