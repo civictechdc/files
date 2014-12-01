@@ -2,7 +2,7 @@ calendar({
     "codefordc": [
         {
             "created": 1415829900000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
+            "description": "<p>This event is for project teams to hack or meet, but will be very informal. \u00a0If you're new, please consider attending our next Civic Hacknight in January and <a href=\"https://groups.google.com/forum/?hl=en#!forum/dc-cfa-brigade\">connect with us via our listerv!</a></p> <p>AGENDA</p> <p>6:30 - 9:00: Existing teams hack on projects. \u00a0Captain/s available.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 for entry if no one is at the door.</p> <p>\u2022\u00a0BYO-Everything! \u00a0There will be no food or beverage provided.</p> <p>\u2022 As always, the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a>\u00a0is in effect.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/218646929/", 
             "group": {
@@ -18,10 +18,10 @@ calendar({
             "headcount": 0, 
             "id": "218646929", 
             "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
+            "name": "Office Hours", 
             "status": "upcoming", 
             "time": 1418254200000, 
-            "updated": 1415829900000, 
+            "updated": 1417434844000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Second Floor", 
@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1415829929000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1415829952000, 
@@ -331,7 +331,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1412599788000, 
@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1404749084000, 
@@ -449,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1407908606000, 
@@ -486,8 +486,36 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 100
+        }, 
+        {
+            "created": 1417446958000, 
+            "description": "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\">GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour of Code</b> event for middle and high school girls as part of <a href=\"http://csedweek.org/\">Computer Science Education Week</a>! \u00a0</p> <p>We'll have 12-15 girls, and we'd love to have as many mentors! \u00a0<b><i>Please only RSVP if you are committed to mentoring this event. \u00a0</i></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/f/b/9/600_432057273.jpeg\" /></p> <p><b>Curriculum</b></p> <p><br/>We'll be going through the Hour of Code exercises found on\u00a0<a href=\"http://code.org/\">code.org</a>. (Click <a href=\"http://studio.code.org/hoc/1\">The Hour of Code</a> under Explore Code Studio to start the tutorial and go through it yourself!) \u00a0Anyone can come mentor this event- you don't need to have years of coding experience yourself. \u00a0All experience levels are welcome to come give back and be a role model!\u00a0</p> <p><br/><b>Directions/Parking</b></p> <p>This event will be at the <a href=\"http://www.bgcgw.org/richard-england-clubhouse-14/\">Boys and Girls Club of Greater Washington</a>\u00a0Richard England Clubhouse 14. \u00a0The Benning Road Metro Station is about 2 blocks/8 \u00a0minute walk away, or you are welcome to drive and park at the Boys and Girls Club. \u00a0If you prefer to metro and would like to be picked up from the metro station, just let us know ahead of time!\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/218998039/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "218998039", 
+            "maybe_rsvp_count": 0, 
+            "name": "Hour of Code Mentoring Event", 
+            "rsvp_limit": 16, 
+            "status": "upcoming", 
+            "time": 1418077800000, 
+            "updated": 1417446958000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1411918757000, 
@@ -525,7 +553,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1415149990000, 
@@ -565,7 +593,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1415066979000, 
@@ -632,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 208
+            "yes_rsvp_count": 213
         }, 
         {
             "created": 1414594350000, 
@@ -659,7 +687,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1416927353000, 
@@ -686,7 +714,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1326383071000, 
@@ -767,7 +795,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1417124761000, 
@@ -969,10 +997,10 @@ calendar({
             "how_to_find_us": "by the couch!", 
             "id": "218931900", 
             "maybe_rsvp_count": 0, 
-            "name": "Round 17: TODO: update name", 
+            "name": "Round 17: Codified Phase Transitions", 
             "status": "upcoming", 
             "time": 1424131200000, 
-            "updated": 1417124897000, 
+            "updated": 1417451614000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
