@@ -307,7 +307,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1415086907000
   description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
     >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
@@ -370,7 +370,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 103
 - created: 1404749084000
   description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/a/1/2/1/600_431981249.jpeg\"\
     \ /></p> <p>On December 3rd, join the DC Legal Hackers community for our\_first\_\
@@ -451,7 +451,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -475,9 +475,11 @@ other:
     \ will show us\_<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \_</p>\
     \ <p>\u2022\_<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present\
     \ research on how bikeshare station popularity is connected to the stations'\_\
-    accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As\
-    \ always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
-    for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\"\
+    accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022\
+    \_Steven Fleming has a project that gives you bike directions for using CaBi,\_\
+    letting\_you select the docks you want to use along the way.</p> <p><br/>As always,\
+    \ stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
+    \ updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\"\
     >#cabihacknight</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -490,7 +492,7 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1417734000000
-  updated: 1417022878000
+  updated: 1417470439000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
@@ -532,8 +534,8 @@ other:
   updated: 1417446958000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 15
+  waitlist_count: 1
+  yes_rsvp_count: 16
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -634,6 +636,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 62
+- created: 1417467277000
+  description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
+    \ appropriately, let's gather for a range of solid presentations about how businesses,\
+    \ government, and individuals. \_</p> <p>There will be plenty of good pizza, beer,\
+    \ and wine, but more importantly - the people doing great work throughout DC in\
+    \ this sector. \_Go ahead and mark your calendars. \_This will be a good one.\
+    \ \_</p> <p>6:00pm - 6:30pm Food, drinks and networking\_<br/>6:40pm - 6:50pm\
+    \ Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p> <p>*\
+    \ Ann Millspaugh, Emily Williamson - Motley Fool<br/>* Stuart Ridgway, Kim Becht\
+    \ - International Trade Administration\_<br/>* Aaron Balogun - CQ RollCall\_</p>\
+    \ <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_\
+    <br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/219005497/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '219005497'
+  maybe_rsvp_count: 0
+  name: DC API User Group - December Edition
+  status: upcoming
+  time: 1418252400000
+  updated: 1417467277000
+  utc_offset: -18000000
+  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
+    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
+    repinned: false, state: DC, zip: '20036'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 33
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -730,7 +762,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 213
+  yes_rsvp_count: 219
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -755,7 +787,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -809,7 +841,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 58
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -874,7 +906,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

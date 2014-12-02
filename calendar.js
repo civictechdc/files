@@ -293,7 +293,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1415086907000, 
@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1404749084000, 
@@ -449,11 +449,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022\u00a0Steven Fleming has a project that gives you bike directions for using CaBi,\u00a0letting\u00a0you select the docks you want to use along the way.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -472,7 +472,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1417022878000, 
+            "updated": 1417470439000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -514,8 +514,8 @@ calendar({
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1411918757000, 
@@ -596,6 +596,44 @@ calendar({
             "yes_rsvp_count": 62
         }, 
         {
+            "created": 1417467277000, 
+            "description": "<p>Get this - the DC API meetup turns 2 this month. \u00a0To celebrate appropriately, let's gather for a range of solid presentations about how businesses, government, and individuals. \u00a0</p> <p>There will be plenty of good pizza, beer, and wine, but more importantly - the people doing great work throughout DC in this sector. \u00a0Go ahead and mark your calendars. \u00a0This will be a good one. \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Ann Millspaugh, Emily Williamson - Motley Fool<br/>* Stuart Ridgway, Kim Becht - International Trade Administration\u00a0<br/>* Aaron Balogun - CQ RollCall\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219005497/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "219005497", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - December Edition", 
+            "status": "upcoming", 
+            "time": 1418252400000, 
+            "updated": 1417467277000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1900 M Street, NW - 3rd floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 12283102, 
+                "lat": 38.905430000000003, 
+                "lon": -77.043746999999996, 
+                "name": "Chief", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 33
+        }, 
+        {
             "created": 1415066979000, 
             "description": "<p>Please note you are\u00a0<b>NOT</b>\u00a0registered for this event by RSVPing on this meetup. \u00a0<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\">event registration page</a>.</b>\u00a0\u00a0You'll note\u00a0<b>discount codes</b>\u00a0along the right side of the page as you scroll down. \u00a0Be sure to look those over and take advantage of a discount code if you're eligible!\u00a0</p> <p>Join\u00a0<a href=\"http://gomodev.us7.list-manage.com/track/click?u=99b90f58e23183ba913447d43&amp;id=41e0edb5c3&amp;e=059db689d3\">50+ industry experts</a>\u00a0for two days of deep dive workshops, talks and keynotes and a 24-hour Hackathon\u2014for the East Coast's only mobile-first event of its kind. \u00a0Swift / iOS, Android, the MEAN stack, Metal, Bluetooth, Beacons, API / SDK strategies, UX + Design, security and testing, monetization strategies, and much more. Everything you need to set up a productive 2015.\u00a0</p> <p>With the ever-quickening pace of mobile, staying up-to-date on the latest APIs and SDKs is essential for any developer or business. Now in its fourth year, ModevCon (formerly ModevEast)\u2014happening December 11-12, 2014 in Washington, D.C.\u2014is must-attend for anyone developing, designing, and marketing mobile apps, websites and related products. For two intensive days, we\u2019ll put you face to face with the world\u2019s foremost industry experts to teach you the the latest methods, tools, and best practices for the industry's most important development platforms.</p> <p><b>December 11</b>:\u00a0Premium Workshops and Breakouts, Opening Reception, Sponsor Gallery<br/><b>December 12</b>:\u00a0Morning Breakout Sessions, Afternoon Keynotes, Closing Reception, Sponsor Gallery</p> <p>For details on speakers, schedule, and more please visit the <b><a href=\"http://mdc.gomodev.com/\">ModevCon website!</a>\u00a0\u00a0</b></p>", 
             "duration": 118800000, 
@@ -660,7 +698,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 213
+            "yes_rsvp_count": 219
         }, 
         {
             "created": 1414594350000, 
@@ -687,7 +725,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1416927353000, 
@@ -714,7 +752,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1326383071000, 
@@ -795,7 +833,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1417124761000, 
