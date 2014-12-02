@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1404749084000, 
@@ -486,7 +486,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -514,7 +514,7 @@ calendar({
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -593,7 +593,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1417467277000, 
@@ -631,7 +631,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1415066979000, 
@@ -658,7 +658,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1416514594000, 
@@ -698,7 +698,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 219
+            "yes_rsvp_count": 220
         }, 
         {
             "created": 1414594350000, 
@@ -752,7 +752,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1326383071000, 
@@ -1681,6 +1681,46 @@ calendar({
             "time": 1447975800000, 
             "updated": 1383661832000, 
             "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcytqbdb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcytqbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1449100800000, 
+            "updated": 1326383071000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1610 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 794012, 
+                "lat": 38.916775999999999, 
+                "lon": -77.037339000000003, 
+                "name": "Stetson's Famous Bar & Restaurant", 
+                "phone": "(202) 667-6295", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
