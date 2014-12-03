@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1415829929000, 
@@ -74,7 +74,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415829952000, 
@@ -370,7 +370,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1412599788000, 
@@ -409,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1404749084000, 
@@ -448,7 +448,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1326383071000, 
@@ -488,11 +488,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1407908606000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a> has a project that gives you bike directions for using CaBi,\u00a0letting\u00a0you select the docks you want to use along the way.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022 Sam\u00a0Estabrook and Erik Hovland of GMU will present an analysis of CaBi station management using historical data and open source applications.</p> <p><br/>\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a> has a project that gives you bike directions for using CaBi,\u00a0letting\u00a0you select the docks you want to use along the way.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
             "group": {
                 "created": 1384372275000, 
@@ -511,7 +511,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1417734000000, 
-            "updated": 1417535879000, 
+            "updated": 1417621579000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -526,7 +526,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 13, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1415033293000, 
@@ -588,7 +588,7 @@
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -617,7 +617,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1411918757000, 
@@ -655,7 +655,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1417567078000, 
@@ -722,7 +722,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1415149990000, 
@@ -766,7 +766,7 @@
         }, 
         {
             "created": 1417467277000, 
-            "description": "<p>Get this - the DC API meetup turns 2 this month. \u00a0To celebrate appropriately, let's gather for a range of solid presentations about how businesses, government, and individuals. \u00a0</p> <p>There will be plenty of good pizza, beer, and wine, but more importantly - the people doing great work throughout DC in this sector. \u00a0Go ahead and mark your calendars. \u00a0This will be a good one. \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Ann Millspaugh, Emily Williamson - Motley Fool<br/>* Stuart Ridgway, Kim Becht - International Trade Administration\u00a0<br/>* Aaron Balogun - CQ RollCall\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Get this - the DC API meetup turns 2 this month. \u00a0To celebrate appropriately, let's gather for a range of solid presentations about how businesses, government, and individuals. \u00a0</p> <p>There will be plenty of good pizza, beer, and wine, but more importantly - the people doing great work throughout DC in this sector. \u00a0Go ahead and mark your calendars. \u00a0This will be a good one. \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Saad Shami, Sheila Campbell - Peace Corps\u00a0<br/>* Ann Millspaugh, Emily Williamson - Motley Fool<br/>* Stuart Ridgway, Kim Becht - International Trade Administration\u00a0<br/>* Aaron Balogun - CQ RollCall\u00a0</p> <p>\n\n7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219005497/", 
             "group": {
                 "created": 1347647025000, 
@@ -784,7 +784,7 @@
             "name": "DC API User Group - December Edition", 
             "status": "upcoming", 
             "time": 1418252400000, 
-            "updated": 1417467277000, 
+            "updated": 1417622593000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1900 M Street, NW - 3rd floor", 
@@ -800,7 +800,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1415033293000, 
@@ -902,7 +902,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 228
+            "yes_rsvp_count": 230
         }, 
         {
             "created": 1414594350000, 
@@ -984,7 +984,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1415033293000, 
@@ -1249,7 +1249,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1415119879000, 
@@ -1423,7 +1423,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1417124897000, 
