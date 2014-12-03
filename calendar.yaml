@@ -26,7 +26,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -308,9 +308,59 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 51
+- created: 1415562292000
+  description: "<p><b><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469?discount=CYBER30\"\
+    >Registration is here</a>\_</b><b>-\_</b>use <b>CYBER30</b> to get an additional\
+    \ 30% off the event!\_We'll be meeting up together at the event though, so feel\
+    \ free to RSVP here so that we can update you about it!</p> <p>Also it's listed\
+    \ below, but if your company, or another that you know, might be interested in\
+    \ sponsoring - direct them to\_[masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
+    >visit the sponsorships page</a>.</p> <p>~~~ Event Description ~~~</p> <p>Come\
+    \ in from the cold, grab a drink and kick off the holiday season with a bang!</p>\
+    \ <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\_Wednesday,\
+    \ December 3rd\_for the 3rd annual\_<b>DC Web Women's Tech The Halls 2014 Holiday\
+    \ Party</b>\_presented by\_<a href=\"http://www.adobe.com/\">Adobe</a>! \_</p>\
+    \ <p>Tech The Halls! is a celebration that brings together local and national\
+    \ tech groups as one community for the DC area.\_DCWW, UXPA-DC, STC WDC,Web Mavens,\
+    \ Reaching Latinos Online, Color of Tech, Girl Develop It, NAMDE, InfoDevDC, Women\
+    \ Who Code\_and technologists from all over the DC-Metro area will meet, share\
+    \ ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
+    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
+    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
+    \ unify, network, and learn more about changing technology trends and best practices,\
+    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
+    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
+    >DJ Clinton Matthews</a>!!</p> <p><i>Attendees will receive a holiday tech-themed\
+    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
+    \ a very special grand prize!</i></p> <p><i>As always, men are encouraged to attend\
+    \ any DCWW event!</i></p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
+    \ in sponsoring Tech The Halls? please contact us at [masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
+    >visit our sponsorships page</a>.</p> <p>General event questions? Please contact\_\
+    <a href=\"mailto:[masked]\">[masked]</a>.</p> <p><i>**Last day to receive a refund\
+    \ is\_Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/218578778/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '218578778'
+  maybe_rsvp_count: 0
+  name: Tech the Halls
+  status: upcoming
+  time: 1417649400000
+  updated: 1417488686000
+  utc_offset: -18000000
+  venue: {address_1: '1301 K Street, Suite 103', city: Washington, country: us, id: 23469480,
+    lat: 38.902923999999999, lon: -77.030556000000004, name: Capitale, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 20
 - created: 1415086907000
-  description: "<p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
-    >Register on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
+  description: "<p>The event is sold out!! The hashtag is\_#techthehalls2014 to follow\
+    \ on twitter.</p> <p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
+    >Event page on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
     \ off the holiday season with a bang!</p> <p>Please join us as we celebrate all\
     \ of the reasons DC is a tech mecca,\_Wednesday, December 3rd\_for the 3rd annual\_\
     Tech The Halls 2014 Holiday Party\_presented by\_<a href=\"http://www.adobe.com/\"\
@@ -328,8 +378,7 @@ other:
     \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
     \ a very special grand prize!</p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
     \ in sponsoring Tech The Halls? Please use the Contact Organizer link or email\
-    \ [masked].</p> <p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
-    >Register now</a>!</p>"
+    \ [masked].</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/217528642/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -337,10 +386,11 @@ other:
   headcount: 0
   id: '217528642'
   maybe_rsvp_count: 0
-  name: Tech The Halls 2014
+  name: Tech The Halls 2014 - SOLD OUT!
+  rsvp_limit: 40
   status: upcoming
   time: 1417649400000
-  updated: 1415087520000
+  updated: 1417571373000
   utc_offset: -18000000
   venue: {address_1: '1301 K St NW, Washington', city: Washington, country: us, id: 16389972,
     lat: 38.902926999999998, lon: -77.030563000000001, name: Capitale, repinned: false,
@@ -498,8 +548,58 @@ other:
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 13
   yes_rsvp_count: 100
+- created: 1415033293000
+  description: "<p>Learn to create a Ruby on Rails application in one month! This\
+    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
+    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
+    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
+    \ beginners) how to create a simple application using Ruby on Rails. In addition\
+    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
+    \ It's perfect for complete beginners to coding or people who are interested in\
+    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
+    \ style - attendees will watch the video tutorials and complete exercises during\
+    \ the week, and at the meetup we will review the week's lessons, answer any questions\
+    \ and do additional exercises to deepen our knowledge of web technologies. At\
+    \ the end of the 5 week meetup, we will show the applications we have built!</p>\
+    \ <p>Because we are using the \"One Month Rails\" coursework this meetup will\
+    \ require attendees to pay for online access to the video tutorials. This comes\
+    \ to $70 a person (30% discount for Women Who Code members included.) We will\
+    \ give out the promo code during the first meetup and set up our environments\
+    \ so that everyone is ready to go when they leave the event.</p> <p>Attendees\
+    \ are encouraged to bring their laptops to meetups so we can go over any code\
+    \ questions you may have.\_</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-)\
+    \ Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p>\
+    \ <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p>\
+    \ <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday\
+    \ event for the tech community \"Tech the Halls\". \_During this session it will\
+    \ be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)-\
+    \ Review of Week 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)-\
+    \ Last meeting before the holiday during this session we will do a review on Week\
+    \ 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup\
+    \ in January of 2015</p> <p><i>*Everything is subject to change base on the needs\
+    \ of everyone within the group.</i></p> <p>Please, please modify your RSVPs if\
+    \ you cannot make it for all 5 meet ups to allow those on the wait list to RSVP.\
+    \ We look forward to seeing you! Thanks!!</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465952/
+  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
+    required: '0'}
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: drmkblysqbfb
+  maybe_rsvp_count: 0
+  name: 'One Month Rails: Learn Ruby on Rails'
+  rsvp_limit: 25
+  status: upcoming
+  time: 1417734000000
+  updated: 1417473325000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 13
 - created: 1417446958000
   description: "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\"\
     >GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour\
@@ -534,8 +634,65 @@ other:
   updated: 1417446958000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 16
+- created: 1415119879000
+  description: "<p><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/144007632/\"\
+    >Rebecca</a> is going to through all of the design tools/tricks/tips she's learned.\
+    \ Also we're asking that people try to find a couple (1-3) really cool personal\
+    \ websites and bring them so that we can talk about nice things we have seen!</p>\
+    \ <p>---------------------------------------------------------</p> <p>We're a\
+    \ group of women who want to learn JavaScript together. The study group is intended\
+    \ for everyone who wishes to learn JavaScript programming language, it's perfect\
+    \ for beginners with a basic understanding of HTML &amp; CSS. If you already know\
+    \ JavaScript, this can be a great platform for you to get together with fellow\
+    \ developers and hone your skills. If you're advanced, we'd love for you to come\
+    \ and help others learn more.</p> <p>There's always at least one mentor present\
+    \ to help you with best practices or guide you through if you are stuck with a\
+    \ nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217943312/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblysqblb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1418081400000
+  updated: 1417482935000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -570,7 +727,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 65
 - created: 1417567078000
   description: "<p>We're back at it again for our final meetup of the year! Bring\
     \ a project you're working on or lend a helping hand. All levels of experience\
@@ -608,6 +765,39 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1417465121000
+  description: "<p>From December 8th to the 14th, tens of millions of students in\
+    \ 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour\
+    \ of Code</a>. We are going to as well!</p> <p>Twilio, a web API for sending and\
+    \ receiving text messages and voice calls, is graciously offering to host one\
+    \ of their famous trainings with us\_on Tuesday from 6:30-8:30.\_We will learn\
+    \ how to write Python code to call phones, text cat GIFs and even\_<a href=\"\
+    https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\"\
+    >mustache that perfect selfie</a>\_you took over Thanksgiving break.</p> <p>This\
+    \ event is geared for people that have some python experience Let us know if you\
+    \ have questions, are interested in being a TA for the event, or if you know someone\
+    \ that would be able to host it next week!\_</p> <p>\n\nFun fact - Twilio was\
+    \ one of the first hosts for WWC events in San Francisco!</p> <p>Fun fact 2 -\
+    \ This event will be led by the infamous\_<a href=\"http://www.mattmakai.com/\"\
+    >Matt Makai</a>. He's going to be our first invited male attendee to a WWC DC\
+    \ event\_<i>sooooo</i>\_the pressure is on to see how this goes. :)\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219004596/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '219004596'
+  maybe_rsvp_count: 0
+  name: Learn the Twilio Web API in an Hour of Code
+  rsvp_limit: 60
+  status: upcoming
+  time: 1418167800000
+  updated: 1417580773000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 49
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -702,7 +892,57 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
+- created: 1415033293000
+  description: "<p>Learn to create a Ruby on Rails application in one month! This\
+    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
+    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
+    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
+    \ beginners) how to create a simple application using Ruby on Rails. In addition\
+    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
+    \ It's perfect for complete beginners to coding or people who are interested in\
+    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
+    \ style - attendees will watch the video tutorials and complete exercises during\
+    \ the week, and at the meetup we will review the week's lessons, answer any questions\
+    \ and do additional exercises to deepen our knowledge of web technologies. At\
+    \ the end of the 5 week meetup, we will show the applications we have built!</p>\
+    \ <p>Because we are using the \"One Month Rails\" coursework this meetup will\
+    \ require attendees to pay for online access to the video tutorials. This comes\
+    \ to $70 a person (30% discount for Women Who Code members included.) We will\
+    \ give out the promo code during the first meetup and set up our environments\
+    \ so that everyone is ready to go when they leave the event.</p> <p>Attendees\
+    \ are encouraged to bring their laptops to meetups so we can go over any code\
+    \ questions you may have.\_</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-)\
+    \ Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p>\
+    \ <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p>\
+    \ <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday\
+    \ event for the tech community \"Tech the Halls\". \_During this session it will\
+    \ be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)-\
+    \ Review of Week 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)-\
+    \ Last meeting before the holiday during this session we will do a review on Week\
+    \ 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup\
+    \ in January of 2015</p> <p><i>*Everything is subject to change base on the needs\
+    \ of everyone within the group.</i></p> <p>Please, please modify your RSVPs if\
+    \ you cannot make it for all 5 meet ups to allow those on the wait list to RSVP.\
+    \ We look forward to seeing you! Thanks!!</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465752/
+  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
+    required: '0'}
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: drmkblysqbnb
+  maybe_rsvp_count: 0
+  name: 'One Month Rails: Learn Ruby on Rails'
+  rsvp_limit: 25
+  status: upcoming
+  time: 1418252400000
+  updated: 1416438886000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -799,7 +1039,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 226
+  yes_rsvp_count: 228
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -824,7 +1064,62 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
+- created: 1415119879000
+  description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
+    >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
+    >Lisa</a>\_are going to do a talk on Heroku!</b></p> <p>We're a group of women\
+    \ who want to learn JavaScript together. The study group is intended for everyone\
+    \ who wishes to learn JavaScript programming language, it's perfect for beginners\
+    \ with a basic understanding of HTML &amp; CSS. If you already know JavaScript,\
+    \ this can be a great platform for you to get together with fellow developers\
+    \ and hone your skills. If you're advanced, we'd love for you to come and help\
+    \ others learn more.</p> <p>There's always at least one mentor present to help\
+    \ you with best practices or guide you through if you are stuck with a nasty problem!</p>\
+    \ <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    \ class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p>\
+    \ <p><b>Contact policy at buildings that need access</b></p> <p>Certain building\
+    \ managements requires meetup hosts to let people in and do not encourage them\
+    \ being contacted. Please respect the policy, in case\_the\_location\_requires\
+    \ access to the building\_contact the group lead if information is provided, or\
+    \ drop a comment on the meetup page. We'll come and get you.\_</p> <p><b>Want\
+    \ to be a JavaScript Study Group leader?\_</b></p> <p>If you are passionate about\
+    \ learning JavaScript with fellow awesome women and want to help us, come on out!\
+    \ \_Drop us a message or email us and let us know that you are interested in helping\
+    \ us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the\
+    \ resources that members have been following along, feel free to suggest if you\
+    \ have more to add!</i></p> <p>Coursera\_<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript\
+    \ is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217943332/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblysqbtb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1418686200000
+  updated: 1417479871000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 6
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -879,6 +1174,160 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 59
+- created: 1415033293000
+  description: "<p>Learn to create a Ruby on Rails application in one month! This\
+    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
+    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
+    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
+    \ beginners) how to create a simple application using Ruby on Rails. In addition\
+    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
+    \ It's perfect for complete beginners to coding or people who are interested in\
+    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
+    \ style - attendees will watch the video tutorials and complete exercises during\
+    \ the week, and at the meetup we will review the week's lessons, answer any questions\
+    \ and do additional exercises to deepen our knowledge of web technologies. At\
+    \ the end of the 5 week meetup, we will show the applications we built!</p> <p>Because\
+    \ we are using the \"One Month Rails\" coursework this meetup will require attendees\
+    \ to pay for online access to the video tutorials. This comes to $70 a person\
+    \ (30% discount for Women Who Code members included.) We will give out the promo\
+    \ code during the first meetup and set up our environments so that everyone is\
+    \ ready to go when they leave the event</p> <p>Attendees are encouraged to bring\
+    \ their laptops to meetups so we can go over any code questions you may have.\_\
+    </p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-) Sign up for OMR, Github and\
+    \ Nitrous. Brainstorm Course Expectations and Ideas</p> <p>Week 2 (11/19)- Review\
+    \ Week 1 and go over challenges with first week videos.</p> <p>Week 3 (TBD)- It\
+    \ will be either held on 12/2 or 12/4 due to the big holiday event for the tech\
+    \ community \"Tech the Halls\". \_During this session it will be a review of Week\
+    \ 2 and challenges of second week videos</p> <p>Week 4 (12/10)- Review of Week\
+    \ 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)- Last meeting\
+    \ before the holiday during this session we will do a review on Week 4 and challenges\
+    \ of Week 4 videos as well as discuss ideas for continuing meetup in January of\
+    \ 2015</p> <p><i>*Everything is subject to change base on the needs of everyone\
+    \ within the group.</i></p> <p>Please, please modify your RSVPs if you cannot\
+    \ make it for all 5 meet ups to allow those on the wait list to RSVP. We look\
+    \ forward to seeing you! Thanks!!</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465612/
+  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
+    required: '0'}
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: drmkblysqbwb
+  maybe_rsvp_count: 0
+  name: 'One Month Rails: Learn Ruby on Rails'
+  rsvp_limit: 25
+  status: upcoming
+  time: 1418857200000
+  updated: 1416438820000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
+- created: 1415119879000
+  description: "<p>We're a group of women who want to learn JavaScript together. The\
+    \ study group is intended for everyone who wishes to learn JavaScript programming\
+    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
+    \ CSS. If you already know JavaScript, this can be a great platform for you to\
+    \ get together with fellow developers and hone your skills. If you're advanced,\
+    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ at least one mentor present to help you with best practices or guide you through\
+    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblysqbdc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblysqbdc
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1419291000000
+  updated: 1415119879000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
+- created: 1415119879000
+  description: "<p>We're a group of women who want to learn JavaScript together. The\
+    \ study group is intended for everyone who wishes to learn JavaScript programming\
+    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
+    \ CSS. If you already know JavaScript, this can be a great platform for you to\
+    \ get together with fellow developers and hone your skills. If you're advanced,\
+    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ at least one mentor present to help you with best practices or guide you through\
+    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblytcbhb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblytcbhb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1420500600000
+  updated: 1415119879000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -900,7 +1349,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>Doors open at 6:00 with pizza and drinks, and the presentations start at\
@@ -915,11 +1364,13 @@ other:
     \ in advance.</p> <p><br/>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
     >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
     \ employers and government agencies to drive improvements in metro mobility.</p>\
-    \ <p>\u2022\_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a>\
-    \ of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how\
-    \ they're makes cities smarter by crunching millions of data points to see how\
-    \ people are traveling throughout the city.</p> <p><br/>Do you have an auto-centric\
-    \ app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    \ <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\_\
+    will talk about his app that connects people exchanging parking spots.</p> <p><br/>\u2022\
+    \_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"\
+    http://www.bridj.com/\">Bridj</a> will tell us how they are how they're makes\
+    \ cities smarter by crunching millions of data points to see how people are traveling\
+    \ throughout the city.\_</p> <p>Do you have an auto-centric app or data viz? Sign\
+    \ up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
     >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
     for \"Transportation Techies\" updates.</p>"
   duration: 10800000
@@ -933,17 +1384,69 @@ other:
   id: '213357602'
   maybe_rsvp_count: 0
   name: Autotopia Night
-  rsvp_limit: 60
+  rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1417545455000
+  updated: 1417582695000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
+- created: 1415119879000
+  description: "<p>We're a group of women who want to learn JavaScript together. The\
+    \ study group is intended for everyone who wishes to learn JavaScript programming\
+    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
+    \ CSS. If you already know JavaScript, this can be a great platform for you to\
+    \ get together with fellow developers and hone your skills. If you're advanced,\
+    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ at least one mentor present to help you with best practices or guide you through\
+    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblytcbqb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblytcbqb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1421105400000
+  updated: 1415119879000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1026,6 +1529,110 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1415119879000
+  description: "<p>We're a group of women who want to learn JavaScript together. The\
+    \ study group is intended for everyone who wishes to learn JavaScript programming\
+    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
+    \ CSS. If you already know JavaScript, this can be a great platform for you to\
+    \ get together with fellow developers and hone your skills. If you're advanced,\
+    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ at least one mentor present to help you with best practices or guide you through\
+    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblytcbzb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblytcbzb
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1421710200000
+  updated: 1415119879000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
+- created: 1415119879000
+  description: "<p>We're a group of women who want to learn JavaScript together. The\
+    \ study group is intended for everyone who wishes to learn JavaScript programming\
+    \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
+    \ CSS. If you already know JavaScript, this can be a great platform for you to\
+    \ get together with fellow developers and hone your skills. If you're advanced,\
+    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ at least one mentor present to help you with best practices or guide you through\
+    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
+    \ at buildings that need access</b></p> <p>Certain building managements requires\
+    \ meetup hosts to let people in and do not encourage them being contacted. Please\
+    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    contact the group lead if information is provided, or drop a comment on the meetup\
+    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
+    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the JS study group!</p>\
+    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
+    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
+    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
+    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
+    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
+    linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
+    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
+    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
+    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
+    \ <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/dlqpblytcbjc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: dlqpblytcbjc
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1422315000000
+  updated: 1415119879000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
