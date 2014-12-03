@@ -293,7 +293,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1415086907000, 
@@ -331,7 +331,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1412599788000, 
@@ -370,7 +370,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1404749084000, 
@@ -409,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
@@ -486,8 +486,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
-            "yes_rsvp_count": 101
+            "waitlist_count": 12, 
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1417446958000, 
@@ -514,7 +514,7 @@
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -553,7 +553,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 62
+        }, 
+        {
+            "created": 1417567078000, 
+            "description": "<p>We're back at it again for our final meetup of the year! Bring a project you're working on or lend a helping hand. All levels of experience welcome. We'll also make time for short talks if anyone wants to share something they're doing or learning.</p> <p><b>Rails Girls DC Lending Library</b></p> <p>For those attending be sure to take a look at our new <a href=\"http://rgdclibrary.herokuapp.com\">Rails Girls DC Lending Library</a>, we have nearly 20 different books ranging from the Learn to Program and the Rails Tutorial to\u00a0Foundations of Software and System Performance Engineering. If you reserve a book prior to the meetup I'll be sure to have when you arrive. :)</p> <p>Big thanks to Abigail Seldin and Sam Zucker at ECMC for hosting us in their brand new space. Abigail was recently featured in an <a href=\"http://thenextweb.com/entrepreneur/2014/11/06/turned-silicon-valley-washington-dc/\">article</a> on The Next Web, definitely recommended reading.<b>\u00a0</b></p> <p><b>About ECMC</b></p> <p>At the new ECMC Innovation Lab. we build tech that changes how millions of people manage - and clear - their student debt. Our ambitions extend far beyond basic service delivery; we are looking for new ways to help borrowers resolve their loans and move on to bigger and better things.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/219030965/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Girls (and Guys)"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Across the street from the Convention Center", 
+            "id": "219030965", 
+            "maybe_rsvp_count": 0, 
+            "name": "Hack session", 
+            "status": "upcoming", 
+            "time": 1418166000000, 
+            "updated": 1417567078000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415149990000, 
@@ -631,7 +670,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1415066979000, 
@@ -698,7 +737,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 222
+            "yes_rsvp_count": 226
         }, 
         {
             "created": 1414594350000, 
@@ -725,7 +764,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1416927353000, 
@@ -810,30 +849,30 @@
                 "who": "Techies"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "Lobby doors on Oak St. Revolving doors might be locked, but side doors should remain open. Meetup is on 11th floor.", 
+            "how_to_find_us": "Note our new location for January! Just 3 blocks from the Rosslyn Metro", 
             "id": "213357602", 
             "maybe_rsvp_count": 0, 
             "name": "Autotopia Night", 
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1416449988000, 
+            "updated": 1417545455000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1501 Wilson Blvd, Suite 1100", 
+                "address_1": "1101 Wilson Blvd.", 
                 "city": "Arlington", 
                 "country": "us", 
-                "id": 16609032, 
-                "lat": 38.895149000000004, 
-                "lon": -77.074043000000003, 
-                "name": "Mobility Lab", 
+                "id": 11535342, 
+                "lat": 38.895325, 
+                "lon": -77.069710000000001, 
+                "name": "Artisphere Dome Theatre", 
                 "repinned": false, 
                 "state": "VA", 
                 "zip": "22209"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1417124761000, 
@@ -871,7 +910,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1379643162000, 
