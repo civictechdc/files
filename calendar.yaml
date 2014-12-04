@@ -262,246 +262,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1415028866000
-  description: "<p><i><b>**</b>Please RSVP here so we know what GDI members are attending,\
-    \ but</i><i>\_you MUST register through the <a href=\"http://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
-    >Tech The Halls Eventbrite page found here</a>. \_</i><i>If you do not have an\
-    \ Eventbrite ticket, you are not registered for the event. \_Make sure to use\
-    \ promo code\_<b>GDITTH15</b> for <b>15% off!</b></i><i>**</i><b>\_</b></p> <p><br/><b><br/></b></p>\
-    \ <p><b>Come in from the cold, grab a drink and kick off the holiday season with\
-    \ a bang!</b></p> <p>Please join us as we celebrate all of the reasons DC is a\
-    \ tech mecca,\_<b>Wednesday, December 3rd</b>\_for the 3rd annual <b>DC Web Women's\
-    \ Tech The Halls 2014 Holiday Party</b>\_presented by\_<a href=\"http://www.adobe.com/\"\
-    >Adobe</a>! \_</p> <p>Tech The Halls! is a celebration that brings together local\
-    \ and national tech groups as one community for the DC area.\_<b>DCWW, Girl Develop\
-    \ It DC, UXPA-DC, STC WDC,Web Mavens, Reaching Latinos Online, Color of Tech,\
-    \ NAMDE</b>\_and technologists from all over the DC-Metro area will meet, share\
-    \ ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
-    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
-    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
-    \ unify, network, and learn more about changing technology trends and best practices,\
-    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
-    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
-    >DJ Clinton Matthews</a>!!</p> <p><i><b>Attendees will receive a holiday tech-themed\
-    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
-    \ a very special grand prize!</b></i></p> <p><i>As always, men are encouraged\
-    \ to attend any DCWW event!</i></p> <p>Twitter hashtag:\_<b>#techthehalls2014</b></p>\
-    \ <p><b>Interested in sponsoring Tech The Halls? please contact us at [masked]\
-    \ or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
-    >visit our sponsorships page</a>.</b></p> <p>General event questions? Please contact\_\
-    <a href=\"mailto:[masked]\">[masked]</a>.</p> <p>\n\n\n<i>**Last day to receive\
-    \ a refund is\_Wednesday, November 26th 2014. After 11/26/14 all ticket sales\
-    \ are final.</i></p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/217339452/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '217339452'
-  maybe_rsvp_count: 0
-  name: Tech The Halls 2014
-  status: upcoming
-  time: 1417649400000
-  updated: 1415059366000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 51
-- created: 1415562292000
-  description: "<p><b><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469?discount=CYBER30\"\
-    >Registration is here</a>\_</b><b>-\_</b>use <b>CYBER30</b> to get an additional\
-    \ 30% off the event!\_We'll be meeting up together at the event though, so feel\
-    \ free to RSVP here so that we can update you about it!</p> <p>Also it's listed\
-    \ below, but if your company, or another that you know, might be interested in\
-    \ sponsoring - direct them to\_[masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
-    >visit the sponsorships page</a>.</p> <p>~~~ Event Description ~~~</p> <p>Come\
-    \ in from the cold, grab a drink and kick off the holiday season with a bang!</p>\
-    \ <p>Please join us as we celebrate all of the reasons DC is a tech mecca,\_Wednesday,\
-    \ December 3rd\_for the 3rd annual\_<b>DC Web Women's Tech The Halls 2014 Holiday\
-    \ Party</b>\_presented by\_<a href=\"http://www.adobe.com/\">Adobe</a>! \_</p>\
-    \ <p>Tech The Halls! is a celebration that brings together local and national\
-    \ tech groups as one community for the DC area.\_DCWW, UXPA-DC, STC WDC,Web Mavens,\
-    \ Reaching Latinos Online, Color of Tech, Girl Develop It, NAMDE, InfoDevDC, Women\
-    \ Who Code\_and technologists from all over the DC-Metro area will meet, share\
-    \ ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
-    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
-    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
-    \ unify, network, and learn more about changing technology trends and best practices,\
-    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
-    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
-    >DJ Clinton Matthews</a>!!</p> <p><i>Attendees will receive a holiday tech-themed\
-    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
-    \ a very special grand prize!</i></p> <p><i>As always, men are encouraged to attend\
-    \ any DCWW event!</i></p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
-    \ in sponsoring Tech The Halls? please contact us at [masked] or\_<a href=\"http://www.eventbrite.com/e/sponsor-tech-the-halls-2014-tickets-11825774209\"\
-    >visit our sponsorships page</a>.</p> <p>General event questions? Please contact\_\
-    <a href=\"mailto:[masked]\">[masked]</a>.</p> <p><i>**Last day to receive a refund\
-    \ is\_Wednesday, November 26th 2014. After 11/26/14 all ticket sales are final.</i></p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/218578778/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '218578778'
-  maybe_rsvp_count: 0
-  name: Tech the Halls
-  status: upcoming
-  time: 1417649400000
-  updated: 1417488686000
-  utc_offset: -18000000
-  venue: {address_1: '1301 K Street, Suite 103', city: Washington, country: us, id: 23469480,
-    lat: 38.902923999999999, lon: -77.030556000000004, name: Capitale, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 20
-- created: 1415086907000
-  description: "<p>The event is sold out!! The hashtag is\_#techthehalls2014 to follow\
-    \ on twitter.</p> <p><a href=\"https://www.eventbrite.com/e/tech-the-halls-2014-presented-by-adobe-tickets-13247446469\"\
-    >Event page on Eventbrite</a></p> <p>Come in from the cold, grab a drink and kick\
-    \ off the holiday season with a bang!</p> <p>Please join us as we celebrate all\
-    \ of the reasons DC is a tech mecca,\_Wednesday, December 3rd\_for the 3rd annual\_\
-    Tech The Halls 2014 Holiday Party\_presented by\_<a href=\"http://www.adobe.com/\"\
-    >Adobe</a>!</p> <p>Tech The Halls! is a celebration that brings together local\
-    \ and national tech groups as one community for the DC area.\_DCWW, \_UXPA-DC,\
-    \ STC WDC, Web Content Mavens (us!), Reaching Latinos Online, Color of Tech, Girl\
-    \ Develop It, NAMDE\_and technologists from all over the DC-Metro area will meet,\
-    \ share ideas and network.</p> <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\"\
-    >Capitale</a>\_in downtown Washington, DC, Tech the Halls provides an opportunity\
-    \ for entrepreneurs, startups, designers, developers, coders and strategists to\
-    \ unify, network, and learn more about changing technology trends and best practices,\
-    \ as well as promoting the important role we play in the burgeoning tech economy.</p>\
-    \ <p>There will be an open bar, unlimited food, and music by\_<a href=\"https://twitter.com/djclintonm\"\
-    >DJ Clinton Matthews</a>!!</p> <p>Attendees will receive a holiday tech-themed\
-    \ gift bag (quantities limited), and a chance to win tech/non-tech prizes including\
-    \ a very special grand prize!</p> <p>Twitter hashtag:\_#techthehalls2014</p> <p>Interested\
-    \ in sponsoring Tech The Halls? Please use the Contact Organizer link or email\
-    \ [masked].</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/217528642/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '217528642'
-  maybe_rsvp_count: 0
-  name: Tech The Halls 2014 - SOLD OUT!
-  rsvp_limit: 40
-  status: upcoming
-  time: 1417649400000
-  updated: 1417571373000
-  utc_offset: -18000000
-  venue: {address_1: '1301 K St NW, Washington', city: Washington, country: us, id: 16389972,
-    lat: 38.902926999999998, lon: -77.030563000000001, name: Capitale, repinned: false,
-    state: DC, zip: '20005'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 42
-- created: 1412599788000
-  description: <p>In this talk Marck will provide tips and tricks on data hackery
-    with R using dplyr, data.table, and other hacks he's has put together over the
-    years.</p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/211706682/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: '211706682'
-  maybe_rsvp_count: 0
-  name: Data Wrangling Hacks With R from Marck Vaisman
-  status: upcoming
-  time: 1417649400000
-  updated: 1416929011000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 112
-- created: 1404749084000
-  description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/a/1/2/1/600_431981249.jpeg\"\
-    \ /></p> <p>On December 3rd, join the DC Legal Hackers community for our\_first\_\
-    ever\_Le Hackie Awards. Part holiday party, part awards show, Le Hackie Awards\
-    \ will celebrate the awesome folks and amazing achievements of the legal hacking\
-    \ movement.\_</p> <p><br/>We'll be taking over two floors of\_The Loft at 600\
-    \ F (600 F St NW), with live entertainment, food, and drinks, and we can't wait\
-    \ to see you there!</p> <p>_______________________________</p> <p>\u2022 Space\
-    \ is limited:\_RSVP <a href=\"http://lehackieawards.splashthat.com/\">on this\
-    \ site</a>\_today!</p> <p>\u2022\_Nominate Legal Hackie Awardees\_<a href=\"https://docs.google.com/forms/d/1YmIb5SVPhAgsnaEVaa8yURr5XFdO-nDwOfs60XQ_Dms/viewform?c=0&amp;w=1\"\
-    >here</a>.</p> <p>\u2022\_Follow along on twitter with the hashtag #LegalHack\
-    \ or at\_<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>\
-    \ <p><br/>_______________________________</p> <p><br/>7-7:30 Food, drinks and\
-    \ networking holiday party\_</p> <p><br/>7:30-8:00 Award announcements and featured\
-    \ project recognition\_</p> <p>8:00 - 11:00 Food, drinks and networking holiday\
-    \ party</p> <p>_______________________________\_</p> <p><br/><b>Thank you to our\
-    \ sponsors:\_</b></p> <p>The Internet Society<br/>Google<br/>Open Gov Foundation<br/>FastCase<br/>R\
-    \ Street Institute<br/>Clio<br/>HP Idol OnDemand<br/>Sunlight Foundation</p>"
-  duration: 14400000
-  event_url: http://www.meetup.com/DCLegalHackers/events/193499902/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '193499902'
-  maybe_rsvp_count: 0
-  name: Le Hackie Awards and Holiday Party
-  rsvp_limit: 150
-  status: upcoming
-  time: 1417651200000
-  updated: 1417307036000
-  utc_offset: -18000000
-  venue: {address_1: 600 F St. NW, city: Washington, country: us, id: 23132642, lat: 38.897067999999997,
-    lon: -77.020126000000005, name: 'Current place: The Loft, Floor 4', repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 54
-- created: 1326383071000
-  description: "<p>December edition: humanitarian mapping. Meet the people building\
-    \ the tools and gathering the data to put detailed maps in the hands of humanitarians\
-    \ to aid crisis response and conflict mitigation. Learn why map data is critical\
-    \ to humanitarians, how they use it, and how you can help.</p> <p>- Patrick Dufour\
-    \ and Benson Wilder will describe how the World Bank, State Department, American\
-    \ Red Cross, and UN partnered to build an open source, open data site \u2013\_\
-    <a href=\"http://ebolageonode.org/\">ebolageonode.org</a>\_\u2013 that allows\
-    \ for the sharing of operational data in support of the Ebola response.</p> <p>-\
-    \ Professor Tom Snitch of the University of Maryland's Institute for Advanced\
-    \ Computer Studies will demonstrate how he uses mathematical modeling, UAVs, and\
-    \ high resolution satellite imagery to combat poaching in Africa.</p> <p>- Helen\
-    \ Welch, the American Red Cross lead for information management, will share stories\
-    \ of humanitarians using maps and geospatial data to aid on-the-ground operations\
-    \ in crisis zones like the Philippines after Typhoon Haiyan.</p> <p>\n\nCome out\
-    \ at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning\
-    \ talks at 7:30pm. There will be time after to talk with our speakers and everyone\
-    \ else.\_<a href=\"http://stetsons-dc.com/index.php\">Stetsons</a>\_is a 21 and\
-    \ over venue. If you're not yet 21 but want to attend, message us via meetup and\
-    \ we'll do our best to get you in.\_</p> <p>GeoDC meets on the first Wednesday\
-    \ of the month to learn, network, and talk about the work people are doing with\
-    \ maps, GIS, geodata, and more. Join this meetup group, follow\_<a href=\"https://twitter.com/geo_dc\"\
-    >@Geo_DC</a>\_on Twitter, and join our\_<a href=\"https://groups.google.com/forum/?fromgroups#%21forum/geonerds-dc\"\
-    >Google group</a>\_for updates.</p> <p>Do you have something you'd like to share\
-    \ with the group? Let us know!</p>"
-  event_url: http://www.meetup.com/Geo-DC/events/184749202/
-  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
-    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
-  headcount: 0
-  how_to_find_us: Upstairs bar
-  id: dlcllcysqbfb
-  maybe_rsvp_count: 0
-  name: 'December GeoDC: Humanitarian'
-  status: upcoming
-  time: 1417651200000
-  updated: 1417034974000
-  utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 65
 - created: 1407908606000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -541,17 +301,17 @@ other:
   id: '200661602'
   maybe_rsvp_count: 0
   name: CaBi Hack Night III
-  rsvp_limit: 100
+  rsvp_limit: 120
   status: upcoming
   time: 1417734000000
-  updated: 1417621579000
+  updated: 1417675150000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 15
-  yes_rsvp_count: 101
+  waitlist_count: 0
+  yes_rsvp_count: 117
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -636,7 +396,7 @@ other:
   updated: 1417446958000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 10
   yes_rsvp_count: 16
 - created: 1415119879000
   description: "<p><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/144007632/\"\
@@ -729,7 +489,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1417567078000
   description: "<p>We're back at it again for our final meetup of the year! Bring\
     \ a project you're working on or lend a helping hand. All levels of experience\
@@ -799,7 +559,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -864,7 +624,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 68
 - created: 1417467277000
   description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
     \ appropriately, let's gather for a range of solid presentations about how businesses,\
@@ -894,7 +654,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -1041,7 +801,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 229
+  yes_rsvp_count: 232
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -1121,7 +881,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -1175,7 +935,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
