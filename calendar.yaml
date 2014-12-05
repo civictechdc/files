@@ -26,7 +26,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -262,106 +262,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1407908606000
-  description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
-    \ about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
-    \ about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
-    >CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
-    >CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project?\
-    \ We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor\
-    \ <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\_\
-    Note our location this month is in DC, at\_WeWork's beautiful space at the\_<a\
-    \ href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\"\
-    >Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a>\
-    \ for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\_Colin Hughes\
-    \ of the\_<a href=\"https://www.itdp.org/\">Institute for Transportation and Development\
-    \ Policy</a>\_will talk about\_planning principles for bikeshare systems.</p>\
-    \ <p>\u2022\_Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\"\
-    >dcjs data explorer</a> for CaBi.</p> <p>\u2022\_<a href=\"http://codemonkey.io/\"\
-    >Mathias Hansen</a> will show us how he visualizes an individual's trip histories\
-    \ with his Trip statistics app.</p> <p>\u2022\_<a href=\"http://www.metrobike.net/\"\
-    >Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study\
-    \ on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\_Zach Rausnitz\
-    \ will show us\_<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \_</p>\
-    \ <p>\u2022\_<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present\
-    \ research on how bikeshare station popularity is connected to the stations'\_\
-    accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022\
-    \ Sam\_Estabrook and Erik Hovland of GMU will present an analysis of CaBi station\
-    \ management using historical data and open source applications.</p> <p><br/>\u2022\
-    \_<a href=\"http://www.stee.vn/\">Steven Fleming</a> has a project that gives\
-    \ you bike directions for using CaBi,\_letting\_you select the docks you want\
-    \ to use along the way.</p> <p><br/>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\"\
-    >#cabihacknight</a>.</p>"
-  event_url: http://www.meetup.com/Transportation-Techies/events/200661602/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  id: '200661602'
-  maybe_rsvp_count: 0
-  name: CaBi Hack Night III
-  rsvp_limit: 120
-  status: upcoming
-  time: 1417734000000
-  updated: 1417675150000
-  utc_offset: -18000000
-  venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
-    lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 117
-- created: 1415033293000
-  description: "<p>Learn to create a Ruby on Rails application in one month! This\
-    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
-    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
-    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
-    \ beginners) how to create a simple application using Ruby on Rails. In addition\
-    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
-    \ It's perfect for complete beginners to coding or people who are interested in\
-    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
-    \ style - attendees will watch the video tutorials and complete exercises during\
-    \ the week, and at the meetup we will review the week's lessons, answer any questions\
-    \ and do additional exercises to deepen our knowledge of web technologies. At\
-    \ the end of the 5 week meetup, we will show the applications we have built!</p>\
-    \ <p>Because we are using the \"One Month Rails\" coursework this meetup will\
-    \ require attendees to pay for online access to the video tutorials. This comes\
-    \ to $70 a person (30% discount for Women Who Code members included.) We will\
-    \ give out the promo code during the first meetup and set up our environments\
-    \ so that everyone is ready to go when they leave the event.</p> <p>Attendees\
-    \ are encouraged to bring their laptops to meetups so we can go over any code\
-    \ questions you may have.\_</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-)\
-    \ Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p>\
-    \ <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p>\
-    \ <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday\
-    \ event for the tech community \"Tech the Halls\". \_During this session it will\
-    \ be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)-\
-    \ Review of Week 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)-\
-    \ Last meeting before the holiday during this session we will do a review on Week\
-    \ 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup\
-    \ in January of 2015</p> <p><i>*Everything is subject to change base on the needs\
-    \ of everyone within the group.</i></p> <p>Please, please modify your RSVPs if\
-    \ you cannot make it for all 5 meet ups to allow those on the wait list to RSVP.\
-    \ We look forward to seeing you! Thanks!!</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465952/
-  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
-    required: '0'}
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: drmkblysqbfb
-  maybe_rsvp_count: 0
-  name: 'One Month Rails: Learn Ruby on Rails'
-  rsvp_limit: 25
-  status: upcoming
-  time: 1417734000000
-  updated: 1417473325000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1417446958000
   description: "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\"\
     >GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour\
@@ -559,7 +459,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -624,7 +524,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1417467277000
   description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
     \ appropriately, let's gather for a range of solid presentations about how businesses,\
@@ -654,7 +554,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -801,7 +701,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 235
+  yes_rsvp_count: 240
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -826,7 +726,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -1129,7 +1029,7 @@ other:
     \ <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\_\
     will talk about his app that connects people exchanging parking spots.</p> <p><br/>\u2022\
     \_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"\
-    http://www.bridj.com/\">Bridj</a> will tell us how they are how they're makes\
+    http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making\
     \ cities smarter by crunching millions of data points to see how people are traveling\
     \ throughout the city.\_</p> <p>Do you have an auto-centric app or data viz? Sign\
     \ up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
@@ -1149,14 +1049,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1417582695000
+  updated: 1417763361000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1506,7 +1406,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

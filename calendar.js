@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415829929000, 
@@ -269,79 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1407908606000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about <a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about <a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">CaBi Hack Night I</a> and <a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">CaBi Hack Night II</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00, with food courtesy of our sponsor <a href=\"https://www.twilio.com/\">Twilio</a>. The presentations start at 6:30.\u00a0Note our location this month is in DC, at\u00a0WeWork's beautiful space at the\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory/\">Wonder Bread Factory</a>. Thank you <a href=\"https://www.wework.com/\">WeWork</a> for hosting us!</p> <p>Our awesome speakers are:</p> <p>\u2022\u00a0Colin Hughes of the\u00a0<a href=\"https://www.itdp.org/\">Institute for Transportation and Development Policy</a>\u00a0will talk about\u00a0planning principles for bikeshare systems.</p> <p>\u2022\u00a0Trevor Gerhardt will show us a <a href=\"http://trevorgerhardt.com/hexacabi/\">dcjs data explorer</a> for CaBi.</p> <p>\u2022\u00a0<a href=\"http://codemonkey.io/\">Mathias Hansen</a> will show us how he visualizes an individual's trip histories with his Trip statistics app.</p> <p>\u2022\u00a0<a href=\"http://www.metrobike.net/\">Paul DeMaio</a>, program manager of Arlington's CaBi service, will share a study on CaBi\u2019s first-mile/last-mile ridership.</p> <p>\u2022\u00a0Zach Rausnitz will show us\u00a0<a href=\"http://www.rausnitz.com/iq/\">Bikeshare IQ</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"http://www.indicatrix.org/\">Matt Conway</a> will present research on how bikeshare station popularity is connected to the stations'\u00a0accessibility to residences, jobs, and neighborhood amenities.</p> <p><br/>\u2022 Sam\u00a0Estabrook and Erik Hovland of GMU will present an analysis of CaBi station management using historical data and open source applications.</p> <p><br/>\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a> has a project that gives you bike directions for using CaBi,\u00a0letting\u00a0you select the docks you want to use along the way.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/200661602/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "200661602", 
-            "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night III", 
-            "rsvp_limit": 120, 
-            "status": "upcoming", 
-            "time": 1417734000000, 
-            "updated": 1417675150000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20010852, 
-                "lat": 38.914551000000003, 
-                "lon": -77.021095000000003, 
-                "name": "WeWork Wonder Bread Factory", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 117
-        }, 
-        {
-            "created": 1415033293000, 
-            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. It's perfect for complete beginners to coding or people who are interested in learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\" style - attendees will watch the video tutorials and complete exercises during the week, and at the meetup we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will show the applications we have built!</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.) We will give out the promo code during the first meetup and set up our environments so that everyone is ready to go when they leave the event.</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have.\u00a0</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-) Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p> <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p> <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday event for the tech community \"Tech the Halls\". \u00a0During this session it will be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)- Review of Week 3 and the challenges of week 3 videos\u00a0</p> <p>Week 5 (12/17)- Last meeting before the holiday during this session we will do a review on Week 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup in January of 2015</p> <p><i>*Everything is subject to change base on the needs of everyone within the group.</i></p> <p>Please, please modify your RSVPs if you cannot make it for all 5 meet ups to allow those on the wait list to RSVP. We look forward to seeing you! Thanks!!</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465952/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 70, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "0"
-            }, 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "drmkblysqbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "One Month Rails: Learn Ruby on Rails", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1417734000000, 
-            "updated": 1417473325000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1417446958000, 
             "description": "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\">GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour of Code</b> event for middle and high school girls as part of <a href=\"http://csedweek.org/\">Computer Science Education Week</a>! \u00a0</p> <p>We'll have 12-15 girls, and we'd love to have as many mentors! \u00a0<b><i>Please only RSVP if you are committed to mentoring this event. \u00a0</i></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/f/b/9/600_432057273.jpeg\" /></p> <p><b>Curriculum</b></p> <p><br/>We'll be going through the Hour of Code exercises found on\u00a0<a href=\"http://code.org/\">code.org</a>. (Click <a href=\"http://studio.code.org/hoc/1\">The Hour of Code</a> under Explore Code Studio to start the tutorial and go through it yourself!) \u00a0Anyone can come mentor this event- you don't need to have years of coding experience yourself. \u00a0All experience levels are welcome to come give back and be a role model!\u00a0</p> <p><br/><b>Directions/Parking</b></p> <p>This event will be at the <a href=\"http://www.bgcgw.org/richard-england-clubhouse-14/\">Boys and Girls Club of Greater Washington</a>\u00a0Richard England Clubhouse 14. \u00a0The Benning Road Metro Station is about 2 blocks/8 \u00a0minute walk away, or you are welcome to drive and park at the Boys and Girls Club. \u00a0If you prefer to metro and would like to be picked up from the metro station, just let us know ahead of time!\u00a0</p>", 
             "duration": 7200000, 
@@ -500,7 +427,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1415149990000, 
@@ -540,7 +467,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1417467277000, 
@@ -578,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1415033293000, 
@@ -680,7 +607,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 235
+            "yes_rsvp_count": 240
         }, 
         {
             "created": 1414594350000, 
@@ -707,7 +634,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1415119879000, 
@@ -897,7 +824,7 @@ calendar({
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.</p> <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're makes cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.</p> <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -918,7 +845,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1417582695000, 
+            "updated": 1417763361000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1101 Wilson Blvd.", 
@@ -934,7 +861,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1415119879000, 
@@ -1201,7 +1128,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417124897000, 
