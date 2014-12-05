@@ -91,7 +91,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 496, 
+                "contributions": 498, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -210,7 +210,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                114618
+                114875
             ], 
             [
                 "CSS", 
@@ -231,16 +231,16 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 14, 
+        "open_issues": 13, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-12-04T03:44:29Z", 
+        "pushed_at": "2014-12-05T00:22:23Z", 
         "size": 21197, 
-        "updated_at": "2014-12-04T03:44:29Z", 
+        "updated_at": "2014-12-05T00:22:25Z", 
         "watchers": 14
     }, 
     {

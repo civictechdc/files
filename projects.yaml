@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 496,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 498,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -67,19 +67,19 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 114618]
+  - [Ruby, 114875]
   - [CSS, 11875]
   - [Puppet, 5220]
   - [CoffeeScript, 942]
   - [JavaScript, 663]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 14
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-04T03:44:29Z'
+  pushed_at: '2014-12-05T00:22:23Z'
   size: 21197
-  updated_at: '2014-12-04T03:44:29Z'
+  updated_at: '2014-12-05T00:22:25Z'
   watchers: 14
 - activity: [8, 9, 0, 0, 9, 4, 2, 15, 15, 2, 2, 13, 2, 11, 1, 1, 14, 0, 2, 13, 8,
     1, 7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2,
