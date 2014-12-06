@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 498,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 501,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -67,7 +67,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 114875]
+  - [Ruby, 115235]
   - [CSS, 11875]
   - [Puppet, 5220]
   - [CoffeeScript, 942]
@@ -77,9 +77,9 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-05T00:22:23Z'
+  pushed_at: '2014-12-06T00:57:06Z'
   size: 21197
-  updated_at: '2014-12-05T00:22:25Z'
+  updated_at: '2014-12-06T00:57:06Z'
   watchers: 14
 - activity: [11, 4, 0, 0, 9, 6, 5, 10, 15, 3, 4, 11, 2, 11, 0, 1, 14, 0, 10, 5, 9,
     0, 7, 1, 4, 0, 5, 0, 0, 6, 3, 3, 4, 4, 2, 7, 3, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2,
