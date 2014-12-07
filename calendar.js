@@ -269,33 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1417793036000, 
-            "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/DCFemTech/e6d\"><a href=\"https://nvite.com/DCFemTech/e6d\" class=\"linkified\">https://nvite.com/DCFemTech/e6d</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219083210/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "219083210", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1417892400000, 
-            "updated": 1417793099000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
             "created": 1417446958000, 
             "description": "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\">GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour of Code</b> event for middle and high school girls as part of <a href=\"http://csedweek.org/\">Computer Science Education Week</a>! \u00a0</p> <p>We'll have 12-15 girls, and we'd love to have as many mentors! \u00a0<b><i>Please only RSVP if you are committed to mentoring this event. \u00a0</i></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/f/b/9/600_432057273.jpeg\" /></p> <p><b>Curriculum</b></p> <p><br/>We'll be going through the Hour of Code exercises found on\u00a0<a href=\"http://code.org/\">code.org</a>. (Click <a href=\"http://studio.code.org/hoc/1\">The Hour of Code</a> under Explore Code Studio to start the tutorial and go through it yourself!) \u00a0Anyone can come mentor this event- you don't need to have years of coding experience yourself. \u00a0All experience levels are welcome to come give back and be a role model!\u00a0</p> <p><br/><b>Directions/Parking</b></p> <p>This event will be at the <a href=\"http://www.bgcgw.org/richard-england-clubhouse-14/\">Boys and Girls Club of Greater Washington</a>\u00a0Richard England Clubhouse 14. \u00a0The Benning Road Metro Station is about 2 blocks/8 \u00a0minute walk away, or you are welcome to drive and park at the Boys and Girls Club. \u00a0If you prefer to metro and would like to be picked up from the metro station, just let us know ahead of time!\u00a0</p>", 
             "duration": 7200000, 
@@ -320,7 +293,7 @@ calendar({
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -387,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1417567078000, 
@@ -532,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1415033293000, 
@@ -634,7 +607,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 279
+            "yes_rsvp_count": 285
         }, 
         {
             "created": 1414594350000, 
