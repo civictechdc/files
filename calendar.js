@@ -293,7 +293,7 @@ calendar({
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -360,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1417567078000, 
@@ -426,8 +426,8 @@ calendar({
             "updated": 1417580773000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1415149990000, 
@@ -505,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1415033293000, 
@@ -607,7 +607,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 290
+            "yes_rsvp_count": 294
         }, 
         {
             "created": 1414594350000, 
@@ -634,7 +634,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1415119879000, 
@@ -786,7 +786,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclytcbkb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219112410/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -807,7 +807,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
