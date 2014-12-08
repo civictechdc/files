@@ -293,7 +293,7 @@ calendar({
             "updated": 1417446958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 16
         }, 
         {
@@ -322,7 +322,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1411918757000, 
@@ -360,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1417567078000, 
@@ -403,7 +403,7 @@ calendar({
         }, 
         {
             "created": 1417465121000, 
-            "description": "<p>From December 8th to the 14th, tens of millions of students in 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour of Code</a>. We are going to as well!</p> <p>Twilio, a web API for sending and receiving text messages and voice calls, is graciously offering to host one of their famous trainings with us\u00a0on Tuesday from 6:30-8:30.\u00a0We will learn how to write Python code to call phones, text cat GIFs and even\u00a0<a href=\"https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\">mustache that perfect selfie</a>\u00a0you took over Thanksgiving break.</p> <p>This event is geared for people that have some python experience Let us know if you have questions, are interested in being a TA for the event, or if you know someone that would be able to host it next week!\u00a0</p> <p>\n\nFun fact - Twilio was one of the first hosts for WWC events in San Francisco!</p> <p>Fun fact 2 - This event will be led by the infamous\u00a0<a href=\"http://www.mattmakai.com/\">Matt Makai</a>. He's going to be our first invited male attendee to a WWC DC event\u00a0<i>sooooo</i>\u00a0the pressure is on to see how this goes. :)\u00a0</p>", 
+            "description": "<p>From December 8th to the 14th, tens of millions of students in 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour of Code</a>. We are going to as well!</p> <p>Twilio, a web API for sending and receiving text messages and voice calls, is graciously offering to host one of their famous trainings with us\u00a0on Tuesday from 6:30-8:30.\u00a0We will learn how to write Python code to call phones, text cat GIFs and even\u00a0<a href=\"https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\">mustache that perfect selfie</a>\u00a0you took over Thanksgiving break.</p> <p>This event is geared for people that have some python experience Let us know if you have questions, are interested in being a TA for the event, or if you know someone that would be able to host it next week!\u00a0</p> <p><br/>Fun fact - Twilio was one of the first hosts for WWC events in San Francisco!</p> <p>------------------------------------</p> <p>Matt Makai will be leading this workshop and he is\u00a0a Developer Evangelist for\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>\u00a0and a\u00a0<a href=\"http://radar.oreilly.com/2014/05/driving-demand-for-full-stack-developers.html\">full stack software developer</a>. His job is to inspire and equip software developers so they can build amazing new communications applications.\u00a0</p> <p>Every year Matt picks a major project to sink his teeth into. In 2014, that project is building\u00a0<a href=\"http://www.fullstackpython.com/\">Full Stack Python</a>into a great resource for anyone interested in learning about Python web application development.\u00a0Matt's previous project in 2013 was\u00a0<a href=\"http://www.codingacrossamerica.com/\">Coding Across America</a>. He road tripped for 5 months to 30 cities across the United States to talk with fellow software developers and tech startups.</p> <p>In addition to Matt, we are going to have help from the amazing\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53200542/\">Ria Galanos</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/1467430/\">Tegan Twedt</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53792062/\">Melanie Camhi</a>, and\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/171891622/\">Emma Grasmeder</a>!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219004596/", 
             "group": {
@@ -423,10 +423,10 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1418167800000, 
-            "updated": 1417580773000, 
+            "updated": 1417987487000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 60
         }, 
         {
@@ -505,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1415033293000, 
@@ -540,7 +540,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1415066979000, 
@@ -607,7 +607,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 294
+            "yes_rsvp_count": 296
         }, 
         {
             "created": 1414594350000, 
@@ -888,7 +888,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1415119879000, 
