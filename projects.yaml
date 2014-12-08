@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 524,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 526,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -69,7 +69,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 119713]
+  - [Ruby, 119925]
   - [CSS, 11875]
   - [Puppet, 5220]
   - [CoffeeScript, 942]
@@ -79,9 +79,9 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-08T01:03:11Z'
+  pushed_at: '2014-12-08T02:51:33Z'
   size: 21197
-  updated_at: '2014-12-08T01:03:11Z'
+  updated_at: '2014-12-08T01:36:21Z'
   watchers: 14
 - activity: [15, 0, 0, 0, 13, 2, 5, 12, 14, 2, 8, 7, 9, 4, 0, 9, 6, 0, 15, 0, 9, 0,
     8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0, 2, 3, 0, 1, 5, 2, 2,
@@ -404,7 +404,7 @@
     6, 6, 4, 7]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 408,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 409,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -426,9 +426,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-12-07T10:06:18Z'
+  pushed_at: '2014-12-08T10:06:14Z'
   size: 2810
-  updated_at: '2014-12-07T10:06:18Z'
+  updated_at: '2014-12-08T10:06:15Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

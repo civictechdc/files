@@ -354,7 +354,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -465,14 +465,14 @@ other:
   id: '219004596'
   maybe_rsvp_count: 0
   name: Learn the Twilio Web API in an Hour of Code
-  rsvp_limit: 60
+  rsvp_limit: 70
   status: upcoming
   time: 1418167800000
-  updated: 1417987487000
+  updated: 1418007731000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 2
-  yes_rsvp_count: 60
+  waitlist_count: 0
+  yes_rsvp_count: 62
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -567,7 +567,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 88
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -714,7 +714,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 296
+  yes_rsvp_count: 297
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -740,6 +740,42 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 53
+- created: 1418019938000
+  description: "<p><b>Please RSVP here also:\_<a href=\"https://nvite.com/DCFemTech/e61\"\
+    \ class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp;\
+    \ Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way\
+    \ to learn, code and work on projects with other members in the community. From\
+    \ Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open\
+    \ to all women or those who support women and minorities in tech. Feel free to\
+    \ come early or stay later. These events are held at public coffee shops, so good\
+    \ seats are on a first come first serve basis. Beginners welcome!</p> <p>Code\
+    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
+    \ plan. These events are very informal so ladies will usually bring their own\
+    \ projects or meet people who are working on similar projects to collaborate together.\
+    \ If you're a beginner we recommend some online tutorials like Code Academy or\
+    \ General Assembly Dash. The hope is that you will find ladies who are learning\
+    \ similar coding languages and projects to work with or ask questions.</p> <p>When\
+    \ you arrive, we'll be around the tables/booths in the back. Look for a few signs.\
+    \ If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p>\
+    \ <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode\
+    \ DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual\
+    \ pages for resources and more events throughout the month!</p> <p><img src=\"\
+    https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219126997/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '219126997'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1418583600000
+  updated: 1418019938000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -848,7 +884,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -1088,7 +1124,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\

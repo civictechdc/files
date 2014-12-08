@@ -322,7 +322,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1411918757000, 
@@ -420,14 +420,14 @@ calendar({
             "id": "219004596", 
             "maybe_rsvp_count": 0, 
             "name": "Learn the Twilio Web API in an Hour of Code", 
-            "rsvp_limit": 60, 
+            "rsvp_limit": 70, 
             "status": "upcoming", 
             "time": 1418167800000, 
-            "updated": 1417987487000, 
+            "updated": 1418007731000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 60
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1415149990000, 
@@ -505,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1415033293000, 
@@ -607,7 +607,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 296
+            "yes_rsvp_count": 297
         }, 
         {
             "created": 1414594350000, 
@@ -635,6 +635,32 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 53
+        }, 
+        {
+            "created": 1418019938000, 
+            "description": "<p><b>Please RSVP here also:\u00a0<a href=\"https://nvite.com/DCFemTech/e61\" class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219126997/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "219126997", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee", 
+            "status": "upcoming", 
+            "time": 1418583600000, 
+            "updated": 1418019938000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415119879000, 
@@ -689,7 +715,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1415033293000, 
@@ -888,7 +914,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1415119879000, 
