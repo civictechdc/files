@@ -26,7 +26,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -262,42 +262,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1417446958000
-  description: "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\"\
-    >GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour\
-    \ of Code</b> event for middle and high school girls as part of <a href=\"http://csedweek.org/\"\
-    >Computer Science Education Week</a>! \_</p> <p>We'll have 12-15 girls, and we'd\
-    \ love to have as many mentors! \_<b><i>Please only RSVP if you are committed\
-    \ to mentoring this event. \_</i></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/f/b/9/600_432057273.jpeg\"\
-    \ /></p> <p><b>Curriculum</b></p> <p><br/>We'll be going through the Hour of Code\
-    \ exercises found on\_<a href=\"http://code.org/\">code.org</a>. (Click <a href=\"\
-    http://studio.code.org/hoc/1\">The Hour of Code</a> under Explore Code Studio\
-    \ to start the tutorial and go through it yourself!) \_Anyone can come mentor\
-    \ this event- you don't need to have years of coding experience yourself. \_All\
-    \ experience levels are welcome to come give back and be a role model!\_</p> <p><br/><b>Directions/Parking</b></p>\
-    \ <p>This event will be at the <a href=\"http://www.bgcgw.org/richard-england-clubhouse-14/\"\
-    >Boys and Girls Club of Greater Washington</a>\_Richard England Clubhouse 14.\
-    \ \_The Benning Road Metro Station is about 2 blocks/8 \_minute walk away, or\
-    \ you are welcome to drive and park at the Boys and Girls Club. \_If you prefer\
-    \ to metro and would like to be picked up from the metro station, just let us\
-    \ know ahead of time!\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/218998039/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '218998039'
-  maybe_rsvp_count: 0
-  name: Hour of Code Mentoring Event
-  rsvp_limit: 16
-  status: upcoming
-  time: 1418077800000
-  updated: 1417446958000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 2
-  yes_rsvp_count: 16
 - created: 1415119879000
   description: "<p><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/144007632/\"\
     >Rebecca</a> is going to through all of the design tools/tricks/tips she's learned.\
@@ -354,7 +318,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 15
 - created: 1411918757000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -389,7 +353,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 78
 - created: 1417567078000
   description: "<p>We're back at it again for our final meetup of the year! Bring\
     \ a project you're working on or lend a helping hand. All levels of experience\
@@ -426,7 +390,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1417465121000
   description: "<p>From December 8th to the 14th, tens of millions of students in\
     \ 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour\
@@ -472,7 +436,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 65
 - created: 1415149990000
   description: "<p>Hiring the right person can be hard. Come join us in December to\
     \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
@@ -537,7 +501,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1417467277000
   description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
     \ appropriately, let's gather for a range of solid presentations about how businesses,\
@@ -567,7 +531,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 102
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -617,7 +581,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -657,7 +621,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1416514594000
   description: "<p>For December's Data Science DC, we're very happy to partner with\
     \ our friends at the <a href=\"http://washstat.org/\">Washington Statistical Society</a>\
@@ -714,7 +678,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 307
+  yes_rsvp_count: 309
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -775,7 +739,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -830,7 +794,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -1125,7 +1089,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 76
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\

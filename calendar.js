@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415829929000, 
@@ -269,34 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1417446958000, 
-            "description": "<p><b>Girl Develop It DC</b> &amp; <b><a href=\"http://gemsclub.org/\">GEMS</a></b> (Girls Excelling in Math and Science) are teaming up for an <b>Hour of Code</b> event for middle and high school girls as part of <a href=\"http://csedweek.org/\">Computer Science Education Week</a>! \u00a0</p> <p>We'll have 12-15 girls, and we'd love to have as many mentors! \u00a0<b><i>Please only RSVP if you are committed to mentoring this event. \u00a0</i></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/f/b/9/600_432057273.jpeg\" /></p> <p><b>Curriculum</b></p> <p><br/>We'll be going through the Hour of Code exercises found on\u00a0<a href=\"http://code.org/\">code.org</a>. (Click <a href=\"http://studio.code.org/hoc/1\">The Hour of Code</a> under Explore Code Studio to start the tutorial and go through it yourself!) \u00a0Anyone can come mentor this event- you don't need to have years of coding experience yourself. \u00a0All experience levels are welcome to come give back and be a role model!\u00a0</p> <p><br/><b>Directions/Parking</b></p> <p>This event will be at the <a href=\"http://www.bgcgw.org/richard-england-clubhouse-14/\">Boys and Girls Club of Greater Washington</a>\u00a0Richard England Clubhouse 14. \u00a0The Benning Road Metro Station is about 2 blocks/8 \u00a0minute walk away, or you are welcome to drive and park at the Boys and Girls Club. \u00a0If you prefer to metro and would like to be picked up from the metro station, just let us know ahead of time!\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/218998039/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "218998039", 
-            "maybe_rsvp_count": 0, 
-            "name": "Hour of Code Mentoring Event", 
-            "rsvp_limit": 16, 
-            "status": "upcoming", 
-            "time": 1418077800000, 
-            "updated": 1417446958000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 16
-        }, 
-        {
             "created": 1415119879000, 
             "description": "<p><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/144007632/\">Rebecca</a> is going to through all of the design tools/tricks/tips she's learned. Also we're asking that people try to find a couple (1-3) really cool personal websites and bring them so that we can talk about nice things we have seen!</p> <p>---------------------------------------------------------</p> <p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
@@ -322,7 +294,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1411918757000, 
@@ -360,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1417567078000, 
@@ -399,7 +371,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1417465121000, 
@@ -427,7 +399,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1415149990000, 
@@ -467,7 +439,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1417467277000, 
@@ -505,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1415033293000, 
@@ -540,7 +512,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1415066979000, 
@@ -567,7 +539,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1416514594000, 
@@ -607,7 +579,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 307
+            "yes_rsvp_count": 309
         }, 
         {
             "created": 1414594350000, 
@@ -660,7 +632,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415119879000, 
@@ -688,7 +660,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1416927353000, 
@@ -914,7 +886,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1415119879000, 
