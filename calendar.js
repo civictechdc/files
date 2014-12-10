@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1415829952000, 
@@ -305,11 +305,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417465121000, 
-            "description": "<p>From December 8th to the 14th, tens of millions of students in 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour of Code</a>. We are going to as well!</p> <p>Twilio, a web API for sending and receiving text messages and voice calls, is graciously offering to host one of their famous trainings with us\u00a0on Tuesday from 6:30-8:30.\u00a0We will learn how to write Python code to call phones, text cat GIFs and even\u00a0<a href=\"https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\">mustache that perfect selfie</a>\u00a0you took over Thanksgiving break.</p> <p>This event is geared for people that have some python experience Let us know if you have questions, are interested in being a TA for the event, or if you know someone that would be able to host it next week!\u00a0</p> <p><br/>Fun fact - Twilio was one of the first hosts for WWC events in San Francisco!</p> <p>------------------------------------</p> <p>Matt Makai will be leading this workshop and he is\u00a0a Developer Evangelist for\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>\u00a0and a\u00a0<a href=\"http://radar.oreilly.com/2014/05/driving-demand-for-full-stack-developers.html\">full stack software developer</a>. His job is to inspire and equip software developers so they can build amazing new communications applications.\u00a0</p> <p>Every year Matt picks a major project to sink his teeth into. In 2014, that project is building\u00a0<a href=\"http://www.fullstackpython.com/\">Full Stack Python</a>into a great resource for anyone interested in learning about Python web application development.\u00a0Matt's previous project in 2013 was\u00a0<a href=\"http://www.codingacrossamerica.com/\">Coding Across America</a>. He road tripped for 5 months to 30 cities across the United States to talk with fellow software developers and tech startups.</p> <p>In addition to Matt, we are going to have help from the amazing\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53200542/\">Ria Galanos</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/1467430/\">Tegan Twedt</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53792062/\">Melanie Camhi</a>, and\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/171891622/\">Emma Grasmeder</a>!</p>", 
+            "description": "<p>Picture of the entrance if you are confused!\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/3/7/2/8/600_432314120.jpeg\" /></p> <p>From December 8th to the 14th, tens of millions of students in 180+ countries will partake in an <a href=\"http://hourofcode.com/us\">Hour of Code</a>. We are going to as well!</p> <p>Twilio, a web API for sending and receiving text messages and voice calls, is graciously offering to host one of their famous trainings with us\u00a0on Tuesday from 6:30-8:30.\u00a0We will learn how to write Python code to call phones, text cat GIFs and even\u00a0<a href=\"https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\">mustache that perfect selfie</a>\u00a0you took over Thanksgiving break.</p> <p>This event is geared for people that have some python experience Let us know if you have questions, are interested in being a TA for the event, or if you know someone that would be able to host it next week!\u00a0</p> <p><br/>Fun fact - Twilio was one of the first hosts for WWC events in San Francisco!</p> <p>------------------------------------</p> <p>Matt Makai will be leading this workshop and he is\u00a0a Developer Evangelist for\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>\u00a0and a\u00a0<a href=\"http://radar.oreilly.com/2014/05/driving-demand-for-full-stack-developers.html\">full stack software developer</a>. His job is to inspire and equip software developers so they can build amazing new communications applications.\u00a0</p> <p>Every year Matt picks a major project to sink his teeth into. In 2014, that project is building\u00a0<a href=\"http://www.fullstackpython.com/\">Full Stack Python</a>into a great resource for anyone interested in learning about Python web application development.\u00a0Matt's previous project in 2013 was\u00a0<a href=\"http://www.codingacrossamerica.com/\">Coding Across America</a>. He road tripped for 5 months to 30 cities across the United States to talk with fellow software developers and tech startups.</p> <p>In addition to Matt, we are going to have help from the amazing\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53200542/\">Ria Galanos</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/1467430/\">Tegan Twedt</a>,\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53792062/\">Melanie Camhi</a>, and\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/171891622/\">Emma Grasmeder</a>!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219004596/", 
             "group": {
@@ -329,11 +329,11 @@ calendar({
             "rsvp_limit": 70, 
             "status": "upcoming", 
             "time": 1418167800000, 
-            "updated": 1418007731000, 
+            "updated": 1418167510000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1415149990000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1417467277000, 
@@ -411,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1415033293000, 
@@ -513,7 +513,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 307
+            "yes_rsvp_count": 313
+        }, 
+        {
+            "created": 1418167340000, 
+            "description": "<p>Come hang out with us Thursday night! \u00a0Got a project you're working on? \u00a0Bring it and work on it while hanging out with fellow Girl Develop It community members! \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\" /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\u00a0will be providing food and drinks for classes! \u00a0Please give them a shout out on Twitter\u00a0<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\u00a0</p> <p>Parking:</p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free for events after 5pm. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/219160109/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "219160109", 
+            "maybe_rsvp_count": 0, 
+            "name": "Project Night", 
+            "status": "upcoming", 
+            "time": 1418340600000, 
+            "updated": 1418167340000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1414594350000, 
@@ -540,7 +567,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1418019938000, 
@@ -563,6 +590,33 @@ calendar({
             "status": "upcoming", 
             "time": 1418583600000, 
             "updated": 1418019938000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
+        }, 
+        {
+            "created": 1418167656000, 
+            "description": "<p>Come hang out with us Monday evening! \u00a0We'll have dinner provided by Tortoise &amp; Hare and phenomenal night views of the city across the river. \u00a0Think of this like a Code &amp; Coffee without the coffee (though we'll have that too if you want some!). \u00a0</p> <p>There's no agenda- just come hang out with some awesome ladies, work on a project if you'd like or bring your laptop and work through some Codecademy or Khan Academy exercises, maybe meet some awesome ladies you've never met before. \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\" /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\u00a0will be providing food and drinks for classes! \u00a0Please give them a shout out on Twitter\u00a0<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\u00a0</p> <p><b>Parking:</b></p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free for events after 5pm. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/219160187/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "219160187", 
+            "maybe_rsvp_count": 0, 
+            "name": "Dinner & Coding!", 
+            "status": "upcoming", 
+            "time": 1418686200000, 
+            "updated": 1418167656000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -590,11 +644,11 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1418686200000, 
-            "updated": 1417479871000, 
+            "updated": 1418163602000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1416927353000, 
@@ -621,7 +675,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1415033293000, 
@@ -680,7 +734,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1419291000000, 
-            "updated": 1415119879000, 
+            "updated": 1418163649000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -779,7 +833,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1413296467000, 
@@ -820,7 +874,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1415119879000, 
@@ -886,7 +940,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1379643162000, 
@@ -1007,7 +1061,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1417881835000, 
