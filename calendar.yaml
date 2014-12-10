@@ -26,7 +26,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 32
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -262,155 +262,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1417567078000
-  description: "<p>We're back at it again for our final meetup of the year! Bring\
-    \ a project you're working on or lend a helping hand. All levels of experience\
-    \ welcome. We'll also make time for short talks if anyone wants to share something\
-    \ they're doing or learning.</p> <p><b>Rails Girls DC Lending Library</b></p>\
-    \ <p>For those attending be sure to take a look at our new <a href=\"http://rgdclibrary.herokuapp.com\"\
-    >Rails Girls DC Lending Library</a>, we have nearly 20 different books ranging\
-    \ from the Learn to Program and the Rails Tutorial to\_Foundations of Software\
-    \ and System Performance Engineering. If you reserve a book prior to the meetup\
-    \ I'll be sure to have when you arrive. :)</p> <p>Big thanks to Abigail Seldin\
-    \ and Sam Zucker at ECMC for hosting us in their brand new space. Abigail was\
-    \ recently featured in an <a href=\"http://thenextweb.com/entrepreneur/2014/11/06/turned-silicon-valley-washington-dc/\"\
-    >article</a> on The Next Web, definitely recommended reading.<b>\_</b></p> <p><b>About\
-    \ ECMC</b></p> <p>At the new ECMC Innovation Lab. we build tech that changes how\
-    \ millions of people manage - and clear - their student debt. Our ambitions extend\
-    \ far beyond basic service delivery; we are looking for new ways to help borrowers\
-    \ resolve their loans and move on to bigger and better things.</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/railsgirlsdc/events/219030965/
-  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
-    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
-      (and Guys)}
-  headcount: 0
-  how_to_find_us: Across the street from the Convention Center
-  id: '219030965'
-  maybe_rsvp_count: 0
-  name: Hack session
-  status: upcoming
-  time: 1418166000000
-  updated: 1417567078000
-  utc_offset: -18000000
-  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
-    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 6
-- created: 1417465121000
-  description: "<p>Picture of the entrance if you are confused!\_</p> <p><img src=\"\
-    http://photos4.meetupstatic.com/photos/event/3/7/2/8/600_432314120.jpeg\" /></p>\
-    \ <p>From December 8th to the 14th, tens of millions of students in 180+ countries\
-    \ will partake in an <a href=\"http://hourofcode.com/us\">Hour of Code</a>. We\
-    \ are going to as well!</p> <p>Twilio, a web API for sending and receiving text\
-    \ messages and voice calls, is graciously offering to host one of their famous\
-    \ trainings with us\_on Tuesday from 6:30-8:30.\_We will learn how to write Python\
-    \ code to call phones, text cat GIFs and even\_<a href=\"https://www.twilio.com/blog/2014/09/how-to-build-a-mustached-message-service-with-twilio-mms-and-python.html\"\
-    >mustache that perfect selfie</a>\_you took over Thanksgiving break.</p> <p>This\
-    \ event is geared for people that have some python experience Let us know if you\
-    \ have questions, are interested in being a TA for the event, or if you know someone\
-    \ that would be able to host it next week!\_</p> <p><br/>Fun fact - Twilio was\
-    \ one of the first hosts for WWC events in San Francisco!</p> <p>------------------------------------</p>\
-    \ <p>Matt Makai will be leading this workshop and he is\_a Developer Evangelist\
-    \ for\_<a href=\"https://www.twilio.com/\">Twilio</a>\_and a\_<a href=\"http://radar.oreilly.com/2014/05/driving-demand-for-full-stack-developers.html\"\
-    >full stack software developer</a>. His job is to inspire and equip software developers\
-    \ so they can build amazing new communications applications.\_</p> <p>Every year\
-    \ Matt picks a major project to sink his teeth into. In 2014, that project is\
-    \ building\_<a href=\"http://www.fullstackpython.com/\">Full Stack Python</a>into\
-    \ a great resource for anyone interested in learning about Python web application\
-    \ development.\_Matt's previous project in 2013 was\_<a href=\"http://www.codingacrossamerica.com/\"\
-    >Coding Across America</a>. He road tripped for 5 months to 30 cities across the\
-    \ United States to talk with fellow software developers and tech startups.</p>\
-    \ <p>In addition to Matt, we are going to have help from the amazing\_<a href=\"\
-    http://www.meetup.com/Women-Who-Code-DC/members/53200542/\">Ria Galanos</a>,\_\
-    <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/1467430/\">Tegan Twedt</a>,\_\
-    <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/53792062/\">Melanie\
-    \ Camhi</a>, and\_<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/171891622/\"\
-    >Emma Grasmeder</a>!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219004596/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '219004596'
-  maybe_rsvp_count: 0
-  name: Learn the Twilio Web API in an Hour of Code
-  rsvp_limit: 70
-  status: upcoming
-  time: 1418167800000
-  updated: 1418167510000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 51
-- created: 1415149990000
-  description: "<p>Hiring the right person can be hard. Come join us in December to\
-    \ hear how data science can help staff your next dream team.</p> <p><b>Agenda</b></p>\
-    \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p>\
-    \ <p>7:00 PM -- <i>Transforming Labor Markets: Applying Data Science and Predictive\
-    \ Analytics to Hiring\_and Team Assembly\_</i><i>-</i> Myra Norton</p> <p>9:00\
-    \ PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Google\
-    \ maps does a good job of pinpointing the exact building location based on the\
-    \ address above.</p> <p>Parking is not an issue. You can park on the street nearby\
-    \ or you can take up any Visitor spot that you can find. Also, feel free to park\
-    \ in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour\
-    \ or Reserved.</p> <p><b>Talk</b></p> <p><b><i>Transforming Labor Markets: Applying\
-    \ Data Science and Predictive Analytics to Hiring\_and Team Assembly</i><br/></b></p>\
-    \ <p>This talk will provide an overview of the rapidly growing but still small\
-    \ industry of\_applying emerging data techniques to hiring and team assembly.\
-    \ It will cover the\_methods used and results achieved in several verticals\u2014\
-    healthcare and long term care,\_application development, and business process\
-    \ outsourcing.\_The session will cover the strengths and weaknesses of different\
-    \ techniques, and will\_outline specific outcomes and adoption challenges from\
-    \ several enterprise case studies.\_We will also discuss the opportunities uncovered\
-    \ by these techniques, where the industry\_is headed, and how rapidly evolving\
-    \ technology and regulatory developments are likely\_<br/>to affect those opportunities.</p>\
-    \ <p><b>Speakers</b></p> <p><b>Myra Norton<br/></b> President and COO<br/>Myra\
-    \ Norton joined Pegged Software in November of 2012 after a rich career in data\_\
-    and analytics. Norton accumulated extensive academic experience as an administrator\
-    \ in\_the College of Science and Technology at Temple University, teaching in\
-    \ the Business\_School and the College of Science and Technology at Temple University,\
-    \ and lecturing on\_mathematics and statistics at Towson University while providing\
-    \ academic support to\_midshipmen at the United States Naval Academy.\_</p> <p>A\
-    \ leading thinker on the application of analytics to Big Data, she has been speaking\
-    \ and\_writing on this subject in a variety of venues: as a speaker and facilitator\
-    \ for the Network\_Roundtable at the University of Virginia, the Chief Marketing\
-    \ Officer (CMO) Council, the\_Council for the Advancement and Support of Education\
-    \ (CASE), the Business Marketing\_Association (BMA). She has worked with researchers\
-    \ from Harvard University, Babson\_College, University of Virginia, NIH, University\
-    \ of Maryland, and the University of\_Chicago. She leads the National Girls Collaborative\
-    \ Project as part of her work with the\_Center for Women in Technology, is currently\
-    \ serving as a member and immediate past\_chair of the Industrial Advisory Board\
-    \ for the College of Engineering and Information\_Technology at UMBC, serves as\
-    \ a mentor for college students and young professionals in\_the Baltimore area,\
-    \ and works with high school students through the National\_Foundation for Teaching\
-    \ Entrepreneurship (NFTE).\_Norton graduated from the University of Alabama with\
-    \ a BS in Math Education and\_received an MA in Mathematics and an MS in Statistics\
-    \ at Temple University.</p> <p><b>Post-event Drinks</b></p> <p>Green Turtle\_\
-    </p> <p>1606 Whetstone Way</p> <p>Baltimore, MD 21230</p> <p>[masked]</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Science-MD/events/217689842/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '217689842'
-  maybe_rsvp_count: 0
-  name: Transforming Labor Markets through Data Science
-  rsvp_limit: 200
-  status: upcoming
-  time: 1418167800000
-  updated: 1416686494000
-  utc_offset: -18000000
-  venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
-    lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com
-      - Ivory Building, repinned: false, state: MD, zip: '21230'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 81
 - created: 1417467277000
   description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
     \ appropriately, let's gather for a range of solid presentations about how businesses,\
@@ -440,7 +291,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 117
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -587,7 +438,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 313
+  yes_rsvp_count: 314
 - created: 1418167340000
   description: "<p>Come hang out with us Thursday night! \_Got a project you're working\
     \ on? \_Bring it and work on it while hanging out with fellow Girl Develop It\
@@ -646,7 +497,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1418019938000
   description: "<p><b>Please RSVP here also:\_<a href=\"https://nvite.com/DCFemTech/e61\"\
     \ class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp;\
@@ -682,7 +533,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1418167656000
   description: "<p>Come hang out with us Monday evening! \_We'll have dinner provided\
     \ by Tortoise &amp; Hare and phenomenal night views of the city across the river.\
@@ -720,7 +571,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 14
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -775,7 +626,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
