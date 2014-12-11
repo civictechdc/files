@@ -1,6 +1,6 @@
-- activity: [0, 0, 20, 3, 9, 2, 3, 4, 2, 0, 0, 11, 0, 0, 2, 8, 0, 1, 4, 2, 31, 1,
-    16, 4, 18, 30, 89, 59, 30, 3, 17, 4, 1, 0, 1, 9, 5, 4, 3, 0, 6, 3, 0, 8, 0, 7,
-    12, 27, 37, 13, 31, 38]
+- activity: [0, 0, 20, 3, 9, 2, 3, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7,
+    10, 9, 13, 40, 112, 35, 21, 3, 17, 5, 0, 0, 1, 9, 9, 3, 0, 0, 9, 0, 0, 8, 2, 12,
+    6, 26, 37, 19, 30, 33]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -76,16 +76,16 @@
   - [JavaScript, 663]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 10
+  open_issues: 27
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-12-09T20:26:00Z'
   size: 20677
   updated_at: '2014-12-09T20:26:01Z'
   watchers: 14
-- activity: [9, 0, 0, 0, 13, 2, 7, 20, 5, 2, 13, 1, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0,
-    8, 2, 2, 5, 0, 0, 4, 2, 6, 3, 3, 4, 4, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6, 0, 2, 2,
-    5, 0, 1, 0]
+- activity: [9, 0, 0, 9, 4, 2, 15, 15, 2, 2, 13, 2, 11, 1, 1, 14, 0, 2, 13, 8, 1,
+    7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 0,
+    2, 5, 1, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -105,7 +105,7 @@
     thumbnailUrl: http://ancfinder.org/static/img/favicon.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 228,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 230,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 107,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -138,35 +138,23 @@
   default_branch: master
   description: A website about DC's Advisory Neighborhood Commission system.
   forks: 24
-  help_wanted:
-  - assignee: null
-    body: We have a big pdf of official SMD boundaries. We should split it up and
-      make it linked from our site.
-    comments: 3
-    created_at: '2014-09-24T00:31:18Z'
-    issue: Add SMD boundary pdf links to ANC pages
-    issue_url: https://github.com/codefordc/ancfinder/issues/111
-    labels:
-    - {color: eb6420, name: help wanted, url: 'https://api.github.com/repos/codefordc/ancfinder/labels/help+wanted'}
-    project: ANC Finder
-    project_url: https://github.com/codefordc/ancfinder
-    updated_at: '2014-11-13T02:31:19Z'
+  help_wanted: []
   homepage: http://ancfinder.org/
   html_url: https://github.com/codefordc/ancfinder
   id: 8715969
   languages:
-  - [Python, 84900]
-  - [CSS, 9547]
+  - [Python, 84143]
+  - [CSS, 9442]
   - [Shell, 4622]
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 38
+  open_issues: 34
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-26T01:41:36Z'
+  pushed_at: '2014-12-11T01:05:35Z'
   size: 73754
-  updated_at: '2014-11-26T01:41:36Z'
+  updated_at: '2014-12-11T01:05:36Z'
   watchers: 27
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0,
     2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -241,8 +229,8 @@
   size: 40024
   updated_at: '2014-12-10T16:45:08Z'
   watchers: 19
-- activity: [4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 4, 2, 0, 0, 4, 0, 0, 0, 3, 8, 5, 0, 2,
-    3, 6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 3, 6, 5, 2, 2, 10, 12, 4, 2, 7, 4, 2, 1, 5, 7,
+- activity: [4, 1, 0, 1, 0, 0, 1, 0, 0, 0, 5, 1, 0, 4, 0, 0, 0, 0, 8, 8, 0, 2, 0,
+    9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 4, 5, 7, 0, 2, 15, 10, 3, 0, 7, 6, 0, 6, 0, 7,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -462,8 +450,8 @@
   size: 2932
   updated_at: '2014-11-18T00:08:30Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 8, 9, 5, 12, 0, 10, 4, 1, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 10, 7, 8, 9, 0, 10, 4, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -489,8 +477,8 @@
   open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2014-10-13T17:48:52Z'
-  size: 10140
+  pushed_at: '2014-12-10T20:46:06Z'
+  size: 10090
   updated_at: '2014-10-07T15:53:10Z'
   watchers: 12
 - activity: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
@@ -585,8 +573,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 1, 2, 16, 2, 1, 2, 0, 0, 41, 2, 7, 0, 18, 16, 12, 10, 4, 14, 6, 7,
-    0, 2, 0, 0, 0]
+    0, 0, 0, 0, 2, 1, 16, 2, 1, 2, 0, 3, 38, 8, 1, 0, 19, 21, 8, 9, 13, 4, 11, 2,
+    1, 1, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
