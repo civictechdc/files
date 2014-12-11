@@ -357,10 +357,10 @@ other:
   headcount: 0
   id: '219160109'
   maybe_rsvp_count: 0
-  name: Project Night
+  name: Dinner & Project Night
   status: upcoming
   time: 1418340600000
-  updated: 1418167340000
+  updated: 1418314241000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -389,7 +389,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1418019938000
   description: "<p><b>Please RSVP here also:\_<a href=\"https://nvite.com/DCFemTech/e61\"\
     \ class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp;\
@@ -463,7 +463,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -607,7 +607,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 80
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -780,7 +780,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -982,7 +982,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1134,7 +1134,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1187,12 +1187,13 @@ other:
     >Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
     >interactive Metro map</a> of station\_architectures.</p> <p><br/>\u2022\_<a href=\"\
     https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that\
-    \ tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>To\
-    \ build your own Metro visualizations, find WMATA's open data via PlanItMetro's\_\
-    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or\
-    \ use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\_Send\_\
-    <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael\
-    \ Schade</a>\_an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
+    \ tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022\
+    \ <a href=\"http://www.stee.vn/\">Steven Fleming</a> will show how he created\
+    \ his own version of the Metro\_web/mobile app.</p> <p><br/>To build your own\
+    \ Metro visualizations, find WMATA's open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
+    >data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer\
+    \ tools</a>.\_Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael Schade</a>\_an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
     >Metro Hack Night I</a> was held on January 2, 2014. You can read about it on\
     \ the Mobility Lab blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
     >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\_<a href=\"\
@@ -1211,14 +1212,14 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1423782000000
-  updated: 1417843260000
+  updated: 1418317207000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

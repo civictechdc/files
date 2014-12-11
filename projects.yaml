@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 527,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 528,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -29,7 +29,7 @@
     link: 'https://github.com/ouzy', name: ouzy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 15,
     link: 'https://github.com/shiftyp', name: shiftyp}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1711330?v=3', contributions: 7,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1711330?v=3', contributions: 8,
     link: 'https://github.com/MikeyBurkman', name: MikeyBurkman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4406809?v=3', contributions: 6,
     link: 'https://github.com/mepps', name: mepps}
@@ -60,28 +60,29 @@
   contributors_count: 19
   created_at: '2013-06-24T02:05:03Z'
   default_branch: master
-  description: 'The DC Housing Application Assistant aids DC residents and case workers
-    apply for Section 8 housing by empowering them to automatically fill out multiple
-    Section 8 housing applications using information collected via an online form. '
+  description: 'District Housing lets caseworkers help clients apply for Section 8
+    housing by automatically filling out multiple PDF applications using one online
+    form. '
   forks: 32
   help_wanted: []
   homepage: http://districthousing.org/
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 119954]
+  - [Ruby, 119986]
   - [CSS, 11875]
-  - [Puppet, 5220]
+  - [Puppet, 5387]
   - [CoffeeScript, 942]
   - [JavaScript, 663]
+  - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 27
+  open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-09T20:26:00Z'
+  pushed_at: '2014-12-11T18:04:33Z'
   size: 20677
-  updated_at: '2014-12-09T20:26:01Z'
+  updated_at: '2014-12-11T18:04:33Z'
   watchers: 14
 - activity: [9, 0, 0, 9, 4, 2, 15, 15, 2, 2, 13, 2, 11, 1, 1, 14, 0, 2, 13, 8, 1,
     7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 0,
