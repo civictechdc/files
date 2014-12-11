@@ -1,44 +1,6 @@
 {
     "codefordc": [
         {
-            "created": 1415829900000, 
-            "description": "<p>This event is for project teams to hack or meet, but will be very informal. \u00a0If you're new, please consider attending our next Civic Hacknight in January and <a href=\"https://groups.google.com/forum/?hl=en#!forum/dc-cfa-brigade\">connect with us via our listerv!</a></p> <p>AGENDA</p> <p>6:30 - 9:00: Existing teams hack on projects. \u00a0Captain/s available.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 for entry if no one is at the door.</p> <p>\u2022\u00a0BYO-Everything! \u00a0There will be no food or beverage provided.</p> <p>\u2022 As always, the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a>\u00a0is in effect.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/218646929/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "218646929", 
-            "maybe_rsvp_count": 0, 
-            "name": "Office Hours", 
-            "status": "upcoming", 
-            "time": 1418254200000, 
-            "updated": 1417434844000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th St NW, Second Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20407722, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
             "created": 1415829929000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -269,79 +231,6 @@
     ], 
     "other": [
         {
-            "created": 1417467277000, 
-            "description": "<p>Get this - the DC API meetup turns 2 this month. \u00a0To celebrate appropriately, let's gather for a range of solid presentations about how businesses, government, and individuals. \u00a0</p> <p>There will be plenty of good pizza, beer, and wine, but more importantly - the people doing great work throughout DC in this sector. \u00a0Go ahead and mark your calendars. \u00a0This will be a good one. \u00a0</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Saad Shami, Sheila Campbell - Peace Corps\u00a0<br/>* Ann Millspaugh, Emily Williamson - Motley Fool<br/>* Stuart Ridgway, Kim Becht - International Trade Administration\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219005497/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "219005497", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - December Edition", 
-            "status": "upcoming", 
-            "time": 1418252400000, 
-            "updated": 1417721792000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1900 M Street, NW - 3rd floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 12283102, 
-                "lat": 38.905430000000003, 
-                "lon": -77.043746999999996, 
-                "name": "Chief", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 124
-        }, 
-        {
-            "created": 1415033293000, 
-            "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. It's perfect for complete beginners to coding or people who are interested in learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\" style - attendees will watch the video tutorials and complete exercises during the week, and at the meetup we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will show the applications we have built!</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.) We will give out the promo code during the first meetup and set up our environments so that everyone is ready to go when they leave the event.</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have.\u00a0</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-) Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p> <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p> <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday event for the tech community \"Tech the Halls\". \u00a0During this session it will be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)- Review of Week 3 and the challenges of week 3 videos\u00a0</p> <p>Week 5 (12/17)- Last meeting before the holiday during this session we will do a review on Week 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup in January of 2015</p> <p><i>*Everything is subject to change base on the needs of everyone within the group.</i></p> <p>Please, please modify your RSVPs if you cannot make it for all 5 meet ups to allow those on the wait list to RSVP. We look forward to seeing you! Thanks!!</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465752/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 70, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "0"
-            }, 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "drmkblysqbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "One Month Rails: Learn Ruby on Rails", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1418252400000, 
-            "updated": 1418062942000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
-        }, 
-        {
             "created": 1415066979000, 
             "description": "<p>Please note you are\u00a0<b>NOT</b>\u00a0registered for this event by RSVPing on this meetup. \u00a0<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\">event registration page</a>.</b>\u00a0\u00a0You'll note\u00a0<b>discount codes</b>\u00a0along the right side of the page as you scroll down. \u00a0Be sure to look those over and take advantage of a discount code if you're eligible!\u00a0</p> <p>Join\u00a0<a href=\"http://gomodev.us7.list-manage.com/track/click?u=99b90f58e23183ba913447d43&amp;id=41e0edb5c3&amp;e=059db689d3\">50+ industry experts</a>\u00a0for two days of deep dive workshops, talks and keynotes and a 24-hour Hackathon\u2014for the East Coast's only mobile-first event of its kind. \u00a0Swift / iOS, Android, the MEAN stack, Metal, Bluetooth, Beacons, API / SDK strategies, UX + Design, security and testing, monetization strategies, and much more. Everything you need to set up a productive 2015.\u00a0</p> <p>With the ever-quickening pace of mobile, staying up-to-date on the latest APIs and SDKs is essential for any developer or business. Now in its fourth year, ModevCon (formerly ModevEast)\u2014happening December 11-12, 2014 in Washington, D.C.\u2014is must-attend for anyone developing, designing, and marketing mobile apps, websites and related products. For two intensive days, we\u2019ll put you face to face with the world\u2019s foremost industry experts to teach you the the latest methods, tools, and best practices for the industry's most important development platforms.</p> <p><b>December 11</b>:\u00a0Premium Workshops and Breakouts, Opening Reception, Sponsor Gallery<br/><b>December 12</b>:\u00a0Morning Breakout Sessions, Afternoon Keynotes, Closing Reception, Sponsor Gallery</p> <p>For details on speakers, schedule, and more please visit the <b><a href=\"http://mdc.gomodev.com/\">ModevCon website!</a>\u00a0\u00a0</b></p>", 
             "duration": 118800000, 
@@ -366,7 +255,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1416514594000, 
@@ -486,7 +375,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1418167656000, 
@@ -513,7 +402,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1415119879000, 
@@ -541,7 +430,35 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
+        }, 
+        {
+            "created": 1418261882000, 
+            "description": "<p>Have lots of code that you want to share? Need a place to host your website? Looking to work collaboratively on a coding project? If so, GitHub is the place for you! Come join us on\u00a0Tuesday, December 16th\u00a0at the DC Public Library for an introduction to GitHub. We'll talk about GitHub and all the lingo as well as the language \"git\", how to use the desktop interface, and what you can do to get started.</p> <p>If you don't already have a GitHub account, please create one prior to Maptime at\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.\u00a0You can also download the desktop interface at the bottom of\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.</p> <p>The instructor: Brian Davidson is a UI/UX Developer for DigitalGlobe in Herndon, VA. He is a recent graduate of the University of Wisconsin\u2013Madison where is research focused on default zoom level and level of detail on mobile maps. \u00a0Follow him <a href=\"http://twitter.com/brianddavidson\">@brianddavidson</a>!</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/219183115/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "TBA", 
+            "id": "219183115", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to GitHub 101", 
+            "status": "upcoming", 
+            "time": 1418772600000, 
+            "updated": 1418263357000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1416927353000, 
@@ -580,7 +497,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1415033293000, 
@@ -845,7 +762,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1379643162000, 
@@ -966,7 +883,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417881835000, 

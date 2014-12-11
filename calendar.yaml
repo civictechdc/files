@@ -1,32 +1,4 @@
 codefordc:
-- created: 1415829900000
-  description: "<p>This event is for project teams to hack or meet, but will be very\
-    \ informal. \_If you're new, please consider attending our next Civic Hacknight\
-    \ in January and <a href=\"https://groups.google.com/forum/?hl=en#!forum/dc-cfa-brigade\"\
-    >connect with us via our listerv!</a></p> <p>AGENDA</p> <p>6:30 - 9:00: Existing\
-    \ teams hack on projects. \_Captain/s available.</p> <p>Notes:\_</p> <p>\u2022\
-    \_Text Matt 202-330-1154 for entry if no one is at the door.</p> <p>\u2022\_BYO-Everything!\
-    \ \_There will be no food or beverage provided.</p> <p>\u2022 As always, the <a\
-    \ href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a>\_\
-    is in effect.</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/218646929/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '218646929'
-  maybe_rsvp_count: 0
-  name: Office Hours
-  status: upcoming
-  time: 1418254200000
-  updated: 1417434844000
-  utc_offset: -18000000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 30
 - created: 1415829929000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -262,86 +234,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 3
 other:
-- created: 1417467277000
-  description: "<p>Get this - the DC API meetup turns 2 this month. \_To celebrate\
-    \ appropriately, let's gather for a range of solid presentations about how businesses,\
-    \ government, and individuals. \_</p> <p>There will be plenty of good pizza, beer,\
-    \ and wine, but more importantly - the people doing great work throughout DC in\
-    \ this sector. \_Go ahead and mark your calendars. \_This will be a good one.\
-    \ \_</p> <p>6:00pm - 6:30pm Food, drinks and networking\_<br/>6:40pm - 6:50pm\
-    \ Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p> <p>*\
-    \ Saad Shami, Sheila Campbell - Peace Corps\_<br/>* Ann Millspaugh, Emily Williamson\
-    \ - Motley Fool<br/>* Stuart Ridgway, Kim Becht - International Trade Administration\_\
-    </p> <p><br/>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
-    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/219005497/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '219005497'
-  maybe_rsvp_count: 0
-  name: DC API User Group - December Edition
-  status: upcoming
-  time: 1418252400000
-  updated: 1417721792000
-  utc_offset: -18000000
-  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
-    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
-    repinned: false, state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 124
-- created: 1415033293000
-  description: "<p>Learn to create a Ruby on Rails application in one month! This\
-    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
-    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
-    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
-    \ beginners) how to create a simple application using Ruby on Rails. In addition\
-    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
-    \ It's perfect for complete beginners to coding or people who are interested in\
-    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
-    \ style - attendees will watch the video tutorials and complete exercises during\
-    \ the week, and at the meetup we will review the week's lessons, answer any questions\
-    \ and do additional exercises to deepen our knowledge of web technologies. At\
-    \ the end of the 5 week meetup, we will show the applications we have built!</p>\
-    \ <p>Because we are using the \"One Month Rails\" coursework this meetup will\
-    \ require attendees to pay for online access to the video tutorials. This comes\
-    \ to $70 a person (30% discount for Women Who Code members included.) We will\
-    \ give out the promo code during the first meetup and set up our environments\
-    \ so that everyone is ready to go when they leave the event.</p> <p>Attendees\
-    \ are encouraged to bring their laptops to meetups so we can go over any code\
-    \ questions you may have.\_</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-)\
-    \ Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p>\
-    \ <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p>\
-    \ <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday\
-    \ event for the tech community \"Tech the Halls\". \_During this session it will\
-    \ be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)-\
-    \ Review of Week 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)-\
-    \ Last meeting before the holiday during this session we will do a review on Week\
-    \ 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup\
-    \ in January of 2015</p> <p><i>*Everything is subject to change base on the needs\
-    \ of everyone within the group.</i></p> <p>Please, please modify your RSVPs if\
-    \ you cannot make it for all 5 meet ups to allow those on the wait list to RSVP.\
-    \ We look forward to seeing you! Thanks!!</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465752/
-  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
-    required: '0'}
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: drmkblysqbnb
-  maybe_rsvp_count: 0
-  name: 'One Month Rails: Learn Ruby on Rails'
-  rsvp_limit: 25
-  status: upcoming
-  time: 1418252400000
-  updated: 1418062942000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 16
 - created: 1415066979000
   description: "<p>Please note you are\_<b>NOT</b>\_registered for this event by RSVPing\
     \ on this meetup. \_<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\"\
@@ -381,7 +273,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1416514594000
   description: "<p>For December's Data Science DC, we're very happy to partner with\
     \ our friends at the <a href=\"http://washstat.org/\">Washington Statistical Society</a>\
@@ -533,7 +425,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1418167656000
   description: "<p>Come hang out with us Monday evening! \_We'll have dinner provided\
     \ by Tortoise &amp; Hare and phenomenal night views of the city across the river.\
@@ -571,7 +463,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -626,7 +518,39 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
+- created: 1418261882000
+  description: "<p>Have lots of code that you want to share? Need a place to host\
+    \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
+    \ is the place for you! Come join us on\_Tuesday, December 16th\_at the DC Public\
+    \ Library for an introduction to GitHub. We'll talk about GitHub and all the lingo\
+    \ as well as the language \"git\", how to use the desktop interface, and what\
+    \ you can do to get started.</p> <p>If you don't already have a GitHub account,\
+    \ please create one prior to Maptime at\_<a href=\"https://github.com/\"><a href=\"\
+    https://github.com\" class=\"linkified\">https://github.com</a></a>.\_You can\
+    \ also download the desktop interface at the bottom of\_<a href=\"https://github.com/\"\
+    ><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.</p>\
+    \ <p>The instructor: Brian Davidson is a UI/UX Developer for DigitalGlobe in Herndon,\
+    \ VA. He is a recent graduate of the University of Wisconsin\u2013Madison where\
+    \ is research focused on default zoom level and level of detail on mobile maps.\
+    \ \_Follow him <a href=\"http://twitter.com/brianddavidson\">@brianddavidson</a>!</p>"
+  duration: 5400000
+  event_url: http://www.meetup.com/Maptime-DC/events/219183115/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  how_to_find_us: TBA
+  id: '219183115'
+  maybe_rsvp_count: 0
+  name: Intro to GitHub 101
+  status: upcoming
+  time: 1418772600000
+  updated: 1418263357000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -683,7 +607,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 75
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -1011,7 +935,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -1210,7 +1134,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
