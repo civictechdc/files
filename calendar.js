@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1415829952000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1415829988000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415830056000, 
@@ -150,7 +150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415830083000, 
@@ -282,7 +282,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1418019938000, 
@@ -331,11 +331,11 @@ calendar({
             "name": "Dinner & Coding!", 
             "status": "upcoming", 
             "time": 1418686200000, 
-            "updated": 1418167656000, 
+            "updated": 1418400603000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1415119879000, 
@@ -387,11 +387,22 @@ calendar({
             "name": "Intro to GitHub 101", 
             "status": "upcoming", 
             "time": 1418772600000, 
-            "updated": 1418263357000, 
+            "updated": 1418395480000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "900 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21261802, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "MLK Library Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1416927353000, 
@@ -629,7 +640,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1415119879000, 
@@ -695,7 +706,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1379643162000, 
@@ -816,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
