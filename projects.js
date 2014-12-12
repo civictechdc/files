@@ -5,9 +5,9 @@ projects([
             0, 
             20, 
             3, 
-            9, 
+            11, 
             2, 
-            3, 
+            1, 
             5, 
             1, 
             0, 
@@ -23,36 +23,36 @@ projects([
             15, 
             18, 
             7, 
-            10, 
-            9, 
+            12, 
             13, 
-            40, 
-            112, 
-            35, 
-            21, 
-            3, 
-            17, 
+            7, 
+            48, 
+            104, 
+            47, 
+            11, 
+            6, 
+            12, 
             5, 
             0, 
             0, 
-            1, 
-            9, 
+            2, 
+            8, 
             9, 
             3, 
             0, 
             0, 
             9, 
             0, 
-            0, 
-            8, 
+            7, 
+            1, 
             2, 
-            12, 
-            6, 
-            26, 
-            37, 
-            19, 
+            14, 
+            7, 
+            29, 
+            33, 
+            18, 
             30, 
-            33
+            39
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -460,7 +460,7 @@ projects([
         ], 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 34, 
+        "open_issues": 35, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -803,16 +803,16 @@ projects([
         }, 
         "contributors": [
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 85, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
                 "contributions": 49, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 40, 
-                "link": "https://github.com/stvnrlly", 
-                "name": "stvnrlly"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3", 
@@ -915,21 +915,21 @@ projects([
             ], 
             [
                 "CSS", 
-                14125
+                15184
             ]
         ], 
         "main_language": "JavaScript", 
         "name": "Code for DC Website", 
-        "open_issues": 13, 
+        "open_issues": 6, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-11-23T23:40:26Z", 
+        "pushed_at": "2014-12-12T05:27:22Z", 
         "size": 17583, 
-        "updated_at": "2014-11-18T18:21:14Z", 
+        "updated_at": "2014-12-12T05:26:43Z", 
         "watchers": 13
     }, 
     {
@@ -1240,7 +1240,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 412, 
+                "contributions": 413, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1279,9 +1279,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-12-11T05:06:09Z", 
+        "pushed_at": "2014-12-12T06:06:06Z", 
         "size": 2286, 
-        "updated_at": "2014-12-11T05:06:09Z", 
+        "updated_at": "2014-12-12T06:06:06Z", 
         "watchers": 4
     }, 
     {
@@ -2421,8 +2421,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0

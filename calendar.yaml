@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 24
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -274,97 +274,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 15
-- created: 1416514594000
-  description: "<p>For December's Data Science DC, we're very happy to partner with\
-    \ our friends at the <a href=\"http://washstat.org/\">Washington Statistical Society</a>\
-    \ to present Dr. Regina Nuzzo from Gallaudet University. She will discuss a fundamental,\
-    \ but flawed, tool of statistical inference and statistical communication, the\
-    \ <i>p</i>-value. Expect a very... significant... presentation.</p> <p>You can\
-    \ sign up for this event either here or at <a href=\"http://www.meetup.com/WashStat/events/218881685/\"\
-    >WSS' Meetup page</a>, but please don't register in both places.</p> <p><b>Agenda:</b></p>\
-    \ <p>\u2022\_6:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\_\
-    7:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\_7:15pm -- Presentation\
-    \ and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_2036 G St NW</i>)</p>\
-    \ <p><b>Abstract:</b></p> <p>What's the fuss around the <i>p</i>-value? This standard\
-    \ measure been widely canonized -- from entry-level statistics texts all the way\
-    \ to regulatory agencies and the scientific publication system -- yet also often\
-    \ misunderstood, misapplied, and obsessively stalked. In this talk, Dr. Nuzzo\
-    \ will discuss misleading interpretations and puzzling paradoxes that can result\
-    \ from statements of statistical significance, present some of the latest thinking\
-    \ about teasing out certainty and evidence in data, and discuss the most interesting\
-    \ philosophical and practical trends to look for on the horizon.</p> <p><b>Bio:</b></p>\
-    \ <p><a href=\"http://www.gallaudet.edu/faculty-staff/psychology/nuzzo_regina.html\"\
-    >Dr. Regina Nuzzo</a> is a freelance science journalist and professor at Gallaudet\
-    \ University. She received her Ph.D. in statistics from Stanford University, post-doctoral\
-    \ training in the Music Cognition Lab at McGill University, and graduate science\
-    \ journalism training at University of California, Santa Cruz. Her writings about\
-    \ data, probability, and statistics have been published in\_<i>Nature</i>,\_<i>Science\
-    \ News</i>,\_<i>Biomedical Computation Review</i>, and\_<i>Scientific American</i>.\
-    \ Her\_<a href=\"http://www.nature.com/news/scientific-method-statistical-errors-1.14700\"\
-    >Nature\_feature article about the p-value</a> recently won the American Statistical\
-    \ Association\u2019s 2014 Excellence in Statistical Reporting Award. Follow her\
-    \ on Twitter <a href=\"https://twitter.com/ReginaNuzzo\">@ReginaNuzzo</a>.</p>\
-    \ <p><b>Sponsors:</b></p> <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/decisionsciences/\"\
-    >GWU Department of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\"\
-    >Pearson/InformIT</a>,\_<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_\
-    <a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\"\
-    >LivingSocial</a>,\_<a href=\"http://novetta.com/\">Novetta Solutions</a>,\_<a\
-    \ href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://www.five9group.com/\"\
-    >Five 9 Group</a>.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-DC/events/218805060/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
-    who: Data Scientists}
-  headcount: 0
-  id: '218805060'
-  maybe_rsvp_count: 0
-  name: Problems with the p-value
-  rsvp_limit: 500
-  status: upcoming
-  time: 1418340600000
-  updated: 1416928178000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 331
-- created: 1418167340000
-  description: "<p>Come hang out with us Thursday night! \_Got a project you're working\
-    \ on? \_Bring it and work on it while hanging out with fellow Girl Develop It\
-    \ community members! \_</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\"\
-    \ /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"\
-    http://disruption.vc/\"&gt;Disruption Corporation</a>\_is generously providing\
-    \ space at their Crystal Tech Fund offices in Crystal City for our classes! \_\
-    They are an amazing partner, and we encourage you to Tweet your thanks\_<a href=\"\
-    https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\"\
-    \ /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\_\
-    will be providing food and drinks for classes! \_Please give them a shout out\
-    \ on Twitter\_<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\_\
-    </p> <p>Parking:</p> <p>There's an underground parking garage at the intersection\
-    \ of Crystal Dr. and 23rd St. - you can park there as it's directly under the\
-    \ building (follow signs to bldg 2231). \_Parking is free for events after 5pm.\
-    \ \_There is also a free garage across the street. \_</p> <p>Alternately, you\
-    \ can take the metro to the Crystal City metro station on yellow/blue lines. \_\
-    The office is only a couple short blocks away. \_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/219160109/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '219160109'
-  maybe_rsvp_count: 0
-  name: Dinner & Project Night
-  status: upcoming
-  time: 1418340600000
-  updated: 1418314241000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1414594350000
   description: "<p>Learn about Flask without leaving your house! Flask is a micro-framework\
     \ that you can use to create dynamic websites with only a bit of HTML and Python.</p>\
@@ -389,7 +298,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1418019938000
   description: "<p><b>Please RSVP here also:\_<a href=\"https://nvite.com/DCFemTech/e61\"\
     \ class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp;\
@@ -425,7 +334,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1418167656000
   description: "<p>Come hang out with us Monday evening! \_We'll have dinner provided\
     \ by Tortoise &amp; Hare and phenomenal night views of the city across the river.\
@@ -463,7 +372,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1415119879000
   description: "<p><b><a href=\"http://www.meetup.com/Women-Who-Code-DC/members/128348602/\"\
     >Malynda</a> &amp; <a href=\"http://www.meetup.com/Women-Who-Code-DC/members/160209882/\"\
@@ -550,7 +459,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 10
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -780,7 +689,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -802,7 +711,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
@@ -935,7 +844,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -1134,7 +1043,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1153,7 +1062,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

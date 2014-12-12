@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1415829952000, 
@@ -258,73 +258,6 @@
             "yes_rsvp_count": 15
         }, 
         {
-            "created": 1416514594000, 
-            "description": "<p>For December's Data Science DC, we're very happy to partner with our friends at the <a href=\"http://washstat.org/\">Washington Statistical Society</a> to present Dr. Regina Nuzzo from Gallaudet University. She will discuss a fundamental, but flawed, tool of statistical inference and statistical communication, the <i>p</i>-value. Expect a very... significant... presentation.</p> <p>You can sign up for this event either here or at <a href=\"http://www.meetup.com/WashStat/events/218881685/\">WSS' Meetup page</a>, but please don't register in both places.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>What's the fuss around the <i>p</i>-value? This standard measure been widely canonized -- from entry-level statistics texts all the way to regulatory agencies and the scientific publication system -- yet also often misunderstood, misapplied, and obsessively stalked. In this talk, Dr. Nuzzo will discuss misleading interpretations and puzzling paradoxes that can result from statements of statistical significance, present some of the latest thinking about teasing out certainty and evidence in data, and discuss the most interesting philosophical and practical trends to look for on the horizon.</p> <p><b>Bio:</b></p> <p><a href=\"http://www.gallaudet.edu/faculty-staff/psychology/nuzzo_regina.html\">Dr. Regina Nuzzo</a> is a freelance science journalist and professor at Gallaudet University. She received her Ph.D. in statistics from Stanford University, post-doctoral training in the Music Cognition Lab at McGill University, and graduate science journalism training at University of California, Santa Cruz. Her writings about data, probability, and statistics have been published in\u00a0<i>Nature</i>,\u00a0<i>Science News</i>,\u00a0<i>Biomedical Computation Review</i>, and\u00a0<i>Scientific American</i>. Her\u00a0<a href=\"http://www.nature.com/news/scientific-method-statistical-errors-1.14700\">Nature\u00a0feature article about the p-value</a> recently won the American Statistical Association\u2019s 2014 Excellence in Statistical Reporting Award. Follow her on Twitter <a href=\"https://twitter.com/ReginaNuzzo\">@ReginaNuzzo</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://corporate.livingsocial.com/browsealljobs/?deep_link=/jobs/olpfYfwH\">LivingSocial</a>,\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://www.five9group.com/\">Five 9 Group</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/218805060/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "218805060", 
-            "maybe_rsvp_count": 0, 
-            "name": "Problems with the p-value", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1418340600000, 
-            "updated": 1416928178000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 331
-        }, 
-        {
-            "created": 1418167340000, 
-            "description": "<p>Come hang out with us Thursday night! \u00a0Got a project you're working on? \u00a0Bring it and work on it while hanging out with fellow Girl Develop It community members! \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\" /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\u00a0will be providing food and drinks for classes! \u00a0Please give them a shout out on Twitter\u00a0<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\u00a0</p> <p>Parking:</p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free for events after 5pm. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/219160109/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "219160109", 
-            "maybe_rsvp_count": 0, 
-            "name": "Dinner & Project Night", 
-            "status": "upcoming", 
-            "time": 1418340600000, 
-            "updated": 1418314241000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1414594350000, 
             "description": "<p>Learn about Flask without leaving your house! Flask is a micro-framework that you can use to create dynamic websites with only a bit of HTML and Python.</p> <p><br/>Because this will be held via Hangouts On Air, it is vital that you have everything installed before the class starts. Installation instructions will be made available before the class. If you have any problems, ping us!</p> <p>Things you need to have installed:</p> <p>\u2022 Python (2.7+)</p> <p><br/>\u2022\u00a0pip (we use it to install Flask)</p> <p><br/>\u2022 Flask</p> <p>\u2022 Git (for accessing the class materials)</p> <p><a href=\"https://plus.google.com/events/ch7kuda2oj19n5mpmih7moe5hk8?authkey=CIm_2fDv7-3A-wE\">Here is the link for the class</a>. You won't see much until the class starts.</p>", 
             "duration": 10800000, 
@@ -349,7 +282,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1418019938000, 
@@ -375,7 +308,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1418167656000, 
@@ -402,7 +335,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1415119879000, 
@@ -458,7 +391,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1416927353000, 
@@ -615,7 +548,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
@@ -655,7 +588,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1413296467000, 
@@ -762,7 +695,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1379643162000, 
@@ -883,7 +816,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1417881835000, 
@@ -910,7 +843,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 

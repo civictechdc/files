@@ -1,6 +1,6 @@
-- activity: [0, 0, 20, 3, 9, 2, 3, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7,
-    10, 9, 13, 40, 112, 35, 21, 3, 17, 5, 0, 0, 1, 9, 9, 3, 0, 0, 9, 0, 0, 8, 2, 12,
-    6, 26, 37, 19, 30, 33]
+- activity: [0, 0, 20, 3, 11, 2, 1, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7,
+    12, 13, 7, 48, 104, 47, 11, 6, 12, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 14,
+    7, 29, 33, 18, 30, 39]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -150,7 +150,7 @@
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 34
+  open_issues: 35
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-12-12T01:28:42Z'
@@ -249,10 +249,10 @@
     thumbnailUrl: ''
     type: Website
   contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 85,
+    link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 49,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 40,
-    link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 12,
     link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 7,
@@ -296,15 +296,15 @@
   id: 11922700
   languages:
   - [JavaScript, 28711]
-  - [CSS, 14125]
+  - [CSS, 15184]
   main_language: JavaScript
   name: Code for DC Website
-  open_issues: 13
+  open_issues: 6
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-11-23T23:40:26Z'
+  pushed_at: '2014-12-12T05:27:22Z'
   size: 17583
-  updated_at: '2014-11-18T18:21:14Z'
+  updated_at: '2014-12-12T05:26:43Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
     4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -393,7 +393,7 @@
     6, 4, 7]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 412,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 413,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -415,9 +415,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-12-11T05:06:09Z'
+  pushed_at: '2014-12-12T06:06:06Z'
   size: 2286
-  updated_at: '2014-12-11T05:06:09Z'
+  updated_at: '2014-12-12T06:06:06Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -747,7 +747,7 @@
   updated_at: '2014-11-30T20:34:39Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0,
     0, 0, 0]
   civic_json: null
   contributors:
