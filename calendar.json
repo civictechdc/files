@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1415829952000, 
@@ -231,33 +231,6 @@
     ], 
     "other": [
         {
-            "created": 1415066979000, 
-            "description": "<p>Please note you are\u00a0<b>NOT</b>\u00a0registered for this event by RSVPing on this meetup. \u00a0<b>Please make sure you register via the <a href=\"https://modevcon2014.busyconf.com/bookings/new\">event registration page</a>.</b>\u00a0\u00a0You'll note\u00a0<b>discount codes</b>\u00a0along the right side of the page as you scroll down. \u00a0Be sure to look those over and take advantage of a discount code if you're eligible!\u00a0</p> <p>Join\u00a0<a href=\"http://gomodev.us7.list-manage.com/track/click?u=99b90f58e23183ba913447d43&amp;id=41e0edb5c3&amp;e=059db689d3\">50+ industry experts</a>\u00a0for two days of deep dive workshops, talks and keynotes and a 24-hour Hackathon\u2014for the East Coast's only mobile-first event of its kind. \u00a0Swift / iOS, Android, the MEAN stack, Metal, Bluetooth, Beacons, API / SDK strategies, UX + Design, security and testing, monetization strategies, and much more. Everything you need to set up a productive 2015.\u00a0</p> <p>With the ever-quickening pace of mobile, staying up-to-date on the latest APIs and SDKs is essential for any developer or business. Now in its fourth year, ModevCon (formerly ModevEast)\u2014happening December 11-12, 2014 in Washington, D.C.\u2014is must-attend for anyone developing, designing, and marketing mobile apps, websites and related products. For two intensive days, we\u2019ll put you face to face with the world\u2019s foremost industry experts to teach you the the latest methods, tools, and best practices for the industry's most important development platforms.</p> <p><b>December 11</b>:\u00a0Premium Workshops and Breakouts, Opening Reception, Sponsor Gallery<br/><b>December 12</b>:\u00a0Morning Breakout Sessions, Afternoon Keynotes, Closing Reception, Sponsor Gallery</p> <p>For details on speakers, schedule, and more please visit the <b><a href=\"http://mdc.gomodev.com/\">ModevCon website!</a>\u00a0\u00a0</b></p>", 
-            "duration": 118800000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/217485172/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "217485172", 
-            "maybe_rsvp_count": 0, 
-            "name": "ModevCon 2014", 
-            "status": "upcoming", 
-            "time": 1418302800000, 
-            "updated": 1415066979000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
-        }, 
-        {
             "created": 1414594350000, 
             "description": "<p>Learn about Flask without leaving your house! Flask is a micro-framework that you can use to create dynamic websites with only a bit of HTML and Python.</p> <p><br/>Because this will be held via Hangouts On Air, it is vital that you have everything installed before the class starts. Installation instructions will be made available before the class. If you have any problems, ping us!</p> <p>Things you need to have installed:</p> <p>\u2022 Python (2.7+)</p> <p><br/>\u2022\u00a0pip (we use it to install Flask)</p> <p><br/>\u2022 Flask</p> <p>\u2022 Git (for accessing the class materials)</p> <p><a href=\"https://plus.google.com/events/ch7kuda2oj19n5mpmih7moe5hk8?authkey=CIm_2fDv7-3A-wE\">Here is the link for the class</a>. You won't see much until the class starts.</p>", 
             "duration": 10800000, 
@@ -308,7 +281,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1418167656000, 
@@ -335,7 +308,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1415119879000, 
@@ -402,7 +375,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1416927353000, 
@@ -472,11 +445,11 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1418857200000, 
-            "updated": 1416438820000, 
+            "updated": 1418416893000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1415119879000, 
@@ -559,7 +532,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -934,7 +907,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1417124897000, 
