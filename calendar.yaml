@@ -258,7 +258,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 56
 - created: 1418019938000
   description: "<p><b>Please RSVP here also:\_<a href=\"https://nvite.com/DCFemTech/e61\"\
     \ class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp;\
@@ -294,7 +294,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1418167656000
   description: "<p>Come hang out with us Monday evening! \_We'll have dinner provided\
     \ by Tortoise &amp; Hare and phenomenal night views of the city across the river.\
@@ -421,7 +421,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1416927353000
   description: '<p>For our December meetup, we are pleased to have a very interesting
     discussion about using open source tools and distributed computing for MRI image
@@ -478,7 +478,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\

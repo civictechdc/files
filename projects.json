@@ -8,8 +8,8 @@
             11, 
             2, 
             1, 
-            5, 
-            1, 
+            6, 
+            0, 
             0, 
             0, 
             11, 
@@ -26,12 +26,12 @@
             12, 
             13, 
             7, 
-            48, 
-            104, 
-            47, 
-            11, 
-            6, 
+            85, 
+            70, 
+            50, 
+            5, 
             12, 
+            6, 
             5, 
             0, 
             0, 
@@ -46,13 +46,13 @@
             7, 
             1, 
             2, 
-            14, 
-            7, 
+            16, 
+            11, 
+            23, 
+            39, 
+            16, 
             29, 
-            33, 
-            18, 
-            30, 
-            39
+            36
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -804,7 +804,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 85, 
+                "contributions": 86, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -927,9 +927,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2014-12-12T20:17:42Z", 
+        "pushed_at": "2014-12-13T01:54:59Z", 
         "size": 16967, 
-        "updated_at": "2014-12-12T20:11:27Z", 
+        "updated_at": "2014-12-13T01:54:59Z", 
         "watchers": 13
     }, 
     {
@@ -1240,7 +1240,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 413, 
+                "contributions": 414, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1279,9 +1279,9 @@
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2014-12-12T06:06:06Z", 
+        "pushed_at": "2014-12-13T06:06:03Z", 
         "size": 2286, 
-        "updated_at": "2014-12-12T06:06:06Z", 
+        "updated_at": "2014-12-13T06:06:04Z", 
         "watchers": 4
     }, 
     {

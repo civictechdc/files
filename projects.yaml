@@ -1,6 +1,6 @@
-- activity: [0, 0, 20, 3, 11, 2, 1, 5, 1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7,
-    12, 13, 7, 48, 104, 47, 11, 6, 12, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 14,
-    7, 29, 33, 18, 30, 39]
+- activity: [0, 0, 20, 3, 11, 2, 1, 6, 0, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7,
+    12, 13, 7, 85, 70, 50, 5, 12, 6, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16,
+    11, 23, 39, 16, 29, 36]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -249,7 +249,7 @@
     thumbnailUrl: ''
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 85,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 86,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 49,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -302,9 +302,9 @@
   open_issues: 6
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-12T20:17:42Z'
+  pushed_at: '2014-12-13T01:54:59Z'
   size: 16967
-  updated_at: '2014-12-12T20:11:27Z'
+  updated_at: '2014-12-13T01:54:59Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
     4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -393,7 +393,7 @@
     5, 5, 7]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 413,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 414,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -415,9 +415,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-12-12T06:06:06Z'
+  pushed_at: '2014-12-13T06:06:03Z'
   size: 2286
-  updated_at: '2014-12-12T06:06:06Z'
+  updated_at: '2014-12-13T06:06:04Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
