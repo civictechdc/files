@@ -254,7 +254,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1418167656000, 
@@ -309,7 +309,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1418261882000, 
@@ -327,13 +327,12 @@ calendar({
                 "who": "Map hackers"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "TBA", 
             "id": "219183115", 
             "maybe_rsvp_count": 0, 
             "name": "Intro to GitHub 101", 
             "status": "upcoming", 
             "time": 1418772600000, 
-            "updated": 1418395480000, 
+            "updated": 1418572896000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -387,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1415033293000, 
@@ -652,7 +651,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1379643162000, 
@@ -739,7 +738,7 @@ calendar({
         }, 
         {
             "created": 1413740084000, 
-            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b><br/></b></p> <p><b>Schedule</b></p> <p>6 - 6:45pm Networking and refreshments</p> <p>6:45 - 8pm Speakers</p> <p><br/><b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p>", 
+            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b><br/></b></p> <p><b>Schedule</b></p> <p>6 - 6:45pm Networking and refreshments</p> <p>6:45 - 8pm Speakers</p> <p><br/><b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p> <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management executives communicate more effectively, make better decisions, and improve their own performance by providing performance reports, high-quality comparative benchmarks, and empirically-derived insights about wealth management sales, productivity and pricing strategies.</p> <p>In various capacities, David\u00a0has advised wealth management, family office and financial services executives for more than 15 years.\u00a0David has written extensively on a broad array of issues and is a highly-demanded speaker at industry events and client meetings.</p> <p>David has a bachelor\u2019s degree in economics and history from the University of Virginia in Charlottesville and a master\u2019s degree in business administration with a concentration in finance from Columbia Business School in New York.\u00a0</p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth and high-net-worth individuals; private banking, trust, brokerage and asset management; single and multi-family offices.</p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/214386742/", 
             "group": {
@@ -759,7 +758,7 @@ calendar({
             "rsvp_limit": 250, 
             "status": "upcoming", 
             "time": 1422572400000, 
-            "updated": 1418043399000, 
+            "updated": 1418565070000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 

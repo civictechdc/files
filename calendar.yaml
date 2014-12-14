@@ -269,7 +269,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1418167656000
   description: "<p>Come hang out with us Monday evening! \_We'll have dinner provided\
     \ by Tortoise &amp; Hare and phenomenal night views of the city across the river.\
@@ -362,7 +362,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1418261882000
   description: "<p>Have lots of code that you want to share? Need a place to host\
     \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
@@ -384,13 +384,12 @@ other:
     id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
       hackers}
   headcount: 0
-  how_to_find_us: TBA
   id: '219183115'
   maybe_rsvp_count: 0
   name: Intro to GitHub 101
   status: upcoming
   time: 1418772600000
-  updated: 1418395480000
+  updated: 1418572896000
   utc_offset: -18000000
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
@@ -453,7 +452,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1415033293000
   description: "<p>Learn to create a Ruby on Rails application in one month! This\
     \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
@@ -781,7 +780,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -960,7 +959,22 @@ other:
     \ data management, and open data issues. She has her Masters in Business Administration\
     \ from The University of Georgia, and her Bachelors of Science in Marketing from\
     \ The Pennsylvania State University. Ms. Casey also sits on the Board of Directors\
-    \ of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p>"
+    \ of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p>\
+    \ <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln\
+    \ is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management\
+    \ executives communicate more effectively, make better decisions, and improve\
+    \ their own performance by providing performance reports, high-quality comparative\
+    \ benchmarks, and empirically-derived insights about wealth management sales,\
+    \ productivity and pricing strategies.</p> <p>In various capacities, David\_has\
+    \ advised wealth management, family office and financial services executives for\
+    \ more than 15 years.\_David has written extensively on a broad array of issues\
+    \ and is a highly-demanded speaker at industry events and client meetings.</p>\
+    \ <p>David has a bachelor\u2019s degree in economics and history from the University\
+    \ of Virginia in Charlottesville and a master\u2019s degree in business administration\
+    \ with a concentration in finance from Columbia Business School in New York.\_\
+    </p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth\
+    \ and high-net-worth individuals; private banking, trust, brokerage and asset\
+    \ management; single and multi-family offices.</p>"
   duration: 8100000
   event_url: http://www.meetup.com/Data-Business-DC/events/214386742/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
@@ -973,7 +987,7 @@ other:
   rsvp_limit: 250
   status: upcoming
   time: 1422572400000
-  updated: 1418043399000
+  updated: 1418565070000
   utc_offset: -18000000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
