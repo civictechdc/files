@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415829952000, 
@@ -231,32 +231,6 @@
     ], 
     "other": [
         {
-            "created": 1418019938000, 
-            "description": "<p><b>Please RSVP here also:\u00a0<a href=\"https://nvite.com/DCFemTech/e61\" class=\"linkified\">https://nvite.com/DCFemTech/e61</a></b></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219126997/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "219126997", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1418583600000, 
-            "updated": 1418019938000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
             "created": 1418167656000, 
             "description": "<p>Come hang out with us Monday evening! \u00a0We'll have dinner provided by Tortoise &amp; Hare and phenomenal night views of the city across the river. \u00a0Think of this like a Code &amp; Coffee without the coffee (though we'll have that too if you want some!). \u00a0</p> <p>There's no agenda- just come hang out with some awesome ladies, work on a project if you'd like or bring your laptop and work through some Codecademy or Khan Academy exercises, maybe meet some awesome ladies you've never met before. \u00a0</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/1/1/f/0/600_365644592.jpeg\" /></p> <p><a href=\"http://disruption.vc/\">&lt;/a&gt;</p> <p>&lt;a href=\"http://disruption.vc/\"&gt;Disruption Corporation</a>\u00a0is generously providing space at their Crystal Tech Fund offices in Crystal City for our classes! \u00a0They are an amazing partner, and we encourage you to Tweet your thanks\u00a0<a href=\"https://twitter.com/disruptioncorp\">@disruptioncorp</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/0/c/600_371661772.jpeg\" /></p> <p><a href=\"http://tortoiseandharebar.com/\">Tortoise &amp; Hare</a>\u00a0will be providing food and drinks for classes! \u00a0Please give them a shout out on Twitter\u00a0<a href=\"https://twitter.com/tortoiseharebar\">@tortoiseharebar</a>\u00a0</p> <p><b>Parking:</b></p> <p>There's an underground parking garage at the intersection of Crystal Dr. and 23rd St. - you can park there as it's directly under the building (follow signs to bldg 2231). \u00a0Parking is free for events after 5pm. \u00a0There is also a free garage across the street. \u00a0</p> <p>Alternately, you can take the metro to the Crystal City metro station on yellow/blue lines. \u00a0The office is only a couple short blocks away. \u00a0</p>", 
             "duration": 7200000, 
@@ -309,7 +283,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1418261882000, 
@@ -347,7 +321,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1416927353000, 
@@ -772,7 +746,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1417881835000, 
