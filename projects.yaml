@@ -84,8 +84,8 @@
   size: 20677
   updated_at: '2014-12-11T19:08:18Z'
   watchers: 14
-- activity: [0, 0, 0, 13, 2, 5, 12, 14, 2, 8, 7, 9, 4, 0, 9, 6, 0, 15, 0, 9, 0, 8,
-    2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0, 2, 3, 0, 1, 5, 2, 2, 5,
+- activity: [0, 0, 0, 13, 2, 7, 19, 5, 3, 8, 6, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8,
+    2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 6, 5, 1, 1, 0, 0, 0, 2, 3, 0, 4, 2, 2, 2, 5,
     0, 1, 0, 5]
   civic_json:
     bornAt: Code for DC
@@ -230,9 +230,9 @@
   size: 40024
   updated_at: '2014-12-10T16:45:08Z'
   watchers: 19
-- activity: [1, 0, 0, 1, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3,
-    6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9,
-    10, 2, 1, 9]
+- activity: [1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 3, 6, 7, 0, 2, 3,
+    6, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8,
+    12, 0, 1, 9]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -393,7 +393,7 @@
     6, 4, 7, 6]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 414,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 415,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
@@ -415,9 +415,9 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2014-12-13T06:06:03Z'
+  pushed_at: '2014-12-15T06:05:59Z'
   size: 2286
-  updated_at: '2014-12-13T06:06:04Z'
+  updated_at: '2014-12-15T06:06:00Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -452,7 +452,7 @@
   updated_at: '2014-11-18T00:08:30Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 1, 0, 0, 4, 5, 0, 8, 0, 13, 4, 14, 3, 5, 5, 5, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 1, 0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -574,7 +574,7 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 2, 5, 14, 0, 1, 2, 0, 37, 6, 7, 0, 14, 10, 19, 6, 11, 12, 2, 13, 0,
+    0, 0, 0, 0, 2, 5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16, 8, 6, 13, 1, 13, 0,
     2, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -728,7 +728,7 @@
   created_at: '2014-10-31T01:37:53Z'
   default_branch: master
   description: Election map for DC's 2014 general election
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: http://electionmap.wamu.org
   html_url: https://github.com/cmgiven/open-election-map
