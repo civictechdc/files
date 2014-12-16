@@ -251,7 +251,7 @@
             "name": "Intro to GitHub 101", 
             "status": "upcoming", 
             "time": 1418772600000, 
-            "updated": 1418572896000, 
+            "updated": 1418746288000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -266,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1416927353000, 
@@ -504,7 +504,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1415119879000, 
@@ -762,7 +762,7 @@
         }, 
         {
             "created": 1418679019000, 
-            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p><br/><b>Event Overview</b></p> <p>A discussion of the changing roles in web, design and marketing.\u00a0</p> <p>Suggested attendees: Managers planning for changes in various roles and responsibilities and professionals looking at a new\u00a0career trajectories.</p> <p><b>Speakers</b></p> <p><br/><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/8/7/0/600_432527216.jpeg\" /></p> <p>Emily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p>\n\n\n<b>Our Event Sponsor:</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>Syscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
+            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion of the changing roles in web, design and marketing.\u00a0</p> <p>Traditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just keeping the website running.</p> <p>And specialist roles such as information architect, user experience designer, digital marketer, social media manager are changing the nature of more established roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively within the changes and how to plan for upcoming trends that may impact your current role.</p> <p><b>SPEAKERS</b></p> <p><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>Emily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>Syscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219263686/", 
             "group": {
                 "created": 1189804715000, 
@@ -780,7 +780,7 @@
             "name": "Changing Roles in Web, Design and Marketing", 
             "status": "upcoming", 
             "time": 1423611000000, 
-            "updated": 1418691945000, 
+            "updated": 1418734794000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -795,7 +795,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1416852247000, 
@@ -883,7 +883,7 @@
                 "accepts": "paypal", 
                 "amount": 10, 
                 "currency": "USD", 
-                "description": "per person ($20 after 1/5", 
+                "description": "($20 after 1/5)", 
                 "label": "Earlybird", 
                 "required": "0"
             }, 
@@ -902,8 +902,8 @@
             "maybe_rsvp_count": 0, 
             "name": "Marketing and Communications across Web, Mobile & Social", 
             "status": "upcoming", 
-            "time": 1424217600000, 
-            "updated": 1418680399000, 
+            "time": 1424304000000, 
+            "updated": 1418741558000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 
@@ -920,7 +920,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1379643162000, 
