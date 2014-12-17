@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -335,7 +335,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 8
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -446,7 +446,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
@@ -492,7 +492,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -703,7 +703,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -818,7 +818,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -861,9 +861,9 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1418679019000
-  description: "<p>RSVP to receive a notification when registration opens officially\
-    \ opens and to receive a code for free entry.\_\_</p> <p><br/><b>OVERVIEW</b></p>\
-    \ <p>A discussion of the changing roles in web, design and marketing.\_</p> <p>Traditional\
+  description: "<p>RSVP to receive a notification when registration officially opens\
+    \ and to receive a code for free entry.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A\
+    \ discussion of the changing roles in web, design and marketing.\_</p> <p>Traditional\
     \ roles in marketing and design are now heavily impacted by trends in digital\
     \ including web, mobile and social. On the other side, web managers are increasingly\
     \ working with marketing and design as that role extends beyond just running websites.</p>\
@@ -900,7 +900,7 @@ other:
   name: Changing Roles in Web, Design and Marketing
   status: upcoming
   time: 1423611000000
-  updated: 1418765510000
+  updated: 1418840238000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
@@ -989,7 +989,8 @@ other:
   yes_rsvp_count: 5
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
-    platforms including web, mobile and social.</p>
+    platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
+    Leibtag, Aha Media Group</p>
   event_url: http://www.meetup.com/webcontentmavens/events/219264031/
   fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/5),
     label: Earlybird, required: '0'}
@@ -1002,7 +1003,7 @@ other:
   name: Marketing and Communications across Web, Mobile & Social
   status: upcoming
   time: 1424304000000
-  updated: 1418741558000
+  updated: 1418840194000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,
