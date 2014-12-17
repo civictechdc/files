@@ -231,45 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1416927353000, 
-            "description": "<p>For our December meetup, we are pleased to have a very interesting discussion about using open source tools and distributed computing for MRI image reconstruction. Please join us on Tuesday 12/16 at 6:30 (location to be confirmed soon),</p> <p>6:30 - 7:00 Food &amp; Networking<br/>7:00 - 7:10 Intros and announcements<br/>7:15 - 8:15ish Presentation / Q&amp;A<br/>Adjourn to Data Drinks</p> <p>Title: Magnetic Resonance Image Reconstruction 1. 5 minute introduction to MRI and MRI reconstruction: where does the signal come from, how does it get turned into an image (that's the reconstruction part), what are the typical constraints in terms of imaging speed, etc.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract</a></p> <p>2. Image reconstruction in units of signal to noise (SNR): This would be me taking a more statistical view of how we reconstruct images such that at the end we know what the signal to noise is in each pixel.</p> <p>3. The extension of the SNR reconstruction to region of interest analysis in MRI images: pixels in the image are not entirely independent, what happens to ROI analysis? Extension to flow measuremens, how do we measure flow with MRI and how do we assign a confidence interval on such flow measurements.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract</a><br/><a href=\"http://www.jcmr-online.com/content/16/1/46\" class=\"linkified\">http://www.jcmr-online.com/content/16/1/46</a></p> <p>4. Open source software tools that we develop/use. I will focus on our open raw data standard (ismrmrd.github.io) and a high performance reconstruction pipeline that I have designed (gadgetron.github.io)<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract</a></p> <p>5. Using cloud computing in MRI reconstruction. Interfacing clinical MRI systems directly to Gadgetron instances in the cloud.<br/><a href=\"http://www.ncbi.nlm.nih.gov/pubmed/24687458\" class=\"linkified\">http://www.ncbi.nlm.nih.gov/pubmed/24687458</a></p> <p>Michael Hansen is a biomedical engineer with a PhD from University of Aarhus, Denmark. After completing his PhD, he was a research fellow at University College, London and Great Ormond Street Hospital for Children, London. He also worked at Novartis Institutes for BioMedical Research in Cambridge, MA before moving to the National Heart, Lung, and Blood Institute, NIH, where he heads the Magnetic Resonance Technology Program. His program focuses on MRI techniques for cardiac imaging, pediatric imaging, and real-time guidance of interventional procedures. His particular areas of interest are fast pulse sequences, non-Cartesian imaging, real-time image reconstruction, GPU based reconstruction, Distributed Computing, and motion correction. He has extensive experience in the area of high throughput real-time processing and reconstruction of imaging data.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/218890687/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "218890687", 
-            "maybe_rsvp_count": 0, 
-            "name": "Magnetic Resonance Image Reconstruction", 
-            "status": "upcoming", 
-            "time": 1418772600000, 
-            "updated": 1418222066000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 88
-        }, 
-        {
             "created": 1415033293000, 
             "description": "<p>Learn to create a Ruby on Rails application in one month! This meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\">https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including beginners) how to create a simple application using Ruby on Rails. In addition to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework. It's perfect for complete beginners to coding or people who are interested in learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\" style - attendees will watch the video tutorials and complete exercises during the week, and at the meetup we will review the week's lessons, answer any questions and do additional exercises to deepen our knowledge of web technologies. At the end of the 5 week meetup, we will show the applications we built!</p> <p>Because we are using the \"One Month Rails\" coursework this meetup will require attendees to pay for online access to the video tutorials. This comes to $70 a person (30% discount for Women Who Code members included.) We will give out the promo code during the first meetup and set up our environments so that everyone is ready to go when they leave the event</p> <p>Attendees are encouraged to bring their laptops to meetups so we can go over any code questions you may have.\u00a0</p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-) Sign up for OMR, Github and Nitrous. Brainstorm Course Expectations and Ideas</p> <p>Week 2 (11/19)- Review Week 1 and go over challenges with first week videos.</p> <p>Week 3 (TBD)- It will be either held on 12/2 or 12/4 due to the big holiday event for the tech community \"Tech the Halls\". \u00a0During this session it will be a review of Week 2 and challenges of second week videos</p> <p>Week 4 (12/10)- Review of Week 3 and the challenges of week 3 videos\u00a0</p> <p>Week 5 (12/17)- Last meeting before the holiday during this session we will do a review on Week 4 and challenges of Week 4 videos as well as discuss ideas for continuing meetup in January of 2015</p> <p><i>*Everything is subject to change base on the needs of everyone within the group.</i></p> <p>Please, please modify your RSVPs if you cannot make it for all 5 meet ups to allow those on the wait list to RSVP. We look forward to seeing you! Thanks!!</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/217465612/", 
@@ -330,7 +291,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415119879000, 
@@ -425,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1413296467000, 
@@ -591,7 +552,7 @@ calendar({
         }, 
         {
             "created": 1418772287000, 
-            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p>Note: The date and location are confirmed. We are waiting for a final speaker and sponsor information. The description will be updated by 12/19.</p> <p><b>DESCRIPTION [draft]</b></p> <p><br/>Discussion on selecting Web Content Management Systems.</p> <p><b>SPEAKERS</b></p> <p>Tony Byrne, Real Story Group</p> <p>Bret Peters, Figleaf Software</p>", 
+            "description": "<p>RSVP to receive a notification when registration officially opens and receive a code for free entry.</p> <p>Note: The date and location are confirmed. We are waiting for a final speaker and sponsor information. The description will be updated by 12/19.</p> <p><b>DESCRIPTION</b></p> <p><br/>Discussion on selecting Web Content Management Systems.</p> <p><b>SPEAKERS</b></p> <p>Tony Byrne, Real Story Group</p> <p>Bret Peters, Figleaf Software</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
             "group": {
                 "created": 1189804715000, 
@@ -609,7 +570,7 @@ calendar({
             "name": "Selecting and Planning a Web CMS", 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1418772543000, 
+            "updated": 1418796228000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -624,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1415119879000, 
@@ -794,7 +755,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1416852247000, 
@@ -1857,6 +1818,33 @@ calendar({
                 "state": "DC", 
                 "zip": "20009"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1379643162000, 
+            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytqbwb/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "qkxmtgytqbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1450395000000, 
+            "updated": 1383661832000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
