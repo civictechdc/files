@@ -231,44 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1418261882000, 
-            "description": "<p>Have lots of code that you want to share? Need a place to host your website? Looking to work collaboratively on a coding project? If so, GitHub is the place for you! Come join us on\u00a0Tuesday, December 16th\u00a0at the DC Public Library for an introduction to GitHub. We'll talk about GitHub and all the lingo as well as the language \"git\", how to use the desktop interface, and what you can do to get started.</p> <p>If you don't already have a GitHub account, please create one prior to Maptime at\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.\u00a0You can also download the desktop interface at the bottom of\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.</p> <p>The instructor: Brian Davidson is a UI/UX Developer for DigitalGlobe in Herndon, VA. He is a recent graduate of the University of Wisconsin\u2013Madison where is research focused on default zoom level and level of detail on mobile maps. \u00a0Follow him <a href=\"http://twitter.com/brianddavidson\">@brianddavidson</a>!</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/219183115/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "219183115", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to GitHub 101", 
-            "status": "upcoming", 
-            "time": 1418772600000, 
-            "updated": 1418746288000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 34
-        }, 
-        {
             "created": 1416927353000, 
             "description": "<p>For our December meetup, we are pleased to have a very interesting discussion about using open source tools and distributed computing for MRI image reconstruction. Please join us on Tuesday 12/16 at 6:30 (location to be confirmed soon),</p> <p>6:30 - 7:00 Food &amp; Networking<br/>7:00 - 7:10 Intros and announcements<br/>7:15 - 8:15ish Presentation / Q&amp;A<br/>Adjourn to Data Drinks</p> <p>Title: Magnetic Resonance Image Reconstruction 1. 5 minute introduction to MRI and MRI reconstruction: where does the signal come from, how does it get turned into an image (that's the reconstruction part), what are the typical constraints in terms of imaging speed, etc.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/jmri.24687/abstract</a></p> <p>2. Image reconstruction in units of signal to noise (SNR): This would be me taking a more statistical view of how we reconstruct images such that at the end we know what the signal to noise is in each pixel.</p> <p>3. The extension of the SNR reconstruction to region of interest analysis in MRI images: pixels in the image are not entirely independent, what happens to ROI analysis? Extension to flow measuremens, how do we measure flow with MRI and how do we assign a confidence interval on such flow measurements.<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.25194/abstract</a><br/><a href=\"http://www.jcmr-online.com/content/16/1/46\" class=\"linkified\">http://www.jcmr-online.com/content/16/1/46</a></p> <p>4. Open source software tools that we develop/use. I will focus on our open raw data standard (ismrmrd.github.io) and a high performance reconstruction pipeline that I have designed (gadgetron.github.io)<br/><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract\" class=\"linkified\">http://onlinelibrary.wiley.com/doi/10.1002/mrm.24389/abstract</a></p> <p>5. Using cloud computing in MRI reconstruction. Interfacing clinical MRI systems directly to Gadgetron instances in the cloud.<br/><a href=\"http://www.ncbi.nlm.nih.gov/pubmed/24687458\" class=\"linkified\">http://www.ncbi.nlm.nih.gov/pubmed/24687458</a></p> <p>Michael Hansen is a biomedical engineer with a PhD from University of Aarhus, Denmark. After completing his PhD, he was a research fellow at University College, London and Great Ormond Street Hospital for Children, London. He also worked at Novartis Institutes for BioMedical Research in Cambridge, MA before moving to the National Heart, Lung, and Blood Institute, NIH, where he heads the Magnetic Resonance Technology Program. His program focuses on MRI techniques for cardiac imaging, pediatric imaging, and real-time guidance of interventional procedures. His particular areas of interest are fast pulse sequences, non-Cartesian imaging, real-time image reconstruction, GPU based reconstruction, Distributed Computing, and motion correction. He has extensive experience in the area of high throughput real-time processing and reconstruction of imaging data.</p>", 
             "duration": 7200000, 
@@ -305,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1415033293000, 
@@ -368,7 +330,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415119879000, 
@@ -427,7 +389,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p><i>This month organized by longtime GeoDCer Liz Lyon!</i></p> <p>This month's GeoDC will look at how open source is entering some of the most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup so far - expect this to grow in the coming days.\u00a0</p> <p>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen will talk about why the National Geospatial-Intelligence Agency started developing code in the open via Github and the wins they're seeing from the collaborative approach.\u00a0</p> <p>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/215042312/", 
             "group": {
                 "created": 1307975249000, 
@@ -443,10 +405,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytcbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "January GeoDC: Open source in Government", 
             "status": "upcoming", 
             "time": 1420675200000, 
-            "updated": 1326383071000, 
+            "updated": 1418778770000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -463,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1413296467000, 
@@ -570,7 +532,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1379643162000, 
@@ -597,7 +559,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1415119879000, 
@@ -626,6 +588,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1418772287000, 
+            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p>Note: The date and location are confirmed. We are waiting for a final speaker and sponsor information. The description will be updated by 12/19.</p> <p><b>DESCRIPTION [draft]</b></p> <p><br/>Discussion on selecting Web Content Management Systems.</p> <p><b>SPEAKERS</b></p> <p>Tony Byrne, Real Story Group</p> <p>Bret Peters, Figleaf Software</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "219283437", 
+            "maybe_rsvp_count": 0, 
+            "name": "Selecting and Planning a Web CMS", 
+            "status": "upcoming", 
+            "time": 1421796600000, 
+            "updated": 1418772543000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th St NW (8th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 20421012, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776 (8th Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1415119879000, 
@@ -762,7 +761,7 @@ calendar({
         }, 
         {
             "created": 1418679019000, 
-            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion of the changing roles in web, design and marketing.\u00a0</p> <p>Traditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just keeping the website running.</p> <p>And specialist roles such as information architect, user experience designer, digital marketer, social media manager are changing the nature of more established roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively within the changes and how to plan for upcoming trends that may impact your current role.</p> <p><b>SPEAKERS</b></p> <p><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>Emily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>Syscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
+            "description": "<p>RSVP to receive a notification when registration opens officially opens and to receive a code for free entry.\u00a0\u00a0</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion of the changing roles in web, design and marketing.\u00a0</p> <p>Traditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>And specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p><b>SPEAKERS</b></p> <p><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>Emily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>Syscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219263686/", 
             "group": {
                 "created": 1189804715000, 
@@ -780,7 +779,7 @@ calendar({
             "name": "Changing Roles in Web, Design and Marketing", 
             "status": "upcoming", 
             "time": 1423611000000, 
-            "updated": 1418734794000, 
+            "updated": 1418765510000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -795,7 +794,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1416852247000, 
@@ -920,7 +919,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1379643162000, 
@@ -994,10 +993,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytfbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC March: Storytelling with Maps!", 
             "status": "upcoming", 
             "time": 1425513600000, 
-            "updated": 1326383071000, 
+            "updated": 1418763666000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -1014,7 +1013,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1379643162000, 
