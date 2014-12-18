@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -234,56 +234,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1415033293000
-  description: "<p>Learn to create a Ruby on Rails application in one month! This\
-    \ meetup will follow the \"One Month Rails\" video series (<a href=\"https://onemonth.com/courses/one-month-rails\"\
-    ><a href=\"https://onemonth.com/courses/one-month-rails\" class=\"linkified\"\
-    >https://onemonth.com/courses/one-month-rails</a></a>) which teaches anyone (including\
-    \ beginners) how to create a simple application using Ruby on Rails. In addition\
-    \ to Ruby, you will also learn HTML, CSS, JavaScript and the Bootstrap 3 framework.\
-    \ It's perfect for complete beginners to coding or people who are interested in\
-    \ learning Rails development!</p> <p><br/>This meetup is \"flipped classroom\"\
-    \ style - attendees will watch the video tutorials and complete exercises during\
-    \ the week, and at the meetup we will review the week's lessons, answer any questions\
-    \ and do additional exercises to deepen our knowledge of web technologies. At\
-    \ the end of the 5 week meetup, we will show the applications we built!</p> <p>Because\
-    \ we are using the \"One Month Rails\" coursework this meetup will require attendees\
-    \ to pay for online access to the video tutorials. This comes to $70 a person\
-    \ (30% discount for Women Who Code members included.) We will give out the promo\
-    \ code during the first meetup and set up our environments so that everyone is\
-    \ ready to go when they leave the event</p> <p>Attendees are encouraged to bring\
-    \ their laptops to meetups so we can go over any code questions you may have.\_\
-    </p> <p><br/><b>Schedule</b>:</p> <p>Week 1 (11/12-) Sign up for OMR, Github and\
-    \ Nitrous. Brainstorm Course Expectations and Ideas</p> <p>Week 2 (11/19)- Review\
-    \ Week 1 and go over challenges with first week videos.</p> <p>Week 3 (TBD)- It\
-    \ will be either held on 12/2 or 12/4 due to the big holiday event for the tech\
-    \ community \"Tech the Halls\". \_During this session it will be a review of Week\
-    \ 2 and challenges of second week videos</p> <p>Week 4 (12/10)- Review of Week\
-    \ 3 and the challenges of week 3 videos\_</p> <p>Week 5 (12/17)- Last meeting\
-    \ before the holiday during this session we will do a review on Week 4 and challenges\
-    \ of Week 4 videos as well as discuss ideas for continuing meetup in January of\
-    \ 2015</p> <p><i>*Everything is subject to change base on the needs of everyone\
-    \ within the group.</i></p> <p>Please, please modify your RSVPs if you cannot\
-    \ make it for all 5 meet ups to allow those on the wait list to RSVP. We look\
-    \ forward to seeing you! Thanks!!</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/217465612/
-  fee: {accepts: cash, amount: 70, currency: USD, description: per person, label: Price,
-    required: '0'}
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: drmkblysqbwb
-  maybe_rsvp_count: 0
-  name: 'One Month Rails: Learn Ruby on Rails'
-  rsvp_limit: 25
-  status: upcoming
-  time: 1418857200000
-  updated: 1418416893000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -335,7 +285,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -492,7 +442,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -818,7 +768,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
