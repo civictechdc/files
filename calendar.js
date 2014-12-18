@@ -350,7 +350,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p><i>This month organized by longtime GeoDCer Liz Lyon!</i></p> <p>This month's GeoDC will look at how open source is entering some of the most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup so far - expect this to grow in the coming days.\u00a0</p> <p>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen will talk about why the National Geospatial-Intelligence Agency started developing code in the open via Github and the wins they're seeing from the collaborative approach.\u00a0</p> <p>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
+            "description": "<p><i>This month organized by longtime GeoDCer Liz Lyon!</i></p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup so far - expect this to grow in the coming days.\u00a0</p> <p>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen will talk about why the National Geospatial-Intelligence Agency started developing code in the open via Github and the wins they're seeing from the collaborative approach.\u00a0</p> <p>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/215042312/", 
             "group": {
                 "created": 1307975249000, 
@@ -369,7 +369,7 @@ calendar({
             "name": "January GeoDC: Open source in Government", 
             "status": "upcoming", 
             "time": 1420675200000, 
-            "updated": 1418778770000, 
+            "updated": 1418843252000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -386,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1413296467000, 
@@ -651,7 +651,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1417881835000, 
