@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -285,7 +285,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -337,7 +337,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 8
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -396,7 +396,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
@@ -413,14 +413,15 @@ other:
     >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
     \ employers and government agencies to drive improvements in metro mobility.</p>\
     \ <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\_\
-    will talk about his app that connects people exchanging parking spots.</p> <p><br/>\u2022\
-    \_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"\
-    http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making\
-    \ cities smarter by crunching millions of data points to see how people are traveling\
-    \ throughout the city.\_</p> <p>Do you have an auto-centric app or data viz? Sign\
-    \ up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
-    for \"Transportation Techies\" updates.</p>"
+    will visit us via Skype to talk about his app that connects people exchanging\
+    \ parking spots.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/MatthewSpGeorge\"\
+    >Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us\
+    \ how they are how they're making cities smarter by crunching millions of data\
+    \ points to see how people are traveling throughout the city.\_</p> <p>Do you\
+    \ have an auto-centric app or data viz? Sign up to present by contacting <a href=\"\
+    http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\_\
+    </p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
+    \ \"Transportation Techies\" updates.</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Transportation-Techies/events/213357602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -435,7 +436,7 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1418053356000
+  updated: 1419020978000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
@@ -576,7 +577,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -789,7 +790,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
