@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -363,17 +363,16 @@ other:
     >ParkingPanda</a> will talk about their app that lets drivers\_reserve parking\
     \ in advance.</p> <p><br/>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
     >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
-    \ employers and government agencies to drive improvements in metro mobility.</p>\
-    \ <p>\u2022 Eric Meyer of <a href=\"http://www.haystackmobile.com/\">Haystack</a>\_\
-    will visit us via Skype to talk about his app that connects people exchanging\
-    \ parking spots.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/MatthewSpGeorge\"\
-    >Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us\
-    \ how they are how they're making cities smarter by crunching millions of data\
-    \ points to see how people are traveling throughout the city.\_</p> <p>Do you\
-    \ have an auto-centric app or data viz? Sign up to present by contacting <a href=\"\
-    http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\_\
-    </p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
-    \ \"Transportation Techies\" updates.</p>"
+    \ employers and government agencies to drive improvements in metro mobility.\_\
+    </p> <p>\u2022\_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a>\
+    \ of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how\
+    \ they're making cities smarter by crunching millions of data points to see how\
+    \ people are traveling throughout the city.\_</p> <p>\u2022 Eric Meyer of\_<a\
+    \ href=\"http://www.haystackmobile.com/\">Haystack</a>\_will talk about his app\
+    \ that connects people exchanging parking spots.</p> <p>Do you have an auto-centric\
+    \ app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a>.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for \"Transportation Techies\" updates.</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Transportation-Techies/events/213357602/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -388,7 +387,7 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1419020978000
+  updated: 1419446399000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
@@ -447,7 +446,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
