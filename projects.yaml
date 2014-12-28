@@ -84,9 +84,9 @@
   size: 20677
   updated_at: '2014-12-19T15:40:36Z'
   watchers: 13
-- activity: [0, 9, 6, 5, 10, 15, 3, 4, 11, 2, 11, 0, 1, 14, 0, 10, 5, 9, 0, 7, 1,
-    4, 0, 5, 0, 0, 6, 3, 3, 4, 4, 2, 7, 3, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 2, 5, 0,
-    1, 0, 4, 1, 0]
+- activity: [0, 11, 4, 5, 12, 14, 2, 4, 11, 2, 11, 0, 9, 6, 0, 13, 2, 9, 0, 8, 0,
+    4, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2, 8, 2, 0, 1, 0, 0, 2, 3, 0, 0, 6, 2, 2, 5, 0,
+    1, 0, 5, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -138,7 +138,7 @@
   created_at: '2013-03-11T23:54:30Z'
   default_branch: master
   description: A website about DC's Advisory Neighborhood Commission system.
-  forks: 25
+  forks: 26
   help_wanted: []
   homepage: http://ancfinder.org/
   html_url: https://github.com/codefordc/ancfinder
@@ -230,9 +230,9 @@
   size: 40024
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [0, 1, 0, 0, 1, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0,
-    0, 0, 0, 0, 0, 0, 0, 6, 1, 4, 8, 3, 0, 5, 14, 8, 3, 3, 12, 8, 7, 9, 11, 11, 3,
-    1, 8, 1, 0]
+- activity: [0, 1, 0, 1, 0, 0, 0, 3, 2, 1, 0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0,
+    0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2,
+    1, 9, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -371,7 +371,7 @@
   created_at: '2014-05-17T14:31:30Z'
   default_branch: master
   description: How to do things
-  forks: 5
+  forks: 6
   help_wanted: []
   homepage: ''
   html_url: https://github.com/codefordc/guides
