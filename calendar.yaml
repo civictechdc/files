@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -285,7 +285,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -304,7 +304,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer Liz Lyon!</i></p> <p>And\
     \ TUgis, the annual GIS conference put on by Towson University, is buying the\
@@ -394,7 +394,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 101
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -481,7 +481,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -606,6 +606,82 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 11
+- created: 1419871773000
+  description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
+    \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
+    \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p>\
+    \ <p>7:00 PM -- <i>Quantified Mental Health Signals from Twitter -\_</i>Glen Coppersmith,\
+    \ PhD</p> <p>9:00 PM -- Post event drinks at Greene Turtle</p> <p><b>Location</b></p>\
+    \ <p>Loyola Columbia</p> <p>8890 McGaw Rd #130,\_Columbia,\_MD</p> <p>There is\
+    \ ample free parking surrounding the building.</p> <p><b>Talk</b></p> <p><b><i>Quantified\
+    \ Mental Health Signals from Twitter</i><br/></b></p> <p>The ubiquity of social\
+    \ media provides a rich opportunity to enhance\_the data available to mental health\
+    \ clinicians and researchers,\_enabling a better-informed and better-equipped\
+    \ mental health field. We\_present analysis of mental health phenomena in publicly\
+    \ available\_Twitter data, demonstrating how rigorous application of simple natural\_\
+    language processing methods can yield insight into specific disorders\_as well\
+    \ as mental health writ large. What's more, we find evidence\_that as-of-yet undiscovered\
+    \ linguistic signals relevant to mental\_health exist in social media. We present\
+    \ a novel method for gathering\_data for a range of mental illnesses quickly and\
+    \ cheaply, then focus\_on analysis of four in particular: post-traumatic stress\
+    \ disorder(PTSD), depression, bipolar disorder, and seasonal affective disorder\_\
+    (SAD). We also discuss a hackathon we recently hosted, and an in-progress\_shared\
+    \ task using the data used from these\_investigations.\_We intend for these\_\
+    proof-of-concept results, experiments, and explorations to inform the\_necessary\
+    \ ethical discussion regarding the balance between the utility\_of such data and\
+    \ the privacy of mental health related information.</p> <p><br/><b>Speaker</b></p>\
+    \ <p><a href=\"https://twitter.com/glencoppersmith\">Glen</a> is an independent\
+    \ consultant addressing a range of data science challenges -- currently working\
+    \ with the leadership of DARPA's XData program, an affiliate of the Data Guild,\
+    \ and as a part-time research scientist\_at the Human Language Technology\_Center\
+    \ of Excellence at Johns Hopkins University. He joined the HLTCOE in 2008 as the\
+    \ first full-time researcher, staying on full time there until the end of 2014.\_\
+    He also maintains assistant research scientist positions within two departments\
+    \ at\_Johns Hopkins: Applied Math and Statistics and Electrical and Computer\_\
+    Engineering. His graduate work was at Northeastern University, using computational\
+    \ techniques to explore psychology problems (in linguistics, neuroscience, and\
+    \ clinical psychology). His work spans a number of disciplines: computer science,\_\
+    graph theory, statistics, natural language processing, machine\_learning, and\
+    \ psychology. He tends to shy away from curated and\_cared-for datasets, instead\
+    \ preferring the wild-west of real world\_data. He suspects this is in part due\
+    \ to his keen appreciation for the\_outdoors -- an avid rock climber, kayaker,\
+    \ photographer, hiker, and\_SCUBA diver. Glen can be reached on Twitter\_<a href=\"\
+    https://twitter.com/glencoppersmith\">@glencoppersmith</a> and at\_<a href=\"\
+    http://glencoppersmith.com/\">glencoppersmith.com</a>.</p> <p><br/><b>Company</b></p>\
+    \ <p><a href=\"http://thedataguild.com/\">The Data Guild</a> brings together deeply\
+    \ experienced data scientists, social scientists, designers and engineers with\
+    \ diverse backgrounds to tackle important challenges. The team has decades of\
+    \ experience from working with governments, nonprofits, non-government organizations,\
+    \ technology startups, and large multinational corporations. Members of the Guild\
+    \ have also built multiple successful technology companies.</p> <p><br/>The\_\
+    <a href=\"http://hltcoe.jhu.edu/\">Human Language Technology Center of Excellence</a>\
+    \ was founded in\_January of 2007 at Johns Hopkins University to focus on research\
+    \ in all aspects of speech and language technologies.\_Doing research at the center\
+    \ is exciting; our mission is to explore highly innovative technologies that could\
+    \ have a significant impact on challenging real-world problems.\_The center's\
+    \ research focuses on advanced technology for automatically analyzing a wide range\
+    \ of speech, text, and document data in multiple languages. Our research\_addresses\
+    \ key issues in extracting information from massive sources of text and speech.</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Science-MD/events/219477112/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '219477112'
+  maybe_rsvp_count: 0
+  name: Quantified Mental Health Signals from Twitter
+  rsvp_limit: 150
+  status: upcoming
+  time: 1421796600000
+  updated: 1419872164000
+  utc_offset: -18000000
+  venue: {address_1: '8890 McGaw Rd #130', city: Columbia, country: us, id: 8581712,
+    lat: 39.189391999999998, lon: -76.820137000000003, name: Loyola Columbia, repinned: false,
+    state: MD, zip: '21045'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\

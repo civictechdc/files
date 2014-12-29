@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1415829988000, 
@@ -256,7 +256,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
@@ -283,7 +283,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
@@ -364,7 +364,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1415119879000, 
@@ -430,7 +430,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1379643162000, 
@@ -523,6 +523,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 11
+        }, 
+        {
+            "created": 1419871773000, 
+            "description": "<p>For January's event, we are very pleased to have Glen Coppersmith, PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Quantified Mental Health Signals from Twitter -\u00a0</i>Glen Coppersmith, PhD</p> <p>9:00 PM -- Post event drinks at Greene Turtle</p> <p><b>Location</b></p> <p>Loyola Columbia</p> <p>8890 McGaw Rd #130,\u00a0Columbia,\u00a0MD</p> <p>There is ample free parking surrounding the building.</p> <p><b>Talk</b></p> <p><b><i>Quantified Mental Health Signals from Twitter</i><br/></b></p> <p>The ubiquity of social media provides a rich opportunity to enhance\u00a0the data available to mental health clinicians and researchers,\u00a0enabling a better-informed and better-equipped mental health field. We\u00a0present analysis of mental health phenomena in publicly available\u00a0Twitter data, demonstrating how rigorous application of simple natural\u00a0language processing methods can yield insight into specific disorders\u00a0as well as mental health writ large. What's more, we find evidence\u00a0that as-of-yet undiscovered linguistic signals relevant to mental\u00a0health exist in social media. We present a novel method for gathering\u00a0data for a range of mental illnesses quickly and cheaply, then focus\u00a0on analysis of four in particular: post-traumatic stress disorder(PTSD), depression, bipolar disorder, and seasonal affective disorder\u00a0(SAD). We also discuss a hackathon we recently hosted, and an in-progress\u00a0shared task using the data used from these\u00a0investigations.\u00a0We intend for these\u00a0proof-of-concept results, experiments, and explorations to inform the\u00a0necessary ethical discussion regarding the balance between the utility\u00a0of such data and the privacy of mental health related information.</p> <p><br/><b>Speaker</b></p> <p><a href=\"https://twitter.com/glencoppersmith\">Glen</a> is an independent consultant addressing a range of data science challenges -- currently working with the leadership of DARPA's XData program, an affiliate of the Data Guild, and as a part-time research scientist\u00a0at the Human Language Technology\u00a0Center of Excellence at Johns Hopkins University. He joined the HLTCOE in 2008 as the first full-time researcher, staying on full time there until the end of 2014.\u00a0He also maintains assistant research scientist positions within two departments at\u00a0Johns Hopkins: Applied Math and Statistics and Electrical and Computer\u00a0Engineering. His graduate work was at Northeastern University, using computational techniques to explore psychology problems (in linguistics, neuroscience, and clinical psychology). His work spans a number of disciplines: computer science,\u00a0graph theory, statistics, natural language processing, machine\u00a0learning, and psychology. He tends to shy away from curated and\u00a0cared-for datasets, instead preferring the wild-west of real world\u00a0data. He suspects this is in part due to his keen appreciation for the\u00a0outdoors -- an avid rock climber, kayaker, photographer, hiker, and\u00a0SCUBA diver. Glen can be reached on Twitter\u00a0<a href=\"https://twitter.com/glencoppersmith\">@glencoppersmith</a> and at\u00a0<a href=\"http://glencoppersmith.com/\">glencoppersmith.com</a>.</p> <p><br/><b>Company</b></p> <p><a href=\"http://thedataguild.com/\">The Data Guild</a> brings together deeply experienced data scientists, social scientists, designers and engineers with diverse backgrounds to tackle important challenges. The team has decades of experience from working with governments, nonprofits, non-government organizations, technology startups, and large multinational corporations. Members of the Guild have also built multiple successful technology companies.</p> <p><br/>The\u00a0<a href=\"http://hltcoe.jhu.edu/\">Human Language Technology Center of Excellence</a> was founded in\u00a0January of 2007 at Johns Hopkins University to focus on research in all aspects of speech and language technologies.\u00a0Doing research at the center is exciting; our mission is to explore highly innovative technologies that could have a significant impact on challenging real-world problems.\u00a0The center's research focuses on advanced technology for automatically analyzing a wide range of speech, text, and document data in multiple languages. Our research\u00a0addresses key issues in extracting information from massive sources of text and speech.</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/219477112/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "219477112", 
+            "maybe_rsvp_count": 0, 
+            "name": "Quantified Mental Health Signals from Twitter", 
+            "rsvp_limit": 150, 
+            "status": "upcoming", 
+            "time": 1421796600000, 
+            "updated": 1419872164000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "8890 McGaw Rd #130", 
+                "city": "Columbia", 
+                "country": "us", 
+                "id": 8581712, 
+                "lat": 39.189391999999998, 
+                "lon": -76.820137000000003, 
+                "name": "Loyola Columbia", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "21045"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1415119879000, 
