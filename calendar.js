@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1415829952000, 
@@ -364,7 +364,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1415119879000, 
@@ -392,7 +392,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1417124761000, 
@@ -433,6 +433,44 @@ calendar({
             "yes_rsvp_count": 33
         }, 
         {
+            "created": 1419913424000, 
+            "description": "<p>After last meetup's celebration of two great years of API gatherings, we're going into our third year strong! \u00a0No excuses - You'll have plenty of time to catch up after the holidays! \u00a0</p> <p>As always, interesting presentations will be matched with plenty of good pizza and drinks. \u00a0We've got a number of good ones that I think you'll like, so go ahead and mark those calendars now. \u00a0:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Robert Verderame,\u00a0TrueThreat<br/>* Tola Adewodu, Ade Labs<br/>* Anthea Watson, Google\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219490281/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "219490281", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - January Edition", 
+            "status": "upcoming", 
+            "time": 1421276400000, 
+            "updated": 1419913424000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1900 M Street, NW - 3rd floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 12283102, 
+                "lat": 38.905430000000003, 
+                "lon": -77.043746999999996, 
+                "name": "Chief", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 18
+        }, 
+        {
             "created": 1379643162000, 
             "description": "<p>With the diverse skills and interests of our group, let's explore how the experience in our backgrounds plays into our tech careers. Then, let's get practical and walk through how to launch a web app. For January, a tech founder will share the intersection of her subject matter expertise with tech, discussing how localization (fitting a site or piece of software to a culture, often including language) interacts with design and development. Then, one of our web dev members will show us the simple steps to deploy a web app.</p> <p><b>Terena Bell</b> is CEO of <a href=\"http://www.ineverylanguage.com/index.php\">In Every Language</a>. She sits on the White House Business Roundtable and writes a monthly column for <i>MultiLingual Magazine</i> on the impact of societal macroforces on the translation industry. Terena is former Secretary of the Globalization and Localization Association (GALA) and a former Association of Language Companies (ALC) board member. She tweets as <a href=\"https://twitter.com/InEveryLanguage\">@InEveryLanguage</a>.</p> <p>Say the word \"language\" in tech circles, and people think Python or Ruby. But what about Urdu or Arabic? Since both these--as well as many others--read right to left, not thinking about foreign language now can lead to user interface and other development problems down the road. And that's just the beginning. Not only should (foreign) language impact HOW you design, but WHAT you design as globalization creates the need for more and more multilingual and translation apps. From idea to execution, Terena Bell, CEO of In Every Language, shows you why foreign languages are just as essential to today's developer as coding languages are.</p> <p><b>Mandy Moore</b> is a Junior Developer at Mobility Labs and a recent graduate of General Assembly's Web Development Immersive program.\u00a0 In her talk she'll show you how you can share your projects with the world for free by deploying to Heroku using Git.\u00a0 Basic knowledge of Git, a free Heroku account and a small project to deploy will be helpful but not required.</p> <p>\n\n\n\nIf you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/", 
@@ -457,7 +495,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1415119879000, 
@@ -921,7 +959,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 

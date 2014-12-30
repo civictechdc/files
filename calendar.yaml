@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -394,7 +394,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -446,7 +446,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -482,6 +482,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 33
+- created: 1419913424000
+  description: "<p>After last meetup's celebration of two great years of API gatherings,\
+    \ we're going into our third year strong! \_No excuses - You'll have plenty of\
+    \ time to catch up after the holidays! \_</p> <p>As always, interesting presentations\
+    \ will be matched with plenty of good pizza and drinks. \_We've got a number of\
+    \ good ones that I think you'll like, so go ahead and mark those calendars now.\
+    \ \_:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\_<br/>6:40pm - 6:50pm\
+    \ Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p> <p>*\
+    \ Robert Verderame,\_TrueThreat<br/>* Tola Adewodu, Ade Labs<br/>* Anthea Watson,\
+    \ Google\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
+    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/219490281/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '219490281'
+  maybe_rsvp_count: 0
+  name: DC API User Group - January Edition
+  status: upcoming
+  time: 1421276400000
+  updated: 1419913424000
+  utc_offset: -18000000
+  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
+    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
+    repinned: false, state: DC, zip: '20036'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -528,7 +557,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -1033,7 +1062,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
