@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 534,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 545,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 59,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -69,10 +69,10 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 119986]
-  - [CSS, 11875]
+  - [Ruby, 126820]
+  - [CSS, 12066]
   - [Puppet, 5387]
-  - [CoffeeScript, 942]
+  - [CoffeeScript, 1153]
   - [JavaScript, 663]
   - [Shell, 118]
   main_language: Ruby
@@ -80,9 +80,9 @@
   open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-17T06:19:31Z'
-  size: 20677
-  updated_at: '2014-12-19T15:40:36Z'
+  pushed_at: '2014-12-31T01:20:40Z'
+  size: 20714
+  updated_at: '2014-12-31T01:20:42Z'
   watchers: 13
 - activity: [0, 13, 2, 7, 20, 5, 2, 10, 4, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2,
     5, 0, 0, 0, 6, 6, 0, 6, 3, 5, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6, 0, 2, 2, 5, 0, 1,
@@ -458,7 +458,7 @@
     0, 0, 0]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 281,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 297,
     link: 'https://github.com/LeeMendelowitz', name: LeeMendelowitz}
   contributors_count: 1
   created_at: '2013-08-19T20:26:43Z'
@@ -471,18 +471,18 @@
   html_url: https://github.com/LeeMendelowitz/DCMetroMetrics
   id: 12226830
   languages:
-  - [Python, 343500]
-  - [JavaScript, 97127]
-  - [CSS, 11567]
+  - [Python, 291559]
+  - [JavaScript, 105538]
+  - [CSS, 11852]
   - [Shell, 4387]
   main_language: Python
   name: Metro Metrics
   open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2014-12-10T20:46:06Z'
-  size: 10090
-  updated_at: '2014-12-22T16:23:58Z'
+  pushed_at: '2014-12-30T22:43:38Z'
+  size: 17236
+  updated_at: '2014-12-30T22:43:39Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
