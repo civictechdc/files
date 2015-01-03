@@ -300,11 +300,14 @@ other:
   name: January Meetup
   status: upcoming
   time: 1420673400000
-  updated: 1417881835000
+  updated: 1420246747000
   utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+    state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 35
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\"\
     >Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson\
@@ -349,7 +352,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 88
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
@@ -395,7 +398,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 106
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -482,7 +485,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -558,7 +561,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -711,7 +714,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 15
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -847,7 +850,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 58
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>

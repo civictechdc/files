@@ -279,11 +279,23 @@ calendar({
             "name": "January Meetup", 
             "status": "upcoming", 
             "time": 1420673400000, 
-            "updated": 1417881835000, 
+            "updated": 1420246747000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -323,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1413296467000, 
@@ -364,7 +376,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1415119879000, 
@@ -430,7 +442,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1419913424000, 
@@ -495,7 +507,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1415119879000, 
@@ -600,7 +612,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1415119879000, 
@@ -703,7 +715,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1417881835000, 
