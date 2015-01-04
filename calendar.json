@@ -256,11 +256,11 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p><b>Talk Synopsis</b></p> <p>Ryan Harvey is back to give us a dive into the JSON data format and PostgreSQL's features in the newly released version 9.4 to manipulate JSON formatted data. After an intro to the features of each, Ryan will show how to build a script that creates an analysis table directly from API calls.\u00a0</p> <p><b>Bio</b></p> <p>Ryan Harvey is a local coder, datahead, project manager, wonk and dad. For work, he manages several government web apps at the Office of Management and Budget, in addition to doing data science, software architecture and application and database engineering for Kitchology, Inc. on the side. He's also a former PhD candidate (all-but-dissertation) in the Applied Mathematics, Applied Statistics and Scientific Computing program at the University of Maryland's Norbert Wiener Center for Harmonic Analysis and Applications. Ryan lives in Lanham, MD, with his wife and two children and several pets.</p> <p><b>Schedule</b></p> <p>6:30pm: Empanadas and chit chat</p> <p>7:00pm: Intro</p> <p>7:10pm: Ryan talks awesome</p> <p>9:00pm: Data drinks at Tonic</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219112410/", 
             "group": {
@@ -274,12 +274,13 @@
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Follow the smell of the empanadas!", 
             "id": "hffzclytcbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "JSON Processing in the Database using PostgreSQL", 
             "status": "upcoming", 
             "time": 1420673400000, 
-            "updated": 1420246747000, 
+            "updated": 1420334196000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -295,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
@@ -335,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1413296467000, 
@@ -376,7 +377,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1420302373000, 
@@ -414,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1415119879000, 
@@ -545,7 +546,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1415119879000, 
@@ -753,7 +754,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1417881835000, 
@@ -780,7 +781,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -897,7 +898,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1417124897000, 
