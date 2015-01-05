@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1415829952000, 
@@ -296,11 +296,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\">Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson University, is buying the first round! The conference is looking for speakers on new, innovative technologies and approaches. Look for <a href=\"https://twitter.com/talllguy\">Elliot</a> to run your idea by him.</p> <p><br/>------</p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup:</p> <p><br/>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen, Public Software Development Lead at the National Geospatial-Intelligence Agency (NGA), will talk about why the NGA started developing code in the open via <a href=\"https://github.com/ngageoint\">Github</a> and the wins they're seeing from the collaborative approach.\u00a0</p> <p>\u2022 John Jediney, the Lead for the <a href=\"http://nepanode.anl.gov\">NEPAnode</a> project at the US Department of Energy \u00a0(DOE) will discuss how DOE uses and applies Open Source Geospatial software.\u00a0\u00a0You can check out all of the software used on their <a href=\"https://github.com/DOE-NEPA/\">Github</a> account and\u00a0view some <a href=\"https://www.youtube.com/channel/UCpgaQ7eH-HJZMkUcrAE-i4A\">videos</a> on their YouTube channel.</p> <p>\u2022 Micah Wengren, IT Specialist at the National Oceanic and Atmospheric Administration (NOAA), will talk about an open US Government Interagency effort to collaboratively use Geonode/CKAN.\u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
+            "description": "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\">Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson University, is buying the first round! The conference is looking for speakers on new, innovative technologies and approaches. Look for <a href=\"https://twitter.com/talllguy\">Elliot</a> to run your idea by him.</p> <p><br/>------</p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup:</p> <p><br/>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen, Public Software Development Lead at the National Geospatial-Intelligence Agency (NGA), will talk about why the NGA started developing code in the open via <a href=\"https://github.com/ngageoint\">Github</a> and the wins they're seeing from the collaborative approach.\u00a0</p> <p>\u2022 John Jediny, the Lead for the <a href=\"http://nepanode.anl.gov\">NEPAnode</a> project at the US Department of Energy \u00a0(DOE) will discuss how DOE uses and applies Open Source Geospatial software.\u00a0\u00a0You can check out all of the software used on their <a href=\"https://github.com/DOE-NEPA/\">Github</a> account and\u00a0view some <a href=\"https://www.youtube.com/channel/UCpgaQ7eH-HJZMkUcrAE-i4A\">videos</a> on their YouTube channel.</p> <p>\u2022 Micah Wengren, IT Specialist at the National Oceanic and Atmospheric Administration (NOAA), will talk about an open US Government Interagency effort to collaboratively use Geonode/CKAN.\u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/215042312/", 
             "group": {
                 "created": 1307975249000, 
@@ -319,7 +319,7 @@
             "name": "January GeoDC: Open source in Government", 
             "status": "upcoming", 
             "time": 1420675200000, 
-            "updated": 1420421843000, 
+            "updated": 1420471781000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -336,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1413296467000, 
@@ -377,7 +377,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1420302373000, 
@@ -415,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1415119879000, 
@@ -485,7 +485,7 @@
         }, 
         {
             "created": 1419913424000, 
-            "description": "<p>After last meetup's celebration of two great years of API gatherings, we're going into our third year strong! \u00a0No excuses - You'll have plenty of time to catch up after the holidays! \u00a0</p> <p>As always, interesting presentations will be matched with plenty of good pizza and drinks. \u00a0We've got a number of good ones that I think you'll like, so go ahead and mark those calendars now. \u00a0:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Robert Verderame,\u00a0TrueThreat<br/>* Tola Adewodu, Ade Labs<br/>* Anthea Watson, Google\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>After last meetup's celebration of two great years of API gatherings, we're going into our third year strong! \u00a0No excuses - You'll have plenty of time to catch up after the holidays! \u00a0</p> <p>As always, interesting presentations will be matched with plenty of good pizza and drinks. \u00a0We've got a number of good ones that I think you'll like, so go ahead and mark those calendars now. \u00a0:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Robert Verderame,\u00a0TrueThreat<br/>* Alexandra Figueroa, Census Bureau<br/>* Tola Adewodu, Ade Labs<br/>* Anthea Watson, Google\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219490281/", 
             "group": {
                 "created": 1347647025000, 
@@ -503,7 +503,7 @@
             "name": "DC API User Group - January Edition", 
             "status": "upcoming", 
             "time": 1421276400000, 
-            "updated": 1419913424000, 
+            "updated": 1420479729000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1900 M Street, NW - 3rd floor", 
@@ -519,7 +519,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1379643162000, 
@@ -538,11 +538,11 @@
             "headcount": 0, 
             "id": "qkxmtgytcbtb", 
             "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "name": "Localization Guiding Development, and Deploying with Heroku", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1421364600000, 
-            "updated": 1415318468000, 
+            "updated": 1420466417000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -575,6 +575,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1420474746000, 
+            "description": "<p>It's here - our first event out in Tyson's Corner!! We are incredibly excited to have the event out here with <b><a href=\"http://www.alarm.com/\">Alarm.com</a></b> - please share the details with anyone that you know out in the NoVA region!</p> <p>---------------------------------------</p> <p>Have you set a new years resolution to learn to code, but don't know where to start? \u00a0Do you have an idea for a web application or an app, but aren't sure what the best platform is to build it in? Or do you simply want to learn what the differences are between Python, Ruby, \u00a0HTML,\u00a0Java, Javascript, and the seemingly endless number of terms you hear when people talk about technology?</p> <p>This meetup will introduce you to a lot of the common terms that developers often forget can be so confusing when you first start out. We will be starting from the ground up to explain what languages are useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners to help determine what coding \"path\" you want to start out with. It is also be very useful for a developer that wants to expand\u00a0her\u00a0high-level understanding of new languages!</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219616597/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "219616597", 
+            "maybe_rsvp_count": 0, 
+            "name": "The Language of Langauges", 
+            "rsvp_limit": 80, 
+            "status": "upcoming", 
+            "time": 1421796600000, 
+            "updated": 1420474746000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1861 International Drive Suite 270", 
+                "city": "Tyson's Corner ", 
+                "country": "us", 
+                "id": 21931942, 
+                "lat": 38.915900999999998, 
+                "lon": -77.225380000000001, 
+                "name": "Alarm.com - Annex ", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1418772287000, 
@@ -651,7 +689,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1415119879000, 
@@ -716,7 +754,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1413740084000, 
@@ -754,7 +792,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1417881835000, 
