@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1415829952000, 
@@ -256,7 +256,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1417881835000, 
@@ -296,11 +296,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\">Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson University, is buying the first round! The conference is looking for speakers on new, innovative technologies and approaches. Look for <a href=\"https://twitter.com/talllguy\">Elliot</a> to run your idea by him.</p> <p><br/>------</p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup so far - expect this to grow in the coming days.\u00a0</p> <p><br/>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen, Public Software Development Lead at the National Geospatial-Intelligence Agency (NGA), will talk about why the NGA started developing code in the open via Github and the wins they're seeing from the collaborative approach.\u00a0</p> <p>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
+            "description": "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\">Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson University, is buying the first round! The conference is looking for speakers on new, innovative technologies and approaches. Look for <a href=\"https://twitter.com/talllguy\">Elliot</a> to run your idea by him.</p> <p><br/>------</p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup:</p> <p><br/>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen, Public Software Development Lead at the National Geospatial-Intelligence Agency (NGA), will talk about why the NGA started developing code in the open via <a href=\"https://github.com/ngageoint\">Github</a> and the wins they're seeing from the collaborative approach.\u00a0</p> <p>\u2022 John Jediney, the Lead for the <a href=\"http://nepanode.anl.gov\">NEPAnode</a> project at the US Department of Energy \u00a0(DOE) will discuss how DOE uses and applies Open Source Geospatial software.\u00a0\u00a0You can check out all of the software used on their <a href=\"https://github.com/DOE-NEPA/\">Github</a> account and\u00a0view some <a href=\"https://www.youtube.com/channel/UCpgaQ7eH-HJZMkUcrAE-i4A\">videos</a> on their YouTube channel.</p> <p>\u2022 Micah Wengren, IT Specialist at the National Oceanic and Atmospheric Administration (NOAA), will talk about an open US Government Interagency effort to collaboratively use Geonode/CKAN.\u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/215042312/", 
             "group": {
                 "created": 1307975249000, 
@@ -319,7 +319,7 @@ calendar({
             "name": "January GeoDC: Open source in Government", 
             "status": "upcoming", 
             "time": 1420675200000, 
-            "updated": 1419962795000, 
+            "updated": 1420421843000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -336,7 +336,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1413296467000, 
@@ -377,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1420302373000, 
@@ -415,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1415119879000, 
@@ -443,7 +443,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1417124761000, 
@@ -546,7 +546,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1415119879000, 
@@ -651,7 +651,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1415119879000, 
@@ -754,7 +754,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1417881835000, 
@@ -781,7 +781,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -1037,7 +1037,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1131,7 +1131,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1225,7 +1225,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1319,7 +1319,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
