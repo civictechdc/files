@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 78
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -285,7 +285,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1417881835000
   description: "<p><b>Talk Synopsis</b></p> <p>Ryan Harvey is back to give us a dive\
     \ into the JSON data format and PostgreSQL's features in the newly released version\
@@ -320,7 +320,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\"\
     >Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson\
@@ -373,7 +373,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 108
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
@@ -419,7 +419,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 126
+  yes_rsvp_count: 130
 - created: 1420302373000
   description: "<p>Kick off the new year right with Digital Resolution, a women in\
     \ tech party. \_Whether you're new to tech or an expert, come meet women from\
@@ -450,7 +450,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 57
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -502,7 +502,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -567,7 +567,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -614,7 +614,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 25
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -691,18 +691,18 @@ other:
   headcount: 0
   id: '219616597'
   maybe_rsvp_count: 0
-  name: The Language of Langauges
+  name: The Language of Languages
   rsvp_limit: 80
   status: upcoming
   time: 1421796600000
-  updated: 1420474746000
+  updated: 1420492809000
   utc_offset: -18000000
-  venue: {address_1: 1861 International Drive Suite 270, city: 'Tyson''s Corner ',
-    country: us, id: 21931942, lat: 38.915900999999998, lon: -77.225380000000001,
-    name: 'Alarm.com - Annex ', repinned: false, state: VA}
+  venue: {address_1: '8150 Leesburg Pike, Suite 1400', city: Vienna, country: us,
+    id: 23554646, lat: 38.916058, lon: -77.227074000000002, name: Alarm.com, repinned: false,
+    state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 10
 - created: 1418772287000
   description: '<p>RSVP to receive a notification when registration officially opens
     and receive a code for free entry.</p> <p>Note: The date and location are confirmed.
@@ -876,7 +876,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -939,7 +939,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
