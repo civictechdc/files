@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1326383071000, 
@@ -308,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1413296467000, 
@@ -349,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 135
         }, 
         {
             "created": 1420302373000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1415119879000, 
@@ -415,7 +415,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1417124761000, 
@@ -491,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1379643162000, 
@@ -584,11 +584,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1418772287000, 
-            "description": "<p>RSVP to receive a notification when registration officially opens and receive a code for free entry.</p> <p>Note: The date and location are confirmed. We are waiting for a final speaker and sponsor information. The description will be updated by 12/19.</p> <p><b>DESCRIPTION</b></p> <p><br/>Discussion on selecting Web Content Management Systems.</p> <p><b>SPEAKERS</b></p> <p>Tony Byrne, Real Story Group</p> <p>Bret Peters, Figleaf Software</p>", 
+            "description": "<p><b>DESCRIPTION</b>\u00a0</p> <p><br/>Web Mavens! Join us as we discuss the core of all websites - the content management system!!\u00a0</p> <p>We will learn from Tony Byrne, founder of Real Story Group, friend of the Mavens and a storied expert on CMS selection and evaluation, as he tells us about the smart way to select a web CMS.\u00a0</p> <p>We will hear from Bret Peters of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>Then Alexandra Chaikin of NeighborWorks America will share her experiences with a recent CMS selection and implementation, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS</b></p> <p><br/>Tony Byrne, Real Story Group</p> <p>Bret Peters, Figleaf Software</p> <p>Alex Chaikin, NeighborWorks America</p> <p><b>COST</b></p> <p>Free for web manager, IT managers or others involved in CMS selection. Just register with your organization/company name (or email [masked] with that info). \u00a0</p> <p>Recruiters, consultants, students, etc - you can receive free entry by volunteering.</p> <p><b>SPONSOR</b></p> <p><b>Figleaf Software</b><br/>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today.\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
             "group": {
                 "created": 1189804715000, 
@@ -606,7 +606,7 @@ calendar({
             "name": "Selecting and Planning a Web CMS", 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1418796228000, 
+            "updated": 1420568837000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -661,7 +661,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1415119879000, 
@@ -764,7 +764,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1417881835000, 
