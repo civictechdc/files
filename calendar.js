@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1415829952000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1415829988000, 
@@ -231,34 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1415119879000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219062943/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "dlqpblytcbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1420500600000, 
-            "updated": 1415119879000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 38
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><b>Talk Synopsis</b></p> <p>Ryan Harvey is back to give us a dive into the JSON data format and PostgreSQL's features in the newly released version 9.4 to manipulate JSON formatted data. After an intro to the features of each, Ryan will show how to build a script that creates an analysis table directly from API calls.\u00a0</p> <p><b>Bio</b></p> <p>Ryan Harvey is a local coder, datahead, project manager, wonk and dad. For work, he manages several government web apps at the Office of Management and Budget, in addition to doing data science, software architecture and application and database engineering for Kitchology, Inc. on the side. He's also a former PhD candidate (all-but-dissertation) in the Applied Mathematics, Applied Statistics and Scientific Computing program at the University of Maryland's Norbert Wiener Center for Harmonic Analysis and Applications. Ryan lives in Lanham, MD, with his wife and two children and several pets.</p> <p><b>Schedule</b></p> <p>6:30pm: Empanadas and chit chat</p> <p>7:00pm: Intro</p> <p>7:10pm: Ryan talks awesome</p> <p>9:00pm: Data drinks at Tonic</p>", 
             "duration": 9000000, 
@@ -296,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1326383071000, 
@@ -336,11 +308,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.</p> <p><br/>\u2022\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.</p> <p><br/>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.</p> <p>Do you have an auto-centric app or data viz? Sign up to present by contacting <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.\u00a0</p> <p>\u2022\u00a0James Bain of\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.\u00a0</p> <p>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -361,7 +333,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1419446399000, 
+            "updated": 1420511800000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1101 Wilson Blvd.", 
@@ -377,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 131
         }, 
         {
             "created": 1420302373000, 
@@ -415,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1415119879000, 
@@ -443,7 +415,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1417124761000, 
@@ -481,7 +453,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1419913424000, 
@@ -519,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1379643162000, 
@@ -546,7 +518,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1415119879000, 
@@ -612,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1418772287000, 
@@ -754,7 +726,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1413740084000, 
@@ -792,7 +764,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1417881835000, 
@@ -896,7 +868,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1416852247000, 
@@ -1986,6 +1958,73 @@ calendar({
             "time": 1450395000000, 
             "updated": 1383661832000, 
             "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvcbjb/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvcbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "January Meetup", 
+            "status": "upcoming", 
+            "time": 1452123000000, 
+            "updated": 1417881835000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvcbjb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcyvcbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1452124800000, 
+            "updated": 1326383071000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1610 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 794012, 
+                "lat": 38.916775999999999, 
+                "lon": -77.037339000000003, 
+                "name": "Stetson's Famous Bar & Restaurant", 
+                "phone": "(202) 667-6295", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
