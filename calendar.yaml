@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -268,7 +268,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 81
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\"\
     >Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson\
@@ -321,15 +321,16 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 120
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
-    \ <p>This month we are meeting in <a href=\"http://www.artisphere.com/\">Artisphere</a>.\
-    \ Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\_\
-    </p> <p><br/>\u2022\_Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\"\
-    >CATT Lab</a>\_will present \"Real-World Problems, Real-World Solutions,\" talking\
-    \ about probe vehicle data analytics, and showing us the Regional Integrated Transportation\
-    \ Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
+    \ <p>We are meeting in\_<a href=\"http://www.artisphere.com/\">Artisphere</a>'s\
+    \ Dome Theatre,\_thanks to our sponsor\_<a href=\"http://www.arlingtonvirginiausa.com/\"\
+    >Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks,\
+    \ and presentations start at 6:30.\_</p> <p><br/>\u2022\_Nikola Ivanov of <a href=\"\
+    http://www.cattlab.umd.edu/\">CATT Lab</a>\_will present \"Real-World Problems,\
+    \ Real-World Solutions,\" talking about probe vehicle data analytics, and showing\
+    \ us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
     >RITIS</a>).</p> <p>\u2022\_Van Standifer will show us <a href=\"http://flexspot.co/\"\
     >Flexspot</a>, an app he developed in Georgetown University to create a market\
     \ for private parking spaces.\_</p> <p>\u2022\_James Bain of\_<a href=\"https://www.parkingpanda.com/\"\
@@ -358,14 +359,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1420511800000
+  updated: 1420572352000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 135
+  yes_rsvp_count: 134
 - created: 1420302373000
   description: "<p>Kick off the new year right with Digital Resolution, a women in\
     \ tech party. \_Whether you're new to tech or an expert, come meet women from\
@@ -396,7 +397,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 71
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -448,7 +449,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -513,7 +514,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -648,32 +649,44 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1418772287000
-  description: "<p><b>DESCRIPTION</b>\_</p> <p><br/>Web Mavens! Join us as we discuss\
-    \ the core of all websites - the content management system!!\_</p> <p>We will\
-    \ learn from Tony Byrne, founder of Real Story Group, friend of the Mavens and\
-    \ a storied expert on CMS selection and evaluation, as he tells us about the smart\
-    \ way to select a web CMS.\_</p> <p>We will hear from Bret Peters of Figleaf Software\
-    \ who will share the tips, tricks and insights on CMs selection and planning that\
-    \ he's learned over his years as a website integrator.\_</p> <p>Then Alexandra\
-    \ Chaikin of NeighborWorks America will share her experiences with a recent CMS\
-    \ selection and implementation, including internal politics and process, getting\
-    \ buy-in and handling hiccups.</p> <p><b>SPEAKERS</b></p> <p><br/>Tony Byrne,\
-    \ Real Story Group</p> <p>Bret Peters, Figleaf Software</p> <p>Alex Chaikin, NeighborWorks\
-    \ America</p> <p><b>COST</b></p> <p>Free for web manager, IT managers or others\
-    \ involved in CMS selection. Just register with your organization/company name\
-    \ (or email [masked] with that info). \_</p> <p>Recruiters, consultants, students,\
-    \ etc - you can receive free entry by volunteering.</p> <p><b>SPONSOR</b></p>\
-    \ <p><b>Figleaf Software</b><br/>\u201CWe\u2019ve Got You Covered\u201D\u2026\
-    \ Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned\
-    \ Small Business. For over 20 years, we\u2019ve helped a diverse range of clients\
-    \ with needs across the entire spectrum of web-related services, including design,\
-    \ marketing and content strategies, custom software development, product licensing\
-    \ and personalized training. Please visit\_<a href=\"http://www.figleaf.com/\"\
-    >www.figleaf.com</a>\_or call\_&lt;a&gt;[masked]&lt;/a&gt;\_to speak directly\
-    \ with a consultant today.\_</p>"
+  description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
+    \ core of all websites - the content management system.</p> <p>We will learn from\_\
+    <b>Tony Byrne</b>\_as he tells us about options in the web CMS ecosystem, important\
+    \ steps in the planning process and tips for selecting system that's right for\
+    \ you.</p> <p>Tony is the\_founder of Real Story Group, a company that specializes\
+    \ in technology selection. He is a friend of the Mavens and a storied expert on\
+    \ CMS selection and evaluation.\_</p> <p>We will also hear from\_<b>Bret Peters</b>\_\
+    of Figleaf Software who will share the tips, tricks and insights on CMs selection\
+    \ and planning that he's learned over his years as a website integrator.\_</p>\
+    \ <p>And then\_<b>Alexandra Chaikin</b>\_of NeighborWorks America will share her\
+    \ experiences with a recent CMS selection project, including internal politics\
+    \ and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\_</b></p>\
+    \ <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p>\
+    \ <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This\
+    \ event is geared towards those who work for companies or organizations that are\
+    \ evaluating new web CMS options. If that describes you, the event is\_<i><b>free</b></i>.\
+    \ Just register with your name and org/company.</p> <p>If that doesn't describe\
+    \ you - let's say you help others with websites, work for a consulting firm or\
+    \ just want to learn - you are still very welcome. But we ask that you either\
+    \ pay or volunteer.\_</p> <p>Volunteering is usually about 20-30 minutes. To volunteer,\
+    \ just email [masked] or use the Contact Organizer link.\_</p> <p>We'll have food\
+    \ and beverages (adult and otherwise).</p> <p><b>AGENDA</b></p> <p>6:30 - Networking,\
+    \ drinks &amp; food\_<br/>7:00 - Presentations\_<br/>8:30 - More networking\_\
+    <br/>9:00 - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\_</b></p>\
+    \ <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\"\
+    \ /></p> <p>\u201CWe\u2019ve Got You Covered\u201D\u2026 Located in the heart\
+    \ of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business.\
+    \ For over 20 years, we\u2019ve helped a diverse range of clients with needs across\
+    \ the entire spectrum of web-related services, including design, marketing and\
+    \ content strategies, custom software development, product licensing and personalized\
+    \ training. Please visit\_<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\_\
+    or call\_&lt;a&gt;[masked]&lt;/a&gt;\_to speak directly with a consultant today.\
+    \ \_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/219283437/
+  fee: {accepts: paypal, amount: 10, currency: USD, description: Free for many - see
+      below, label: Price, required: '0'}
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
@@ -683,14 +696,14 @@ other:
   name: Selecting and Planning a Web CMS
   status: upcoming
   time: 1421796600000
-  updated: 1420568837000
+  updated: 1420577638000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 20
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -766,7 +779,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -820,8 +833,8 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1418909957000
-  description: <p>RSVP to receive a notification when registration officially opens
-    and receive a code for free entry.</p> <p>Event description available soon.</p>
+  description: <p>This event is still draft. RSVP to receive a notification when registration
+    officially opens.</p> <p>Event description available soon.</p>
   event_url: http://www.meetup.com/webcontentmavens/events/219312247/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -832,14 +845,14 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1422401400000
-  updated: 1418909957000
+  updated: 1420589255000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -902,7 +915,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 71
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -945,12 +958,12 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1418679019000
-  description: "<p>RSVP to receive a notification when registration officially opens\
-    \ and to receive a code for free entry.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A\
-    \ discussion of the changing roles in web, design and marketing.\_</p> <p>Traditional\
-    \ roles in marketing and design are now heavily impacted by trends in digital\
-    \ including web, mobile and social. On the other side, web managers are increasingly\
-    \ working with marketing and design as that role extends beyond just running websites.</p>\
+  description: "<p>This event is still draft. RSVP to receive a notification when\
+    \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
+    \ of the changing roles in web, design and marketing.\_</p> <p>Traditional roles\
+    \ in marketing and design are now heavily impacted by trends in digital including\
+    \ web, mobile and social. On the other side, web managers are increasingly working\
+    \ with marketing and design as that role extends beyond just running websites.</p>\
     \ <p>And specialist roles such as information architect, user experience designer,\
     \ digital marketer and social media manager are changing the nature of more established\
     \ roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to\
@@ -984,14 +997,14 @@ other:
   name: Changing Roles in Web, Design and Marketing
   status: upcoming
   time: 1423611000000
-  updated: 1418840238000
+  updated: 1420589223000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -1076,7 +1089,7 @@ other:
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
     Leibtag, Aha Media Group</p>
   event_url: http://www.meetup.com/webcontentmavens/events/219264031/
-  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/5),
+  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/15),
     label: Earlybird, required: '0'}
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1087,14 +1100,14 @@ other:
   name: Marketing and Communications across Web, Mobile & Social
   status: upcoming
   time: 1424304000000
-  updated: 1418840194000
+  updated: 1420589323000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 17
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -1159,7 +1172,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
