@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1415829952000, 
@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1326383071000, 
@@ -308,11 +308,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>We are meeting in\u00a0<a href=\"http://www.artisphere.com/\">Artisphere</a>'s Dome Theatre,\u00a0thanks to our sponsor\u00a0<a href=\"http://www.arlingtonvirginiausa.com/\">Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).</p> <p>\u2022\u00a0Van Standifer will show us <a href=\"http://flexspot.co/\">Flexspot</a>, an app he developed in Georgetown University to create a market for private parking spaces.\u00a0</p> <p>\u2022\u00a0James Bain of\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.\u00a0</p> <p>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>We are meeting in\u00a0<a href=\"http://www.artisphere.com/\">Artisphere</a>'s Dome Theatre,\u00a0thanks to our sponsor\u00a0<a href=\"http://www.arlingtonvirginiausa.com/\">Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).\u00a0</p> <p>\u2022\u00a0James Bain of\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.\u00a0</p> <p>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
             "group": {
@@ -333,7 +333,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1420758000000, 
-            "updated": 1420572352000, 
+            "updated": 1420649229000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1101 Wilson Blvd.", 
@@ -349,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1420302373000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1415119879000, 
@@ -415,7 +415,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1417124761000, 
@@ -453,7 +453,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1419913424000, 
@@ -518,7 +518,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1415119879000, 
@@ -584,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1418772287000, 
@@ -594,7 +594,7 @@ calendar({
                 "accepts": "paypal", 
                 "amount": 10, 
                 "currency": "USD", 
-                "description": "Free for many - see below", 
+                "description": "FREE for many - see below", 
                 "label": "Price", 
                 "required": "0"
             }, 
@@ -614,7 +614,7 @@ calendar({
             "name": "Selecting and Planning a Web CMS", 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1420612981000, 
+            "updated": 1420650834000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -629,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1419871773000, 
@@ -669,7 +669,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1415119879000, 
@@ -701,7 +701,7 @@ calendar({
         }, 
         {
             "created": 1418909957000, 
-            "description": "<p>This event is still draft. RSVP with an email address to receive a notification when registration officially opens.\u00a0</p> <p><b>DESCRIPTION</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p>Duane Degler of Design for Context will share his extensive background as a user experience consultant and talk about:<br/>* recognizing good UX<br/>* understanding UX priorities on your site<br/>* ways to integrate UX into your website's evolution and maintenance and<br/>* changes and trends in UX that may impact your website in the future.\u00a0</p> <p>Our next speakers haven't been confirmed - we'll have an update soon!</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b> <b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
+            "description": "<p>This event is still draft. RSVP with an email address to receive a notification when registration officially opens.\u00a0</p> <p><b>DESCRIPTION</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p>Duane Degler of Design for Context brings an extensive knowledge as a user experience consultant and will talk about:<br/>* recognizing good UX<br/>* understanding UX priorities on your site<br/>* ways to integrate UX into your website's evolution and maintenance and<br/>* changes and trends in UX that may impact your website in the future.\u00a0</p> <p>Our next speakers haven't been confirmed - we'll have an update soon!</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
             "group": {
                 "created": 1189804715000, 
@@ -719,7 +719,7 @@ calendar({
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1422401400000, 
-            "updated": 1420613727000, 
+            "updated": 1420651644000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -734,7 +734,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1413740084000, 
@@ -772,7 +772,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1417881835000, 
@@ -876,7 +876,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1416852247000, 
@@ -916,7 +916,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1417124897000, 

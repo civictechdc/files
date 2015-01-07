@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 82
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -268,7 +268,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 88
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\"\
     >Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson\
@@ -321,7 +321,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 123
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>We are meeting in\_<a href=\"http://www.artisphere.com/\">Artisphere</a>'s\
@@ -331,9 +331,7 @@ other:
     http://www.cattlab.umd.edu/\">CATT Lab</a>\_will present \"Real-World Problems,\
     \ Real-World Solutions,\" talking about probe vehicle data analytics, and showing\
     \ us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
-    >RITIS</a>).</p> <p>\u2022\_Van Standifer will show us <a href=\"http://flexspot.co/\"\
-    >Flexspot</a>, an app he developed in Georgetown University to create a market\
-    \ for private parking spaces.\_</p> <p>\u2022\_James Bain of\_<a href=\"https://www.parkingpanda.com/\"\
+    >RITIS</a>).\_</p> <p>\u2022\_James Bain of\_<a href=\"https://www.parkingpanda.com/\"\
     >ParkingPanda</a> will talk about their app that lets drivers\_reserve parking\
     \ in advance.\_</p> <p>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
     >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
@@ -359,14 +357,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1420758000000
-  updated: 1420572352000
+  updated: 1420649229000
   utc_offset: -18000000
   venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
     lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 135
+  yes_rsvp_count: 133
 - created: 1420302373000
   description: "<p>Kick off the new year right with Digital Resolution, a women in\
     \ tech party. \_Whether you're new to tech or an expert, come meet women from\
@@ -397,7 +395,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 77
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -449,7 +447,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 34
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -484,7 +482,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -561,7 +559,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -649,7 +647,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -683,7 +681,7 @@ other:
     or call\_&lt;a&gt;[masked]&lt;/a&gt;\_to speak directly with a consultant today.\
     \ \_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/219283437/
-  fee: {accepts: paypal, amount: 10, currency: USD, description: Free for many - see
+  fee: {accepts: paypal, amount: 10, currency: USD, description: FREE for many - see
       below, label: Price, required: '0'}
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -694,14 +692,14 @@ other:
   name: Selecting and Planning a Web CMS
   status: upcoming
   time: 1421796600000
-  updated: 1420612981000
+  updated: 1420650834000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 24
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -777,7 +775,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 30
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -836,9 +834,9 @@ other:
     \ <p>Have you seen those beautiful websites that you can't use? Or the super-cool\
     \ ones that make it hard to actually accomplish your tasks?\_Don't be like that!\
     \ Join our all-star panel to learn about website user experience.\_</p> <p>Duane\
-    \ Degler of Design for Context will share his extensive background as a user experience\
-    \ consultant and talk about:<br/>* recognizing good UX<br/>* understanding UX\
-    \ priorities on your site<br/>* ways to integrate UX into your website's evolution\
+    \ Degler of Design for Context brings an extensive knowledge as a user experience\
+    \ consultant and will talk about:<br/>* recognizing good UX<br/>* understanding\
+    \ UX priorities on your site<br/>* ways to integrate UX into your website's evolution\
     \ and maintenance and<br/>* changes and trends in UX that may impact your website\
     \ in the future.\_</p> <p>Our next speakers haven't been confirmed - we'll have\
     \ an update soon!</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on\
@@ -846,8 +844,8 @@ other:
     \ marketing staff and many others will find the information useful.</p> <p><b>AGENDA</b></p>\
     \ <p>6:30 - Networking, drinks &amp; food\_<br/>7:00 - Presentations\_<br/>8:30\
     \ - More networking\_<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages\
-    \ (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b> <b>Design for Context</b></p>\
-    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\"\
+    \ (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Design for\
+    \ Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\"\
     \ /></p> <p>Experts in user experience and user-centered design, Design for Context\
     \ works with clients and their users to design web applications, software, and\
     \ web sites that are easy to use and understand. We design effective, simple solutions\
@@ -863,14 +861,14 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1422401400000
-  updated: 1420613727000
+  updated: 1420651644000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -933,7 +931,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1022,7 +1020,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -1066,7 +1064,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
