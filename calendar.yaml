@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 86
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -268,7 +268,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 87
 - created: 1326383071000
   description: "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\"\
     >Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson\
@@ -321,7 +321,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 123
+  yes_rsvp_count: 122
 - created: 1413296467000
   description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
     \ <p>We are meeting in\_<a href=\"http://www.artisphere.com/\">Artisphere</a>'s\
@@ -364,7 +364,7 @@ other:
     state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 136
 - created: 1420302373000
   description: "<p>Kick off the new year right with Digital Resolution, a women in\
     \ tech party. \_Whether you're new to tech or an expert, come meet women from\
@@ -395,7 +395,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 79
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -447,7 +447,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -482,7 +482,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -559,7 +559,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -647,7 +647,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -699,7 +699,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -931,7 +931,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 77
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1013,14 +1013,14 @@ other:
   name: Changing Roles in Web, Design and Marketing
   status: upcoming
   time: 1423611000000
-  updated: 1420589223000
+  updated: 1420679761000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -1028,8 +1028,11 @@ other:
     </p> <p>\u2022\_<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\_\
     will share visualizations he made for\_the\_<a href=\"http://planitmetro.com/\"\
     >PlanItMetro blog</a>\_and talk about the\_<a href=\"http://mpp.wmata.com/\">Metro\
-    \ Payment Pilot</a>.</p> <p>\u2022\_<a href=\"https://twitter.com/tracktwentynine\"\
-    >Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
+    \ Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin\
+    \ Antos</a> will share some of his own visualizatios he has made for the\_<a href=\"\
+    http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\_<a href=\"\
+    https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"\
+    http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
     >interactive Metro map</a> of station\_architectures.</p> <p><br/>\u2022\_<a href=\"\
     https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that\
     \ tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022\
@@ -1057,14 +1060,14 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1423782000000
-  updated: 1418317207000
+  updated: 1420663386000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1105,7 +1108,7 @@ other:
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
     Leibtag, Aha Media Group</p>
   event_url: http://www.meetup.com/webcontentmavens/events/219264031/
-  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/15),
+  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/16),
     label: Earlybird, required: '0'}
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1116,14 +1119,14 @@ other:
   name: Marketing and Communications across Web, Mobile & Social
   status: upcoming
   time: 1424304000000
-  updated: 1420589323000
+  updated: 1420679729000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You

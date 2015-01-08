@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1415829952000, 
@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1326383071000, 
@@ -308,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1413296467000, 
@@ -349,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1420302373000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1415119879000, 
@@ -415,7 +415,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1417124761000, 
@@ -453,7 +453,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1419913424000, 
@@ -518,7 +518,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1415119879000, 
@@ -584,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1418772287000, 
@@ -629,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1419871773000, 
@@ -772,7 +772,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1417881835000, 
@@ -861,7 +861,7 @@ calendar({
             "name": "Changing Roles in Web, Design and Marketing", 
             "status": "upcoming", 
             "time": 1423611000000, 
-            "updated": 1420589223000, 
+            "updated": 1420679761000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -876,11 +876,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1416852247000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for\u00a0the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a> will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for\u00a0the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizatios he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a> will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -900,7 +900,7 @@ calendar({
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1418317207000, 
+            "updated": 1420663386000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -916,7 +916,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1417124897000, 
@@ -964,7 +964,7 @@ calendar({
                 "accepts": "paypal", 
                 "amount": 10, 
                 "currency": "USD", 
-                "description": "($20 after 1/15)", 
+                "description": "($20 after 1/16)", 
                 "label": "Earlybird", 
                 "required": "0"
             }, 
@@ -984,7 +984,7 @@ calendar({
             "name": "Marketing and Communications across Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1420589323000, 
+            "updated": 1420679729000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 
@@ -1001,7 +1001,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1379643162000, 
