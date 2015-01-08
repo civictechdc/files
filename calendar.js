@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1415829952000, 
@@ -269,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1420302373000, 
@@ -307,11 +307,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1415119879000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>JavaScript is Sexy</p> <p><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"https://www.bento.io/\"><a href=\"https://www.bento.io/\" class=\"linkified\">https://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219270834/", 
             "group": {
@@ -331,7 +331,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1421105400000, 
-            "updated": 1419011946000, 
+            "updated": 1420734121000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1419913424000, 
@@ -411,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1379643162000, 
@@ -504,7 +504,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1418772287000, 
@@ -549,7 +549,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1419871773000, 
@@ -589,7 +589,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1415119879000, 
@@ -621,7 +621,7 @@ calendar({
         }, 
         {
             "created": 1418909957000, 
-            "description": "<p><b>Register on\u00a0<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p> <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>A community focused on the leading edge of mobile dev, design &amp; UX. <a href=\"http://www.modevux.com\">www.modevux.com</a></p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
+            "description": "<p><b>Register on\u00a0<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p> <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>A community focused on the leading edge of mobile development, design &amp; UX. <a href=\"http://www.modevux.com\">www.modevux.com</a></p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
             "group": {
                 "created": 1189804715000, 
@@ -639,7 +639,7 @@ calendar({
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1422401400000, 
-            "updated": 1420695387000, 
+            "updated": 1420735185000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -654,7 +654,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1413740084000, 
@@ -692,11 +692,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical Data Format (<a href=\"http://en.wikipedia.org/wiki/Hierarchical_Data_Format\">HDF</a>) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of numerical data.</p> <p><b>Agenda</b></p> <p>6:30pm - Empanadas</p> <p>7:00pm - Introductions &amp; Announcement</p> <p>7:15pm - Talk</p> <p>8:30pm - Head to Tonic for drinks</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100055/", 
             "group": {
@@ -712,14 +712,26 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytdbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "February Meetup", 
+            "name": "Working with HDF Files", 
             "status": "upcoming", 
             "time": 1423092600000, 
-            "updated": 1417881902000, 
+            "updated": 1420740895000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -759,7 +771,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1418679019000, 
@@ -796,7 +808,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1416852247000, 
@@ -836,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1417124897000, 
@@ -921,7 +933,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1379643162000, 
@@ -971,8 +983,20 @@ calendar({
             "name": "March Meetup", 
             "status": "upcoming", 
             "time": 1425511800000, 
-            "updated": 1417881918000, 
+            "updated": 1420728552000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1065,8 +1089,20 @@ calendar({
             "name": "April Meetup", 
             "status": "upcoming", 
             "time": 1427927400000, 
-            "updated": 1417881926000, 
+            "updated": 1420728560000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1159,8 +1195,20 @@ calendar({
             "name": "May Meetup", 
             "status": "upcoming", 
             "time": 1430951400000, 
-            "updated": 1417881933000, 
+            "updated": 1420728567000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1253,8 +1301,20 @@ calendar({
             "name": "June Meetup", 
             "status": "upcoming", 
             "time": 1433370600000, 
-            "updated": 1417881941000, 
+            "updated": 1420728575000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1347,8 +1407,20 @@ calendar({
             "name": "July Meetup", 
             "status": "upcoming", 
             "time": 1435789800000, 
-            "updated": 1417881948000, 
+            "updated": 1420728587000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1441,8 +1513,20 @@ calendar({
             "name": "August Meetup", 
             "status": "upcoming", 
             "time": 1438813800000, 
-            "updated": 1417881954000, 
+            "updated": 1420728598000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
