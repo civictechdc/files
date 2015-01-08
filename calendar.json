@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1415829952000, 
@@ -231,86 +231,6 @@
     ], 
     "other": [
         {
-            "created": 1417881835000, 
-            "description": "<p><b>Talk Synopsis</b></p> <p>Ryan Harvey is back to give us a dive into the JSON data format and PostgreSQL's features in the newly released version 9.4 to manipulate JSON formatted data. After an intro to the features of each, Ryan will show how to build a script that creates an analysis table directly from API calls.\u00a0</p> <p><b>Bio</b></p> <p>Ryan Harvey is a local coder, datahead, project manager, wonk and dad. For work, he manages several government web apps at the Office of Management and Budget, in addition to doing data science, software architecture and application and database engineering for Kitchology, Inc. on the side. He's also a former PhD candidate (all-but-dissertation) in the Applied Mathematics, Applied Statistics and Scientific Computing program at the University of Maryland's Norbert Wiener Center for Harmonic Analysis and Applications. Ryan lives in Lanham, MD, with his wife and two children and several pets.</p> <p><b>Schedule</b></p> <p>6:30pm: Empanadas and chit chat</p> <p>7:00pm: Intro</p> <p>7:10pm: Ryan talks awesome</p> <p>9:00pm: Data drinks at Tonic</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219112410/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Follow the smell of the empanadas!", 
-            "id": "hffzclytcbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "JSON Processing in the Database using PostgreSQL", 
-            "status": "upcoming", 
-            "time": 1420673400000, 
-            "updated": 1420334196000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 87
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p><i>This month organized by longtime GeoDCer <a href=\"https://twitter.com/geographerliz\">Liz Lyon</a>!</i></p> <p>And TUgis, the annual GIS conference put on by Towson University, is buying the first round! The conference is looking for speakers on new, innovative technologies and approaches. Look for <a href=\"https://twitter.com/talllguy\">Elliot</a> to run your idea by him.</p> <p><br/>------</p> <p>This month's GeoDC will look at how open source is entering some of the traditionally most closed off agencies in government, and how anyone can use these applications for their mapping needs.\u00a0</p> <p>Here's our lineup:</p> <p><br/>\u2022 One of the lead developers from <a href=\"https://github.com/ngageoint/mrgeo\">MrGeo</a> will do a deep dive on the open source project and talk about how they open sourced it. MrGeo (MapReduce Geo) is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon the Hadoop ecosystem to leverage the storage and processing of 100\u2019s of commodity computers.</p> <p>\u2022 Chris Rasmussen, Public Software Development Lead at the National Geospatial-Intelligence Agency (NGA), will talk about why the NGA started developing code in the open via <a href=\"https://github.com/ngageoint\">Github</a> and the wins they're seeing from the collaborative approach.\u00a0</p> <p>\u2022 John Jediny, the Lead for the <a href=\"http://nepanode.anl.gov\">NEPAnode</a> project at the US Department of Energy \u00a0(DOE) will discuss how DOE uses and applies Open Source Geospatial software.\u00a0\u00a0You can check out all of the software used on their <a href=\"https://github.com/DOE-NEPA/\">Github</a> account and\u00a0view some <a href=\"https://www.youtube.com/channel/UCpgaQ7eH-HJZMkUcrAE-i4A\">videos</a> on their YouTube channel.</p> <p>\u2022 Micah Wengren, IT Specialist at the National Oceanic and Atmospheric Administration (NOAA), will talk about an open US Government Interagency effort to collaboratively use Geonode/CKAN.\u00a0</p> <p><br/>Come out at 7pm to grab a drink and bite to eat. We'll kick off introductions and lightning talks at 7:30pm. There will be time after to talk with our speakers and everyone else. Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p><br/>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow @Geo_DC on Twitter, and join our Google group for updates.</p> <p><br/>Do you have something you'd like to share with the group? Let us know!</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/215042312/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcytcbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January GeoDC: Open source in Government", 
-            "status": "upcoming", 
-            "time": 1420675200000, 
-            "updated": 1420471781000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1610 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 122
-        }, 
-        {
             "created": 1413296467000, 
             "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>We are meeting in\u00a0<a href=\"http://www.artisphere.com/\">Artisphere</a>'s Dome Theatre,\u00a0thanks to our sponsor\u00a0<a href=\"http://www.arlingtonvirginiausa.com/\">Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).\u00a0</p> <p>\u2022\u00a0James Bain of\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.\u00a0</p> <p>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "duration": 10800000, 
@@ -349,7 +269,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 136
+            "yes_rsvp_count": 138
         }, 
         {
             "created": 1420302373000, 
@@ -387,7 +307,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1415119879000, 
@@ -491,7 +411,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1379643162000, 
@@ -584,7 +504,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1418772287000, 
@@ -701,7 +621,7 @@
         }, 
         {
             "created": 1418909957000, 
-            "description": "<p>This event is still draft. RSVP with an email address to receive a notification when registration officially opens.\u00a0</p> <p><b>DESCRIPTION</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p>Duane Degler of Design for Context brings an extensive knowledge as a user experience consultant and will talk about:<br/>* recognizing good UX<br/>* understanding UX priorities on your site<br/>* ways to integrate UX into your website's evolution and maintenance and<br/>* changes and trends in UX that may impact your website in the future.\u00a0</p> <p>Our next speakers haven't been confirmed - we'll have an update soon!</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
+            "description": "<p><b>Register on\u00a0<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p> <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>A community focused on the leading edge of mobile dev, design &amp; UX. <a href=\"http://www.modevux.com\">www.modevux.com</a></p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
             "group": {
                 "created": 1189804715000, 
@@ -719,7 +639,7 @@
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1422401400000, 
-            "updated": 1420651644000, 
+            "updated": 1420695387000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -734,7 +654,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1413740084000, 
@@ -876,7 +796,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1416852247000, 
