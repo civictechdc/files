@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1415829952000, 
@@ -231,47 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1413296467000, 
-            "description": "<p>Welcome to the wonderful world of traffic, driving, and parking!</p> <p>We are meeting in\u00a0<a href=\"http://www.artisphere.com/\">Artisphere</a>'s Dome Theatre,\u00a0thanks to our sponsor\u00a0<a href=\"http://www.arlingtonvirginiausa.com/\">Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks, and presentations start at 6:30.\u00a0</p> <p><br/>\u2022\u00a0Nikola Ivanov of <a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will present \"Real-World Problems, Real-World Solutions,\" talking about probe vehicle data analytics, and showing us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\">RITIS</a>).\u00a0</p> <p>\u2022\u00a0James Bain of\u00a0<a href=\"https://www.parkingpanda.com/\">ParkingPanda</a> will talk about their app that lets drivers\u00a0reserve parking in advance.\u00a0</p> <p>\u2022\u00a0The folks at\u00a0<a href=\"http://www.metropia.com/\">Metropia</a> will talk about their vision to\u00a0connect commuters, businesses, employers and government agencies to drive improvements in metro mobility.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a> of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how they're making cities smarter by crunching millions of data points to see how people are traveling throughout the city.\u00a0</p> <p>\u2022 Eric Meyer of\u00a0<a href=\"http://www.haystackmobile.com/\">Haystack</a>\u00a0will talk about his app that connects people exchanging parking spots.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/213357602/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Note our new location for January! Just 3 blocks from the Rosslyn Metro", 
-            "id": "213357602", 
-            "maybe_rsvp_count": 0, 
-            "name": "Autotopia Night", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1420758000000, 
-            "updated": 1420649229000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1101 Wilson Blvd.", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 11535342, 
-                "lat": 38.895325, 
-                "lon": -77.069710000000001, 
-                "name": "Artisphere Dome Theatre", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22209"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 133
-        }, 
-        {
             "created": 1420302373000, 
             "description": "<p>Kick off the new year right with Digital Resolution, a women in tech party. \u00a0Whether you're new to tech or an expert, come meet women from around the community, make new friends, and make this year's resolution stick!</p> <p>We are having a party with many other WiT groups from <a href=\"http://dcfemtech.github.io\">DCFemTech</a> like Hear Me Code, Code for Progress, Lesbians Who Tech, and others! There will be booths to learn about all of the different organizations (including Women Who Code of course) from the DC area, food and drinks, as well as a chance to learn about the resolutions of other women in the area and how you can accomplish yours!</p> <p>RSVP here as well so that we can best get a headcount of who's going:\u00a0<a href=\"http://digitalresolution.splashthat.com/\" class=\"linkified\">http://digitalresolution.splashthat.com/</a></p>", 
             "duration": 14400000, 
@@ -307,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1415119879000, 
@@ -561,7 +520,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1415119879000, 
@@ -589,7 +548,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1418909957000, 
@@ -626,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1413740084000, 
@@ -820,7 +779,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1417124897000, 

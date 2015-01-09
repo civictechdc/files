@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 92
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -234,49 +234,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1413296467000
-  description: "<p>Welcome to the wonderful world of traffic, driving, and parking!</p>\
-    \ <p>We are meeting in\_<a href=\"http://www.artisphere.com/\">Artisphere</a>'s\
-    \ Dome Theatre,\_thanks to our sponsor\_<a href=\"http://www.arlingtonvirginiausa.com/\"\
-    >Arlington Economic Development</a>. Doors open at 6:00 with pizza and drinks,\
-    \ and presentations start at 6:30.\_</p> <p><br/>\u2022\_Nikola Ivanov of <a href=\"\
-    http://www.cattlab.umd.edu/\">CATT Lab</a>\_will present \"Real-World Problems,\
-    \ Real-World Solutions,\" talking about probe vehicle data analytics, and showing\
-    \ us the Regional Integrated Transportation Information System (<a href=\"http://www.cattlab.umd.edu/?portfolio=ritis\"\
-    >RITIS</a>).\_</p> <p>\u2022\_James Bain of\_<a href=\"https://www.parkingpanda.com/\"\
-    >ParkingPanda</a> will talk about their app that lets drivers\_reserve parking\
-    \ in advance.\_</p> <p>\u2022\_The folks at\_<a href=\"http://www.metropia.com/\"\
-    >Metropia</a> will talk about their vision to\_connect commuters, businesses,\
-    \ employers and government agencies to drive improvements in metro mobility.\_\
-    </p> <p>\u2022\_<a href=\"https://twitter.com/MatthewSpGeorge\">Matthew George</a>\
-    \ of <a href=\"http://www.bridj.com/\">Bridj</a> will tell us how they are how\
-    \ they're making cities smarter by crunching millions of data points to see how\
-    \ people are traveling throughout the city.\_</p> <p>\u2022 Eric Meyer of\_<a\
-    \ href=\"http://www.haystackmobile.com/\">Haystack</a>\_will talk about his app\
-    \ that connects people exchanging parking spots.\_</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for \"Transportation Techies\" updates.</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Transportation-Techies/events/213357602/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  how_to_find_us: Note our new location for January! Just 3 blocks from the Rosslyn
-    Metro
-  id: '213357602'
-  maybe_rsvp_count: 0
-  name: Autotopia Night
-  rsvp_limit: 200
-  status: upcoming
-  time: 1420758000000
-  updated: 1420649229000
-  utc_offset: -18000000
-  venue: {address_1: 1101 Wilson Blvd., city: Arlington, country: us, id: 11535342,
-    lat: 38.895325, lon: -77.069710000000001, name: Artisphere Dome Theatre, repinned: false,
-    state: VA, zip: '22209'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 133
 - created: 1420302373000
   description: "<p>Kick off the new year right with Digital Resolution, a women in\
     \ tech party. \_Whether you're new to tech or an expert, come meet women from\
@@ -307,7 +264,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 86
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -633,7 +590,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -685,7 +642,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1418909957000
   description: "<p><b>Register on\_<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p>\
     \ <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for\
@@ -736,7 +693,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -942,7 +899,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
