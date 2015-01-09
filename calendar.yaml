@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 95
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -257,14 +257,14 @@ other:
   name: Digital Resolution Party
   status: upcoming
   time: 1420930800000
-  updated: 1420302429000
+  updated: 1420812640000
   utc_offset: -18000000
   venue: {address_1: '700 14th Street NW, 2nd Floor', city: Washington, country: us,
     id: 23550442, lat: 38.898457000000001, lon: -77.032013000000006, name: Blue Labs,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 90
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -310,11 +310,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1421105400000
-  updated: 1420734121000
+  updated: 1420805969000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -379,7 +379,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 78
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -426,24 +426,27 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1420474746000
-  description: "<p>It's here - our first event out in Tyson's Corner!! We are incredibly\
-    \ excited to have the event out here with <b><a href=\"http://www.alarm.com/\"\
-    >Alarm.com</a></b> - please share the details with anyone that you know out in\
-    \ the NoVA region!</p> <p>---------------------------------------</p> <p>Have\
-    \ you set a new years resolution to learn to code, but don't know where to start?\
-    \ \_Do you have an idea for a web application or an app, but aren't sure what\
-    \ the best platform is to build it in? Or do you simply want to learn what the\
-    \ differences are between Python, Ruby, \_HTML,\_Java, Javascript, and the seemingly\
-    \ endless number of terms you hear when people talk about technology?</p> <p>This\
-    \ meetup will introduce you to a lot of the common terms that developers often\
-    \ forget can be so confusing when you first start out. We will be starting from\
-    \ the ground up to explain what languages are useful for, and what makes them\
-    \ different from each other.</p> <p>This event is perfect for beginners to help\
-    \ determine what coding \"path\" you want to start out with. It is also be very\
-    \ useful for a developer that wants to expand\_her\_high-level understanding of\
-    \ new languages!</p>"
+  description: "<p>It's\_here\u2026drumroll\u2026our first event in Tysons Corner!!</p>\
+    \ <p>We are incredibly excited to partner with\_<b><a href=\"http://www.alarm.com/\"\
+    >Alarm.com</a></b>\_for our second presentation of Language of Languages. Please\
+    \ share the details with anyone that you know out in the NoVA region!</p> <p>---------------------------------------</p>\
+    \ <p>Do you have a New Year\u2019s resolution to learn to code, but don't know\
+    \ where to start? Do you have an idea for a web application or an app, but aren't\
+    \ sure which is the best platform to build it in? Are you a Product Manager that\
+    \ wants to better communicate with engineers on your team? Or do you simply want\
+    \ to learn what the differences are between Python, Ruby,\_HTML,\_CSS, Java, Javascript,\
+    \ and the seemingly endless number of terms you hear when people talk about programming?</p>\
+    \ <p>This meetup will introduce you to many common terms that might otherwise\
+    \ look like alphabet soup when you first start out. We will start from the ground\
+    \ up to explain what each language is useful for, and what makes them different\
+    \ from each other.</p> <p>This event is perfect for beginners trying to decide\
+    \ which coding \"path\" to take. It is also useful for developers who\_to expand\
+    \ their\_high-level understanding of new languages!</p> <p>This talk was an absolute\
+    \ hit when we first presented it in D.C. We expect that you\u2019ll be just as\
+    \ engaged, invigorated, and ready to hit the ground running with code as our last\
+    \ audience!</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/219616597/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -455,14 +458,14 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1421796600000
-  updated: 1420492809000
+  updated: 1420805743000
   utc_offset: -18000000
   venue: {address_1: '8150 Leesburg Pike, Suite 1400', city: Vienna, country: us,
     id: 23554646, lat: 38.916058, lon: -77.227074000000002, name: Alarm.com, repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 25
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -514,7 +517,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -590,7 +593,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -632,17 +635,17 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: dlqpblytcbjc
+  id: rwbqdlytcbjc
   maybe_rsvp_count: 0
   name: Front End Hack Night
   rsvp_limit: 40
   status: upcoming
   time: 1422315000000
-  updated: 1419012038000
+  updated: 1420806005000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 21
 - created: 1418909957000
   description: "<p><b>Register on\_<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p>\
     \ <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for\
@@ -693,7 +696,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -756,7 +759,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -782,7 +785,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 32
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -852,7 +855,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 32
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -899,7 +902,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -958,7 +961,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You

@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1415829952000, 
@@ -251,7 +251,7 @@
             "name": "Digital Resolution Party", 
             "status": "upcoming", 
             "time": 1420930800000, 
-            "updated": 1420302429000, 
+            "updated": 1420812640000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "700 14th Street NW, 2nd Floor", 
@@ -266,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1415119879000, 
@@ -290,11 +290,11 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1421105400000, 
-            "updated": 1420734121000, 
+            "updated": 1420805969000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1417124761000, 
@@ -370,7 +370,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1379643162000, 
@@ -397,11 +397,11 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1420474746000, 
-            "description": "<p>It's here - our first event out in Tyson's Corner!! We are incredibly excited to have the event out here with <b><a href=\"http://www.alarm.com/\">Alarm.com</a></b> - please share the details with anyone that you know out in the NoVA region!</p> <p>---------------------------------------</p> <p>Have you set a new years resolution to learn to code, but don't know where to start? \u00a0Do you have an idea for a web application or an app, but aren't sure what the best platform is to build it in? Or do you simply want to learn what the differences are between Python, Ruby, \u00a0HTML,\u00a0Java, Javascript, and the seemingly endless number of terms you hear when people talk about technology?</p> <p>This meetup will introduce you to a lot of the common terms that developers often forget can be so confusing when you first start out. We will be starting from the ground up to explain what languages are useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners to help determine what coding \"path\" you want to start out with. It is also be very useful for a developer that wants to expand\u00a0her\u00a0high-level understanding of new languages!</p>", 
+            "description": "<p>It's\u00a0here\u2026drumroll\u2026our first event in Tysons Corner!!</p> <p>We are incredibly excited to partner with\u00a0<b><a href=\"http://www.alarm.com/\">Alarm.com</a></b>\u00a0for our second presentation of Language of Languages. Please share the details with anyone that you know out in the NoVA region!</p> <p>---------------------------------------</p> <p>Do you have a New Year\u2019s resolution to learn to code, but don't know where to start? Do you have an idea for a web application or an app, but aren't sure which is the best platform to build it in? Are you a Product Manager that wants to better communicate with engineers on your team? Or do you simply want to learn what the differences are between Python, Ruby,\u00a0HTML,\u00a0CSS, Java, Javascript, and the seemingly endless number of terms you hear when people talk about programming?</p> <p>This meetup will introduce you to many common terms that might otherwise look like alphabet soup when you first start out. We will start from the ground up to explain what each language is useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners trying to decide which coding \"path\" to take. It is also useful for developers who\u00a0to expand their\u00a0high-level understanding of new languages!</p> <p>This talk was an absolute hit when we first presented it in D.C. We expect that you\u2019ll be just as engaged, invigorated, and ready to hit the ground running with code as our last audience!</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219616597/", 
             "group": {
                 "created": 1395616294000, 
@@ -420,7 +420,7 @@
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1420492809000, 
+            "updated": 1420805743000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "8150 Leesburg Pike, Suite 1400", 
@@ -435,7 +435,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1418772287000, 
@@ -480,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1419871773000, 
@@ -520,7 +520,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415119879000, 
@@ -538,17 +538,17 @@
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "dlqpblytcbjc", 
+            "id": "rwbqdlytcbjc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1422315000000, 
-            "updated": 1419012038000, 
+            "updated": 1420806005000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1418909957000, 
@@ -585,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1413740084000, 
@@ -623,7 +623,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1417881835000, 
@@ -662,7 +662,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1326383071000, 
@@ -739,7 +739,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1416852247000, 
@@ -779,7 +779,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1417124897000, 
@@ -864,7 +864,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1379643162000, 
