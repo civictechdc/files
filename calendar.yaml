@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 99
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -349,7 +349,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -379,7 +379,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 81
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -426,7 +426,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1420474746000
   description: "<p>It's\_here\u2026drumroll\u2026our first event in Tysons Corner!!</p>\
     \ <p>We are incredibly excited to partner with\_<b><a href=\"http://www.alarm.com/\"\
@@ -465,7 +465,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -645,7 +645,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1418909957000
   description: "<p><b>Register on\_<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p>\
     \ <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for\
@@ -671,8 +671,13 @@ other:
     \ - More networking\_<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages\
     \ (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p>\
     \ <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\"\
-    \ /></p> <p>A community focused on the leading edge of mobile development, design\
-    \ &amp; UX. <a href=\"http://www.modevux.com\">www.modevux.com</a></p> <p><br/><b>Design\
+    \ /></p> <p>Modev is community focused on the leading edge of mobile development,\
+    \ design &amp; user experience. Join us at any point in your mobile experience\
+    \ - be a part our our\_<a href=\"http://www.meetup.com/modevdc/\">meetup\_group</a>\_\
+    or attend\_<a href=\"http://ux15.gomodev.com/\">ModevUX</a>, our mobile design\
+    \ and user experience conference, to meet the best and brightest. Or follow our\
+    \ <a href=\"http://modev.com/blog/\">blog</a> of what's happening in mobile.\_\
+    Learn more at\_<a href=\"http://www.modevux.com\">www.modevux.com</a>.</p> <p><br/><b>Design\
     \ for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\"\
     \ /></p> <p>Experts in user experience and user-centered design, Design for Context\
     \ works with clients and their users to design web applications, software, and\
@@ -689,14 +694,14 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1422401400000
-  updated: 1420735185000
+  updated: 1420861341000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\

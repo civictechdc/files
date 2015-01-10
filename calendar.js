@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1415829952000, 
@@ -332,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1419913424000, 
@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1379643162000, 
@@ -397,7 +397,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1420474746000, 
@@ -435,7 +435,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1418772287000, 
@@ -548,11 +548,11 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1418909957000, 
-            "description": "<p><b>Register on\u00a0<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p> <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>A community focused on the leading edge of mobile development, design &amp; UX. <a href=\"http://www.modevux.com\">www.modevux.com</a></p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
+            "description": "<p><b>Register on\u00a0<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p> <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>Modev is community focused on the leading edge of mobile development, design &amp; user experience. Join us at any point in your mobile experience - be a part our our\u00a0<a href=\"http://www.meetup.com/modevdc/\">meetup\u00a0group</a>\u00a0or attend\u00a0<a href=\"http://ux15.gomodev.com/\">ModevUX</a>, our mobile design and user experience conference, to meet the best and brightest. Or follow our <a href=\"http://modev.com/blog/\">blog</a> of what's happening in mobile.\u00a0Learn more at\u00a0<a href=\"http://www.modevux.com\">www.modevux.com</a>.</p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
             "group": {
                 "created": 1189804715000, 
@@ -570,7 +570,7 @@ calendar({
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1422401400000, 
-            "updated": 1420735185000, 
+            "updated": 1420861341000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1413740084000, 
