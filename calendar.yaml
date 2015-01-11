@@ -264,7 +264,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 87
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -313,7 +313,7 @@ other:
   updated: 1420805969000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 40
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
@@ -349,7 +349,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -379,7 +379,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -465,7 +465,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 27
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -517,7 +517,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -645,7 +645,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1418909957000
   description: "<p><b>Register on\_<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p>\
     \ <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for\
@@ -790,7 +790,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -907,7 +907,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
