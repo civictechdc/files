@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 103
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -234,37 +234,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1420302373000
-  description: "<p>Kick off the new year right with Digital Resolution, a women in\
-    \ tech party. \_Whether you're new to tech or an expert, come meet women from\
-    \ around the community, make new friends, and make this year's resolution stick!</p>\
-    \ <p>We are having a party with many other WiT groups from <a href=\"http://dcfemtech.github.io\"\
-    >DCFemTech</a> like Hear Me Code, Code for Progress, Lesbians Who Tech, and others!\
-    \ There will be booths to learn about all of the different organizations (including\
-    \ Women Who Code of course) from the DC area, food and drinks, as well as a chance\
-    \ to learn about the resolutions of other women in the area and how you can accomplish\
-    \ yours!</p> <p>RSVP here as well so that we can best get a headcount of who's\
-    \ going:\_<a href=\"http://digitalresolution.splashthat.com/\" class=\"linkified\"\
-    >http://digitalresolution.splashthat.com/</a></p>"
-  duration: 14400000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219573343/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '219573343'
-  maybe_rsvp_count: 0
-  name: Digital Resolution Party
-  status: upcoming
-  time: 1420930800000
-  updated: 1420835433000
-  utc_offset: -18000000
-  venue: {address_1: '700 14th Street NW, 2nd Floor', city: Washington, country: us,
-    id: 23550442, lat: 38.898457000000001, lon: -77.032013000000006, name: Blue Labs,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 87
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -313,7 +282,7 @@ other:
   updated: 1420805969000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 0
   yes_rsvp_count: 40
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
@@ -349,7 +318,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -379,7 +348,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
