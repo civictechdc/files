@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 108
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -284,8 +284,8 @@ other:
   updated: 1421012682000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 40
+  waitlist_count: 0
+  yes_rsvp_count: 38
 - created: 1417124761000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -320,7 +320,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 70
 - created: 1419913424000
   description: "<p>After last meetup's celebration of two great years of API gatherings,\
     \ we're going into our third year strong! \_No excuses - You'll have plenty of\
@@ -350,7 +350,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 88
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -437,7 +437,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 36
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -489,7 +489,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -565,7 +565,44 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 44
+- created: 1421079684000
+  description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/DCFemTech/e6d\"\
+    ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
+    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
+    \ informal way to learn, code and work on projects with other members in the community.\
+    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
+    \ open to all women or those who support women and minorities in tech. Feel free\
+    \ to come early or stay later. These events are held at public coffee shops, so\
+    \ good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code\
+    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
+    \ plan. These events are very informal so ladies will usually bring their own\
+    \ projects or meet people who are working on similar projects to collaborate together.\
+    \ If you're a beginner we recommend some online tutorials like Code Academy or\
+    \ General Assembly Dash. The hope is that you will find ladies who are learning\
+    \ similar coding languages and projects to work with or ask questions.</p> <p>When\
+    \ you arrive, we'll be around the tables/booths in the back. Look for a few signs.\
+    \ If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p>\
+    \ <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode\
+    \ DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual\
+    \ pages for resources and more events throughout the month!</p> <p><img src=\"\
+    https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219780898/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '219780898'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1422212400000
+  updated: 1421079684000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 17
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -619,32 +656,32 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1418909957000
-  description: "<p><b>Register on\_<a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a></b></p>\
-    \ <p>(You are encouraged to RSVP here as well but you must be on Eventbrite for\
-    \ entry)</p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites\
-    \ that you can't use? Or the super-cool ones that make it hard to actually accomplish\
-    \ your tasks?\_Don't be like that! Join our all-star panel to learn about website\
-    \ user experience.\_</p> <p><b>Duane Degler</b> of Design for Context will\_lead\
-    \ you through the essentials of web user experience including recognizing good\
-    \ UX, understanding the\_UX priorities on your site, and integrating UX into your\
-    \ website's evolution and maintenance.\_Duane will also talk about changes in\
-    \ UX that may impact your website in the future, including mobile and other trends.</p>\
-    \ <p><b>Margaret Haag</b> of\_Capital One will discuss ways to keep creativity\
-    \ in user interfaces. <i>More details on Margaret's talk will be available closer\
-    \ to the event.</i></p> <p><b>Chris Kobar</b> of\_SRA International will talk\
-    \ about the importance of user experience. \_<i>More details on Chris' talk will\
-    \ be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar,\
-    \ Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane\
-    \ Degler, Principal Consultant, Design for Context\_</p> <p>Margaret Haag, Senior\
-    \ UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused\
-    \ on web managers, web designers and front-end developers but content strategists,\
-    \ marketing staff and many others will find the information useful.\_</p> <p><b>AGENDA</b></p>\
-    \ <p>6:30 - Networking, drinks &amp; food\_<br/>7:00 - Presentations\_<br/>8:30\
-    \ - More networking\_<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages\
-    \ (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p>\
-    \ <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\"\
+  description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
+    >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
+    \ be on Eventbrite for entry.</p> <p><b>OVERVIEW</b></p> <p>Have you seen those\
+    \ beautiful websites that you can't use? Or the super-cool ones that make it hard\
+    \ to actually accomplish your tasks?\_Don't be like that! Join our all-star panel\
+    \ to learn about website user experience.\_</p> <p><b>Duane Degler</b> of Design\
+    \ for Context will\_lead you through the essentials of web user experience including\
+    \ recognizing good UX, understanding the\_UX priorities on your site, and integrating\
+    \ UX into your website's evolution and maintenance.\_Duane will also talk about\
+    \ changes in UX that may impact your website in the future, including mobile and\
+    \ other trends.</p> <p><b>Margaret Haag</b> of\_Capital One will discuss ways\
+    \ to keep creativity in user interfaces. <i>More details on Margaret's talk will\
+    \ be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\_SRA International\
+    \ will talk about the importance of user experience. \_<i>More details on Chris'\
+    \ talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris\
+    \ Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p>\
+    \ <p><br/>Duane Degler, Principal Consultant, Design for Context\_</p> <p>Margaret\
+    \ Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This\
+    \ event is focused on web managers, web designers and front-end developers but\
+    \ content strategists, marketing staff and many others will find the information\
+    \ useful.\_</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\_\
+    <br/>7:00 - Presentations\_<br/>8:30 - More networking\_<br/>9:00 - Adjourn</p>\
+    \ <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR\
+    \ SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\"\
     \ /></p> <p>Modev is community focused on the leading edge of mobile development,\
     \ design &amp; user experience. Join us at any point in your mobile experience\
     \ - be a part our our\_<a href=\"http://www.meetup.com/modevdc/\">meetup\_group</a>\_\
@@ -668,14 +705,14 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1422401400000
-  updated: 1420861341000
+  updated: 1421077652000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 71
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -738,7 +775,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -764,7 +801,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -881,7 +918,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -965,6 +1002,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1421082688000
+  description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
+    from DCFemTech! This is similar to the Professional Dev Brunches for women in
+    the DC area -- except with those of us that have an eye for making things beautiful.</p>
+    <p>If you are involved in any sort of Designing/UX/UI/Product in Tech (or want
+    to transition to design) and want to meet others that do similar work, this should
+    be a really fun event! Let's meet at Teaism in Dupont Circle. There will be a
+    sign that says 'Designers Brunch' or something to that effect.</p> <p>Bring $;
+    you'll be responsible for your own tab. (I believe the restaurant will have you
+    pay up front when you order.)</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219782204/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '219782204'
+  maybe_rsvp_count: 0
+  name: DC Designers in Tech Brunch!
+  status: upcoming
+  time: 1424538000000
+  updated: 1421082688000
+  utc_offset: -18000000
+  venue: {address_1: 2009 R St NW, city: Washington, country: us, id: 18121842, lat: 38.912666000000002,
+    lon: -77.045524999999998, name: Teaism, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 9
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
