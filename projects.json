@@ -257,11 +257,11 @@
         "activity": [
             2, 
             7, 
-            19, 
+            20, 
             5, 
-            3, 
-            8, 
-            6, 
+            2, 
+            10, 
+            4, 
             12, 
             1, 
             0, 
@@ -275,27 +275,27 @@
             8, 
             2, 
             2, 
-            0, 
             5, 
             0, 
             0, 
+            0, 
             6, 
-            3, 
+            6, 
+            0, 
+            6, 
             3, 
             5, 
-            3, 
-            6, 
             5, 
             1, 
             1, 
             0, 
             0, 
             0, 
-            2, 
             3, 
-            0, 
-            4, 
             2, 
+            0, 
+            6, 
+            0, 
             2, 
             2, 
             5, 
@@ -804,7 +804,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 86, 
+                "contributions": 89, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -916,20 +916,24 @@
             [
                 "CSS", 
                 15184
+            ], 
+            [
+                "Ruby", 
+                3083
             ]
         ], 
         "main_language": "JavaScript", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-01-02T07:19:39Z", 
+        "pushed_at": "2015-01-13T04:53:57Z", 
         "size": 17203, 
-        "updated_at": "2014-12-22T03:45:16Z", 
+        "updated_at": "2015-01-13T04:52:28Z", 
         "watchers": 14
     }, 
     {

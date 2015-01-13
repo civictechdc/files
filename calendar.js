@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1415829988000, 
@@ -231,72 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1415119879000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>JavaScript is Sexy</p> <p><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"https://www.bento.io/\"><a href=\"https://www.bento.io/\" class=\"linkified\">https://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219270834/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "dlqpblytcbqb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1421105400000, 
-            "updated": 1421012682000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 34
-        }, 
-        {
-            "created": 1417124761000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in January! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like oregano web services]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/218931884/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "218931884", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 16: O F, it's 0xF", 
-            "status": "upcoming", 
-            "time": 1421107200000, 
-            "updated": 1417124761000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
             "created": 1419913424000, 
             "description": "<p>After last meetup's celebration of two great years of API gatherings, we're going into our third year strong! \u00a0No excuses - You'll have plenty of time to catch up after the holidays! \u00a0</p> <p>As always, interesting presentations will be matched with plenty of good pizza and drinks. \u00a0We've got a number of good ones that I think you'll like, so go ahead and mark those calendars now. \u00a0:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Robert Verderame,\u00a0TrueThreat<br/>* Alexandra Figueroa, Census Bureau<br/>* Tola Adewodu, Ade Labs<br/>* Anthea Watson, Google\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/219490281/", 
@@ -359,7 +293,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1420474746000, 
@@ -397,11 +331,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1418772287000, 
-            "description": "<p><b>DESCRIPTION\u00a0</b></p> <p>Web Mavens! Join us as we discuss the core of all websites - the content management system.</p> <p>We will learn from\u00a0<b>Tony Byrne</b>\u00a0as he tells us about options in the web CMS ecosystem, important steps in the planning process and tips for selecting system that's right for you.</p> <p>Tony is the\u00a0founder of Real Story Group, a company that specializes in technology selection. He is a friend of the Mavens and a storied expert on CMS selection and evaluation.\u00a0</p> <p>We will also hear from\u00a0<b>Bret Peters</b>\u00a0of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>And then\u00a0<b>Alexandra Chaikin</b>\u00a0of NeighborWorks America will share her experiences with a recent CMS selection project, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\u00a0</b></p> <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p> <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This event is <b><i>free</i></b> if you work in a company/organization either on the website, on website/CMS content or other related area (marketing integration, programming, management, etc).\u00a0</p> <p><br/>If you are an independent, consultant, knowledge seeker, etc, you are still very welcome! We just ask that you pay or volunteer for half an hour.\u00a0</p> <p>To volunteer, email [masked].\u00a0</p> <p><b>AGENDA</b></p> <p><br/>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages (adult and otherwise).</i></b></p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\" /></p> <p>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today. \u00a0</p>", 
+            "description": "<p><b>DESCRIPTION\u00a0</b></p> <p>Web Mavens! Join us as we discuss the core of all websites - the content management system.</p> <p>We will learn from\u00a0<b>Tony Byrne</b>\u00a0as he tells us about options in the web CMS ecosystem, important steps in the planning process and tips for selecting system that's right for you.</p> <p>Tony is the\u00a0founder of Real Story Group, a company that specializes in technology selection. He is a friend of the Mavens and a storied expert on CMS selection and evaluation.\u00a0</p> <p>We will also hear from\u00a0<b>Bret Peters</b>\u00a0of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>And then\u00a0<b>Alexandra Chaikin</b>\u00a0of NeighborWorks America will share her experiences with a recent CMS selection project, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\u00a0</b></p> <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p> <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This event is <b><i>free</i></b> if you work in a company/organization either on the website, on web/CMS content or other related area (marketing integration, programming, management, etc). Just register without paying.</p> <p><br/>If you are an independent, consultant, knowledge seeker, work for a consulting firm etc, you are still very welcome! We just ask that you pay or volunteer for half an hour. \u00a0</p> <p>If you are a General Assembly student or alum (full time or part time classes), register and include either the code provided or the class you took for free admission.</p> <p>To volunteer, email [masked]. We ask for no more than a 30 minute time commitment.</p> <p><br/><b>AGENDA</b></p> <p><br/>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages (adult and otherwise).</i></b></p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\" /></p> <p>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today. \u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
             "fee": {
                 "accepts": "paypal", 
@@ -427,7 +361,7 @@ calendar({
             "name": "Selecting and Planning a Web CMS", 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1420650834000, 
+            "updated": 1421126646000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -442,7 +376,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1419871773000, 
@@ -482,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1421079684000, 
@@ -509,7 +443,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1415119879000, 
@@ -574,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1413740084000, 
@@ -732,7 +666,7 @@ calendar({
         }, 
         {
             "created": 1416852247000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for\u00a0the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizatios he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a> will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>\u2022\u00a0Daniel Abrams will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for\u00a0the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizatios he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a> will demo her Python hack that tells her when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -752,7 +686,7 @@ calendar({
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1421107083000, 
+            "updated": 1421120896000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -806,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1418680238000, 
@@ -918,7 +852,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1417881835000, 
