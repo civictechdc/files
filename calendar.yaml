@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 117
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -263,7 +263,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 109
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -406,7 +406,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -483,6 +483,31 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 47
+- created: 1421151119000
+  description: <p>Are you a professional female developer? You're not alone. Come
+    brunch with others like you! This brunch is for working developers only because
+    it can be tough to find times to network with other women in the industry.</p>
+    <p>The estimated cost for the brunch is $20, but the final cost will be whatever
+    you owe the restaurant for your order, which you will pay directly to them. (We
+    will not be taking any payments from you).</p>
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/219802316/
+  fee: {accepts: cash, amount: 20, currency: USD, description: per person, label: Price,
+    required: '0'}
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '219802316'
+  maybe_rsvp_count: 0
+  name: Professional Developer Brunch
+  rsvp_limit: 20
+  status: upcoming
+  time: 1422118800000
+  updated: 1421151119000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 8
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/DCFemTech/e6d\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -515,11 +540,11 @@ other:
   name: Code & Coffee
   status: upcoming
   time: 1422212400000
-  updated: 1421079684000
+  updated: 1421167594000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -573,7 +598,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -629,7 +654,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -692,7 +717,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 113
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -838,7 +863,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -873,7 +898,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 21
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
@@ -949,7 +974,7 @@ other:
     lon: -77.045524999999998, name: Teaism, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
