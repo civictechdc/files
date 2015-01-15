@@ -1,43 +1,4 @@
 codefordc:
-- created: 1415829929000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
-    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
-    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
-    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
-    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
-    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
-    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
-    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
-    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
-    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
-    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
-    \ Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/218646948/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '218646948'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1421278200000
-  updated: 1415829929000
-  utc_offset: -18000000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 123
 - created: 1415829952000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -234,36 +195,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1419913424000
-  description: "<p>After last meetup's celebration of two great years of API gatherings,\
-    \ we're going into our third year strong! \_No excuses - You'll have plenty of\
-    \ time to catch up after the holidays! \_</p> <p>As always, interesting presentations\
-    \ will be matched with plenty of good pizza and drinks. \_We've got a number of\
-    \ good ones that I think you'll like, so go ahead and mark those calendars now.\
-    \ \_:)</p> <p>6:00pm - 6:30pm Food, drinks and networking\_<br/>6:40pm - 6:50pm\
-    \ Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p> <p>*\
-    \ Robert Verderame,\_TrueThreat<br/>* Alexandra Figueroa, Census Bureau<br/>*\
-    \ Tola Adewodu, Ade Labs<br/>* Anthea Watson, Google\_</p> <p>7:55pm - 8:00pm\
-    \ Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm -\
-    \ 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/219490281/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '219490281'
-  maybe_rsvp_count: 0
-  name: DC API User Group - January Edition
-  status: upcoming
-  time: 1421276400000
-  updated: 1420479729000
-  utc_offset: -18000000
-  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
-    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
-    repinned: false, state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 126
 - created: 1379643162000
   description: "<p>With the diverse skills and interests of our group, let's explore\
     \ how the experience in our backgrounds plays into our tech careers. Then, let's\
@@ -350,7 +281,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -406,7 +337,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 44
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -482,7 +413,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 68
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -586,7 +517,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -704,7 +635,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -882,7 +813,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -952,7 +883,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
