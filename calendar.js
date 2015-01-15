@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1415829952000, 
@@ -266,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1379643162000, 
@@ -331,7 +331,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1418772287000, 
@@ -416,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1421209931000, 
@@ -457,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1421151119000, 
@@ -496,7 +496,7 @@ calendar({
         }, 
         {
             "created": 1421079684000, 
-            "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/DCFemTech/e6d\"><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
+            "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/CodeCoffee/ff3\"><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219780898/", 
             "group": {
@@ -515,11 +515,38 @@ calendar({
             "name": "Code & Coffee", 
             "status": "upcoming", 
             "time": 1422212400000, 
-            "updated": 1421167594000, 
+            "updated": 1421264636000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
+        }, 
+        {
+            "created": 1421263758000, 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on Monday, January 26, 2015 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over snacks and drinks.\u00a0</p> <p>Questions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834425/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "219834425", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack CopyNight Returns: January 26th Edition!", 
+            "status": "upcoming", 
+            "time": 1422313200000, 
+            "updated": 1421263758000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1415119879000, 
@@ -585,7 +612,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1418909957000, 
@@ -622,11 +649,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1413740084000, 
-            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b><br/></b></p> <p><b>Schedule</b></p> <p>6 - 6:45pm Networking and refreshments</p> <p>6:45 - 8pm Speakers</p> <p><br/><b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p> <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management executives communicate more effectively, make better decisions, and improve their own performance by providing performance reports, high-quality comparative benchmarks, and empirically-derived insights about wealth management sales, productivity and pricing strategies.</p> <p>In various capacities, David\u00a0has advised wealth management, family office and financial services executives for more than 15 years.\u00a0David has written extensively on a broad array of issues and is a highly-demanded speaker at industry events and client meetings.</p> <p>David has a bachelor\u2019s degree in economics and history from the University of Virginia in Charlottesville and a master\u2019s degree in business administration with a concentration in finance from Columbia Business School in New York.\u00a0</p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth and high-net-worth individuals; private banking, trust, brokerage and asset management; single and multi-family offices.</p>", 
+            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b>Schedule</b></p> <p>6:00 - 6:30pm -- Networking and refreshments</p> <p>6:30 - 6:35pm -- Introductions</p> <p>6:40 - 8:00pm -- Speakers</p> <p>\u2022\u00a0David Lincoln - Wise Gateway</p> <p>\u2022\u00a0Tugkan Tuzun - Information Content of Big Data and the \"Flash Crash\" Example</p> <p><br/>\u2022\u00a0Micheline Casey -\u00a0Analyzing the Real-Time Economy</p> <p><br/><b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p> <p><b><br/></b></p> <p><b>Tugkan Tuzun - Federal Reserve Board</b></p> <p>Tugkan Tuzun\u00a0is an Economist at the Capital Markets Section of the Federal Reserve Board. His responsibilities include providing research and policy analysis to the Federal Reserve Board regarding domestic asset prices and corporate finance. He previously worked at the Commodity Futures Trading Commission and was one of the main authors of the report to the Congress about the \"Flash Crash\" of 2010. Tugkan's research interests are institutional asset management, asset pricing and market microstructure. His recent work covered topics such as high-frequency trading, exchange-traded funds and stock market crashes. He holds a Ph.D. degree in Finance from the University of Maryland and a M.A. degree in Economics from the University of Virginia.</p> <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management executives communicate more effectively, make better decisions, and improve their own performance by providing performance reports, high-quality comparative benchmarks, and empirically-derived insights about wealth management sales, productivity and pricing strategies.</p> <p>In various capacities, David\u00a0has advised wealth management, family office and financial services executives for more than 15 years.\u00a0David has written extensively on a broad array of issues and is a highly-demanded speaker at industry events and client meetings.</p> <p>David has a bachelor\u2019s degree in economics and history from the University of Virginia in Charlottesville and a master\u2019s degree in business administration with a concentration in finance from Columbia Business School in New York.\u00a0</p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth and high-net-worth individuals; private banking, trust, brokerage and asset management; single and multi-family offices.</p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/214386742/", 
             "group": {
@@ -642,11 +669,11 @@ calendar({
             "headcount": 0, 
             "id": "214386742", 
             "maybe_rsvp_count": 0, 
-            "name": "Visualizing the Economy - The Federal Reserve Chief Data Officer", 
+            "name": "Analyzing the Real-Time Economy", 
             "rsvp_limit": 250, 
             "status": "upcoming", 
             "time": 1422572400000, 
-            "updated": 1418565070000, 
+            "updated": 1421271908000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -660,7 +687,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1417881835000, 
@@ -699,7 +726,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
+        }, 
+        {
+            "created": 1421263833000, 
+            "description": "<p>Details are coming soon, we are so excited about this one!\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834477/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "219834477", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack Serial: Cell phone data and the criminal justice system, then and now", 
+            "status": "upcoming", 
+            "time": 1423094400000, 
+            "updated": 1421263833000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -739,7 +793,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1418679019000, 
@@ -776,7 +830,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1416852247000, 
