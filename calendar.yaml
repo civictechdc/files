@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 28
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -195,53 +195,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1379643162000
-  description: "<p>With the diverse skills and interests of our group, let's explore\
-    \ how the experience in our backgrounds plays into our tech careers. Then, let's\
-    \ get practical and walk through how to launch a web app. For January, a tech\
-    \ founder will share the intersection of her subject matter expertise with tech,\
-    \ discussing how localization (fitting a site or piece of software to a culture,\
-    \ often including language) interacts with design and development. Then, one of\
-    \ our web dev members will show us the simple steps to deploy a web app.</p> <p><b>Terena\
-    \ Bell</b> is CEO of <a href=\"http://www.ineverylanguage.com/index.php\">In Every\
-    \ Language</a>. She sits on the White House Business Roundtable and writes a monthly\
-    \ column for <i>MultiLingual Magazine</i> on the impact of societal macroforces\
-    \ on the translation industry. Terena is former Secretary of the Globalization\
-    \ and Localization Association (GALA) and a former Association of Language Companies\
-    \ (ALC) board member. She tweets as <a href=\"https://twitter.com/InEveryLanguage\"\
-    >@InEveryLanguage</a>.</p> <p>Say the word \"language\" in tech circles, and people\
-    \ think Python or Ruby. But what about Urdu or Arabic? Since both these--as well\
-    \ as many others--read right to left, not thinking about foreign language now\
-    \ can lead to user interface and other development problems down the road. And\
-    \ that's just the beginning. Not only should (foreign) language impact HOW you\
-    \ design, but WHAT you design as globalization creates the need for more and more\
-    \ multilingual and translation apps. From idea to execution, Terena Bell, CEO\
-    \ of In Every Language, shows you why foreign languages are just as essential\
-    \ to today's developer as coding languages are.</p> <p><b>Mandy Moore</b> is a\
-    \ Junior Developer at Mobility Labs and a recent graduate of General Assembly's\
-    \ Web Development Immersive program.\_ In her talk she'll show you how you can\
-    \ share your projects with the world for free by deploying to Heroku using Git.\_\
-    \ Basic knowledge of Git, a free Heroku account and a small project to deploy\
-    \ will be helpful but not required.</p> <p>\n\n\n\nIf you're considering joining,\
-    \ please read our rules, to determine if this group is right for you:</p> <p><a\
-    \ href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"\
-    linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p>"
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/209898262/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
-    who: Ladies Who Code}
-  headcount: 0
-  id: qkxmtgytcbtb
-  maybe_rsvp_count: 0
-  name: Localization Guiding Development, and Deploying with Heroku
-  rsvp_limit: 50
-  status: upcoming
-  time: 1421364600000
-  updated: 1420466417000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 26
 - created: 1420474746000
   description: "<p>It's\_here\u2026drumroll\u2026our first event in Tysons Corner!!</p>\
     \ <p>We are incredibly excited to partner with\_<b><a href=\"http://www.alarm.com/\"\
@@ -281,7 +234,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -337,7 +290,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 55
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -413,7 +366,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 83
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -480,7 +433,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -517,7 +470,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -551,7 +504,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -694,7 +647,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -772,6 +725,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 133
+- created: 1421263833000
+  description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
+    https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
+    >\_more than twenty</a>\_legal hacking, technology, or innovation groups around\
+    \ the country.\_</p> <p>A legal hacker is someone who cares about the intersection\
+    \ of law and technology and seeks to improve legal practice through technology\
+    \ while simultaneously using legal skills to promote technological innovation\
+    \ and exploration.\_</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired\
+    \ discussion on cell phone data &amp; the criminal justice system: then and now.\_\
+    </p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\"\
+    \ /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\"\
+    \ /></p> <p>Details are coming soon, we are so excited about this one!\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/DCLegalHackers/events/219834477/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  id: '219834477'
+  maybe_rsvp_count: 0
+  name: '#LegalHack Serial: Cell phone data and the criminal justice system, then
+    and now'
+  status: upcoming
+  time: 1423090800000
+  updated: 1421381992000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -797,26 +779,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
-- created: 1421263833000
-  description: "<p>Details are coming soon, we are so excited about this one!\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/DCLegalHackers/events/219834477/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '219834477'
-  maybe_rsvp_count: 0
-  name: '#LegalHack Serial: Cell phone data and the criminal justice system, then
-    and now'
-  status: upcoming
-  time: 1423094400000
-  updated: 1421263833000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 40
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -937,7 +900,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
