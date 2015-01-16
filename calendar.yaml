@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -115,7 +115,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -241,7 +241,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 26
 - created: 1420474746000
   description: "<p>It's\_here\u2026drumroll\u2026our first event in Tysons Corner!!</p>\
     \ <p>We are incredibly excited to partner with\_<b><a href=\"http://www.alarm.com/\"\
@@ -281,7 +281,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -337,7 +337,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 52
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -413,7 +413,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 79
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -455,7 +455,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1421151119000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -551,7 +551,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 24
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -638,7 +638,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -694,7 +694,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 85
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -771,7 +771,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 133
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -838,7 +838,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1418679019000
   description: "<p>This event is still draft. RSVP to receive a notification when\
     \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
@@ -886,7 +886,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -972,7 +972,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
