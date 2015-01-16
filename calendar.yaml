@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 38
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -234,7 +234,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -290,7 +290,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 63
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -366,7 +366,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 86
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -429,7 +429,7 @@ other:
   rsvp_limit: 20
   status: upcoming
   time: 1422118800000
-  updated: 1421151119000
+  updated: 1421412918000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -470,7 +470,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -504,7 +504,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -591,7 +591,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -647,7 +647,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 89
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -724,7 +724,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 134
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -736,7 +736,10 @@ other:
     \ discussion on cell phone data &amp; the criminal justice system: then and now.\_\
     </p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\"\
     \ /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\"\
-    \ /></p> <p>Details are coming soon, we are so excited about this one!\_</p>"
+    \ /></p> <p>Featuring:\_</p> <p>\u2022\_Susan Simpson, Attorney and blogger at\_\
+    <a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\u2022\_\
+    Laura Moy, Senior Policy Counsel, Open Technology Institute\_</p> <p>\u2022\_\
+    More details are coming soon, we are so excited about this one!\_\_</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/219834477/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -747,13 +750,17 @@ other:
   maybe_rsvp_count: 0
   name: '#LegalHack Serial: Cell phone data and the criminal justice system, then
     and now'
+  rsvp_limit: 50
   status: upcoming
   time: 1423090800000
-  updated: 1421381992000
+  updated: 1421427173000
   utc_offset: -18000000
+  venue: {address_1: Dupont Circle Area, city: Washington, country: us, id: 23578009,
+    lat: 38.875359000000003, lon: -76.994972000000004, name: '[Confirming]', repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 17
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -849,7 +856,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -935,7 +942,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava

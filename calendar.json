@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1415829988000, 
@@ -228,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1418772287000, 
@@ -273,7 +273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1419871773000, 
@@ -313,7 +313,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1421209931000, 
@@ -385,7 +385,7 @@
             "rsvp_limit": 20, 
             "status": "upcoming", 
             "time": 1422118800000, 
-            "updated": 1421151119000, 
+            "updated": 1421412918000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -416,7 +416,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1421263758000, 
@@ -454,7 +454,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1415119879000, 
@@ -520,7 +520,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1418909957000, 
@@ -557,7 +557,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1413740084000, 
@@ -595,11 +595,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1421263833000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>Details are coming soon, we are so excited about this one!\u00a0</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>Featuring:\u00a0</p> <p>\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\u2022\u00a0Laura Moy, Senior Policy Counsel, Open Technology Institute\u00a0</p> <p>\u2022\u00a0More details are coming soon, we are so excited about this one!\u00a0\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/219834477/", 
             "group": {
@@ -616,13 +616,25 @@
             "id": "219834477", 
             "maybe_rsvp_count": 0, 
             "name": "#LegalHack Serial: Cell phone data and the criminal justice system, then and now", 
+            "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1423090800000, 
-            "updated": 1421381992000, 
+            "updated": 1421427173000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Dupont Circle Area", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23578009, 
+                "lat": 38.875359000000003, 
+                "lon": -76.994972000000004, 
+                "name": "[Confirming]", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1417881835000, 
@@ -738,7 +750,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1416852247000, 
@@ -816,7 +828,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1418680238000, 
