@@ -234,7 +234,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 62
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -366,7 +366,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 87
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -408,7 +408,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1421151119000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -470,7 +470,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -557,7 +557,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 2
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -591,7 +591,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -808,7 +808,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1418679019000
   description: "<p>This event is still draft. RSVP to receive a notification when\
     \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
@@ -907,7 +907,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1062,7 +1062,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
