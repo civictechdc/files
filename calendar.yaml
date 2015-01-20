@@ -234,7 +234,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 62
 - created: 1418772287000
   description: "<p><b>DESCRIPTION\_</b></p> <p>Web Mavens! Join us as we discuss the\
     \ core of all websites - the content management system.</p> <p>We will learn from\_\
@@ -250,14 +250,14 @@ other:
     \ and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\_</b></p>\
     \ <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p>\
     \ <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This\
-    \ event is <b><i>free</i></b> if you work in a company/organization either on\
-    \ the website, on web/CMS content or other related area (marketing integration,\
+    \ event is <b><i>free</i></b> if you work in a single company/organization either\
+    \ on the website, on web/CMS content or other related area (marketing integration,\
     \ programming, management, etc). Just register without paying.</p> <p><br/>If\
     \ you are an independent, consultant, knowledge seeker, work for a consulting\
     \ firm etc, you are still very welcome! We just ask that you pay or volunteer\
     \ for half an hour. \_</p> <p>If you are a General Assembly student or alum (full\
     \ time or part time classes), register and include either the code provided or\
-    \ the class you took for free admission.</p> <p>To volunteer, email [masked].\
+    \ the class you took for free admission.</p> <p><br/>To volunteer, email [masked].\
     \ We ask for no more than a 30 minute time commitment.</p> <p><br/><b>AGENDA</b></p>\
     \ <p><br/>6:30 - Networking, drinks &amp; food\_<br/>7:00 - Presentations\_<br/>8:30\
     \ - More networking\_<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages\
@@ -283,14 +283,14 @@ other:
   name: Selecting and Planning a Web CMS
   status: upcoming
   time: 1421796600000
-  updated: 1421126646000
+  updated: 1421777551000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 83
 - created: 1419871773000
   description: "<p>For January's event, we are very pleased to have Glen Coppersmith,\
     \ PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p>\
@@ -366,7 +366,7 @@ other:
     state: MD, zip: '21045'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 99
 - created: 1421717448000
   description: <p>If you are having problems with your install, we are here to help.
     This is a virtual install party for the <a href="http://www.meetup.com/dc-pyladies/events/219822265/">Intro
@@ -386,7 +386,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 13
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -430,7 +430,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1421151119000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -455,7 +455,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -492,7 +492,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -669,7 +669,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 94
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -746,7 +746,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 143
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -929,7 +929,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 73
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -964,7 +964,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava

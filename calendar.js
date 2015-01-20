@@ -228,11 +228,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1418772287000, 
-            "description": "<p><b>DESCRIPTION\u00a0</b></p> <p>Web Mavens! Join us as we discuss the core of all websites - the content management system.</p> <p>We will learn from\u00a0<b>Tony Byrne</b>\u00a0as he tells us about options in the web CMS ecosystem, important steps in the planning process and tips for selecting system that's right for you.</p> <p>Tony is the\u00a0founder of Real Story Group, a company that specializes in technology selection. He is a friend of the Mavens and a storied expert on CMS selection and evaluation.\u00a0</p> <p>We will also hear from\u00a0<b>Bret Peters</b>\u00a0of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>And then\u00a0<b>Alexandra Chaikin</b>\u00a0of NeighborWorks America will share her experiences with a recent CMS selection project, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\u00a0</b></p> <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p> <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This event is <b><i>free</i></b> if you work in a company/organization either on the website, on web/CMS content or other related area (marketing integration, programming, management, etc). Just register without paying.</p> <p><br/>If you are an independent, consultant, knowledge seeker, work for a consulting firm etc, you are still very welcome! We just ask that you pay or volunteer for half an hour. \u00a0</p> <p>If you are a General Assembly student or alum (full time or part time classes), register and include either the code provided or the class you took for free admission.</p> <p>To volunteer, email [masked]. We ask for no more than a 30 minute time commitment.</p> <p><br/><b>AGENDA</b></p> <p><br/>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages (adult and otherwise).</i></b></p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\" /></p> <p>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today. \u00a0</p>", 
+            "description": "<p><b>DESCRIPTION\u00a0</b></p> <p>Web Mavens! Join us as we discuss the core of all websites - the content management system.</p> <p>We will learn from\u00a0<b>Tony Byrne</b>\u00a0as he tells us about options in the web CMS ecosystem, important steps in the planning process and tips for selecting system that's right for you.</p> <p>Tony is the\u00a0founder of Real Story Group, a company that specializes in technology selection. He is a friend of the Mavens and a storied expert on CMS selection and evaluation.\u00a0</p> <p>We will also hear from\u00a0<b>Bret Peters</b>\u00a0of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>And then\u00a0<b>Alexandra Chaikin</b>\u00a0of NeighborWorks America will share her experiences with a recent CMS selection project, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\u00a0</b></p> <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p> <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This event is <b><i>free</i></b> if you work in a single company/organization either on the website, on web/CMS content or other related area (marketing integration, programming, management, etc). Just register without paying.</p> <p><br/>If you are an independent, consultant, knowledge seeker, work for a consulting firm etc, you are still very welcome! We just ask that you pay or volunteer for half an hour. \u00a0</p> <p>If you are a General Assembly student or alum (full time or part time classes), register and include either the code provided or the class you took for free admission.</p> <p><br/>To volunteer, email [masked]. We ask for no more than a 30 minute time commitment.</p> <p><br/><b>AGENDA</b></p> <p><br/>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages (adult and otherwise).</i></b></p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\" /></p> <p>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today. \u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
             "fee": {
                 "accepts": "paypal", 
@@ -258,7 +258,7 @@ calendar({
             "name": "Selecting and Planning a Web CMS", 
             "status": "upcoming", 
             "time": 1421796600000, 
-            "updated": 1421126646000, 
+            "updated": 1421777551000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -273,7 +273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1419871773000, 
@@ -313,7 +313,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1421717448000, 
@@ -341,7 +341,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1421209931000, 
@@ -382,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1421151119000, 
@@ -417,7 +417,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1421079684000, 
@@ -444,7 +444,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1421263758000, 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1413740084000, 
@@ -623,7 +623,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1421263833000, 
@@ -818,7 +818,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1417124897000, 
@@ -856,7 +856,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1418680238000, 
