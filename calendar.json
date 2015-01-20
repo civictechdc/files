@@ -228,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1418772287000, 
@@ -273,7 +273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1419871773000, 
@@ -317,7 +317,7 @@
         }, 
         {
             "created": 1421717448000, 
-            "description": "<p>If you think you are going to have problems, we are here to help. This is an install party for the intro to panda's class. Shortly before we start, I will send a google hangout link.</p>", 
+            "description": "<p>If you are having problems with your install, we are here to help. This is a virtual install party for the <a href=\"http://www.meetup.com/dc-pyladies/events/219822265/\">Intro to Panda's class</a>. Shortly before we start, I will send a google hangout link.</p>", 
             "duration": 3600000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/219948430/", 
             "group": {
@@ -334,17 +334,18 @@
             "id": "219948430", 
             "maybe_rsvp_count": 0, 
             "name": "Friday Night install party for Pandas!", 
+            "rsvp_limit": 45, 
             "status": "upcoming", 
             "time": 1422057600000, 
-            "updated": 1421717476000, 
+            "updated": 1421717919000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1421209931000, 
-            "description": "<p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><b>Prereqs:</b><br/>* Comfortable with the basics of Python (or a similar language like Ruby)<br/>* Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><b>Installs (please have these installed before class):<br/></b>* Python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper<br/>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><b>Speakers:\u00a0</b></p> <p><b>Clara Bennett</b>, <i>Software Engineer @ Picwell</i><br/>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><b>Tyler Jorgensen</b><i>, Data Scientist @ Picwell</i><br/>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
+            "description": "<p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><b>Prereqs:</b><br/>* Comfortable with the basics of Python (or a similar language like Ruby)<br/>* Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><b>Installs (please have these installed before class):<br/></b> * Python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper<br/>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p>If you are having issues with the installation, we are offering <a href=\"http://www.meetup.com/dc-pyladies/events/219948430/\">online help</a>.</p> <p><b>Speakers:\u00a0</b></p> <p><br/><b>Clara Bennett</b>, <i>Software Engineer @ Picwell</i><br/>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><b>Tyler Jorgensen</b><i>, Data Scientist @ Picwell</i><br/>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/219822265/", 
             "group": {
@@ -365,7 +366,7 @@
             "rsvp_limit": 45, 
             "status": "upcoming", 
             "time": 1422111600000, 
-            "updated": 1421716601000, 
+            "updated": 1421717704000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 G St NW # 400", 
@@ -381,7 +382,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1421151119000, 
@@ -481,7 +482,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1415119879000, 
@@ -547,7 +548,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1418909957000, 
@@ -584,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1413740084000, 
@@ -817,7 +818,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1417124897000, 
