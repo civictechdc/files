@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1415829988000, 
@@ -193,129 +193,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1420474746000, 
-            "description": "<p>It's\u00a0here\u2026drumroll\u2026our first event in Tysons Corner!!</p> <p>We are incredibly excited to partner with\u00a0<b><a href=\"http://www.alarm.com/\">Alarm.com</a></b>\u00a0for our second presentation of Language of Languages. Please share the details with anyone that you know out in the NoVA region!</p> <p>---------------------------------------</p> <p>Do you have a New Year\u2019s resolution to learn to code, but don't know where to start? Do you have an idea for a web application or an app, but aren't sure which is the best platform to build it in? Are you a Product Manager that wants to better communicate with engineers on your team? Or do you simply want to learn what the differences are between Python, Ruby,\u00a0HTML,\u00a0CSS, Java, Javascript, and the seemingly endless number of terms you hear when people talk about programming?</p> <p>This meetup will introduce you to many common terms that might otherwise look like alphabet soup when you first start out. We will start from the ground up to explain what each language is useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners trying to decide which coding \"path\" to take. It is also useful for developers who\u00a0to expand their\u00a0high-level understanding of new languages!</p> <p>This talk was an absolute hit when we first presented it in D.C. We expect that you\u2019ll be just as engaged, invigorated, and ready to hit the ground running with code as our last audience!'</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219616597/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "219616597", 
-            "maybe_rsvp_count": 0, 
-            "name": "The Language of Languages", 
-            "rsvp_limit": 80, 
-            "status": "upcoming", 
-            "time": 1421796600000, 
-            "updated": 1421012700000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "8150 Leesburg Pike, Suite 1400", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 23554646, 
-                "lat": 38.916058, 
-                "lon": -77.227074000000002, 
-                "name": "Alarm.com", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 58
-        }, 
-        {
-            "created": 1418772287000, 
-            "description": "<p><b>DESCRIPTION\u00a0</b></p> <p>Web Mavens! Join us as we discuss the core of all websites - the content management system.</p> <p>We will learn from\u00a0<b>Tony Byrne</b>\u00a0as he tells us about options in the web CMS ecosystem, important steps in the planning process and tips for selecting system that's right for you.</p> <p>Tony is the\u00a0founder of Real Story Group, a company that specializes in technology selection. He is a friend of the Mavens and a storied expert on CMS selection and evaluation.\u00a0</p> <p>We will also hear from\u00a0<b>Bret Peters</b>\u00a0of Figleaf Software who will share the tips, tricks and insights on CMs selection and planning that he's learned over his years as a website integrator.\u00a0</p> <p>And then\u00a0<b>Alexandra Chaikin</b>\u00a0of NeighborWorks America will share her experiences with a recent CMS selection project, including internal politics and process, getting buy-in and handling hiccups.</p> <p><b>SPEAKERS\u00a0</b></p> <p><b>Tony Byrne</b>, Real Story Group</p> <p><b>Bret Peters</b>, Figleaf Software</p> <p><b>Alexandra Chaikin</b>, NeighborWorks America</p> <p><b>COST</b></p> <p>This event is <b><i>free</i></b> if you work in a single company/organization either on the website, on web/CMS content or other related area (marketing integration, programming, management, etc). Just register without paying.</p> <p><br/>If you are an independent, consultant, knowledge seeker, work for a consulting firm etc, you are still very welcome! We just ask that you pay or volunteer for half an hour. \u00a0</p> <p>If you are a General Assembly student or alum (full time or part time classes), register and include either the code provided or the class you took for free admission.</p> <p><br/>To volunteer, email [masked]. We ask for no more than a 30 minute time commitment.</p> <p><br/><b>AGENDA</b></p> <p><br/>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><b><i>We'll have food and beverages (adult and otherwise).</i></b></p> <p><b>OUR SPONSOR</b></p> <p><b>Figleaf Software\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/b/c/600_433112444.jpeg\" /></p> <p>\u201cWe\u2019ve Got You Covered\u201d\u2026 Located in the heart of Washington, DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20 years, we\u2019ve helped a diverse range of clients with needs across the entire spectrum of web-related services, including design, marketing and content strategies, custom software development, product licensing and personalized training. Please visit\u00a0<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\u00a0or call\u00a0&lt;a&gt;[masked]&lt;/a&gt;\u00a0to speak directly with a consultant today. \u00a0</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/219283437/", 
-            "fee": {
-                "accepts": "paypal", 
-                "amount": 10, 
-                "currency": "USD", 
-                "description": "FREE for many - see below", 
-                "label": "Price", 
-                "required": "0"
-            }, 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "219283437", 
-            "maybe_rsvp_count": 0, 
-            "name": "Selecting and Planning a Web CMS", 
-            "status": "upcoming", 
-            "time": 1421796600000, 
-            "updated": 1421777551000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 82
-        }, 
-        {
-            "created": 1419871773000, 
-            "description": "<p>For January's event, we are very pleased to have Glen Coppersmith, PhD, discussing how Twitter can be used for mental health analysis.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Quantified Mental Health Signals from Twitter -\u00a0</i>Glen Coppersmith, PhD</p> <p>9:00 PM -- Post event drinks at Greene Turtle</p> <p><b>Location</b></p> <p>Loyola Columbia</p> <p>8890 McGaw Rd #130,\u00a0Columbia,\u00a0MD</p> <p>There is ample free parking surrounding the building.</p> <p><b>Talk</b></p> <p><b><i>Quantified Mental Health Signals from Twitter</i><br/></b></p> <p>The ubiquity of social media provides a rich opportunity to enhance\u00a0the data available to mental health clinicians and researchers,\u00a0enabling a better-informed and better-equipped mental health field. We\u00a0present analysis of mental health phenomena in publicly available\u00a0Twitter data, demonstrating how rigorous application of simple natural\u00a0language processing methods can yield insight into specific disorders\u00a0as well as mental health writ large. What's more, we find evidence\u00a0that as-of-yet undiscovered linguistic signals relevant to mental\u00a0health exist in social media. We present a novel method for gathering\u00a0data for a range of mental illnesses quickly and cheaply, then focus\u00a0on analysis of four in particular: post-traumatic stress disorder(PTSD), depression, bipolar disorder, and seasonal affective disorder\u00a0(SAD). We also discuss a hackathon we recently hosted, and an in-progress\u00a0shared task using the data used from these\u00a0investigations.\u00a0We intend for these\u00a0proof-of-concept results, experiments, and explorations to inform the\u00a0necessary ethical discussion regarding the balance between the utility\u00a0of such data and the privacy of mental health related information.</p> <p><br/><b>Speaker</b></p> <p><a href=\"https://twitter.com/glencoppersmith\">Glen</a> is an independent consultant addressing a range of data science challenges -- currently working with the leadership of DARPA's XData program, an affiliate of the Data Guild, and as a part-time research scientist\u00a0at the Human Language Technology\u00a0Center of Excellence at Johns Hopkins University. He joined the HLTCOE in 2008 as the first full-time researcher, staying on full time there until the end of 2014.\u00a0He also maintains assistant research scientist positions within two departments at\u00a0Johns Hopkins: Applied Math and Statistics and Electrical and Computer\u00a0Engineering. His graduate work was at Northeastern University, using computational techniques to explore psychology problems (in linguistics, neuroscience, and clinical psychology). His work spans a number of disciplines: computer science,\u00a0graph theory, statistics, natural language processing, machine\u00a0learning, and psychology. He tends to shy away from curated and\u00a0cared-for datasets, instead preferring the wild-west of real world\u00a0data. He suspects this is in part due to his keen appreciation for the\u00a0outdoors -- an avid rock climber, kayaker, photographer, hiker, and\u00a0SCUBA diver. Glen can be reached on Twitter\u00a0<a href=\"https://twitter.com/glencoppersmith\">@glencoppersmith</a> and at\u00a0<a href=\"http://glencoppersmith.com/\">glencoppersmith.com</a>.</p> <p><br/><b>Company</b></p> <p><a href=\"http://thedataguild.com/\">The Data Guild</a> brings together deeply experienced data scientists, social scientists, designers and engineers with diverse backgrounds to tackle important challenges. The team has decades of experience from working with governments, nonprofits, non-government organizations, technology startups, and large multinational corporations. Members of the Guild have also built multiple successful technology companies.</p> <p><br/>The\u00a0<a href=\"http://hltcoe.jhu.edu/\">Human Language Technology Center of Excellence</a> was founded in\u00a0January of 2007 at Johns Hopkins University to focus on research in all aspects of speech and language technologies.\u00a0Doing research at the center is exciting; our mission is to explore highly innovative technologies that could have a significant impact on challenging real-world problems.\u00a0The center's research focuses on advanced technology for automatically analyzing a wide range of speech, text, and document data in multiple languages. Our research\u00a0addresses key issues in extracting information from massive sources of text and speech.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/219477112/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "219477112", 
-            "maybe_rsvp_count": 0, 
-            "name": "Quantified Mental Health Signals from Twitter", 
-            "rsvp_limit": 150, 
-            "status": "upcoming", 
-            "time": 1421796600000, 
-            "updated": 1419872164000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "8890 McGaw Rd #130", 
-                "city": "Columbia", 
-                "country": "us", 
-                "id": 8581712, 
-                "lat": 39.189391999999998, 
-                "lon": -76.820137000000003, 
-                "name": "Loyola Columbia", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21045"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 94
-        }, 
-        {
             "created": 1421717448000, 
             "description": "<p>If you are having problems with your install, we are here to help. This is a virtual install party for the <a href=\"http://www.meetup.com/dc-pyladies/events/219822265/\">Intro to Panda's class</a>. Shortly before we start, I will send a google hangout link.</p>", 
             "duration": 3600000, 
@@ -382,7 +259,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1421151119000, 
@@ -417,7 +294,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1421079684000, 
@@ -482,7 +359,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1415119879000, 
@@ -509,7 +386,7 @@ calendar({
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -548,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1418909957000, 
@@ -585,7 +462,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1413740084000, 
@@ -623,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 146
         }, 
         {
             "created": 1421263833000, 
@@ -662,7 +539,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1417881835000, 
@@ -778,7 +655,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1416852247000, 
@@ -818,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1417124897000, 
@@ -968,7 +845,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1417881835000, 
@@ -2045,6 +1922,33 @@ calendar({
                 "state": "DC", 
                 "zip": "20009"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1379643162000, 
+            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgyvcbcc/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "qkxmtgyvcbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1453419000000, 
+            "updated": 1383661832000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
