@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -283,7 +283,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -320,7 +320,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 36
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -407,7 +407,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 12
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -441,7 +441,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 51
 - created: 1418909957000
   description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
@@ -497,7 +497,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 106
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -574,7 +574,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 152
+  yes_rsvp_count: 154
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -681,7 +681,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -751,7 +751,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -796,6 +796,66 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1421895090000
+  description: "<p>Spark is becoming increasingly popular for big data processing\
+    \ and analytics with significant speed increases over other platforms such as\
+    \ MapReduce. Commonly Spark interfaces with HDFS for data storage, but did you\
+    \ know that Spark can also leverage the power of Cassandra? For our February event,\
+    \ we are honored to have DataStax architect Matt Kennedy introduce Cassandra and\
+    \ discuss how Spark interfaces with this popular NoSQL database.</p> <p>\n\n\n\
+    \n\n\n<b>Agenda</b></p> <p>\n\n\n\n\n\n6:30 PM -- Networking &amp; Food\_</p>\
+    \ <p>\n\n\n\n\n\n6:55 PM -- Greetings &amp; Prizes</p> <p>\n\n\n\n\n\n7:00 PM\
+    \ -- <i>From 0 to Streaming - </i>Matt Kennedy</p> <p>\n\n\n\n\n\n9:00 PM -- Post\
+    \ event drinks at &lt;Location&gt;</p> <p>\n\n\n\n\n\n<b>Location</b></p> <p>\n\
+    \n\n\n\n\n\n\n\n\nGoogle maps does a good job of pinpointing the exact building\
+    \ location based on the address above.</p> <p>\n\nParking is not an issue. You\
+    \ can park on the street nearby or you can take up any Visitor spot that you can\
+    \ find. Also, feel free to park in the Ad.com/AOL employee parking lot but not\
+    \ in spaces marked Under Armour or Reserved.</p> <p>\n\n\n\n\n\n<b>Talks</b></p>\
+    \ <p>\n\n<b>From 0 to Streaming<br/></b></p> <p>\n\nMatt will begin by discussing\
+    \ the architecture of Cassandra at a high level before covering how Spark can\
+    \ be used to process data in Cassandra. via a number of subprojects within Spark\
+    \ including Shark, SparkSQL &amp; Streaming.</p> <p>\n\n\n\n\n\n\n<b>Speakers</b></p>\
+    \ <p>\n\n<b><a href=\"https://twitter.com/thetweetofmatt\">Matt Kennedy</a></b>\
+    \ is an architect at DataStax. Matt has been a Cassandra user and occasional contributor\
+    \ since version 0.7 and is a co-organizer of the Cassandra meetup in the Washinton\
+    \ DC area. At the European Cassandra Summit in October of 2013, he was recognized\
+    \ by DataStax as a Cassandra MVP. Matt has been working with distributed systems\
+    \ his entire career and kinda wishes he was one. Because while Cassandra is partition\
+    \ tolerant, Matt is not.</p> <p>\n\n\n\n\n\n\n<b>Company</b></p> <p>\n\n<b><a\
+    \ href=\"http://www.datastax.com/\">DataStax </a></b>delivers Apache Cassandra\u2122\
+    , the leading distributed database technology, to the enterprise. Apache Cassandra\u2122\
+    \ is built to be agile, always-on, and predictably scalable to any size.\_With\
+    \ more than 400 customers in over 50 countries, DataStax is the database technology\
+    \ and transactional backbone of choice for the world\u2019s most innovative companies\
+    \ such as Netflix, Adobe, Intuit, and eBay. Based in Santa Clara, Calif., DataStax\
+    \ is backed by industry-leading investors including Comcast Ventures, Crosslink\
+    \ Capital, Lightspeed Venture Partners, Kleiner Perkins Caufield &amp; Byers,\
+    \ Meritech Capital, Premji Invest and Scale Venture Partners. For more information,\
+    \ visit\_<a href=\"http://www.datastax.com/\">DataStax.com</a>\_or follow us\_\
+    <a href=\"https://twitter.com/datastax\">@DataStax</a>.</p> <p>\n\n\n\n\n\n\n\n\
+    <b>Post-event Drinks</b></p> <p>\n\nGreen Turtle\_</p> <p>\n\n1606 Whetstone Way</p>\
+    \ <p>\n\nBaltimore, MD 21230</p> <p>\n[masked]</p>"
+  duration: 8100000
+  event_url: http://www.meetup.com/Data-Science-MD/events/219997608/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '219997608'
+  maybe_rsvp_count: 0
+  name: 'From 0 to Streaming: Using Cassandra with Spark'
+  rsvp_limit: 200
+  status: upcoming
+  time: 1423697400000
+  updated: 1421895430000
+  utc_offset: -18000000
+  venue: {address_1: '1020 Hull St #100', city: Baltimore, country: us, id: 6042402,
+    lat: 39.275238000000002, lon: -76.591057000000006, name: AOL / Advertising.com
+      - Ivory Building, repinned: false, state: MD, zip: '21230'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 30
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -845,7 +905,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
