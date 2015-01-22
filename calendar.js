@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1415829988000, 
@@ -218,7 +218,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1421209931000, 
@@ -259,7 +259,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1421151119000, 
@@ -386,7 +386,7 @@ calendar({
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -425,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1418909957000, 
@@ -462,7 +462,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1413740084000, 
@@ -500,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 154
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1421263833000, 
@@ -581,11 +581,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical Data Format (<a href=\"http://en.wikipedia.org/wiki/Hierarchical_Data_Format\">HDF</a>) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of numerical data.</p> <p><b>Agenda</b></p> <p>6:30pm - Empanadas</p> <p>7:00pm - Introductions &amp; Announcement</p> <p>7:15pm - Talk</p> <p>8:30pm - Head to Tonic for drinks</p>", 
+            "description": "<p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical Data Format (<a href=\"http://en.wikipedia.org/wiki/Hierarchical_Data_Format\">HDF</a>) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of numerical data.</p> <p><b>Agenda</b></p> <p>6:30pm - Empanadas</p> <p>7:00pm - Introductions &amp; Announcements</p> <p>7:15pm - Talk</p> <p>8:30pm - Head to Tonic for drinks</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100055/", 
             "group": {
@@ -599,24 +599,24 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Come into the building and go downstairs. Follow the smell of the empanadas.", 
             "id": "hffzclytdbgb", 
             "maybe_rsvp_count": 0, 
             "name": "Working with HDF Files", 
             "status": "upcoming", 
             "time": 1423092600000, 
-            "updated": 1420740895000, 
+            "updated": 1421941306000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "2201 G St. NW", 
+                "address_1": "1957 E Street, Room B12", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
+                "id": 23590002, 
+                "lat": 38.896275000000003, 
+                "lon": -77.044205000000005, 
+                "name": "GWU", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -697,7 +697,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1421849941000, 
@@ -776,7 +776,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1416852247000, 
@@ -815,7 +815,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -940,7 +940,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1379643162000, 
