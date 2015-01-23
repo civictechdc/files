@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 51
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -214,7 +214,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - created: 1421209931000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -258,7 +258,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 39
 - created: 1421151119000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -283,7 +283,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 16
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -354,7 +354,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -407,7 +407,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 13
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -441,24 +441,25 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1418909957000
-  description: "<p><b>NOTE: Register on\_<a href=\"http://wcm-webux.eventbrite.com\"\
-    >Eventbrite</a></b></p> <p>You are encouraged to RSVP here as well but you must\
-    \ be on Eventbrite for entry.</p> <p><b>OVERVIEW</b></p> <p>Have you seen those\
-    \ beautiful websites that you can't use? Or the super-cool ones that make it hard\
-    \ to actually accomplish your tasks?\_Don't be like that! Join our all-star panel\
-    \ to learn about website user experience.\_</p> <p><b>Duane Degler</b> of Design\
-    \ for Context will\_lead you through the essentials of web user experience including\
-    \ recognizing good UX, understanding the\_UX priorities on your site, and integrating\
-    \ UX into your website's evolution and maintenance.\_Duane will also talk about\
-    \ changes in UX that may impact your website in the future, including mobile and\
-    \ other trends.</p> <p><b>Margaret Haag</b> of\_Capital One will discuss ways\
-    \ to keep creativity in user interfaces. <i>More details on Margaret's talk will\
-    \ be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\_SRA International\
-    \ will talk about the importance of user experience. \_<i>More details on Chris'\
-    \ talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris\
-    \ Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p>\
+  description: "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\"\
+    >Eventbrite</a>. You MUST be on the Eventbrite for entry.\_</b></p> <p><b>We are\
+    \ FULL but you can RSVP here to learn about the next Web UX event - we'll send\
+    \ a notice to this group beforehand.</b></p> <p><b>OVERVIEW</b></p> <p>Have you\
+    \ seen those beautiful websites that you can't use? Or the super-cool ones that\
+    \ make it hard to actually accomplish your tasks?\_Don't be like that! Join our\
+    \ all-star panel to learn about website user experience.\_</p> <p><b>Duane Degler</b>\
+    \ of Design for Context will\_lead you through the essentials of web user experience\
+    \ including recognizing good UX, understanding the\_UX priorities on your site,\
+    \ and integrating UX into your website's evolution and maintenance.\_Duane will\
+    \ also talk about changes in UX that may impact your website in the future, including\
+    \ mobile and other trends.</p> <p><b>Margaret Haag</b> of\_Capital One will discuss\
+    \ ways to keep creativity in user interfaces. <i>More details on Margaret's talk\
+    \ will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\_SRA\
+    \ International will talk about the importance of user experience. \_<i>More details\
+    \ on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p>\
+    \ <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p>\
     \ <p><br/>Duane Degler, Principal Consultant, Design for Context\_</p> <p>Margaret\
     \ Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This\
     \ event is focused on web managers, web designers and front-end developers but\
@@ -490,14 +491,14 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1422401400000
-  updated: 1421077652000
+  updated: 1421965776000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 111
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -574,7 +575,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 155
+  yes_rsvp_count: 157
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -685,9 +686,25 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 44
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
+    \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
+    \ 4, at <a href=\"http://stetsons-dc.com/index.php\">Stetson's</a> at 1610 U street\
+    \ NW. We'll kick off introductions and lightning talks at 7:30pm, and plan on\
+    \ staying after for time to talk with our speakers and everyone else.</p> <p>We're\
+    \ still building our speaker lineup, but here's an advance look at our lightning\
+    \ talks:\_</p> <p>\u2022\_<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\"\
+    >Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"\
+    https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use\
+    \ and share the historical and technical context of modern GIS.</p> <p>Want to\
+    \ give a 5 minute talk on an interesting us of GIS? Message us with your idea.</p>\
+    \ <p><br/>Stetsons is a 21 and over venue. If you're not yet 21 but want to attend,\
+    \ message us via meetup and we'll do our best to get you in.\_</p> <p>GeoDC meets\
+    \ on the first Wednesday of the month to learn, network, and talk about the work\
+    \ people are doing with maps, GIS, geodata, and more. Join this meetup group,\
+    \ follow <a href=\"https://twitter.com/geo_dc\">@Geo_DC </a>on Twitter, and join\
+    \ our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\">Google group</a>\
+    \ for updates.</p> <p>Do you have something you'd like to share with the group?\
+    \ Let us know!</p>"
   event_url: http://www.meetup.com/Geo-DC/events/215042332/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -695,17 +712,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcytdbgb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'February GeoDC: GIS in action'
   status: upcoming
   time: 1423094400000
-  updated: 1326383071000
+  updated: 1421963656000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 30
 - created: 1418679019000
   description: "<p>This event is still draft. RSVP to receive a notification when\
     \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
@@ -753,7 +770,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 51
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -857,7 +874,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 54
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -1035,7 +1052,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
