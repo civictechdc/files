@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1415829988000, 
@@ -193,75 +193,6 @@
     ], 
     "other": [
         {
-            "created": 1421717448000, 
-            "description": "<p>If you are having problems with your install, we are here to help. This is a virtual install party for the <a href=\"http://www.meetup.com/dc-pyladies/events/219822265/\">Intro to Panda's class</a>. Shortly before we start, I will send a google hangout link.</p>", 
-            "duration": 3600000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/219948430/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "219948430", 
-            "maybe_rsvp_count": 0, 
-            "name": "Friday Night install party for Pandas!", 
-            "rsvp_limit": 45, 
-            "status": "upcoming", 
-            "time": 1422057600000, 
-            "updated": 1421717919000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
-            "created": 1421209931000, 
-            "description": "<p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><b>Prereqs:</b><br/>* Comfortable with the basics of Python (or a similar language like Ruby)<br/>* Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><b>Installs (please have these installed before class):<br/></b> * Python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper<br/>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p>If you are having issues with the installation, we are offering <a href=\"http://www.meetup.com/dc-pyladies/events/219948430/\">online help</a>.</p> <p><b>Speakers:\u00a0</b></p> <p><br/><b>Clara Bennett</b>, <i>Software Engineer @ Picwell</i><br/>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><b>Tyler Jorgensen</b><i>, Data Scientist @ Picwell</i><br/>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/219822265/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Head to the dream lab classroom space -- 1st floor on the left as you enter", 
-            "id": "219822265", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Pandas", 
-            "rsvp_limit": 45, 
-            "status": "upcoming", 
-            "time": 1422111600000, 
-            "updated": 1421717704000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1421151119000, 
             "description": "<p>Are you a professional female developer? You're not alone. Come brunch with others like you! This brunch is for working developers only because it can be tough to find times to network with other women in the industry.</p> <p>The estimated cost for the brunch is $20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219802316/", 
@@ -294,7 +225,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1421079684000, 
@@ -359,7 +290,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415119879000, 
@@ -425,7 +356,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1418909957000, 
@@ -500,11 +431,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 161
+            "yes_rsvp_count": 169
         }, 
         {
             "created": 1421263833000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>Featuring:\u00a0</p> <p>\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\u2022\u00a0Laura Moy, Senior Policy Counsel, Open Technology Institute\u00a0</p> <p>\u2022\u00a0More details are coming soon, we are so excited about this one!\u00a0\u00a0</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>Featuring:\u00a0</p> <p>\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\u2022\u00a0Laura Moy, Senior Policy Counsel, Open Technology Institute</p> <p>\u2022 Kevin Bankston,\u00a0\u00a0Policy Director, Open Technology Institute</p> <p>\u2022\u00a0More details are coming soon, we are so excited about this one!\u00a0\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/219834477/", 
             "group": {
@@ -524,7 +455,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1423090800000, 
-            "updated": 1421871439000, 
+            "updated": 1422045717000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -660,7 +591,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1418679019000, 
