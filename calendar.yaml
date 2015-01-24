@@ -219,7 +219,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -290,7 +290,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1415119879000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -343,7 +343,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 13
+  waitlist_count: 14
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -377,7 +377,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1418909957000
   description: "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a>. You MUST be on the Eventbrite for entry.\_</b></p> <p><b>We are\
@@ -434,7 +434,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 114
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -511,7 +511,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 169
+  yes_rsvp_count: 172
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -593,7 +593,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 34
 - created: 1417881835000
   description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
     Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
@@ -861,7 +861,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 3
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -941,7 +941,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1418680238000
   description: <p>Learn about managing marketing and communications across multiple
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
