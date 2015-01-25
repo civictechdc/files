@@ -193,6 +193,33 @@ calendar({
     ], 
     "other": [
         {
+            "created": 1422156857000, 
+            "description": "<p>Last minute posting, but if you're free this Sunday afternoon and aren't on the DCFemTech list already, come on out! \u00a0Join your fellow GDI and other DC Women in Tech groups for a Code &amp; Coffee Sunday afternoon!\u00a0</p> <p>Rather than holding our own general Code &amp; Coffees, Girl Develop It DC teams up with other awesome WIT groups through our collective, DCFemTech, to host Code &amp; Coffee events each month. \u00a0</p> <p><a href=\"https://nvite.com/CodeCoffee/ff3\">RSVP HERE</a>\u00a0if you are planning to attend. \u00a0There is no need to RSVP on this Meetup event unless you just want to, but\u00a0PLEASE\u00a0go RSVP on the DCFemTech Nvite page!</p> <p>Code &amp; Coffees are currently offered 2 times a month. 1\u00a0Saturday\u00a0afternoon and\u00a01\u00a0Sunday\u00a0afternoon from\u00a02-5pm. \u00a0 Sign up on the <a href=\"http://dcfemtech.github.io/codecoffee.html\">DCFemTech website</a> to receive email notifications about Code &amp; Coffee events!\u00a0</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan.\u00a0These co-working events are informal, but people can bring their own projects or meet people who are working on similar skillsets, collaborate together, &amp; maybe make some friends and find a mentor!\u00a0</p> <p><br/><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\u00a0is a collective of 24+ Women in Tech organizations in the DC/Metro area working together to collaborate, support and streamline events in the community. DCFemTech aims to lower the barriers to entry to tech. Questions? Email us at\u00a0<a href=\"mailto:[masked]\">[masked]</a>, sign up for the\u00a0<a href=\"http://dcfemtech.github.io/newsletter.html\">events newsletter</a>\u00a0or follow us on Twitter\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=87a7144c38&amp;e=7aa183df4d\">@DCFemTech</a>!</p> <p>The Code &amp; Coffee Team</p> <p>aka\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=35edcc5b3a&amp;e=7aa183df4d\">@DCFemTech</a>,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=5eaa224bd3&amp;e=7aa183df4d\">@WomenWhoCodeDC</a>,<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=004d2703ed&amp;e=7aa183df4d\">@LadiesWhoCode</a>\u00a0DC,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=ee54f82203&amp;e=7aa183df4d\">@RailsGirlsDC</a>,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=0c8ce49474&amp;e=7aa183df4d\">@GirlDevelopItDC</a>\u00a0&amp;\u00a0<a href=\"http://github.us8.list-manage2.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=674f459c13&amp;e=7aa183df4d\">@PyLadiesDC</a>\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/220061831/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "220061831", 
+            "maybe_rsvp_count": 0, 
+            "name": "DCFemTech Code & Coffee", 
+            "status": "upcoming", 
+            "time": 1422212400000, 
+            "updated": 1422156857000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1421079684000, 
             "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/CodeCoffee/ff3\"><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
             "duration": 10800000, 
@@ -217,7 +244,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1421263758000, 
@@ -396,7 +423,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 179
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1421263833000, 
@@ -593,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1421849941000, 

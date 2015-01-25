@@ -195,6 +195,51 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
+- created: 1422156857000
+  description: "<p>Last minute posting, but if you're free this Sunday afternoon and\
+    \ aren't on the DCFemTech list already, come on out! \_Join your fellow GDI and\
+    \ other DC Women in Tech groups for a Code &amp; Coffee Sunday afternoon!\_</p>\
+    \ <p>Rather than holding our own general Code &amp; Coffees, Girl Develop It DC\
+    \ teams up with other awesome WIT groups through our collective, DCFemTech, to\
+    \ host Code &amp; Coffee events each month. \_</p> <p><a href=\"https://nvite.com/CodeCoffee/ff3\"\
+    >RSVP HERE</a>\_if you are planning to attend. \_There is no need to RSVP on this\
+    \ Meetup event unless you just want to, but\_PLEASE\_go RSVP on the DCFemTech\
+    \ Nvite page!</p> <p>Code &amp; Coffees are currently offered 2 times a month.\
+    \ 1\_Saturday\_afternoon and\_1\_Sunday\_afternoon from\_2-5pm. \_ Sign up on\
+    \ the <a href=\"http://dcfemtech.github.io/codecoffee.html\">DCFemTech website</a>\
+    \ to receive email notifications about Code &amp; Coffee events!\_</p> <p>Code\
+    \ &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson\
+    \ plan.\_These co-working events are informal, but people can bring their own\
+    \ projects or meet people who are working on similar skillsets, collaborate together,\
+    \ &amp; maybe make some friends and find a mentor!\_</p> <p><br/><a href=\"http://dcfemtech.github.io/\"\
+    >DCFemTech</a>\_is a collective of 24+ Women in Tech organizations in the DC/Metro\
+    \ area working together to collaborate, support and streamline events in the community.\
+    \ DCFemTech aims to lower the barriers to entry to tech. Questions? Email us at\_\
+    <a href=\"mailto:[masked]\">[masked]</a>, sign up for the\_<a href=\"http://dcfemtech.github.io/newsletter.html\"\
+    >events newsletter</a>\_or follow us on Twitter\_<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=87a7144c38&amp;e=7aa183df4d\"\
+    >@DCFemTech</a>!</p> <p>The Code &amp; Coffee Team</p> <p>aka\_<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=35edcc5b3a&amp;e=7aa183df4d\"\
+    >@DCFemTech</a>,\_<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=5eaa224bd3&amp;e=7aa183df4d\"\
+    >@WomenWhoCodeDC</a>,<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=004d2703ed&amp;e=7aa183df4d\"\
+    >@LadiesWhoCode</a>\_DC,\_<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=ee54f82203&amp;e=7aa183df4d\"\
+    >@RailsGirlsDC</a>,\_<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=0c8ce49474&amp;e=7aa183df4d\"\
+    >@GirlDevelopItDC</a>\_&amp;\_<a href=\"http://github.us8.list-manage2.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=674f459c13&amp;e=7aa183df4d\"\
+    >@PyLadiesDC</a>\_</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/220061831/
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
+    who: Nerdettes}
+  headcount: 0
+  id: '220061831'
+  maybe_rsvp_count: 0
+  name: DCFemTech Code & Coffee
+  status: upcoming
+  time: 1422212400000
+  updated: 1422156857000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1421079684000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p>\
@@ -231,7 +276,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -486,7 +531,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 179
+  yes_rsvp_count: 182
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -682,7 +727,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
