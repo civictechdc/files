@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1415829988000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1415830056000, 
@@ -193,60 +193,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1422156857000, 
-            "description": "<p>Last minute posting, but if you're free this Sunday afternoon and aren't on the DCFemTech list already, come on out! \u00a0Join your fellow GDI and other DC Women in Tech groups for a Code &amp; Coffee Sunday afternoon!\u00a0</p> <p>Rather than holding our own general Code &amp; Coffees, Girl Develop It DC teams up with other awesome WIT groups through our collective, DCFemTech, to host Code &amp; Coffee events each month. \u00a0</p> <p><a href=\"https://nvite.com/CodeCoffee/ff3\">RSVP HERE</a>\u00a0if you are planning to attend. \u00a0There is no need to RSVP on this Meetup event unless you just want to, but\u00a0PLEASE\u00a0go RSVP on the DCFemTech Nvite page!</p> <p>Code &amp; Coffees are currently offered 2 times a month. 1\u00a0Saturday\u00a0afternoon and\u00a01\u00a0Sunday\u00a0afternoon from\u00a02-5pm. \u00a0 Sign up on the <a href=\"http://dcfemtech.github.io/codecoffee.html\">DCFemTech website</a> to receive email notifications about Code &amp; Coffee events!\u00a0</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan.\u00a0These co-working events are informal, but people can bring their own projects or meet people who are working on similar skillsets, collaborate together, &amp; maybe make some friends and find a mentor!\u00a0</p> <p><br/><a href=\"http://dcfemtech.github.io/\">DCFemTech</a>\u00a0is a collective of 24+ Women in Tech organizations in the DC/Metro area working together to collaborate, support and streamline events in the community. DCFemTech aims to lower the barriers to entry to tech. Questions? Email us at\u00a0<a href=\"mailto:[masked]\">[masked]</a>, sign up for the\u00a0<a href=\"http://dcfemtech.github.io/newsletter.html\">events newsletter</a>\u00a0or follow us on Twitter\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=87a7144c38&amp;e=7aa183df4d\">@DCFemTech</a>!</p> <p>The Code &amp; Coffee Team</p> <p>aka\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=35edcc5b3a&amp;e=7aa183df4d\">@DCFemTech</a>,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=5eaa224bd3&amp;e=7aa183df4d\">@WomenWhoCodeDC</a>,<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=004d2703ed&amp;e=7aa183df4d\">@LadiesWhoCode</a>\u00a0DC,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=ee54f82203&amp;e=7aa183df4d\">@RailsGirlsDC</a>,\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=0c8ce49474&amp;e=7aa183df4d\">@GirlDevelopItDC</a>\u00a0&amp;\u00a0<a href=\"http://github.us8.list-manage2.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=674f459c13&amp;e=7aa183df4d\">@PyLadiesDC</a>\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/220061831/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "220061831", 
-            "maybe_rsvp_count": 0, 
-            "name": "DCFemTech Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1422212400000, 
-            "updated": 1422156857000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1421079684000, 
-            "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/CodeCoffee/ff3\"><a href=\"https://nvite.com/CodeCoffee/ff3\" class=\"linkified\">https://nvite.com/CodeCoffee/ff3</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219780898/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "219780898", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
-            "status": "upcoming", 
-            "time": 1422212400000, 
-            "updated": 1421264636000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
             "created": 1421263758000, 
             "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on Monday, January 26, 2015 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over snacks and drinks.</p> <p>Thanks so much to WeWork and Milhalter Law\u00a0for hosting us again!</p> <p>Questions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
             "duration": 7200000, 
@@ -282,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1415119879000, 
@@ -309,7 +255,7 @@ calendar({
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -423,7 +369,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 191
         }, 
         {
             "created": 1421263833000, 
@@ -543,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1326383071000, 
@@ -583,7 +529,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1418679019000, 
@@ -699,7 +645,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1416852247000, 
@@ -890,7 +836,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1421082688000, 
@@ -1776,6 +1722,45 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1432764000000, 
+            "updated": 1421849941000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbfb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytjbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1433368800000, 
             "updated": 1421849941000, 
             "utc_offset": -14400000, 
             "venue": {
