@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1415829988000, 
@@ -194,7 +194,7 @@
     "other": [
         {
             "created": 1421263758000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on Monday, January 26, 2015 to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over snacks and drinks.</p> <p>Thanks so much to WeWork and Milhalter Law\u00a0for hosting us again!</p> <p>Questions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on Monday, January 26, 2015 [<b><i>actually another time, this is being rescheduled due to snow!</i></b>] to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over snacks and drinks.</p> <p>Thanks so much to WeWork and Milhalter Law\u00a0for hosting us again!</p> <p>Questions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/219834425/", 
             "group": {
@@ -210,10 +210,10 @@
             "headcount": 0, 
             "id": "219834425", 
             "maybe_rsvp_count": 0, 
-            "name": "#LegalHack CopyNight Returns: January 26th Edition!", 
+            "name": "#LegalHack CopyNight Returns (but not 1/26! this is being rescheduled!)", 
             "status": "upcoming", 
             "time": 1422313200000, 
-            "updated": 1421338340000, 
+            "updated": 1422293103000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
@@ -255,7 +255,7 @@
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -294,7 +294,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1418909957000, 
@@ -331,7 +331,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1413740084000, 
@@ -369,7 +369,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 194
+            "yes_rsvp_count": 203
         }, 
         {
             "created": 1421263833000, 
@@ -410,7 +410,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1421769158000, 
@@ -450,11 +450,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical Data Format (<a href=\"http://en.wikipedia.org/wiki/Hierarchical_Data_Format\">HDF</a>) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of numerical data.</p> <p><b>Agenda</b></p> <p>6:30pm - Empanadas</p> <p>7:00pm - Introductions &amp; Announcements</p> <p>7:15pm - Talk</p> <p>8:30pm - Head to Tonic for drinks</p>", 
+            "description": "<p>The Hierarchical Data Format is a very popular choice for storing large amounts of multidimensional numerical data. It is used in many scientific, engineering, and commercial applications. Data stored in this format are accessible from a wide variety of programming languages and software tools on almost any type of hardware.</p> <p>In this talk Aleksandar Jelenak\u00a0will cover:\u00a0</p> <p>\n\n\u2022 The\u00a0HDF data model</p> <p>\n\n\u2022\u00a0How HDF helps data wranglers</p> <p>\n\n\u2022\u00a0HDF's stable API as the basis for sustainable software and data</p> <p>\n\n\u2022\u00a0Examples of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n<b><br/></b></p> <p><b>Meetup Agenda</b></p> <p>\n\n6:30pm - Empanadas</p> <p>\n\n7:00pm - Introductions &amp; Announcements</p> <p>\n\n7:15pm - Talk</p> <p>\n\n8:30pm - Head to Tonic for drinks</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100055/", 
             "group": {
@@ -474,7 +474,7 @@
             "name": "Working with HDF Files", 
             "status": "upcoming", 
             "time": 1423092600000, 
-            "updated": 1421941306000, 
+            "updated": 1422274778000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street, Room B12", 
@@ -489,7 +489,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1326383071000, 
@@ -529,7 +529,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1418679019000, 
@@ -645,7 +645,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1416852247000, 
@@ -809,7 +809,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1379643162000, 

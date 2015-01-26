@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -204,13 +204,13 @@ other:
     \ while simultaneously using legal skills to promote technological innovation\
     \ and exploration.</p> <p>Our two CopyNights in 2014\_were awesome, and there\
     \ was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on\
-    \ Monday, January 26, 2015 to legal hack copyright and bring back CopyNight to\
-    \ DC!</p> <p>We\_will discuss a broad range of recent copyright issues (<i>see,\
-    \ e.g.</i>,\_<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\"\
-    >our list</a>\_from last time), over snacks and drinks.</p> <p>Thanks so much\
-    \ to WeWork and Milhalter Law\_for hosting us again!</p> <p>Questions? \_Suggestions?\
-    \ \_Contact Ali at alisternburg@gmail.com or\_<a href=\"https://twitter.com/alisternburg\"\
-    >@alisternburg</a>.</p>"
+    \ Monday, January 26, 2015 [<b><i>actually another time, this is being rescheduled\
+    \ due to snow!</i></b>] to legal hack copyright and bring back CopyNight to DC!</p>\
+    \ <p>We\_will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\_\
+    <a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\_\
+    from last time), over snacks and drinks.</p> <p>Thanks so much to WeWork and Milhalter\
+    \ Law\_for hosting us again!</p> <p>Questions? \_Suggestions? \_Contact Ali at\
+    \ alisternburg@gmail.com or\_<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/219834425/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -219,10 +219,10 @@ other:
   headcount: 0
   id: '219834425'
   maybe_rsvp_count: 0
-  name: '#LegalHack CopyNight Returns: January 26th Edition!'
+  name: '#LegalHack CopyNight Returns (but not 1/26! this is being rescheduled!)'
   status: upcoming
   time: 1422313200000
-  updated: 1421338340000
+  updated: 1422293103000
   utc_offset: -18000000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
@@ -281,7 +281,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 3
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -315,7 +315,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 55
 - created: 1418909957000
   description: "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a>. You MUST be on the Eventbrite for entry.\_</b></p> <p><b>We are\
@@ -372,7 +372,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 120
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -449,7 +449,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 194
+  yes_rsvp_count: 203
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -486,7 +486,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 29
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -531,14 +531,19 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1417881835000
-  description: <p>Aleksandar Jelenak will be presenting on using HDF files.</p> <p>Hierarchical
-    Data Format (<a href="http://en.wikipedia.org/wiki/Hierarchical_Data_Format">HDF</a>)
-    is a set of file formats (HDF4, HDF5) designed to store and organize large amounts
-    of numerical data.</p> <p><b>Agenda</b></p> <p>6:30pm - Empanadas</p> <p>7:00pm
-    - Introductions &amp; Announcements</p> <p>7:15pm - Talk</p> <p>8:30pm - Head
-    to Tonic for drinks</p>
+  description: "<p>The Hierarchical Data Format is a very popular choice for storing\
+    \ large amounts of multidimensional numerical data. It is used in many scientific,\
+    \ engineering, and commercial applications. Data stored in this format are accessible\
+    \ from a wide variety of programming languages and software tools on almost any\
+    \ type of hardware.</p> <p>In this talk Aleksandar Jelenak\_will cover:\_</p>\
+    \ <p>\n\n\u2022 The\_HDF data model</p> <p>\n\n\u2022\_How HDF helps data wranglers</p>\
+    \ <p>\n\n\u2022\_HDF's stable API as the basis for sustainable software and data</p>\
+    \ <p>\n\n\u2022\_Examples of storing and accessing HDF data from Python-based\
+    \ tools</p> <p>\n\n\n\n<b><br/></b></p> <p><b>Meetup Agenda</b></p> <p>\n\n6:30pm\
+    \ - Empanadas</p> <p>\n\n7:00pm - Introductions &amp; Announcements</p> <p>\n\n\
+    7:15pm - Talk</p> <p>\n\n8:30pm - Head to Tonic for drinks</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100055/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -552,14 +557,14 @@ other:
   name: Working with HDF Files
   status: upcoming
   time: 1423092600000
-  updated: 1421941306000
+  updated: 1422274778000
   utc_offset: -18000000
   venue: {address_1: '1957 E Street, Room B12', city: Washington, country: us, id: 23590002,
     lat: 38.896275000000003, lon: -77.044205000000005, name: GWU, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 57
 - created: 1326383071000
   description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
@@ -597,7 +602,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1418679019000
   description: "<p>This event is still draft. RSVP to receive a notification when\
     \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
@@ -749,7 +754,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 65
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -903,7 +908,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
