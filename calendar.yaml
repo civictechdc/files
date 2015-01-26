@@ -281,7 +281,7 @@ other:
   updated: 1421012709000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 11
   yes_rsvp_count: 40
 - created: 1421201827000
   description: "<p>Are you looking for an animated temporal map to embed on your website?\
@@ -315,7 +315,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1418909957000
   description: "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a>. You MUST be on the Eventbrite for entry.\_</b></p> <p><b>We are\
@@ -372,7 +372,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 116
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -449,7 +449,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 191
+  yes_rsvp_count: 194
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -559,7 +559,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1326383071000
   description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
@@ -749,7 +749,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -885,7 +885,7 @@ other:
     platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
     Leibtag, Aha Media Group</p>
   event_url: http://www.meetup.com/webcontentmavens/events/219264031/
-  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/16),
+  fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/31),
     label: Earlybird, required: '0'}
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -896,7 +896,7 @@ other:
   name: Marketing and Communications across Web, Mobile & Social
   status: upcoming
   time: 1424304000000
-  updated: 1420679729000
+  updated: 1422258417000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,

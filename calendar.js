@@ -255,7 +255,7 @@ calendar({
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -294,7 +294,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1418909957000, 
@@ -331,7 +331,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1413740084000, 
@@ -369,7 +369,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 191
+            "yes_rsvp_count": 194
         }, 
         {
             "created": 1421263833000, 
@@ -489,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1326383071000, 
@@ -645,7 +645,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1416852247000, 
@@ -772,7 +772,7 @@ calendar({
                 "accepts": "paypal", 
                 "amount": 10, 
                 "currency": "USD", 
-                "description": "($20 after 1/16)", 
+                "description": "($20 after 1/31)", 
                 "label": "Earlybird", 
                 "required": "0"
             }, 
@@ -792,7 +792,7 @@ calendar({
             "name": "Marketing and Communications across Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1420679729000, 
+            "updated": 1422258417000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 

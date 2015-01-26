@@ -1,8 +1,8 @@
 projects([
     {
         "activity": [
-            1, 
-            5, 
+            3, 
+            3, 
             0, 
             0, 
             11, 
@@ -18,19 +18,19 @@ projects([
             1, 
             7, 
             13, 
-            12, 
-            10, 
-            89, 
-            65, 
+            14, 
+            8, 
+            106, 
+            48, 
             49, 
             4, 
-            15, 
+            18, 
             3, 
-            5, 
-            0, 
-            0, 
             2, 
-            8, 
+            0, 
+            1, 
+            9, 
+            0, 
             9, 
             3, 
             0, 
@@ -41,18 +41,18 @@ projects([
             1, 
             2, 
             16, 
-            11, 
-            29, 
-            33, 
-            18, 
-            31, 
-            32, 
+            22, 
+            23, 
+            28, 
+            19, 
+            50, 
+            12, 
             1, 
-            6, 
-            8, 
-            17, 
-            15, 
-            26
+            9, 
+            10, 
+            12, 
+            20, 
+            22
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -91,7 +91,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 591, 
+                "contributions": 594, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -222,7 +222,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                148820
+                149624
             ], 
             [
                 "CSS", 
@@ -247,16 +247,16 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 25, 
+        "open_issues": 24, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-01-23T14:55:19Z", 
+        "pushed_at": "2015-01-26T05:30:44Z", 
         "size": 20947, 
-        "updated_at": "2015-01-23T05:58:05Z", 
+        "updated_at": "2015-01-26T05:30:44Z", 
         "watchers": 16
     }, 
     {
