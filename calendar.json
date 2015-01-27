@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1415829988000, 
@@ -74,7 +74,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415830056000, 
@@ -193,44 +193,6 @@
     ], 
     "other": [
         {
-            "created": 1421263758000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Our two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>Join us on Monday, January 26, 2015 [<b><i>actually another time, this is being rescheduled due to snow!</i></b>] to legal hack copyright and bring back CopyNight to DC!</p> <p>We\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over snacks and drinks.</p> <p>Thanks so much to WeWork and Milhalter Law\u00a0for hosting us again!</p> <p>Questions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834425/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "219834425", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack CopyNight Returns (but not 1/26! this is being rescheduled!)", 
-            "status": "upcoming", 
-            "time": 1422313200000, 
-            "updated": 1422293103000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 36
-        }, 
-        {
             "created": 1415119879000, 
             "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
@@ -255,7 +217,7 @@
             "updated": 1421012709000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 0, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -294,11 +256,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1418909957000, 
-            "description": "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a>. You MUST be on the Eventbrite for entry.\u00a0</b></p> <p><b>We are FULL but you can RSVP here to learn about the next Web UX event - we'll send a notice to this group beforehand.</b></p> <p><b>OVERVIEW</b></p> <p>Have you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p><b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p><b>Margaret Haag</b> of\u00a0Capital One will discuss ways to keep creativity in user interfaces. <i>More details on Margaret's talk will be available closer to the event.</i></p> <p><b>Chris Kobar</b> of\u00a0SRA International will talk about the importance of user experience. \u00a0<i>More details on Chris' talk will be available closer to the event.</i></p> <p><b>SPEAKERS</b></p> <p>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International</p> <p><br/>Duane Degler, Principal Consultant, Design for Context\u00a0</p> <p>Margaret Haag, Senior UI Designer, Capital One</p> <p><b>AUDIENCE</b></p> <p><br/>This event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p><b>AGENDA</b></p> <p>6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p><i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p><b>OUR SPONSORS</b></p> <p><b>Modev</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>Modev is community focused on the leading edge of mobile development, design &amp; user experience. Join us at any point in your mobile experience - be a part our our\u00a0<a href=\"http://www.meetup.com/modevdc/\">meetup\u00a0group</a>\u00a0or attend\u00a0<a href=\"http://ux15.gomodev.com/\">ModevUX</a>, our mobile design and user experience conference, to meet the best and brightest. Or follow our <a href=\"http://modev.com/blog/\">blog</a> of what's happening in mobile.\u00a0Learn more at\u00a0<a href=\"http://www.modevux.com\">www.modevux.com</a>.</p> <p><br/><b>Design for Context</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>Experts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p>", 
+            "description": "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a>. You MUST be on the Eventbrite for entry.\u00a0</b></p> <p>\n\n<b>We are FULL but you can RSVP here to learn about the next Web UX event - we'll send a notice to this group beforehand.</b></p> <p>\n\n\n\n\n\n<b>OVERVIEW</b></p> <p>\n\n\n\n\n\nHave you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p>\n\n\n\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/6/6/6/600_433741638.jpeg\" /></p> <p>\n\n<b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/6/7/c/600_433741660.jpeg\" /></p> <p>\n\n\n\n\n\nSince the dawn of mobile, designers have migrated to smaller pixels, less white space and constraining mediums. <b>Margaret Haag\u00a0</b>of\u00a0Capital One\u00a0will discuss those challenges and how to remain true to your creative animal spirit. She will talk about\u00a0tricks for keeping things simple, consolidating topics when applicable, making your color palette minimal, and ridding the project of clutter, all while remaining functional.\u00a0</p> <p>\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/6/9/9/600_433741689.jpeg\" /></p> <p>\n\n\n\n\n\n<i><br/></i></p> <p>\n\n\n\n\n\n<b>Chris Kobar</b> of\u00a0SRA International will discuss the importance of user experience - great UX design is not just for wealthy commercial enterprises and cool startups. These days, it is also necessary for an efficient and effective government. Chris will discuss how you can make a real difference in the lives of millions, put your tax dollars to better use, and even put more money in your pocket, by understanding how to bring awesome UX design to a public sector that seems to still be in the technological dark ages.</p> <p>\n\n\n\n\n\n<b>AUDIENCE</b></p> <p>\n\n\n\n\n\n\nThis event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p>\n\n\n\n\n\n<b>AGENDA</b></p> <p>\n\n\n\n\n\n6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p>\n\n\n\n\n\n<i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p>\n\n\n\n\n\n<b>OUR SPONSORS</b></p> <p>\n\n\n\n\n\n<b>Modev</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>\n\n\n\n\n\nModev is community focused on the leading edge of mobile development, design &amp; user experience. Join us at any point in your mobile experience - be a part our our\u00a0<a href=\"http://www.meetup.com/modevdc/\">meetup\u00a0group</a>\u00a0or attend\u00a0<a href=\"http://ux15.gomodev.com/\">ModevUX</a>, our mobile design and user experience conference, to meet the best and brightest. Or follow our <a href=\"http://modev.com/blog/\">blog</a> of what's happening in mobile.\u00a0Learn more at\u00a0<a href=\"http://www.modevux.com\">www.modevux.com</a>.</p> <p>\n\n\n\n\n\n\n<b>Design for Context</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>\n\n\n\n\n\nExperts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p> <p>\n\n\n<b>SPEAKER BIOS</b></p> <p><b>Duane Degler, Principal Consultant, Design for Context<br/></b>Duane Degler is a partner in Design for Context, a local usable design consultancy. He specializes in the design of interactive applications and search experiences, with an eye to making rich information resources usable and relevant. He has led web, mobile and software projects for commercial and government clients in the US and Europe. He recently authored the \u201cDynamic IA\u201d chapter in the book\u00a0<i>Reframing Information Architecture</i>\u00a0(2014). In addition to his UX work, he focuses on the unique potential in designing for linked data and semantically-enabled applications.</p> <p><b>Margaret Haag, Senior UI Designer, Capital One</b><br/>Margaret Haag joined the Gannett Digital product design team over a year and a half\u00a0ago after working predominantly in print design. Her top-notch illustrator skills and\u00a0clean aesthetic won her a spot on the mobile design team where she evangelizes the\u00a0strengths of Illustration and creativity in mobile UI. She is now a Senior UI Designer for\u00a0Capital One.</p> <p><b>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International\u00a0</b><br/>Chris Kobar is a digital product designer who has been helping the public and private\u00a0sector create beautiful, efficient, and effective websites and apps since the turn of the\u00a0century. His expertise span the entire user experience design spectrum, from visual and\u00a0interactive design, creative direction, and digital strategy, to information architecture,\u00a0front-end development, and user and usability research and analysis.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
             "group": {
                 "created": 1189804715000, 
@@ -316,26 +278,27 @@
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1422401400000, 
-            "updated": 1421965776000, 
+            "updated": 1422318505000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
+                "address_1": "1424 K St NW #300", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
+                "id": 14060542, 
+                "lat": 38.902126000000003, 
+                "lon": -77.032973999999996, 
+                "name": "nclud, LLC", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "DC", 
+                "zip": "20005"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1413740084000, 
-            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b>Schedule</b></p> <p>6:00 - 6:30pm -- Networking and refreshments</p> <p>6:30 - 6:35pm -- Introductions</p> <p>6:40 - 8:00pm -- Speakers</p> <p>\u2022\u00a0David Lincoln - Wise Gateway</p> <p>\u2022\u00a0Tugkan Tuzun - Information Content of Big Data and the \"Flash Crash\" Example</p> <p><br/>\u2022\u00a0Micheline Casey -\u00a0Analyzing the Real-Time Economy</p> <p><br/><b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p> <p><b><br/></b></p> <p><b>Tugkan Tuzun - Federal Reserve Board</b></p> <p>Tugkan Tuzun\u00a0is an Economist at the Capital Markets Section of the Federal Reserve Board. His responsibilities include providing research and policy analysis to the Federal Reserve Board regarding domestic asset prices and corporate finance. He previously worked at the Commodity Futures Trading Commission and was one of the main authors of the report to the Congress about the \"Flash Crash\" of 2010. Tugkan's research interests are institutional asset management, asset pricing and market microstructure. His recent work covered topics such as high-frequency trading, exchange-traded funds and stock market crashes. He holds a Ph.D. degree in Finance from the University of Maryland and a M.A. degree in Economics from the University of Virginia.</p> <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management executives communicate more effectively, make better decisions, and improve their own performance by providing performance reports, high-quality comparative benchmarks, and empirically-derived insights about wealth management sales, productivity and pricing strategies.</p> <p>In various capacities, David\u00a0has advised wealth management, family office and financial services executives for more than 15 years.\u00a0David has written extensively on a broad array of issues and is a highly-demanded speaker at industry events and client meetings.</p> <p>David has a bachelor\u2019s degree in economics and history from the University of Virginia in Charlottesville and a master\u2019s degree in business administration with a concentration in finance from Columbia Business School in New York.\u00a0</p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth and high-net-worth individuals; private banking, trust, brokerage and asset management; single and multi-family offices.</p>", 
+            "description": "<p><b>The Chief Data Officer of the Board of Governors of the Federal Research System will headline our next meet up focused on financial data!</b></p> <p><b>Schedule</b></p> <p>6:00 - 6:30pm -- Networking and refreshments</p> <p>6:30 - 6:35pm -- Introductions</p> <p>6:40 - 8:00pm -- Speakers</p> <p>\u2022\u00a0David Lincoln - Wise Gateway</p> <p>\u2022\u00a0Tugkan Tuzun - Information Content of Big Data and the \"Flash Crash\" Example</p> <p><br/>\u2022\u00a0Micheline Casey -\u00a0Analyzing the Real-Time Economy</p> <p>\n\n\n<b>Micheline Casey Bio</b></p> <p>Micheline Casey is the Chief Data Officer of the Board of Governors of the Federal Reserve System. She heads the Office of the Chief Data Officer (OCDO), an enterprise service organization for data governance and data management and leads the transformation of data management and information sharing across the Board and broader Federal Reserve System as appropriate. \u00a0She owns and leads the development and implementation of the Board enterprise data strategy, creating policies for improving data quality, enhancing data management practices, integrating data delivery, and leading the governance of enterprise data management practices, programs, and initiatives. She also provides thought leadership to Board senior executive level division directors around data innovation and optimization, in alignment with mission critical functions and new business drivers.</p> <p>Ms. Casey was the first state government Chief Data Officer in the country, and part of the Governor\u2019s Office in the State of Colorado. Ms. Casey was responsible for developing and executing the State of Colorado\u2019s enterprise data strategy and data governance and data management frameworks across the State\u2019s Executive Branch agencies. Her private sector experience includes jobs at ChoicePoint Government Services (now LexisNexis Risk Solutions) and IBM Global Services.</p> <p>Ms. Casey has won several honors, including DC\u2019s Top 50 Women in Technology and 2011 Top 25 Information Managers. She has spoken globally on data governance, data management, and open data issues. She has her Masters in Business Administration from The University of Georgia, and her Bachelors of Science in Marketing from The Pennsylvania State University. Ms. Casey also sits on the Board of Directors of the Midwest Reliability Organization.</p> <p><b>Twitter: @michelinecasey</b></p> <p><b><br/></b></p> <p><b>Tugkan Tuzun - Federal Reserve Board</b></p> <p>Tugkan Tuzun\u00a0is an Economist at the Capital Markets Section of the Federal Reserve Board. His responsibilities include providing research and policy analysis to the Federal Reserve Board regarding domestic asset prices and corporate finance. He previously worked at the Commodity Futures Trading Commission and was one of the main authors of the report to the Congress about the \"Flash Crash\" of 2010. Tugkan's research interests are institutional asset management, asset pricing and market microstructure. His recent work covered topics such as high-frequency trading, exchange-traded funds and stock market crashes. He holds a Ph.D. degree in Finance from the University of Maryland and a M.A. degree in Economics from the University of Virginia.</p> <p><b><br/></b></p> <p><b>David Lincoln - WISE Gateway</b></p> <p>David Lincoln is co-founder of WISE Gateway, a firm launched in 2012 that helps wealth management executives communicate more effectively, make better decisions, and improve their own performance by providing performance reports, high-quality comparative benchmarks, and empirically-derived insights about wealth management sales, productivity and pricing strategies.</p> <p>In various capacities, David\u00a0has advised wealth management, family office and financial services executives for more than 15 years.\u00a0David has written extensively on a broad array of issues and is a highly-demanded speaker at industry events and client meetings.</p> <p>David has a bachelor\u2019s degree in economics and history from the University of Virginia in Charlottesville and a master\u2019s degree in business administration with a concentration in finance from Columbia Business School in New York.\u00a0</p> <p>David\u2019s wealth management-related areas of expertise include: ultra-high-net-worth and high-net-worth individuals; private banking, trust, brokerage and asset management; single and multi-family offices.</p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/214386742/", 
             "group": {
@@ -352,10 +315,10 @@
             "id": "214386742", 
             "maybe_rsvp_count": 0, 
             "name": "Analyzing the Real-Time Economy", 
-            "rsvp_limit": 250, 
+            "rsvp_limit": 210, 
             "status": "upcoming", 
             "time": 1422572400000, 
-            "updated": 1421271908000, 
+            "updated": 1422307058000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -369,7 +332,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 203
+            "yes_rsvp_count": 209
         }, 
         {
             "created": 1421263833000, 
@@ -450,7 +413,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1417881835000, 
@@ -489,7 +452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1326383071000, 
@@ -529,7 +492,45 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
+        }, 
+        {
+            "created": 1421263758000, 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>\n\nA legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>\n\nOur two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>\n\nJoin us on Tuesday, February 10, 2015 to legal hack copyright and bring back CopyNight to DC! (This has been rescheduled from January 26!)</p> <p>\n\nWe\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over pizza and beer.</p> <p>\n\nThanks so much to R Street for hosting us!</p> <p>\n\nQuestions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834425/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "219834425", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack CopyNight Returns: February 10 Edition!", 
+            "status": "upcoming", 
+            "time": 1423609200000, 
+            "updated": 1422312566000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1050 17th St NW, Suite 1150", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23598595, 
+                "lat": 38.903339000000003, 
+                "lon": -77.038833999999994, 
+                "name": "R Street Institute", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1418679019000, 
@@ -566,7 +567,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1421849941000, 
