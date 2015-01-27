@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1415829988000, 
@@ -193,34 +193,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1415119879000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a JavaScript Study Group leader?\u00a0</b></p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>JavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>Codecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p> <p>\n\n&lt;a href=\"http://codecademy.com/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219224527/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rwbqdlytcbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1422315000000, 
-            "updated": 1421012709000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1421201827000, 
             "description": "<p>Are you looking for an animated temporal map to embed on your website? Or, do you need some openly licensed data that you can download and use? Or maybe you want to layer your own data with another dataset to create a multi-layered temporal map.</p> <p>MapStory.org, a nonprofit atlas of change, aims to make all this possible, easy and free. In this session we'll walk through how users can:<br/>1) find, watch and share MapStories<br/>2) Upload and download openly licensed datasets and<br/>3) Create a new MapStory.</p> <p>We'll also talk a bit about where the MapStory project is headed in 2015 and how developers and mappers can get involved.</p> <p><b>TO DO BEFORE THE EVENT:</b>\u00a0Please create an account at\u00a0<a href=\"http://mapstory.org/\">mapstory.org</a></p> <p><a href=\"https://twitter.com/jonpmarino\">Jonathan Marino</a> is Director of Content &amp; Strategy at\u00a0<a href=\"http://mapstory.org/\">Mapstory.org</a>.\u00a0<a href=\"https://twitter.com/ekemmons\">Betsy Emmons</a> was a 2014 MapStory Summer Fellow and now works on geographic data projects for The Clearing, Inc.</p>", 
             "duration": 5400000, 
@@ -294,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1413740084000, 
@@ -332,11 +304,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 209
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1421263833000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>Join us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p><img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p><img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>Featuring:\u00a0</p> <p>\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\u2022\u00a0Laura Moy, Senior Policy Counsel, Open Technology Institute</p> <p>\u2022 Kevin Bankston,\u00a0\u00a0Policy Director, Open Technology Institute</p> <p>\u2022\u00a0More details are coming soon, we are so excited about this one!\u00a0\u00a0</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>\n\nA legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>\n\nJoin us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p>\n\n<img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p>\n\n<img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\" /></p> <p>\n\nFeaturing:\u00a0</p> <p>\n\n\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\n\n\u2022\u00a0Laura Moy, Senior Policy Counsel, Open Technology Institute</p> <p>\u2022 Kevin Bankston,\u00a0\u00a0Policy Director, Open Technology Institute</p> <p>\u2022\u00a0Michael Cherry, <a href=\"http://www.washingtonpost.com/local/experts-say-law-enforcements-use-of-cellphone-records-can-be-inaccurate/2014/06/27/028be93c-faf3-11e3-932c-0a55b81f48ce_story.html\">Cherry Biometrics</a></p> <p>\n\n\n\u2022\u00a0More details are coming soon, we are so excited about this one!\u00a0\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/219834477/", 
             "group": {
@@ -356,7 +328,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1423090800000, 
-            "updated": 1422045717000, 
+            "updated": 1422327957000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -412,8 +384,8 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1417881835000, 
@@ -492,7 +464,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1421263758000, 
@@ -567,7 +539,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1421849941000, 
@@ -646,11 +618,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1416852247000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizatios he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\u2022 <a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizations he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.</p> <p><br/>\u2022 <a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p><br/>To build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p><a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -670,7 +642,7 @@ calendar({
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1421788289000, 
+            "updated": 1422324044000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -875,7 +847,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1421849941000, 
@@ -1854,6 +1826,45 @@ calendar({
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytjbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1433973600000, 
+            "updated": 1421849941000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
