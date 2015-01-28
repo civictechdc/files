@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 74
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -195,39 +195,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1421201827000
-  description: "<p>Are you looking for an animated temporal map to embed on your website?\
-    \ Or, do you need some openly licensed data that you can download and use? Or\
-    \ maybe you want to layer your own data with another dataset to create a multi-layered\
-    \ temporal map.</p> <p>MapStory.org, a nonprofit atlas of change, aims to make\
-    \ all this possible, easy and free. In this session we'll walk through how users\
-    \ can:<br/>1) find, watch and share MapStories<br/>2) Upload and download openly\
-    \ licensed datasets and<br/>3) Create a new MapStory.</p> <p>We'll also talk a\
-    \ bit about where the MapStory project is headed in 2015 and how developers and\
-    \ mappers can get involved.</p> <p><b>TO DO BEFORE THE EVENT:</b>\_Please create\
-    \ an account at\_<a href=\"http://mapstory.org/\">mapstory.org</a></p> <p><a href=\"\
-    https://twitter.com/jonpmarino\">Jonathan Marino</a> is Director of Content &amp;\
-    \ Strategy at\_<a href=\"http://mapstory.org/\">Mapstory.org</a>.\_<a href=\"\
-    https://twitter.com/ekemmons\">Betsy Emmons</a> was a 2014 MapStory Summer Fellow\
-    \ and now works on geographic data projects for The Clearing, Inc.</p>"
-  duration: 5400000
-  event_url: http://www.meetup.com/Maptime-DC/events/219819504/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
-      hackers}
-  headcount: 0
-  id: '219819504'
-  maybe_rsvp_count: 0
-  name: 'MapStory 101: Mapping change over time with open data'
-  status: upcoming
-  time: 1422401400000
-  updated: 1421203773000
-  utc_offset: -18000000
-  venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
-    lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 59
 - created: 1418909957000
   description: "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\"\
     >Eventbrite</a>. You MUST be on the Eventbrite for entry.\_</b></p> <p>\n\n<b>We\
@@ -315,7 +282,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 124
+  yes_rsvp_count: 125
 - created: 1413740084000
   description: "<p><b>The Chief Data Officer of the Board of Governors of the Federal\
     \ Research System will headline our next meet up focused on financial data!</b></p>\
@@ -391,7 +358,7 @@ other:
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
       School of Continuing Studies, repinned: false}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 6
   yes_rsvp_count: 210
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -431,7 +398,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -475,7 +442,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 3
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
@@ -509,7 +476,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 62
 - created: 1326383071000
   description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
@@ -547,7 +514,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -629,7 +596,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 61
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -733,7 +700,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -783,7 +750,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -887,7 +854,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -911,7 +878,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in

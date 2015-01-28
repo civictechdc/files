@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1415829988000, 
@@ -193,44 +193,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1421201827000, 
-            "description": "<p>Are you looking for an animated temporal map to embed on your website? Or, do you need some openly licensed data that you can download and use? Or maybe you want to layer your own data with another dataset to create a multi-layered temporal map.</p> <p>MapStory.org, a nonprofit atlas of change, aims to make all this possible, easy and free. In this session we'll walk through how users can:<br/>1) find, watch and share MapStories<br/>2) Upload and download openly licensed datasets and<br/>3) Create a new MapStory.</p> <p>We'll also talk a bit about where the MapStory project is headed in 2015 and how developers and mappers can get involved.</p> <p><b>TO DO BEFORE THE EVENT:</b>\u00a0Please create an account at\u00a0<a href=\"http://mapstory.org/\">mapstory.org</a></p> <p><a href=\"https://twitter.com/jonpmarino\">Jonathan Marino</a> is Director of Content &amp; Strategy at\u00a0<a href=\"http://mapstory.org/\">Mapstory.org</a>.\u00a0<a href=\"https://twitter.com/ekemmons\">Betsy Emmons</a> was a 2014 MapStory Summer Fellow and now works on geographic data projects for The Clearing, Inc.</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/219819504/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "219819504", 
-            "maybe_rsvp_count": 0, 
-            "name": "MapStory 101: Mapping change over time with open data", 
-            "status": "upcoming", 
-            "time": 1422401400000, 
-            "updated": 1421203773000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 59
-        }, 
-        {
             "created": 1418909957000, 
             "description": "<p><b>NOTE: Registration is through <a href=\"http://wcm-webux.eventbrite.com\">Eventbrite</a>. You MUST be on the Eventbrite for entry.\u00a0</b></p> <p>\n\n<b>We are FULL but you can RSVP here to learn about the next Web UX event - we'll send a notice to this group beforehand.</b></p> <p>\n\n\n\n\n\n<b>OVERVIEW</b></p> <p>\n\n\n\n\n\nHave you seen those beautiful websites that you can't use? Or the super-cool ones that make it hard to actually accomplish your tasks?\u00a0Don't be like that! Join our all-star panel to learn about website user experience.\u00a0</p> <p>\n\n\n\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/6/6/6/600_433741638.jpeg\" /></p> <p>\n\n<b>Duane Degler</b> of Design for Context will\u00a0lead you through the essentials of web user experience including recognizing good UX, understanding the\u00a0UX priorities on your site, and integrating UX into your website's evolution and maintenance.\u00a0Duane will also talk about changes in UX that may impact your website in the future, including mobile and other trends.</p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/6/7/c/600_433741660.jpeg\" /></p> <p>\n\n\n\n\n\nSince the dawn of mobile, designers have migrated to smaller pixels, less white space and constraining mediums. <b>Margaret Haag\u00a0</b>of\u00a0Capital One\u00a0will discuss those challenges and how to remain true to your creative animal spirit. She will talk about\u00a0tricks for keeping things simple, consolidating topics when applicable, making your color palette minimal, and ridding the project of clutter, all while remaining functional.\u00a0</p> <p>\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/6/9/9/600_433741689.jpeg\" /></p> <p>\n\n\n\n\n\n<i><br/></i></p> <p>\n\n\n\n\n\n<b>Chris Kobar</b> of\u00a0SRA International will discuss the importance of user experience - great UX design is not just for wealthy commercial enterprises and cool startups. These days, it is also necessary for an efficient and effective government. Chris will discuss how you can make a real difference in the lives of millions, put your tax dollars to better use, and even put more money in your pocket, by understanding how to bring awesome UX design to a public sector that seems to still be in the technological dark ages.</p> <p>\n\n\n\n\n\n<b>AUDIENCE</b></p> <p>\n\n\n\n\n\n\nThis event is focused on web managers, web designers and front-end developers but content strategists, marketing staff and many others will find the information useful.\u00a0</p> <p>\n\n\n\n\n\n<b>AGENDA</b></p> <p>\n\n\n\n\n\n6:30 - Networking, drinks &amp; food\u00a0<br/>7:00 - Presentations\u00a0<br/>8:30 - More networking\u00a0<br/>9:00 - Adjourn</p> <p>\n\n\n\n\n\n<i><b>We'll have food and beverages (adult and otherwise).</b></i></p> <p>\n\n\n\n\n\n<b>OUR SPONSORS</b></p> <p>\n\n\n\n\n\n<b>Modev</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/b/3/b/600_433142875.jpeg\" /></p> <p>\n\n\n\n\n\nModev is community focused on the leading edge of mobile development, design &amp; user experience. Join us at any point in your mobile experience - be a part our our\u00a0<a href=\"http://www.meetup.com/modevdc/\">meetup\u00a0group</a>\u00a0or attend\u00a0<a href=\"http://ux15.gomodev.com/\">ModevUX</a>, our mobile design and user experience conference, to meet the best and brightest. Or follow our <a href=\"http://modev.com/blog/\">blog</a> of what's happening in mobile.\u00a0Learn more at\u00a0<a href=\"http://www.modevux.com\">www.modevux.com</a>.</p> <p>\n\n\n\n\n\n\n<b>Design for Context</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/a/c/b/c/600_433124220.jpeg\" /></p> <p>\n\n\n\n\n\nExperts in user experience and user-centered design, Design for Context works with clients and their users to design web applications, software, and web sites that are easy to use and understand. We design effective, simple solutions to complex problems, and specialize in highly interactive applications, mobile, linked data, and search. <a href=\"http://www.designforcontext.com\">www.designforcontext.com</a></p> <p>\n\n\n<b>SPEAKER BIOS</b></p> <p><b>Duane Degler, Principal Consultant, Design for Context<br/></b>Duane Degler is a partner in Design for Context, a local usable design consultancy. He specializes in the design of interactive applications and search experiences, with an eye to making rich information resources usable and relevant. He has led web, mobile and software projects for commercial and government clients in the US and Europe. He recently authored the \u201cDynamic IA\u201d chapter in the book\u00a0<i>Reframing Information Architecture</i>\u00a0(2014). In addition to his UX work, he focuses on the unique potential in designing for linked data and semantically-enabled applications.</p> <p><b>Margaret Haag, Senior UI Designer, Capital One</b><br/>Margaret Haag joined the Gannett Digital product design team over a year and a half\u00a0ago after working predominantly in print design. Her top-notch illustrator skills and\u00a0clean aesthetic won her a spot on the mobile design team where she evangelizes the\u00a0strengths of Illustration and creativity in mobile UI. She is now a Senior UI Designer for\u00a0Capital One.</p> <p><b>Chris Kobar, Senior UX Designer and Human Factors Engineer, SRA International\u00a0</b><br/>Chris Kobar is a digital product designer who has been helping the public and private\u00a0sector create beautiful, efficient, and effective websites and apps since the turn of the\u00a0century. His expertise span the entire user experience design spectrum, from visual and\u00a0interactive design, creative direction, and digital strategy, to information architecture,\u00a0front-end development, and user and usability research and analysis.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219312247/", 
@@ -266,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1413740084000, 
@@ -303,7 +265,7 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 210
         }, 
         {
@@ -345,7 +307,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1421769158000, 
@@ -384,7 +346,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -424,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1326383071000, 
@@ -464,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1421263758000, 
@@ -539,7 +501,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1421849941000, 
@@ -618,7 +580,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1416852247000, 
@@ -657,7 +619,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -782,7 +744,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1379643162000, 
@@ -809,7 +771,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1421082688000, 

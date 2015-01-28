@@ -67,7 +67,7 @@
     form. '
   forks: 35
   help_wanted: []
-  homepage: http://districthousing.org/
+  homepage: http://codefordc.github.io/districthousing/
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
@@ -83,11 +83,11 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-01-27T15:22:51Z'
-  size: 20947
-  updated_at: '2015-01-27T15:22:53Z'
+  size: 21017
+  updated_at: '2015-01-27T20:50:37Z'
   watchers: 16
-- activity: [19, 5, 3, 8, 6, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0,
-    6, 3, 3, 5, 3, 6, 5, 1, 1, 0, 0, 0, 2, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 5, 0, 0,
+- activity: [20, 5, 2, 10, 4, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 0,
+    6, 6, 0, 6, 3, 5, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 5, 0, 0,
     0, 0, 3, 0]
   civic_json:
     bornAt: Code for DC
