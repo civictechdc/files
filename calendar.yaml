@@ -1,43 +1,4 @@
 codefordc:
-- created: 1415829952000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
-    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
-    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
-    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
-    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
-    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
-    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
-    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
-    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
-    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
-    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
-    \ Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/218646960/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '218646960'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1422487800000
-  updated: 1416242661000
-  utc_offset: -18000000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 78
 - created: 1415829988000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -115,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -270,26 +231,37 @@ other:
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
       School of Continuing Studies, repinned: false}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 2
   yes_rsvp_count: 210
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
     >\_more than twenty</a>\_legal hacking, technology, or innovation groups around\
-    \ the country.\_</p> <p>\n\nA legal hacker is someone who cares about the intersection\
-    \ of law and technology and seeks to improve legal practice through technology\
-    \ while simultaneously using legal skills to promote technological innovation\
-    \ and exploration.\_</p> <p>\n\nJoin us on Wednesday, February 4, 2015 for a Serial-inspired\
-    \ discussion on cell phone data &amp; the criminal justice system: then and now.\_\
-    </p> <p>\n\n<img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\"\
-    \ /></p> <p>\n\n<img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\"\
-    \ /></p> <p>\n\nFeaturing:\_</p> <p>\n\n\u2022\_Susan Simpson, Attorney and blogger\
-    \ at\_<a href=\"http://viewfromll2.com/about/\">The View from LL2</a></p> <p>\n\
-    \n\u2022\_Laura Moy, Senior Policy Counsel, Open Technology Institute</p> <p>\u2022\
-    \ Kevin Bankston,\_\_Policy Director, Open Technology Institute</p> <p>\u2022\_\
-    Michael Cherry, <a href=\"http://www.washingtonpost.com/local/experts-say-law-enforcements-use-of-cellphone-records-can-be-inaccurate/2014/06/27/028be93c-faf3-11e3-932c-0a55b81f48ce_story.html\"\
-    >Cherry Biometrics</a></p> <p>\n\n\n\u2022\_More details are coming soon, we are\
-    \ so excited about this one!\_\_</p>"
+    \ the country.\_</p> <p>\n\n\n\n\n\nA legal hacker is someone who cares about\
+    \ the intersection of law and technology and seeks to improve legal practice through\
+    \ technology while simultaneously using legal skills to promote technological\
+    \ innovation and exploration.\_</p> <p>\n\n\n\n\n\nJoin us on Wednesday, February\
+    \ 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal\
+    \ justice system: then and now.\_</p> <p>\n\n\n\n\n\n<img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\"\
+    \ /></p> <p>\n\n\n\n\n\n<img src=\"http://rise-nyc.com/wp-content/uploads/2014/06/OTI-Institute.gif\"\
+    \ /></p> <p>\n\nWere you obsessed with the popular podcast\_<a href=\"http://serialpodcast.org/\"\
+    >Serial</a>\_this winter?\_Us too! We wondered:\_Just how do cell phone towers\
+    \ work? How definitive is the data? How has that data changed since 1999's Serial\
+    \ case? How often has this information been used in criminal cases?\_How do IMSI\
+    \ catchers and E911 fit into this discussion? If this is now, what will the future\
+    \ look like?\_</p> <p>\n\nTo answer those questions and more we've gathered a\
+    \ panel of experts to #LegalHack cell phone data and the criminal justice system.</p>\
+    \ <p>\n\nSpeakers:\_</p> <p>\n\n\n\n\n\n\u2022\_Susan Simpson, Attorney and blogger\
+    \ at\_<a href=\"http://viewfromll2.com/\">The View from LL2</a></p> <p>\n\n\n\n\
+    \n\n\u2022\_Laura Moy, Senior Policy Counsel, <a href=\"http://oti.newamerica.net/\"\
+    >Open Technology Institute</a></p> <p>\n\n\n\n\n\n\u2022 Kevin Bankston, Policy\
+    \ Director, <a href=\"http://oti.newamerica.net/\">Open Technology Institute</a></p>\
+    \ <p>\n\n\u2022\_Michael Cherry, C.E.O. of\_<a href=\"http://www.washingtonpost.com/local/experts-say-law-enforcements-use-of-cellphone-records-can-be-inaccurate/2014/06/27/028be93c-faf3-11e3-932c-0a55b81f48ce_story.html\"\
+    >Cherry Biometrics</a>, Digital Evidence Experts</p> <p>\n\n\n\n\n\n\nSchedule:</p>\
+    \ <p>\n\n6:00pm: Drinks/Networking</p> <p>\n\n6:45pm: Panel Introductions</p>\
+    \ <p>\n\n7:00pm: Panel</p> <p>\n\n7:45pm: Q&amp;A</p> <p>\n\n\nJoin us and our\
+    \ hosts, Open Technology Institute, for the legal geek supplement to Serial.\_\
+    </p>"
   duration: 7200000
   event_url: http://www.meetup.com/DCLegalHackers/events/219834477/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -303,14 +275,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1423090800000
-  updated: 1422327957000
+  updated: 1422530706000
   utc_offset: -18000000
   venue: {address_1: '1899 L Street NW ', address_2: Suite 400, city: Washington,
     country: us, id: 1330329, lat: 38.903917, lon: -77.043056000000007, name: New
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 37
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -552,7 +524,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 7
 - created: 1421895090000
   description: "<p>Spark is becoming increasingly popular for big data processing\
     \ and analytics with significant speed increases over other platforms such as\
@@ -662,7 +634,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 13
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
