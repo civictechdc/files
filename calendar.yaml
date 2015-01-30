@@ -162,36 +162,37 @@ other:
     \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
     \ CSS. If you already know JavaScript, this can be a great platform for you to\
     \ get together with fellow developers and hone your skills. If you're advanced,\
-    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ we'd love for you to come and help others learn more.</p> <p>\n\nThere's always\
     \ at least one mentor present to help you with best practices or guide you through\
-    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    \ if you are stuck with a nasty problem!</p> <p>\n\n<a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
     ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
-    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
-    \ at buildings that need access</b></p> <p>Certain building managements requires\
-    \ meetup hosts to let people in and do not encourage them being contacted. Please\
-    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p>\n\n<b>Contact\
+    \ policy at buildings that need access</b></p> <p>\n\nCertain building managements\
+    \ requires meetup hosts to let people in and do not encourage them being contacted.\
+    \ Please respect the policy, in case\_the\_location\_requires access to the building\_\
     contact the group lead if information is provided, or drop a comment on the meetup\
-    \ page. We'll come and get you.\_</p> <p><b>Want to be a JavaScript Study Group\
-    \ leader?\_</b></p> <p>If you are passionate about learning JavaScript with fellow\
-    \ awesome women and want to help us, come on out! \_Drop us a message or email\
-    \ us and let us know that you are interested in helping us with the JS study group!</p>\
-    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
-    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
-    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
-    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
-    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    \ page. We'll come and get you.\_</p> <p>\n\n<b>Want to be a JavaScript Study\
+    \ Group leader?\_</b></p> <p>\n\nIf you are passionate about learning JavaScript\
+    \ with fellow awesome women and want to help us, come on out! \_Drop us a message\
+    \ or email us and let us know that you are interested in helping us with the JS\
+    \ study group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources\
+    \ that members have been following along, feel free to suggest if you have more\
+    \ to add!</i></p> <p>\n\nCoursera\_<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>\n\nJavaScript\
+    \ is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
     ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
     linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    \ <p>\n\nCodecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>\n\nBentobox for references\_\
     <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
-    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>\n\nJavaScript Official Guide\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
     \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    \ <p>\n\nJSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are\_transgender friendly.</p>"
+    \ <p>\n\nThis event is intended to be exclusively open for people who identify\
+    \ as women - we are\_transgender friendly.</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/220176193/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -204,14 +205,14 @@ other:
   name: Front End Hack NIght
   status: upcoming
   time: 1422919800000
-  updated: 1422579126000
+  updated: 1422638892000
   utc_offset: -18000000
   venue: {address_1: '1710 Rhode Island Ave NW, Suite 800', city: Washington, country: us,
     id: 21999182, lat: 38.905968000000001, lon: -77.039169000000001, name: TrackMaven,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 14
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -264,7 +265,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -302,13 +303,13 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1423090800000
-  updated: 1421849942000
+  updated: 1422639459000
   utc_offset: -18000000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 8
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
@@ -342,7 +343,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 76
 - created: 1326383071000
   description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
@@ -380,43 +381,44 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 72
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
     \ language, it's perfect for beginners with a basic understanding of HTML &amp;\
     \ CSS. If you already know JavaScript, this can be a great platform for you to\
     \ get together with fellow developers and hone your skills. If you're advanced,\
-    \ we'd love for you to come and help others learn more.</p> <p>There's always\
+    \ we'd love for you to come and help others learn more.</p> <p>\n\nThere's always\
     \ at least one mentor present to help you with best practices or guide you through\
-    \ if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
+    \ if you are stuck with a nasty problem!</p> <p>\n\n<a href=\"http://nupurkapoor.github.io/js-study-group/#/\"\
     ><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\"\
-    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p><b>Contact policy\
-    \ at buildings that need access</b></p> <p>Certain building managements requires\
-    \ meetup hosts to let people in and do not encourage them being contacted. Please\
-    \ respect the policy, in case\_the\_location\_requires access to the building\_\
+    >http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p>\n\n<b>Contact\
+    \ policy at buildings that need access</b></p> <p>\n\nCertain building managements\
+    \ requires meetup hosts to let people in and do not encourage them being contacted.\
+    \ Please respect the policy, in case\_the\_location\_requires access to the building\_\
     contact the group lead if information is provided, or drop a comment on the meetup\
-    \ page. We'll come and get you.</p> <p><b>Want to be a JavaScript Study Group\
-    \ leader? </b></p> <p>If you are passionate about learning JavaScript with fellow\
-    \ awesome women and want to help us, come on out! \_Drop us a message or email\
-    \ us and let us know that you are interested in helping us with the JS study group!</p>\
-    \ <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been\
-    \ following along, feel free to suggest if you have more to add!</i></p> <p>Coursera\_\
-    <br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"\
-    http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p>\
-    \ <p>JavaScript is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
+    \ page. We'll come and get you.</p> <p>\n\n<b>Want to be a JavaScript Study Group\
+    \ leader? </b></p> <p>\n\nIf you are passionate about learning JavaScript with\
+    \ fellow awesome women and want to help us, come on out! \_Drop us a message or\
+    \ email us and let us know that you are interested in helping us with the JS study\
+    \ group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</i></p> <p>\n\nCoursera\_<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"\
+    ><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\"\
+    >http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>\n\nJavaScript\
+    \ is Sexy\_<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"\
     ><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"\
     linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p>\
-    \ <p>Codecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
-    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>Bentobox for references\_\
+    \ <p>\n\nCodecademy\_<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\"\
+    \ class=\"linkified\">http://codecademy.com/</a></a></p> <p>\n\nBentobox for references\_\
     <br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"\
-    linkified\">http://www.bento.io/</a></a></p> <p>JavaScript Official Guide\_<br/><a\
-    \ href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
+    linkified\">http://www.bento.io/</a></a></p> <p>\n\nJavaScript Official Guide\_\
+    <br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\"\
     \ class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p>\
-    \ <p>JSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
+    \ <p>\n\nJSFidlle- create/edit/test/share HTML CSS JS code\_<br/><a href=\"http://codecademy.com/\"\
     ><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are\_transgender friendly.</p> <p>\_</p>"
+    \ <p>\n\nThis event is intended to be exclusively open for people who identify\
+    \ as women - we are\_transgender friendly.</p> <p>\n\n\_</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/220176377/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -429,14 +431,14 @@ other:
   name: Front End Hack NIght
   status: upcoming
   time: 1423524600000
-  updated: 1422579352000
+  updated: 1422640151000
   utc_offset: -18000000
   venue: {address_1: '641 S St NW, Fl 1, Washington, DC 20001', city: Washington,
     country: us, id: 23606289, lat: 0, lon: 0, name: iStrategyLabs, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -518,7 +520,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -623,7 +625,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -673,7 +675,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 16
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -783,9 +785,16 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 6
 - created: 1418680238000
-  description: <p>Learn about managing marketing and communications across multiple
-    platforms including web, mobile and social.</p> <p><b>Speakers</b></p> <p>Ahava
-    Leibtag, Aha Media Group</p>
+  description: '<p>This event is still draft. Expect an update in early February.</p>
+    <p>Learn about managing marketing and communications across multiple platforms
+    including web, mobile and social.</p> <p>
+
+
+
+    <b>Speakers</b></p> <p>
+
+
+    Ahava Leibtag, Aha Media Group</p>'
   event_url: http://www.meetup.com/webcontentmavens/events/219264031/
   fee: {accepts: paypal, amount: 10, currency: USD, description: ($20 after 1/31),
     label: Earlybird, required: '0'}
@@ -798,7 +807,7 @@ other:
   name: Marketing and Communications across Web, Mobile & Social
   status: upcoming
   time: 1424304000000
-  updated: 1422258417000
+  updated: 1422635739000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,
@@ -958,7 +967,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 56
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1046,7 +1055,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
