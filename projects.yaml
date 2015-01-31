@@ -86,9 +86,9 @@
   size: 21017
   updated_at: '2015-01-30T22:00:05Z'
   watchers: 16
-- activity: [15, 3, 4, 11, 2, 11, 0, 1, 14, 0, 10, 5, 9, 0, 7, 1, 4, 0, 5, 0, 0, 6,
-    3, 3, 4, 4, 2, 7, 3, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 2, 5, 0, 1, 0, 4, 1, 0, 0,
-    0, 2, 1, 0]
+- activity: [14, 2, 4, 11, 2, 11, 0, 9, 6, 0, 13, 2, 9, 0, 8, 0, 4, 0, 5, 0, 0, 6,
+    3, 3, 5, 3, 2, 8, 2, 0, 1, 0, 0, 2, 3, 0, 0, 6, 2, 2, 5, 0, 1, 0, 5, 0, 0, 0,
+    0, 3, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -152,7 +152,7 @@
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 39
+  open_issues: 38
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-01-16T16:21:42Z'
@@ -429,7 +429,7 @@
   updated_at: '2015-01-02T07:05:14Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
