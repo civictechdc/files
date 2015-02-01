@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1415830056000, 
@@ -350,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1422579352000, 
@@ -463,7 +463,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1421849941000, 
@@ -657,7 +657,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1421849941000, 
@@ -1046,6 +1046,44 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1422815256000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231708/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231708", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 18: Ternary Bits", 
+            "status": "upcoming", 
+            "time": 1426633200000, 
+            "updated": 1422815256000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220177736/", 
@@ -1306,6 +1344,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1422815319000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in April! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231723/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231723", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 19: Semi-Automatic Semaphore", 
+            "status": "upcoming", 
+            "time": 1429052400000, 
+            "updated": 1422815319000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1421849941000, 
@@ -1570,6 +1646,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1422815364000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in May! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231731/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231731", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 20: Severe Municipal Jazz", 
+            "status": "upcoming", 
+            "time": 1431385200000, 
+            "updated": 1422815364000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlythbrb/", 
@@ -1793,6 +1907,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1422815404000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in June! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231745/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231745", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 21: Myo My", 
+            "status": "upcoming", 
+            "time": 1434495600000, 
+            "updated": 1422815404000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1379643162000, 
             "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/210744552/", 
@@ -1899,6 +2051,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1422815436000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231756/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231756", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 22: Wart Warthog", 
+            "status": "upcoming", 
+            "time": 1436828400000, 
+            "updated": 1422815436000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1379643162000, 
             "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytkbvb/", 
@@ -2003,6 +2193,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1422815467000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231769/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231769", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 23: Bucolic Plague", 
+            "status": "upcoming", 
+            "time": 1439334000000, 
+            "updated": 1422815467000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1379643162000, 
