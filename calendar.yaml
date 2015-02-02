@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -212,7 +212,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -265,7 +265,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 60
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -309,7 +309,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 9
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
@@ -625,7 +625,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -739,7 +739,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -838,7 +838,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
@@ -967,7 +967,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -2202,6 +2202,42 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1422815503000
+  description: "<p>Hack and Tell will be at WeWork Chinatown again in September! (Hooray!)\
+    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
+    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"\
+    ><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p>\
+    \ <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly:\
+    \ presenters have 5 minutes to show off their hack (it goes faster than you\u2019\
+    d expect) and then the audience has 5 minutes to ask questions, make jokes, and\
+    \ suggest ideas and feedback. The hacks that people present are anything from\
+    \ how to train your dog to text you when it needs a walk to [something more serious...\
+    \ like blenders made out of artichokes]. Show us what you\u2019ve got! But remember:\
+    \ no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form\
+    \ to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a\
+    \ couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us!\
+    \ We love WeWork! We love you! We love hacks! &lt;3</p>"
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231779/
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
+    who: Hackers}
+  headcount: 0
+  how_to_find_us: by the couch!
+  id: '220231779'
+  maybe_rsvp_count: 0
+  name: 'Round 24: Hose Stable Hattery'
+  status: upcoming
+  time: 1442271600000
+  updated: 1422815503000
+  utc_offset: -14400000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -2267,6 +2303,44 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1422815542000
+  description: "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!)\
+    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
+    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging,\
+    \ and friendly: presenters have 5 minutes to show off their hack (it goes faster\
+    \ than you\u2019d expect) and then the audience has 5 minutes to ask questions,\
+    \ make jokes, and suggest ideas and feedback. The hacks that people present are\
+    \ anything from how to train your dog to text you when it needs a walk to [something\
+    \ more serious... like blenders made out of artichokes]. Show us what you\u2019\
+    ve got! But remember: no startup pitches, no dull work projects, no deckware!</p>\
+    \ <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019\
+    re interested in presenting, complete this short form to let us know:\_<a href=\"\
+    http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\"\
+    >http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There\
+    \ may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting\
+    \ us! We love WeWork! We love you! We love hacks! &lt;3</p>"
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231785/
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
+    who: Hackers}
+  headcount: 0
+  how_to_find_us: by the couch!
+  id: '220231785'
+  maybe_rsvp_count: 0
+  name: 'Round 25: Percival''s Pernicious Parsnips'
+  status: upcoming
+  time: 1444777200000
+  updated: 1422815542000
+  utc_offset: -14400000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -2332,6 +2406,44 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1422815587000
+  description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
+    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
+    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging,\
+    \ and friendly: presenters have 5 minutes to show off their hack (it goes faster\
+    \ than you\u2019d expect) and then the audience has 5 minutes to ask questions,\
+    \ make jokes, and suggest ideas and feedback. The hacks that people present are\
+    \ anything from how to train your dog to text you when it needs a walk to [something\
+    \ more serious... like blenders made out of artichokes]. Show us what you\u2019\
+    ve got! But remember: no startup pitches, no dull work projects, no deckware!</p>\
+    \ <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019\
+    re interested in presenting, complete this short form to let us know:\_<a href=\"\
+    http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\"\
+    >http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There\
+    \ may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting\
+    \ us! We love WeWork! We love you! We love hacks! &lt;3</p>"
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231793/
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
+    who: Hackers}
+  headcount: 0
+  how_to_find_us: by the couch!
+  id: '220231793'
+  maybe_rsvp_count: 0
+  name: 'Round 26: The Curious Camaraderie of Code'
+  status: upcoming
+  time: 1447718400000
+  updated: 1422815587000
+  utc_offset: -18000000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -2397,6 +2509,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1422815617000
+  description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
+    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
+    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"\
+    http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\"\
+    >http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes\
+    \ to show off their hack (it goes faster than you\u2019d expect) and then the\
+    \ audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\
+    \ The hacks that people present are anything from how to train your dog to text\
+    \ you when it needs a walk to [something more serious... like blenders made out\
+    \ of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches,\
+    \ no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form\
+    \ to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven.\
+    \ There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for\
+    \ hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>"
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231803/
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
+    who: Hackers}
+  headcount: 0
+  how_to_find_us: by the couch!
+  id: '220231803'
+  maybe_rsvp_count: 0
+  name: 'Round 27: Hyperion Christmas Carols'
+  status: upcoming
+  time: 1449619200000
+  updated: 1422815617000
+  utc_offset: -18000000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
