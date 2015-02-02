@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1415830056000, 
@@ -190,7 +190,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1421263833000, 
@@ -231,7 +231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1421769158000, 
@@ -350,7 +350,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1422579352000, 
@@ -388,7 +388,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1421263758000, 
@@ -463,7 +463,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1421849941000, 
@@ -581,7 +581,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -657,7 +657,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1421849941000, 
@@ -743,7 +743,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1379643162000, 
@@ -886,7 +886,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1421849941000, 
@@ -945,10 +945,10 @@
             "headcount": 0, 
             "id": "hffzclytfbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "March Meetup", 
+            "name": "Using Window and Statistical Aggregation Functions in PostgreSQL", 
             "status": "upcoming", 
             "time": 1425511800000, 
-            "updated": 1420728552000, 
+            "updated": 1422880802000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
