@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1415830056000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415830083000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1415830109000, 
@@ -150,7 +150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }
     ], 
     "other": [
@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1421769158000, 
@@ -232,12 +232,12 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 40
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>The Hierarchical Data Format is a very popular choice for storing large amounts of multidimensional numerical data. It is used in many scientific, engineering, and commercial applications. Data stored in this format are accessible from a wide variety of programming languages and software tools on almost any type of hardware.</p> <p>In this talk Aleksandar Jelenak\u00a0will cover:\u00a0</p> <p>\n\n\u2022 The\u00a0HDF data model</p> <p>\n\n\u2022\u00a0How HDF helps data wranglers</p> <p>\n\n\u2022\u00a0HDF's stable API as the basis for sustainable software and data</p> <p>\n\n\u2022\u00a0Examples of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n<b><br/></b></p> <p><b>Meetup Agenda</b></p> <p>\n\n6:30pm - Empanadas</p> <p>\n\n7:00pm - Introductions &amp; Announcements</p> <p>\n\n7:15pm - Talk</p> <p>\n\n8:30pm - Head to Tonic for drinks</p>", 
+            "description": "<p>The Hierarchical Data Format is a very popular choice for storing large amounts of multidimensional numerical data. It is used in many scientific, engineering, and commercial applications. Data stored in this format are accessible from a wide variety of programming languages and software tools on almost any type of hardware.</p> <p>\n\nIn this talk Aleksandar Jelenak\u00a0will cover:\u00a0</p> <p>\n\n\n\n\n\n\u2022 The\u00a0HDF data model</p> <p>\n\n\n\n\n\n\u2022\u00a0How HDF helps data wranglers</p> <p>\n\n\n\n\n\n\u2022\u00a0HDF's stable API as the basis for sustainable software and data</p> <p>\n\n\n\n\n\n\u2022\u00a0Examples of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n\n\n\n\n\n\n<b><br/></b></p> <p>\n\n<b>Meetup Agenda</b></p> <p>6:30 - Food &amp; drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100055/", 
             "group": {
@@ -257,7 +257,7 @@ calendar({
             "name": "Working with HDF Files", 
             "status": "upcoming", 
             "time": 1423092600000, 
-            "updated": 1422274778000, 
+            "updated": 1422976979000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street, Room B12", 
@@ -272,7 +272,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1326383071000, 
@@ -292,10 +292,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytdbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "February GeoDC: GIS in action", 
+            "name": "February GeoDC: GIS on the Web", 
             "status": "upcoming", 
             "time": 1423094400000, 
-            "updated": 1422918784000, 
+            "updated": 1422972577000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -312,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1422579352000, 
@@ -350,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1421263758000, 
@@ -392,7 +392,7 @@ calendar({
         }, 
         {
             "created": 1418679019000, 
-            "description": "<p>This event is still draft. RSVP to receive a notification when registration officially opens.\u00a0\u00a0</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion of the changing roles in web, design and marketing.\u00a0</p> <p>Traditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>And specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p><b>SPEAKERS</b></p> <p><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>Emily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>Syscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
+            "description": "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\">Eventbrite.\u00a0</a></p> <p>(While you are encouraged to RSVP here, official registration is through Eventbrite)</p> <p><b>OVERVIEW</b></p> <p>\n\n\nA discussion of the changing roles in web, design and marketing.\u00a0</p> <p>\n\nTraditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>\n\nAnd specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>\n\nEmily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>\n\nSyscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219263686/", 
             "group": {
                 "created": 1189804715000, 
@@ -410,7 +410,7 @@ calendar({
             "name": "Changing Roles in Web, Design and Marketing", 
             "status": "upcoming", 
             "time": 1423611000000, 
-            "updated": 1420679761000, 
+            "updated": 1422981867000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -425,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1421849941000, 
@@ -705,7 +705,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1379643162000, 
@@ -732,7 +732,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422933426000, 
@@ -770,7 +770,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1421082688000, 
@@ -886,7 +886,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1421849941000, 
@@ -964,7 +964,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
@@ -1868,7 +1868,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p><b>What You'll Learn</b></p> <p>Data quality is a fundamental issue for data science that can be measured in many different ways.\u00a0 Whether the data is stored in a relational database, a hierarchical file, or in key/pairs, the reliability of your analysis depends on the quality of the data involved.\u00a0 In this talk, Joe Sremack will discuss what data quality is, the categories in which data quality can be measured, and common data qualities issues.\u00a0 Sample data and Python code will be shown to illustrate what data quality issues are and how they can be identified.</p> <p><b>Our Speaker</b></p> <p>\n\nJoe Sremack is a Director in Berkeley Research Group\u2019s Technology Services Group.\u00a0 He has spent over a decade performing digital investigations for some of the largest civil and criminal cases in US History, such as the Bernie Madoff and Allen Stanford Ponzi scheme investigations.\u00a0 His work involves the collection and analysis of organizations\u2019 data, where data quality is a frequent issue</p> <p><b>Agenda</b></p> <p>6:30 - Food &amp; drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100066/", 
             "group": {
@@ -1884,10 +1884,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytjbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "June Meetup", 
+            "name": "Measuring, Maintaining and Improving Data Quality", 
             "status": "upcoming", 
             "time": 1433370600000, 
-            "updated": 1420728575000, 
+            "updated": 1422976950000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -1903,7 +1903,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 

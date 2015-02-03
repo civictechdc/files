@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -115,7 +115,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -154,7 +154,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 other:
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
@@ -208,7 +208,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -252,20 +252,20 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 9
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
     \ large amounts of multidimensional numerical data. It is used in many scientific,\
     \ engineering, and commercial applications. Data stored in this format are accessible\
     \ from a wide variety of programming languages and software tools on almost any\
-    \ type of hardware.</p> <p>In this talk Aleksandar Jelenak\_will cover:\_</p>\
-    \ <p>\n\n\u2022 The\_HDF data model</p> <p>\n\n\u2022\_How HDF helps data wranglers</p>\
-    \ <p>\n\n\u2022\_HDF's stable API as the basis for sustainable software and data</p>\
-    \ <p>\n\n\u2022\_Examples of storing and accessing HDF data from Python-based\
-    \ tools</p> <p>\n\n\n\n<b><br/></b></p> <p><b>Meetup Agenda</b></p> <p>\n\n6:30pm\
-    \ - Empanadas</p> <p>\n\n7:00pm - Introductions &amp; Announcements</p> <p>\n\n\
-    7:15pm - Talk</p> <p>\n\n8:30pm - Head to Tonic for drinks</p>"
+    \ type of hardware.</p> <p>\n\nIn this talk Aleksandar Jelenak\_will cover:\_\
+    </p> <p>\n\n\n\n\n\n\u2022 The\_HDF data model</p> <p>\n\n\n\n\n\n\u2022\_How\
+    \ HDF helps data wranglers</p> <p>\n\n\n\n\n\n\u2022\_HDF's stable API as the\
+    \ basis for sustainable software and data</p> <p>\n\n\n\n\n\n\u2022\_Examples\
+    \ of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n\n\n\
+    \n\n\n\n<b><br/></b></p> <p>\n\n<b>Meetup Agenda</b></p> <p>6:30 - Food &amp;\
+    \ drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100055/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -279,14 +279,14 @@ other:
   name: Working with HDF Files
   status: upcoming
   time: 1423092600000
-  updated: 1422274778000
+  updated: 1422976979000
   utc_offset: -18000000
   venue: {address_1: '1957 E Street, Room B12', city: Washington, country: us, id: 23590002,
     lat: 38.896275000000003, lon: -77.044205000000005, name: GWU, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 84
 - created: 1326383071000
   description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
@@ -315,17 +315,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcytdbgb
   maybe_rsvp_count: 0
-  name: 'February GeoDC: GIS in action'
+  name: 'February GeoDC: GIS on the Web'
   status: upcoming
   time: 1423094400000
-  updated: 1422918784000
+  updated: 1422972577000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 96
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -382,7 +382,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -418,21 +418,22 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 45
 - created: 1418679019000
-  description: "<p>This event is still draft. RSVP to receive a notification when\
-    \ registration officially opens.\_\_</p> <p><br/><b>OVERVIEW</b></p> <p>A discussion\
-    \ of the changing roles in web, design and marketing.\_</p> <p>Traditional roles\
+  description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
+    >Eventbrite.\_</a></p> <p>(While you are encouraged to RSVP here, official registration\
+    \ is through Eventbrite)</p> <p><b>OVERVIEW</b></p> <p>\n\n\nA discussion of the\
+    \ changing roles in web, design and marketing.\_</p> <p>\n\nTraditional roles\
     \ in marketing and design are now heavily impacted by trends in digital including\
     \ web, mobile and social. On the other side, web managers are increasingly working\
     \ with marketing and design as that role extends beyond just running websites.</p>\
-    \ <p>And specialist roles such as information architect, user experience designer,\
+    \ <p>\n\nAnd specialist roles such as information architect, user experience designer,\
     \ digital marketer and social media manager are changing the nature of more established\
-    \ roles.</p> <p>Join Web Content Mavens to discuss these evolving roles, how to\
-    \ manage diverse teams, how to work effectively as roles evolve and how to plan\
-    \ for upcoming trends that may impact your current role.</p> <p><b>SPEAKERS</b></p>\
-    \ <p><b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p><br/><img\
-    \ src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\"\
-    \ /></p> <p>Emily\_is passionate about web technology and believes in its power\
-    \ to enhance user experience, administrative prowess, and overall organizational\
+    \ roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how\
+    \ to manage diverse teams, how to work effectively as roles evolve and how to\
+    \ plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p>\
+    \ <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\
+    \n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\"\
+    \ /></p> <p>\n\nEmily\_is passionate about web technology and believes in its\
+    \ power to enhance user experience, administrative prowess, and overall organizational\
     \ efficiency. She\_managed a variety of large-scale software implementations and\
     \ upgrades - including CMS, LMS, and CRM - in a variety of roles, including\_\
     business analyst, project manager, and trainer.\_In her experience at Syscom Services,\
@@ -440,13 +441,13 @@ other:
     \ launches of several association websites including the Society of Actuaries,\
     \ United Service Organization, American College of Rheumatology, and the American\
     \ Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC\
-    \ based events and conferences.</p> <p><br/><b>OUR SPONSOR</b></p> <p><img src=\"\
-    http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p>\
-    \ <p>Syscom Services is a\_full service web agency and CMS\_implementation practice\
-    \ for associations, charities and non-profits worldwide.\_ With over 300 implementations\
-    \ and integrations done for\_the major industry backend software platforms, Syscom\
-    \ Services experience designing and building robust web sites within these industries\_\
-    is unparalleled.</p>"
+    \ based events and conferences.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img\
+    \ src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\"\
+    \ /></p> <p>\n\nSyscom Services is a\_full service web agency and CMS\_implementation\
+    \ practice for associations, charities and non-profits worldwide.\_ With over\
+    \ 300 implementations and integrations done for\_the major industry backend software\
+    \ platforms, Syscom Services experience designing and building robust web sites\
+    \ within these industries\_is unparalleled.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/219263686/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -457,14 +458,14 @@ other:
   name: Changing Roles in Web, Design and Marketing
   status: upcoming
   time: 1423611000000
-  updated: 1420679761000
+  updated: 1422981867000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 87
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -758,7 +759,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -782,7 +783,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -821,7 +822,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 14
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
@@ -950,7 +951,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 74
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1016,7 +1017,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1877,8 +1878,21 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: "<p><b>What You'll Learn</b></p> <p>Data quality is a fundamental issue\
+    \ for data science that can be measured in many different ways.\_ Whether the\
+    \ data is stored in a relational database, a hierarchical file, or in key/pairs,\
+    \ the reliability of your analysis depends on the quality of the data involved.\_\
+    \ In this talk, Joe Sremack will discuss what data quality is, the categories\
+    \ in which data quality can be measured, and common data qualities issues.\_ Sample\
+    \ data and Python code will be shown to illustrate what data quality issues are\
+    \ and how they can be identified.</p> <p><b>Our Speaker</b></p> <p>\n\nJoe Sremack\
+    \ is a Director in Berkeley Research Group\u2019s Technology Services Group.\_\
+    \ He has spent over a decade performing digital investigations for some of the\
+    \ largest civil and criminal cases in US History, such as the Bernie Madoff and\
+    \ Allen Stanford Ponzi scheme investigations.\_ His work involves the collection\
+    \ and analysis of organizations\u2019 data, where data quality is a frequent issue</p>\
+    \ <p><b>Agenda</b></p> <p>6:30 - Food &amp; drinks</p> <p>7:00 - Intro</p> <p>7:10\
+    \ - Talk</p> <p>8:30 - Drinks at Tonic</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100066/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1887,17 +1901,17 @@ other:
   headcount: 0
   id: hffzclytjbfb
   maybe_rsvp_count: 0
-  name: June Meetup
+  name: Measuring, Maintaining and Improving Data Quality
   status: upcoming
   time: 1433370600000
-  updated: 1420728575000
+  updated: 1422976950000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
