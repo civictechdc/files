@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -212,7 +212,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 19
 - created: 1421263833000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -265,7 +265,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 62
 - created: 1421769158000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -309,7 +309,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 9
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
@@ -354,16 +354,17 @@ other:
     \ talks:\_</p> <p>\u2022\_<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\"\
     >Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"\
     https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use\
-    \ and share the historical and technical context of modern GIS.</p> <p>Want to\
-    \ give a 5 minute talk on an interesting us of GIS? Message us with your idea.</p>\
-    \ <p><br/>Stetsons is a 21 and over venue. If you're not yet 21 but want to attend,\
-    \ message us via meetup and we'll do our best to get you in.\_</p> <p>GeoDC meets\
-    \ on the first Wednesday of the month to learn, network, and talk about the work\
-    \ people are doing with maps, GIS, geodata, and more. Join this meetup group,\
-    \ follow <a href=\"https://twitter.com/geo_dc\">@Geo_DC </a>on Twitter, and join\
-    \ our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\">Google group</a>\
-    \ for updates.</p> <p>Do you have something you'd like to share with the group?\
-    \ Let us know!</p>"
+    \ and share the historical and technical context of modern GIS.\_</p> <p>\u2022\
+    \_The folks at Esri will be out showing off some of their latest GIS tools. More\
+    \ details to come.\_</p> <p>Want to give a 5 minute talk on an interesting us\
+    \ of GIS? Message us with your idea.</p> <p><br/>Stetsons is a 21 and over venue.\
+    \ If you're not yet 21 but want to attend, message us via meetup and we'll do\
+    \ our best to get you in.\_</p> <p>GeoDC meets on the first Wednesday of the month\
+    \ to learn, network, and talk about the work people are doing with maps, GIS,\
+    \ geodata, and more. Join this meetup group, follow <a href=\"https://twitter.com/geo_dc\"\
+    >@Geo_DC </a>on Twitter, and join our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\"\
+    >Google group</a> for updates.</p> <p>Do you have something you'd like to share\
+    \ with the group? Let us know!</p>"
   event_url: http://www.meetup.com/Geo-DC/events/215042332/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -374,14 +375,14 @@ other:
   name: 'February GeoDC: GIS in action'
   status: upcoming
   time: 1423094400000
-  updated: 1421963656000
+  updated: 1422918784000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 89
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -438,7 +439,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -520,7 +521,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -625,7 +626,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 72
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -675,7 +676,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 16
   yes_rsvp_count: 80
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -776,14 +777,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1424300400000
-  updated: 1421849941000
+  updated: 1422909983000
   utc_offset: -18000000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
+  venue: {address_1: '702 H Street Northwest #200', city: 'Washington, D.C.', country: us,
+    id: 15978222, lat: 38.899700000000003, lon: -77.022330999999994, name: Optoro,
+    repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1418680238000
   description: '<p>This event is still draft. Expect an update in early February.</p>
     <p>Learn about managing marketing and communications across multiple platforms
@@ -1171,11 +1172,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1426716000000
-  updated: 1421849941000
+  updated: 1422910014000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
+  venue: {address_1: '702 H Street Northwest #200', city: 'Washington, D.C.', country: us,
+    id: 15978222, lat: 38.899700000000003, lon: -77.022330999999994, name: Optoro,
+    repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -1439,7 +1440,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbtb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220258278/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1450,11 +1451,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1429135200000
-  updated: 1421849941000
+  updated: 1422910045000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
+  venue: {address_1: '702 H Street Northwest #200', city: 'Washington, D.C.', country: us,
+    id: 15978222, lat: 38.899700000000003, lon: -77.022330999999994, name: Optoro,
+    repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2

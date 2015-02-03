@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1415830056000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1421263833000, 
@@ -231,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1421769158000, 
@@ -270,7 +270,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -314,7 +314,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>This month we'll look at GIS, new tools making GIS easier, and neat applications of GIS in practice. Join us at 7pm on Wednesday, February 4, at <a href=\"http://stetsons-dc.com/index.php\">Stetson's</a> at 1610 U street NW. We'll kick off introductions and lightning talks at 7:30pm, and plan on staying after for time to talk with our speakers and everyone else.</p> <p>We're still building our speaker lineup, but here's an advance look at our lightning talks:\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\">Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use and share the historical and technical context of modern GIS.</p> <p>Want to give a 5 minute talk on an interesting us of GIS? Message us with your idea.</p> <p><br/>Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow <a href=\"https://twitter.com/geo_dc\">@Geo_DC </a>on Twitter, and join our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\">Google group</a> for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
+            "description": "<p>This month we'll look at GIS, new tools making GIS easier, and neat applications of GIS in practice. Join us at 7pm on Wednesday, February 4, at <a href=\"http://stetsons-dc.com/index.php\">Stetson's</a> at 1610 U street NW. We'll kick off introductions and lightning talks at 7:30pm, and plan on staying after for time to talk with our speakers and everyone else.</p> <p>We're still building our speaker lineup, but here's an advance look at our lightning talks:\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\">Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use and share the historical and technical context of modern GIS.\u00a0</p> <p>\u2022\u00a0The folks at Esri will be out showing off some of their latest GIS tools. More details to come.\u00a0</p> <p>Want to give a 5 minute talk on an interesting us of GIS? Message us with your idea.</p> <p><br/>Stetsons is a 21 and over venue. If you're not yet 21 but want to attend, message us via meetup and we'll do our best to get you in.\u00a0</p> <p>GeoDC meets on the first Wednesday of the month to learn, network, and talk about the work people are doing with maps, GIS, geodata, and more. Join this meetup group, follow <a href=\"https://twitter.com/geo_dc\">@Geo_DC </a>on Twitter, and join our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\">Google group</a> for updates.</p> <p>Do you have something you'd like to share with the group? Let us know!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/215042332/", 
             "group": {
                 "created": 1307975249000, 
@@ -333,7 +333,7 @@ calendar({
             "name": "February GeoDC: GIS in action", 
             "status": "upcoming", 
             "time": 1423094400000, 
-            "updated": 1421963656000, 
+            "updated": 1422918784000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -350,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1422579352000, 
@@ -388,7 +388,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1421263758000, 
@@ -463,7 +463,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1421849941000, 
@@ -542,7 +542,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1416852247000, 
@@ -581,7 +581,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -680,23 +680,23 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1424300400000, 
-            "updated": 1421849941000, 
+            "updated": 1422909983000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
+                "address_1": "702 H Street Northwest #200", 
+                "city": "Washington, D.C.", 
                 "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
+                "id": 15978222, 
+                "lat": 38.899700000000003, 
+                "lon": -77.022330999999994, 
+                "name": "Optoro", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "Di", 
+                "zip": "20006"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1418680238000, 
@@ -1104,19 +1104,19 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1426716000000, 
-            "updated": 1421849941000, 
+            "updated": 1422910014000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
+                "address_1": "702 H Street Northwest #200", 
+                "city": "Washington, D.C.", 
                 "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
+                "id": 15978222, 
+                "lat": 38.899700000000003, 
+                "lon": -77.022330999999994, 
+                "name": "Optoro", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "Di", 
+                "zip": "20006"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1386,7 +1386,7 @@ calendar({
         {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbtb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220258278/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1404,19 +1404,19 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1429135200000, 
-            "updated": 1421849941000, 
+            "updated": 1422910045000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
+                "address_1": "702 H Street Northwest #200", 
+                "city": "Washington, D.C.", 
                 "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
+                "id": 15978222, 
+                "lat": 38.899700000000003, 
+                "lon": -77.022330999999994, 
+                "name": "Optoro", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "Di", 
+                "zip": "20006"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
