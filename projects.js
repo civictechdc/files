@@ -91,7 +91,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 602, 
+                "contributions": 604, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -100,6 +100,12 @@ projects([
                 "contributions": 75, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 20, 
+                "link": "https://github.com/evonfriedland", 
+                "name": "evonfriedland"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=3", 
@@ -112,12 +118,6 @@ projects([
                 "contributions": 16, 
                 "link": "https://github.com/ouzy", 
                 "name": "ouzy"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 16, 
-                "link": "https://github.com/evonfriedland", 
-                "name": "evonfriedland"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
@@ -222,7 +222,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                153140
+                160700
             ], 
             [
                 "CSS", 
@@ -247,16 +247,16 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 30, 
+        "open_issues": 23, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-03T02:40:29Z", 
+        "pushed_at": "2015-02-04T06:13:08Z", 
         "size": 22035, 
-        "updated_at": "2015-02-03T02:40:30Z", 
+        "updated_at": "2015-02-04T06:13:08Z", 
         "watchers": 16
     }, 
     {
@@ -1089,11 +1089,11 @@ projects([
             1, 
             1, 
             2, 
-            4, 
-            1, 
-            1, 
-            3, 
+            5, 
+            0, 
             2, 
+            4, 
+            0, 
             0, 
             0, 
             4, 
@@ -1102,8 +1102,8 @@ projects([
             0, 
             0, 
             1, 
-            0, 
-            3, 
+            1, 
+            2, 
             0, 
             0, 
             0, 
@@ -1628,28 +1628,28 @@ projects([
             3, 
             2, 
             0, 
-            0, 
             1, 
             0, 
-            1, 
             0, 
+            1, 
+            2, 
+            3, 
+            5, 
             4, 
-            6, 
-            4, 
-            6, 
-            4, 
+            8, 
+            2, 
             4, 
             0, 
             0, 
             2, 
             0, 
             0, 
-            0, 
-            4, 
-            0, 
-            0, 
             2, 
-            1, 
+            2, 
+            0, 
+            0, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
