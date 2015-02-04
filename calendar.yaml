@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -252,7 +252,7 @@ other:
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 10
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>The Hierarchical Data Format is a very popular choice for storing\
@@ -292,22 +292,25 @@ other:
     \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
     \ 4, at <a href=\"http://stetsons-dc.com/index.php\">Stetson's</a> at 1610 U street\
     \ NW. We'll kick off introductions and lightning talks at 7:30pm, and plan on\
-    \ staying after for time to talk with our speakers and everyone else.</p> <p>We're\
-    \ still building our speaker lineup, but here's an advance look at our lightning\
-    \ talks:\_</p> <p>\u2022\_<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\"\
+    \ staying after for time to talk with our speakers and everyone else.</p> <p>\n\
+    \nWe're still building our speaker lineup, but here's an advance look at our lightning\
+    \ talks:\_</p> <p>\n\n\u2022\_<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\"\
     >Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"\
     https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use\
     \ and share the historical and technical context of modern GIS.\_</p> <p>\u2022\
-    \_The folks at Esri will be out showing off some of their latest GIS tools. More\
-    \ details to come.\_</p> <p>Want to give a 5 minute talk on an interesting us\
-    \ of GIS? Message us with your idea.</p> <p><br/>Stetsons is a 21 and over venue.\
-    \ If you're not yet 21 but want to attend, message us via meetup and we'll do\
-    \ our best to get you in.\_</p> <p>GeoDC meets on the first Wednesday of the month\
+    \_Visualizing real time geodata on the web allows for instant feedback, rapid\
+    \ analysis and decision making, and an all-round cool experience. <a href=\"https://twitter.com/sidewalkballet\"\
+    >Courtney Claessens</a> will demonstrate how to use stream services in ArcGISOnline\
+    \ so anyone can visualize and analyze real time data streams, regardless of developer\
+    \ experience.</p> <p>Want to give a 5 minute talk on an interesting us of GIS?\
+    \ Message us with your idea.</p> <p>\n\n\nStetsons is a 21 and over venue. If\
+    \ you're not yet 21 but want to attend, message us via meetup and we'll do our\
+    \ best to get you in.\_</p> <p>\n\nGeoDC meets on the first Wednesday of the month\
     \ to learn, network, and talk about the work people are doing with maps, GIS,\
     \ geodata, and more. Join this meetup group, follow <a href=\"https://twitter.com/geo_dc\"\
     >@Geo_DC </a>on Twitter, and join our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\"\
-    >Google group</a> for updates.</p> <p>Do you have something you'd like to share\
-    \ with the group? Let us know!</p>"
+    >Google group</a> for updates.</p> <p>\n\nDo you have something you'd like to\
+    \ share with the group? Let us know!</p>"
   event_url: http://www.meetup.com/Geo-DC/events/215042332/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -318,14 +321,14 @@ other:
   name: 'February GeoDC: GIS on the Web'
   status: upcoming
   time: 1423094400000
-  updated: 1422972577000
+  updated: 1422998747000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 107
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -382,7 +385,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 22
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -465,7 +468,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 91
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -570,7 +573,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -783,7 +786,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -822,7 +825,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
@@ -951,7 +954,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -997,8 +1000,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 3
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
+    \ component of standard SQL and are\_extremely useful for doing statistical analysis\
+    \ of data. \_During this\_talk we will go over how window functions work in PostgreSQL\
+    \ and the\_statistical aggregations functions which are available, including</p>\
+    \ <p>\u2022\_ntile()</p> <p>\u2022\_lag()</p> <p>\u2022\_lead()</p> <p>\u2022\_\
+    and friends</p> <p><b>Our Speaker</b></p> <p>\n\nStephen Frost is Chief Technology\
+    \ Officer for Crunchy Data Solutions,\_Inc.</p> <p>As a PostgreSQL contributor,\
+    \ Stephen implemented roles support in 8.1 to\_replace the existing user/group\
+    \ system, and SQL column-level privileges\_in 8.4. He has also spoken previously\
+    \ at numerous conferences, including\_<a href=\"http://pgconf.eu/\">pgConf.EU</a>\
+    \ in Amsterdam.</p> <p><b>Agenda</b></p> <p>6:30 - Food and beverages</p> <p>7:00\
+    \ - Intro and announcements</p> <p>7:15 - Talk</p> <p>8:30 - Head to Tonic for\
+    \ drinks</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100057/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1010,7 +1024,7 @@ other:
   name: Using Window and Statistical Aggregation Functions in PostgreSQL
   status: upcoming
   time: 1425511800000
-  updated: 1422880802000
+  updated: 1423010897000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
@@ -1039,7 +1053,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1318,7 +1332,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
