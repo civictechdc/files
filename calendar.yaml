@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 38
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -156,80 +156,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1417881835000
-  description: "<p>The Hierarchical Data Format is a very popular choice for storing\
-    \ large amounts of multidimensional numerical data. It is used in many scientific,\
-    \ engineering, and commercial applications. Data stored in this format are accessible\
-    \ from a wide variety of programming languages and software tools on almost any\
-    \ type of hardware.</p> <p>\n\nIn this talk Aleksandar Jelenak\_will cover:\_\
-    </p> <p>\n\n\n\n\n\n\u2022 The\_HDF data model</p> <p>\n\n\n\n\n\n\u2022\_How\
-    \ HDF helps data wranglers</p> <p>\n\n\n\n\n\n\u2022\_HDF's stable API as the\
-    \ basis for sustainable software and data</p> <p>\n\n\n\n\n\n\u2022\_Examples\
-    \ of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n\n\n\
-    \n\n\n\n<b><br/></b></p> <p>\n\n<b>Meetup Agenda</b></p> <p>6:30 - Food &amp;\
-    \ drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100055/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  how_to_find_us: Come into the building and go downstairs. Follow the smell of pizza.
-  id: hffzclytdbgb
-  maybe_rsvp_count: 0
-  name: Working with HDF Files
-  status: upcoming
-  time: 1423092600000
-  updated: 1423092377000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 83
-- created: 1326383071000
-  description: "<p>This month we'll look at GIS, new tools making GIS easier, and\
-    \ neat applications of GIS in practice. Join us at 7pm on Wednesday, February\
-    \ 4, at <a href=\"http://stetsons-dc.com/index.php\">Stetson's</a> at 1610 U street\
-    \ NW. We'll kick off introductions and lightning talks at 7:30pm, and plan on\
-    \ staying after for time to talk with our speakers and everyone else.</p> <p>\n\
-    \nWe're still building our speaker lineup, but here's an advance look at our lightning\
-    \ talks:\_</p> <p>\n\n\u2022\_<a href=\"https://www.mapbox.com/blog/turf-gis-for-web-maps/\"\
-    >Turf</a> is a simple, fast, and versatile new tool for doing GIS. <a href=\"\
-    https://twitter.com/tmcw\">Tom MacWright</a> will show examples of Turf in use\
-    \ and share the historical and technical context of modern GIS.\_</p> <p>\u2022\
-    \_Visualizing real time geodata on the web allows for instant feedback, rapid\
-    \ analysis and decision making, and an all-round cool experience. <a href=\"https://twitter.com/sidewalkballet\"\
-    >Courtney Claessens</a> will demonstrate how to use stream services in ArcGISOnline\
-    \ so anyone can visualize and analyze real time data streams, regardless of developer\
-    \ experience.</p> <p>Want to give a 5 minute talk on an interesting us of GIS?\
-    \ Message us with your idea.</p> <p>\n\n\nStetsons is a 21 and over venue. If\
-    \ you're not yet 21 but want to attend, message us via meetup and we'll do our\
-    \ best to get you in.\_</p> <p>\n\nGeoDC meets on the first Wednesday of the month\
-    \ to learn, network, and talk about the work people are doing with maps, GIS,\
-    \ geodata, and more. Join this meetup group, follow <a href=\"https://twitter.com/geo_dc\"\
-    >@Geo_DC </a>on Twitter, and join our <a href=\"https://groups.google.com/forum/#!forum/geonerds-dc\"\
-    >Google group</a> for updates.</p> <p>\n\nDo you have something you'd like to\
-    \ share with the group? Let us know!</p>"
-  event_url: http://www.meetup.com/Geo-DC/events/215042332/
-  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
-    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
-  headcount: 0
-  how_to_find_us: Upstairs bar
-  id: dlcllcytdbgb
-  maybe_rsvp_count: 0
-  name: 'February GeoDC: GIS on the Web'
-  status: upcoming
-  time: 1423094400000
-  updated: 1422998747000
-  utc_offset: -18000000
-  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
-    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
-      667-6295, repinned: false, state: DC, zip: '20009'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 114
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
     \ study group is intended for everyone who wishes to learn JavaScript programming\
@@ -281,14 +207,14 @@ other:
   name: Front End Hack NIght
   status: upcoming
   time: 1423524600000
-  updated: 1423060671000
+  updated: 1423103303000
   utc_offset: -18000000
-  venue: {address_1: '641 S St NW, Fl 1, Washington, DC 20001', city: Washington,
-    country: us, id: 23606289, lat: 0, lon: 0, name: iStrategyLabs, repinned: false,
+  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
+    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -322,7 +248,7 @@ other:
       Institute, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1418679019000
   description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
     >Eventbrite.\_</a></p> <p>(While you are encouraged to RSVP here, official registration\
@@ -371,7 +297,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 110
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -380,23 +306,24 @@ other:
     \ up \"stations\" according to level of experience and provide you with recommended\
     \ resources to work through as a group. You will be able to ask your fellow coders\
     \ questions and help each other work through issues. We encourage any advanced\
-    \ ROR devs to come and help others!\_</p> <p>There's always at least one mentor\
+    \ ROR devs to come and help others!\_</p> <p>\n\nThere's always at least one mentor\
     \ present to help you with best practices or guide you through if you are stuck\
-    \ with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p>\
-    \ <p><br/>Certain building managements requires meetup hosts to let people in\
-    \ and do not encourage them being contacted. Please respect the policy, in case\_\
-    the\_location\_requires access to the building\_contact the group lead if information\
-    \ is provided, or drop a comment on the meetup page. We'll come and get you.\_\
-    </p> <p><b>Want to be a Ruby on Rails Study Group leader?\_</b></p> <p>If you\
-    \ are passionate about learning ROR with fellow awesome women and want to help\
-    \ us, come on out! \_Drop us a message or email us and let us know that you are\
-    \ interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p>\
-    \ <p><i>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"\
+    \ with a nasty problem!</p> <p>\n\n\n<b>Contact policy at buildings that need\
+    \ access</b></p> <p>\n\n\nCertain building managements requires meetup hosts to\
+    \ let people in and do not encourage them being contacted. Please respect the\
+    \ policy, in case\_the\_location\_requires access to the building\_contact the\
+    \ group lead if information is provided, or drop a comment on the meetup page.\
+    \ We'll come and get you.\_</p> <p>\n\n<b>Want to be a Ruby on Rails Study Group\
+    \ leader?\_</b></p> <p>\n\nIf you are passionate about learning ROR with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the Rails study\
+    \ group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</i></p> <p>\n\n<a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"\
     ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
-    \ as women - we are\_transgender friendly.</p>"
+    \ <p>\n\n\n\n\n\n\n\nThis event is intended to be exclusively open for people\
+    \ who identify as women - we are\_transgender friendly.</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/219982189/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -408,14 +335,13 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1423695600000
-  updated: 1421849941000
+  updated: 1423103987000
   utc_offset: -18000000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
+  venue: {address_1: '2300 Wilson Blvd. #630', city: Arlington, country: us, id: 23616031,
+    lat: 38.890926, lon: -77.086708000000002, name: Excella, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1421895090000
   description: "<p>Spark is becoming increasingly popular for big data processing\
     \ and analytics with significant speed increases over other platforms such as\
@@ -562,7 +488,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -590,7 +516,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -750,7 +676,7 @@ other:
   name: DC Designers in Tech Brunch!
   status: upcoming
   time: 1424538000000
-  updated: 1421082688000
+  updated: 1423102879000
   utc_offset: -18000000
   venue: {address_1: 2009 R St NW, city: Washington, country: us, id: 18121842, lat: 38.912666000000002,
     lon: -77.045524999999998, name: Teaism, repinned: false, state: DC}
@@ -765,23 +691,24 @@ other:
     \ up \"stations\" according to level of experience and provide you with recommended\
     \ resources to work through as a group. You will be able to ask your fellow coders\
     \ questions and help each other work through issues. We encourage any advanced\
-    \ ROR devs to come and help others!\_</p> <p>There's always at least one mentor\
+    \ ROR devs to come and help others!\_</p> <p>\n\nThere's always at least one mentor\
     \ present to help you with best practices or guide you through if you are stuck\
-    \ with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p>\
-    \ <p><br/>Certain building managements requires meetup hosts to let people in\
-    \ and do not encourage them being contacted. Please respect the policy, in case\_\
-    the\_location\_requires access to the building\_contact the group lead if information\
-    \ is provided, or drop a comment on the meetup page. We'll come and get you.\_\
-    </p> <p><b>Want to be a Ruby on Rails Study Group leader?\_</b></p> <p>If you\
-    \ are passionate about learning ROR with fellow awesome women and want to help\
-    \ us, come on out! \_Drop us a message or email us and let us know that you are\
-    \ interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p>\
-    \ <p><i>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"\
+    \ with a nasty problem!</p> <p>\n\n\n<b>Contact policy at buildings that need\
+    \ access</b></p> <p>\n\n\nCertain building managements requires meetup hosts to\
+    \ let people in and do not encourage them being contacted. Please respect the\
+    \ policy, in case\_the\_location\_requires access to the building\_contact the\
+    \ group lead if information is provided, or drop a comment on the meetup page.\
+    \ We'll come and get you.\_</p> <p>\n\n<b>Want to be a Ruby on Rails Study Group\
+    \ leader?\_</b></p> <p>\n\nIf you are passionate about learning ROR with fellow\
+    \ awesome women and want to help us, come on out! \_Drop us a message or email\
+    \ us and let us know that you are interested in helping us with the Rails study\
+    \ group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</i></p> <p>\n\n<a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"\
     ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
-    \ as women - we are\_transgender friendly.</p>"
+    \ <p>\n\n\n\n\n\n\n\nThis event is intended to be exclusively open for people\
+    \ who identify as women - we are\_transgender friendly.</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/220066932/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -793,7 +720,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1424905200000
-  updated: 1421849941000
+  updated: 1423103228000
   utc_offset: -18000000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -857,7 +784,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 77
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -934,7 +861,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1035,7 +962,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1140,7 +1067,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1427320800000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1184,7 +1111,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1427925600000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1308,7 +1235,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1428530400000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1455,7 +1382,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1429740000000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1499,7 +1426,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1430344800000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1543,7 +1470,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1430949600000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1666,7 +1593,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1431554400000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1710,7 +1637,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1432159200000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1778,7 +1705,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1432764000000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1822,7 +1749,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1433368800000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
@@ -1864,7 +1791,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1923,7 +1850,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1433973600000
-  updated: 1421849941000
+  updated: 1423103681000
   utc_offset: -14400000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
