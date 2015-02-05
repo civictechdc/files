@@ -46,7 +46,6 @@
     },
     {
     	"2014 Budget Treemap": "https://github.com/drewbo/dc-budget-treemap"
-
     },
     {
     	"DC Juvenile Arrests": "https://github.com/drewbo/dc-juvenile"
@@ -56,6 +55,9 @@
     },
     {
     	"DC Healthcare Issues": "https://github.com/gxespino/dc_healthcare_issues"
+    },
+    {
+    	"Funds for At-Risk Students": "https://github.com/cmgiven/at-risk"
     }
 ],
 "meetups": [

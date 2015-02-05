@@ -19,11 +19,11 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 604,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 605,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 20,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 22,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1019782?v=3', contributions: 17,
     link: 'https://github.com/lankyfrenchman', name: lankyfrenchman}
@@ -71,7 +71,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 160700]
+  - [Ruby, 160715]
   - [CSS, 12482]
   - [Puppet, 5387]
   - [CoffeeScript, 1429]
@@ -79,15 +79,15 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 24
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-04T06:13:08Z'
+  pushed_at: '2015-02-05T14:29:35Z'
   size: 22035
-  updated_at: '2015-02-04T06:13:08Z'
+  updated_at: '2015-02-05T14:29:36Z'
   watchers: 16
-- activity: [5, 2, 13, 1, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 4, 2,
-    6, 3, 3, 4, 4, 5, 1, 1, 0, 0, 0, 3, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 5, 0, 0, 0,
+- activity: [2, 2, 13, 2, 11, 1, 1, 14, 0, 2, 13, 8, 1, 7, 1, 4, 0, 5, 0, 0, 6, 2,
+    4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 0, 2, 5, 1, 0, 0, 5, 0, 0, 0,
     0, 3, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -188,7 +188,7 @@
   size: 1988
   updated_at: '2015-01-13T20:10:49Z'
   watchers: 7
-- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -232,9 +232,9 @@
   size: 40024
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [0, 0, 4, 2, 0, 0, 4, 0, 0, 0, 3, 8, 5, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0,
-    0, 6, 0, 3, 6, 5, 2, 2, 10, 12, 4, 2, 15, 6, 2, 10, 13, 14, 4, 0, 1, 9, 4, 0,
-    2, 1, 9, 0, 0]
+- activity: [0, 0, 5, 1, 0, 4, 0, 0, 0, 0, 8, 8, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0,
+    0, 6, 0, 4, 5, 7, 0, 2, 15, 10, 3, 0, 15, 8, 2, 14, 7, 14, 4, 1, 0, 9, 4, 1, 1,
+    1, 9, 0, 2]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -309,10 +309,10 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-05T05:30:23Z'
   size: 17351
-  updated_at: '2015-02-05T05:30:24Z'
-  watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 4, 1, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  updated_at: '2015-02-05T14:39:33Z'
+  watchers: 15
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -397,8 +397,8 @@
   size: 2264
   updated_at: '2015-01-14T21:50:52Z'
   watchers: 11
-- activity: [5, 3, 6, 6, 4, 5, 6, 4, 6, 6, 5, 7, 4, 6, 7, 4, 5, 7, 32, 6, 6, 4, 5,
-    5, 8, 6, 6, 3, 7, 3, 5, 5, 7, 6, 6, 5, 7, 9, 6, 6, 6, 6, 4, 7, 6, 5, 3, 2, 0,
+- activity: [6, 3, 6, 6, 4, 5, 6, 4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 6, 4, 5,
+    7, 6, 6, 6, 3, 7, 2, 6, 5, 7, 6, 6, 4, 8, 9, 6, 6, 6, 6, 4, 7, 6, 4, 3, 2, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -460,8 +460,8 @@
   size: 2932
   updated_at: '2015-01-15T03:32:41Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
-    0, 9, 0, 8, 0, 8, 9, 5, 12, 0, 10, 4, 4, 0, 0, 0, 1, 0, 1, 0, 0, 3, 0, 8, 0, 0,
+- activity: [0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    0, 9, 0, 8, 0, 10, 7, 8, 9, 0, 10, 4, 4, 0, 0, 1, 0, 0, 1, 0, 2, 1, 0, 8, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -553,7 +553,7 @@
   size: 105864
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -701,7 +701,7 @@
   updated_at: '2014-09-18T19:50:23Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -785,4 +785,32 @@
   pushed_at: '2014-11-13T01:40:00Z'
   size: 128
   updated_at: '2014-11-13T01:31:13Z'
+  watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 8, 31]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 47,
+    link: 'https://github.com/cmgiven', name: cmgiven}
+  contributors_count: 1
+  created_at: '2015-01-25T17:36:17Z'
+  default_branch: master
+  description: Distribution of DCPS At-Risk Funding
+  forks: 0
+  help_wanted: []
+  homepage: http://cmgiven.github.io/at-risk/
+  html_url: https://github.com/cmgiven/at-risk
+  id: 29823243
+  languages:
+  - [JavaScript, 26328]
+  - [CSS, 9572]
+  main_language: JavaScript
+  name: Funds for At-Risk Students
+  open_issues: 0
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
+    type: User, url: 'https://github.com/cmgiven'}
+  pushed_at: '2015-02-05T13:57:35Z'
+  size: 320
+  updated_at: '2015-02-05T13:57:31Z'
   watchers: 0
