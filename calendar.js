@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1415830056000, 
@@ -155,87 +155,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1421263833000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin us on Wednesday, February 4, 2015 for a Serial-inspired discussion on cell phone data &amp; the criminal justice system: then and now.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://files.serialpodcast.org/sites/all/modules/custom/serial/img/serial-social-logo.png\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/3/2/c/b/600_433993003.jpeg\" /></p> <p>Were you obsessed with the popular podcast\u00a0<a href=\"http://serialpodcast.org/\">Serial</a>\u00a0this winter?\u00a0Us too! We wondered:\u00a0Just how do cell phone towers work? How definitive is the data? How has that data changed since 1999's Serial case? How often has this information been used in criminal cases?\u00a0How do IMSI catchers and E911 fit into this discussion? If this is now, what will the future look like?\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo answer those questions and more we've gathered a panel of experts to #LegalHack cell phone data and the criminal justice system.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeakers:\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0Susan Simpson, Attorney and blogger at\u00a0<a href=\"http://viewfromll2.com/\">The View from LL2</a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0Laura Moy, Senior Policy Counsel, <a href=\"http://newamerica.org/oti/\">Open Technology Institute</a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022 Kevin Bankston, Policy Director,\u00a0<a href=\"http://newamerica.org/oti/\">Open Technology Institute</a>&lt;a href=\"http://oti.newamerica.net/\"&gt;&lt;/a&gt;</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0Michael Cherry, C.E.O. of\u00a0<a href=\"http://www.washingtonpost.com/local/experts-say-law-enforcements-use-of-cellphone-records-can-be-inaccurate/2014/06/27/028be93c-faf3-11e3-932c-0a55b81f48ce_story.html\">Cherry Biometrics</a>, Digital Evidence Experts</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSchedule:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:00pm: Drinks/Networking</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:45pm: Panel Introductions</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n7:00pm: Panel</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n7:45pm: Q&amp;A</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin us and our hosts, Open Technology Institute, for the legal geek supplement to Serial.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834477/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "219834477", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack Serial: Cell phone data and the criminal justice system, then and now", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1423090800000, 
-            "updated": 1423023255000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1899 L Street NW ", 
-                "address_2": "Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 1330329, 
-                "lat": 38.903917, 
-                "lon": -77.043056000000007, 
-                "name": "New America Foundation", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 65
-        }, 
-        {
-            "created": 1421769158000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219958605/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytdbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1423090800000, 
-            "updated": 1422639459000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 8, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p>The Hierarchical Data Format is a very popular choice for storing large amounts of multidimensional numerical data. It is used in many scientific, engineering, and commercial applications. Data stored in this format are accessible from a wide variety of programming languages and software tools on almost any type of hardware.</p> <p>\n\nIn this talk Aleksandar Jelenak\u00a0will cover:\u00a0</p> <p>\n\n\n\n\n\n\u2022 The\u00a0HDF data model</p> <p>\n\n\n\n\n\n\u2022\u00a0How HDF helps data wranglers</p> <p>\n\n\n\n\n\n\u2022\u00a0HDF's stable API as the basis for sustainable software and data</p> <p>\n\n\n\n\n\n\u2022\u00a0Examples of storing and accessing HDF data from Python-based tools</p> <p>\n\n\n\n\n\n\n\n\n\n<b><br/></b></p> <p>\n\n<b>Meetup Agenda</b></p> <p>6:30 - Food &amp; drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>", 
             "duration": 9000000, 
@@ -251,28 +170,29 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "Come into the building and go downstairs. Follow the smell of the empanadas.", 
+            "how_to_find_us": "Come into the building and go downstairs. Follow the smell of pizza.", 
             "id": "hffzclytdbgb", 
             "maybe_rsvp_count": 0, 
             "name": "Working with HDF Files", 
             "status": "upcoming", 
             "time": 1423092600000, 
-            "updated": 1422976979000, 
+            "updated": 1423092377000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1957 E Street, Room B12", 
+                "address_1": "2201 G St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23590002, 
-                "lat": 38.896275000000003, 
-                "lon": -77.044205000000005, 
-                "name": "GWU", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "DC", 
+                "zip": "20052"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1326383071000, 
@@ -312,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1422579352000, 
@@ -388,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1418679019000, 
@@ -425,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1421849941000, 
@@ -464,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1421895090000, 
@@ -504,7 +424,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1416852247000, 
@@ -658,7 +578,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1418680238000, 
@@ -770,7 +690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1421082688000, 
@@ -1004,7 +924,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1421849941000, 
@@ -1341,7 +1261,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1421849941000, 
@@ -1977,6 +1897,45 @@ calendar({
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytjbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1433973600000, 
+            "updated": 1421849941000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
