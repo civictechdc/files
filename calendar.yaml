@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 48
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -214,7 +214,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -297,7 +297,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 118
+  yes_rsvp_count: 117
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -402,7 +402,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -496,7 +496,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -760,7 +760,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 141
+  yes_rsvp_count: 172
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -939,7 +939,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1111,18 +1111,19 @@ other:
   yes_rsvp_count: 1
 - created: 1423167734000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/b/3/a/3/600_434025987.jpeg\"\
-    \ /></p> <p>\n\nFirebase is an API for building realtime applications. Using Firebase\
-    \ you can store and sync data between your users with a few lines of code. \_\
-    Learn how you can use Firebase to build a web or mobile app in minutes without\
-    \ worrying about wiring up a backend. Come with your laptops. <b>Google Engineer\
-    \ David East will be live coding a cross platform application with Firebase, Angular2,\
-    \ and Android.</b></p> <p><br/><b>About\_the presenter</b></p> <p>David East is\
-    \ an Engineer at Google working on Firebase. He's also a Core Contributor on the\
-    \ AngularJS team. He believes you should realtime all the things. You can find\
-    \ him on <a href=\"http://github.com/davideast\">Github</a> and <a href=\"https://twitter.com/_davideast\"\
-    >Twitter</a>.</p> <p><b>Agenda</b></p> <p>\u2022\_6:30pm: Welcome and introductions</p>\
-    \ <p>\u2022\_7pm-8pm: Presentation</p> <p>\u2022\_8pm: Networking</p> <p>(<i>Location\
-    \ will be confirmed soon.</i>)</p>"
+    \ /></p> <p>\n\n\n\n\n\nFirebase is an API for building realtime applications.\
+    \ Using Firebase you can store and sync data between your users with a few lines\
+    \ of code. \_Learn how you can use Firebase to build a web or mobile app in minutes\
+    \ without worrying about wiring up a backend. Come with your laptops. <b>Google\
+    \ Engineer David East will be live coding a cross platform application with Firebase,\
+    \ Angular2, and Android.</b></p> <p>\n\n\n<b>About\_the presenter</b></p> <p>\n\
+    \nDavid East is an Engineer at Google working on Firebase. He's also a Core Contributor\
+    \ on the AngularJS team. He believes you should realtime all the things. You can\
+    \ find him on <a href=\"http://github.com/davideast\">Github</a> and <a href=\"\
+    https://twitter.com/_davideast\">Twitter</a>.</p> <p>\n\n<b>Agenda</b></p> <p>\n\
+    \n\u2022\_6:30pm: Welcome and introductions</p> <p>\n\n\u2022\_7pm-8pm: Presentation</p>\
+    \ <p>\n\n\u2022\_8pm: Networking</p> <p>\n\nLocation: <a href=\"http://www.klgates.com/washington-dc-united-states-of-america/\"\
+    >K&amp;L Gates</a>\_1601 K St. NW,\_Washington,\_DC</p>"
   event_url: http://www.meetup.com/gdg-dc/events/220331129/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
     id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
@@ -1135,13 +1136,13 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1426804200000
-  updated: 1423168426000
+  updated: 1423189115000
   utc_offset: -14400000
   venue: {address_1: 1601 K St. NW, city: Washington, country: us, id: 5563032, lat: 38.902934999999999,
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 35
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1309,7 +1310,7 @@ other:
     lon: -77.063766000000001, name: United States Patent and Trademark Office, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
