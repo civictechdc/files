@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 51
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -115,7 +115,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -154,7 +154,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 other:
 - created: 1422579352000
   description: "<p>We're a group of women who want to learn JavaScript together. The\
@@ -341,7 +341,7 @@ other:
     lat: 38.890926, lon: -77.086708000000002, name: Excella, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1421895090000
   description: "<p>Spark is becoming increasingly popular for big data processing\
     \ and analytics with significant speed increases over other platforms such as\
@@ -402,7 +402,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 91
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -428,16 +428,17 @@ other:
     \ he created his own version of the Metro\_web/mobile app.\_</p> <p>\u2022\_<a\
     \ href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\_of\_<a href=\"http://masslight.com/\"\
     >MassLight</a> will\_show an animated simulation of the metro bus system that\
-    \ he built using data from the Metro API.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\"\
-    >Michael Schade</a> will show animations of WMATA's most recent data release.</p>\
-    \ <p>\n\n\nTo build your own Metro visualizations, find WMATA's open data via\
-    \ PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\
-    \ tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\_\
-    Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael Schade</a>\_an email if you'd like to present.</p> <p>\n\n<a href=\"\
-    http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night\
-    \ I</a> was held on January 2, 2014. You can read about it on the Mobility Lab\
-    \ blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
+    \ he built using data from the Metro API.</p> <p><br/>\u2022\_Scott Norcross of\
+    \ <a href=\"http://metrominder.com/\">MetroMinder</a>\_will show us their performance\
+    \ heatMaps.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\">Michael Schade</a>\
+    \ will show animations of WMATA's most recent data release.</p> <p>\n\n\nTo build\
+    \ your own Metro visualizations, find WMATA's open data via PlanItMetro's\_<a\
+    \ href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or\
+    \ use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\_Send\_\
+    <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael\
+    \ Schade</a>\_an email if you'd like to present.</p> <p>\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
+    >Metro Hack Night I</a> was held on January 2, 2014. You can read about it on\
+    \ the Mobility Lab blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
     >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\nFollow\_<a href=\"\
     https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation Techies\"\
     \ updates.</p>"
@@ -454,7 +455,7 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1423782000000
-  updated: 1423154358000
+  updated: 1423247380000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
@@ -524,7 +525,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -662,7 +663,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
@@ -760,7 +761,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 187
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -862,7 +863,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -939,7 +940,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -961,7 +962,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1142,7 +1143,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 43
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1252,7 +1253,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1611,7 +1612,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1903,7 +1904,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
