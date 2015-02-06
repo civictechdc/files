@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1415830056000, 
@@ -190,7 +190,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1421263758000, 
@@ -265,7 +265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1421849941000, 
@@ -303,7 +303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1421895090000, 
@@ -343,7 +343,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1416852247000, 
@@ -632,7 +632,7 @@
             "name": "DC Designers in Tech Brunch!", 
             "status": "upcoming", 
             "time": 1424538000000, 
-            "updated": 1423102879000, 
+            "updated": 1423175173000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2009 R St NW", 
@@ -648,6 +648,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 27
+        }, 
+        {
+            "created": 1423106183000, 
+            "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>Do you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p>\n\n<b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p>Identifying property distress and abandonment with administrative data</p> <p><br/><i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p><i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p><br/>More Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p>\n\n<b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/220316099/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "220316099", 
+            "maybe_rsvp_count": 0, 
+            "name": "Machine Learning and Cities", 
+            "rsvp_limit": 450, 
+            "status": "upcoming", 
+            "time": 1424820600000, 
+            "updated": 1423165484000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1957 E Street", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23619989, 
+                "lat": 38.896275000000003, 
+                "lon": -77.044205000000005, 
+                "name": "GWU, Elliot School, Room 113", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1421849941000, 
@@ -725,7 +764,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1421849941000, 
@@ -803,7 +842,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1326383071000, 
@@ -987,6 +1026,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1423167734000, 
+            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/b/3/a/3/600_434025987.jpeg\" /></p> <p>\n\nFirebase is an API for building realtime applications. Using Firebase you can store and sync data between your users with a few lines of code. \u00a0Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. Come with your laptops. <b>Google Engineer David East will be live coding a cross platform application with Firebase, Angular2, and Android.</b></p> <p><br/><b>About\u00a0the presenter</b></p> <p>David East is an Engineer at Google working on Firebase. He's also a Core Contributor on the AngularJS team. He believes you should realtime all the things. You can find him on <a href=\"http://github.com/davideast\">Github</a> and <a href=\"https://twitter.com/_davideast\">Twitter</a>.</p> <p><b>Agenda</b></p> <p>\u2022\u00a06:30pm: Welcome and introductions</p> <p>\u2022\u00a07pm-8pm: Presentation</p> <p>\u2022\u00a08pm: Networking</p> <p>(<i>Location will be confirmed soon.</i>)</p>", 
+            "event_url": "http://www.meetup.com/gdg-dc/events/220331129/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Firebase, Google, Java, API, Mobile, Python", 
+            "id": "220331129", 
+            "maybe_rsvp_count": 0, 
+            "name": "Building Realtime Apps with Firebase, with David East", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1426804200000, 
+            "updated": 1423168426000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1601 K St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 5563032, 
+                "lat": 38.902934999999999, 
+                "lon": -77.037070999999997, 
+                "name": "K&L Gates", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1421849941000, 
