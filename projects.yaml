@@ -1,6 +1,6 @@
-- activity: [1, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 48, 104, 47,
-    11, 6, 12, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 14, 7, 29, 33, 18, 31, 39,
-    1, 0, 14, 17, 11, 21, 20, 30]
+- activity: [0, 0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 85, 70, 50, 5,
+    12, 6, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 23, 39, 16, 30, 36, 1,
+    0, 14, 17, 12, 30, 19, 26]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -19,11 +19,11 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 610,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 614,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 23,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 28,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1019782?v=3', contributions: 17,
     link: 'https://github.com/lankyfrenchman', name: lankyfrenchman}
@@ -71,20 +71,20 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 160878]
-  - [CSS, 12482]
+  - [Ruby, 163591]
+  - [CSS, 12762]
   - [Puppet, 5387]
   - [CoffeeScript, 1429]
   - [JavaScript, 767]
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 23
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-06T04:36:48Z'
+  pushed_at: '2015-02-07T06:46:26Z'
   size: 22035
-  updated_at: '2015-02-06T01:33:21Z'
+  updated_at: '2015-02-07T06:46:26Z'
   watchers: 16
 - activity: [3, 4, 11, 2, 11, 0, 1, 14, 0, 10, 5, 9, 0, 7, 1, 4, 0, 5, 0, 0, 6, 3,
     3, 4, 4, 2, 7, 3, 0, 1, 0, 0, 0, 3, 2, 0, 6, 2, 2, 5, 0, 1, 0, 4, 1, 0, 0, 0,

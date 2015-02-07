@@ -1,7 +1,7 @@
 [
     {
         "activity": [
-            1, 
+            0, 
             0, 
             0, 
             11, 
@@ -18,12 +18,12 @@
             12, 
             13, 
             7, 
-            48, 
-            104, 
-            47, 
-            11, 
-            6, 
+            85, 
+            70, 
+            50, 
+            5, 
             12, 
+            6, 
             5, 
             0, 
             0, 
@@ -38,21 +38,21 @@
             7, 
             1, 
             2, 
-            14, 
-            7, 
-            29, 
-            33, 
-            18, 
-            31, 
+            16, 
+            11, 
+            23, 
             39, 
+            16, 
+            30, 
+            36, 
             1, 
             0, 
             14, 
             17, 
-            11, 
-            21, 
-            20, 
-            30
+            12, 
+            30, 
+            19, 
+            26
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -91,7 +91,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 610, 
+                "contributions": 614, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -103,7 +103,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 23, 
+                "contributions": 28, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }, 
@@ -222,11 +222,11 @@
         "languages": [
             [
                 "Ruby", 
-                160878
+                163591
             ], 
             [
                 "CSS", 
-                12482
+                12762
             ], 
             [
                 "Puppet", 
@@ -247,16 +247,16 @@
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 23, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-06T04:36:48Z", 
+        "pushed_at": "2015-02-07T06:46:26Z", 
         "size": 22035, 
-        "updated_at": "2015-02-06T01:33:21Z", 
+        "updated_at": "2015-02-07T06:46:26Z", 
         "watchers": 16
     }, 
     {
