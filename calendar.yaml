@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 53
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -214,7 +214,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -248,7 +248,7 @@ other:
       Institute, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1418679019000
   description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
     >Eventbrite.\_</a></p> <p>(While you are encouraged to RSVP here, official registration\
@@ -402,46 +402,50 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 94
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
     Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\_\
-    </p> <p>\u2022\_<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will\
+    </p> <p>\n\n\u2022\_<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will\
     \ show how <a href=\"https://www.twilio.com/\">Twilio</a> can be used to do awesome\
-    \ stuff with transit APIs.</p> <p>\u2022\_<a href=\"https://twitter.com/PlanItMichael\"\
+    \ stuff with transit APIs.</p> <p>\n\n\u2022\_<a href=\"https://twitter.com/PlanItMichael\"\
     >Michael Eichler</a>\_will share visualizations he made for the\_<a href=\"http://planitmetro.com/\"\
     >PlanItMetro blog</a>\_and talk about the\_<a href=\"http://mpp.wmata.com/\">Metro\
-    \ Payment Pilot</a>.</p> <p>\u2022\_<a href=\"https://twitter.com/jdantos\">Justin\
-    \ Antos</a> will share some of his own visualizations he has made for the\_<a\
-    \ href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\_</p> <p>\u2022\_<a href=\"\
-    https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"\
-    http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
-    >interactive Metro map</a> of station\_architectures.\_</p> <p>\u2022 <a href=\"\
+    \ Payment Pilot</a>.</p> <p>\n\n\u2022\_<a href=\"https://twitter.com/jdantos\"\
+    >Justin Antos</a> will share some of his own visualizations he has made for the\_\
+    <a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\_</p> <p>\n\n\u2022\_\
+    <a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us\
+    \ his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\"\
+    >interactive Metro map</a> of station\_architectures.\_</p> <p>\n\n\u2022 <a href=\"\
     https://twitter.com/rausnitz\">Zach Rausnitz</a> will talk about his\_<a href=\"\
     http://www.washingtoncitypaper.com/blogs/citydesk/2015/02/04/train-in-vain/\"\
-    >Train in Vain</a> data-tracking project for Washington City Paper.</p> <p><br/>\u2022\
-    \_<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\_and <a href=\"\
-    https://twitter.com/maggiecriqui\">Maggie Criqui</a>\_will demo a Python hack\
-    \ that tells them when to leave the house to take Metro to a Nats game.\_</p>\
-    \ <p>\u2022\_<a href=\"http://www.stee.vn/\">Steven Fleming</a>\_will show how\
-    \ he created his own version of the Metro\_web/mobile app.\_</p> <p>\u2022\_<a\
-    \ href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\_of\_<a href=\"http://masslight.com/\"\
+    >Train in Vain</a> data-tracking project for Washington City Paper.</p> <p>\n\n\
+    \n\u2022\_<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\_and <a\
+    \ href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\_will demo a Python\
+    \ hack that tells them when to leave the house to take Metro to a Nats game.\_\
+    </p> <p>\n\n\u2022\_<a href=\"http://www.stee.vn/\">Steven Fleming</a>\_will show\
+    \ how he created his own version of the Metro\_web/mobile app.\_</p> <p>\u2022\
+    \_<a href=\"http://www.researchgate.net/profile/Michael_Lloyd\">Michael Lloyd</a>\
+    \ will show how he used R to graph <a href=\"http://www.reddit.com/r/washingtondc/comments/2u9ez9/station_by_station_total_number_of_entrance_black/\"\
+    >all stations' total entrances and exits</a> for one month.</p> <p>\n\n\n\u2022\
+    \_<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\_of\_<a href=\"http://masslight.com/\"\
     >MassLight</a> will\_show an animated simulation of the metro bus system that\
     \ he built using data from the Metro API.</p> <p><br/>\u2022\_Scott Norcross of\
     \ <a href=\"http://metrominder.com/\">MetroMinder</a>\_will show us their performance\
-    \ heatMaps.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\">Michael Schade</a>\
-    \ will show animations of WMATA's most recent data release.</p> <p>\n\n\nTo build\
-    \ your own Metro visualizations, find WMATA's open data via PlanItMetro's\_<a\
-    \ href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or\
+    \ heatMaps.</p> <p>\n\n\n\u2022\_<a href=\"http://mvjantzen.com/\">Michael Schade</a>\
+    \ will show animations of WMATA's most recent data release.</p> <p>\n\n\n\n\n\n\
+    \nTo build your own Metro visualizations, find WMATA's open data via PlanItMetro's\_\
+    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or\
     \ use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\_Send\_\
     <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael\
-    \ Schade</a>\_an email if you'd like to present.</p> <p>\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
-    >Metro Hack Night I</a> was held on January 2, 2014. You can read about it on\
-    \ the Mobility Lab blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
-    >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\nFollow\_<a href=\"\
-    https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation Techies\"\
-    \ updates.</p>"
+    \ Schade</a>\_an email if you'd like to present.</p> <p>\n\n\n\n\n\n<a href=\"\
+    http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night\
+    \ I</a> was held on January 2, 2014. You can read about it on the Mobility Lab\
+    \ blog,\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
+    >Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\n\n\n\n\nFollow\_\
+    <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation\
+    \ Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/218874680/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -455,14 +459,14 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1423782000000
-  updated: 1423247380000
+  updated: 1423253535000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 17
-  yes_rsvp_count: 81
+  waitlist_count: 18
+  yes_rsvp_count: 84
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -624,7 +628,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -761,7 +765,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 187
+  yes_rsvp_count: 201
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -863,7 +867,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 81
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -940,7 +944,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1143,7 +1147,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
