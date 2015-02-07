@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -341,7 +341,7 @@ other:
     lat: 38.890926, lon: -77.086708000000002, name: Excella, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1421895090000
   description: "<p>Spark is becoming increasingly popular for big data processing\
     \ and analytics with significant speed increases over other platforms such as\
@@ -465,7 +465,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 19
+  waitlist_count: 22
   yes_rsvp_count: 84
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -501,7 +501,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -765,7 +765,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 208
+  yes_rsvp_count: 214
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -867,7 +867,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 83
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -912,6 +912,60 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1423328667000
+  description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
+    \ Safety and Health to talk about data.</p> <p><br/>6:00 - 6:45pm Networking</p>\
+    \ <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>\n\n\n<b>Dr.\
+    \ David Michaels - Assistant Secretary of Labor for\_Occupational Safety and Health</b></p>\
+    \ <p>Appointed by President Barack Obama and unanimously confirmed by the United\
+    \ States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary\
+    \ of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the\
+    \ longest serving Assistant Secretary in OSHA's history, he has worked to strengthen\
+    \ the agency's enforcement in high hazard industries, promote common sense worker\
+    \ protection programs and standards, expand compliance assistance provided to\
+    \ small employers, improve OSHA's whistleblower protection program, and increase\
+    \ outreach to the vulnerable populations who are at greatest risk for work-related\
+    \ injury and illness. He has also increased OSHA's focus and capabilities in the\
+    \ areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist,\
+    \ currently on leave from his position as Professor of Environmental and Occupational\
+    \ Health at the George Washington University School of Public Health. He is the\
+    \ author of studies examining the health of construction workers, printers, bus\
+    \ drivers and other occupations, as well as of numerous publications on science\
+    \ and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant\
+    \ Secretary of Energy for Environment, Safety and Health. In that position, he\
+    \ was the chief architect of the Energy Employees Occupational Illness Compensation\
+    \ Program, the historic initiative to compensate nuclear weapons workers who contracted\
+    \ occupational illnesses as a result of exposure to radiation, beryllium and other\
+    \ hazards. The program has provided more than $10 billion in compensation to sick\
+    \ workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was\
+    \ awarded the American Association for the Advancement of Science's Scientific\
+    \ Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science\
+    \ and Society Award given by Sigma Xi, the Scientific Research Society, for his\
+    \ work in scientific integrity and for gaining compensation for nuclear weapons\
+    \ workers.</p> <p>He is a graduate of the City College of New York, and holds\
+    \ an MPH (Master of Public Health) and PhD from Columbia University.</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Business-DC/events/220371581/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  how_to_find_us: 1299 Pennsylvania is strangely not directly on Pennsylvania Ave
+    but on E street between 12th and 13th.
+  id: '220371581'
+  maybe_rsvp_count: 0
+  name: Working with Department of Labor Data
+  rsvp_limit: 150
+  status: upcoming
+  time: 1425510000000
+  updated: 1423328667000
+  utc_offset: -18000000
+  venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
+    id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
+      LLP, repinned: false, state: DC, zip: '20004'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 30
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -944,7 +998,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -966,7 +1020,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1147,7 +1201,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1173,7 +1227,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytfbhc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220370018/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1811,7 +1865,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlythbkc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220370021/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
