@@ -190,7 +190,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1421263758000, 
@@ -303,7 +303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1421895090000, 
@@ -343,11 +343,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1416852247000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\n\n\u2022\u00a0<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will show how <a href=\"https://www.twilio.com/\">Twilio</a> can be used to do awesome stuff with transit APIs.</p> <p>\n\n\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\n\n\u2022\u00a0<a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizations he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\u00a0</p> <p>\n\n\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.\u00a0</p> <p>\n\n\u2022 <a href=\"https://twitter.com/rausnitz\">Zach Rausnitz</a> will talk about his\u00a0<a href=\"http://www.washingtoncitypaper.com/blogs/citydesk/2015/02/04/train-in-vain/\">Train in Vain</a> data-tracking project for Washington City Paper.</p> <p>\n\n\n\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.\u00a0</p> <p>\n\n\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.researchgate.net/profile/Michael_Lloyd\">Michael Lloyd</a> will show how he used R to graph <a href=\"http://www.reddit.com/r/washingtondc/comments/2u9ez9/station_by_station_total_number_of_entrance_black/\">all stations' total entrances and exits</a> for one month.</p> <p>\n\n\n\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p>\n\n\n\u2022\u00a0Scott Norcross of <a href=\"http://metrominder.com/\">MetroMinder</a>\u00a0will show us their performance heatMaps.</p> <p>\n\n\n\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show animations of WMATA's most recent data release.</p> <p>\n\n\n\n\n\n\nTo build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p>\n\n\n\n\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\n\n\n\n\nFollow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will show how <a href=\"https://www.twilio.com/\">Twilio</a> can be used to do awesome stuff with transit APIs.</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizations he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.\u00a0</p> <p>\n\n\n\n\n\n\u2022 <a href=\"https://twitter.com/rausnitz\">Zach Rausnitz</a> will talk about his\u00a0<a href=\"http://www.washingtoncitypaper.com/blogs/citydesk/2015/02/04/train-in-vain/\">Train in Vain</a> data-tracking project for Washington City Paper.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.\u00a0</p> <p>\n\n\u2022\u00a0<a href=\"http://www.researchgate.net/profile/Michael_Lloyd\">Michael Lloyd</a> will show how he used R to graph <a href=\"http://www.reddit.com/r/washingtondc/comments/2u9ez9/station_by_station_total_number_of_entrance_black/\">all stations' total entrances and exits</a> for one month.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p>\n\n\n\u2022\u00a0Scott Norcross of <a href=\"http://metrominder.com/\">MetroMinder</a>\u00a0will show us their performance heatMaps.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show animations of WMATA's most recent data release.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nFollow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -364,10 +364,10 @@
             "id": "218874680", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night II: Silver Line Edition", 
-            "rsvp_limit": 85, 
+            "rsvp_limit": 90, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1423342270000, 
+            "updated": 1423463128000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -382,8 +382,8 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 22, 
-            "yes_rsvp_count": 85
+            "waitlist_count": 18, 
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1417124897000, 
@@ -421,7 +421,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1422562017000, 
@@ -686,7 +686,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 229
+            "yes_rsvp_count": 231
         }, 
         {
             "created": 1421849941000, 
@@ -844,7 +844,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1417881835000, 
