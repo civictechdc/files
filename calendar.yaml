@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -200,21 +200,19 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  how_to_find_us: iStrategyLabs has a new office! WonderBread Factory, 641 S St NW  FL
-    1, Washington, DC 20001
   id: '220176377'
   maybe_rsvp_count: 0
-  name: Front End Hack NIght
+  name: Front End Hack Night
   status: upcoming
   time: 1423524600000
-  updated: 1423103303000
+  updated: 1423521503000
   utc_offset: -18000000
   venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
     lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 31
 - created: 1421263758000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -248,22 +246,22 @@ other:
       Institute, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1418679019000
   description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
-    >Eventbrite.\_</a></p> <p>(While you are encouraged to RSVP here, official registration\
-    \ is through Eventbrite)</p> <p><b>OVERVIEW</b></p> <p>\n\n\nA discussion of the\
-    \ changing roles in web, design and marketing.\_</p> <p>\n\nTraditional roles\
-    \ in marketing and design are now heavily impacted by trends in digital including\
-    \ web, mobile and social. On the other side, web managers are increasingly working\
-    \ with marketing and design as that role extends beyond just running websites.</p>\
-    \ <p>\n\nAnd specialist roles such as information architect, user experience designer,\
-    \ digital marketer and social media manager are changing the nature of more established\
-    \ roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how\
-    \ to manage diverse teams, how to work effectively as roles evolve and how to\
-    \ plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p>\
-    \ <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\
-    \n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\"\
+    >Eventbrite.\_</a></p> <p>\n\n(While you are encouraged to RSVP here, official\
+    \ registration is through Eventbrite)</p> <p>\n\n<b>OVERVIEW</b></p> <p>\n\n\n\
+    A discussion of the changing roles in web, design and marketing.\_</p> <p>\n\n\
+    Traditional roles in marketing and design are now heavily impacted by trends in\
+    \ digital including web, mobile and social. On the other side, web managers are\
+    \ increasingly working with marketing and design as that role extends beyond just\
+    \ running websites.</p> <p>\n\nAnd specialist roles such as information architect,\
+    \ user experience designer, digital marketer and social media manager are changing\
+    \ the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to\
+    \ discuss these evolving roles, how to manage diverse teams, how to work effectively\
+    \ as roles evolve and how to plan for upcoming trends that may impact your current\
+    \ role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project\
+    \ Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\"\
     \ /></p> <p>\n\nEmily\_is passionate about web technology and believes in its\
     \ power to enhance user experience, administrative prowess, and overall organizational\
     \ efficiency. She\_managed a variety of large-scale software implementations and\
@@ -273,7 +271,15 @@ other:
     \ launches of several association websites including the Society of Actuaries,\
     \ United Service Organization, American College of Rheumatology, and the American\
     \ Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC\
-    \ based events and conferences.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img\
+    \ based events and conferences.</p> <p><br/><b>Stephanie Ranno</b><br/>Strategic\
+    \ Account Manager, Profiles Consulting</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/5/5/a/0/600_434181920.jpeg\"\
+    \ /></p> <p>In her role as Strategic Account Manager, Stephanie is responsible\
+    \ for working closely with Profiles Executive Leadership and Business Development\
+    \ team members across all Regional offices, to expand existing work within key\
+    \ accounts and develop new relationships with strategic, national clients.\_She\
+    \ is responsible for providing current and future clients with a variety of talent\
+    \ acquisition and talent management solutions, including: consulting, staffing,\
+    \ project, and search services.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img\
     \ src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\"\
     \ /></p> <p>\n\nSyscom Services is a\_full service web agency and CMS\_implementation\
     \ practice for associations, charities and non-profits worldwide.\_ With over\
@@ -290,7 +296,7 @@ other:
   name: Changing Roles in Web, Design and Marketing
   status: upcoming
   time: 1423611000000
-  updated: 1422981867000
+  updated: 1423511491000
   utc_offset: -18000000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
@@ -402,7 +408,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 105
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -465,7 +471,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 21
   yes_rsvp_count: 90
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -529,7 +535,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -604,7 +610,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 38
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -667,7 +673,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1421082688000
   description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
     from DCFemTech! This is similar to the Professional Dev Brunches for women in
@@ -765,7 +771,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 237
+  yes_rsvp_count: 246
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -867,7 +873,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 85
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -911,7 +917,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p><br/>6:00 - 6:45pm Networking</p>\
@@ -965,7 +971,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 81
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -998,7 +1004,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 57
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1020,7 +1026,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\

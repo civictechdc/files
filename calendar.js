@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1415830056000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1415830083000, 
@@ -169,13 +169,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "iStrategyLabs has a new office! WonderBread Factory, 641 S St NW  FL 1, Washington, DC 20001", 
             "id": "220176377", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Hack NIght", 
+            "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1423524600000, 
-            "updated": 1423103303000, 
+            "updated": 1423521503000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1015 7th Street NW.", 
@@ -190,7 +189,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1421263758000, 
@@ -228,11 +227,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1418679019000, 
-            "description": "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\">Eventbrite.\u00a0</a></p> <p>(While you are encouraged to RSVP here, official registration is through Eventbrite)</p> <p><b>OVERVIEW</b></p> <p>\n\n\nA discussion of the changing roles in web, design and marketing.\u00a0</p> <p>\n\nTraditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>\n\nAnd specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>\n\nEmily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>\n\nSyscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
+            "description": "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\">Eventbrite.\u00a0</a></p> <p>\n\n(While you are encouraged to RSVP here, official registration is through Eventbrite)</p> <p>\n\n<b>OVERVIEW</b></p> <p>\n\n\nA discussion of the changing roles in web, design and marketing.\u00a0</p> <p>\n\nTraditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>\n\nAnd specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>\n\nEmily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>Stephanie Ranno</b><br/>Strategic Account Manager, Profiles Consulting</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/5/5/a/0/600_434181920.jpeg\" /></p> <p>In her role as Strategic Account Manager, Stephanie is responsible for working closely with Profiles Executive Leadership and Business Development team members across all Regional offices, to expand existing work within key accounts and develop new relationships with strategic, national clients.\u00a0She is responsible for providing current and future clients with a variety of talent acquisition and talent management solutions, including: consulting, staffing, project, and search services.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>\n\nSyscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219263686/", 
             "group": {
                 "created": 1189804715000, 
@@ -250,7 +249,7 @@ calendar({
             "name": "Changing Roles in Web, Design and Marketing", 
             "status": "upcoming", 
             "time": 1423611000000, 
-            "updated": 1422981867000, 
+            "updated": 1423511491000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -343,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1416852247000, 
@@ -382,7 +381,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -458,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1421849941000, 
@@ -544,7 +543,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1379643162000, 
@@ -609,7 +608,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1421082688000, 
@@ -686,7 +685,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 237
+            "yes_rsvp_count": 246
         }, 
         {
             "created": 1421849941000, 
@@ -764,7 +763,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1421849941000, 
@@ -803,7 +802,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1423328667000, 
@@ -844,7 +843,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1417881835000, 
@@ -883,7 +882,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1326383071000, 
@@ -923,7 +922,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1421849941000, 
