@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 71
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -189,7 +189,7 @@ other:
       Institute, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 58
 - created: 1418679019000
   description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
     >Eventbrite.\_</a></p> <p>\n\n(While you are encouraged to RSVP here, official\
@@ -246,7 +246,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 121
+  yes_rsvp_count: 126
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -290,7 +290,7 @@ other:
     lat: 38.890926, lon: -77.086708000000002, name: Excella, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 25
 - created: 1421895090000
   description: "<p>Spark is becoming increasingly popular for big data processing\
     \ and analytics with significant speed increases over other platforms such as\
@@ -351,7 +351,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -414,7 +414,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 13
   yes_rsvp_count: 90
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -478,7 +478,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -535,14 +535,15 @@ other:
     \ speaker but the talking points are:<br/>- Planning a cross-platform communications/marketing\
     \ campaign<br/>- Carrying a brand across properties<br/>- Visual identity cues<br/>-\
     \ Customer/member participation &amp; advocacy</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media\
-    \ Group</p> <p>\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\"\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media Group</p> <p>\n\
+    \n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\"\
     \ /></p> <p>\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content\
     \ consultancy located in the Washington, D.C. metropolitan area. She is a well-known\
     \ content expert and thought leader and the author of\_<i>The Digital Crown: Winning\
-    \ at Content on the Web</i>\_.</p> <p>\n\n\n<b>Agenda</b></p> <p>\n\n6:30 pm -\
-    \ Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm -\
-    \ More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p>\
+    \ at Content on the Web</i>\_.</p> <p>\n\n\n\n\n\n\n<b>Agenda</b></p> <p>\n\n\n\
+    \n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15\
+    \ pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p>\
     \ <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\"\
     \ /></p> <p>\n\n\n\n\n\nWhat\u2019s next?\_Chapman Cubine Adams + Hussey (CCAH)\
     \ has been seeking an answer to this question for more than 25 years. We\u2019\
@@ -556,17 +557,17 @@ other:
   headcount: 0
   id: '219264031'
   maybe_rsvp_count: 0
-  name: Marketing and Communications across Web, Mobile & Social
+  name: Integrated Marketing & Communications - Online, Social & Mobile
   status: upcoming
   time: 1424304000000
-  updated: 1423546244000
+  updated: 1423581163000
   utc_offset: -18000000
   venue: {address_1: 810 7th St. NW, city: Washington, country: us, id: 928346, lat: 38.900500000000001,
     lon: -77.022435000000002, name: RFD Washington, phone: ' 202.289.2030', repinned: false,
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -631,33 +632,42 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 20
 - created: 1421082688000
-  description: <p>We are hosting a Designers in Tech Brunch with the lovely ladies
-    from DCFemTech! This is similar to the Professional Dev Brunches for women in
-    the DC area -- except with those of us that have an eye for making things beautiful.</p>
-    <p>If you are involved in any sort of Designing/UX/UI/Product in Tech (or want
-    to transition to design) and want to meet others that do similar work, this should
-    be a really fun event! Let's meet at Teaism in Dupont Circle. There will be a
-    sign that says 'Designers Brunch' or something to that effect.</p> <p>Bring $;
-    you'll be responsible for your own tab. (I believe the restaurant will have you
-    pay up front when you order.)</p>
+  description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
+    <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
+    and the brunch will start at NOON on Sunday 2/22.</b></p> <p>We are hosting a
+    Designers in Tech Brunch with the lovely ladies from DCFemTech! This is similar
+    to the Professional Dev Brunches for women in the DC area -- except with those
+    of us that have an eye for making things beautiful.</p> <p>
+
+
+    If you are involved in any sort of Designing/UX/UI/Product in Tech (or want to
+    transition to design) and want to meet others that do similar work, this should
+    be a really fun event! There will be a sign that says ''Designers Brunch'' or
+    something to that effect.</p> <p>
+
+
+    Bring $; you''ll be responsible for your own tab. (I believe the restaurant will
+    have you pay up front when you order.)</p>'
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/219782204/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: We'll be downstairs, and there will be a sign.
   id: '219782204'
   maybe_rsvp_count: 0
-  name: DC Designers in Tech Brunch!
+  name: DC Designers in Tech Brunch! *Note Date & Location Change*
+  rsvp_limit: 30
   status: upcoming
-  time: 1424538000000
-  updated: 1423175173000
+  time: 1424624400000
+  updated: 1423586650000
   utc_offset: -18000000
-  venue: {address_1: 2009 R St NW, city: Washington, country: us, id: 18121842, lat: 38.912666000000002,
-    lon: -77.045524999999998, name: Teaism, repinned: false, state: DC}
+  venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
+    id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 26
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -727,7 +737,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 252
+  yes_rsvp_count: 256
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -829,7 +839,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -927,7 +937,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 87
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -1163,7 +1173,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\

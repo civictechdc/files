@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1415830056000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1418679019000, 
@@ -227,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1421849941000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1421895090000, 
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1416852247000, 
@@ -344,7 +344,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 22, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -420,7 +420,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1421849941000, 
@@ -463,7 +463,7 @@ calendar({
         }, 
         {
             "created": 1418680238000, 
-            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\nAhava Leibtag of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\nWe are waiting to confirm our second speaker but the talking points are:<br/>- Planning a cross-platform communications/marketing campaign<br/>- Carrying a brand across properties<br/>- Visual identity cues<br/>- Customer/member participation &amp; advocacy</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media Group</p> <p>\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p>\n\n\n<b>Agenda</b></p> <p>\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
+            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\nAhava Leibtag of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\nWe are waiting to confirm our second speaker but the talking points are:<br/>- Planning a cross-platform communications/marketing campaign<br/>- Carrying a brand across properties<br/>- Visual identity cues<br/>- Customer/member participation &amp; advocacy</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media Group</p> <p>\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p>\n\n\n\n\n\n\n<b>Agenda</b></p> <p>\n\n\n\n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
             "group": {
                 "created": 1189804715000, 
@@ -478,10 +478,10 @@ calendar({
             "headcount": 0, 
             "id": "219264031", 
             "maybe_rsvp_count": 0, 
-            "name": "Marketing and Communications across Web, Mobile & Social", 
+            "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1423546244000, 
+            "updated": 1423581163000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 
@@ -498,7 +498,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1379643162000, 
@@ -567,7 +567,7 @@ calendar({
         }, 
         {
             "created": 1421082688000, 
-            "description": "<p>We are hosting a Designers in Tech Brunch with the lovely ladies from DCFemTech! This is similar to the Professional Dev Brunches for women in the DC area -- except with those of us that have an eye for making things beautiful.</p> <p>If you are involved in any sort of Designing/UX/UI/Product in Tech (or want to transition to design) and want to meet others that do similar work, this should be a really fun event! Let's meet at Teaism in Dupont Circle. There will be a sign that says 'Designers Brunch' or something to that effect.</p> <p>Bring $; you'll be responsible for your own tab. (I believe the restaurant will have you pay up front when you order.)</p>", 
+            "description": "<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p> <p><b>Due to space restraints, we will be moving to Teaism's Penn Quarter location, and the brunch will start at NOON on Sunday 2/22.</b></p> <p>We are hosting a Designers in Tech Brunch with the lovely ladies from DCFemTech! This is similar to the Professional Dev Brunches for women in the DC area -- except with those of us that have an eye for making things beautiful.</p> <p>\n\nIf you are involved in any sort of Designing/UX/UI/Product in Tech (or want to transition to design) and want to meet others that do similar work, this should be a really fun event! There will be a sign that says 'Designers Brunch' or something to that effect.</p> <p>\n\nBring $; you'll be responsible for your own tab. (I believe the restaurant will have you pay up front when you order.)</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219782204/", 
             "group": {
@@ -581,27 +581,29 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "We'll be downstairs, and there will be a sign.", 
             "id": "219782204", 
             "maybe_rsvp_count": 0, 
-            "name": "DC Designers in Tech Brunch!", 
+            "name": "DC Designers in Tech Brunch! *Note Date & Location Change*", 
+            "rsvp_limit": 30, 
             "status": "upcoming", 
-            "time": 1424538000000, 
-            "updated": 1423175173000, 
+            "time": 1424624400000, 
+            "updated": 1423586650000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "2009 R St NW", 
+                "address_1": "400 8th St NW, Washington, DC 20004", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 18121842, 
-                "lat": 38.912666000000002, 
-                "lon": -77.045524999999998, 
-                "name": "Teaism", 
+                "id": 23631792, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Teaism Penn Quarter", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1423106183000, 
@@ -640,7 +642,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 252
+            "yes_rsvp_count": 256
         }, 
         {
             "created": 1421849941000, 
@@ -718,7 +720,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1421849941000, 
@@ -798,7 +800,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1417881835000, 
@@ -1060,7 +1062,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1421849941000, 
