@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1415830056000, 
@@ -155,43 +155,6 @@
     ], 
     "other": [
         {
-            "created": 1422579352000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n<a href=\"http://nupurkapoor.github.io/js-study-group/#/\"><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></a></p> <p>\n\n<b>Contact policy at buildings that need access</b></p> <p>\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>\n\n<b>Want to be a JavaScript Study Group leader? </b></p> <p>\n\nIf you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>\n\nCoursera\u00a0<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\"><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></a></p> <p>\n\nJavaScript is Sexy\u00a0<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\"><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></a></p> <p>\n\nCodecademy\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></a></p> <p>\n\nBentobox for references\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></a></p> <p>\n\nJavaScript Official Guide\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></a></p> <p>\n\nJSFidlle- create/edit/test/share HTML CSS JS code\u00a0<br/><a href=\"http://codecademy.com/\"><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></a></p> <p>\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p> <p>\n\n\nNOTE: There will be no Front End Hack Night next Mon, Feb 16 due to Presidents Day!</p> <p>\n\n\n\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220176377/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "220176377", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1423524600000, 
-            "updated": 1423521503000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 31
-        }, 
-        {
             "created": 1421263758000, 
             "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>\n\nA legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>\n\nOur two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>\n\nJoin us on Tuesday, February 10, 2015 to legal hack copyright and bring back CopyNight to DC! (This has been rescheduled from January 26!)</p> <p>\n\nWe\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over pizza and beer.</p> <p>\n\nThanks so much to R Street for hosting us!</p> <p>\n\nQuestions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
             "duration": 7200000, 
@@ -264,7 +227,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1421849941000, 
@@ -302,7 +265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1421895090000, 
@@ -342,7 +305,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1416852247000, 
@@ -381,7 +344,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -420,7 +383,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1422562017000, 
@@ -500,16 +463,8 @@
         }, 
         {
             "created": 1418680238000, 
-            "description": "<p>This event is still draft. Expect an update in early February.</p> <p>Learn about managing marketing and communications across multiple platforms including web, mobile and social.</p> <p>\n\n\n<b>Speakers</b></p> <p>\n\nAhava Leibtag, Aha Media Group</p>", 
+            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\nAhava Leibtag of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\nWe are waiting to confirm our second speaker but the talking points are:<br/>- Planning a cross-platform communications/marketing campaign<br/>- Carrying a brand across properties<br/>- Visual identity cues<br/>- Customer/member participation &amp; advocacy</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media Group</p> <p>\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p>\n\n\n<b>Agenda</b></p> <p>\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
-            "fee": {
-                "accepts": "paypal", 
-                "amount": 10, 
-                "currency": "USD", 
-                "description": "($20 after 1/31)", 
-                "label": "Earlybird", 
-                "required": "0"
-            }, 
             "group": {
                 "created": 1189804715000, 
                 "group_lat": 38.919998168945312, 
@@ -526,7 +481,7 @@
             "name": "Marketing and Communications across Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1422635739000, 
+            "updated": 1423546244000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 
@@ -543,7 +498,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1379643162000, 
@@ -685,7 +640,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 246
+            "yes_rsvp_count": 252
         }, 
         {
             "created": 1421849941000, 
@@ -763,7 +718,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1421849941000, 
@@ -843,7 +798,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1417881835000, 
@@ -1299,7 +1254,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1421849941000, 
@@ -2016,6 +1971,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbwb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytjbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1434578400000, 
+            "updated": 1423103681000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1379643162000, 
