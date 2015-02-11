@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1415830056000, 
@@ -155,43 +155,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1418679019000, 
-            "description": "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\">Eventbrite.\u00a0</a></p> <p>\n\n(While you are encouraged to RSVP here, official registration is through Eventbrite)</p> <p>\n\n<b>OVERVIEW</b></p> <p>\n\n\nA discussion of the changing roles in web, design and marketing.\u00a0</p> <p>\n\nTraditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>\n\nAnd specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>\n\nEmily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>Stephanie Ranno</b><br/>Strategic Account Manager, Profiles Consulting</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/5/5/a/0/600_434181920.jpeg\" /></p> <p>In her role as Strategic Account Manager, Stephanie is responsible for working closely with Profiles Executive Leadership and Business Development team members across all Regional offices, to expand existing work within key accounts and develop new relationships with strategic, national clients.\u00a0She is responsible for providing current and future clients with a variety of talent acquisition and talent management solutions, including: consulting, staffing, project, and search services.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>\n\nSyscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/219263686/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "219263686", 
-            "maybe_rsvp_count": 0, 
-            "name": "Changing Roles in Web, Design and Marketing", 
-            "status": "upcoming", 
-            "time": 1423611000000, 
-            "updated": 1423511491000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 126
-        }, 
-        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n\n<b>Contact policy at buildings that need access</b></p> <p>\n\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>\n\n<b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>\n\nIf you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>\n\n<a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\n\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219982189/", 
@@ -267,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1416852247000, 
@@ -306,7 +269,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -345,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1422562017000, 
@@ -382,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1421849941000, 
@@ -421,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1418680238000, 
@@ -460,7 +423,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1379643162000, 
@@ -487,7 +450,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422933426000, 
@@ -604,7 +567,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 266
+            "yes_rsvp_count": 267
         }, 
         {
             "created": 1421849941000, 
@@ -682,7 +645,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1421849941000, 
@@ -883,6 +846,46 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1423625127000, 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets.\u00a0</p> <p>Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us the new app they are developing.</p> <p><br/>\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p>\n\n\nDo you have a project you're like to share? \u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. And many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>\n\nVisit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/220449315/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "220449315", 
+            "maybe_rsvp_count": 0, 
+            "name": "Bike Hack Night III", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1426113000000, 
+            "updated": 1423627177000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "999 9th St, NW ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 854481, 
+                "lat": 38.901676000000002, 
+                "lon": -77.023495999999994, 
+                "name": "Renaissance Hotel", 
+                "phone": "+1 202 898 9000", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1422815256000, 
             "description": "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231708/", 
@@ -984,7 +987,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1423167734000, 

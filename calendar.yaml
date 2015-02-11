@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 71
 - created: 1415830056000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -156,63 +156,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 8
 other:
-- created: 1418679019000
-  description: "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\"\
-    >Eventbrite.\_</a></p> <p>\n\n(While you are encouraged to RSVP here, official\
-    \ registration is through Eventbrite)</p> <p>\n\n<b>OVERVIEW</b></p> <p>\n\n\n\
-    A discussion of the changing roles in web, design and marketing.\_</p> <p>\n\n\
-    Traditional roles in marketing and design are now heavily impacted by trends in\
-    \ digital including web, mobile and social. On the other side, web managers are\
-    \ increasingly working with marketing and design as that role extends beyond just\
-    \ running websites.</p> <p>\n\nAnd specialist roles such as information architect,\
-    \ user experience designer, digital marketer and social media manager are changing\
-    \ the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to\
-    \ discuss these evolving roles, how to manage diverse teams, how to work effectively\
-    \ as roles evolve and how to plan for upcoming trends that may impact your current\
-    \ role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project\
-    \ Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\"\
-    \ /></p> <p>\n\nEmily\_is passionate about web technology and believes in its\
-    \ power to enhance user experience, administrative prowess, and overall organizational\
-    \ efficiency. She\_managed a variety of large-scale software implementations and\
-    \ upgrades - including CMS, LMS, and CRM - in a variety of roles, including\_\
-    business analyst, project manager, and trainer.\_In her experience at Syscom Services,\
-    \ Emily has been the lead project manager and business analyst in the successful\
-    \ launches of several association websites including the Society of Actuaries,\
-    \ United Service Organization, American College of Rheumatology, and the American\
-    \ Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC\
-    \ based events and conferences.</p> <p><br/><b>Stephanie Ranno</b><br/>Strategic\
-    \ Account Manager, Profiles Consulting</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/5/5/a/0/600_434181920.jpeg\"\
-    \ /></p> <p>In her role as Strategic Account Manager, Stephanie is responsible\
-    \ for working closely with Profiles Executive Leadership and Business Development\
-    \ team members across all Regional offices, to expand existing work within key\
-    \ accounts and develop new relationships with strategic, national clients.\_She\
-    \ is responsible for providing current and future clients with a variety of talent\
-    \ acquisition and talent management solutions, including: consulting, staffing,\
-    \ project, and search services.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img\
-    \ src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\"\
-    \ /></p> <p>\n\nSyscom Services is a\_full service web agency and CMS\_implementation\
-    \ practice for associations, charities and non-profits worldwide.\_ With over\
-    \ 300 implementations and integrations done for\_the major industry backend software\
-    \ platforms, Syscom Services experience designing and building robust web sites\
-    \ within these industries\_is unparalleled.</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/219263686/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '219263686'
-  maybe_rsvp_count: 0
-  name: Changing Roles in Web, Design and Marketing
-  status: upcoming
-  time: 1423611000000
-  updated: 1423511491000
-  utc_offset: -18000000
-  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
-    lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 126
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -317,7 +260,7 @@ other:
       - Ivory Building, repinned: false, state: MD, zip: '21230'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 103
 - created: 1416852247000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations.\_Our focus will be on the impact of the new Silver Line.\_\
@@ -380,7 +323,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 13
+  waitlist_count: 14
   yes_rsvp_count: 90
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -416,7 +359,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -444,7 +387,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -488,7 +431,7 @@ other:
     repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1418680238000
   description: "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\"\
     >Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about\
@@ -545,7 +488,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 52
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -569,7 +512,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -715,7 +658,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 266
+  yes_rsvp_count: 267
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -823,7 +766,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1021,6 +964,49 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1423625127000
+  description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
+    \ visualizations, and gadgets.\_</p> <p>Our speakers so far include:</p> <p>\u2022\
+    \_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
+    >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
+    >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\u2022\_Tracy Hadden Loh\
+    \ of the\_<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a>\
+    \ will show us the new app they are developing.</p> <p><br/>\u2022\_Hans Lellelid\
+    \ will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web\
+    \ site.</p> <p>\n\n\nDo you have a project you're like to share? \_Contact\_<a\
+    \ href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\_\
+    to be added to the agenda.</p> <p>We are being hosted by the\_<a href=\"http://bikeleague.org/\"\
+    >League of American Bicyclists</a>\_at the\_<a href=\"http://bikeleague.org/content/summit-2015\"\
+    >National Bike Summit</a>. And many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\"\
+    >Mobility Lab</a>\_and\_<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>\n\
+    \nVisit\_<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
+    >Bike Hack Night I</a> and\_<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
+    >Bike Hack Night II</a> to see what was presented at previous events. Read summaries\
+    \ at\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
+    >Transportation Techies Show What Can Be Done With Bike Data</a> and\_<a href=\"\
+    http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\"\
+    >D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\_<a href=\"\
+    https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation Techies\"\
+    \ updates.</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/220449315/
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '220449315'
+  maybe_rsvp_count: 0
+  name: Bike Hack Night III
+  rsvp_limit: 100
+  status: upcoming
+  time: 1426113000000
+  updated: 1423627177000
+  utc_offset: -14400000
+  venue: {address_1: '999 9th St, NW ', city: Washington, country: us, id: 854481,
+    lat: 38.901676000000002, lon: -77.023495999999994, name: Renaissance Hotel, phone: +1
+      202 898 9000, repinned: false, state: DC, zip: '20001'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1123,7 +1109,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1423167734000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/b/3/a/3/600_434025987.jpeg\"\
     \ /></p> <p>\n\n\n\n\n\nFirebase is an API for building realtime applications.\
