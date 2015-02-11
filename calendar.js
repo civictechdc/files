@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1415830056000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1415830083000, 
@@ -154,44 +154,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1421263758000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>\n\nA legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>\n\nOur two CopyNights in 2014\u00a0were awesome, and there was a lot of interest in hosting CopyNights regularly, so:</p> <p>\n\nJoin us on Tuesday, February 10, 2015 to legal hack copyright and bring back CopyNight to DC! (This has been rescheduled from January 26!)</p> <p>\n\nWe\u00a0will discuss a broad range of recent copyright issues (<i>see, e.g.</i>,\u00a0<a href=\"https://twitter.com/DCLegalHackers/status/507322360622772224\">our list</a>\u00a0from last time), over pizza and beer.</p> <p>\n\nThanks so much to R Street for hosting us!</p> <p>\n\nQuestions? \u00a0Suggestions? \u00a0Contact Ali at alisternburg@gmail.com or\u00a0<a href=\"https://twitter.com/alisternburg\">@alisternburg</a>.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/219834425/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "219834425", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack CopyNight Returns: February 10 Edition!", 
-            "status": "upcoming", 
-            "time": 1423609200000, 
-            "updated": 1422312566000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1050 17th St NW, Suite 1150", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23598595, 
-                "lat": 38.903339000000003, 
-                "lon": -77.038833999999994, 
-                "name": "R Street Institute", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 58
-        }, 
         {
             "created": 1418679019000, 
             "description": "<p><b>NOTE</b>: Registration is through <a href=\"https://wcm-roles.eventbrite.com\">Eventbrite.\u00a0</a></p> <p>\n\n(While you are encouraged to RSVP here, official registration is through Eventbrite)</p> <p>\n\n<b>OVERVIEW</b></p> <p>\n\n\nA discussion of the changing roles in web, design and marketing.\u00a0</p> <p>\n\nTraditional roles in marketing and design are now heavily impacted by trends in digital including web, mobile and social. On the other side, web managers are increasingly working with marketing and design as that role extends beyond just running websites.</p> <p>\n\nAnd specialist roles such as information architect, user experience designer, digital marketer and social media manager are changing the nature of more established roles.</p> <p>\n\nJoin Web Content Mavens to discuss these evolving roles, how to manage diverse teams, how to work effectively as roles evolve and how to plan for upcoming trends that may impact your current role.</p> <p>\n\n<b>SPEAKERS</b></p> <p>\n\n<b>Emily Witt</b><br/>Senior Project Manager, Syscom Services</p> <p>\n\n\n<img src=\"http://photos2.meetupstatic.com/photos/event/e/8/f/6/600_432539638.jpeg\" /></p> <p>\n\nEmily\u00a0is passionate about web technology and believes in its power to enhance user experience, administrative prowess, and overall organizational efficiency. She\u00a0managed a variety of large-scale software implementations and upgrades - including CMS, LMS, and CRM - in a variety of roles, including\u00a0business analyst, project manager, and trainer.\u00a0In her experience at Syscom Services, Emily has been the lead project manager and business analyst in the successful launches of several association websites including the Society of Actuaries, United Service Organization, American College of Rheumatology, and the American Chemistry Council. Emily speaks on Syscom Services\u2019 behalf at various DC based events and conferences.</p> <p><br/><b>Stephanie Ranno</b><br/>Strategic Account Manager, Profiles Consulting</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/5/5/a/0/600_434181920.jpeg\" /></p> <p>In her role as Strategic Account Manager, Stephanie is responsible for working closely with Profiles Executive Leadership and Business Development team members across all Regional offices, to expand existing work within key accounts and develop new relationships with strategic, national clients.\u00a0She is responsible for providing current and future clients with a variety of talent acquisition and talent management solutions, including: consulting, staffing, project, and search services.</p> <p>\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n<img src=\"http://photos1.meetupstatic.com/photos/event/b/4/7/7/600_432526199.jpeg\" /></p> <p>\n\nSyscom Services is a\u00a0full service web agency and CMS\u00a0implementation practice for associations, charities and non-profits worldwide.\u00a0 With over 300 implementations and integrations done for\u00a0the major industry backend software platforms, Syscom Services experience designing and building robust web sites within these industries\u00a0is unparalleled.</p>", 
@@ -305,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1416852247000, 
@@ -420,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1421849941000, 
@@ -463,7 +425,7 @@ calendar({
         }, 
         {
             "created": 1418680238000, 
-            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\nAhava Leibtag of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\nWe are waiting to confirm our second speaker but the talking points are:<br/>- Planning a cross-platform communications/marketing campaign<br/>- Carrying a brand across properties<br/>- Visual identity cues<br/>- Customer/member participation &amp; advocacy</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag, Aha Media Group</p> <p>\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p>\n\n\n\n\n\n\n<b>Agenda</b></p> <p>\n\n\n\n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n<b>Our Sponsor</b></p> <p>\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
+            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b> of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Shashi Bellamkonda</b> will discuss integrated digital marketing solutions including planning a cross-platform communications/marketing campaign, Carrying a brand across properties, visual identity cues and engaging your customers and members as participants in your marketing efforts.\u00a0</p> <p><b>SPEAKERS</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b>, President, Aha Media Group</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p><br/><b>Shashi Bellamkonda</b>, VP of Digital Marketing, The Bozzuto Group</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/d/e/2/600_434208610.jpeg\" /></p> <p>Shashi Bellamkonda is\u00a0the Vice President, Digital Marketing at The Bozzuto Group and\u00a0an adjunct faculty member of Georgetown University. After several years of enriching experience in the hospitality industry, including being a chef, Shashi transformed his hobby of computers and technology to his current career.\u00a0Shashi was previously Senior Director, Social Media and Digital Marketing at Network Solutions. He has co-authored chapters in two books also been\u00a0<a href=\"http://www.goodreads.com/review/list/6512288-shashi-bellamkonda?shelf=books-mentioning-shashi-bellamkonda\">featured in 15 Books</a>\u00a0on marketing and social media.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>AGENDA</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
             "group": {
                 "created": 1189804715000, 
@@ -481,7 +443,7 @@ calendar({
             "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1423581163000, 
+            "updated": 1423595201000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "810 7th St. NW", 
@@ -498,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1379643162000, 
@@ -563,7 +525,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1421082688000, 
@@ -603,7 +565,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1423106183000, 
@@ -642,7 +604,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 256
+            "yes_rsvp_count": 266
         }, 
         {
             "created": 1421849941000, 
@@ -685,7 +647,7 @@ calendar({
         }, 
         {
             "created": 1422552170000, 
-            "description": "<p>Are you tired of losing your fantasy football league? Do you think there must be a better way to create that perfect lineup? If so, please join us for a special Data Science MD event featuring data scientist\u00a0Juliet Hougland of Cloudera and learn how to win with data.</p> <p><b>Agenda</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 PM -- Networking &amp; Food\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:55 PM -- Greetings &amp; Prizes</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7:00 PM -- <i>Moneyballing: Using Data to Win At Fantasy Football -\u00a0</i>Juliet Hougland</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n9:00 PM -- Post event drinks at Rams Head Savage</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Location</b></p> <p>\n\n\n\n\n\nParking is ample and directly in front of the building.\u00a0</p> <p>\n\n<a href=\"http://maps.google.com/maps?q=430%20National%20Business%20Parkway%20Suite%20450%2C%20Annapolis%20Junction%2C%20MD\">Teradata Government Systems</a></p> <p>\n\n430 National Business Parkway Suite 450</p> <p>\n\nAnnapolis Junction, MD</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Talks</b></p> <p>\n\n<b>Moneyballing: Using Data to Win At Fantasy Football<br/></b></p> <p>\n\n\n\n\n\nParticipants in fantasy football leagues manage teams by acquiring and trading players. Using predictive models based on historical data improves team selection and performance. In this talk we will use managing a fantasy football team as an example of how to integrate disparate data sources and make predictions based on complex event histories. We'll cover:</p> <p>\n\n\u25cf Modeling data for building predictive models about individuals.\u00a0<br/>\u25cf Integrating disparate data sources.\u00a0<br/>\u25cf Applying portfolio optimization theory to player selection.\u00a0<br/>\u25cf Translating subjective knowledge of domain into a rigorous improvement of a predictive model.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n<a href=\"https://www.linkedin.com/in/jhlch\">Juliet Hougland</a><b>\u00a0</b>spent the last 3 years working on a variety of Big Data applications from e-commerce recommendations and building the associated real-time model application platform to predictive analytics for oil and gas pipelines. She holds an MS in Applied Mathematics from University of Colorado, Boulder and graduated Phi Beta Kappa from Reed College with a BA in Math-Physics. Juliet can be reached on Twitter at\u00a0<a href=\"https://twitter.com/j_houg\">@j_houg</a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Post-event Drinks<br/></b></p> <p><b>Rams Head Tavern</b></p> <p>Historic Savage Mill, 8600 Foundry Street, Savage, MD 20763</p>", 
+            "description": "<p>Are you tired of losing your fantasy football league? Do you think there must be a better way to create that perfect lineup? If so, please join us for a special Data Science MD event featuring data scientist\u00a0Juliet Hougland of Cloudera and learn how to win with data.</p> <p><b>Agenda</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 PM -- Networking &amp; Food\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:55 PM -- Greetings &amp; Prizes</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7:00 PM -- <i>Moneyballing: Using Data to Win At Fantasy Football -\u00a0</i>Juliet Hougland</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n9:00 PM -- Post event drinks at Rams Head Savage</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Location</b></p> <p>\n\n\n\n\n\nParking is ample and directly in front of the building.\u00a0</p> <p>\n\n<a href=\"http://maps.google.com/maps?q=430%20National%20Business%20Parkway%20Suite%20450%2C%20Annapolis%20Junction%2C%20MD\">Teradata Government Systems</a></p> <p>\n\n430 National Business Parkway Suite 450</p> <p>\n\nAnnapolis Junction, MD</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Talks</b></p> <p>\n\n<b>Moneyballing: Using Data to Win At Fantasy Football<br/></b></p> <p>\n\n\n\n\n\nParticipants in fantasy football leagues manage teams by acquiring and trading players. Using predictive models based on historical data improves team selection and performance. In this talk we will use managing a fantasy football team as an example of how to integrate disparate data sources and make predictions based on complex event histories. We'll cover:</p> <p>\n\n\u25cf Modeling data for building predictive models about individuals.\u00a0<br/>\u25cf Integrating disparate data sources.\u00a0<br/>\u25cf Applying portfolio optimization theory to player selection.\u00a0<br/>\u25cf Translating subjective knowledge of domain into a rigorous improvement of a predictive model.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n<a href=\"https://www.linkedin.com/in/jhlch\">Juliet Hougland</a><b>\u00a0</b>spent the last 3 years working on a variety of Big Data applications from e-commerce recommendations and building the associated real-time model application platform to predictive analytics for oil and gas pipelines. She holds an MS in Applied Mathematics from University of Colorado, Boulder and graduated Phi Beta Kappa from Reed College with a BA in Math-Physics. Juliet can be reached on Twitter at\u00a0<a href=\"https://twitter.com/j_houg\">@j_houg</a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Post-event Drinks<br/></b></p> <p>\n\n<b>Rams Head Tavern</b></p> <p>\n\nHistoric Savage Mill, 8600 Foundry Street, Savage, MD 20763</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/220165549/", 
             "group": {
@@ -702,10 +664,10 @@ calendar({
             "id": "220165549", 
             "maybe_rsvp_count": 0, 
             "name": "Moneyballing: Using Data to Win At Fantasy Football", 
-            "rsvp_limit": 125, 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1424993400000, 
-            "updated": 1422563990000, 
+            "updated": 1423607076000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "430 National Business Parkway Suite 450", 
@@ -720,7 +682,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1421849941000, 
@@ -800,7 +762,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1417881835000, 
@@ -879,7 +841,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1421849941000, 
@@ -1062,7 +1024,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1421849941000, 
