@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -178,7 +178,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 7
   yes_rsvp_count: 90
 - created: 1417124897000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!)\
@@ -214,7 +214,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -234,15 +234,15 @@ other:
   maybe_rsvp_count: 0
   name: Missing Maps mapathon
   status: upcoming
-  time: 1424214000000
-  updated: 1422562017000
+  time: 1424212200000
+  updated: 1423764935000
   utc_offset: -18000000
   venue: {address_1: '2025 E St NW ', city: Washington, country: us, id: 23605627,
     lat: 38.896427000000003, lon: -77.045806999999996, name: American Red Cross, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -343,7 +343,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -431,7 +431,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1421082688000
   description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
     <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
@@ -468,7 +468,7 @@ other:
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1423699036000
   description: '<p>We''re a group of women who want to learn JavaScript together.
     The study group is intended for everyone who wishes to learn JavaScript programming
@@ -555,7 +555,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -625,7 +625,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 275
+  yes_rsvp_count: 279
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -733,7 +733,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 93
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -831,7 +831,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 94
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -886,7 +886,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
