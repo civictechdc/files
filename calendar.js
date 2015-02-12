@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1415830056000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1415830083000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1416852247000, 
@@ -308,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1422562017000, 
@@ -345,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1421849941000, 
@@ -384,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1418680238000, 
@@ -406,24 +406,22 @@ calendar({
             "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
             "status": "upcoming", 
             "time": 1424304000000, 
-            "updated": 1423595201000, 
+            "updated": 1423688215000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "810 7th St. NW", 
+                "address_1": "1133 15th St NW (8th Floor)", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 928346, 
-                "lat": 38.900500000000001, 
-                "lon": -77.022435000000002, 
-                "name": "RFD Washington", 
-                "phone": " 202.289.2030", 
+                "id": 20421012, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776 (8th Floor)", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1379643162000, 
@@ -450,7 +448,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1422933426000, 
@@ -523,7 +521,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1421082688000, 
@@ -566,6 +564,43 @@ calendar({
             "yes_rsvp_count": 28
         }, 
         {
+            "created": 1423699036000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n<a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>\n\nContact policy at buildings that need access</p> <p>\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>\n\nWant to be a JavaScript Study Group leader?</p> <p>\n\nIf you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>\n\nRESOURCES</p> <p>\n\nThese are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>\n\nCoursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>\n\nJavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>\n\nCodecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>\n\nBentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>\n\nJavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>\n\nJSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>\n\nThis event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220467680/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "220467680", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1424734200000, 
+            "updated": 1423701275000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1423106183000, 
             "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>Do you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p>\n\n<b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p>Identifying property distress and abandonment with administrative data</p> <p><br/><i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p><i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p><br/>More Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p>\n\n<b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
             "duration": 7200000, 
@@ -602,7 +637,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 272
+            "yes_rsvp_count": 274
         }, 
         {
             "created": 1421849941000, 
@@ -680,7 +715,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1421849941000, 
@@ -760,7 +795,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1417881835000, 
@@ -799,7 +834,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1326383071000, 
@@ -839,7 +874,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1421849941000, 
@@ -918,7 +953,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422815256000, 
@@ -1062,7 +1097,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1421849941000, 
@@ -1892,45 +1927,6 @@ calendar({
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbnb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytjbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1433973600000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
