@@ -1,44 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "created": 1415829988000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/218646978/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "218646978", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1423697400000, 
-            "updated": 1415829988000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th St NW, Second Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20407722, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
             "created": 1415830056000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -155,86 +117,8 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n\n<b>Contact policy at buildings that need access</b></p> <p>\n\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>\n\n<b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>\n\nIf you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>\n\n<a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\n\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219982189/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytdbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1423697400000, 
-            "updated": 1423158534000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2300 Wilson Blvd. #630", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 23616031, 
-                "lat": 38.890926, 
-                "lon": -77.086708000000002, 
-                "name": "Excella", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 25
-        }, 
-        {
-            "created": 1421895090000, 
-            "description": "<p>Spark is becoming increasingly popular for big data processing and analytics with significant speed increases over other platforms such as MapReduce. Commonly Spark interfaces with HDFS for data storage, but did you know that Spark can also leverage the power of Cassandra? For our February event, we are honored to have DataStax architect Matt Kennedy introduce Cassandra and discuss how Spark interfaces with this popular NoSQL database.</p> <p>\n\n\n\n\n\n<b>Agenda</b></p> <p>\n\n\n\n\n\n6:30 PM -- Networking &amp; Food\u00a0</p> <p>\n\n\n\n\n\n6:55 PM -- Greetings &amp; Prizes</p> <p>\n\n\n\n\n\n7:00 PM -- <i>From 0 to Streaming - </i>Matt Kennedy</p> <p>\n\n\n\n\n\n9:00 PM -- Post event drinks at Green Turtle</p> <p>\n\n\n\n\n\n<b>Location</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle maps does a good job of pinpointing the exact building location based on the address above.</p> <p>\n\n\n\n\n\nParking is not an issue. You can park on the street nearby or you can take up any Visitor spot that you can find. Also, feel free to park in the Ad.com/AOL employee parking lot but not in spaces marked Under Armour or Reserved.</p> <p>\n\n\n\n\n\n<b>Talks</b></p> <p>\n\n\n\n\n\n<b>From 0 to Streaming<br/></b></p> <p>\n\n\n\n\n\nMatt will begin by discussing the architecture of Cassandra at a high level before covering how Spark can be used to process data in Cassandra. via a number of subprojects within Spark including Shark, SparkSQL &amp; Streaming.</p> <p>\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\n\n\n\n<b><a href=\"https://twitter.com/thetweetofmatt\">Matt Kennedy</a></b> is an architect at DataStax. Matt has been a Cassandra user and occasional contributor since version 0.7 and is a co-organizer of the Cassandra meetup in the Washinton DC area. At the European Cassandra Summit in October of 2013, he was recognized by DataStax as a Cassandra MVP. Matt has been working with distributed systems his entire career and kinda wishes he was one. Because while Cassandra is partition tolerant, Matt is not.</p> <p>\n\n\n\n\n\n\n<b>Company</b></p> <p>\n\n\n\n\n\n<b><a href=\"http://www.datastax.com/\">DataStax </a></b>delivers Apache Cassandra\u2122, the leading distributed database technology, to the enterprise. Apache Cassandra\u2122 is built to be agile, always-on, and predictably scalable to any size.\u00a0With more than 400 customers in over 50 countries, DataStax is the database technology and transactional backbone of choice for the world\u2019s most innovative companies such as Netflix, Adobe, Intuit, and eBay. Based in Santa Clara, Calif., DataStax is backed by industry-leading investors including Comcast Ventures, Crosslink Capital, Lightspeed Venture Partners, Kleiner Perkins Caufield &amp; Byers, Meritech Capital, Premji Invest and Scale Venture Partners. For more information, visit\u00a0<a href=\"http://www.datastax.com/\">DataStax.com</a>\u00a0or follow us\u00a0<a href=\"https://twitter.com/datastax\">@DataStax</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Post-event Drinks</b></p> <p>\n\n\n\n\n\nGreen Turtle\u00a0</p> <p>\n\n\n\n\n\n1606 Whetstone Way</p> <p>\n\n\n\n\n\nBaltimore, MD 21230</p> <p>\n\n\n\n\n[masked]</p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/219997608/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "219997608", 
-            "maybe_rsvp_count": 0, 
-            "name": "From 0 to Streaming: Using Cassandra with Spark", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1423697400000, 
-            "updated": 1422573860000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1020 Hull St #100", 
-                "city": "Baltimore", 
-                "country": "us", 
-                "id": 6042402, 
-                "lat": 39.275238000000002, 
-                "lon": -76.591057000000006, 
-                "name": "AOL / Advertising.com - Ivory Building", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21230"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 104
-        }, 
-        {
             "created": 1416852247000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will show how <a href=\"https://www.twilio.com/\">Twilio</a> can be used to do awesome stuff with transit APIs.</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizations he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.\u00a0</p> <p>\n\n\n\n\n\n\u2022 <a href=\"https://twitter.com/rausnitz\">Zach Rausnitz</a> will talk about his\u00a0<a href=\"http://www.washingtoncitypaper.com/blogs/citydesk/2015/02/04/train-in-vain/\">Train in Vain</a> data-tracking project for Washington City Paper.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.\u00a0</p> <p>\n\n\u2022\u00a0<a href=\"http://www.researchgate.net/profile/Michael_Lloyd\">Michael Lloyd</a> will show how he used R to graph <a href=\"http://www.reddit.com/r/washingtondc/comments/2u9ez9/station_by_station_total_number_of_entrance_black/\">all stations' total entrances and exits</a> for one month.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0Scott Norcross of <a href=\"http://metrominder.com/\">MetroMinder</a>\u00a0will show us their performance heatMaps.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show animations of WMATA's most recent data release.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nFollow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0Our focus will be on the impact of the new Silver Line.\u00a0Doors open at 6:00 with pizza and drinks, and the presentations start at 6:30.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/mattmakai\">Matt Makai</a> will show how <a href=\"https://www.twilio.com/\">Twilio</a> can be used to do awesome stuff with transit APIs.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/PlanItMichael\">Michael Eichler</a>\u00a0will share visualizations he made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>\u00a0and talk about the\u00a0<a href=\"http://mpp.wmata.com/\">Metro Payment Pilot</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/jdantos\">Justin Antos</a> will share some of his own visualizations he has made for the\u00a0<a href=\"http://planitmetro.com/\">PlanItMetro blog</a>.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/tracktwentynine\">Matt Johnson</a> will show us his <a href=\"http://greatergreaterwashington.org/post/24359/metro-has-eleven-types-of-station-architecture-learn-them-all-with-this-one-interactive-map/\">interactive Metro map</a> of station\u00a0architectures.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/_oneunit\">Morgana Carter</a>\u00a0and <a href=\"https://twitter.com/maggiecriqui\">Maggie Criqui</a>\u00a0will demo a Python hack that tells them when to leave the house to take Metro to a Nats game.\u00a0</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"http://www.stee.vn/\">Steven Fleming</a>\u00a0will show how he created his own version of the Metro\u00a0web/mobile app.\u00a0</p> <p>\n\n\n\n\n\n\u2022\u00a0<a href=\"http://www.researchgate.net/profile/Michael_Lloyd\">Michael Lloyd</a> will show how he used R to graph <a href=\"http://www.reddit.com/r/washingtondc/comments/2u9ez9/station_by_station_total_number_of_entrance_black/\">all stations' total entrances and exits</a> for one month.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"https://twitter.com/wend_io\">Daniel Abrams</a>\u00a0of\u00a0<a href=\"http://masslight.com/\">MassLight</a> will\u00a0show an animated simulation of the metro bus system that he built using data from the Metro API.</p> <p>\n\n\n\n\n\n\n\u2022\u00a0Scott Norcross of <a href=\"http://metrominder.com/\">MetroMinder</a>\u00a0will show us their performance heatMaps.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show animations of WMATA's most recent data release.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo build your own Metro visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a> tag, or use their <a href=\"http://developer.wmata.com/\">developer tools</a>.\u00a0Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael Schade</a>\u00a0an email if you'd like to present.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a> was held on January 2, 2014. You can read about it on the Mobility Lab blog,\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFollow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/218874680/", 
             "group": {
                 "created": 1384372275000, 
@@ -254,7 +138,7 @@ calendar({
             "rsvp_limit": 90, 
             "status": "upcoming", 
             "time": 1423782000000, 
-            "updated": 1423672908000, 
+            "updated": 1423709703000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -269,7 +153,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -345,7 +229,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1421849941000, 
@@ -421,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1379643162000, 
@@ -448,7 +332,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1422933426000, 
@@ -486,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1423658516000, 
@@ -521,7 +405,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1421082688000, 
@@ -598,7 +482,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1423106183000, 
@@ -637,7 +521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 274
+            "yes_rsvp_count": 275
         }, 
         {
             "created": 1421849941000, 
@@ -715,7 +599,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1421849941000, 
@@ -917,7 +801,7 @@ calendar({
         }, 
         {
             "created": 1423625127000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets.\u00a0</p> <p>Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their\u00a0new mobile app for doing ad-hoc bicycle and pedestrian traffic counts..</p> <p><br/>\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p>\n\n\nDo you have a project you're like to share? \u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. And many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>\n\nVisit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and beer, with speakers starting at 7:00.</p> <p>\n\n\n\n\n\nOur speakers so far include:</p> <p>\n\n\n\n\n\n\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\n\n\n\n\n\n\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their\u00a0new mobile app for doing ad-hoc bicycle and pedestrian traffic counts..</p> <p>\n\n\n\n\n\n\n\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from DC's new automatic bike counters as well as their\u00a0manual count program.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDo you have a project you're like to share? \u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>\n\n\n\n\n\nWe are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>\n\n\n\n\n\nFollow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/220449315/", 
             "group": {
                 "created": 1384372275000, 
@@ -936,7 +820,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1426113000000, 
-            "updated": 1423672643000, 
+            "updated": 1423711473000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "999 9th St, NW ", 
@@ -1927,6 +1811,45 @@ calendar({
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytjbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1433973600000, 
+            "updated": 1423103681000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13898822, 
+                "lat": 38.902321000000001, 
+                "lon": -77.025238000000002, 
+                "name": "Microsoft Government Affairs building", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
