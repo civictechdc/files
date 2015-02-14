@@ -1,6 +1,6 @@
-- activity: [0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 48, 104, 47, 11,
-    6, 12, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 14, 7, 29, 33, 18, 31, 39, 1,
-    0, 14, 17, 11, 21, 21, 34, 94]
+- activity: [0, 0, 11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 85, 70, 50, 5, 12,
+    6, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 23, 39, 16, 30, 36, 1, 0,
+    14, 17, 12, 30, 20, 33, 87]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -19,11 +19,11 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 670,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 673,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 57,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 62,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1019782?v=3', contributions: 17,
     link: 'https://github.com/lankyfrenchman', name: lankyfrenchman}
@@ -49,6 +49,8 @@
     link: 'https://github.com/lizhaney', name: lizhaney}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/20806?v=3', contributions: 1,
     link: 'https://github.com/endash', name: endash}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/408989?v=3', contributions: 1,
+    link: 'https://github.com/uncompiled', name: uncompiled}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2306490?v=3', contributions: 1,
     link: 'https://github.com/ameensol', name: ameensol}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6130671?v=3', contributions: 1,
@@ -59,7 +61,7 @@
     link: 'https://github.com/dirkkelly', name: dirkkelly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2559167?v=3', contributions: 1,
     link: 'https://github.com/shariq1989', name: shariq1989}
-  contributors_count: 20
+  contributors_count: 21
   created_at: '2013-06-24T02:05:03Z'
   default_branch: master
   description: 'District Housing lets caseworkers help clients apply for Section 8
@@ -73,18 +75,18 @@
   languages:
   - [Ruby, 177445]
   - [CSS, 13396]
-  - [Puppet, 5387]
-  - [CoffeeScript, 2322]
+  - [Puppet, 5537]
+  - [CoffeeScript, 2326]
   - [JavaScript, 767]
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 21
+  open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-12T02:53:30Z'
+  pushed_at: '2015-02-14T18:14:29Z'
   size: 22481
-  updated_at: '2015-02-12T02:53:30Z'
+  updated_at: '2015-02-14T18:14:31Z'
   watchers: 18
 - activity: [4, 11, 2, 11, 0, 9, 6, 0, 13, 2, 9, 0, 8, 0, 4, 0, 5, 0, 0, 6, 3, 3,
     5, 3, 2, 8, 2, 0, 1, 0, 0, 2, 3, 0, 0, 6, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 3,
@@ -491,7 +493,7 @@
   size: 22227
   updated_at: '2015-02-10T04:55:36Z'
   watchers: 15
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
