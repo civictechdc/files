@@ -151,7 +151,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -180,6 +180,33 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 44
+- created: 1423871983000
+  description: "<p>Hi folks, \_</p> <p>As you enjoy Presidents Day weekend, go ahead\
+    \ and start bracing yourselves for a great API meetup this coming week. \_</p>\
+    \ <p>As always, we've got a number of great presentations coming together, always\
+    \ a good complement to good pizza and drinks. \_Go ahead and mark those calendars\
+    \ - we'll see you soon!</p> <p><br/>6:00pm - 6:30pm Food, drinks and networking\_\
+    <br/>6:40pm - 6:50pm Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p>\
+    \ <p>* Sumit Sharma, Mulesoft</p> <p><br/>7:55pm - 8:00pm Refill your beverage\_\
+    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/220510621/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '220510621'
+  maybe_rsvp_count: 0
+  name: DC API User Group - February Edition
+  status: upcoming
+  time: 1424300400000
+  updated: 1423871983000
+  utc_offset: -18000000
+  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
+    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
+    repinned: false, state: DC, zip: '20036'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 11
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -223,7 +250,7 @@ other:
     repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1418680238000
   description: "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\"\
     >Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about\
@@ -280,7 +307,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 70
 - created: 1379643162000
   description: <p>There will be two 30-45 minute sessions + open discussion and Q&amp;A.
     Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You
@@ -304,7 +331,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -562,7 +589,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 289
+  yes_rsvp_count: 294
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -670,7 +697,7 @@ other:
       Government Systems, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -774,7 +801,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -807,7 +834,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1465,10 +1492,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1423851955000
-  description: <p>This event will be a fun collaboration with the Humanitarian OpenStreetMap
-    Team. 1. Learn about the Humanitarian OpenStreetMapTeam (HOT)<br/>2. Get introduced
-    to OpenStreetMap and<br/>3. Dive into contributing to a HOT project using the
-    tasking manager.</p> <p>More details soon.</p>
+  description: "<p>This event will be a fun collaboration with the Humanitarian OpenStreetMap\
+    \ Team. The Humanitarian OpenStreetMap Team [HOT] applies the principles of open\
+    \ source and open data sharing for humanitarian response and economic development.</p>\
+    \ <p>1. Learn about the Humanitarian OpenStreetMapTeam (HOT)<br/>2. Get introduced\
+    \ to OpenStreetMap and<br/>3. Dive into contributing to a HOT project using the\
+    \ tasking manager.</p> <p>\n\nOSM Tasking Manager is a mapping tool designed and\
+    \ built for the Humanitarian OSM Team collaborative mapping. The purpose of the\
+    \ tool is to divide up a mapping job into smaller tasks that can be completed\
+    \ rapidly. It shows which areas need to be mapped and which areas need the mapping\
+    \ validated.\_</p> <p><br/>This approach facilitates the distribution of tasks\
+    \ to the various mappers in a context of emergency. It also permits to control\
+    \ the progress and the homogeinity of the work done (ie. Elements to cover, specific\
+    \ tags to use, etc.).</p>"
   duration: 5400000
   event_url: http://www.meetup.com/Maptime-DC/events/220505118/
   group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
@@ -1477,10 +1513,10 @@ other:
   headcount: 0
   id: '220505118'
   maybe_rsvp_count: 0
-  name: How to Contribute to OpenStreetMap 101 led by Humanitarian OpenStreetMap Team
+  name: Introduction to OpenStreetMap for Humanitarian Response
   status: upcoming
   time: 1430346600000
-  updated: 1423851955000
+  updated: 1423854621000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
