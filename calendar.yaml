@@ -206,7 +206,7 @@ other:
     repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -250,7 +250,7 @@ other:
     repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 18
 - created: 1418680238000
   description: "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\"\
     >Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about\
@@ -519,7 +519,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
