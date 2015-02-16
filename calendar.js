@@ -117,44 +117,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1417124897000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in February! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/218931900/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "218931900", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 17: Codified Phase Transitions", 
-            "status": "upcoming", 
-            "time": 1424131200000, 
-            "updated": 1417451614000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 58
-        }, 
-        {
             "created": 1422562017000, 
             "description": "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"> MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity to learn more about OpenStreetMap and to contribute some work to very needy causes.\u00a0</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\">Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\u00a0</p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap or just come at 6pm to contribute to the mapping party! There will also be fun Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners VERY welcome and please bring a Laptop!</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/220169586/", 
@@ -189,7 +151,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1423871983000, 
@@ -227,7 +189,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1421849941000, 
@@ -306,33 +268,6 @@ calendar({
             "yes_rsvp_count": 72
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/214907452/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytdbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1424388600000, 
-            "updated": 1383661832000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 22
-        }, 
-        {
             "created": 1422933426000, 
             "description": "<p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><br/>Installs (please have these installed before class):</p> <p>python 2.7</p> <p>pandas</p> <p>ipython with notebook dependencies</p> <p>(optional) matplotlib</p> <p>(super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><br/>Speakers:</p> <p>Clara Bennett, Software Engineer <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><br/>Tyler Jorgensen, Data Scientist <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
             "event_url": "http://www.meetup.com/dc-pyladies/events/220267163/", 
@@ -368,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1423658516000, 
@@ -480,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1423106183000, 
@@ -519,7 +454,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 305
+            "yes_rsvp_count": 311
         }, 
         {
             "created": 1421849941000, 
@@ -835,7 +770,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1424051129000, 
@@ -873,7 +808,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1422815256000, 
@@ -911,7 +846,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1421849941000, 
@@ -948,33 +883,6 @@ calendar({
                 "state": "Di", 
                 "zip": "20006"
             }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/214907662/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytfbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1426804200000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
@@ -1330,33 +1238,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/214907772/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytgbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1429223400000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbdc/", 
@@ -1696,33 +1577,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/214907852/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgythbcc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1432247400000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220370021/", 
@@ -1957,33 +1811,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/210744552/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytjbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1434666600000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -2099,33 +1926,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytkbvb/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytkbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1437085800000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
@@ -2245,33 +2045,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytlbbc/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytlbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1440109800000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -2375,33 +2148,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytmbwb/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytmbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1442529000000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
@@ -2509,33 +2255,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytnbtb/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytnbtb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1444948200000, 
-            "updated": 1383661832000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -2639,33 +2358,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytpbzb/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytpbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1447975800000, 
-            "updated": 1383661832000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
@@ -2773,33 +2465,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgytqbwb/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgytqbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1450395000000, 
-            "updated": 1383661832000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -2862,33 +2527,6 @@ calendar({
                 "state": "DC", 
                 "zip": "20009"
             }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1379643162000, 
-            "description": "<p>There will be two 30-45 minute sessions + open discussion and Q&amp;A. Tech topics will be selected soon. Watch this page for details.</p> <p><br/>You are encouraged to bring your projects, ask for help on any tech related topic, or just chill and enjoy the event.</p> <p><br/>If you're considering joining, please read our rules, to determine if this group is right for you:</p> <p><a href=\"http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/\" class=\"linkified\">http://www.meetup.com/Ladies-Who-Code-Washington-DC/about/</a></p> <p><br/>Gloria</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/qkxmtgyvcbcc/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "qkxmtgyvcbcc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Geek-up: tech talks and random fun (\u2640,no recruiters, no hiring managers)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1453419000000, 
-            "updated": 1383661832000, 
-            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
