@@ -152,7 +152,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1422562017000, 
@@ -266,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1418680238000, 
@@ -303,7 +303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1379643162000, 
@@ -368,7 +368,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1423658516000, 
@@ -442,7 +442,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -519,7 +519,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 303
+            "yes_rsvp_count": 305
         }, 
         {
             "created": 1421849941000, 
@@ -756,7 +756,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1421849941000, 
@@ -836,6 +836,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 32
+        }, 
+        {
+            "created": 1424051129000, 
+            "description": "<p>Want to learn more about async apps in python?\u00a0</p> <p><a href=\"https://github.com/makaimc\">Matt Makai</a>, Developer Evangelist at\u00a0<a href=\"https://www.twilio.com/blog/2014/02/introducing-developer-evangelist-matt-makai.html\">Twilio</a>, speaking to us about asynchronous Python web apps. \u00a0<b>Matt is a great presenter and makes difficult concepts easy to understand. You should feel comfortable asking questions during the talk when you have them.\u00a0</b>Matt delivered a previous version of this talk to San Francisco's Python meetup to rave reviews in January.\u00a0</p> <p>(If you don't know what async is and want to understand a little more before the talk -- here is an async talk from PyCon 2014: <a href=\"https://speakerdeck.com/pycon2014/what-is-async-how-does-it-work-and-when-should-i-use-it-by-a-jesse-jiryu-davis\">Slides </a>&amp; <a href=\"https://www.youtube.com/watch?v=9WV7juNmyE8\">Video</a>.)</p> <p>\n\niStrategyLabs is hosting will also provide food and drink, so you can come hungry!</p> <p>\n\n\nAgenda:</p> <p>\n\n\n\u2022 6:30-7:00pm - Arrive, eat, and catch up\u00a0</p> <p>\n\n\u2022 7:00-7:15pm - Announcements\u00a0</p> <p>\n\n\u2022 7:15-8:15pm - Talk, Q&amp;A\u00a0</p> <p>\n\n\u2022 8:15-8:30pm - Wrap-up\u00a0</p> <p>\n\n\u2022 8:30pm - Migrate to a social venue nearby</p> <p>\n\nAbout the talk:</p> <p>\n\nWhy should Node.js folks have all the asynchronous web application fun?\u00a0 In this talk you'll learn how to use WebSockets with Python, Flask and gevent to build full-duplex communications into your web apps. We'll live code from a blank file to a completed app that updates vote counters in a web browser via WebSockets without page refreshes. Along the way you'll learn good practices to follow when working with virtualenv and Python application dependencies.\u00a0</p> <p>About Matt:</p> <p>\n\n<a href=\"https://github.com/makaimc\">Matt Makai</a>\u00a0(<a href=\"https://twitter.com/mattmakai\">@mattmakai</a>) is a\u00a0<a href=\"https://www.twilio.com/blog/2014/02/introducing-developer-evangelist-matt-makai.html\">Twilio Developer Evangelist</a>\u00a0and Python web developer based in Washington, D.C. He was a speaker in 2014 at\u00a0<a href=\"https://www.youtube.com/watch?v=s6NaOKD40rY\">EuroPython</a>\u00a0and\u00a0<a href=\"https://www.youtube.com/watch?v=aMtiCX38w20\">DjangoCon US</a>\u00a0and will be speaking in Montreal at PyCon 2015 with the talks \"<a href=\"https://us.pycon.org/2015/schedule/presentation/336/\">Choose Your Own WSGI Deployment Adventure</a>\" and \"<a href=\"https://us.pycon.org/2015/schedule/presentation/421/\">virtualenv for New Pythonistas</a>\".\u00a0Matt has contributed to the Ansible project and programmed the\u00a0<a href=\"https://pypi.python.org/pypi/underwear/0.4.5\">Underwear</a>\u00a0and\u00a0<a href=\"https://pypi.python.org/pypi/plushcap/0.2.2\">Plushcap</a>\u00a0libraries hosted on PyPI. He also writes the\u00a0<a href=\"http://www.fullstackpython.com/\">Full Stack Python</a>\u00a0website read by over 15,000 developers a month to help them understand how to build and deploy their WSGI-powered web applications.</p> <p>(This month, we are partnering with\u00a0<a href=\"http://www.meetup.com/django-district/events/220439364/\">Django District</a>, to co-host an event.)</p>", 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/220547822/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "220547822", 
+            "maybe_rsvp_count": 0, 
+            "name": "Asynchronous Python Web Apps with WebSockets", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1426631400000, 
+            "updated": 1424052008000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW, Floor 1", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23642317, 
+                "lat": 38.914551000000003, 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs HQ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1422815256000, 
