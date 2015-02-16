@@ -110,35 +110,37 @@
     thumbnailUrl: http://ancfinder.org/static/img/favicon.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 235,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 241,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 109,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 30,
     link: 'https://github.com/leahbannon', name: leahbannon}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3245105?v=3', contributions: 5,
-    link: 'https://github.com/mesb', name: mesb}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2132260?v=3', contributions: 5,
     link: 'https://github.com/JKesMc9tqIQe9M', name: JKesMc9tqIQe9M}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3245105?v=3', contributions: 5,
+    link: 'https://github.com/mesb', name: mesb}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/899591?v=3', contributions: 3,
+    link: 'https://github.com/Copper-Head', name: Copper-Head}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1551510?v=3', contributions: 3,
     link: 'https://github.com/mcwhittemore', name: mcwhittemore}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2487968?v=3', contributions: 3,
-    link: 'https://github.com/tvanantwerp', name: tvanantwerp}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/903759?v=3', contributions: 3,
     link: 'https://github.com/kdurril', name: kdurril}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2487968?v=3', contributions: 3,
+    link: 'https://github.com/tvanantwerp', name: tvanantwerp}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/125098?v=3', contributions: 2,
+    link: 'https://github.com/joshfinnie', name: joshfinnie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6344446?v=3', contributions: 2,
     link: 'https://github.com/rschuster3', name: rschuster3}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 1,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/125098?v=3', contributions: 1,
-    link: 'https://github.com/joshfinnie', name: joshfinnie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/78930?v=3', contributions: 1,
     link: 'https://github.com/apendleton', name: apendleton}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 1,
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=3', contributions: 1,
     link: 'https://github.com/shannonturner', name: shannonturner}
-  contributors_count: 14
+  contributors_count: 15
   created_at: '2013-03-11T23:54:30Z'
   default_branch: master
   description: A website about DC's Advisory Neighborhood Commission system.
@@ -148,18 +150,18 @@
   html_url: https://github.com/codefordc/ancfinder
   id: 8715969
   languages:
-  - [Python, 84367]
+  - [Python, 96819]
   - [CSS, 9442]
   - [Shell, 4622]
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 37
+  open_issues: 35
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-11T21:29:01Z'
+  pushed_at: '2015-02-15T21:30:31Z'
   size: 73226
-  updated_at: '2015-02-11T21:29:02Z'
+  updated_at: '2015-02-15T21:30:32Z'
   watchers: 27
 - activity: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -490,7 +492,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2015-02-11T14:44:38Z'
-  size: 22227
+  size: 27449
   updated_at: '2015-02-10T04:55:36Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -789,8 +791,8 @@
   updated_at: '2014-11-13T01:31:13Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    18, 29, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+    15, 25, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 47,
