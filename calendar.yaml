@@ -117,61 +117,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 8
 other:
-- created: 1422562017000
-  description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
-    > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
-    \ to learn more about OpenStreetMap and to contribute some work to very needy\
-    \ causes.\_</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\"\
-    >Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\_\
-    </p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap\
-    \ or just come at 6pm to contribute to the mapping party! There will also be fun\
-    \ Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners\
-    \ VERY welcome and please bring a Laptop!</p>"
-  event_url: http://www.meetup.com/Maptime-DC/events/220169586/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
-      hackers}
-  headcount: 0
-  id: '220169586'
-  maybe_rsvp_count: 0
-  name: Missing Maps mapathon
-  status: upcoming
-  time: 1424212200000
-  updated: 1423764935000
-  utc_offset: -18000000
-  venue: {address_1: '2025 E St NW ', city: Washington, country: us, id: 23605627,
-    lat: 38.896427000000003, lon: -77.045806999999996, name: American Red Cross, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 46
-- created: 1423871983000
-  description: "<p>Hi folks, \_</p> <p>As you enjoy Presidents Day weekend, go ahead\
-    \ and start bracing yourselves for a great API meetup this coming week. \_</p>\
-    \ <p>As always, we've got a number of great presentations coming together, always\
-    \ a good complement to good pizza and drinks. \_Go ahead and mark those calendars\
-    \ - we'll see you soon!</p> <p><br/>6:00pm - 6:30pm Food, drinks and networking\_\
-    <br/>6:40pm - 6:50pm Introductions and Announcements\_<br/>6:50pm - 8:00pm Presentations</p>\
-    \ <p>* Sumit Sharma, Mulesoft</p> <p><br/>7:55pm - 8:00pm Refill your beverage\_\
-    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/220510621/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '220510621'
-  maybe_rsvp_count: 0
-  name: DC API User Group - February Edition
-  status: upcoming
-  time: 1424300400000
-  updated: 1423871983000
-  utc_offset: -18000000
-  venue: {address_1: '1900 M Street, NW - 3rd floor', city: Washington, country: us,
-    id: 12283102, lat: 38.905430000000003, lon: -77.043746999999996, name: Chief,
-    repinned: false, state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 35
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -215,7 +160,7 @@ other:
     repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 19
 - created: 1418680238000
   description: "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\"\
     >Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about\
@@ -272,7 +217,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 75
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -311,7 +256,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1423658516000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -336,7 +281,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1421082688000
   description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
     <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
@@ -461,6 +406,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 13
+- created: 1422562017000
+  description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
+    > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
+    \ to learn more about OpenStreetMap and to contribute some work to very needy\
+    \ causes.\_</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\"\
+    >Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\_\
+    </p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap\
+    \ or just come at 6pm to contribute to the mapping party! There will also be fun\
+    \ Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners\
+    \ VERY welcome and please bring a Laptop!</p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/220169586/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '220169586'
+  maybe_rsvp_count: 0
+  name: Missing Maps mapathon
+  status: upcoming
+  time: 1424817000000
+  updated: 1424187168000
+  utc_offset: -18000000
+  venue: {address_1: '2025 E St NW ', city: Washington, country: us, id: 23605627,
+    lat: 38.896427000000003, lon: -77.045806999999996, name: American Red Cross, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 46
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -637,7 +610,7 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 3
   yes_rsvp_count: 100
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -801,7 +774,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -823,7 +796,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -975,7 +948,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1010,7 +983,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\

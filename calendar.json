@@ -117,81 +117,6 @@
     ], 
     "other": [
         {
-            "created": 1422562017000, 
-            "description": "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"> MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity to learn more about OpenStreetMap and to contribute some work to very needy causes.\u00a0</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\">Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\u00a0</p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap or just come at 6pm to contribute to the mapping party! There will also be fun Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners VERY welcome and please bring a Laptop!</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/220169586/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "220169586", 
-            "maybe_rsvp_count": 0, 
-            "name": "Missing Maps mapathon", 
-            "status": "upcoming", 
-            "time": 1424212200000, 
-            "updated": 1423764935000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2025 E St NW ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23605627, 
-                "lat": 38.896427000000003, 
-                "lon": -77.045806999999996, 
-                "name": "American Red Cross", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 46
-        }, 
-        {
-            "created": 1423871983000, 
-            "description": "<p>Hi folks, \u00a0</p> <p>As you enjoy Presidents Day weekend, go ahead and start bracing yourselves for a great API meetup this coming week. \u00a0</p> <p>As always, we've got a number of great presentations coming together, always a good complement to good pizza and drinks. \u00a0Go ahead and mark those calendars - we'll see you soon!</p> <p><br/>6:00pm - 6:30pm Food, drinks and networking\u00a0<br/>6:40pm - 6:50pm Introductions and Announcements\u00a0<br/>6:50pm - 8:00pm Presentations</p> <p>* Sumit Sharma, Mulesoft</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/220510621/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "220510621", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - February Edition", 
-            "status": "upcoming", 
-            "time": 1424300400000, 
-            "updated": 1423871983000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1900 M Street, NW - 3rd floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 12283102, 
-                "lat": 38.905430000000003, 
-                "lon": -77.043746999999996, 
-                "name": "Chief", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/219983700/", 
@@ -228,7 +153,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1418680238000, 
@@ -265,7 +190,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1422933426000, 
@@ -303,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1423658516000, 
@@ -338,7 +263,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1421082688000, 
@@ -416,6 +341,43 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 13
+        }, 
+        {
+            "created": 1422562017000, 
+            "description": "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"> MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity to learn more about OpenStreetMap and to contribute some work to very needy causes.\u00a0</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\">Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\u00a0</p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap or just come at 6pm to contribute to the mapping party! There will also be fun Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners VERY welcome and please bring a Laptop!</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/220169586/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "220169586", 
+            "maybe_rsvp_count": 0, 
+            "name": "Missing Maps mapathon", 
+            "status": "upcoming", 
+            "time": 1424817000000, 
+            "updated": 1424187168000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2025 E St NW ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23605627, 
+                "lat": 38.896427000000003, 
+                "lon": -77.045806999999996, 
+                "name": "American Red Cross", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1423106183000, 
@@ -531,7 +493,7 @@
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -651,7 +613,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1326383071000, 
@@ -691,7 +653,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1421849941000, 
@@ -808,7 +770,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422815256000, 
@@ -846,7 +808,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1421849941000, 
