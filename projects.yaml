@@ -1,6 +1,6 @@
-- activity: [0, 11, 0, 0, 0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 12, 10, 89, 65, 49, 4, 15,
-    3, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 29, 33, 18, 32, 32, 1, 6,
-    8, 17, 15, 27, 20, 46, 82]
+- activity: [0, 11, 0, 0, 0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 14, 8, 106, 48, 49, 4, 18,
+    3, 2, 0, 1, 9, 0, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 22, 23, 28, 19, 51, 12, 1, 9,
+    10, 12, 20, 22, 23, 69, 56]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -19,11 +19,11 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 673,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 674,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 62,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 71,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1019782?v=3', contributions: 17,
     link: 'https://github.com/lankyfrenchman', name: lankyfrenchman}
@@ -73,10 +73,11 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 177445]
-  - [CSS, 13396]
+  - [Ruby, 183443]
+  - [HTML, 20220]
+  - [CSS, 13575]
   - [Puppet, 5537]
-  - [CoffeeScript, 2326]
+  - [CoffeeScript, 2537]
   - [JavaScript, 767]
   - [Shell, 118]
   main_language: Ruby
@@ -84,9 +85,9 @@
   open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-14T18:14:29Z'
+  pushed_at: '2015-02-17T01:19:35Z'
   size: 22481
-  updated_at: '2015-02-14T18:14:31Z'
+  updated_at: '2015-02-17T01:19:35Z'
   watchers: 18
 - activity: [8, 6, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5,
     3, 6, 5, 1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0,
@@ -497,7 +498,7 @@
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 1]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 14,
@@ -772,7 +773,7 @@
   description: 'The DC Healthcare Issues acts as an outlet for DC healthcare workers
     to report unsafe working conditions within their organizations without fear of
     reprisal. '
-  forks: 0
+  forks: 1
   help_wanted: []
   homepage: null
   html_url: https://github.com/gxespino/dc_healthcare_issues
