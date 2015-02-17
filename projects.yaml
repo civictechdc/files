@@ -19,7 +19,7 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 674,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 676,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -73,7 +73,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 183443]
+  - [Ruby, 183438]
   - [HTML, 20220]
   - [CSS, 13575]
   - [Puppet, 5537]
@@ -85,9 +85,9 @@
   open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-17T01:19:35Z'
+  pushed_at: '2015-02-17T01:40:25Z'
   size: 22481
-  updated_at: '2015-02-17T01:19:35Z'
+  updated_at: '2015-02-17T01:40:25Z'
   watchers: 18
 - activity: [8, 6, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5,
     3, 6, 5, 1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0,
@@ -402,8 +402,8 @@
   size: 2264
   updated_at: '2015-01-14T21:50:52Z'
   watchers: 11
-- activity: [5, 6, 4, 5, 6, 6, 4, 6, 5, 7, 5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8,
-    6, 5, 5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0,
+- activity: [6, 6, 4, 5, 6, 5, 5, 6, 5, 7, 4, 6, 7, 4, 5, 7, 29, 10, 5, 5, 4, 5, 9,
+    5, 6, 4, 6, 4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 3, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -489,10 +489,10 @@
   - [Shell, 4387]
   main_language: Python
   name: Metro Metrics
-  open_issues: 8
+  open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2015-02-11T14:44:38Z'
+  pushed_at: '2015-02-17T05:29:27Z'
   size: 27449
   updated_at: '2015-02-10T04:55:36Z'
   watchers: 15

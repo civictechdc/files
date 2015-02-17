@@ -151,7 +151,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1423871983000, 
@@ -338,7 +338,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1421082688000, 
@@ -377,7 +377,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -415,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1423106183000, 
@@ -454,7 +454,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 312
+            "yes_rsvp_count": 314
         }, 
         {
             "created": 1421849941000, 
@@ -575,7 +575,7 @@ calendar({
         }, 
         {
             "created": 1423328667000, 
-            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n\n\n6:00 - 6:45pm Networking</p> <p>\n\n6:40 - 6:45pm Introductions</p> <p>\n\n6:45 - 8:00pm Speakers</p> <p>\n\n\u2022\u00a0Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>\u2022\u00a0Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p> <p>\u2022\u00a0Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\u2022\u00a0Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p> <p>\u2022\u00a0Group Q &amp; A (~20 min)</p> <p>\n\n\n\n\n\n\n\n\n\n\n<b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>\n\nAppointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>\n\nAs the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>\n\nDr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>\n\nFrom 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>\n\nIn 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>\n\nHe is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p>", 
+            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n\n\n6:00 - 6:45pm Networking</p> <p>\n\n6:40 - 6:45pm Introductions</p> <p>\n\n6:45 - 8:00pm Speakers</p> <p>\n\n\n\n\n\n\n\n\u2022\u00a0Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>\n\n\n\n\u2022\u00a0Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Group Q &amp; A (~20 min)</p> <p>\n\n\n\n\n\n\n\n\n\n<b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>\n\nAppointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>\n\nAs the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>\n\nDr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>\n\nFrom 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>\n\nIn 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>\n\nHe is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p>\n\n\n\n<b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/220371581/", 
             "group": {
@@ -596,7 +596,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1425510000000, 
-            "updated": 1423849836000, 
+            "updated": 1424136693000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -925,7 +925,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1421849941000, 
