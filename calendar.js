@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1415830083000, 
@@ -136,8 +136,8 @@ calendar({
             "name": "Ruby on Rails Hack Night", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
-            "time": 1424300400000, 
-            "updated": 1422909983000, 
+            "time": 1424302200000, 
+            "updated": 1424278807000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "702 H Street Northwest #200", 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422933426000, 
@@ -270,7 +270,7 @@ calendar({
         }, 
         {
             "created": 1423699036000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n<a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>\n\nContact policy at buildings that need access</p> <p>\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>\n\nWant to be a JavaScript Study Group leader?</p> <p>\n\nIf you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>\n\nRESOURCES</p> <p>\n\nThese are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>\n\nCoursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>\n\nJavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>\n\nCodecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>\n\nBentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>\n\nJavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>\n\nJSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>\n\nThis event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220467680/", 
             "group": {
                 "created": 1395616294000, 
@@ -283,12 +283,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "220467680", 
+            "id": "stnqflytdbfc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1424734200000, 
-            "updated": 1423701275000, 
+            "updated": 1424279802000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -303,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1422562017000, 
@@ -344,7 +344,7 @@ calendar({
         }, 
         {
             "created": 1423106183000, 
-            "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>Do you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p>\n\n<b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p>Identifying property distress and abandonment with administrative data</p> <p><br/><i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p><i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p><br/>More Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p>\n\n<b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
+            "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>\n\nDo you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p>\n\n\n\n\n\n<b>Agenda:</b></p> <p>\n\n\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\n\n\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\n\n\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\n\n\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p>\n\n<b>Talks:</b></p> <p>\n\nIdentifying property distress and abandonment with administrative data</p> <p>\n\n\n<i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p>\n\n<i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p>\n\n\nMore Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p>\n\n\n\n\n\n<b>Sponsors:</b></p> <p>\n\nThis event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/220316099/", 
             "group": {
@@ -364,7 +364,7 @@ calendar({
             "rsvp_limit": 450, 
             "status": "upcoming", 
             "time": 1424820600000, 
-            "updated": 1423165484000, 
+            "updated": 1424263308000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street", 
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 316
+            "yes_rsvp_count": 319
         }, 
         {
             "created": 1421849941000, 
@@ -418,7 +418,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1422552170000, 
@@ -458,6 +458,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 4, 
             "yes_rsvp_count": 100
+        }, 
+        {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220604147/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytfbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1425339000000, 
+            "updated": 1424283176000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "700 6th Street, NW, #410", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23283742, 
+                "lat": 38.898994000000002, 
+                "lon": -77.020294000000007, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1421849941000, 
@@ -500,7 +537,7 @@ calendar({
         }, 
         {
             "created": 1423328667000, 
-            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n\n\n6:00 - 6:45pm Networking</p> <p>\n\n6:40 - 6:45pm Introductions</p> <p>\n\n6:45 - 8:00pm Speakers</p> <p>\n\n\n\n\n\n\n\n\u2022\u00a0Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>\n\n\n\n\u2022\u00a0Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p> <p>\n\n\n\n\u2022\u00a0Group Q &amp; A (~20 min)</p> <p>\n\n\n\n\n\n\n\n\n\n<b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>\n\nAppointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>\n\nAs the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>\n\nDr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>\n\nFrom 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>\n\nIn 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>\n\nHe is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p>\n\n\n\n<b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
+            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n\n\n\n\n\n\n6:00 - 6:45pm Networking</p> <p>\n\n\n\n\n\n6:40 - 6:45pm Introductions</p> <p>\n\n\n\n\n\n6:45 - 8:00pm Speakers</p> <p>\n\n\n\n\n\n\n\n\n\n\u2022\u00a0Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>\n\n\n\n\n\n\u2022\u00a0Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p> <p>\n\n\n\n\n\n\u2022\u00a0Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\n\n\n\n\n\n\u2022\u00a0Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p> <p>\n\n\n\n\n\n\u2022\u00a0Group Q &amp; A (~20 min)</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>\n\n\n\n\n\nAppointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>\n\n\n\n\n\nAs the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>\n\n\n\n\n\nDr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>\n\n\n\n\n\nFrom 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>\n\n\n\n\n\nIn 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>\n\n\n\n\n\nHe is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p>\n\n\n\n\n\n<b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Bala Venkatesan - SVP of Technology at Overture Technologies</b></p> <p><br/>Bala Venkatesan is the SVP of Technology at Overture Technologies Inc, Bethesda, MD. He\u00a0is intimately involved in providing technology direction, strategic input, tactical planning\u00a0and direction. He is currently leading the effort to incorporate data analytics, semantic\u00a0analysis and data visualization capabilities. He holds a B.S in Computer Science from University of Madras and a Masters in Technology Management from University of Maryland. \u00a0Bala completed his Data Analytics Certification at Georgetown University in 2014 and currently participating in a Symposium on Semantic Extraction.</p> <p><br/><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/220371581/", 
             "group": {
@@ -521,7 +558,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1425510000000, 
-            "updated": 1424136693000, 
+            "updated": 1424260753000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -537,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1417881835000, 
@@ -576,7 +613,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1326383071000, 
@@ -617,6 +654,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 30
+        }, 
+        {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220604151/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytfbmb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1425940200000, 
+            "updated": 1424283190000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1630 Connecticut Ave NW 7th Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.912044999999999, 
+                "lon": -77.045258000000004, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1421849941000, 
@@ -695,7 +770,44 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
+        }, 
+        {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605380/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytfbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1426545000000, 
+            "updated": 1424283200000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1424051129000, 
@@ -733,7 +845,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1422815256000, 
@@ -771,7 +883,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1421849941000, 
@@ -853,6 +965,43 @@ calendar({
             "yes_rsvp_count": 61
         }, 
         {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605383/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytfbfc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1427149800000, 
+            "updated": 1424283215000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220370018/", 
@@ -890,6 +1039,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605384/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytfbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1427754600000, 
+            "updated": 1424283225000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW, 8th floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19813392, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1421849941000, 
@@ -1044,7 +1230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1423021750000, 
@@ -1084,6 +1270,32 @@ calendar({
             "yes_rsvp_count": 18
         }, 
         {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605385/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytgbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1428359400000, 
+            "updated": 1424283124000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1421849941000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgblb/", 
@@ -1121,6 +1333,32 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605386/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1428964200000, 
+            "updated": 1424283126000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1422815319000, 
@@ -1200,9 +1438,9 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbdc/", 
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605387/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1214,68 +1452,16 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "jdhzdlytgbdc", 
+            "id": "stnqflytgbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
+            "name": "Front End Hack Night", 
             "status": "upcoming", 
-            "time": 1429740000000, 
-            "updated": 1423103681000, 
+            "time": 1429569000000, 
+            "updated": 1424283129000, 
             "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbmc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytgbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1430344800000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1423851955000, 
@@ -1303,45 +1489,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlythbjb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlythbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1430949600000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
@@ -1461,162 +1608,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlythbrb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlythbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1431554400000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlythbbc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlythbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1432159200000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220370021/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlythbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1432764000000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbfb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytjbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1433368800000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><b>What You'll Learn</b></p> <p>Data quality is a fundamental issue for data science that can be measured in many different ways.\u00a0 Whether the data is stored in a relational database, a hierarchical file, or in key/pairs, the reliability of your analysis depends on the quality of the data involved.\u00a0 In this talk, Joe Sremack will discuss what data quality is, the categories in which data quality can be measured, and common data qualities issues.\u00a0 Sample data and Python code will be shown to illustrate what data quality issues are and how they can be identified.</p> <p><b>Our Speaker</b></p> <p>\n\nJoe Sremack is a Director in Berkeley Research Group\u2019s Technology Services Group.\u00a0 He has spent over a decade performing digital investigations for some of the largest civil and criminal cases in US History, such as the Bernie Madoff and Allen Stanford Ponzi scheme investigations.\u00a0 His work involves the collection and analysis of organizations\u2019 data, where data quality is a frequent issue</p> <p><b>Agenda</b></p> <p>6:30 - Food &amp; drinks</p> <p>7:00 - Intro</p> <p>7:10 - Talk</p> <p>8:30 - Drinks at Tonic</p>", 
             "duration": 9000000, 
@@ -1690,45 +1681,6 @@ calendar({
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytjbnb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytjbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1433973600000, 
-            "updated": 1423103681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 K St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13898822, 
-                "lat": 38.902321000000001, 
-                "lon": -77.025238000000002, 
-                "name": "Microsoft Government Affairs building", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
