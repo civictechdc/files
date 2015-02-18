@@ -153,44 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1418680238000, 
-            "description": "<p><b>NOTE: </b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.</p> <p>\n\n\n\n\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b> of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Shashi Bellamkonda</b> will discuss integrated digital marketing solutions including planning a cross-platform communications/marketing campaign, Carrying a brand across properties, visual identity cues and engaging your customers and members as participants in your marketing efforts.\u00a0</p> <p><b>SPEAKERS</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b>, President, Aha Media Group</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p><br/><b>Shashi Bellamkonda</b>, VP of Digital Marketing, The Bozzuto Group</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/d/e/2/600_434208610.jpeg\" /></p> <p>Shashi Bellamkonda is\u00a0the Vice President, Digital Marketing at The Bozzuto Group and\u00a0an adjunct faculty member of Georgetown University. After several years of enriching experience in the hospitality industry, including being a chef, Shashi transformed his hobby of computers and technology to his current career.\u00a0Shashi was previously Senior Director, Social Media and Digital Marketing at Network Solutions. He has co-authored chapters in two books also been\u00a0<a href=\"http://www.goodreads.com/review/list/6512288-shashi-bellamkonda?shelf=books-mentioning-shashi-bellamkonda\">featured in 15 Books</a>\u00a0on marketing and social media.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>AGENDA</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "219264031", 
-            "maybe_rsvp_count": 0, 
-            "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
-            "status": "upcoming", 
-            "time": 1424304000000, 
-            "updated": 1423688215000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1422933426000, 
@@ -302,7 +265,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -340,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1422562017000, 
@@ -455,7 +418,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1422552170000, 
@@ -1045,6 +1008,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1418680238000, 
+            "description": "<p><b>IMPORTANT:<br/></b>-<b>\u00a0</b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.<br/>- New date!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b> of Aha Media Group will share her expertise in content strategy - beginning with an overview the various channels, the best tone and approach for each and how they tie together. She'll discuss how to plan an integrated content strategy and how to ensure consistent language and terminology.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Shashi Bellamkonda</b> will discuss integrated digital marketing solutions including planning a cross-platform communications/marketing campaign, Carrying a brand across properties, visual identity cues and engaging your customers and members as participants in your marketing efforts.\u00a0</p> <p><b>SPEAKERS</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Ahava Leibtag</b>, President, Aha Media Group</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos4.meetupstatic.com/photos/event/8/2/b/9/600_434193465.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhava Leibtag is the President of Aha Media Group, a content consultancy located in the Washington, D.C. metropolitan area. She is a well-known content expert and thought leader and the author of\u00a0<i>The Digital Crown: Winning at Content on the Web</i>\u00a0.</p> <p>\n\n\n<b>Shashi Bellamkonda</b>, VP of Digital Marketing, The Bozzuto Group</p> <p>\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/b/d/e/2/600_434208610.jpeg\" /></p> <p>\n\nShashi Bellamkonda is\u00a0the Vice President, Digital Marketing at The Bozzuto Group and\u00a0an adjunct faculty member of Georgetown University. After several years of enriching experience in the hospitality industry, including being a chef, Shashi transformed his hobby of computers and technology to his current career.\u00a0Shashi was previously Senior Director, Social Media and Digital Marketing at Network Solutions. He has co-authored chapters in two books also been\u00a0<a href=\"http://www.goodreads.com/review/list/6512288-shashi-bellamkonda?shelf=books-mentioning-shashi-bellamkonda\">featured in 15 Books</a>\u00a0on marketing and social media.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>AGENDA</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>OUR SPONSOR</b></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "219264031", 
+            "maybe_rsvp_count": 0, 
+            "name": "RESCHEDULED - Integrated Marketing & Communications - Online, Social & Mobile", 
+            "status": "upcoming", 
+            "time": 1427929200000, 
+            "updated": 1424226274000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW (8th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 20421012, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776 (8th Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1423021750000, 
