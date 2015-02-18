@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 21
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -217,7 +217,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 81
 - created: 1422933426000
   description: "<p>Pandas is a powerful and flexible Python library that provides\
     \ data structures and operations for processing and analyzing tabular datasets.\
@@ -256,7 +256,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1423658516000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -281,7 +281,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1421082688000
   description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
     <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
@@ -317,7 +317,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 7
   yes_rsvp_count: 30
 - created: 1423699036000
   description: '<p>We''re a group of women who want to learn JavaScript together.
@@ -405,7 +405,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 17
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -433,7 +433,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 48
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -503,7 +503,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 314
+  yes_rsvp_count: 316
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -610,7 +610,7 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 100
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -741,7 +741,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 100
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -796,7 +796,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -890,7 +890,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1424051129000
   description: "<p>Want to learn more about async apps in python?\_</p> <p><a href=\"\
     https://github.com/makaimc\">Matt Makai</a>, Developer Evangelist at\_<a href=\"\
@@ -948,7 +948,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -983,7 +983,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
