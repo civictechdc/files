@@ -180,7 +180,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 18
 - created: 1421082688000
   description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
     <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
@@ -265,7 +265,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 25
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -293,7 +293,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -365,7 +365,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 372
+  yes_rsvp_count: 388
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -403,14 +403,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1424905200000
-  updated: 1423103228000
+  updated: 1424364950000
   utc_offset: -18000000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
+  venue: {address_1: '1445 New York Ave NW, 1st Floor Conference Room', city: Washington,
+    country: us, id: 21483092, lat: 0, lon: 0, name: Living Social, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1422552170000
   description: "<p>Are you tired of losing your fantasy football league? Do you think\
     \ there must be a better way to create that perfect lineup? If so, please join\
@@ -521,7 +521,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 8
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -558,14 +558,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1425510000000
-  updated: 1421849941000
+  updated: 1424363557000
   utc_offset: -18000000
   venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
     lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 9
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p>\
@@ -719,7 +719,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -804,11 +804,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1426111200000
-  updated: 1421849941000
+  updated: 1424358841000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -861,7 +858,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -909,7 +906,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1424051129000
   description: "<p>Want to learn more about async apps in python?\_</p> <p><a href=\"\
     https://github.com/makaimc\">Matt Makai</a>, Developer Evangelist at\_<a href=\"\
@@ -1039,11 +1036,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1426716000000
-  updated: 1422910014000
+  updated: 1424358844000
   utc_offset: -14400000
-  venue: {address_1: '702 H Street Northwest #200', city: 'Washington, D.C.', country: us,
-    id: 15978222, lat: 38.899700000000003, lon: -77.022330999999994, name: Optoro,
-    repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -1165,11 +1159,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1427320800000
-  updated: 1423103681000
+  updated: 1424358848000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1246,7 +1237,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbcb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220624966/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1257,11 +1248,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1427925600000
-  updated: 1423103681000
+  updated: 1424358851000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1475,7 +1463,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgblb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220624967/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1486,11 +1474,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1428530400000
-  updated: 1423103681000
+  updated: 1424358853000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1610,11 +1595,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1429135200000
-  updated: 1422910045000
+  updated: 1424358856000
   utc_offset: -14400000
-  venue: {address_1: '702 H Street Northwest #200', city: 'Washington, D.C.', country: us,
-    id: 15978222, lat: 38.899700000000003, lon: -77.022330999999994, name: Optoro,
-    repinned: false, state: Di, zip: '20006'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1688,7 +1670,7 @@ other:
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>\n\n\n\nThis event is intended to be exclusively open for people who identify\
     \ as women - we are\_transgender friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jdhzdlytgbdc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220624969/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1699,11 +1681,8 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1429740000000
-  updated: 1423103681000
+  updated: 1424358858000
   utc_offset: -14400000
-  venue: {address_1: 901 K St NW, city: Washington, country: us, id: 13898822, lat: 38.902321000000001,
-    lon: -77.025238000000002, name: Microsoft Government Affairs building, repinned: false,
-    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
