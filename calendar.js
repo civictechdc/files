@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1415830083000, 
@@ -118,7 +118,7 @@ calendar({
     "other": [
         {
             "created": 1422933426000, 
-            "description": "<p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><br/>Installs (please have these installed before class):</p> <p>python 2.7</p> <p>pandas</p> <p>ipython with notebook dependencies</p> <p>(optional) matplotlib</p> <p>(super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><br/>Speakers:</p> <p>Clara Bennett, Software Engineer <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><br/>Tyler Jorgensen, Data Scientist <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
+            "description": "<p>Virtual install party tonight at 7:30! Make sure you're RSVP'd to the event to get the link for where to join.</p> <p>====================================</p> <p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><br/>Installs (please have these installed before class):</p> <p>python 2.7</p> <p>pandas</p> <p>ipython with notebook dependencies</p> <p>(optional) matplotlib</p> <p>(super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><br/>Speakers:</p> <p>Clara Bennett, Software Engineer <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><br/>Tyler Jorgensen, Data Scientist <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
             "event_url": "http://www.meetup.com/dc-pyladies/events/220267163/", 
             "group": {
                 "created": 1312496216000, 
@@ -136,7 +136,7 @@ calendar({
             "name": "Intro to Pandas", 
             "status": "upcoming", 
             "time": 1424530800000, 
-            "updated": 1422940254000, 
+            "updated": 1424454403000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 G St NW # 400", 
@@ -152,7 +152,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1423658516000, 
@@ -187,7 +187,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1421082688000, 
@@ -226,7 +226,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -264,7 +264,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1422562017000, 
@@ -340,7 +340,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 400
+            "yes_rsvp_count": 403
         }, 
         {
             "created": 1421849941000, 
@@ -378,7 +378,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422552170000, 
@@ -416,7 +416,7 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -454,7 +454,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1421849941000, 
@@ -573,7 +573,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1326383071000, 
@@ -718,7 +718,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1424279774000, 
@@ -1142,7 +1142,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1423021750000, 
@@ -1180,6 +1180,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 18
+        }, 
+        {
+            "created": 1424447514000, 
+            "description": "<p>Saturday? Yup, we are changing things up and swapping out pizza for bagels and other brunchy foods. Not only that, but we are joining forces with Data Science DC and District Data Labs to bring you this event!</p> <p>Eight teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning healthcare, economics, the environment, and more. Learn from their experience implementing a Deep Learning network on commercially available hardware, on deploying a D3.js visualization web app using Heroku, or on building a desktop GUI with Python... plus much more! Enjoy brunch and drinks on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! About our teams:</p> <p>SeeFish: Kathleen, Matt, and Chris are entering the Kaggle National Data Science Bowl, for which they must analyze underwater images to quantify plankton populations using Deep Learning systems.</p> <p>Group D: Constance, Vinoth, and Mike are developing an algorithm to accurately categorize overall ratings by the main contributing factor (e.g. service, food quality) as identified by the text in the corresponding review using a Yelp dataset.</p> <p>In collaboration with the Department of Labor:</p> <p>LaborMatch: Yunan, Keegan and Ali are combining BLS data with data via social media APIs to visualize skills-based supply/demand by geographic region and predict future trends in skill development using time-series and regression analysis.</p> <p>OKJK: Jim, Kathleen, and Oliver are working to form a suite of compressed economic indicators by geographic region using BLS data to improve understanding of economic health.</p> <p>PPM-Data: Patrick, Mehdi, and Paul are working to predict job growth using BLS economic data and regression analysis.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/220648452/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "220648452", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Brunch and Project Pitchfest!", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1428159600000, 
+            "updated": 1424451558000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1424279774000, 
