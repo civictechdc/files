@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1415830083000, 
@@ -152,7 +152,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1423658516000, 
@@ -183,7 +183,7 @@
             "rsvp_limit": 20, 
             "status": "upcoming", 
             "time": 1424538000000, 
-            "updated": 1423658516000, 
+            "updated": 1424388026000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -249,7 +249,7 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1424734200000, 
-            "updated": 1424279802000, 
+            "updated": 1424388007000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -301,7 +301,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1423106183000, 
@@ -340,7 +340,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 388
+            "yes_rsvp_count": 397
         }, 
         {
             "created": 1421849941000, 
@@ -378,7 +378,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1422552170000, 
@@ -454,7 +454,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1421849941000, 
@@ -497,7 +497,7 @@
         }, 
         {
             "created": 1423328667000, 
-            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p> <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>\u2022\u00a0Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>\u2022\u00a0Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p> <p>\u2022\u00a0Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\u2022\u00a0Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p> <p>\u2022\u00a0Group Q &amp; A (~20 min)</p> <p>\n\n<b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>Appointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>He is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p><b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Bala Venkatesan - SVP of Technology at Overture Technologies</b></p> <p><br/>Bala Venkatesan is the SVP of Technology at Overture Technologies Inc, Bethesda, MD. He\u00a0is intimately involved in providing technology direction, strategic input, tactical planning\u00a0and direction. He is currently leading the effort to incorporate data analytics, semantic\u00a0analysis and data visualization capabilities. He holds a B.S in Computer Science from University of Madras and a Masters in Technology Management from University of Maryland. \u00a0Bala completed his Data Analytics Certification at Georgetown University in 2014 and currently participating in a Symposium on Semantic Extraction.</p> <p><br/><b>Scott Gibbons - Analytics at the DOL</b></p> <p>Scott Gibbons works in the Office of the Chief Evaluation Officer at the Department of Labor (DOL).\u00a0 He currently manages the analytics team within that office, as well as creating and overseeing evaluations of Departmental programs and initiatives.\u00a0 His work primarily involves providing analytical support, and building the capacity for data use and analysis, among the agencies and programs at DOL.\u00a0</p> <p><br/><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
+            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p> <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>-Assistant Secretary of Labor Dr. David Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>-Rebecca Bilbro &amp; Bala Venkatesan: Getting into data science with OSHA (~10 min)</p> <p>-Scott Gibbons: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>-Xavier Hughes: Innovating at the Department of Labor (~10 min)</p> <p>-Ty Grandison: Expanding access to DOL data: Building APIs (~10 min)</p> <p>-Group Q &amp; A (~15 min)</p> <p><br/><b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>Appointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>He is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p><b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Bala Venkatesan - SVP of Technology at Overture Technologies</b></p> <p><br/>Bala Venkatesan is the SVP of Technology at Overture Technologies Inc, Bethesda, MD. He\u00a0is intimately involved in providing technology direction, strategic input, tactical planning\u00a0and direction. He is currently leading the effort to incorporate data analytics, semantic\u00a0analysis and data visualization capabilities. He holds a B.S in Computer Science from University of Madras and a Masters in Technology Management from University of Maryland. \u00a0Bala completed his Data Analytics Certification at Georgetown University in 2014 and currently participating in a Symposium on Semantic Extraction.</p> <p><br/><b>Scott Gibbons - Analytics at the DOL</b></p> <p>Scott Gibbons works in the Office of the Chief Evaluation Officer at the Department of Labor (DOL).\u00a0 He currently manages the analytics team within that office, as well as creating and overseeing evaluations of Departmental programs and initiatives.\u00a0 His work primarily involves providing analytical support, and building the capacity for data use and analysis, among the agencies and programs at DOL.\u00a0</p> <p><br/><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/220371581/", 
             "group": {
@@ -518,7 +518,7 @@
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1425510000000, 
-            "updated": 1424301730000, 
+            "updated": 1424390891000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -534,7 +534,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1417881835000, 
@@ -793,7 +793,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1422815256000, 

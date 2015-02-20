@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -155,7 +155,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1423658516000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -176,7 +176,7 @@ other:
   rsvp_limit: 20
   status: upcoming
   time: 1424538000000
-  updated: 1423658516000
+  updated: 1424388026000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -258,7 +258,7 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1424734200000
-  updated: 1424279802000
+  updated: 1424388007000
   utc_offset: -18000000
   venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
@@ -293,7 +293,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -365,7 +365,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 388
+  yes_rsvp_count: 397
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -410,7 +410,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1422552170000
   description: "<p>Are you tired of losing your fantasy football league? Do you think\
     \ there must be a better way to create that perfect lineup? If so, please join\
@@ -521,7 +521,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -569,31 +569,32 @@ other:
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p>\
-    \ <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>\u2022\_\
-    Dr. Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p>\
-    \ <p>\u2022\_Rebecca &amp; Bala: Getting into data science with OSHA (~10 min)</p>\
-    \ <p>\u2022\_Scott: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>\u2022\
-    \_Ty: Innovating at the Department of Labor &amp; building APIs (~10 min)</p>\
-    \ <p>\u2022\_Group Q &amp; A (~20 min)</p> <p>\n\n<b>Dr. David Michaels - Assistant\
-    \ Secretary of Labor for\_Occupational Safety and Health</b></p> <p>Appointed\
-    \ by President Barack Obama and unanimously confirmed by the United States Senate,\
-    \ David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational\
-    \ Safety and Health in December, 2009.</p> <p>As the longest serving Assistant\
-    \ Secretary in OSHA's history, he has worked to strengthen the agency's enforcement\
-    \ in high hazard industries, promote common sense worker protection programs and\
-    \ standards, expand compliance assistance provided to small employers, improve\
-    \ OSHA's whistleblower protection program, and increase outreach to the vulnerable\
-    \ populations who are at greatest risk for work-related injury and illness. He\
-    \ has also increased OSHA's focus and capabilities in the areas of data analysis\
-    \ and program evaluation.</p> <p>Dr. Michaels is an epidemiologist, currently\
-    \ on leave from his position as Professor of Environmental and Occupational Health\
-    \ at the George Washington University School of Public Health. He is the author\
-    \ of studies examining the health of construction workers, printers, bus drivers\
-    \ and other occupations, as well as of numerous publications on science and regulatory\
-    \ policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant Secretary\
-    \ of Energy for Environment, Safety and Health. In that position, he was the chief\
-    \ architect of the Energy Employees Occupational Illness Compensation Program,\
-    \ the historic initiative to compensate nuclear weapons workers who contracted\
+    \ <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>-Assistant\
+    \ Secretary of Labor Dr. David Michaels: Overview of OSHA\u2019s mission, data,\
+    \ and open questions (~20 min)</p> <p>-Rebecca Bilbro &amp; Bala Venkatesan: Getting\
+    \ into data science with OSHA (~10 min)</p> <p>-Scott Gibbons: Accessing OSHA\
+    \ data \u2013 Tips and tricks (~10 min)</p> <p>-Xavier Hughes: Innovating at the\
+    \ Department of Labor (~10 min)</p> <p>-Ty Grandison: Expanding access to DOL\
+    \ data: Building APIs (~10 min)</p> <p>-Group Q &amp; A (~15 min)</p> <p><br/><b>Dr.\
+    \ David Michaels - Assistant Secretary of Labor for\_Occupational Safety and Health</b></p>\
+    \ <p>Appointed by President Barack Obama and unanimously confirmed by the United\
+    \ States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary\
+    \ of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the\
+    \ longest serving Assistant Secretary in OSHA's history, he has worked to strengthen\
+    \ the agency's enforcement in high hazard industries, promote common sense worker\
+    \ protection programs and standards, expand compliance assistance provided to\
+    \ small employers, improve OSHA's whistleblower protection program, and increase\
+    \ outreach to the vulnerable populations who are at greatest risk for work-related\
+    \ injury and illness. He has also increased OSHA's focus and capabilities in the\
+    \ areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist,\
+    \ currently on leave from his position as Professor of Environmental and Occupational\
+    \ Health at the George Washington University School of Public Health. He is the\
+    \ author of studies examining the health of construction workers, printers, bus\
+    \ drivers and other occupations, as well as of numerous publications on science\
+    \ and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant\
+    \ Secretary of Energy for Environment, Safety and Health. In that position, he\
+    \ was the chief architect of the Energy Employees Occupational Illness Compensation\
+    \ Program, the historic initiative to compensate nuclear weapons workers who contracted\
     \ occupational illnesses as a result of exposure to radiation, beryllium and other\
     \ hazards. The program has provided more than $10 billion in compensation to sick\
     \ workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was\
@@ -657,14 +658,14 @@ other:
   rsvp_limit: 150
   status: upcoming
   time: 1425510000000
-  updated: 1424301730000
+  updated: 1424390891000
   utc_offset: -18000000
   venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -964,7 +965,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
