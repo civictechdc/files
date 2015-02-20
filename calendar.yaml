@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -180,7 +180,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1421082688000
   description: '<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p>
     <p><b>Due to space restraints, we will be moving to Teaism''s Penn Quarter location,
@@ -365,7 +365,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 397
+  yes_rsvp_count: 400
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -410,7 +410,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1422552170000
   description: "<p>Are you tired of losing your fantasy football league? Do you think\
     \ there must be a better way to create that perfect lineup? If so, please join\
@@ -565,7 +565,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p>\
@@ -1830,7 +1830,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
