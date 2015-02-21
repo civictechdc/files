@@ -256,7 +256,7 @@
     thumbnailUrl: ''
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 102,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 104,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 49,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -306,7 +306,7 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [HTML, 114695]
+  - [HTML, 115101]
   - [JavaScript, 28711]
   - [CSS, 15613]
   - [Ruby, 3083]
@@ -315,9 +315,9 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-20T21:52:55Z'
+  pushed_at: '2015-02-21T03:16:43Z'
   size: 17397
-  updated_at: '2015-02-20T21:52:15Z'
+  updated_at: '2015-02-21T02:13:31Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -798,8 +798,8 @@
   updated_at: '2014-11-13T01:31:13Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10,
-    37, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18,
+    29, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 47,
