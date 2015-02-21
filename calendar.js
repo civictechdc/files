@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1415830083000, 
@@ -117,45 +117,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1422933426000, 
-            "description": "<p>Virtual install party tonight at 7:30! Make sure you're RSVP'd to the event to get the link for where to join.</p> <p>====================================</p> <p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p><br/>Installs (please have these installed before class):</p> <p>python 2.7</p> <p>pandas</p> <p>ipython with notebook dependencies</p> <p>(optional) matplotlib</p> <p>(super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><br/>Speakers:</p> <p>Clara Bennett, Software Engineer <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p><br/>Tyler Jorgensen, Data Scientist <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Tyler uses Pandas for essentially all of the data work that goes into Picwell\u2019s product prototypes, which involves processing and transforming millions of health claims. He has previously worked in related analytical roles in both financial services and management consulting.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/220267163/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "220267163", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Pandas", 
-            "status": "upcoming", 
-            "time": 1424530800000, 
-            "updated": 1424478833000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 38
-        }, 
-        {
             "created": 1423658516000, 
             "description": "<p>Are you a professional female developer? You're not alone. Come brunch with others like you! This brunch is for working developers only because it can be tough to find times to network with other women in the industry.</p> <p>The estimated cost for the brunch is $20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220454760/", 
@@ -188,7 +149,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1421082688000, 
@@ -417,8 +378,8 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 99
+            "waitlist_count": 6, 
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1424279774000, 
@@ -455,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1421849941000, 
@@ -615,6 +576,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 33
+        }, 
+        {
+            "created": 1424539258000, 
+            "description": "<p>I wanted to do the Flask in your PJ's class again... but this time, using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the cloud, from your interface to your code, and you can share your\u00a0workspace with other people. This means we don't have to get Flask installed on anyone's machine, the volunteers\u00a0and I can easily see your code if you're getting an error, and you can code on any machine you have handy (so no install rights needed!).</p> <p>This class will be run via Hangouts on Air. This means that I'll be broadcasting, and anyone can join by watching the class on Google+ or YouTube. We'll also have a chat room open for questions and requests.</p> <p>What you'll need:</p> <p>\u2022 Coffee (we're starting early!)</p> <p><br/>\u2022 A good Internet connection (I wouldn't do this from a coffee shop)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p> <p><br/>\u2022 A GitHub account (<a href=\"http://github.com\" class=\"linkified\">http://github.com</a>)</p> <p><br/>\u2022 Some knowledge of Python (If you can make a function, you can make a Flask site!)</p> <p><br/>If this works out well, then a Django class is in the works, since Cloud 9 also supports Django!\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/220669706/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "220669706", 
+            "maybe_rsvp_count": 0, 
+            "name": "Flask in your PJ's (with Cloud 9!)", 
+            "status": "upcoming", 
+            "time": 1425821400000, 
+            "updated": 1424539285000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Link is in the details", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23483842, 
+                "lat": 38.890369, 
+                "lon": -77.031959999999998, 
+                "name": "Google Hangout On Air", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1424279774000, 
@@ -794,7 +793,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1422815256000, 
