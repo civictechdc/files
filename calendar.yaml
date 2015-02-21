@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -141,6 +141,7 @@ other:
     \ goes into Picwell\u2019s product prototypes, which involves processing and transforming\
     \ millions of health claims. He has previously worked in related analytical roles\
     \ in both financial services and management consulting.</p>"
+  duration: 10800000
   event_url: http://www.meetup.com/dc-pyladies/events/220267163/
   group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
@@ -150,14 +151,14 @@ other:
   name: Intro to Pandas
   status: upcoming
   time: 1424530800000
-  updated: 1424454403000
+  updated: 1424478833000
   utc_offset: -18000000
   venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 37
 - created: 1423658516000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -267,7 +268,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -295,7 +296,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1423106183000
   description: "<p>For the February DSDC, we're pleased to have two presentations\
     \ on applications of machine learning to real-world issues in cities! Matt Conway\
@@ -367,7 +368,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 403
+  yes_rsvp_count: 404
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -722,7 +723,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -815,34 +816,36 @@ other:
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and\
-    \ beer, with speakers starting at 7:00.</p> <p>\n\n\n\n\n\nOur speakers so far\
-    \ include:</p> <p>\n\n\n\n\n\n\u2022\_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
+    \ beer, with speakers starting at 7:00.</p> <p>Our speakers so far include:</p>\
+    \ <p>\u2022\_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
     >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
-    >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\n\n\n\n\n\n\u2022\_Tracy\
-    \ Hadden Loh of the\_<a href=\"http://www.railstotrails.org/\">Rails-to-Trails\
-    \ Conservancy</a> will show us their\_new mobile app for doing ad-hoc bicycle\
-    \ and pedestrian traffic counts..</p> <p>\n\n\n\n\n\n\n\u2022\_Hans Lellelid will\
-    \ demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p>\
-    \ <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a>\
-    \ of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a>\
-    \ will share data from DC's new automatic bike counters as well as their\_manual\
-    \ count program.</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDo you have a project you're\
-    \ like to share? \_Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
-    >Michael</a>\_to be added to the agenda.</p> <p>\n\n\n\n\n\nWe are being hosted\
-    \ by the\_<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\_\
-    at the\_<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>.\
+    >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\u2022\_Tracy Hadden Loh\
+    \ of the\_<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a>\
+    \ will show us their\_new mobile app for doing ad-hoc bicycle and pedestrian traffic\
+    \ counts..</p> <p><br/>\u2022\_Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\"\
+    >Freezing Saddles</a> web site.</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\"\
+    >Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's\
+    \ Bicycle Program</a> will share data from DC's new automatic bike counters as\
+    \ well as their\_manual count program.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/johnelliottdc\"\
+    >John Elliott</a> from <a href=\"https://www.socialtables.com/\">Social Tables</a>\
+    \ will demo his <a href=\"http://waybot.tumblr.com/\">Waybot</a> hardware bicycle\
+    \ traffic counter to display bike traffic counts live in the browser.</p> <p><br/>Do\
+    \ you have a project you're like to share? \_Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
+    >Michael</a>\_to be added to the agenda.</p> <p>We are being hosted by the\_<a\
+    \ href=\"http://bikeleague.org/\">League of American Bicyclists</a>\_at the\_\
+    <a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>.\
     \ (There is no need to register for the summit in order to attend this meetup.)\
     \ Many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\">Mobility\
-    \ Lab</a>\_and\_<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\nVisit\_<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
-    >Bike Hack Night I</a> and\_<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
+    \ Lab</a>\_and\_<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\_\
+    <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike\
+    \ Hack Night I</a> and\_<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
     >Bike Hack Night II</a> to see what was presented at previous events. Read summaries\
     \ at\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
     >Transportation Techies Show What Can Be Done With Bike Data</a> and\_<a href=\"\
     http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\"\
-    >D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>\n\n\n\n\n\n\
-    Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation\
-    \ Techies\" updates.</p>"
+    >D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\_<a href=\"\
+    https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation Techies\"\
+    \ updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/220449315/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -854,14 +857,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1426113000000
-  updated: 1423711473000
+  updated: 1424463630000
   utc_offset: -14400000
   venue: {address_1: '999 9th St, NW ', city: Washington, country: us, id: 854481,
     lat: 38.901676000000002, lon: -77.023495999999994, name: Renaissance Hotel, phone: +1
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 47
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1077,7 +1080,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1359,7 +1362,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 91
 - created: 1423021750000
   description: "<p>(<i>Please note that you need to get a ticket through Eventbrite\
     \ to attend:\_<a href=\"http://bamgdc.eventbrite.com/?aff=DCDevMeetup\"><a href=\"\
@@ -1395,7 +1398,7 @@ other:
     lon: -77.063766000000001, name: United States Patent and Trademark Office, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1436,7 +1439,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
