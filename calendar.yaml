@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -301,7 +301,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 408
+  yes_rsvp_count: 411
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -408,7 +408,7 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 100
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
@@ -457,7 +457,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -601,7 +601,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -691,7 +691,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 14
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -938,7 +938,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -973,7 +973,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1366,7 +1366,7 @@ other:
     lon: -77.063766000000001, name: United States Patent and Trademark Office, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1701,6 +1701,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1424571116000
+  description: "<p>Oft requested but often avoided due to the pain that is install\
+    \ parties... a Django class! Learn the basics of using Django to create a basic\
+    \ app. We will be going over:</p> <p>\u2022 Setting up a basic project</p> <p><br/>\u2022\
+    \ Creating a model</p> <p><br/>\u2022 Setting up the admin</p> <p><br/>\u2022\
+    \ Creating views</p> <p><br/>\u2022 Adding in templates</p> <p><br/>This class\
+    \ will be held remotely using the Cloud 9 IDE. This IDE is free, and will make\
+    \ troubleshooting your environment a ton easier for us!\_</p> <p>This class will\
+    \ be held via Google Hangouts on Air. You can watch it via YouTube or through\
+    \ Google+. There will also be a chat room where you can chat with other students\
+    \ and get help from volunteers.\_</p> <p>You will need:</p> <p>\u2022 Coffee.\
+    \ We start early!</p> <p><br/>\u2022 A good Internet connection. Don't try to\
+    \ do this at a coffee shop!</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\"\
+    \ class=\"linkified\">http://c9.io</a>)</p> <p>\u2022 A Github account (<a href=\"\
+    http://github.com\" class=\"linkified\">http://github.com</a>)</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/dc-pyladies/events/220677679/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  id: '220677679'
+  maybe_rsvp_count: 0
+  name: Django in your PJ's (using Cloud 9)
+  status: upcoming
+  time: 1430055000000
+  updated: 1424571116000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
