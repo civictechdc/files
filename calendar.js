@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1415830083000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1415830109000, 
@@ -117,41 +117,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1423658516000, 
-            "description": "<p>Are you a professional female developer? You're not alone. Come brunch with others like you! This brunch is for working developers only because it can be tough to find times to network with other women in the industry.</p> <p>The estimated cost for the brunch is $20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220454760/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 20, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "0"
-            }, 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "220454760", 
-            "maybe_rsvp_count": 0, 
-            "name": "Professional Developer Brunch", 
-            "rsvp_limit": 20, 
-            "status": "upcoming", 
-            "time": 1424538000000, 
-            "updated": 1424388026000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
-        }, 
-        {
             "created": 1421082688000, 
             "description": "<p><b>*UPDATE: Please Note the Date and Location Change Below*</b></p> <p><b>Due to space restraints, we will be moving to Teaism's Penn Quarter location, and the brunch will start at NOON on Sunday 2/22.</b></p> <p>We are hosting a Designers in Tech Brunch with the lovely ladies from DCFemTech! This is similar to the Professional Dev Brunches for women in the DC area -- except with those of us that have an eye for making things beautiful.</p> <p>\n\nIf you are involved in any sort of Designing/UX/UI/Product in Tech (or want to transition to design) and want to meet others that do similar work, this should be a really fun event! There will be a sign that says 'Designers Brunch' or something to that effect.</p> <p>\n\nBring $; you'll be responsible for your own tab. (I believe the restaurant will have you pay up front when you order.)</p>", 
             "duration": 7200000, 
@@ -188,7 +153,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -535,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1326383071000, 
@@ -613,7 +578,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1424279774000, 
@@ -793,7 +758,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1422815256000, 
@@ -898,7 +863,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1424279774000, 
@@ -1407,6 +1372,32 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1424279774000, 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220605389/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "stnqflytgbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1430173800000, 
+            "updated": 1424283132000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1423851955000, 
             "description": "<p>This event will be a fun collaboration with the Humanitarian OpenStreetMap Team. The Humanitarian OpenStreetMap Team [HOT] applies the principles of open source and open data sharing for humanitarian response and economic development.</p> <p>1. Learn about the Humanitarian OpenStreetMapTeam (HOT)<br/>2. Get introduced to OpenStreetMap and<br/>3. Dive into contributing to a HOT project using the tasking manager.</p> <p>\n\nOSM Tasking Manager is a mapping tool designed and built for the Humanitarian OSM Team collaborative mapping. The purpose of the tool is to divide up a mapping job into smaller tasks that can be completed rapidly. It shows which areas need to be mapped and which areas need the mapping validated.\u00a0</p> <p><br/>This approach facilitates the distribution of tasks to the various mappers in a context of emergency. It also permits to control the progress and the homogeinity of the work done (ie. Elements to cover, specific tags to use, etc.).</p>", 
             "duration": 5400000, 
@@ -1431,7 +1422,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
