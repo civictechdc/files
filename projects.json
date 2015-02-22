@@ -1,8 +1,8 @@
 [
     {
         "activity": [
-            0, 
             11, 
+            0, 
             0, 
             0, 
             2, 
@@ -10,18 +10,18 @@
             1, 
             4, 
             0, 
-            15, 
-            18, 
+            32, 
+            1, 
             7, 
-            12, 
             13, 
-            7, 
-            85, 
-            70, 
-            50, 
-            5, 
             12, 
-            6, 
+            10, 
+            89, 
+            65, 
+            49, 
+            4, 
+            15, 
+            3, 
             5, 
             0, 
             0, 
@@ -38,21 +38,21 @@
             2, 
             16, 
             11, 
-            23, 
-            39, 
-            16, 
-            30, 
-            36, 
-            1, 
-            0, 
-            14, 
-            17, 
-            12, 
-            30, 
-            20, 
+            29, 
             33, 
-            92, 
-            18
+            18, 
+            32, 
+            32, 
+            1, 
+            6, 
+            8, 
+            17, 
+            15, 
+            27, 
+            20, 
+            46, 
+            82, 
+            15
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1506,7 +1506,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 323, 
+                "contributions": 325, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }
@@ -1523,7 +1523,7 @@
         "languages": [
             [
                 "Python", 
-                336479
+                336944
             ], 
             [
                 "HTML", 
@@ -1555,9 +1555,9 @@
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2015-02-22T06:22:28Z", 
+        "pushed_at": "2015-02-22T17:47:09Z", 
         "size": 27449, 
-        "updated_at": "2015-02-22T06:22:29Z", 
+        "updated_at": "2015-02-22T17:47:10Z", 
         "watchers": 16
     }, 
     {

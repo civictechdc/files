@@ -152,7 +152,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 5
   yes_rsvp_count: 30
 - created: 1423699036000
   description: <p>We're a group of women who want to learn JavaScript together. The
@@ -201,7 +201,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1422562017000
   description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
     > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
@@ -408,8 +408,8 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 7
-  yes_rsvp_count: 100
+  waitlist_count: 4
+  yes_rsvp_count: 99
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -601,7 +601,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 105
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -634,7 +634,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 70
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -672,8 +672,11 @@ other:
     \ 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p>\
     \ <p><br/>\u2022 A GitHub account (<a href=\"http://github.com\" class=\"linkified\"\
     >http://github.com</a>)</p> <p><br/>\u2022 Some knowledge of Python (If you can\
-    \ make a function, you can make a Flask site!)</p> <p><br/>If this works out well,\
-    \ then a Django class is in the works, since Cloud 9 also supports Django!\_</p>"
+    \ make a function, you can make a Flask site!)</p> <p><br/>On Air link:\_<a href=\"\
+    https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8\" class=\"linkified\"\
+    >https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8</a></p> <p>If\
+    \ this works out well, then a Django class is in the works, since Cloud 9 also\
+    \ supports Django!\_</p>"
   duration: 10800000
   event_url: http://www.meetup.com/dc-pyladies/events/220669706/
   group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
@@ -684,7 +687,7 @@ other:
   name: Flask in your PJ's (with Cloud 9!)
   status: upcoming
   time: 1425821400000
-  updated: 1424539285000
+  updated: 1424624591000
   utc_offset: -14400000
   venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
     lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
@@ -739,7 +742,7 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -832,7 +835,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -973,7 +976,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1048,7 +1051,7 @@ other:
     lon: -77.037070999999997, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming

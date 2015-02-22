@@ -153,7 +153,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -191,7 +191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1422562017000, 
@@ -343,8 +343,8 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
-            "yes_rsvp_count": 100
+            "waitlist_count": 4, 
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1424279774000, 
@@ -461,7 +461,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1417881835000, 
@@ -500,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1326383071000, 
@@ -544,7 +544,7 @@ calendar({
         }, 
         {
             "created": 1424539258000, 
-            "description": "<p>I wanted to do the Flask in your PJ's class again... but this time, using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the cloud, from your interface to your code, and you can share your\u00a0workspace with other people. This means we don't have to get Flask installed on anyone's machine, the volunteers\u00a0and I can easily see your code if you're getting an error, and you can code on any machine you have handy (so no install rights needed!).</p> <p>This class will be run via Hangouts on Air. This means that I'll be broadcasting, and anyone can join by watching the class on Google+ or YouTube. We'll also have a chat room open for questions and requests.</p> <p>What you'll need:</p> <p>\u2022 Coffee (we're starting early!)</p> <p><br/>\u2022 A good Internet connection (I wouldn't do this from a coffee shop)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p> <p><br/>\u2022 A GitHub account (<a href=\"http://github.com\" class=\"linkified\">http://github.com</a>)</p> <p><br/>\u2022 Some knowledge of Python (If you can make a function, you can make a Flask site!)</p> <p><br/>If this works out well, then a Django class is in the works, since Cloud 9 also supports Django!\u00a0</p>", 
+            "description": "<p>I wanted to do the Flask in your PJ's class again... but this time, using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the cloud, from your interface to your code, and you can share your\u00a0workspace with other people. This means we don't have to get Flask installed on anyone's machine, the volunteers\u00a0and I can easily see your code if you're getting an error, and you can code on any machine you have handy (so no install rights needed!).</p> <p>This class will be run via Hangouts on Air. This means that I'll be broadcasting, and anyone can join by watching the class on Google+ or YouTube. We'll also have a chat room open for questions and requests.</p> <p>What you'll need:</p> <p>\u2022 Coffee (we're starting early!)</p> <p><br/>\u2022 A good Internet connection (I wouldn't do this from a coffee shop)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p> <p><br/>\u2022 A GitHub account (<a href=\"http://github.com\" class=\"linkified\">http://github.com</a>)</p> <p><br/>\u2022 Some knowledge of Python (If you can make a function, you can make a Flask site!)</p> <p><br/>On Air link:\u00a0<a href=\"https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8\" class=\"linkified\">https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8</a></p> <p>If this works out well, then a Django class is in the works, since Cloud 9 also supports Django!\u00a0</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/220669706/", 
             "group": {
@@ -563,7 +563,7 @@ calendar({
             "name": "Flask in your PJ's (with Cloud 9!)", 
             "status": "upcoming", 
             "time": 1425821400000, 
-            "updated": 1424539285000, 
+            "updated": 1424624591000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Link is in the details", 
@@ -616,7 +616,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1421849941000, 
@@ -683,7 +683,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1424279774000, 
@@ -796,7 +796,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1421849941000, 
@@ -863,7 +863,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1424279774000, 
