@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1415830083000, 
@@ -192,7 +192,7 @@
         }, 
         {
             "created": 1423106183000, 
-            "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>\n\nDo you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p>\n\n\n\n\n\n<b>Agenda:</b></p> <p>\n\n\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\n\n\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\n\n\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\n\n\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p>\n\n<b>Talks:</b></p> <p>\n\nIdentifying property distress and abandonment with administrative data</p> <p>\n\n\n<i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p>\n\n<i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p>\n\n\nMore Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p>\n\n\n\n\n\n<b>Sponsors:</b></p> <p>\n\nThis event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
+            "description": "<p>For the February DSDC, we're pleased to have two presentations on applications of machine learning to real-world issues in cities! Matt Conway will talk about his Data Science for Social Good Fellowship work, where he applied Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will talk about a project that used Natural Language to help indentify restaurants at risk of closure.\u00a0</p> <p>Do you have a project that uses machine learning to understand your city? Please let us know -- we'd love to publish a roundup of other work in this domain on the DC2 blog!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements, Give-aways</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Talks:</b></p> <p>Identifying property distress and abandonment with administrative data</p> <p><br/><i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University of California, Santa Barbara, Department of Geography. This summer, he was fellow in the Data Science for Social Good program at the University of Chicago, where he worked with an interdisciplinary team applying data science to issues of housing distress and abandonment in Memphis, Tennessee. He is now a transport analyst and software developer in Washington, DC.</p> <p><i>Abstract</i>: Many American cities are facing issues of housing distress and abandonment as the economy evolves. One of the issues faced by these cities is simply knowing where distressed properties are. This information is generally collected using windshield surveys, driving down every street in the city and noting distressed properties. Since these surveys are expensive, they cannot be performed often. Our team applied a random forest to identify distressed properties based on administrative data that is already collected annually, such as tax assessments and building permits.</p> <p><br/>More Than Just Words: On Discovering Themes in Online Reviews to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT) Department at the Robert H. Smith School of Business at the University of Maryland. He holds a BS in Computer Engineering and a MS in Electronic Engineering from Georgia Institute of Technology. Jorge's\u00a0research focuses on social contagion -- measuring and managing how information diffusion affects consumer behavior and business outcomes. Please visit a recent profile from the\u00a0<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\">University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement the existing research on online business reviews by proposing a novel use of modern text analysis methods to uncover the semantic structure of online reviews and assess their impact on the survival of merchants in the marketplace. We analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan area in the United States and find that variables capturing semantic structure within review text are important predictors of the survival of restaurants, a relationship that has not been explored in the extant literature. We combined machine learning approaches and econometric modeling to derive predictive models that are significantly better than models that simply include numerical information from reviews such as review valence, volume, word counts and readability.\u00a0</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/220316099/", 
             "group": {
@@ -212,7 +212,7 @@
             "rsvp_limit": 450, 
             "status": "upcoming", 
             "time": 1424820600000, 
-            "updated": 1424263308000, 
+            "updated": 1424658538000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street", 
@@ -227,7 +227,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 407
+            "yes_rsvp_count": 413
         }, 
         {
             "created": 1421849941000, 
@@ -303,7 +303,7 @@
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -380,7 +380,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1423328667000, 
@@ -421,7 +421,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1417881835000, 
@@ -500,7 +500,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1424539258000, 
@@ -538,7 +538,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1424279774000, 
@@ -643,7 +643,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1424279774000, 
@@ -1128,22 +1128,22 @@
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1428159600000, 
-            "updated": 1424655046000, 
+            "updated": 1424662741000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "805 21st St. NW", 
+                "address_1": "2201 G St. NW, Room 108", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 19222872, 
-                "lat": 38.899914000000003, 
-                "lon": -77.046204000000003, 
-                "name": "GWU Media & Public Affairs Room B07", 
+                "id": 20624812, 
+                "lat": 38.898926000000003, 
+                "lon": -77.049484000000007, 
+                "name": "GWU Funger Hall", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1424279774000, 
@@ -1363,8 +1363,19 @@
             "name": "Django in your PJ's (using Cloud 9)", 
             "status": "upcoming", 
             "time": 1430055000000, 
-            "updated": 1424571116000, 
+            "updated": 1424658799000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Link is in the details", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23483842, 
+                "lat": 38.890369, 
+                "lon": -77.031959999999998, 
+                "name": "Google Hangout On Air", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
