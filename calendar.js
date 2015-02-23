@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1415830083000, 
@@ -151,7 +151,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1422562017000, 
@@ -188,7 +188,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1423106183000, 
@@ -227,11 +227,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 413
+            "yes_rsvp_count": 435
         }, 
         {
             "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>\n\nThere's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>\n\n\n<b>Contact policy at buildings that need access</b></p> <p>\n\n\nCertain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>\n\n<b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>\n\nIf you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>\n\n<b>RESOURCES</b></p> <p>\n\n<i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p>\n\n<a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\n\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220066932/", 
             "group": {
                 "created": 1395616294000, 
@@ -249,8 +249,8 @@ calendar({
             "name": "Ruby on Rails Hack Night", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
-            "time": 1424905200000, 
-            "updated": 1424364950000, 
+            "time": 1424907000000, 
+            "updated": 1424704398000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW, 1st Floor Conference Room", 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1422552170000, 
@@ -341,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1421849941000, 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1423328667000, 
@@ -421,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1417881835000, 
@@ -538,7 +538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1424279774000, 
@@ -718,7 +718,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1422815256000, 
@@ -756,7 +756,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1421849941000, 
@@ -1067,7 +1067,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1423021750000, 
@@ -1108,7 +1108,7 @@ calendar({
         }, 
         {
             "created": 1424447514000, 
-            "description": "<p>Saturday? Yup, we are changing things up and swapping out pizza for bagels and other brunchy foods. Not only that, but we are joining forces with Data Science DC and District Data Labs to bring you this event!</p> <p>Please note that the event will be at GW but we have not finalized the exact space yet (so the address will likely change).</p> <p>Eight teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning healthcare, economics, the environment, and more. Learn from their experience implementing a Deep Learning network on commercially available hardware, on deploying a D3.js visualization web app using Heroku, or on building a desktop GUI with Python... plus much more! Enjoy brunch and drinks on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! About our teams:</p> <p>SeeFish: Kathleen, Matt, and Chris are entering the Kaggle National Data Science Bowl, for which they must analyze underwater images to quantify plankton populations using Deep Learning systems.</p> <p>Group D: Constance, Vinoth, and Mike are developing an algorithm to accurately categorize overall ratings by the main contributing factor (e.g. service, food quality) as identified by the text in the corresponding review using a Yelp dataset.</p> <p>In collaboration with the Department of Labor:</p> <p>LaborMatch: Yunan, Keegan and Ali are combining BLS data with data via social media APIs to visualize skills-based supply/demand by geographic region and predict future trends in skill development using time-series and regression analysis.</p> <p>OKJK: Jim, Kathleen, and Oliver are working to form a suite of compressed economic indicators by geographic region using BLS data to improve understanding of economic health.</p> <p>PPM-Data: Patrick, Mehdi, and Paul are working to predict job growth using BLS economic data and regression analysis.</p>", 
+            "description": "<p>Saturday? Yup, we are changing things up and swapping out pizza for bagels and other brunchy foods. Not only that, but we are joining forces with Data Science DC and District Data Labs to bring you this event!</p> <p>Please note that the event will be at GW but we have not finalized the exact space yet (so the address will likely change).</p> <p>Eight teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning healthcare, economics, the environment, and more. Learn from their experience implementing a Deep Learning network on commercially available hardware, on deploying a D3.js visualization web app using Heroku, or on building a desktop GUI with Python... plus much more! Enjoy brunch and drinks on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! About our teams:</p> <p>SeeFish: Kathleen, Matt, and Chris are entering the Kaggle National Data Science Bowl, for which they must analyze underwater images to quantify plankton populations using Deep Learning systems.</p> <p>Group D: Constance, Vinoth, and Mike are developing an algorithm to accurately categorize overall ratings by the main contributing factor (e.g. service, food quality) as identified by the text in the corresponding review using a Yelp dataset.</p> <p>In collaboration with the Department of Labor:</p> <p>LaborMatch: Yunan, Keegan and Ali are combining BLS data with data via social media APIs to visualize skills-based supply/demand by geographic region and predict future trends in skill development using time-series and regression analysis.</p> <p>OKJK: Jim, Kathleen, and Oliver are working to form a suite of compressed economic indicators by geographic region using BLS data to improve understanding of economic health.</p> <p>PPM-Data: Patrick, Mehdi, and Paul are working to predict job growth using BLS economic data and regression analysis.</p> <p>Group B: Danielle, Elaine, Jing and Will are visualizing pockets of excess demand by industry, skill and resource using BLS data.</p> <p>In collaboration with HIMMS:</p> <p>The Synthesizers: Jamie, Kenneth and Bohan are working with HIMMS to add functionality to an open source data synthesizer to generate synthetic patient data sets with variable corruption by field.</p> <p>In collaboration with ZeroCycle:</p> <p>The Planeteers: Tony, Eyuel and Kate are optimizing attribution of recycling behavior to hyper local geographical regions using ZeroCycle and Census data.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/220648452/", 
             "group": {
@@ -1128,7 +1128,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1428159600000, 
-            "updated": 1424662741000, 
+            "updated": 1424707771000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW, Room 108", 
@@ -1143,7 +1143,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1424279774000, 
