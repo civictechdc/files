@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1415830083000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1415830109000, 
@@ -112,13 +112,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }
     ], 
     "other": [
         {
             "created": 1423699036000, 
-            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn JavaScript together. The study group is intended for everyone who wishes to learn JavaScript programming language, it's perfect for beginners with a basic understanding of HTML &amp; CSS. If you already know JavaScript, this can be a great platform for you to get together with fellow developers and hone your skills. If you're advanced, we'd love for you to come and help others learn more.</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a JavaScript Study Group leader?</p> <p>If you are passionate about learning JavaScript with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the JS study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p>\n\n\nList of resources</p> <p><a href=\"http://bit.ly/1LzKMbY\"><a href=\"http://bit.ly/1LzKMbY\" class=\"linkified\">http://bit.ly/1LzKMbY</a></a></p> <p>Coursera<br/><a href=\"http://www.codecademy.com/tracks/javascript-combined\" class=\"linkified\">http://www.codecademy.com/tracks/javascript-combined</a></p> <p>JavaScript is Sexy<br/><a href=\"http://javascriptissexy.com/how-to-learn-javascript-properly/\" class=\"linkified\">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></p> <p>Codecademy<br/><a href=\"http://codecademy.com/\" class=\"linkified\">http://codecademy.com/</a></p> <p>Bentobox for references<br/><a href=\"http://www.bento.io/\" class=\"linkified\">http://www.bento.io/</a></p> <p>JavaScript Official Guide<br/><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" class=\"linkified\">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></p> <p>JSFidlle- create/edit/test/share HTML CSS JS code<br/><a href=\"http://jsfiddle.net/\" class=\"linkified\">http://jsfiddle.net/</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220467680/", 
             "group": {
                 "created": 1395616294000, 
@@ -136,7 +136,7 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1424734200000, 
-            "updated": 1424388007000, 
+            "updated": 1424734763000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -151,7 +151,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1422562017000, 
@@ -209,10 +209,10 @@ calendar({
             "id": "220316099", 
             "maybe_rsvp_count": 0, 
             "name": "Machine Learning and Cities", 
-            "rsvp_limit": 450, 
+            "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1424820600000, 
-            "updated": 1424658538000, 
+            "updated": 1424740739000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street", 
@@ -227,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 435
+            "yes_rsvp_count": 457
         }, 
         {
             "created": 1421849941000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422552170000, 
@@ -421,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1417881835000, 
@@ -460,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1326383071000, 
@@ -500,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1424539258000, 
@@ -538,7 +538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1424279774000, 
@@ -579,33 +579,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220177730/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jdhzdlytfbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1426111200000, 
-            "updated": 1424358841000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1423625127000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and beer, with speakers starting at 7:00.</p> <p>Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their\u00a0new mobile app for doing ad-hoc bicycle and pedestrian traffic counts..</p> <p><br/>\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from DC's new automatic bike counters as well as their\u00a0manual count program.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/johnelliottdc\">John Elliott</a> from <a href=\"https://www.socialtables.com/\">Social Tables</a> will demo his <a href=\"http://waybot.tumblr.com/\">Waybot</a> hardware bicycle traffic counter to display bike traffic counts live in the browser.</p> <p><br/>Do you have a project you're like to share? \u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/220449315/", 
@@ -643,7 +616,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 62
+        }, 
+        {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. The format of the meetup is as follows: we will set up \"stations\" according to level of experience and provide you with recommended resources to work through as a group. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><br/><b>Contact policy at buildings that need access</b></p> <p><br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?\u00a0</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/ruby-on-rails\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>\n\n\n\nThis event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220177730/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytfbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1426113000000, 
+            "updated": 1424720970000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1424279774000, 
@@ -718,7 +718,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1422815256000, 
@@ -756,7 +756,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1421849941000, 
@@ -823,7 +823,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1424279774000, 
@@ -1067,7 +1067,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1423021750000, 
@@ -1143,7 +1143,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1424279774000, 
