@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1415830083000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 460
+            "yes_rsvp_count": 458
         }, 
         {
             "created": 1421849941000, 
@@ -229,7 +229,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1422552170000, 
@@ -267,7 +267,7 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -349,7 +349,7 @@ calendar({
         }, 
         {
             "created": 1423328667000, 
-            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p> <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>-Assistant Secretary of Labor Dr. David Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>-Rebecca Bilbro &amp; Bala Venkatesan: Getting into data science with OSHA (~10 min)</p> <p>-Scott Gibbons: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>-Xavier Hughes: Innovating at the Department of Labor (~10 min)</p> <p>-Ty Grandison: Expanding access to DOL data: Building APIs (~10 min)</p> <p>-Group Q &amp; A (~15 min)</p> <p><br/><b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>Appointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>He is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p><b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Bala Venkatesan - SVP of Technology at Overture Technologies</b></p> <p><br/>Bala Venkatesan is the SVP of Technology at Overture Technologies Inc, Bethesda, MD. He\u00a0is intimately involved in providing technology direction, strategic input, tactical planning\u00a0and direction. He is currently leading the effort to incorporate data analytics, semantic\u00a0analysis and data visualization capabilities. He holds a B.S in Computer Science from University of Madras and a Masters in Technology Management from University of Maryland. \u00a0Bala completed his Data Analytics Certification at Georgetown University in 2014 and currently participating in a Symposium on Semantic Extraction.</p> <p><br/><b>Scott Gibbons - Analytics at the DOL</b></p> <p>Scott Gibbons works in the Office of the Chief Evaluation Officer at the Department of Labor (DOL).\u00a0 He currently manages the analytics team within that office, as well as creating and overseeing evaluations of Departmental programs and initiatives.\u00a0 His work primarily involves providing analytical support, and building the capacity for data use and analysis, among the agencies and programs at DOL.\u00a0</p> <p><br/><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
+            "description": "<p>Come join us and the Assistant Secretary of Labor for Occupational Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p> <p>6:40 - 6:45pm Introductions</p> <p>6:45 - 8:00pm Speakers</p> <p>-Assistant Secretary of Labor Dr. David Michaels: Overview of OSHA\u2019s mission, data, and open questions (~20 min)</p> <p>-Rebecca Bilbro &amp; Bala Venkatesan: Getting into data science with OSHA (~10 min)</p> <p>-Scott Gibbons: Accessing OSHA data \u2013 Tips and tricks (~10 min)</p> <p>-Xavier Hughes: Innovating at the Department of Labor (~10 min)</p> <p>-Ty Grandison: Expanding access to DOL data: Building APIs (~10 min)</p> <p>-Group Q &amp; A (~15 min)</p> <p><br/><b>Dr. David Michaels - Assistant Secretary of Labor for\u00a0Occupational Safety and Health</b></p> <p>Appointed by President Barack Obama and unanimously confirmed by the United States Senate, David Michaels, PhD, MPH, became the 12th Assistant Secretary of Labor for Occupational Safety and Health in December, 2009.</p> <p>As the longest serving Assistant Secretary in OSHA's history, he has worked to strengthen the agency's enforcement in high hazard industries, promote common sense worker protection programs and standards, expand compliance assistance provided to small employers, improve OSHA's whistleblower protection program, and increase outreach to the vulnerable populations who are at greatest risk for work-related injury and illness. He has also increased OSHA's focus and capabilities in the areas of data analysis and program evaluation.</p> <p>Dr. Michaels is an epidemiologist, currently on leave from his position as Professor of Environmental and Occupational Health at the George Washington University School of Public Health. He is the author of studies examining the health of construction workers, printers, bus drivers and other occupations, as well as of numerous publications on science and regulatory policy.</p> <p>From 1998 to 2001, Dr. Michaels served as Assistant Secretary of Energy for Environment, Safety and Health. In that position, he was the chief architect of the Energy Employees Occupational Illness Compensation Program, the historic initiative to compensate nuclear weapons workers who contracted occupational illnesses as a result of exposure to radiation, beryllium and other hazards. The program has provided more than $10 billion in compensation to sick workers and the families of deceased workers.</p> <p>In 2006, Dr. Michaels was awarded the American Association for the Advancement of Science's Scientific Freedom and Responsibility Award, and, in 2009, the John P. McGovern Science and Society Award given by Sigma Xi, the Scientific Research Society, for his work in scientific integrity and for gaining compensation for nuclear weapons workers.</p> <p>He is a graduate of the City College of New York, and holds an MPH (Master of Public Health) and PhD from Columbia University.</p> <p><b>Dr. Rebecca Bilbro - Data Scientist at OSHA</b></p> <p>Dr. Rebecca Bilbro is a data scientist at the Occupational Safety and Health Administration (OSHA). She is currently serving as Special Assistant to OSHA's Deputy Assistant Secretary, where her work focuses on assessing and optimizing strategies for agency enforcement and performance management. After obtaining a Professional Certification in Data Analytics from Georgetown University, she joined the research team at District Data Labs and is concurrently researching techniques in semantic network extraction. Before joining OSHA in 2011, Dr. Bilbro earned her doctorate from the University of Illinois, Urbana-Champaign, where she conducted research on communication practices in Engineering. She holds a Bachelor's degree from Skidmore College, where she majored in Mathematics and English.\u00a0</p> <p><b>Bala Venkatesan - SVP of Technology at Overture Technologies</b></p> <p><br/>Bala Venkatesan is the SVP of Technology at Overture Technologies Inc, Bethesda, MD. He\u00a0is intimately involved in providing technology direction, strategic input, tactical planning\u00a0and direction. He is currently leading the effort to incorporate data analytics, semantic\u00a0analysis and data visualization capabilities. He holds a B.S in Computer Science from University of Madras and a Masters in Technology Management from University of Maryland. \u00a0Bala completed his Data Analytics Certification at Georgetown University in 2014 and currently participating in a Symposium on Semantic Extraction.</p> <p><br/><b>Scott Gibbons - Analytics at the Department of Labor</b></p> <p>Scott Gibbons works in the Office of the Chief Evaluation Officer at the Department of Labor (DOL).\u00a0 He currently manages the analytics team within that office, as well as creating and overseeing evaluations of Departmental programs and initiatives.\u00a0 His work primarily involves providing analytical support, and building the capacity for data use and analysis, among the agencies and programs at DOL.\u00a0</p> <p><br/><b>Xavier Hughes - Chief Innovation Officer for the Department of Labor</b></p> <p>As the Chief Innovation Officer for the U.S. Department of Labor, Xavier oversees the research &amp; development agenda for open government, the introduction of new technologies to jump-start the workforce system, enhance agency customer service, and the use of open data ecosystems to protect the public and encourage problem solving. He was born in San Sebastian, Spain and was raised in Miami, Florida.</p> <p><br/><b>Dr. Tyrone Grandison - Presidential Innovation Fellow at the Department of Labor</b></p> <p><br/>Dr. Tyrone Grandison is a Presidential Innovation Fellow at the Department of Labor. He focuses on advancing the status quo in the Department's\u00a0workforce, skills and training initiatives.\u00a0Dr. Grandison is a Master Inventor,\u00a0a Distinguished Engineer of the Association of Computing Machinery\u00a0(ACM), a Senior Member of the Institute of Electrical and Electronics\u00a0Engineers (IEEE), a Fellow of the British Computer Society (BCS), a\u00a0Fellow of the Healthcare Information and Management Systems Society\u00a0(HIMSS), has been recognized by the National Society of Black Engineers\u00a0(as Pioneer of the Year in 2009). \u00a0He received a B.S. degree in Computer Studies (Computer Science and Economics) from the University of the West Indies in 1997, a M.S. degree in Software Engineering in 1998 and a Ph.D. degree in Computer Science from the Imperial College of Science, Technology &amp; Medicine in London (2003).\u00a0More info available at\u00a0<a href=\"http://www.tyronegrandison.org/bio.html\"><a href=\"http://www.tyronegrandison.org/bio.html\" class=\"linkified\">http://www.tyronegrandison.org/bio.html</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/220371581/", 
             "group": {
@@ -370,7 +370,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1425510000000, 
-            "updated": 1424390891000, 
+            "updated": 1424795379000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1299 Pennsylvania Avenue, NW Suite 700", 
@@ -386,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1417881835000, 
@@ -425,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1326383071000, 
@@ -465,7 +465,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1424539258000, 
@@ -545,7 +545,7 @@ calendar({
         }, 
         {
             "created": 1423625127000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and beer, with speakers starting at 7:00.</p> <p>Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their\u00a0new mobile app for doing ad-hoc bicycle and pedestrian traffic counts..</p> <p><br/>\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from DC's new automatic bike counters as well as their\u00a0manual count program.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/johnelliottdc\">John Elliott</a> from <a href=\"https://www.socialtables.com/\">Social Tables</a> will demo his <a href=\"http://waybot.tumblr.com/\">Waybot</a> hardware bicycle traffic counter to display bike traffic counts live in the browser.</p> <p><br/>Do you have a project you're like to share? \u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and beer, with speakers starting at 7:00.\u00a0Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their app for ad-hoc bike and pedestrian counts.</p> <p><br/>\u2022\u00a0Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> web site.</p> <p><br/>\u2022\u00a0Thomas Stokell will show us Atlanta's <a href=\"http://www.lovetoride.net/\">Love to Ride</a> program.</p> <p><br/>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from the new automatic bike counters and manual counts.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/johnelliottdc\">John Elliott</a>\u00a0will demo his <a href=\"http://waybot.tumblr.com/\">Waybot</a> hardware bicycle traffic counter to display bike traffic counts live in the browser.</p> <p><br/>\u2022 Eric Weis of the\u00a0<a href=\"http://www.greenway.org/\">East Coast Greenway Alliance</a> will show us their\u00a0smartphone app and their web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.</p> <p><br/>Do you have a project you're like to share? Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/220449315/", 
             "group": {
                 "created": 1384372275000, 
@@ -564,7 +564,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1426113000000, 
-            "updated": 1424463630000, 
+            "updated": 1424795938000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "999 9th St, NW ", 
@@ -581,7 +581,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1421849941000, 
@@ -1072,6 +1072,45 @@ calendar({
             "yes_rsvp_count": 20
         }, 
         {
+            "created": 1424780298000, 
+            "description": "<p>Saturday? Yup, we are changing things up and swapping out empenadas for bagels and other brunchy foods. Not only that, but we are joining forces with <a href=\"http://www.meetup.com/Data-Business-DC/\">Data Innovation DC</a> and <a href=\"http://www.districtdatalabs.com/\">District Data Labs</a> to bring you this event! (You can register either here or at DIDC, but for the sake of headcount, please don't sign up in both places.)</p> <p>Eight teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning healthcare, economics, the environment, and more. Learn from their experience implementing a Deep Learning network on commercially available hardware, on deploying a D3.js visualization web app using Heroku, or on building a desktop GUI with Python... plus much more! Enjoy brunch and drinks on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner!\u00a0</p> <p>Please note that the event will be at GW but we have not finalized the exact space yet (so the address may change).</p> <p><br/><b>Agenda:</b></p> <p>11:00 am -- Brunch and mingling</p> <p>11:30 am -- Presentations!</p> <p>1:00pm -- Go out for post-event mimosas (location TBA)</p> <p><b>About our teams:</b></p> <p><b>SeeFish</b>: Kathleen, Matt, and Chris are entering the Kaggle National Data Science Bowl, for which they must analyze underwater images to quantify plankton populations using Deep Learning systems.</p> <p><b>Group D</b>: Constance, Vinoth, and Mike are developing an algorithm to accurately categorize overall ratings by the main contributing factor (e.g. service, food quality) as identified by the text in the corresponding review using a Yelp dataset.</p> <p><i>In collaboration with the Department of Labor:</i></p> <p><b>LaborMatch</b>: Yunan, Keegan and Ali are combining BLS data with data via social media APIs to visualize skills-based supply/demand by geographic region and predict future trends in skill development using time-series and regression analysis.</p> <p><b>OKJK</b>: Jim, Kathleen, and Oliver are working to form a suite of compressed economic indicators by geographic region using BLS data to improve understanding of economic health.</p> <p><b>PPM-Data</b>: Patrick, Mehdi, and Paul are working to predict job growth using BLS economic data and regression analysis.</p> <p><b>Group B</b>: Danielle, Elaine, Jing and Will are visualizing pockets of excess demand by industry, skill and resource using BLS data.</p> <p><i>In collaboration with HIMMS:</i></p> <p><b>The Synthesizers</b>: Jamie, Kenneth and Bohan are working with HIMMS to add functionality to an open source data synthesizer to generate synthetic patient data sets with variable corruption by field.</p> <p><i>In collaboration with ZeroCycle</i>:</p> <p><b>The Planeteers</b>: Tony, Eyuel and Kate are optimizing attribution of recycling behavior to hyper local geographical regions using ZeroCycle and Census data.</p> <p>\n\n\n<b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/decisionsciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://www.informit.com/\">Pearson/InformIT</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, and\u00a0<a href=\"http://novetta.com/\">Novetta Solutions</a>. (Would your organization like to sponsor too? Please get in touch!)</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/220727033/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "220727033", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Brunch and Project Pitchfest!", 
+            "status": "upcoming", 
+            "time": 1428159600000, 
+            "updated": 1424780298000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 66
+        }, 
+        {
             "created": 1424447514000, 
             "description": "<p>Saturday? Yup, we are changing things up and swapping out pizza for bagels and other brunchy foods. Not only that, but we are joining forces with Data Science DC and District Data Labs to bring you this event!</p> <p>Please note that the event will be at GW but we have not finalized the exact space yet (so the address will likely change).</p> <p>Eight teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning healthcare, economics, the environment, and more. Learn from their experience implementing a Deep Learning network on commercially available hardware, on deploying a D3.js visualization web app using Heroku, or on building a desktop GUI with Python... plus much more! Enjoy brunch and drinks on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! About our teams:</p> <p>SeeFish: Kathleen, Matt, and Chris are entering the Kaggle National Data Science Bowl, for which they must analyze underwater images to quantify plankton populations using Deep Learning systems.</p> <p>Group D: Constance, Vinoth, and Mike are developing an algorithm to accurately categorize overall ratings by the main contributing factor (e.g. service, food quality) as identified by the text in the corresponding review using a Yelp dataset.</p> <p>In collaboration with the Department of Labor:</p> <p>LaborMatch: Yunan, Keegan and Ali are combining BLS data with data via social media APIs to visualize skills-based supply/demand by geographic region and predict future trends in skill development using time-series and regression analysis.</p> <p>OKJK: Jim, Kathleen, and Oliver are working to form a suite of compressed economic indicators by geographic region using BLS data to improve understanding of economic health.</p> <p>PPM-Data: Patrick, Mehdi, and Paul are working to predict job growth using BLS economic data and regression analysis.</p> <p>Group B: Danielle, Elaine, Jing and Will are visualizing pockets of excess demand by industry, skill and resource using BLS data.</p> <p>In collaboration with HIMMS:</p> <p>The Synthesizers: Jamie, Kenneth and Bohan are working with HIMMS to add functionality to an open source data synthesizer to generate synthetic patient data sets with variable corruption by field.</p> <p>In collaboration with ZeroCycle:</p> <p>The Planeteers: Tony, Eyuel and Kate are optimizing attribution of recycling behavior to hyper local geographical regions using ZeroCycle and Census data.</p>", 
             "duration": 7200000, 
@@ -1108,7 +1147,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1424279774000, 
@@ -1423,7 +1462,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1421849941000, 
