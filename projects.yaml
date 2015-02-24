@@ -19,12 +19,12 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 679,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 681,
     link: 'https://github.com/jrunningen', name: jrunningen}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 85,
+    link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 71,
-    link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1019782?v=3', contributions: 17,
     link: 'https://github.com/lankyfrenchman', name: lankyfrenchman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4029733?v=3', contributions: 16,
@@ -73,8 +73,8 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 182941]
-  - [HTML, 66236]
+  - [Ruby, 184520]
+  - [HTML, 68099]
   - [CSS, 13575]
   - [Puppet, 5537]
   - [CoffeeScript, 2537]
@@ -82,12 +82,12 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 25
+  open_issues: 29
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-19T02:38:19Z'
+  pushed_at: '2015-02-24T04:17:34Z'
   size: 22487
-  updated_at: '2015-02-19T02:38:20Z'
+  updated_at: '2015-02-24T04:17:34Z'
   watchers: 18
 - activity: [6, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3,
     6, 5, 1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
@@ -405,8 +405,8 @@
   size: 2264
   updated_at: '2015-02-23T16:59:23Z'
   watchers: 14
-- activity: [6, 4, 5, 6, 6, 4, 6, 5, 7, 5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6,
-    5, 5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0,
+- activity: [6, 4, 5, 6, 5, 5, 6, 5, 7, 4, 6, 7, 4, 5, 7, 29, 10, 5, 5, 4, 5, 9, 5,
+    6, 4, 6, 4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 3, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -468,9 +468,9 @@
   size: 2932
   updated_at: '2015-01-15T03:32:41Z'
   watchers: 2
-- activity: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 6, 3,
-    0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0,
-    1, 9, 20]
+- activity: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 7, 2,
+    6, 2, 6, 7, 8, 13, 0, 10, 0, 7, 1, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0,
+    3, 7, 20]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 327,
@@ -503,7 +503,7 @@
   watchers: 16
 - activity: [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 1]
+    0, 1, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 14,
