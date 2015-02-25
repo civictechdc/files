@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1415830083000, 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1422552170000, 
@@ -191,8 +191,8 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 100
+            "waitlist_count": 4, 
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1424279774000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1421849941000, 
@@ -269,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1423328667000, 
@@ -310,7 +310,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1417881835000, 
@@ -349,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1326383071000, 
@@ -427,7 +427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1424279774000, 
@@ -506,7 +506,7 @@ calendar({
         }, 
         {
             "created": 1423625127000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and beer, with speakers starting at 7:00.\u00a0Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/johnelliottdc\">John Elliott</a>\u00a0will demo his\u00a0<a href=\"http://waybot.tumblr.com/\">Waybot</a>\u00a0hardware bicycle traffic counter to display bike traffic counts live in the browser.\u00a0</p> <p>\u2022\u00a0Hans Lellelid will demo his\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a>\u00a0web site.\u00a0</p> <p>\u2022\u00a0Thomas Stokell will show us Atlanta's\u00a0<a href=\"http://www.lovetoride.net/\">Love to Ride</a>\u00a0program.\u00a0</p> <p>\u2022\u00a0Steve Sanders will show how the\u00a0<a href=\"http://www1.umn.edu/pts/bike/\">University of Minnesota</a>\u00a0uses RFID technology to record and reward bike trips.\u00a0</p> <p><br/>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their app for ad-hoc bike and pedestrian counts.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from the new automatic bike counters and manual counts.\u00a0</p> <p>\u2022 Eric Weis of the\u00a0<a href=\"http://www.greenway.org/\">East Coast Greenway Alliance</a> will show us their\u00a0smartphone app and their web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.\u00a0</p> <p>Do you have a project you're like to share? Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers starting at 7:00. We will be in\u00a0Congressional Ballroom A.\u00a0Our speakers so far include:</p> <p>\u2022\u00a0Ola\u00a0G\u00f6ransson of the\u00a0<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\">Embassy of Sweden</a>\u00a0will show us the\u00a0<a href=\"http://www.hovding.com/\">H\u00f6vding</a>, the\u00a0\"invisible\" bike helmet.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/johnelliottdc\">John Elliott</a>\u00a0will demo his\u00a0<a href=\"http://waybot.tumblr.com/\">Waybot</a>\u00a0hardware bicycle traffic counter to display bike traffic counts live in the browser.\u00a0</p> <p>\u2022\u00a0Hans Lellelid will demo his\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a>\u00a0web site.\u00a0</p> <p>\u2022\u00a0Thomas Stokell will show us Atlanta's\u00a0<a href=\"http://www.lovetoride.net/\">Love to Ride</a>\u00a0program.\u00a0</p> <p>\u2022\u00a0Steve Sanders will show how the\u00a0<a href=\"http://www1.umn.edu/pts/bike/\">University of Minnesota</a>\u00a0uses RFID technology to record and reward bike trips.\u00a0</p> <p><br/>\u2022\u00a0Tracy Hadden Loh of the\u00a0<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a> will show us their app for ad-hoc bike and pedestrian counts.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle Program</a> will share data from the new automatic bike counters and manual counts.\u00a0</p> <p>\u2022 Eric Weis of the\u00a0<a href=\"http://www.greenway.org/\">East Coast Greenway Alliance</a> will demo their\u00a0smartphone app and their web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.\u00a0</p> <p>Do you have a project you're like to share? Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>\u00a0to be added to the agenda.</p> <p>We are being hosted by the\u00a0<a href=\"http://bikeleague.org/\">League of American Bicyclists</a>\u00a0at the\u00a0<a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>. (There is no need to register for the summit in order to attend this meetup.) Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and\u00a0<a href=\"https://www.twilio.com/\">Twilio</a>.</p> <p>Visit\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a> to see what was presented at previous events. Read summaries at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/220449315/", 
             "group": {
                 "created": 1384372275000, 
@@ -522,10 +522,10 @@ calendar({
             "id": "220449315", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night III", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1426113000000, 
-            "updated": 1424834449000, 
+            "updated": 1424878978000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "999 9th St, NW ", 
@@ -542,7 +542,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1421849941000, 
@@ -1069,7 +1069,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1424447514000, 
@@ -1108,7 +1108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1424279774000, 

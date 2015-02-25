@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -161,7 +161,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1422552170000
   description: "<p>Are you tired of losing your fantasy football league? Do you think\
     \ there must be a better way to create that perfect lineup? If so, please join\
@@ -223,8 +223,8 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 5
-  yes_rsvp_count: 100
+  waitlist_count: 4
+  yes_rsvp_count: 99
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -273,7 +273,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -317,7 +317,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 12
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p>\
@@ -423,7 +423,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 136
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -456,7 +456,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -516,7 +516,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -586,9 +586,9 @@ other:
   yes_rsvp_count: 2
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
-    \ visualizations, and gadgets. Doors open at 6:30 for snacks (tentative!) and\
-    \ beer, with speakers starting at 7:00.\_Our speakers so far include:</p> <p>\u2022\
-    \_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
+    \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
+    \ starting at 7:00. We will be in\_Congressional Ballroom A.\_Our speakers so\
+    \ far include:</p> <p>\u2022\_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
     >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
     >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\u2022\_<a href=\"https://twitter.com/johnelliottdc\"\
     >John Elliott</a>\_will demo his\_<a href=\"http://waybot.tumblr.com/\">Waybot</a>\_\
@@ -604,9 +604,9 @@ other:
     \ Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle\
     \ Program</a> will share data from the new automatic bike counters and manual\
     \ counts.\_</p> <p>\u2022 Eric Weis of the\_<a href=\"http://www.greenway.org/\"\
-    >East Coast Greenway Alliance</a> will show us their\_smartphone app and their\
-    \ web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.\_</p> <p>Do\
-    \ you have a project you're like to share? Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
+    >East Coast Greenway Alliance</a> will demo their\_smartphone app and their web-based\
+    \ <a href=\"http://map.greenway.org/\">Trip Planner</a>.\_</p> <p>Do you have\
+    \ a project you're like to share? Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael</a>\_to be added to the agenda.</p> <p>We are being hosted by the\_<a\
     \ href=\"http://bikeleague.org/\">League of American Bicyclists</a>\_at the\_\
     <a href=\"http://bikeleague.org/content/summit-2015\">National Bike Summit</a>.\
@@ -630,17 +630,17 @@ other:
   id: '220449315'
   maybe_rsvp_count: 0
   name: Bike Hack Night III
-  rsvp_limit: 100
+  rsvp_limit: 150
   status: upcoming
   time: 1426113000000
-  updated: 1424834449000
+  updated: 1424878978000
   utc_offset: -14400000
   venue: {address_1: '999 9th St, NW ', city: Washington, country: us, id: 854481,
     lat: 38.901676000000002, lon: -77.023495999999994, name: Renaissance Hotel, phone: +1
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 100
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1279,7 +1279,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 92
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1332,7 +1332,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
