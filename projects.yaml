@@ -1,6 +1,6 @@
-- activity: [11, 0, 0, 0, 4, 6, 1, 4, 0, 32, 1, 13, 7, 18, 15, 99, 56, 37, 5, 17,
-    4, 1, 0, 1, 9, 0, 9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19, 27, 45, 8, 1, 9,
-    15, 7, 26, 19, 24, 70, 58, 8]
+- activity: [11, 0, 0, 2, 8, 0, 1, 4, 2, 31, 1, 16, 4, 18, 30, 89, 59, 30, 3, 17,
+    4, 1, 0, 1, 9, 5, 4, 3, 0, 6, 3, 0, 8, 0, 7, 12, 27, 37, 13, 32, 38, 7, 1, 10,
+    20, 1, 26, 20, 29, 81, 50, 15]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -82,7 +82,7 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 29
+  open_issues: 30
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-24T04:17:34Z'
@@ -237,8 +237,8 @@
   size: 40024
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [2, 1, 0, 4, 0, 0, 0, 3, 6, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 3, 3,
-    3, 6, 4, 3, 0, 9, 11, 8, 2, 10, 11, 2, 10, 13, 8, 10, 0, 1, 9, 4, 0, 2, 0, 10,
+- activity: [2, 0, 0, 4, 0, 0, 0, 3, 8, 5, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 6, 0,
+    3, 6, 5, 2, 2, 10, 12, 4, 2, 15, 6, 2, 10, 13, 14, 4, 0, 1, 9, 4, 0, 2, 1, 9,
     0, 0, 6, 1, 4]
   civic_json:
     bornAt: Code for DC
@@ -316,97 +316,11 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-21T03:16:43Z'
-  size: 17397
+  size: 17401
   updated_at: '2015-02-23T16:59:25Z'
   watchers: 16
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
-  civic_json: null
-  contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 8,
-    link: 'https://github.com/justgrimes', name: justgrimes}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 2,
-    link: 'https://github.com/leahbannon', name: leahbannon}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
-    link: 'https://github.com/stvnrlly', name: stvnrlly}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 1,
-    link: 'https://github.com/mattbailey0', name: mattbailey0}
-  contributors_count: 4
-  created_at: '2014-05-19T01:58:01Z'
-  default_branch: master
-  description: This repository contains the Code of Conduct used in the Code for DC
-    community and Code for DC related events.
-  forks: 0
-  help_wanted: []
-  homepage: null
-  html_url: https://github.com/codefordc/code-of-conduct
-  id: 19926261
-  languages: []
-  main_language: null
-  name: Code of Conduct
-  open_issues: 3
-  owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
-    type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-09-11T11:56:39Z'
-  size: 244
-  updated_at: '2014-09-26T20:31:51Z'
-  watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 0, 1, 0, 0, 0, 1, 0, 0, 0,
-    0, 10, 0, 5, 1, 1, 2, 4, 1, 1, 3, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 0,
-    0, 0, 0]
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Guide}
-    - {category: Meta project}
-    communityPartner: {}
-    contact: {email: '', name: '', twitter: '@stvnrlly'}
-    geography: DC
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: Guide translation}
-    - {need: Resource submissions}
-    - {need: User testing}
-    politicalEntity: {}
-    status: Beta
-    thumbnailUrl: ''
-    type: Guide
-  contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 44,
-    link: 'https://github.com/stvnrlly', name: stvnrlly}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 4,
-    link: 'https://github.com/justgrimes', name: justgrimes}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 1,
-    link: 'https://github.com/ajschumacher', name: ajschumacher}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 1,
-    link: 'https://github.com/leahbannon', name: leahbannon}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/8875544?v=3', contributions: 1,
-    link: 'https://github.com/muttbot', name: muttbot}
-  contributors_count: 5
-  created_at: '2014-05-17T14:31:30Z'
-  default_branch: master
-  description: How to do things
-  forks: 7
-  help_wanted: []
-  homepage: ''
-  html_url: https://github.com/codefordc/guides
-  id: 19888517
-  languages:
-  - [Python, 33]
-  - [Ruby, 30]
-  main_language: Python
-  name: Code for DC Guides
-  open_issues: 4
-  owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
-    type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2014-12-31T04:15:03Z'
-  size: 2264
-  updated_at: '2015-02-23T16:59:23Z'
-  watchers: 14
-- activity: [6, 4, 5, 6, 5, 5, 6, 5, 7, 4, 6, 7, 4, 5, 7, 29, 10, 5, 5, 4, 5, 9, 5,
-    6, 4, 6, 4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 3, 0, 0, 0, 0,
+- activity: [6, 4, 5, 6, 4, 6, 6, 5, 7, 4, 6, 7, 4, 5, 7, 32, 6, 6, 4, 5, 5, 8, 6,
+    6, 3, 7, 3, 5, 5, 7, 6, 6, 5, 7, 9, 6, 6, 6, 6, 4, 7, 6, 5, 3, 2, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -468,9 +382,9 @@
   size: 2932
   updated_at: '2015-01-15T03:32:41Z'
   watchers: 2
-- activity: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 7, 2,
-    6, 2, 6, 7, 8, 13, 0, 10, 0, 7, 1, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0,
-    3, 7, 20]
+- activity: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0,
+    8, 0, 8, 9, 5, 12, 0, 10, 4, 4, 0, 0, 0, 1, 0, 1, 0, 0, 3, 0, 8, 0, 0, 0, 0, 0,
+    5, 7, 18]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 327,
@@ -499,8 +413,8 @@
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2015-02-22T20:27:22Z'
   size: 33006
-  updated_at: '2015-02-22T20:27:24Z'
-  watchers: 16
+  updated_at: '2015-02-24T19:29:17Z'
+  watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 1, 0]
@@ -592,8 +506,8 @@
   size: 592
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 3, 0,
-    0, 37, 6, 7, 0, 16, 14, 16, 10, 4, 14, 0, 13, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 4,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 16, 2, 1, 2, 0,
+    0, 41, 2, 7, 0, 18, 16, 12, 10, 4, 14, 6, 7, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 4,
     0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -766,37 +680,6 @@
   updated_at: '2015-01-19T17:19:53Z'
   watchers: 11
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
-  civic_json: null
-  contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5669259?v=3', contributions: 3,
-    link: 'https://github.com/gxespino', name: gxespino}
-  contributors_count: 1
-  created_at: '2014-11-13T01:27:42Z'
-  default_branch: master
-  description: 'The DC Healthcare Issues acts as an outlet for DC healthcare workers
-    to report unsafe working conditions within their organizations without fear of
-    reprisal. '
-  forks: 1
-  help_wanted: []
-  homepage: null
-  html_url: https://github.com/gxespino/dc_healthcare_issues
-  id: 26564654
-  languages:
-  - [Ruby, 15379]
-  - [CSS, 683]
-  - [JavaScript, 664]
-  main_language: Ruby
-  name: DC Healthcare Issues
-  open_issues: 0
-  owner: {avatar: 'https://avatars.githubusercontent.com/u/5669259?v=3', name: gxespino,
-    type: User, url: 'https://github.com/gxespino'}
-  pushed_at: '2014-11-13T01:40:00Z'
-  size: 128
-  updated_at: '2014-11-13T01:31:13Z'
-  watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15,
     25, 0, 0]
   civic_json: null
@@ -823,4 +706,95 @@
   pushed_at: '2015-02-05T13:57:35Z'
   size: 588
   updated_at: '2015-02-05T13:57:31Z'
+  watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 6, 10]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 13,
+    link: 'https://github.com/evonfriedland', name: evonfriedland}
+  contributors_count: 1
+  created_at: '2015-02-14T06:39:32Z'
+  default_branch: master
+  description: R Shiny CSV Geocoder
+  forks: 0
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/evonfriedland/geocoder
+  id: 30789409
+  languages:
+  - [R, 5776]
+  main_language: R
+  name: Geocoder in R
+  open_issues: 1
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
+    type: User, url: 'https://github.com/evonfriedland'}
+  pushed_at: '2015-02-23T04:27:46Z'
+  size: 140
+  updated_at: '2015-02-23T04:27:46Z'
+  watchers: 1
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 61]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 62,
+    link: 'https://github.com/evonfriedland', name: evonfriedland}
+  contributors_count: 1
+  created_at: '2015-02-19T05:26:29Z'
+  default_branch: master
+  description: ''
+  forks: 0
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/evonfriedland/booksfordc
+  id: 31002646
+  languages:
+  - [Python, 5138]
+  - [JavaScript, 2136]
+  main_language: Python
+  name: Books for DC
+  open_issues: 0
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
+    type: User, url: 'https://github.com/evonfriedland'}
+  pushed_at: '2015-02-25T03:58:03Z'
+  size: 356
+  updated_at: '2015-02-25T03:58:03Z'
+  watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 26]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 12,
+    link: 'https://github.com/cmgiven', name: cmgiven}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 7,
+    link: 'https://github.com/bbrotsos', name: bbrotsos}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9620463?v=3', contributions: 6,
+    link: 'https://github.com/61quisberth', name: 61quisberth}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1724197?v=3', contributions: 2,
+    link: 'https://github.com/curtismorales', name: curtismorales}
+  contributors_count: 4
+  created_at: '2015-02-21T14:30:33Z'
+  default_branch: master
+  description: Mapping the condition of DC Public Schools facilities
+  forks: 1
+  help_wanted: []
+  homepage: ''
+  html_url: https://github.com/cmgiven/dcps-facilities
+  id: 31128008
+  languages:
+  - [JavaScript, 6405]
+  - [HTML, 6375]
+  - [CSS, 4049]
+  - [Ruby, 966]
+  main_language: JavaScript
+  name: DCPS Facility Conditions
+  open_issues: 0
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
+    type: User, url: 'https://github.com/cmgiven'}
+  pushed_at: '2015-02-24T03:06:24Z'
+  size: 0
+  updated_at: '2015-02-24T03:06:26Z'
   watchers: 0

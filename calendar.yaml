@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -117,105 +117,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 10
 other:
-- created: 1422562017000
-  description: "<p>We will be joining the folks from<a href=\"http://www.missingmaps.org/\"\
-    > MissingMaps </a>for a Mardi Gras themed mapathon. This will be a great opportunity\
-    \ to learn more about OpenStreetMap and to contribute some work to very needy\
-    \ causes.\_</p> <p>You need to register via the <a href=\"http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888\"\
-    >Eventbrite</a> page for this, not just here on Meetup, so be sure to do that!\_\
-    </p> <p>Show up at 5:30 to learn all about mapping &amp; contributing to OpenStreetMap\
-    \ or just come at 6pm to contribute to the mapping party! There will also be fun\
-    \ Mardi Gras themed goodies, including King Cake!</p> <p>And as always, beginners\
-    \ VERY welcome and please bring a Laptop!</p>"
-  event_url: http://www.meetup.com/Maptime-DC/events/220169586/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
-      hackers}
-  headcount: 0
-  id: '220169586'
-  maybe_rsvp_count: 0
-  name: Missing Maps mapathon
-  status: upcoming
-  time: 1424817000000
-  updated: 1424187168000
-  utc_offset: -18000000
-  venue: {address_1: '2025 E St NW ', city: Washington, country: us, id: 23605627,
-    lat: 38.896427000000003, lon: -77.045806999999996, name: American Red Cross, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 54
-- created: 1423106183000
-  description: "<p>For the February DSDC, we're pleased to have two presentations\
-    \ on applications of machine learning to real-world issues in cities! Matt Conway\
-    \ will talk about his Data Science for Social Good Fellowship work, where he applied\
-    \ Data Science techniques to properties in Memphis, and Jorge Mejia from UMD will\
-    \ talk about a project that used Natural Language to help indentify restaurants\
-    \ at risk of closure.\_</p> <p>Do you have a project that uses machine learning\
-    \ to understand your city? Please let us know -- we'd love to publish a roundup\
-    \ of other work in this domain on the DC2 blog!</p> <p><b>Agenda:</b></p> <p>\u2022\
-    \_6:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction,\
-    \ Announcements, Give-aways</p> <p>\u2022\_7:15pm -- Presentations and Discussion</p>\
-    \ <p>\u2022\_8:30pm -- Data Drinks (<i>Tonic,\_2036 G St NW</i>)</p> <p><b>Talks:</b></p>\
-    \ <p>Identifying property distress and abandonment with administrative data</p>\
-    \ <p><br/><i>Bio</i>: Matthew Wigginton Conway is a recent graduate of the University\
-    \ of California, Santa Barbara, Department of Geography. This summer, he was fellow\
-    \ in the Data Science for Social Good program at the University of Chicago, where\
-    \ he worked with an interdisciplinary team applying data science to issues of\
-    \ housing distress and abandonment in Memphis, Tennessee. He is now a transport\
-    \ analyst and software developer in Washington, DC.</p> <p><i>Abstract</i>: Many\
-    \ American cities are facing issues of housing distress and abandonment as the\
-    \ economy evolves. One of the issues faced by these cities is simply knowing where\
-    \ distressed properties are. This information is generally collected using windshield\
-    \ surveys, driving down every street in the city and noting distressed properties.\
-    \ Since these surveys are expensive, they cannot be performed often. Our team\
-    \ applied a random forest to identify distressed properties based on administrative\
-    \ data that is already collected annually, such as tax assessments and building\
-    \ permits.</p> <p><br/>More Than Just Words: On Discovering Themes in Online Reviews\
-    \ to Explain Restaurant Closures</p> <p><i>Bio</i>: Jorge Mejia is fourth-year\
-    \ PhD candidate in the Decision, Operations and Information Technologies (DO&amp;IT)\
-    \ Department at the Robert H. Smith School of Business at the University of Maryland.\
-    \ He holds a BS in Computer Engineering and a MS in Electronic Engineering from\
-    \ Georgia Institute of Technology. Jorge's\_research focuses on social contagion\
-    \ -- measuring and managing how information diffusion affects consumer behavior\
-    \ and business outcomes. Please visit a recent profile from the\_<a href=\"http://www.rhsmith.umd.edu/news/phd-candidate-profile-jorge-mejia\"\
-    >University of Maryland.</a></p> <p><i>Abstract</i>: In this study, we complement\
-    \ the existing research on online business reviews by proposing a novel use of\
-    \ modern text analysis methods to uncover the semantic structure of online reviews\
-    \ and assess their impact on the survival of merchants in the marketplace. We\
-    \ analyze online reviews from 2005 to 2013 for restaurants in a major metropolitan\
-    \ area in the United States and find that variables capturing semantic structure\
-    \ within review text are important predictors of the survival of restaurants,\
-    \ a relationship that has not been explored in the extant literature. We combined\
-    \ machine learning approaches and econometric modeling to derive predictive models\
-    \ that are significantly better than models that simply include numerical information\
-    \ from reviews such as review valence, volume, word counts and readability.\_\
-    </p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/decisionsciences/\"\
-    >GWU Department of Decision Sciences</a>,\_<a href=\"http://www.informit.com/\"\
-    >Pearson/InformIT</a>,\_<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\
-    \ <a href=\"http://datamininglab.com/\">Elder Research</a>, and\_<a href=\"http://novetta.com/\"\
-    >Novetta Solutions</a>. (Would your organization like to sponsor too? Please get\
-    \ in touch!)</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-DC/events/220316099/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
-    who: Data Scientists}
-  headcount: 0
-  id: '220316099'
-  maybe_rsvp_count: 0
-  name: Machine Learning and Cities
-  rsvp_limit: 500
-  status: upcoming
-  time: 1424820600000
-  updated: 1424740739000
-  utc_offset: -18000000
-  venue: {address_1: 1957 E Street, city: Washington, country: us, id: 23619989, lat: 38.896275000000003,
-    lon: -77.044205000000005, name: 'GWU, Elliot School, Room 113', repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 445
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -522,7 +423,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 129
+  yes_rsvp_count: 130
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -567,17 +468,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcytfbgb
   maybe_rsvp_count: 0
-  name: 'GeoDC March: Storytelling with Maps!'
+  name: 'GeoDC March: TBD'
   status: upcoming
   time: 1425513600000
-  updated: 1418763666000
+  updated: 1424830216000
   utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -689,22 +590,22 @@ other:
     \ beer, with speakers starting at 7:00.\_Our speakers so far include:</p> <p>\u2022\
     \_Ola\_G\xF6ransson of the\_<a href=\"http://www.houseofsweden.com/en/Embassy-of-Sweden/\"\
     >Embassy of Sweden</a>\_will show us the\_<a href=\"http://www.hovding.com/\"\
-    >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\u2022\_Tracy Hadden Loh\
-    \ of the\_<a href=\"http://www.railstotrails.org/\">Rails-to-Trails Conservancy</a>\
-    \ will show us their app for ad-hoc bike and pedestrian counts.</p> <p><br/>\u2022\
-    \_Hans Lellelid will demo his <a href=\"http://freezingsaddles.com/\">Freezing\
-    \ Saddles</a> web site.</p> <p><br/>\u2022\_Thomas Stokell will show us Atlanta's\
-    \ <a href=\"http://www.lovetoride.net/\">Love to Ride</a> program.</p> <p><br/>\u2022\
-    \ <a href=\"https://twitter.com/bikepedantic\">Darren Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\"\
-    >DDOT's Bicycle Program</a> will share data from the new automatic bike counters\
-    \ and manual counts.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/johnelliottdc\"\
-    >John Elliott</a>\_will demo his <a href=\"http://waybot.tumblr.com/\">Waybot</a>\
-    \ hardware bicycle traffic counter to display bike traffic counts live in the\
-    \ browser.</p> <p><br/>\u2022 Eric Weis of the\_<a href=\"http://www.greenway.org/\"\
+    >H\xF6vding</a>, the\_\"invisible\" bike helmet.</p> <p>\u2022\_<a href=\"https://twitter.com/johnelliottdc\"\
+    >John Elliott</a>\_will demo his\_<a href=\"http://waybot.tumblr.com/\">Waybot</a>\_\
+    hardware bicycle traffic counter to display bike traffic counts live in the browser.\_\
+    </p> <p>\u2022\_Hans Lellelid will demo his\_<a href=\"http://freezingsaddles.com/\"\
+    >Freezing Saddles</a>\_web site.\_</p> <p>\u2022\_Thomas Stokell will show us\
+    \ Atlanta's\_<a href=\"http://www.lovetoride.net/\">Love to Ride</a>\_program.\_\
+    </p> <p>\u2022\_Steve Sanders will show how the\_<a href=\"http://www1.umn.edu/pts/bike/\"\
+    >University of Minnesota</a>\_uses RFID technology to record and reward bike trips.\_\
+    </p> <p><br/>\u2022\_Tracy Hadden Loh of the\_<a href=\"http://www.railstotrails.org/\"\
+    >Rails-to-Trails Conservancy</a> will show us their app for ad-hoc bike and pedestrian\
+    \ counts.\_</p> <p>\u2022 <a href=\"https://twitter.com/bikepedantic\">Darren\
+    \ Buck</a> of <a href=\"http://ddot.dc.gov/page/bicycle-program\">DDOT's Bicycle\
+    \ Program</a> will share data from the new automatic bike counters and manual\
+    \ counts.\_</p> <p>\u2022 Eric Weis of the\_<a href=\"http://www.greenway.org/\"\
     >East Coast Greenway Alliance</a> will show us their\_smartphone app and their\
-    \ web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.</p> <p><br/>\u2022\
-    \_Steve Sanders will show how the <a href=\"http://www1.umn.edu/pts/bike/\">University\
-    \ of Minnesota</a> uses RFID technology to record and reward bike trips.</p> <p><br/>Do\
+    \ web-based <a href=\"http://map.greenway.org/\">Trip Planner</a>.\_</p> <p>Do\
     \ you have a project you're like to share? Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael</a>\_to be added to the agenda.</p> <p>We are being hosted by the\_<a\
     \ href=\"http://bikeleague.org/\">League of American Bicyclists</a>\_at the\_\
@@ -732,14 +633,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1426113000000
-  updated: 1424806844000
+  updated: 1424834449000
   utc_offset: -14400000
   venue: {address_1: '999 9th St, NW ', city: Washington, country: us, id: 854481,
     lat: 38.901676000000002, lon: -77.023495999999994, name: Renaissance Hotel, phone: +1
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 74
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1278,7 +1179,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 93
 - created: 1423021750000
   description: "<p>(<i>Please note that you need to get a ticket through Eventbrite\
     \ to attend:\_<a href=\"http://bamgdc.eventbrite.com/?aff=DCDevMeetup\"><a href=\"\
@@ -1378,7 +1279,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 87
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
