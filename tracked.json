@@ -15,12 +15,6 @@
         "Code for DC Website": "https://github.com/codefordc/codefordc-2.0"
     },
     {
-        "Code of Conduct": "https://github.com/codefordc/code-of-conduct"
-    },
-    {
-        "Code for DC Guides": "https://github.com/codefordc/guides"
-    },
-    {
         "Mayor's Schedule Archive": "https://github.com/ajschumacher/dc_mayor_schedule"
     },
     {
@@ -54,10 +48,16 @@
     	"Open Elections Map": "https://github.com/cmgiven/open-election-map"
     },
     {
-    	"DC Healthcare Issues": "https://github.com/gxespino/dc_healthcare_issues"
+    	"Funds for At-Risk Students": "https://github.com/cmgiven/at-risk"
     },
     {
-    	"Funds for At-Risk Students": "https://github.com/cmgiven/at-risk"
+        "Geocoder in R": "https://github.com/evonfriedland/geocoder"
+    },
+    {
+        "Books for DC": "https://github.com/evonfriedland/booksfordc"
+    },
+    {
+        "DCPS Facility Conditions": "https://github.com/cmgiven/dcps-facilities"
     }
 ],
 "meetups": [
