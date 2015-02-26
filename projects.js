@@ -6,52 +6,52 @@ projects([
             0, 
             2, 
             8, 
+            1, 
+            4, 
             0, 
-            1, 
-            4, 
-            2, 
-            31, 
-            1, 
-            16, 
-            4, 
+            15, 
             18, 
-            30, 
-            89, 
-            59, 
-            30, 
+            7, 
+            10, 
+            9, 
+            13, 
+            40, 
+            112, 
+            35, 
+            21, 
             3, 
             17, 
-            4, 
-            1, 
+            5, 
+            0, 
             0, 
             1, 
             9, 
-            5, 
-            4, 
+            9, 
             3, 
             0, 
-            6, 
-            3, 
+            0, 
+            9, 
+            0, 
             0, 
             8, 
-            0, 
-            7, 
+            2, 
             12, 
-            27, 
+            6, 
+            26, 
             37, 
-            13, 
-            32, 
-            38, 
-            7, 
-            1, 
-            10, 
-            20, 
-            1, 
+            19, 
+            31, 
+            33, 
+            8, 
+            0, 
+            14, 
+            17, 
+            2, 
             26, 
             20, 
-            29, 
-            81, 
-            50, 
+            32, 
+            95, 
+            31, 
             15
         ], 
         "civic_json": {
@@ -91,7 +91,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 681, 
+                "contributions": 682, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -228,7 +228,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                184520
+                184770
             ], 
             [
                 "HTML", 
@@ -257,16 +257,16 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 58, 
+        "open_issues": 66, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-24T04:17:34Z", 
-        "size": 22487, 
-        "updated_at": "2015-02-24T04:17:34Z", 
+        "pushed_at": "2015-02-26T04:51:52Z", 
+        "size": 22538, 
+        "updated_at": "2015-02-26T04:51:52Z", 
         "watchers": 18
     }, 
     {
@@ -553,7 +553,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 19, 
+                "contributions": 20, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }
@@ -570,11 +570,15 @@ projects([
         "languages": [
             [
                 "CSS", 
-                14022
+                14139
             ], 
             [
                 "JavaScript", 
-                7807
+                7854
+            ], 
+            [
+                "HTML", 
+                3546
             ], 
             [
                 "Ruby", 
@@ -590,9 +594,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2014-05-28T00:02:22Z", 
-        "size": 1988, 
-        "updated_at": "2015-01-13T20:10:49Z", 
+        "pushed_at": "2015-02-26T02:04:10Z", 
+        "size": 1943, 
+        "updated_at": "2015-02-26T02:04:10Z", 
         "watchers": 7
     }, 
     {
@@ -744,56 +748,56 @@ projects([
     }, 
     {
         "activity": [
-            2, 
-            0, 
+            1, 
             0, 
             4, 
             0, 
             0, 
             0, 
-            3, 
+            0, 
             8, 
-            5, 
+            8, 
             0, 
             2, 
-            3, 
+            0, 
+            9, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             6, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
-            0, 
-            3, 
-            6, 
-            5, 
-            2, 
-            2, 
-            10, 
-            12, 
             4, 
+            5, 
+            7, 
+            0, 
             2, 
             15, 
-            6, 
-            2, 
             10, 
-            13, 
+            3, 
+            0, 
+            15, 
+            8, 
+            2, 
+            14, 
+            7, 
             14, 
             4, 
-            0, 
             1, 
+            0, 
             9, 
             4, 
-            0, 
-            2, 
+            1, 
+            1, 
             1, 
             9, 
             0, 
-            0, 
-            6, 
+            2, 
+            4, 
             1, 
             4
         ], 
@@ -988,28 +992,28 @@ projects([
             4, 
             6, 
             7, 
-            4, 
-            5, 
+            3, 
+            6, 
             7, 
             32, 
             6, 
             6, 
             4, 
             5, 
+            7, 
+            6, 
+            6, 
+            6, 
+            3, 
+            7, 
+            2, 
+            6, 
             5, 
+            7, 
+            6, 
+            6, 
+            4, 
             8, 
-            6, 
-            6, 
-            3, 
-            7, 
-            3, 
-            5, 
-            5, 
-            7, 
-            6, 
-            6, 
-            5, 
-            7, 
             9, 
             6, 
             6, 
@@ -1018,7 +1022,7 @@ projects([
             4, 
             7, 
             6, 
-            5, 
+            4, 
             3, 
             2, 
             0, 
@@ -1033,7 +1037,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 426, 
+                "contributions": 429, 
                 "link": "https://github.com/ajschumacher", 
                 "name": "ajschumacher"
             }, 
@@ -1055,6 +1059,10 @@ projects([
         "id": 12283697, 
         "languages": [
             [
+                "HTML", 
+                14079423
+            ], 
+            [
                 "JavaScript", 
                 4860
             ], 
@@ -1063,18 +1071,18 @@ projects([
                 2215
             ]
         ], 
-        "main_language": "JavaScript", 
+        "main_language": "HTML", 
         "name": "Mayor's Schedule Archive", 
-        "open_issues": 2, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1071322?v=3", 
             "name": "ajschumacher", 
             "type": "User", 
             "url": "https://github.com/ajschumacher"
         }, 
-        "pushed_at": "2015-01-02T07:05:13Z", 
-        "size": 2415, 
-        "updated_at": "2015-01-02T07:05:14Z", 
+        "pushed_at": "2015-02-26T02:08:49Z", 
+        "size": 2397, 
+        "updated_at": "2015-02-26T02:08:50Z", 
         "watchers": 4
     }, 
     {
@@ -1189,8 +1197,8 @@ projects([
     {
         "activity": [
             0, 
-            0, 
-            6, 
+            2, 
+            4, 
             0, 
             0, 
             0, 
@@ -1213,23 +1221,23 @@ projects([
             0, 
             8, 
             0, 
+            10, 
+            7, 
             8, 
             9, 
-            5, 
-            12, 
             0, 
             10, 
             4, 
             4, 
             0, 
             0, 
-            0, 
-            1, 
-            0, 
             1, 
             0, 
             0, 
-            3, 
+            1, 
+            0, 
+            2, 
+            1, 
             0, 
             8, 
             0, 
@@ -1237,9 +1245,9 @@ projects([
             0, 
             0, 
             0, 
-            5, 
-            7, 
-            18
+            10, 
+            9, 
+            11
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1308,7 +1316,6 @@ projects([
             0, 
             0, 
             0, 
-            4, 
             0, 
             0, 
             0, 
@@ -1351,46 +1358,61 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            0
+            0, 
+            0, 
+            2
         ], 
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 14, 
-                "link": "https://github.com/evonfriedland", 
-                "name": "evonfriedland"
+                "avatar_url": "https://avatars.githubusercontent.com/u/17545?v=3", 
+                "contributions": 7, 
+                "link": "https://github.com/rrbaker", 
+                "name": "rrbaker"
             }
         ], 
         "contributors_count": 1, 
-        "created_at": "2013-11-08T01:07:50Z", 
+        "created_at": "2015-02-25T23:12:30Z", 
         "default_branch": "master", 
-        "description": "", 
+        "description": "Data and issue tracking for DCTreeMap", 
         "forks": 0, 
-        "help_wanted": [], 
-        "homepage": null, 
-        "html_url": "https://github.com/evonfriedland/tree-map", 
-        "id": 14220687, 
-        "languages": [
-            [
-                "R", 
-                9737
-            ]
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "The hosted version of OpenTreeMap has a bulk importer to insert several trees at once via CSV.  As data importers go, it is very particular about the headers and, naturally, these headers do not match up with \r\n\r\nUsing [CSVkit](https://csvkit.readthedocs.org/en/0.9.0/#), figure out a series of commands to take [the UFA dataset provided on the DC Gov Open Data portal](http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23?geometry=-77.212%2C38.864%2C-76.811%2C38.944) and convert it to the OTM import template (provided in this repository under otm_data).\r\n\r\nFor now, also removing the UFA fields that do not apply to the standard OTM installation is a plus.", 
+                "comments": 0, 
+                "created_at": "2015-02-26T02:10:44Z", 
+                "issue": "CSVkit exercise: convert UFA data fields to OpenTreeMap import template", 
+                "issue_url": "https://github.com/rrbaker/dctreemap/issues/1", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/rrbaker/dctreemap/labels/help%20wanted"
+                    }
+                ], 
+                "project": "DC Tree Map", 
+                "project_url": "https://github.com/rrbaker/dctreemap", 
+                "updated_at": "2015-02-26T02:10:44Z"
+            }
         ], 
-        "main_language": "R", 
-        "name": "Street Tree Map", 
+        "homepage": "", 
+        "html_url": "https://github.com/rrbaker/dctreemap", 
+        "id": 31340793, 
+        "languages": [], 
+        "main_language": null, 
+        "name": "DC Tree Map", 
         "open_issues": 1, 
         "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-            "name": "evonfriedland", 
+            "avatar": "https://avatars.githubusercontent.com/u/17545?v=3", 
+            "name": "rrbaker", 
             "type": "User", 
-            "url": "https://github.com/evonfriedland"
+            "url": "https://github.com/rrbaker"
         }, 
-        "pushed_at": "2015-02-16T06:47:21Z", 
-        "size": 9600, 
-        "updated_at": "2015-02-16T06:47:22Z", 
-        "watchers": 1
+        "pushed_at": "2015-02-26T02:12:36Z", 
+        "size": 0, 
+        "updated_at": "2015-02-25T23:12:53Z", 
+        "watchers": 0
     }, 
     {
         "activity": [
@@ -1626,28 +1648,28 @@ projects([
             0, 
             0, 
             0, 
-            1, 
             2, 
+            1, 
             16, 
             2, 
             1, 
             2, 
             0, 
+            3, 
+            38, 
+            8, 
+            1, 
             0, 
-            41, 
-            2, 
-            7, 
-            0, 
-            18, 
-            16, 
-            12, 
-            10, 
+            19, 
+            21, 
+            8, 
+            9, 
+            13, 
             4, 
-            14, 
-            6, 
-            7, 
-            0, 
+            11, 
             2, 
+            1, 
+            1, 
             0, 
             0, 
             0, 
@@ -1744,7 +1766,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "gh-pages", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 8, 
+        "forks": 9, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
@@ -2416,7 +2438,7 @@ projects([
             0, 
             0, 
             0, 
-            61
+            66
         ], 
         "civic_json": null, 
         "contributors": [
@@ -2525,7 +2547,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/605331?v=3", 
-                "contributions": 7, 
+                "contributions": 9, 
                 "link": "https://github.com/bbrotsos", 
                 "name": "bbrotsos"
             }, 
@@ -2554,7 +2576,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                6449
+                6982
             ], 
             [
                 "HTML", 
@@ -2578,9 +2600,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2015-02-26T00:56:58Z", 
+        "pushed_at": "2015-02-26T01:44:23Z", 
         "size": 0, 
-        "updated_at": "2015-02-26T00:56:58Z", 
+        "updated_at": "2015-02-26T01:44:23Z", 
         "watchers": 0
     }, 
     {
