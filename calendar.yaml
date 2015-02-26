@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 62
 - created: 1415830083000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -161,7 +161,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 19
 - created: 1422552170000
   description: "<p>Are you tired of losing your fantasy football league? Do you think\
     \ there must be a better way to create that perfect lineup? If so, please join\
@@ -223,8 +223,8 @@ other:
     country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
       Government Systems, repinned: false, state: MD}
   visibility: public
-  waitlist_count: 4
-  yes_rsvp_count: 99
+  waitlist_count: 3
+  yes_rsvp_count: 95
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -273,7 +273,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -423,7 +423,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 136
+  yes_rsvp_count: 138
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -516,7 +516,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -583,7 +583,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -640,7 +640,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 106
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1279,7 +1279,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 101
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1332,7 +1332,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1929,7 +1929,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

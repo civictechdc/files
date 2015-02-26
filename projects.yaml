@@ -82,15 +82,15 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 30
+  open_issues: 58
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-24T04:17:34Z'
   size: 22487
   updated_at: '2015-02-24T04:17:34Z'
   watchers: 18
-- activity: [4, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 0, 6, 6, 0, 6, 3,
-    5, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
+- activity: [1, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 4, 2, 6, 3, 3, 4,
+    4, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
     0, 8, 0]
   civic_json:
     bornAt: Code for DC
@@ -157,7 +157,7 @@
   - [JavaScript, 1992]
   main_language: Python
   name: ANC Finder
-  open_issues: 35
+  open_issues: 34
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-15T21:30:31Z'
@@ -186,7 +186,7 @@
   - [Ruby, 2941]
   main_language: CSS
   name: CaBi Odds
-  open_issues: 3
+  open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
   pushed_at: '2014-05-28T00:02:22Z'
@@ -230,7 +230,7 @@
   - [Ruby, 914]
   main_language: JavaScript
   name: Education
-  open_issues: 28
+  open_issues: 29
   owner: {avatar: 'https://avatars.githubusercontent.com/u/130809?v=3', name: HarlanH,
     type: User, url: 'https://github.com/HarlanH'}
   pushed_at: '2014-06-11T23:44:11Z'
@@ -333,7 +333,7 @@
   default_branch: gh-pages
   description: archive the DC mayor's public schedule; tabularize it; give archive
     web interface
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: http://ajschumacher.github.io/dc_mayor_schedule/
   html_url: https://github.com/ajschumacher/dc_mayor_schedule
@@ -343,14 +343,14 @@
   - [Python, 2215]
   main_language: JavaScript
   name: Mayor's Schedule Archive
-  open_issues: 1
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
   pushed_at: '2015-01-02T07:05:13Z'
   size: 2415
   updated_at: '2015-01-02T07:05:14Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+- activity: [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -375,7 +375,7 @@
   - [JavaScript, 48]
   main_language: CSS
   name: Open 211
-  open_issues: 2
+  open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2014-08-01T20:47:07Z'
@@ -408,7 +408,7 @@
   - [Shell, 9547]
   main_language: Python
   name: Metro Metrics
-  open_issues: 10
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2015-02-22T20:27:22Z'
@@ -435,15 +435,15 @@
   - [R, 9737]
   main_language: R
   name: Street Tree Map
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
     type: User, url: 'https://github.com/evonfriedland'}
   pushed_at: '2015-02-16T06:47:21Z'
   size: 9600
   updated_at: '2015-02-16T06:47:22Z'
   watchers: 1
-- activity: [0, 3, 2, 0, 0, 1, 0, 1, 0, 4, 6, 4, 6, 4, 4, 0, 0, 2, 0, 0, 0, 4, 0,
-    0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 3, 2, 0, 1, 0, 0, 1, 2, 3, 5, 4, 8, 2, 4, 0, 0, 2, 0, 0, 2, 2, 0,
+    0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -477,7 +477,7 @@
   size: 105864
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -499,7 +499,7 @@
   - [JavaScript, 1645]
   main_language: JavaScript
   name: Community Gardens Visualization
-  open_issues: 1
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/131928?v=3', name: shiftyp,
     type: User, url: 'https://github.com/shiftyp'}
   pushed_at: '2014-07-13T21:56:15Z'
@@ -564,7 +564,7 @@
   updated_at: '2015-01-15T03:59:07Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -617,7 +617,7 @@
   languages: []
   main_language: null
   name: 2014 Budget Treemap
-  open_issues: 4
+  open_issues: 5
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7108211?v=3', name: drewbo,
     type: User, url: 'https://github.com/drewbo'}
   pushed_at: '2014-09-25T18:56:39Z'
@@ -625,7 +625,7 @@
   updated_at: '2014-09-18T19:50:23Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -643,7 +643,7 @@
   languages: []
   main_language: null
   name: DC Juvenile Arrests
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7108211?v=3', name: drewbo,
     type: User, url: 'https://github.com/drewbo'}
   pushed_at: '2014-10-29T15:14:54Z'
@@ -651,7 +651,7 @@
   updated_at: '2014-11-13T02:02:36Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 51, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -672,7 +672,7 @@
   - [Ruby, 1576]
   main_language: JavaScript
   name: Open Elections Map
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
   pushed_at: '2014-11-21T14:39:43Z'
@@ -680,8 +680,8 @@
   updated_at: '2015-01-19T17:19:53Z'
   watchers: 11
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15,
-    25, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 31,
+    8, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 47,
@@ -700,7 +700,7 @@
   - [CSS, 9572]
   main_language: JavaScript
   name: Funds for At-Risk Students
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
   pushed_at: '2015-02-05T13:57:35Z'
@@ -739,7 +739,7 @@
     0, 0, 61]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 62,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 66,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   contributors_count: 1
   created_at: '2015-02-19T05:26:29Z'
@@ -751,16 +751,16 @@
   html_url: https://github.com/evonfriedland/booksfordc
   id: 31002646
   languages:
-  - [Python, 5138]
+  - [Python, 5373]
   - [JavaScript, 2136]
   main_language: Python
   name: Books for DC
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
     type: User, url: 'https://github.com/evonfriedland'}
-  pushed_at: '2015-02-25T03:58:03Z'
+  pushed_at: '2015-02-25T22:56:16Z'
   size: 356
-  updated_at: '2015-02-25T03:58:03Z'
+  updated_at: '2015-02-25T22:56:16Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -785,16 +785,47 @@
   html_url: https://github.com/cmgiven/dcps-facilities
   id: 31128008
   languages:
-  - [JavaScript, 6405]
+  - [JavaScript, 6449]
   - [HTML, 6375]
   - [CSS, 4049]
   - [Ruby, 966]
   main_language: JavaScript
   name: DCPS Facility Conditions
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-02-24T03:06:24Z'
+  pushed_at: '2015-02-26T00:56:58Z'
   size: 0
-  updated_at: '2015-02-24T03:06:26Z'
+  updated_at: '2015-02-26T00:56:58Z'
   watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0,
+    0, 0, 0]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 6,
+    link: 'https://github.com/mattbailey0', name: mattbailey0}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 3,
+    link: 'https://github.com/RyanGladstone', name: RyanGladstone}
+  contributors_count: 2
+  created_at: '2015-01-09T00:15:28Z'
+  default_branch: master
+  description: A simple website for people trying to navigate the process of having
+    records sealed in DC
+  forks: 2
+  help_wanted: []
+  homepage: http://codefordc.github.io/expungement-dc
+  html_url: https://github.com/codefordc/expungement-dc
+  id: 28992747
+  languages:
+  - [CSS, 202888]
+  - [JavaScript, 4349]
+  main_language: CSS
+  name: Conviction Expungement
+  open_issues: 1
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
+    type: Organization, url: 'https://github.com/codefordc'}
+  pushed_at: '2015-02-19T19:24:47Z'
+  size: 8600
+  updated_at: '2015-02-14T15:07:59Z'
+  watchers: 5
