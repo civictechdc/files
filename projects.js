@@ -966,7 +966,7 @@ projects([
         ], 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1191,8 +1191,8 @@ projects([
         }, 
         "pushed_at": "2014-08-01T20:47:07Z", 
         "size": 2932, 
-        "updated_at": "2015-01-15T03:32:41Z", 
-        "watchers": 2
+        "updated_at": "2015-02-26T14:41:14Z", 
+        "watchers": 3
     }, 
     {
         "activity": [
@@ -1411,8 +1411,8 @@ projects([
         }, 
         "pushed_at": "2015-02-26T02:12:36Z", 
         "size": 0, 
-        "updated_at": "2015-02-25T23:12:53Z", 
-        "watchers": 0
+        "updated_at": "2015-02-26T15:08:22Z", 
+        "watchers": 1
     }, 
     {
         "activity": [
@@ -2444,7 +2444,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 66, 
+                "contributions": 67, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }
@@ -2477,9 +2477,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-02-25T22:56:16Z", 
+        "pushed_at": "2015-02-26T17:56:03Z", 
         "size": 356, 
-        "updated_at": "2015-02-25T22:56:16Z", 
+        "updated_at": "2015-02-26T17:00:05Z", 
         "watchers": 0
     }, 
     {
