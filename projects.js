@@ -91,13 +91,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 682, 
+                "contributions": 686, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 85, 
+                "contributions": 95, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }, 
@@ -228,11 +228,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                184770
+                186145
             ], 
             [
                 "HTML", 
-                68099
+                68543
             ], 
             [
                 "CSS", 
@@ -257,60 +257,60 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 66, 
+        "open_issues": 61, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-26T04:51:52Z", 
+        "pushed_at": "2015-02-27T00:22:10Z", 
         "size": 22538, 
-        "updated_at": "2015-02-26T04:51:52Z", 
+        "updated_at": "2015-02-27T00:22:10Z", 
         "watchers": 18
     }, 
     {
         "activity": [
+            2, 
+            11, 
             1, 
-            12, 
             1, 
+            14, 
             0, 
-            9, 
-            6, 
-            0, 
-            15, 
-            0, 
-            9, 
-            0, 
+            2, 
+            13, 
             8, 
-            2, 
-            2, 
+            1, 
+            7, 
+            1, 
+            4, 
+            0, 
             5, 
             0, 
             0, 
+            6, 
+            2, 
+            4, 
+            4, 
             4, 
             2, 
             6, 
-            3, 
-            3, 
             4, 
-            4, 
-            5, 
-            1, 
+            0, 
             1, 
             0, 
             0, 
-            0, 
-            4, 
+            1, 
+            3, 
             2, 
             0, 
             6, 
-            0, 
             2, 
+            0, 
             2, 
             5, 
-            0, 
             1, 
+            0, 
             0, 
             7, 
             0, 
@@ -320,8 +320,8 @@ projects([
             5, 
             0, 
             0, 
-            0, 
-            8, 
+            1, 
+            7, 
             0
         ], 
         "civic_json": {
@@ -498,7 +498,6 @@ projects([
         "activity": [
             0, 
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -508,8 +507,8 @@ projects([
             0, 
             0, 
             0, 
+            1, 
             2, 
-            1, 
             0, 
             0, 
             0, 
@@ -547,7 +546,8 @@ projects([
             0, 
             0, 
             0, 
-            0
+            0, 
+            1
         ], 
         "civic_json": null, 
         "contributors": [
@@ -602,7 +602,6 @@ projects([
     {
         "activity": [
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -617,6 +616,7 @@ projects([
             0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -966,7 +966,7 @@ projects([
         ], 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 8, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1380,7 +1380,7 @@ projects([
             {
                 "assignee": null, 
                 "body": "The hosted version of OpenTreeMap has a bulk importer to insert several trees at once via CSV.  As data importers go, it is very particular about the headers and, naturally, these headers do not match up with \r\n\r\nUsing [CSVkit](https://csvkit.readthedocs.org/en/0.9.0/#), figure out a series of commands to take [the UFA dataset provided on the DC Gov Open Data portal](http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23?geometry=-77.212%2C38.864%2C-76.811%2C38.944) and convert it to the OTM import template (provided in this repository under otm_data).\r\n\r\nFor now, also removing the UFA fields that do not apply to the standard OTM installation is a plus.", 
-                "comments": 0, 
+                "comments": 1, 
                 "created_at": "2015-02-26T02:10:44Z", 
                 "issue": "CSVkit exercise: convert UFA data fields to OpenTreeMap import template", 
                 "issue_url": "https://github.com/rrbaker/dctreemap/issues/1", 
@@ -1393,7 +1393,7 @@ projects([
                 ], 
                 "project": "DC Tree Map", 
                 "project_url": "https://github.com/rrbaker/dctreemap", 
-                "updated_at": "2015-02-26T02:10:44Z"
+                "updated_at": "2015-02-26T23:14:42Z"
             }
         ], 
         "homepage": "", 
@@ -1416,31 +1416,31 @@ projects([
     }, 
     {
         "activity": [
-            0, 
             3, 
+            0, 
             2, 
             0, 
             1, 
             0, 
-            0, 
             1, 
-            2, 
+            0, 
             3, 
             5, 
-            4, 
-            8, 
-            2, 
-            4, 
-            0, 
-            0, 
+            5, 
+            1, 
+            9, 
+            3, 
             2, 
             0, 
-            0, 
-            2, 
-            2, 
+            1, 
+            1, 
             0, 
             0, 
             3, 
+            1, 
+            0, 
+            1, 
+            2, 
             0, 
             0, 
             0, 
@@ -1832,8 +1832,8 @@ projects([
             0, 
             3, 
             0, 
-            0, 
-            7, 
+            5, 
+            2, 
             0, 
             0, 
             0, 
@@ -1936,9 +1936,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             5, 
             11, 
+            0, 
             0, 
             0, 
             0, 
@@ -2244,9 +2244,9 @@ projects([
             0, 
             0, 
             0, 
-            8, 
-            31, 
-            8, 
+            10, 
+            37, 
+            0, 
             0, 
             0
         ], 
@@ -2444,7 +2444,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 67, 
+                "contributions": 76, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }
@@ -2461,25 +2461,25 @@ projects([
         "languages": [
             [
                 "Python", 
-                5373
+                5815
             ], 
             [
                 "JavaScript", 
-                2136
+                2
             ]
         ], 
         "main_language": "Python", 
         "name": "Books for DC", 
-        "open_issues": 1, 
+        "open_issues": 0, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "evonfriedland", 
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-02-26T17:56:03Z", 
+        "pushed_at": "2015-02-26T22:50:21Z", 
         "size": 356, 
-        "updated_at": "2015-02-26T17:00:05Z", 
+        "updated_at": "2015-02-26T22:50:21Z", 
         "watchers": 0
     }, 
     {
@@ -2535,7 +2535,7 @@ projects([
             0, 
             0, 
             0, 
-            28
+            30
         ], 
         "civic_json": null, 
         "contributors": [

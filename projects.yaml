@@ -19,9 +19,9 @@
     thumbnailUrl: ''
     type: ''
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 682,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 686,
     link: 'https://github.com/jrunningen', name: jrunningen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 85,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 95,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 75,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -73,8 +73,8 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 184770]
-  - [HTML, 68099]
+  - [Ruby, 186145]
+  - [HTML, 68543]
   - [CSS, 13575]
   - [Puppet, 5537]
   - [CoffeeScript, 2537]
@@ -82,16 +82,16 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 66
+  open_issues: 61
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-26T04:51:52Z'
+  pushed_at: '2015-02-27T00:22:10Z'
   size: 22538
-  updated_at: '2015-02-26T04:51:52Z'
+  updated_at: '2015-02-27T00:22:10Z'
   watchers: 18
-- activity: [1, 12, 1, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 5, 0, 0, 4, 2, 6, 3, 3, 4,
-    4, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
-    0, 8, 0]
+- activity: [2, 11, 1, 1, 14, 0, 2, 13, 8, 1, 7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4,
+    2, 6, 4, 0, 1, 0, 0, 1, 3, 2, 0, 6, 2, 0, 2, 5, 1, 0, 0, 7, 0, 0, 0, 0, 5, 0,
+    0, 1, 7, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -164,9 +164,9 @@
   size: 73166
   updated_at: '2015-02-15T21:30:32Z'
   watchers: 27
-- activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 1]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 20,
@@ -194,7 +194,7 @@
   size: 1943
   updated_at: '2015-02-26T02:04:10Z'
   watchers: 7
-- activity: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -313,7 +313,7 @@
   - [Ruby, 3083]
   main_language: HTML
   name: Code for DC Website
-  open_issues: 8
+  open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-21T03:16:43Z'
@@ -439,7 +439,7 @@
       \ and convert it to the OTM import template (provided in this repository under\
       \ otm_data).\r\n\r\nFor now, also removing the UFA fields that do not apply\
       \ to the standard OTM installation is a plus."
-    comments: 0
+    comments: 1
     created_at: '2015-02-26T02:10:44Z'
     issue: 'CSVkit exercise: convert UFA data fields to OpenTreeMap import template'
     issue_url: https://github.com/rrbaker/dctreemap/issues/1
@@ -447,7 +447,7 @@
     - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/rrbaker/dctreemap/labels/help%20wanted'}
     project: DC Tree Map
     project_url: https://github.com/rrbaker/dctreemap
-    updated_at: '2015-02-26T02:10:44Z'
+    updated_at: '2015-02-26T23:14:42Z'
   homepage: ''
   html_url: https://github.com/rrbaker/dctreemap
   id: 31340793
@@ -461,8 +461,8 @@
   size: 0
   updated_at: '2015-02-26T15:08:22Z'
   watchers: 1
-- activity: [0, 3, 2, 0, 1, 0, 0, 1, 2, 3, 5, 4, 8, 2, 4, 0, 0, 2, 0, 0, 2, 2, 0,
-    0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [3, 0, 2, 0, 1, 0, 1, 0, 3, 5, 5, 1, 9, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0,
+    1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -583,7 +583,7 @@
   updated_at: '2015-01-15T03:59:07Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 3, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -614,7 +614,7 @@
   updated_at: '2014-10-06T03:00:17Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 5, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 5, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -699,8 +699,8 @@
   updated_at: '2015-01-19T17:19:53Z'
   watchers: 11
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 31,
-    8, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 37,
+    0, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 47,
@@ -758,7 +758,7 @@
     0, 0, 66]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 67,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 76,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   contributors_count: 1
   created_at: '2015-02-19T05:26:29Z'
@@ -770,20 +770,20 @@
   html_url: https://github.com/evonfriedland/booksfordc
   id: 31002646
   languages:
-  - [Python, 5373]
-  - [JavaScript, 2136]
+  - [Python, 5815]
+  - [JavaScript, 2]
   main_language: Python
   name: Books for DC
-  open_issues: 1
+  open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
     type: User, url: 'https://github.com/evonfriedland'}
-  pushed_at: '2015-02-26T17:56:03Z'
+  pushed_at: '2015-02-26T22:50:21Z'
   size: 356
-  updated_at: '2015-02-26T17:00:05Z'
+  updated_at: '2015-02-26T22:50:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 28]
+    0, 0, 30]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 12,
