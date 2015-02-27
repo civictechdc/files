@@ -210,7 +210,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1423328667000
   description: "<p>Come join us and the Assistant Secretary of Labor for Occupational\
     \ Safety and Health to talk about data.</p> <p>\n\n\n6:00 - 6:45pm Networking</p>\
@@ -315,7 +315,7 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 7
   yes_rsvp_count: 150
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
@@ -349,7 +349,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 90
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -371,7 +371,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 62
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -527,7 +527,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 35
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -584,7 +584,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 117
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1276,7 +1276,7 @@ other:
     lon: -77.063766000000001, name: United States Patent and Trademark Office, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1424780298000
   description: "<p>Saturday? Yup, we are changing things up and swapping out empenadas\
     \ for bagels and other brunchy foods. Not only that, but we are joining forces\
@@ -1340,7 +1340,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 114
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with

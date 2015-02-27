@@ -16,9 +16,11 @@ schema = {
     "type":"object",
     "properties":{
         "conformsTo":{
-            "type":"string",
-            "required":False,
-            "pattern":"^https://github\.com/codefordc/guides/blob/master/using-civic\.json/specification\.md$"
+            "required":True,
+            "enum": [
+                "http://codefordc.org/resources/specification.html",
+                "https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md"
+            ]
         },
         "status":{
             "type":"string",

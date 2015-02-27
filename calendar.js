@@ -181,7 +181,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1423328667000, 
@@ -221,7 +221,7 @@ calendar({
                 "zip": "20004"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 150
         }, 
         {
@@ -261,7 +261,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1326383071000, 
@@ -301,7 +301,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1424539258000, 
@@ -443,7 +443,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1423625127000, 
@@ -483,7 +483,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1421849941000, 
@@ -1052,7 +1052,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1424780298000, 
@@ -1091,7 +1091,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1424447514000, 

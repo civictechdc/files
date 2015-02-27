@@ -12,92 +12,59 @@ projects([
             15, 
             18, 
             7, 
-            10, 
-            9, 
+            12, 
             13, 
-            40, 
-            112, 
-            35, 
-            21, 
-            3, 
-            17, 
+            7, 
+            48, 
+            104, 
+            47, 
+            11, 
+            6, 
+            12, 
             5, 
             0, 
             0, 
-            1, 
-            9, 
+            2, 
+            8, 
             9, 
             3, 
             0, 
             0, 
             9, 
             0, 
-            0, 
-            8, 
+            7, 
+            1, 
             2, 
-            12, 
-            6, 
-            26, 
-            37, 
-            19, 
-            31, 
+            14, 
+            7, 
+            29, 
             33, 
-            8, 
+            18, 
+            31, 
+            39, 
+            1, 
             0, 
             14, 
             17, 
-            2, 
-            26, 
-            20, 
-            32, 
-            95, 
-            31, 
-            15
+            11, 
+            21, 
+            21, 
+            34, 
+            99, 
+            23, 
+            24
         ], 
-        "civic_json": {
-            "bornAt": "Code for DC", 
-            "categories": [
-                {
-                    "category": "Housing"
-                }
-            ], 
-            "communityPartner": {
-                "Bread for City": "http://www.breadforthecity.org/"
-            }, 
-            "contact": {
-                "email": "", 
-                "name": "Marcus Louie", 
-                "twitter": "@mlouie"
-            }, 
-            "geography": "Washington, DC", 
-            "governmentPartner": {}, 
-            "moreInfo": "https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc", 
-            "needs": [
-                {
-                    "need": "Rails enthusiasts"
-                }, 
-                {
-                    "need": "Salesforce"
-                }, 
-                {
-                    "need": "Passionate People"
-                }
-            ], 
-            "politicalEntity": {}, 
-            "status": "Alpha", 
-            "thumbnailUrl": "", 
-            "type": ""
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 686, 
+                "contributions": 688, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 95, 
+                "contributions": 102, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }, 
@@ -228,11 +195,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                186145
+                186310
             ], 
             [
                 "HTML", 
-                68543
+                68586
             ], 
             [
                 "CSS", 
@@ -257,16 +224,16 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 60, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-27T00:22:10Z", 
+        "pushed_at": "2015-02-27T12:59:59Z", 
         "size": 22538, 
-        "updated_at": "2015-02-27T00:22:10Z", 
+        "updated_at": "2015-02-27T12:59:59Z", 
         "watchers": 18
     }, 
     {
@@ -324,43 +291,7 @@ projects([
             7, 
             0
         ], 
-        "civic_json": {
-            "bornAt": "Code for DC", 
-            "categories": [
-                {
-                    "category": "Politics"
-                }, 
-                {
-                    "category": "Government"
-                }, 
-                {
-                    "category": "Open Data"
-                }
-            ], 
-            "communityPartner": {}, 
-            "contact": {
-                "email": "contactus@ancfinder.org", 
-                "name": "", 
-                "twitter": "@ancfinder"
-            }, 
-            "geography": "Washington, DC", 
-            "governmentPartner": {}, 
-            "moreInfo": "", 
-            "needs": [
-                {
-                    "need": "ANC document uploading"
-                }, 
-                {
-                    "need": "Python"
-                }
-            ], 
-            "politicalEntity": {
-                "Office of Advisory Neighborhood Commissions": "http://anc.dc.gov/"
-            }, 
-            "status": "Production", 
-            "thumbnailUrl": "http://ancfinder.org/static/img/favicon.png", 
-            "type": "Web App"
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
@@ -754,9 +685,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
+            1, 
             8, 
-            8, 
+            7, 
             0, 
             2, 
             0, 
@@ -771,66 +702,41 @@ projects([
             0, 
             6, 
             0, 
-            4, 
             5, 
-            7, 
-            0, 
-            2, 
-            15, 
-            10, 
+            8, 
             3, 
             0, 
-            15, 
+            4, 
+            13, 
+            10, 
+            3, 
+            1, 
+            14, 
             8, 
-            2, 
-            14, 
-            7, 
-            14, 
+            3, 
+            13, 
+            10, 
+            11, 
             4, 
+            1, 
+            1, 
+            8, 
+            4, 
+            1, 
+            1, 
+            9, 
             1, 
             0, 
-            9, 
             4, 
-            1, 
-            1, 
-            1, 
-            9, 
-            0, 
             2, 
-            4, 
             1, 
             4
         ], 
-        "civic_json": {
-            "bornAt": "Code for DC", 
-            "categories": [
-                {
-                    "category": "Meta Project"
-                }
-            ], 
-            "communityPartner": {}, 
-            "contact": {
-                "email": "", 
-                "name": "", 
-                "twitter": "@CodeforDC"
-            }, 
-            "geography": "DC", 
-            "governmentPartner": {}, 
-            "moreInfo": "", 
-            "needs": [
-                {
-                    "need": "Meetup integration"
-                }
-            ], 
-            "politicalEntity": {}, 
-            "status": "Production", 
-            "thumbnailUrl": "", 
-            "type": "Website"
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 104, 
+                "contributions": 109, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -949,7 +855,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                115101
+                118951
             ], 
             [
                 "JavaScript", 
@@ -957,7 +863,7 @@ projects([
             ], 
             [
                 "CSS", 
-                15613
+                15599
             ], 
             [
                 "Ruby", 
@@ -973,9 +879,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-21T03:16:43Z", 
+        "pushed_at": "2015-02-27T13:49:20Z", 
         "size": 17401, 
-        "updated_at": "2015-02-23T16:59:25Z", 
+        "updated_at": "2015-02-27T13:25:53Z", 
         "watchers": 16
     }, 
     {
@@ -997,41 +903,41 @@ projects([
             7, 
             32, 
             6, 
-            6, 
-            4, 
+            5, 
+            5, 
             5, 
             7, 
             6, 
+            5, 
             6, 
+            4, 
             6, 
             3, 
-            7, 
-            2, 
+            5, 
             6, 
+            7, 
+            6, 
+            6, 
+            4, 
+            10, 
+            7, 
+            6, 
+            6, 
+            6, 
+            5, 
             5, 
             7, 
             6, 
-            6, 
-            4, 
-            8, 
-            9, 
-            6, 
-            6, 
-            6, 
-            6, 
-            4, 
-            7, 
-            6, 
-            4, 
             3, 
-            2, 
+            4, 
+            1, 
             0, 
             0, 
             0, 
             0, 
             0, 
             0, 
-            0
+            3
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1197,8 +1103,8 @@ projects([
     {
         "activity": [
             0, 
-            2, 
-            4, 
+            5, 
+            1, 
             0, 
             0, 
             0, 
@@ -1221,23 +1127,23 @@ projects([
             0, 
             8, 
             0, 
-            10, 
-            7, 
-            8, 
+            11, 
+            6, 
+            11, 
+            6, 
+            1, 
             9, 
-            0, 
-            10, 
             4, 
             4, 
             0, 
             0, 
             1, 
             0, 
-            0, 
             1, 
             0, 
-            2, 
-            1, 
+            0, 
+            3, 
+            0, 
             0, 
             8, 
             0, 
@@ -1246,8 +1152,8 @@ projects([
             0, 
             0, 
             10, 
-            9, 
-            11
+            13, 
+            7
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1360,7 +1266,7 @@ projects([
             0, 
             0, 
             0, 
-            2
+            7
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1649,23 +1555,23 @@ projects([
             0, 
             0, 
             2, 
-            1, 
-            16, 
+            4, 
+            13, 
             2, 
             1, 
             2, 
             0, 
-            3, 
-            38, 
-            8, 
-            1, 
+            12, 
+            29, 
+            9, 
             0, 
-            19, 
+            2, 
+            17, 
             21, 
             8, 
             9, 
-            13, 
-            4, 
+            15, 
+            2, 
             11, 
             2, 
             1, 
@@ -1677,47 +1583,15 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
             0, 
             0
         ], 
-        "civic_json": {
-            "bornAt": "Code for DC", 
-            "categories": [
-                {
-                    "category": "Politics"
-                }, 
-                {
-                    "category": "Financial"
-                }, 
-                {
-                    "category": "Open Data"
-                }, 
-                {
-                    "category": "Campaign Finance"
-                }
-            ], 
-            "communityPartner": {}, 
-            "contact": {
-                "email": "donald.braman@gmail.com", 
-                "name": "Donald Braman", 
-                "twitter": "@donaldbraman"
-            }, 
-            "geography": "DC", 
-            "governmentPartner": {}, 
-            "moreInfo": "", 
-            "needs": [], 
-            "politicalEntity": {
-                "DC Office of Campaign Finance": "http://www.ocf.dc.gov"
-            }, 
-            "status": "Beta", 
-            "thumbnailUrl": "", 
-            "type": "Web App"
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
@@ -2437,8 +2311,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            66
+            20, 
+            56
         ], 
         "civic_json": null, 
         "contributors": [
@@ -2696,14 +2570,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Conviction Expungement", 
-        "open_issues": 2, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-19T19:24:47Z", 
+        "pushed_at": "2015-02-27T14:43:41Z", 
         "size": 8600, 
         "updated_at": "2015-02-14T15:07:59Z", 
         "watchers": 5
