@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -78,69 +78,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 11
 other:
-- created: 1422552170000
-  description: "<p>Are you tired of losing your fantasy football league? Do you think\
-    \ there must be a better way to create that perfect lineup? If so, please join\
-    \ us for a special Data Science MD event featuring data scientist\_Juliet Hougland\
-    \ of Cloudera and learn how to win with data.</p> <p><b>Agenda</b></p> <p>\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:30 PM -- Networking &amp; Food\_\
-    </p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6:55 PM -- Greetings &amp;\
-    \ Prizes</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7:00 PM -- <i>Moneyballing:\
-    \ Using Data to Win At Fantasy Football -\_</i>Juliet Hougland</p> <p>\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n9:00 PM -- Post event drinks at Rams Head\
-    \ Savage</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Location</b></p>\
-    \ <p>\n\n\n\n\n\nParking is ample and directly in front of the building.\_</p>\
-    \ <p>\n\n<a href=\"http://maps.google.com/maps?q=430%20National%20Business%20Parkway%20Suite%20450%2C%20Annapolis%20Junction%2C%20MD\"\
-    >Teradata Government Systems</a></p> <p>\n\n430 National Business Parkway Suite\
-    \ 450</p> <p>\n\nAnnapolis Junction, MD</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n<b>Talks</b></p> <p>\n\n<b>Moneyballing: Using Data to Win At Fantasy\
-    \ Football<br/></b></p> <p>\n\n\n\n\n\nParticipants in fantasy football leagues\
-    \ manage teams by acquiring and trading players. Using predictive models based\
-    \ on historical data improves team selection and performance. In this talk we\
-    \ will use managing a fantasy football team as an example of how to integrate\
-    \ disparate data sources and make predictions based on complex event histories.\
-    \ We'll cover:</p> <p>\n\n\u25CF Modeling data for building predictive models\
-    \ about individuals.\_<br/>\u25CF Integrating disparate data sources.\_<br/>\u25CF\
-    \ Applying portfolio optimization theory to player selection.\_<br/>\u25CF Translating\
-    \ subjective knowledge of domain into a rigorous improvement of a predictive model.</p>\
-    \ <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Speakers</b></p> <p>\n\n\
-    <a href=\"https://www.linkedin.com/in/jhlch\">Juliet Hougland</a><b>\_</b>spent\
-    \ the last 3 years working on a variety of Big Data applications from e-commerce\
-    \ recommendations and building the associated real-time model application platform\
-    \ to predictive analytics for oil and gas pipelines. She holds an MS in Applied\
-    \ Mathematics from University of Colorado, Boulder and graduated Phi Beta Kappa\
-    \ from Reed College with a BA in Math-Physics. Juliet can be reached on Twitter\
-    \ at\_<a href=\"https://twitter.com/j_houg\">@j_houg</a></p> <p>\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b>Post-event Drinks<br/></b></p>\
-    \ <p>\n\n<b>Rams Head Tavern</b></p> <p>\n\nHistoric Savage Mill, 8600 Foundry\
-    \ Street, Savage, MD 20763</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-MD/events/220165549/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '220165549'
-  maybe_rsvp_count: 0
-  name: 'Moneyballing: Using Data to Win At Fantasy Football'
-  rsvp_limit: 100
-  status: upcoming
-  time: 1424993400000
-  updated: 1423607076000
-  utc_offset: -18000000
-  venue: {address_1: 430 National Business Parkway Suite 450, city: Annapolis Junction,
-    country: us, id: 19720442, lat: 39.133862000000001, lon: -76.768715, name: Teradata
-      Government Systems, repinned: false, state: MD}
-  visibility: public
-  waitlist_count: 3
-  yes_rsvp_count: 92
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -229,7 +166,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -378,8 +315,8 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 147
+  waitlist_count: 2
+  yes_rsvp_count: 150
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -412,7 +349,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 88
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -434,7 +371,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 59
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -590,7 +527,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -647,7 +584,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 114
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1403,7 +1340,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 113
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1456,7 +1393,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 64
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming

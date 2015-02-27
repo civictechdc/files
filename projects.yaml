@@ -82,7 +82,7 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 61
+  open_issues: 63
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-27T00:22:10Z'
@@ -745,7 +745,7 @@
   languages:
   - [R, 5776]
   main_language: R
-  name: Geocoder in R
+  name: CSV Geocoder
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
     type: User, url: 'https://github.com/evonfriedland'}
@@ -841,7 +841,7 @@
   - [JavaScript, 4349]
   main_language: CSS
   name: Conviction Expungement
-  open_issues: 1
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-19T19:24:47Z'

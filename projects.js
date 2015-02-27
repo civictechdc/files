@@ -257,7 +257,7 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 61, 
+        "open_issues": 63, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -2372,7 +2372,7 @@ projects([
             ]
         ], 
         "main_language": "R", 
-        "name": "Geocoder in R", 
+        "name": "CSV Geocoder", 
         "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
@@ -2696,7 +2696,7 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Conviction Expungement", 
-        "open_issues": 1, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
