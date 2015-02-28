@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 34
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -166,7 +166,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -306,17 +306,17 @@ other:
   id: '220371581'
   maybe_rsvp_count: 0
   name: Working with Department of Labor Data
-  rsvp_limit: 150
+  rsvp_limit: 180
   status: upcoming
   time: 1425510000000
-  updated: 1424795379000
+  updated: 1425125160000
   utc_offset: -18000000
   venue: {address_1: '1299 Pennsylvania Avenue, NW Suite 700', city: Washington, country: us,
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 10
-  yes_rsvp_count: 150
+  waitlist_count: 0
+  yes_rsvp_count: 160
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -349,7 +349,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 93
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -371,7 +371,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 63
 - created: 1425084852000
   description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
     ><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p>\
@@ -414,7 +414,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -570,7 +570,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 39
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -752,7 +752,7 @@ other:
       Chevy Chase Office, repinned: false, state: MD, zip: '20815'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1275,10 +1275,10 @@ other:
   headcount: 0
   id: hffzclytgbcb
   maybe_rsvp_count: 0
-  name: April Meetup
+  name: 'Excel to Python via Pandas: Using Pandas for Data Acquisition And Munging'
   status: upcoming
   time: 1427927400000
-  updated: 1420728560000
+  updated: 1425140685000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
@@ -1467,7 +1467,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 117
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1802,10 +1802,10 @@ other:
   headcount: 0
   id: hffzclythbjb
   maybe_rsvp_count: 0
-  name: May Meetup
+  name: Using R In The Database
   status: upcoming
   time: 1430951400000
-  updated: 1420728567000
+  updated: 1425140599000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
@@ -1974,10 +1974,10 @@ other:
   headcount: 0
   id: hffzclytkbcb
   maybe_rsvp_count: 0
-  name: July Meetup
+  name: Writing Grammars in PyParsing for Web Scraping, Data Wrangler, and App Control
   status: upcoming
   time: 1435789800000
-  updated: 1420728587000
+  updated: 1425140766000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
