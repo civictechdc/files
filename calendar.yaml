@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 29
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -126,7 +126,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1424967403000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -166,7 +166,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -315,7 +315,7 @@ other:
     id: 11216352, lat: 38.896278000000002, lon: -77.028312999999997, name: Cooley
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 10
   yes_rsvp_count: 150
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
@@ -349,7 +349,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 91
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -371,7 +371,50 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
+- created: 1425084852000
+  description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
+    ><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p>\
+    \ <p>We're joining forces with DC Nightowls for this Code &amp; Coffee. DC Nightowls\
+    \ is an open and inclusive after hours community of adventurous self-starters\
+    \ turning big ideas into exciting projects. Find out more here:\_<a href=\"http://selfstart.co/\"\
+    ><a href=\"http://selfstart.co\" class=\"linkified\">http://selfstart.co</a></a>\_\
+    </p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
+    \ for a fun, informal way to learn, code and work on projects with other members\
+    \ in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS,\
+    \ these events are open to all women or those who support women and minorities\
+    \ in tech. Feel free to come early or stay later. These events are held at public\
+    \ coffee shops, so good seats are on a first come first serve basis. Beginners\
+    \ welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors,\
+    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
+    \ bring their own projects or meet people who are working on similar projects\
+    \ to collaborate together. If you're a beginner we recommend some online tutorials\
+    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
+    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
+    \ <p>When you arrive, we'll be around the tables/booths in the back. Look for\
+    \ a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to\
+    \ find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
+    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. RSVP for\
+    \ this Meetup or see who else is going here:\_<a href=\"https://nvite.com/dcfemtech/ecae\"\
+    ><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p>\
+    \ <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\"\
+    \ /></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220812708/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '220812708'
+  maybe_rsvp_count: 0
+  name: Code & Coffee
+  status: upcoming
+  time: 1425754800000
+  updated: 1425084852000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -409,7 +452,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -495,7 +538,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1424824280000
   description: "<p><img src=\"https://raw.githubusercontent.com/maptime/dc/gh-pages/img/dcflag.png\"\
     \ /></p> <p>Tim Abdella,\_GIO\_for the Government of the District of Columbia,\
@@ -527,7 +570,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -584,7 +627,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 118
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -626,6 +669,90 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1425082539000
+  description: "<p>For the March Data Science DC Meetup, we're very happy to have\
+    \ two talks that will dive into the mathematical details. First, Brandon Bass\
+    \ from\_<a href=\"http://www.navigant.com/energy/\">Navigant Energy</a> will talk\
+    \ about heuristics in optimization, a fundamental component of many machine learning\
+    \ algorithms, and a highly useful set of techniques in their own right. Then,\
+    \ Biplab Pal and Mark Silverman from <a href=\"http://www.treeminer.com/\">Treeminer\
+    \ </a>will talk about an innovative mathematical re-representation of data that\
+    \ allows dramatically faster classification and clustering. Like math? We do too.\
+    \ Join us to learn some new things.</p> <p><br/><b>NOTE:</b> We're up in Microsoft's\
+    \ offices in Chevy Chase this month! If you're taking the Metro, exit North from\
+    \ the Friendship Heights stop. If you're driving, there's a garage underneath\
+    \ the building.</p> <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking, Empanadas,\
+    \ and Refreshments</p> <p>\u2022\_7:00pm -- Introduction, Announcements, Give-aways</p>\
+    \ <p>\u2022\_7:15pm -- Presentations and Discussion</p> <p>\u2022\_8:30pm -- Data\
+    \ Drinks (<i>TBA</i>)</p> <p><b>Talks:</b></p> <p><i>Heuristic Optimization</i></p>\
+    \ <p>Lots of people use optimization, but do you know what's going on under the\
+    \ hood?\_ Using the right algorithm for your data can drastically improve the\
+    \ accuracy and speed of your analysis.\_ But what if you're unsure of the theoretical\
+    \ properties of your data, such as its convexity or continuity? Heuristic methods\
+    \ of optimization can come to the rescue.\_ We will go through algorithms which\
+    \ are modeled off of how genes are passed throughout generations, to methods which\
+    \ were inspired by animal herd movement. The concepts and mathematical basis of\
+    \ Greedy Search, Simulated Annealing, and Genetic Algorithm will be emphasized,\
+    \ and time permitting, we will discuss a few tricks, parallelization and the \"\
+    No Free Lunch\" Theorem.</p> <p>Brandon Bass is a Senior Consultant at Navigant\
+    \ Energy, working on development of data-driven web and platform applications\
+    \ and expansion of Navigant's proprietary energy market models. Before Navigant,\
+    \ Brandon worked with Altenex, a Boston-based small business in the energy space,\
+    \ to develop their power market forecasting and risk analytics engine.\_ Brandon\
+    \ completed his Masters in Engineering in Power Systems Engineering and Optimization,\
+    \ and his B.S. in Environmental Engineering, both from Cornell University. Follow\
+    \ him on twitter\_<a href=\"https://twitter.com/Brandon_D_Bass\">@brandon_d_bass</a>.\_\
+    </p> <p><i>Vertical Algebra and Machine Learning</i></p> <p>Organizations today\
+    \ face challenges in performing predictive classification and clustering, driven\
+    \ by the volume, speed, and variety of data. We are pioneering a new approach\
+    \ to these tasks, one based on a novel vertical organization of data.\_ This approach\
+    \ has significant scalability advantages over traditional approaches, and has\
+    \ been implemented in Big Data environments like Hadoop and Storm.\_ We\u2019\
+    ll review the mathematical foundations of vertical data mining (vertical \u201C\
+    algebra\u201D), and some example classification and auto clustering algorithms\
+    \ that have been implemented using vertical \u201Calgebra\u201D.\_ We\u2019ll\
+    \ also review some applications where vertical data organization can provide great\
+    \ benefit.</p> <p><br/>Mark Silverman is the Founder and CEO of Treeminer, Inc.,\
+    \ a start-up company tackling the problem of large dataset analytics using Vertical\
+    \ Data Mining techniques.\_Mark has a diverse technology background, including\
+    \ Data Mining and Analytics, IT software and infrastructure, Networking and Security,\
+    \ and Wireless technologies.\_ He co-founded Treeminer with Dr. William Perrizo\
+    \ to bring to market a novel approach to solving the problems of data mining in\
+    \ large datasets.\_ Mark has been intimately involved with the development of\
+    \ the software and algorithms that are at the heart of Vertical Data Mining.\_\
+    Mark received his Bachelor\u2019s Degree from Columbia University.</p> <p>Biplab\
+    \ Pal is CTO of\_<a href=\"http://www.autopredictivecoding.com/\">Autopredictivecoding\
+    \ LLC</a>\_and Product/Application development manager for Treeminer Inc. Biplab\
+    \ has a PhD in Telecommunication Engineering and he has more than 16 years of\
+    \ experience with modeling of Sensors and Telecom System Engineering Data. Currently\
+    \ he has developed a \_Big Data platform for IoT for mid-sized manufacturing for\
+    \ MRO (Maintenance, Repair &amp; Operation) using Treeeminer's new classification\
+    \ technology.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"\
+    http://www.microsoft.com/en-us/default.aspx\">Microsoft</a>,\_<a href=\"http://bit.ly/12YljkP\"\
+    >Statistics.com</a>,\_<a href=\"http://datamininglab.com/\">Elder Research</a>,\
+    \ <a href=\"http://novetta.com/\">Novetta Solutions</a>, and\_<a href=\"http://www.informit.com/\"\
+    >Pearson/InformIT</a>. (Would your organization like to sponsor too? Please get\
+    \ in touch!)</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-DC/events/220811689/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '220811689'
+  maybe_rsvp_count: 0
+  name: Math-y Data Science
+  rsvp_limit: 400
+  status: upcoming
+  time: 1426545000000
+  updated: 1425082676000
+  utc_offset: -14400000
+  venue: {address_1: '5404 Wisconsin Ave, Suite 5186', city: Chevy Chase, country: us,
+    id: 7787252, lat: 38.961964000000002, lon: -77.086342000000002, name: Microsoft
+      Chevy Chase Office, repinned: false, state: MD, zip: '20815'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 11
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1240,7 +1367,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 98
 - created: 1423021750000
   description: "<p>(<i>Please note that you need to get a ticket through Eventbrite\
     \ to attend:\_<a href=\"http://bamgdc.eventbrite.com/?aff=DCDevMeetup\"><a href=\"\
@@ -1340,7 +1467,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 116
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1564,45 +1691,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1424968249000
-  description: "<p>Interested in learning how to build Android apps with an awesome\
-    \ group of women? \_Looking to build your first app or build on existing skills?\
-    \ \_Come to our weekly Android hack night! \_We welcome women with all levels\
-    \ of Android experience (including none), but coding experience is preferred as\
-    \ Android is not the friendliest way to learn how to code.\_</p> <p><b>Meetup\
-    \ Format</b></p> <p>We will set up stations according to level of experience and\
-    \ provide you with recommended resources to work through as a group. \_You will\
-    \ be able to ask your fellow coders questions and help each other work through\
-    \ issues. \_We encourage any advanced Android developers and enthusiasts to come\
-    \ and help others! \_There will also be at least one mentor present to help you\
-    \ with best practices or guide you if you are stuck with a problem! \_</p> <p><b>Building\
-    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
-    \ to let people in instead of relying on their security staff. \_ Please respect\
-    \ the policy in case the location requires access to the building. \_To gain access,\
-    \ contact the group lead if information is provided or drop a comment on the meetup\
-    \ page. We'll come get you.\_</p> <p><b>Resources</b><br/>This is our <a href=\"\
-    https://docs.google.com/document/d/1rywJzskHM3lum2akxR28GdtyhAjGBJgVhBl3t7swg5Y/edit\"\
-    >Android Start Here</a> document. \_It's chock full of information to get you\
-    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
-    \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women and those who identify as women; we are transgender\
-    \ friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/fnstflytgbsb/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: fnstflytgbsb
-  maybe_rsvp_count: 0
-  name: Android Hack Night
-  rsvp_limit: 30
-  status: upcoming
-  time: 1429050600000
-  updated: 1424968249000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1422815319000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in April! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

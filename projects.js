@@ -224,7 +224,7 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 60, 
+        "open_issues": 59, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -240,14 +240,14 @@ projects([
         "activity": [
             2, 
             11, 
-            1, 
+            0, 
             1, 
             14, 
             0, 
-            2, 
-            13, 
-            8, 
-            1, 
+            10, 
+            5, 
+            9, 
+            0, 
             7, 
             1, 
             4, 
@@ -256,13 +256,13 @@ projects([
             0, 
             0, 
             6, 
+            3, 
+            3, 
+            4, 
+            4, 
             2, 
-            4, 
-            4, 
-            4, 
-            2, 
-            6, 
-            4, 
+            7, 
+            3, 
             0, 
             1, 
             0, 
@@ -273,22 +273,22 @@ projects([
             0, 
             6, 
             2, 
-            0, 
             2, 
             5, 
+            0, 
+            1, 
+            0, 
+            4, 
+            3, 
+            0, 
+            0, 
+            0, 
+            4, 
             1, 
             0, 
             0, 
-            7, 
-            0, 
-            0, 
-            0, 
-            0, 
+            3, 
             5, 
-            0, 
-            0, 
-            1, 
-            7, 
             0
         ], 
         "civic_json": null, 
@@ -872,7 +872,7 @@ projects([
         ], 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1308,7 +1308,7 @@ projects([
         "languages": [], 
         "main_language": null, 
         "name": "DC Tree Map", 
-        "open_issues": 1, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/17545?v=3", 
             "name": "rrbaker", 
@@ -1317,8 +1317,8 @@ projects([
         }, 
         "pushed_at": "2015-02-26T02:12:36Z", 
         "size": 0, 
-        "updated_at": "2015-02-26T15:08:22Z", 
-        "watchers": 1
+        "updated_at": "2015-02-27T21:38:52Z", 
+        "watchers": 2
     }, 
     {
         "activity": [
@@ -1333,8 +1333,8 @@ projects([
             3, 
             5, 
             5, 
-            1, 
-            9, 
+            2, 
+            8, 
             3, 
             2, 
             0, 
@@ -1345,8 +1345,8 @@ projects([
             3, 
             1, 
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -1670,8 +1670,8 @@ projects([
         }, 
         "pushed_at": "2015-01-15T03:59:07Z", 
         "size": 21123, 
-        "updated_at": "2015-01-15T03:59:07Z", 
-        "watchers": 5
+        "updated_at": "2015-02-27T19:18:21Z", 
+        "watchers": 6
     }, 
     {
         "activity": [
@@ -2225,7 +2225,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 13, 
+                "contributions": 14, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }
@@ -2233,10 +2233,10 @@ projects([
         "contributors_count": 1, 
         "created_at": "2015-02-14T06:39:32Z", 
         "default_branch": "master", 
-        "description": "R Shiny CSV Geocoder", 
+        "description": "Web app interface for geocoding addresses in CSV files. Built in R Shiny.", 
         "forks": 0, 
         "help_wanted": [], 
-        "homepage": null, 
+        "homepage": "https://emanuelfeld.shinyapps.io/geocoder", 
         "html_url": "https://github.com/evonfriedland/geocoder", 
         "id": 30789409, 
         "languages": [
@@ -2254,9 +2254,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-02-23T04:27:46Z", 
+        "pushed_at": "2015-02-27T22:12:42Z", 
         "size": 140, 
-        "updated_at": "2015-02-23T04:27:46Z", 
+        "updated_at": "2015-02-27T22:14:38Z", 
         "watchers": 1
     }, 
     {
@@ -2318,7 +2318,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 76, 
+                "contributions": 77, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }
@@ -2326,10 +2326,10 @@ projects([
         "contributors_count": 1, 
         "created_at": "2015-02-19T05:26:29Z", 
         "default_branch": "master", 
-        "description": "", 
+        "description": "Scraping the DC Public Library catalog to generate a feed of new additions.", 
         "forks": 0, 
         "help_wanted": [], 
-        "homepage": null, 
+        "homepage": "https://twitter.com/booksfordc", 
         "html_url": "https://github.com/evonfriedland/booksfordc", 
         "id": 31002646, 
         "languages": [
@@ -2351,9 +2351,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-02-26T22:50:21Z", 
+        "pushed_at": "2015-02-27T22:07:30Z", 
         "size": 356, 
-        "updated_at": "2015-02-26T22:50:21Z", 
+        "updated_at": "2015-02-27T22:16:06Z", 
         "watchers": 0
     }, 
     {
@@ -2526,32 +2526,44 @@ projects([
             0, 
             0, 
             0, 
-            9, 
+            14, 
             0, 
+            8, 
             0, 
-            0, 
-            0, 
-            0, 
+            1, 
+            3, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1573454?v=3", 
+                "contributions": 18, 
+                "link": "https://github.com/RyanGladstone", 
+                "name": "RyanGladstone"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
-                "contributions": 6, 
+                "contributions": 8, 
                 "link": "https://github.com/mattbailey0", 
                 "name": "mattbailey0"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1573454?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/RyanGladstone", 
-                "name": "RyanGladstone"
+                "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/brianek", 
+                "name": "brianek"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 2, 
+        "contributors_count": 4, 
         "created_at": "2015-01-09T00:15:28Z", 
-        "default_branch": "master", 
+        "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
         "forks": 2, 
         "help_wanted": [], 
@@ -2570,14 +2582,14 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Conviction Expungement", 
-        "open_issues": 1, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-02-27T14:43:41Z", 
+        "pushed_at": "2015-02-27T20:30:21Z", 
         "size": 8600, 
         "updated_at": "2015-02-14T15:07:59Z", 
         "watchers": 5
