@@ -1,9 +1,9 @@
-- activity: [11, 0, 0, 2, 8, 1, 4, 0, 15, 18, 7, 12, 13, 7, 85, 70, 50, 5, 12, 6,
-    5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 23, 39, 16, 30, 36, 1, 0, 14,
-    17, 12, 30, 20, 33, 92, 22, 36]
+- activity: [0, 0, 0, 2, 8, 1, 4, 0, 32, 1, 7, 13, 12, 10, 89, 65, 49, 4, 15, 3, 5,
+    0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 29, 33, 18, 32, 32, 1, 6, 8, 17,
+    15, 27, 20, 46, 82, 19, 36]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 688,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 689,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 102,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
@@ -57,7 +57,7 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 186310]
+  - [Ruby, 189152]
   - [HTML, 68586]
   - [CSS, 13575]
   - [Puppet, 5537]
@@ -66,12 +66,12 @@
   - [Shell, 118]
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 59
+  open_issues: 58
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-27T12:59:59Z'
+  pushed_at: '2015-03-01T06:27:48Z'
   size: 22538
-  updated_at: '2015-02-27T12:59:59Z'
+  updated_at: '2015-03-01T06:27:50Z'
   watchers: 18
 - activity: [9, 4, 0, 9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 2,
     8, 2, 1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0,
@@ -119,32 +119,25 @@
   id: 8715969
   languages:
   - [Python, 96819]
+  - [HTML, 63232]
   - [CSS, 9442]
   - [Shell, 4622]
   - [JavaScript, 1992]
+  - [Nginx, 1175]
+  - [ApacheConf, 104]
   main_language: Python
   name: ANC Finder
   open_issues: 34
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-15T21:30:31Z'
+  pushed_at: '2015-03-01T18:29:31Z'
   size: 73166
-  updated_at: '2015-02-15T21:30:32Z'
+  updated_at: '2015-03-01T18:29:32Z'
   watchers: 27
 - activity: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 1]
-  civic_json:
-    bornAt: Code for DC
-    categories: [Transportation, Cycling, Bikeshare]
-    communityPartner: {Data Science for Social Good: 'http://dssg.io'}
-    conformsTo: https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md
-    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
-    data: {Capital Bikeshare Dock History: 'http://opendatadc.org/dataset/capital-bikeshare-dock-history'}
-    geography: Washington, DC
-    needs: [Data updates, Improved usability on mobile devices]
-    status: Complete (in need of data updates)
-    type: Web app
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 20,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -215,12 +208,12 @@
   size: 40024
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [1, 0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1,
-    4, 8, 3, 0, 5, 14, 8, 3, 3, 12, 8, 7, 9, 11, 11, 3, 1, 8, 1, 4, 2, 0, 10, 0, 0,
-    5, 2, 3, 6]
+- activity: [1, 0, 4, 0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3,
+    3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1, 9, 0, 4, 2, 0, 10, 0, 0,
+    5, 2, 7, 2]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 109,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 110,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 49,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -270,7 +263,7 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [HTML, 118951]
+  - [HTML, 119000]
   - [JavaScript, 28711]
   - [CSS, 15599]
   - [Ruby, 3083]
@@ -279,9 +272,9 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-27T13:49:20Z'
+  pushed_at: '2015-03-01T18:05:36Z'
   size: 17401
-  updated_at: '2015-02-27T13:25:53Z'
+  updated_at: '2015-03-01T18:05:15Z'
   watchers: 16
 - activity: [5, 4, 6, 6, 4, 6, 5, 6, 6, 5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5,
     6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7, 6, 2, 5, 0, 0, 0, 0, 0,
@@ -338,21 +331,33 @@
   civic_json:
     categories:
     - {category: Open Data}
+    - {category: Social services}
+    communityPartner: {Bread for the City: 'http://www.breadforthecity.org/'}
     conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: bloom@codeforamerica.org, name: Greg Bloom, twitter: '@greggish'}
+    contact: {email: bloom@openreferral.org, name: Greg Bloom, twitter: '@greggish'}
+    geography: DC Metro Area
+    governmentPartner: {Deputy Mayor of Health and Human Services: 'http://dmhhs.dc.gov'}
     moreInfo: https://codefordc.github.io/open211/
+    needs:
+    - {need: Ruby on Rails}
+    - {need: Information architecture}
+    - {need: UX}
+    - {need: systems-thinkers}
+    - {need: 'people with experience in social services, especially the District'}
     status: Alpha
+    thumbnailURL: https://docs.google.com/file/d/0B-5CZ4ZLjTHqal9jdm94TzdBNzg/preview
+    type: Communications Infrastructure
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 3,
     link: 'https://github.com/justgrimes', name: justgrimes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4021179?v=3', contributions: 3,
     link: 'https://github.com/noahpatterson', name: noahpatterson}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3630150?v=3', contributions: 3,
+    link: 'https://github.com/greggish', name: greggish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 2,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7637609?v=3', contributions: 1,
     link: 'https://github.com/ernbrn', name: ernbrn}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3630150?v=3', contributions: 1,
-    link: 'https://github.com/greggish', name: greggish}
   contributors_count: 5
   created_at: '2013-06-02T19:27:08Z'
   default_branch: gh-pages
@@ -371,9 +376,9 @@
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-03-01T00:42:02Z'
+  pushed_at: '2015-03-01T16:01:32Z'
   size: 2932
-  updated_at: '2015-03-01T00:42:02Z'
+  updated_at: '2015-03-01T16:01:33Z'
   watchers: 3
 - activity: [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0,
     8, 0, 11, 6, 14, 3, 1, 9, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0,
@@ -411,25 +416,7 @@
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 7]
-  civic_json:
-    bornAt: Code for DC
-    categories: [trees, ddot, forestry, environment]
-    communityPartner: {Casey Trees: 'http://caseytrees.org'}
-    conformsTo: https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md
-    contact: {email: rrbaker@gmail.com, name: Rob Baker, twitter: rrbaker}
-    data: {Casey Trees (planting timelapse 2003-2014 map): 'https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public',
-      Casey Trees (planting timelapse 2003-2014): 'http://caseytrees.org/resources/maps/time-lapse/',
-      DC's Urban Forest Administration (UFA) Street Trees: 'http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23'}
-    geography: Washington, DC
-    governmentPartner: {DDOT Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa',
-      District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
-    moreInfo: https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1
-    needs: [Community Engagement Pros, Media, Communications experts, 'Educators (primary,secondary)',
-      GIS Analysts, Foresters]
-    politicalEntity: {District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
-    status: Alpha
-    thumbnailUrl: http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17545?v=3', contributions: 7,
     link: 'https://github.com/rrbaker', name: rrbaker}
@@ -505,7 +492,7 @@
   size: 105864
   updated_at: '2014-10-16T14:27:14Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -534,8 +521,8 @@
   size: 592
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 13, 2, 1, 2, 0,
-    12, 31, 7, 0, 3, 19, 21, 5, 9, 15, 2, 13, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 1, 2, 0,
+    37, 6, 7, 0, 14, 10, 19, 6, 11, 12, 2, 13, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
     0, 0, 0, 0, 0]
   civic_json: null
   contributors:
@@ -722,21 +709,7 @@
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 6, 11]
-  civic_json:
-    bornAt: ''
-    categories: [Geocoding, Geospatial, Maps]
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: CSV Geocoder, twitter: '@evonfriedland'}
-    data: {? '' : ''}
-    geography: Global
-    governmentPartner: {}
-    moreInfo: https://emanuelfeld.shinyapps.io/geocoder
-    needs: []
-    politicalEntity: {}
-    status: Production
-    thumbnailUrl: ''
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 14,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
@@ -766,28 +739,41 @@
     0, 39, 38]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 77,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 86,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
   contributors_count: 1
   created_at: '2015-02-19T05:26:29Z'
   default_branch: master
   description: Scraping the DC Public Library catalog to generate a feed of new additions.
   forks: 0
-  help_wanted: []
+  help_wanted:
+  - assignee: null
+    body: "In 16px, 48px, 128px squares. Thinking something like this:\r\n![fullsizerender](https://cloud.githubusercontent.com/assets/4269640/6431995/0f639f00-c010-11e4-8af0-304abd73a97a.jpg)\r\
+      \n"
+    comments: 0
+    created_at: '2015-03-01T17:18:57Z'
+    issue: Need booksfordc extension logo
+    issue_url: https://github.com/evonfriedland/booksfordc/issues/2
+    labels:
+    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/evonfriedland/booksfordc/labels/help%20wanted'}
+    project: Books for DC
+    project_url: https://github.com/evonfriedland/booksfordc
+    updated_at: '2015-03-01T17:40:12Z'
   homepage: https://twitter.com/booksfordc
   html_url: https://github.com/evonfriedland/booksfordc
   id: 31002646
   languages:
   - [Python, 5815]
+  - [CSS, 216]
   - [JavaScript, 2]
   main_language: Python
   name: Books for DC
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: evonfriedland,
     type: User, url: 'https://github.com/evonfriedland'}
-  pushed_at: '2015-02-27T22:07:30Z'
+  pushed_at: '2015-03-01T18:14:08Z'
   size: 356
-  updated_at: '2015-02-27T22:16:06Z'
+  updated_at: '2015-03-01T18:14:09Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -811,7 +797,7 @@
     status: Alpha
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 17,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 18,
     link: 'https://github.com/bbrotsos', name: bbrotsos}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 12,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -829,18 +815,18 @@
   html_url: https://github.com/cmgiven/dcps-facilities
   id: 31128008
   languages:
-  - [JavaScript, 10032]
+  - [JavaScript, 11252]
   - [HTML, 6836]
-  - [CSS, 4049]
+  - [CSS, 4042]
   - [Ruby, 966]
   main_language: JavaScript
   name: DCPS Facility Conditions
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-02-28T02:58:39Z'
+  pushed_at: '2015-03-01T17:51:35Z'
   size: 992
-  updated_at: '2015-02-28T02:58:39Z'
+  updated_at: '2015-03-01T17:51:36Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 5, 0, 8, 0,
@@ -870,7 +856,7 @@
   - [JavaScript, 4349]
   main_language: CSS
   name: Conviction Expungement
-  open_issues: 3
+  open_issues: 5
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-02-27T20:30:21Z'

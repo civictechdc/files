@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1415830109000, 
@@ -114,7 +114,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1424967403000, 
@@ -142,7 +142,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1421849941000, 
@@ -222,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 162
+            "yes_rsvp_count": 166
         }, 
         {
             "created": 1417881835000, 
@@ -261,7 +261,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1326383071000, 
@@ -301,7 +301,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1425084852000, 
@@ -404,7 +404,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1424969372000, 
@@ -431,7 +431,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1424824280000, 
@@ -470,7 +470,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1423625127000, 
@@ -510,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1421849941000, 
@@ -577,7 +577,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1424279774000, 
@@ -652,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1424968249000, 
@@ -748,7 +748,7 @@ calendar({
         }, 
         {
             "created": 1423167734000, 
-            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/b/3/a/3/600_434025987.jpeg\" /></p> <p>\n\n\n\n\n\nFirebase is an API for building realtime applications. Using Firebase you can store and sync data between your users with a few lines of code. \u00a0Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. Come with your laptops. <b>Google Engineer David East will be live coding a cross platform application with Firebase, Angular2, and Android.</b></p> <p>\n\n\n<b>About\u00a0the presenter</b></p> <p>\n\nDavid East is an Engineer at Google working on Firebase. He's also a Core Contributor on the AngularJS team. He believes you should realtime all the things. You can find him on <a href=\"http://github.com/davideast\">Github</a> and <a href=\"https://twitter.com/_davideast\">Twitter</a>.</p> <p>\n\n<b>Agenda</b></p> <p>\n\n\u2022\u00a06:30pm: Welcome and introductions</p> <p>\n\n\u2022\u00a07pm-8pm: Presentation</p> <p>\n\n\u2022\u00a08pm: Networking</p> <p>\n\nLocation: <a href=\"http://www.klgates.com/washington-dc-united-states-of-america/\">K&amp;L Gates</a>\u00a01601 K St. NW,\u00a0Washington,\u00a0DC</p>", 
+            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/b/3/a/3/600_434025987.jpeg\" /></p> <p>Firebase is an API for building realtime applications. Using Firebase you can store and sync data between your users with a few lines of code. \u00a0Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. Come with your laptops. <b>Google Engineer David East will be live coding a cross platform application with Firebase, Angular2, and Android.</b></p> <p><br/><b>About\u00a0the presenter</b></p> <p>David East is an Engineer at Google working on Firebase. He's also a Core Contributor on the AngularJS team. He believes you should realtime all the things. You can find him on <a href=\"http://github.com/davideast\">Github</a> and <a href=\"https://twitter.com/_davideast\">Twitter</a>.</p> <p><b>Agenda</b></p> <p>\u2022\u00a06:30pm: Welcome and introductions</p> <p>\u2022\u00a07pm-8pm: Presentation</p> <p>\u2022\u00a08pm: Networking</p> <p>Location: <a href=\"http://www.klgates.com/washington-dc-united-states-of-america/\">K&amp;L Gates</a>\u00a01601 K St. NW,\u00a0Washington,\u00a0DC</p>", 
             "event_url": "http://www.meetup.com/gdg-dc/events/220331129/", 
             "group": {
                 "created": 1268219647000, 
@@ -764,11 +764,11 @@ calendar({
             "how_to_find_us": "Firebase, Google, Java, API, Mobile, Python", 
             "id": "220331129", 
             "maybe_rsvp_count": 0, 
-            "name": "Building Realtime Apps with Firebase, with David East", 
+            "name": "Building Realtime Apps with Firebase", 
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1426804200000, 
-            "updated": 1423189115000, 
+            "updated": 1425222595000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1601 K St. NW", 
@@ -1158,7 +1158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1424447514000, 

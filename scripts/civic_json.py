@@ -3,7 +3,7 @@ from jsonschema import validate
 
 path = os.path.dirname(os.path.realpath(__file__))
 
-# Load
+# Load credentials for Github
 exec(compile(open(path + "/creds.py").read(), path + "/creds.py", 'exec'))
 
 # Load in the projects we're tracking
@@ -12,80 +12,10 @@ tracked = tracked["projects"]
 
 output = []
 
-schema = requests.get("http://localhost:4000/resources/schema.json").json()
+# Load civic.json schema from Code for DC site
+schema = requests.get("http://codefordc.org/resources/schema.json").json()
 
-# Create schema for JSON validation
-"""schema = {
-    "type":"object",
-    "properties":{
-        "conformsTo":{
-            "required":True,
-            "enum": [
-                "http://codefordc.org/resources/specification.html",
-                "https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md"
-            ]
-        },
-        "status":{
-            "type":"string",
-            "blank":True
-        },
-        "thumbnailUrl":{
-            "type":"string",
-            "blank":True
-        },
-        "contact":{
-            "type":"object",
-            "properties":{
-                "name":{
-                    "type":"string",
-                    "blank":True
-                },
-                "email":{
-                    "type":"string",
-                    "blank":True
-                },
-                "twitter":{
-                    "type":"string",
-                    "blank":True
-                }
-            }
-        },
-        "bornAt":{
-            "type":"string"
-        },
-        "geography":{
-            "type":"string"
-        },
-        "politicalEntity":{
-            "type":"object"
-        },
-        "governmentPartner":{
-            "type":"object"
-        },
-        "communityPartner":{
-            "type":"object"
-        },
-        "type":{
-            "type":"string",
-            "blank":True
-        },
-        "data":{
-            "type":"array",
-            "required":False
-        },
-        "needs":{
-            "type":"array"
-        },
-        "categories":{
-            "type":"array"
-        },
-        "moreInfo":{
-            "type":"string",
-            "blank":True
-        }
-    }
-}"""
-
+# Begin building
 for project in tracked:
     for key, value in project.items():
         name = key
@@ -172,7 +102,8 @@ for project in tracked:
         try:
             validate(civic,schema)
         except jsonschema.exceptions.ValidationError, error:
-            print error
+            #print error
+            print data['name']
             print "\n\n"
             civic = None
     except ValueError:
