@@ -134,7 +134,17 @@
 - activity: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 1]
-  civic_json: null
+  civic_json:
+    bornAt: Code for DC
+    categories: [Transportation, Cycling, Bikeshare]
+    communityPartner: {Data Science for Social Good: 'http://dssg.io'}
+    conformsTo: https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md
+    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
+    data: {Capital Bikeshare Dock History: 'http://opendatadc.org/dataset/capital-bikeshare-dock-history'}
+    geography: Washington, DC
+    needs: [Data updates, Improved usability on mobile devices]
+    status: Complete (in need of data updates)
+    type: Web app
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 20,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -276,7 +286,24 @@
 - activity: [5, 4, 6, 6, 4, 6, 5, 6, 6, 5, 6, 7, 3, 6, 7, 32, 6, 6, 3, 6, 7, 6, 5,
     6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7, 6, 2, 5, 0, 0, 0, 0, 0,
     0, 0, 3]
-  civic_json: null
+  civic_json:
+    bornAt: Code for DC
+    categories:
+    - {category: Open Data}
+    - {category: Politics}
+    - {category: Government}
+    communityPartner: {Code for DC: 'http://codefordc.org/'}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: ajschumacher@gmail.com, name: Aaron Schumacher, twitter: '@planarrowspace'}
+    data: {DC mayor public schedule events: 'https://github.com/ajschumacher/dc_mayor_schedule/raw/gh-pages/data/mayor_events.csv'}
+    geography: Washington, DC
+    moreInfo: https://github.com/ajschumacher/dc_mayor_schedule
+    needs:
+    - {need: updating to new data source}
+    politicalEntity: {DC Mayor: 'http://mayor.dc.gov/'}
+    status: Production
+    thumbnailUrl: http://ajschumacher.github.io/dc_mayor_schedule/assets/img/240px-Pink-Calendar.png
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 430,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
@@ -308,7 +335,13 @@
 - activity: [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 2]
-  civic_json: null
+  civic_json:
+    categories:
+    - {category: Open Data}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: bloom@codeforamerica.org, name: Greg Bloom, twitter: '@greggish'}
+    moreInfo: https://codefordc.github.io/open211/
+    status: Alpha
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 3,
     link: 'https://github.com/justgrimes', name: justgrimes}
@@ -378,7 +411,25 @@
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 7]
-  civic_json: null
+  civic_json:
+    bornAt: Code for DC
+    categories: [trees, ddot, forestry, environment]
+    communityPartner: {Casey Trees: 'http://caseytrees.org'}
+    conformsTo: https://github.com/codefordc/guides/blob/master/using-civic.json/specification.md
+    contact: {email: rrbaker@gmail.com, name: Rob Baker, twitter: rrbaker}
+    data: {Casey Trees (planting timelapse 2003-2014 map): 'https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public',
+      Casey Trees (planting timelapse 2003-2014): 'http://caseytrees.org/resources/maps/time-lapse/',
+      DC's Urban Forest Administration (UFA) Street Trees: 'http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23'}
+    geography: Washington, DC
+    governmentPartner: {DDOT Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa',
+      District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
+    moreInfo: https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1
+    needs: [Community Engagement Pros, Media, Communications experts, 'Educators (primary,secondary)',
+      GIS Analysts, Foresters]
+    politicalEntity: {District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
+    status: Alpha
+    thumbnailUrl: http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17545?v=3', contributions: 7,
     link: 'https://github.com/rrbaker', name: rrbaker}
@@ -671,7 +722,21 @@
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 6, 11]
-  civic_json: null
+  civic_json:
+    bornAt: ''
+    categories: [Geocoding, Geospatial, Maps]
+    communityPartner: {}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: '', name: CSV Geocoder, twitter: '@evonfriedland'}
+    data: {? '' : ''}
+    geography: Global
+    governmentPartner: {}
+    moreInfo: https://emanuelfeld.shinyapps.io/geocoder
+    needs: []
+    politicalEntity: {}
+    status: Production
+    thumbnailUrl: ''
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 14,
     link: 'https://github.com/evonfriedland', name: evonfriedland}
@@ -727,7 +792,24 @@
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 30]
-  civic_json: null
+  civic_json:
+    bornAt: Open Data Day 2015, Code for DC
+    categories:
+    - {category: Education}
+    - {category: Government}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {twitter: '@codefordc'}
+    geography: DC
+    moreInfo: https://opendatadaydc.hackpad.com/l1eM7PP4lzb?eid=Fyye5349OBg
+    needs:
+    - {need: Javascript}
+    - {need: Leaflet}
+    - {need: Mapbox}
+    - {need: JQuery}
+    - {need: Spreadsheet Experts}
+    politicalEntity: {DCPS: 'http://dcps.dc.gov/'}
+    status: Alpha
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 17,
     link: 'https://github.com/bbrotsos', name: bbrotsos}

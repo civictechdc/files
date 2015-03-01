@@ -1,4 +1,5 @@
-import json, yaml, requests, os, time, operator, validictory
+import json, yaml, requests, os, time, operator, jsonschema
+from jsonschema import validate
 
 path = os.path.dirname(os.path.realpath(__file__))
 
@@ -11,8 +12,10 @@ tracked = tracked["projects"]
 
 output = []
 
+schema = requests.get("http://localhost:4000/resources/schema.json").json()
+
 # Create schema for JSON validation
-schema = {
+"""schema = {
     "type":"object",
     "properties":{
         "conformsTo":{
@@ -81,7 +84,7 @@ schema = {
             "blank":True
         }
     }
-}
+}"""
 
 for project in tracked:
     for key, value in project.items():
@@ -167,10 +170,9 @@ for project in tracked:
     try:
         civic = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/civic.json').json()
         try:
-            validictory.validate(civic,schema)
-        except ValueError, error:
+            validate(civic,schema)
+        except jsonschema.exceptions.ValidationError, error:
             print error
-            print civic
             print "\n\n"
             civic = None
     except ValueError:

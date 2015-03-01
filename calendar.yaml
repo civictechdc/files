@@ -316,7 +316,7 @@ other:
       LLP, repinned: false, state: DC, zip: '20004'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 161
+  yes_rsvp_count: 162
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>Window Functions are a powerful\
     \ component of standard SQL and are\_extremely useful for doing statistical analysis\
@@ -349,7 +349,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -414,7 +414,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -627,7 +627,7 @@ other:
       202 898 9000, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 120
+  yes_rsvp_count: 123
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -752,7 +752,7 @@ other:
       Chevy Chase Office, repinned: false, state: MD, zip: '20815'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 39
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
@@ -1467,7 +1467,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 120
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1520,7 +1520,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 68
 - created: 1424279774000
   description: <p>We're a group of women who want to learn JavaScript together. The
     study group is intended for everyone who wishes to learn JavaScript programming
