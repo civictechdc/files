@@ -224,14 +224,14 @@
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 58, 
+        "open_issues": 59, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T06:27:48Z", 
+        "pushed_at": "2015-03-01T18:55:17Z", 
         "size": 22538, 
         "updated_at": "2015-03-01T06:27:50Z", 
         "watchers": 18
@@ -301,7 +301,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 109, 
+                "contributions": 110, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -505,7 +505,7 @@
         "created_at": "2013-09-20T07:30:51Z", 
         "default_branch": "master", 
         "description": "Leaflet map of DC bikeshare stations and average availability.", 
-        "forks": 2, 
+        "forks": 3, 
         "help_wanted": [], 
         "homepage": "http://cmgiven.github.io/bikeshare-odds/", 
         "html_url": "https://github.com/cmgiven/bikeshare-odds", 
@@ -530,7 +530,7 @@
         ], 
         "main_language": "CSS", 
         "name": "CaBi Odds", 
-        "open_issues": 4, 
+        "open_issues": 5, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
             "name": "cmgiven", 
@@ -744,11 +744,37 @@
             7, 
             2
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Meta Project"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "", 
+                "twitter": "@CodeforDC"
+            }, 
+            "geography": "DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "", 
+            "needs": [
+                {
+                    "need": "Meetup integration"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Production", 
+            "thumbnailUrl": "http://codefordc.org/images/logo_500px.png", 
+            "type": "Website"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 110, 
+                "contributions": 111, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -891,32 +917,32 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T18:05:36Z", 
+        "pushed_at": "2015-03-01T18:49:42Z", 
         "size": 17401, 
-        "updated_at": "2015-03-01T18:05:15Z", 
+        "updated_at": "2015-03-01T18:49:26Z", 
         "watchers": 16
     }, 
     {
         "activity": [
+            4, 
             5, 
+            6, 
+            6, 
             4, 
             6, 
+            5, 
+            6, 
+            6, 
+            5, 
+            6, 
             6, 
             4, 
             6, 
+            25, 
+            15, 
             5, 
-            6, 
-            6, 
             5, 
-            6, 
-            7, 
-            3, 
-            6, 
-            7, 
-            32, 
-            6, 
-            6, 
-            3, 
+            4, 
             6, 
             7, 
             6, 
@@ -939,9 +965,9 @@
             4, 
             6, 
             7, 
-            6, 
-            2, 
             5, 
+            3, 
+            4, 
             0, 
             0, 
             0, 
@@ -949,7 +975,7 @@
             0, 
             0, 
             0, 
-            3
+            4
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1231,17 +1257,17 @@
             1, 
             0, 
             0, 
-            0, 
-            9, 
+            4, 
+            5, 
             0, 
             8, 
             0, 
-            11, 
-            6, 
+            13, 
+            4, 
             14, 
             3, 
-            1, 
-            9, 
+            5, 
+            5, 
             5, 
             3, 
             0, 
@@ -1261,8 +1287,8 @@
             0, 
             0, 
             10, 
-            13, 
-            7
+            15, 
+            5
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1390,7 +1416,7 @@
         "created_at": "2015-02-25T23:12:30Z", 
         "default_branch": "master", 
         "description": "Data and issue tracking for DCTreeMap", 
-        "forks": 0, 
+        "forks": 1, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -1417,7 +1443,7 @@
         "languages": [], 
         "main_language": null, 
         "name": "DC Tree Map", 
-        "open_issues": 2, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/17545?v=3", 
             "name": "rrbaker", 
@@ -1770,15 +1796,15 @@
         ], 
         "main_language": "Python", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 13, 
+        "open_issues": 14, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-01-15T03:59:07Z", 
-        "size": 21123, 
+        "pushed_at": "2015-03-01T19:05:57Z", 
+        "size": 21159, 
         "updated_at": "2015-02-27T19:18:21Z", 
         "watchers": 6
     }, 
@@ -2113,10 +2139,10 @@
             0, 
             0, 
             0, 
-            10, 
-            81, 
-            3, 
-            3, 
+            16, 
+            75, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -2326,8 +2352,8 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            4, 
+            2, 
             11
         ], 
         "civic_json": null, 
@@ -2343,7 +2369,7 @@
         "created_at": "2015-02-14T06:39:32Z", 
         "default_branch": "master", 
         "description": "Web app interface for geocoding addresses in CSV files. Built in R Shiny.", 
-        "forks": 0, 
+        "forks": 1, 
         "help_wanted": [], 
         "homepage": "https://emanuelfeld.shinyapps.io/geocoder", 
         "html_url": "https://github.com/evonfriedland/geocoder", 
@@ -2356,7 +2382,7 @@
         ], 
         "main_language": "R", 
         "name": "CSV Geocoder", 
-        "open_issues": 1, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "evonfriedland", 
@@ -2420,23 +2446,49 @@
             0, 
             0, 
             0, 
-            39, 
-            38
+            45, 
+            32
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Libraries"
+                }, 
+                {
+                    "category": "Government"
+                }
+            ], 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "Emanuel Feld", 
+                "twitter": "@booksfordc"
+            }, 
+            "geography": "DC", 
+            "status": "Production", 
+            "thumbnailUrl": "https://pbs.twimg.com/profile_images/568974012793892864/OybycQH6.jpeg", 
+            "type": "Scraper"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 86, 
+                "contributions": 89, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 1, 
+        "contributors_count": 2, 
         "created_at": "2015-02-19T05:26:29Z", 
         "default_branch": "master", 
         "description": "Scraping the DC Public Library catalog to generate a feed of new additions.", 
-        "forks": 0, 
+        "forks": 1, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -2483,9 +2535,9 @@
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-03-01T18:14:08Z", 
+        "pushed_at": "2015-03-01T19:11:05Z", 
         "size": 356, 
-        "updated_at": "2015-03-01T18:14:09Z", 
+        "updated_at": "2015-03-01T19:11:07Z", 
         "watchers": 0
     }, 
     {
@@ -2540,8 +2592,8 @@
             0, 
             0, 
             0, 
-            0, 
-            30
+            14, 
+            24
         ], 
         "civic_json": {
             "bornAt": "Open Data Day 2015, Code for DC", 
@@ -2585,7 +2637,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/605331?v=3", 
-                "contributions": 18, 
+                "contributions": 19, 
                 "link": "https://github.com/bbrotsos", 
                 "name": "bbrotsos"
             }, 
@@ -2620,7 +2672,7 @@
         "languages": [
             [
                 "JavaScript", 
-                11252
+                11679
             ], 
             [
                 "HTML", 
@@ -2644,9 +2696,9 @@
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2015-03-01T17:51:35Z", 
+        "pushed_at": "2015-03-01T18:36:37Z", 
         "size": 992, 
-        "updated_at": "2015-03-01T17:51:36Z", 
+        "updated_at": "2015-03-01T18:36:37Z", 
         "watchers": 0
     }, 
     {
