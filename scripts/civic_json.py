@@ -1,4 +1,4 @@
-import json, yaml, requests, os, time, operator, jsonschema
+import json, yaml, requests, os, time, operator, jsonschema, subprocess
 from jsonschema import validate
 
 path = os.path.dirname(os.path.realpath(__file__))
@@ -47,6 +47,16 @@ for project in tracked:
             'type': r['owner']['type']
         }
     }
+
+    if data['homepage']:
+        p = subprocess.Popen(['pa11y','-r','json',data['homepage']], stdout=subprocess.PIPE)
+        out, err = p.communicate()
+        try:
+            out = json.loads(out)
+            data["accessibility"] = out["count"]
+        except ValueError:
+            continue
+
 
     # Add in contributor information from Github
     contributors = []
@@ -104,7 +114,7 @@ for project in tracked:
         except jsonschema.exceptions.ValidationError, error:
             #print error
             print data['name']
-            print "\n\n"
+            print "\n"
             civic = None
     except ValueError:
         civic = None

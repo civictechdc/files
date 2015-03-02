@@ -1,5 +1,11 @@
 projects([
     {
+        "accessibility": {
+            "error": 20, 
+            "notice": 23, 
+            "total": 67, 
+            "warning": 24
+        }, 
         "activity": [
             0, 
             0, 
@@ -54,11 +60,45 @@ projects([
             19, 
             36
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Housing"
+                }
+            ], 
+            "communityPartner": {
+                "Bread for City": "http://www.breadforthecity.org/"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "Marcus Louie", 
+                "twitter": "@mlouie"
+            }, 
+            "geography": "Washington, DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc", 
+            "needs": [
+                {
+                    "need": "Rails enthusiasts"
+                }, 
+                {
+                    "need": "Salesforce"
+                }, 
+                {
+                    "need": "Passionate People"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Beta", 
+            "thumbnailUrl": "https://codefordc.github.io/districthousing/img/district-housing-logo-small.png", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 689, 
+                "contributions": 690, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -117,16 +157,16 @@ projects([
                 "name": "mpeteuil"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/sethpuckett", 
                 "name": "sethpuckett"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/stvnrlly", 
-                "name": "stvnrlly"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3376159?v=3", 
@@ -224,22 +264,28 @@ projects([
         ], 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 59, 
+        "open_issues": 58, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T18:55:17Z", 
+        "pushed_at": "2015-03-01T21:12:18Z", 
         "size": 22538, 
-        "updated_at": "2015-03-01T06:27:50Z", 
+        "updated_at": "2015-03-01T21:12:18Z", 
         "watchers": 18
     }, 
     {
+        "accessibility": {
+            "error": 68, 
+            "notice": 135, 
+            "total": 225, 
+            "warning": 22
+        }, 
         "activity": [
-            9, 
-            4, 
+            12, 
+            1, 
             0, 
             9, 
             6, 
@@ -260,18 +306,18 @@ projects([
             3, 
             5, 
             3, 
-            2, 
-            8, 
-            2, 
-            1, 
-            0, 
-            0, 
-            0, 
-            3, 
-            3, 
-            0, 
-            1, 
+            6, 
             5, 
+            1, 
+            1, 
+            0, 
+            0, 
+            0, 
+            3, 
+            3, 
+            0, 
+            4, 
+            2, 
             2, 
             2, 
             5, 
@@ -287,9 +333,9 @@ projects([
             0, 
             0, 
             0, 
-            3, 
-            5, 
-            0
+            8, 
+            0, 
+            1
         ], 
         "civic_json": null, 
         "contributors": [
@@ -438,6 +484,12 @@ projects([
         "watchers": 27
     }, 
     {
+        "accessibility": {
+            "error": 13, 
+            "notice": 29, 
+            "total": 56, 
+            "warning": 14
+        }, 
         "activity": [
             0, 
             0, 
@@ -690,6 +742,12 @@ projects([
         "watchers": 18
     }, 
     {
+        "accessibility": {
+            "error": 27, 
+            "notice": 56, 
+            "total": 89, 
+            "warning": 6
+        }, 
         "activity": [
             1, 
             0, 
@@ -917,12 +975,18 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T18:49:42Z", 
+        "pushed_at": "2015-03-02T04:33:48Z", 
         "size": 17401, 
         "updated_at": "2015-03-01T18:49:26Z", 
         "watchers": 16
     }, 
     {
+        "accessibility": {
+            "error": 6, 
+            "notice": 5, 
+            "total": 13, 
+            "warning": 2
+        }, 
         "activity": [
             4, 
             5, 
@@ -1120,7 +1184,7 @@ projects([
             0, 
             0, 
             0, 
-            2
+            5
         ], 
         "civic_json": {
             "categories": [
@@ -1223,7 +1287,7 @@ projects([
         ], 
         "main_language": "CSS", 
         "name": "Open 211", 
-        "open_issues": 3, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1456,359 +1520,12 @@ projects([
         "watchers": 2
     }, 
     {
-        "activity": [
-            3, 
-            0, 
-            2, 
-            0, 
-            1, 
-            0, 
-            1, 
-            0, 
-            3, 
-            6, 
-            5, 
-            3, 
-            7, 
-            3, 
-            1, 
-            0, 
-            2, 
-            0, 
-            0, 
-            0, 
-            3, 
-            1, 
-            0, 
-            2, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0
-        ], 
-        "civic_json": null, 
-        "contributors": [
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4000062?v=3", 
-                "contributions": 20, 
-                "link": "https://github.com/gemarcano", 
-                "name": "gemarcano"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1148798?v=3", 
-                "contributions": 16, 
-                "link": "https://github.com/sbai", 
-                "name": "sbai"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5058998?v=3", 
-                "contributions": 8, 
-                "link": "https://github.com/BridgitD", 
-                "name": "BridgitD"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2334699?v=3", 
-                "contributions": 7, 
-                "link": "https://github.com/alexlyte", 
-                "name": "alexlyte"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3506636?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/DimeZilla", 
-                "name": "DimeZilla"
-            }
-        ], 
-        "contributors_count": 5, 
-        "created_at": "2014-04-30T00:47:20Z", 
-        "default_branch": "master", 
-        "description": "Analysis of emergency response data for Washington, DC.", 
-        "forks": 5, 
-        "help_wanted": [], 
-        "homepage": "http://codefordc.github.io/ERDA/", 
-        "html_url": "https://github.com/codefordc/ERDA", 
-        "id": 19296315, 
-        "languages": [
-            [
-                "Python", 
-                18697
-            ]
-        ], 
-        "main_language": "Python", 
-        "name": "Emergency Response Times", 
-        "open_issues": 1, 
-        "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
-            "name": "codefordc", 
-            "type": "Organization", 
-            "url": "https://github.com/codefordc"
+        "accessibility": {
+            "error": 11, 
+            "notice": 15, 
+            "total": 37, 
+            "warning": 11
         }, 
-        "pushed_at": "2014-08-19T01:15:25Z", 
-        "size": 105864, 
-        "updated_at": "2014-10-16T14:27:14Z", 
-        "watchers": 4
-    }, 
-    {
-        "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0
-        ], 
-        "civic_json": null, 
-        "contributors": [
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/62615?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/ncb000gt", 
-                "name": "ncb000gt"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/shiftyp", 
-                "name": "shiftyp"
-            }
-        ], 
-        "contributors_count": 2, 
-        "created_at": "2014-06-24T23:23:23Z", 
-        "default_branch": "master", 
-        "description": "", 
-        "forks": 3, 
-        "help_wanted": [], 
-        "homepage": "http://shiftyp.github.io/dc_community_gardens_visualization", 
-        "html_url": "https://github.com/shiftyp/dc_community_gardens_visualization", 
-        "id": 21183987, 
-        "languages": [
-            [
-                "JavaScript", 
-                1645
-            ]
-        ], 
-        "main_language": "JavaScript", 
-        "name": "Community Gardens Visualization", 
-        "open_issues": 2, 
-        "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/131928?v=3", 
-            "name": "shiftyp", 
-            "type": "User", 
-            "url": "https://github.com/shiftyp"
-        }, 
-        "pushed_at": "2014-07-13T21:56:15Z", 
-        "size": 592, 
-        "updated_at": "2014-07-13T21:57:21Z", 
-        "watchers": 0
-    }, 
-    {
-        "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            5, 
-            14, 
-            0, 
-            1, 
-            2, 
-            0, 
-            37, 
-            6, 
-            7, 
-            0, 
-            14, 
-            10, 
-            19, 
-            6, 
-            11, 
-            12, 
-            2, 
-            13, 
-            0, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            4, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0
-        ], 
-        "civic_json": null, 
-        "contributors": [
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
-                "contributions": 125, 
-                "link": "https://github.com/donaldbraman", 
-                "name": "donaldbraman"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1186124?v=3", 
-                "contributions": 24, 
-                "link": "https://github.com/saulshanabrook", 
-                "name": "saulshanabrook"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 6, 
-                "link": "https://github.com/mkalish", 
-                "name": "mkalish"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/adunkman", 
-                "name": "adunkman"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/kevko", 
-                "name": "kevko"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/louh", 
-                "name": "louh"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/stvnrlly", 
-                "name": "stvnrlly"
-            }
-        ], 
-        "contributors_count": 7, 
-        "created_at": "2014-07-12T18:04:36Z", 
-        "default_branch": "gh-pages", 
-        "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 9, 
-        "help_wanted": [], 
-        "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
-        "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-        "id": 21773181, 
-        "languages": [
-            [
-                "Python", 
-                31029
-            ], 
-            [
-                "CSS", 
-                5195
-            ], 
-            [
-                "JavaScript", 
-                5165
-            ]
-        ], 
-        "main_language": "Python", 
-        "name": "Campaign Finance Watch", 
-        "open_issues": 14, 
-        "owner": {
-            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
-            "name": "codefordc", 
-            "type": "Organization", 
-            "url": "https://github.com/codefordc"
-        }, 
-        "pushed_at": "2015-03-01T19:05:57Z", 
-        "size": 21159, 
-        "updated_at": "2015-02-27T19:18:21Z", 
-        "watchers": 6
-    }, 
-    {
         "activity": [
             0, 
             0, 
@@ -1916,6 +1633,12 @@ projects([
         "watchers": 4
     }, 
     {
+        "accessibility": {
+            "error": 3, 
+            "notice": 5, 
+            "total": 10, 
+            "warning": 2
+        }, 
         "activity": [
             0, 
             0, 
@@ -2104,6 +1827,12 @@ projects([
         "watchers": 1
     }, 
     {
+        "accessibility": {
+            "error": 1, 
+            "notice": 44, 
+            "total": 102, 
+            "warning": 57
+        }, 
         "activity": [
             0, 
             0, 
@@ -2205,6 +1934,12 @@ projects([
         "watchers": 11
     }, 
     {
+        "accessibility": {
+            "error": 39, 
+            "notice": 46, 
+            "total": 94, 
+            "warning": 9
+        }, 
         "activity": [
             0, 
             0, 
@@ -2302,6 +2037,12 @@ projects([
         "watchers": 0
     }, 
     {
+        "accessibility": {
+            "error": 1, 
+            "notice": 2, 
+            "total": 4, 
+            "warning": 1
+        }, 
         "activity": [
             0, 
             0, 
@@ -2356,16 +2097,51 @@ projects([
             2, 
             11
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "", 
+            "categories": [
+                {
+                    "category": "Geocoding"
+                }, 
+                {
+                    "category": "Geospatial"
+                }, 
+                {
+                    "category": "Maps"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "CSV Geocoder", 
+                "twitter": "@evonfriedland"
+            }, 
+            "data": {}, 
+            "geography": "Global", 
+            "governmentPartner": {}, 
+            "moreInfo": "https://emanuelfeld.shinyapps.io/geocoder", 
+            "needs": [], 
+            "politicalEntity": {}, 
+            "status": "Production", 
+            "thumbnailUrl": "", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 14, 
+                "contributions": 15, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 1, 
+        "contributors_count": 2, 
         "created_at": "2015-02-14T06:39:32Z", 
         "default_branch": "master", 
         "description": "Web app interface for geocoding addresses in CSV files. Built in R Shiny.", 
@@ -2382,19 +2158,25 @@ projects([
         ], 
         "main_language": "R", 
         "name": "CSV Geocoder", 
-        "open_issues": 2, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "evonfriedland", 
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-02-27T22:12:42Z", 
+        "pushed_at": "2015-03-01T20:01:45Z", 
         "size": 188, 
-        "updated_at": "2015-02-27T22:14:38Z", 
+        "updated_at": "2015-03-01T20:01:45Z", 
         "watchers": 1
     }, 
     {
+        "accessibility": {
+            "error": 340, 
+            "notice": 429, 
+            "total": 990, 
+            "warning": 221
+        }, 
         "activity": [
             0, 
             0, 
@@ -2473,7 +2255,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 89, 
+                "contributions": 96, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }, 
@@ -2487,7 +2269,7 @@ projects([
         "contributors_count": 2, 
         "created_at": "2015-02-19T05:26:29Z", 
         "default_branch": "master", 
-        "description": "Scraping the DC Public Library catalog to generate a feed of new additions.", 
+        "description": "DC Public Library catalog scraper and Twitter feed; browser plug-in.", 
         "forks": 1, 
         "help_wanted": [
             {
@@ -2518,26 +2300,26 @@ projects([
                 5815
             ], 
             [
-                "CSS", 
-                216
+                "JavaScript", 
+                2665
             ], 
             [
-                "JavaScript", 
-                2
+                "CSS", 
+                216
             ]
         ], 
         "main_language": "Python", 
         "name": "Books for DC", 
-        "open_issues": 1, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "evonfriedland", 
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-03-01T19:11:05Z", 
+        "pushed_at": "2015-03-02T02:27:43Z", 
         "size": 356, 
-        "updated_at": "2015-03-01T19:11:07Z", 
+        "updated_at": "2015-03-02T02:27:43Z", 
         "watchers": 0
     }, 
     {
@@ -2702,6 +2484,12 @@ projects([
         "watchers": 0
     }, 
     {
+        "accessibility": {
+            "error": 4, 
+            "notice": 6, 
+            "total": 13, 
+            "warning": 3
+        }, 
         "activity": [
             0, 
             0, 
