@@ -15,6 +15,12 @@ output = []
 # Load civic.json schema from Code for DC site
 schema = requests.get("http://codefordc.org/resources/schema.json").json()
 
+# Load existing access results
+access = {}
+access_tasks = requests.get("https://accessfordc-worker.herokuapp.com/tasks").json()
+for i in access_tasks:
+    access[i["url"]] = i["id"]
+
 # Begin building
 for project in tracked:
     for key, value in project.items():
@@ -47,16 +53,6 @@ for project in tracked:
             'type': r['owner']['type']
         }
     }
-
-    if data['homepage']:
-        p = subprocess.Popen(['pa11y','-r','json',data['homepage']], stdout=subprocess.PIPE)
-        out, err = p.communicate()
-        try:
-            out = json.loads(out)
-            data["accessibility"] = out["count"]
-        except ValueError:
-            continue
-
 
     # Add in contributor information from Github
     contributors = []
@@ -112,13 +108,61 @@ for project in tracked:
         try:
             validate(civic,schema)
         except jsonschema.exceptions.ValidationError, error:
+            #print data['name']
             #print error
-            print data['name']
-            print "\n"
+            #print "\n"
             civic = None
     except ValueError:
         civic = None
     data['civic_json'] = civic
+
+    # Get accessibility results
+    accessibility = {}
+    urls = []
+
+    try:
+        r = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/pa11y.yml').json()
+        print r
+        y = yaml.load(r)
+        urls.append(y['urls'])
+    except ValueError:
+        if data['homepage']:
+            urls.append(data['homepage'])
+
+    for url in urls:
+        
+        # Get results if they exist
+        try:
+            r = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+access[url]+"/results").json()
+            try:
+                accessibility[url] = {
+                    "pa11y_id": access[url],
+                    "results": r[0]["count"]
+                }
+            except IndexError:
+                accessibility[url] = {"pa11y_id": access[url]}
+        
+        # If not, start tracking site
+        except KeyError:
+            payload = {
+                "url": url,
+                "name": name+" - "+url,
+                "standard": "WCAG2A"
+            }
+            r = requests.post("https://accessfordc-worker.herokuapp.com/tasks", data=payload).json()
+            # Initial pa11y run
+            p = requests.post("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/run")
+            time.sleep(30)
+            r = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/results").json()
+            try:
+                accessibility[url] = {
+                    "pa11y_id": access[url],
+                    "results": r[0]["count"]
+                }
+            except IndexError:
+                accessibility[url] = {"pa11y_id": access[url]}
+
+    data['accessibility'] = accessibility
 
     # Oh yeah, the project's name
     data['name'] = name

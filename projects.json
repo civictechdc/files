@@ -1,64 +1,69 @@
 [
     {
         "accessibility": {
-            "error": 20, 
-            "notice": 23, 
-            "total": 67, 
-            "warning": 24
+            "http://codefordc.github.io/districthousing/": {
+                "pa11y_id": "54fb8a37f478eb0300b910a0", 
+                "results": {
+                    "error": 10, 
+                    "notice": 23, 
+                    "total": 52, 
+                    "warning": 19
+                }
+            }
         }, 
         "activity": [
             0, 
             0, 
             2, 
             8, 
+            1, 
+            4, 
             0, 
-            1, 
-            4, 
-            2, 
-            31, 
-            1, 
-            16, 
-            4, 
+            15, 
             18, 
-            30, 
-            89, 
-            59, 
-            30, 
-            3, 
-            17, 
-            4, 
-            1, 
-            0, 
-            1, 
-            9, 
-            5, 
-            4, 
-            3, 
-            0, 
-            6, 
-            3, 
-            0, 
-            8, 
-            0, 
             7, 
             12, 
-            27, 
-            37, 
             13, 
-            32, 
-            38, 
+            7, 
+            85, 
+            70, 
+            50, 
+            5, 
+            12, 
+            6, 
+            5, 
+            0, 
+            0, 
+            2, 
+            8, 
+            9, 
+            3, 
+            0, 
+            0, 
+            9, 
+            0, 
             7, 
             1, 
-            10, 
-            20, 
+            2, 
+            16, 
+            11, 
+            23, 
+            39, 
+            16, 
+            30, 
+            36, 
             1, 
-            26, 
+            0, 
+            14, 
+            17, 
+            12, 
+            30, 
             20, 
-            29, 
-            81, 
-            50, 
-            15, 
-            27
+            33, 
+            92, 
+            22, 
+            36, 
+            3
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -273,56 +278,60 @@
         }, 
         "pushed_at": "2015-03-01T21:12:18Z", 
         "size": 22640, 
-        "updated_at": "2015-03-01T21:12:18Z", 
-        "watchers": 18
+        "updated_at": "2015-03-05T22:56:07Z", 
+        "watchers": 19
     }, 
     {
         "accessibility": {
-            "error": 68, 
-            "notice": 135, 
-            "total": 225, 
-            "warning": 22
+            "http://ancfinder.org/": {
+                "pa11y_id": "54fb8bfbf478eb0300b910bd", 
+                "results": {
+                    "error": 66, 
+                    "notice": 135, 
+                    "total": 209, 
+                    "warning": 8
+                }
+            }
         }, 
         "activity": [
             11, 
-            1, 
-            1, 
-            14, 
             0, 
-            2, 
+            9, 
+            6, 
+            0, 
             13, 
+            2, 
+            9, 
+            0, 
             8, 
-            1, 
-            7, 
-            1, 
+            0, 
             4, 
             0, 
             5, 
             0, 
             0, 
             6, 
-            2, 
-            4, 
-            4, 
-            4, 
-            2, 
-            6, 
-            4, 
-            0, 
-            1, 
-            0, 
-            0, 
-            1, 
+            3, 
+            3, 
+            5, 
             3, 
             2, 
+            8, 
+            2, 
+            0, 
+            1, 
+            0, 
+            0, 
+            3, 
+            3, 
+            0, 
             0, 
             6, 
             2, 
-            0, 
             2, 
             5, 
-            1, 
             0, 
+            1, 
             0, 
             7, 
             0, 
@@ -332,8 +341,9 @@
             5, 
             0, 
             0, 
-            1, 
-            7, 
+            0, 
+            3, 
+            5, 
             0, 
             1
         ], 
@@ -479,20 +489,24 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-03-01T18:29:31Z", 
-        "size": 73166, 
+        "size": 73158, 
         "updated_at": "2015-03-01T18:29:32Z", 
         "watchers": 27
     }, 
     {
         "accessibility": {
-            "error": 13, 
-            "notice": 29, 
-            "total": 56, 
-            "warning": 14
+            "http://cmgiven.github.io/bikeshare-odds/": {
+                "pa11y_id": "54fb8af0f478eb0300b910a4", 
+                "results": {
+                    "error": 12, 
+                    "notice": 29, 
+                    "total": 48, 
+                    "warning": 7
+                }
+            }
         }, 
         "activity": [
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -502,58 +516,101 @@
             0, 
             0, 
             0, 
+            1, 
             2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            1
+            2
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Transportation"
+                }, 
+                {
+                    "category": "Cycling"
+                }, 
+                {
+                    "category": "Bikeshare"
+                }
+            ], 
+            "communityPartner": {
+                "Data Science for Social Good": "http://dssg.io"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "cmgiven@gmail.com", 
+                "name": "Chris Given", 
+                "twitter": "@cmgiven"
+            }, 
+            "data": {
+                "Capital Bikeshare Dock History": "http://opendatadc.org/dataset/capital-bikeshare-dock-history"
+            }, 
+            "geography": "Washington, DC", 
+            "needs": [
+                {
+                    "need": "Data updates"
+                }, 
+                {
+                    "need": "Improved usability on mobile devices"
+                }
+            ], 
+            "status": "Archival", 
+            "type": "Web app"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 20, 
+                "contributions": 21, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 1, 
+        "contributors_count": 2, 
         "created_at": "2013-09-20T07:30:51Z", 
         "default_branch": "master", 
         "description": "Leaflet map of DC bikeshare stations and average availability.", 
@@ -582,21 +639,21 @@
         ], 
         "main_language": "CSS", 
         "name": "CaBi Odds", 
-        "open_issues": 5, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
             "name": "cmgiven", 
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2015-02-26T02:04:10Z", 
+        "pushed_at": "2015-03-06T14:56:59Z", 
         "size": 1943, 
-        "updated_at": "2015-02-26T02:04:10Z", 
+        "updated_at": "2015-03-06T14:56:59Z", 
         "watchers": 7
     }, 
     {
+        "accessibility": {}, 
         "activity": [
-            0, 
             1, 
             0, 
             0, 
@@ -611,6 +668,7 @@
             0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -743,63 +801,68 @@
     }, 
     {
         "accessibility": {
-            "error": 27, 
-            "notice": 56, 
-            "total": 89, 
-            "warning": 6
+            "http://www.codefordc.org": {
+                "pa11y_id": "54fb8af7f478eb0300b910a6", 
+                "results": {
+                    "error": 9, 
+                    "notice": 54, 
+                    "total": 69, 
+                    "warning": 6
+                }
+            }
         }, 
         "activity": [
             0, 
-            0, 
             4, 
             0, 
             0, 
             0, 
-            3, 
-            8, 
-            5, 
-            0, 
             2, 
-            3, 
-            6, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
-            0, 
-            3, 
-            6, 
-            5, 
-            2, 
-            2, 
-            10, 
-            12, 
-            4, 
-            2, 
-            15, 
-            6, 
-            2, 
-            10, 
-            13, 
-            14, 
-            4, 
-            0, 
-            1, 
-            9, 
-            4, 
-            0, 
-            2, 
-            1, 
-            9, 
-            0, 
-            0, 
-            6, 
-            1, 
             7, 
+            7, 
+            0, 
+            2, 
+            3, 
+            6, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            6, 
+            1, 
+            4, 
+            8, 
+            3, 
+            0, 
+            5, 
+            14, 
+            8, 
+            3, 
+            3, 
+            12, 
+            8, 
+            7, 
+            9, 
+            11, 
+            11, 
+            3, 
+            1, 
+            8, 
+            1, 
+            4, 
+            2, 
+            0, 
+            10, 
+            0, 
+            0, 
+            5, 
+            2, 
+            3, 
+            6, 
             8
         ], 
         "civic_json": {
@@ -832,7 +895,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 116, 
+                "contributions": 117, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -968,35 +1031,40 @@
         ], 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-04T02:32:28Z", 
+        "pushed_at": "2015-03-06T05:07:07Z", 
         "size": 17533, 
-        "updated_at": "2015-03-04T02:32:10Z", 
+        "updated_at": "2015-03-06T05:06:51Z", 
         "watchers": 16
     }, 
     {
         "accessibility": {
-            "error": 6, 
-            "notice": 5, 
-            "total": 13, 
-            "warning": 2
+            "http://ajschumacher.github.io/dc_mayor_schedule/": {
+                "pa11y_id": "54fb8afdf478eb0300b910a8", 
+                "results": {
+                    "error": 2, 
+                    "notice": 5, 
+                    "total": 8, 
+                    "warning": 1
+                }
+            }
         }, 
         "activity": [
             4, 
-            5, 
+            6, 
             6, 
             4, 
             6, 
+            5, 
+            6, 
             6, 
             5, 
-            7, 
-            4, 
             6, 
             7, 
             3, 
@@ -1005,33 +1073,32 @@
             32, 
             6, 
             6, 
-            4, 
-            5, 
-            7, 
-            6, 
-            6, 
-            6, 
             3, 
+            6, 
             7, 
-            2, 
             6, 
             5, 
-            7, 
-            6, 
             6, 
             4, 
-            8, 
-            9, 
             6, 
-            6, 
-            6, 
-            6, 
-            4, 
-            7, 
-            6, 
-            4, 
             3, 
+            5, 
+            6, 
+            7, 
+            6, 
+            6, 
+            4, 
+            10, 
+            7, 
+            6, 
+            6, 
+            6, 
+            4, 
+            6, 
+            7, 
+            6, 
             2, 
+            5, 
             0, 
             0, 
             0, 
@@ -1039,7 +1106,8 @@
             0, 
             0, 
             0, 
-            4
+            3, 
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1132,6 +1200,7 @@
         "watchers": 4
     }, 
     {
+        "accessibility": {}, 
         "activity": [
             0, 
             0, 
@@ -1153,8 +1222,8 @@
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1295,14 +1364,15 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-03-01T16:01:32Z", 
-        "size": 2932, 
+        "size": 2915, 
         "updated_at": "2015-03-02T20:47:09Z", 
         "watchers": 3
     }, 
     {
+        "accessibility": {}, 
         "activity": [
-            2, 
-            4, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -1325,23 +1395,23 @@
             0, 
             8, 
             0, 
-            10, 
-            7, 
-            8, 
+            11, 
+            6, 
+            14, 
+            3, 
+            1, 
             9, 
-            0, 
-            10, 
-            4, 
-            4, 
+            5, 
+            3, 
             0, 
             0, 
             1, 
             0, 
-            0, 
             1, 
             0, 
-            2, 
-            1, 
+            0, 
+            3, 
+            0, 
             0, 
             8, 
             0, 
@@ -1350,8 +1420,8 @@
             0, 
             0, 
             10, 
-            9, 
-            12, 
+            13, 
+            8, 
             4
         ], 
         "civic_json": {
@@ -1459,6 +1529,7 @@
         "watchers": 17
     }, 
     {
+        "accessibility": {}, 
         "activity": [
             0, 
             0, 
@@ -1510,8 +1581,8 @@
             0, 
             0, 
             0, 
-            0, 
-            7
+            7, 
+            0
         ], 
         "civic_json": null, 
         "contributors": [
@@ -1567,10 +1638,395 @@
     }, 
     {
         "accessibility": {
-            "error": 11, 
-            "notice": 15, 
-            "total": 37, 
-            "warning": 11
+            "http://codefordc.github.io/ERDA/": {
+                "pa11y_id": "54fb8b0af478eb0300b910aa"
+            }
+        }, 
+        "activity": [
+            0, 
+            2, 
+            0, 
+            1, 
+            0, 
+            1, 
+            0, 
+            3, 
+            5, 
+            6, 
+            3, 
+            6, 
+            3, 
+            2, 
+            0, 
+            1, 
+            1, 
+            0, 
+            0, 
+            3, 
+            1, 
+            0, 
+            2, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "civic_json": null, 
+        "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4000062?v=3", 
+                "contributions": 20, 
+                "link": "https://github.com/gemarcano", 
+                "name": "gemarcano"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1148798?v=3", 
+                "contributions": 16, 
+                "link": "https://github.com/sbai", 
+                "name": "sbai"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5058998?v=3", 
+                "contributions": 8, 
+                "link": "https://github.com/BridgitD", 
+                "name": "BridgitD"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2334699?v=3", 
+                "contributions": 7, 
+                "link": "https://github.com/alexlyte", 
+                "name": "alexlyte"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3506636?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/DimeZilla", 
+                "name": "DimeZilla"
+            }
+        ], 
+        "contributors_count": 5, 
+        "created_at": "2014-04-30T00:47:20Z", 
+        "default_branch": "master", 
+        "description": "Analysis of emergency response data for Washington, DC.", 
+        "forks": 5, 
+        "help_wanted": [], 
+        "homepage": "http://codefordc.github.io/ERDA/", 
+        "html_url": "https://github.com/codefordc/ERDA", 
+        "id": 19296315, 
+        "languages": [
+            [
+                "Python", 
+                18697
+            ]
+        ], 
+        "main_language": "Python", 
+        "name": "Emergency Response Times", 
+        "open_issues": 1, 
+        "owner": {
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "name": "codefordc", 
+            "type": "Organization", 
+            "url": "https://github.com/codefordc"
+        }, 
+        "pushed_at": "2014-08-19T01:15:25Z", 
+        "size": 105864, 
+        "updated_at": "2014-10-16T14:27:14Z", 
+        "watchers": 4
+    }, 
+    {
+        "accessibility": {
+            "http://shiftyp.github.io/dc_community_gardens_visualization": {
+                "pa11y_id": "54fb8b1cf478eb0300b910ab", 
+                "results": {
+                    "error": 27, 
+                    "notice": 30, 
+                    "total": 246, 
+                    "warning": 189
+                }
+            }
+        }, 
+        "activity": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            5, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "civic_json": null, 
+        "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/62615?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/ncb000gt", 
+                "name": "ncb000gt"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/131928?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/shiftyp", 
+                "name": "shiftyp"
+            }
+        ], 
+        "contributors_count": 2, 
+        "created_at": "2014-06-24T23:23:23Z", 
+        "default_branch": "master", 
+        "description": "", 
+        "forks": 3, 
+        "help_wanted": [], 
+        "homepage": "http://shiftyp.github.io/dc_community_gardens_visualization", 
+        "html_url": "https://github.com/shiftyp/dc_community_gardens_visualization", 
+        "id": 21183987, 
+        "languages": [
+            [
+                "JavaScript", 
+                1645
+            ]
+        ], 
+        "main_language": "JavaScript", 
+        "name": "Community Gardens Visualization", 
+        "open_issues": 2, 
+        "owner": {
+            "avatar": "https://avatars.githubusercontent.com/u/131928?v=3", 
+            "name": "shiftyp", 
+            "type": "User", 
+            "url": "https://github.com/shiftyp"
+        }, 
+        "pushed_at": "2014-07-13T21:56:15Z", 
+        "size": 592, 
+        "updated_at": "2014-07-13T21:57:21Z", 
+        "watchers": 0
+    }, 
+    {
+        "accessibility": {
+            "http://codefordc.github.io/dc-campaign-finance-watch/": {
+                "pa11y_id": "54fb8b2af478eb0300b910ad", 
+                "results": {
+                    "error": 5, 
+                    "notice": 5, 
+                    "total": 10, 
+                    "warning": 0
+                }
+            }
+        }, 
+        "activity": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            4, 
+            13, 
+            2, 
+            1, 
+            2, 
+            0, 
+            12, 
+            31, 
+            7, 
+            0, 
+            3, 
+            19, 
+            21, 
+            5, 
+            9, 
+            15, 
+            2, 
+            13, 
+            0, 
+            1, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "civic_json": null, 
+        "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
+                "contributions": 125, 
+                "link": "https://github.com/donaldbraman", 
+                "name": "donaldbraman"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1186124?v=3", 
+                "contributions": 24, 
+                "link": "https://github.com/saulshanabrook", 
+                "name": "saulshanabrook"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
+                "contributions": 6, 
+                "link": "https://github.com/mkalish", 
+                "name": "mkalish"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/adunkman", 
+                "name": "adunkman"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/kevko", 
+                "name": "kevko"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/louh", 
+                "name": "louh"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/stvnrlly", 
+                "name": "stvnrlly"
+            }
+        ], 
+        "contributors_count": 7, 
+        "created_at": "2014-07-12T18:04:36Z", 
+        "default_branch": "gh-pages", 
+        "description": "Displays data about DC Campaign Finance on a site", 
+        "forks": 9, 
+        "help_wanted": [], 
+        "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
+        "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+        "id": 21773181, 
+        "languages": [
+            [
+                "Python", 
+                31029
+            ], 
+            [
+                "CSS", 
+                5195
+            ], 
+            [
+                "JavaScript", 
+                5165
+            ]
+        ], 
+        "main_language": "Python", 
+        "name": "Campaign Finance Watch", 
+        "open_issues": 14, 
+        "owner": {
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "name": "codefordc", 
+            "type": "Organization", 
+            "url": "https://github.com/codefordc"
+        }, 
+        "pushed_at": "2015-03-01T19:05:57Z", 
+        "size": 21159, 
+        "updated_at": "2015-02-27T19:18:21Z", 
+        "watchers": 6
+    }, 
+    {
+        "accessibility": {
+            "http://cmgiven.github.io/dc-handguns/": {
+                "pa11y_id": "54fb8b2ef478eb0300b910af", 
+                "results": {
+                    "error": 10, 
+                    "notice": 15, 
+                    "total": 31, 
+                    "warning": 6
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -1600,9 +2056,8 @@
             0, 
             0, 
             0, 
-            0, 
-            3, 
-            0, 
+            1, 
+            2, 
             0, 
             7, 
             0, 
@@ -1624,13 +2079,52 @@
             0, 
             0, 
             0, 
-            0
+            0, 
+            2
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Guns"
+                }, 
+                {
+                    "category": "Handguns"
+                }, 
+                {
+                    "category": "Concealed Carry"
+                }, 
+                {
+                    "category": "Safety"
+                }, 
+                {
+                    "category": "Crime"
+                }, 
+                {
+                    "category": "Law"
+                }
+            ], 
+            "communityPartner": {
+                "WAMU 88.5": "http://wamu.org"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "cmgiven@gmail.com", 
+                "name": "Chris Given", 
+                "twitter": "@cmgiven"
+            }, 
+            "data": {
+                "DC handgun ownership by zip code": "https://github.com/cmgiven/dc-handguns/tree/master/data"
+            }, 
+            "geography": "Washington, DC", 
+            "needs": [], 
+            "status": "Archival", 
+            "type": "Map"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 5, 
+                "contributions": 7, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }, 
@@ -1660,30 +2154,39 @@
                 2189
             ], 
             [
+                "HTML", 
+                1301
+            ], 
+            [
                 "Python", 
                 1211
             ]
         ], 
         "main_language": "CSS", 
         "name": "DC Handguns", 
-        "open_issues": 1, 
+        "open_issues": 0, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
             "name": "cmgiven", 
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2014-10-10T19:07:10Z", 
-        "size": 8626, 
-        "updated_at": "2014-10-06T03:00:17Z", 
+        "pushed_at": "2015-03-06T15:08:06Z", 
+        "size": 8464, 
+        "updated_at": "2015-03-06T15:08:08Z", 
         "watchers": 4
     }, 
     {
         "accessibility": {
-            "error": 3, 
-            "notice": 5, 
-            "total": 10, 
-            "warning": 2
+            "http://drewbo.com/dc-budget-treemap/": {
+                "pa11y_id": "54fb8c26c53f3403005be481", 
+                "results": {
+                    "error": 3, 
+                    "notice": 3, 
+                    "total": 8, 
+                    "warning": 2
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -1713,9 +2216,9 @@
             0, 
             0, 
             0, 
+            5, 
+            11, 
             0, 
-            8, 
-            8, 
             0, 
             0, 
             0, 
@@ -1785,6 +2288,7 @@
         "watchers": 1
     }, 
     {
+        "accessibility": {}, 
         "activity": [
             0, 
             0, 
@@ -1874,10 +2378,15 @@
     }, 
     {
         "accessibility": {
-            "error": 1, 
-            "notice": 44, 
-            "total": 102, 
-            "warning": 57
+            "http://electionmap.wamu.org": {
+                "pa11y_id": "54fb8c37c53f3403005be483", 
+                "results": {
+                    "error": 1, 
+                    "notice": 44, 
+                    "total": 76, 
+                    "warning": 31
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -1913,11 +2422,10 @@
             0, 
             0, 
             0, 
-            0, 
-            91, 
+            10, 
+            81, 
             3, 
-            2, 
-            1, 
+            3, 
             0, 
             0, 
             0, 
@@ -1931,13 +2439,49 @@
             0, 
             0, 
             0, 
-            0
+            0, 
+            1
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Politics"
+                }, 
+                {
+                    "category": "Elections"
+                }, 
+                {
+                    "category": "Mayor"
+                }, 
+                {
+                    "category": "Attorney General"
+                }, 
+                {
+                    "category": "Marijuana Legalization"
+                }
+            ], 
+            "communityPartner": {
+                "WAMU 88.5": "http://wamu.org"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "cmgiven@gmail.com", 
+                "name": "Chris Given", 
+                "twitter": "@cmgiven"
+            }, 
+            "data": {
+                "DC election results": "https://www.dcboee.org/election_info/election_results/2014/November-4-General-Election"
+            }, 
+            "geography": "Washington, DC", 
+            "needs": [], 
+            "status": "Archival", 
+            "type": "Web app"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 97, 
+                "contributions": 98, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }
@@ -1961,30 +2505,39 @@
                 22839
             ], 
             [
+                "HTML", 
+                7749
+            ], 
+            [
                 "Ruby", 
                 1576
             ]
         ], 
         "main_language": "JavaScript", 
         "name": "Open Elections Map", 
-        "open_issues": 1, 
+        "open_issues": 0, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/5375557?v=3", 
             "name": "cmgiven", 
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2014-11-21T14:39:43Z", 
-        "size": 891, 
-        "updated_at": "2015-01-19T17:19:53Z", 
+        "pushed_at": "2015-03-06T15:12:37Z", 
+        "size": 864, 
+        "updated_at": "2015-03-06T15:12:37Z", 
         "watchers": 11
     }, 
     {
         "accessibility": {
-            "error": 39, 
-            "notice": 46, 
-            "total": 94, 
-            "warning": 9
+            "http://cmgiven.github.io/at-risk/": {
+                "pa11y_id": "54fb8b47f478eb0300b910b5", 
+                "results": {
+                    "error": 3, 
+                    "notice": 42, 
+                    "total": 53, 
+                    "warning": 8
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -2033,9 +2586,9 @@
             0, 
             0, 
             0, 
-            8, 
-            31, 
-            8, 
+            18, 
+            29, 
+            0, 
             0, 
             0, 
             0
@@ -2084,10 +2637,15 @@
     }, 
     {
         "accessibility": {
-            "error": 1, 
-            "notice": 2, 
-            "total": 4, 
-            "warning": 1
+            "https://emanuelfeld.shinyapps.io/geocoder": {
+                "pa11y_id": "54fb8b4bf478eb0300b910b7", 
+                "results": {
+                    "error": 1, 
+                    "notice": 2, 
+                    "total": 4, 
+                    "warning": 1
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -2140,8 +2698,8 @@
             0, 
             0, 
             6, 
-            10, 
-            3
+            11, 
+            2
         ], 
         "civic_json": {
             "bornAt": "", 
@@ -2212,16 +2770,21 @@
             "url": "https://github.com/evonfriedland"
         }, 
         "pushed_at": "2015-03-01T20:01:45Z", 
-        "size": 188, 
+        "size": 229, 
         "updated_at": "2015-03-01T20:01:45Z", 
         "watchers": 1
     }, 
     {
         "accessibility": {
-            "error": 349, 
-            "notice": 421, 
-            "total": 1002, 
-            "warning": 232
+            "https://twitter.com/booksfordc": {
+                "pa11y_id": "54fb8b53f478eb0300b910b8", 
+                "results": {
+                    "error": 34, 
+                    "notice": 414, 
+                    "total": 516, 
+                    "warning": 68
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -2273,9 +2836,9 @@
             0, 
             0, 
             0, 
-            0, 
-            61, 
-            51
+            39, 
+            38, 
+            66
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -2301,7 +2864,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 137, 
+                "contributions": 146, 
                 "link": "https://github.com/evonfriedland", 
                 "name": "evonfriedland"
             }, 
@@ -2317,14 +2880,33 @@
         "default_branch": "master", 
         "description": "DC Public Library catalog scraper and Twitter feed; browser plug-in; and beyond?", 
         "forks": 1, 
-        "help_wanted": [], 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "Able to search Overdrive using the following URL:\r\n\"http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria={INSERT_QUERY_HERE}&x=0&y=0\"\r\n\r\ne.g. http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria=Hello&x=0&y=0\r\n\r\nBut jquery GET request of that URL does not load response data. I'm not sure if it's an issue of cookie-setting.\r\n\r\n![image](https://cloud.githubusercontent.com/assets/4269640/6515448/e5fab5e0-c357-11e4-9e78-a7f442e4e02d.png)\r\n\r\nIt would be nice to have this functionality, since not all ebooks in Overdrive are also searchable in the catalog, for some reason.", 
+                "comments": 2, 
+                "created_at": "2015-03-05T15:21:59Z", 
+                "issue": "Improve Overdrive searching", 
+                "issue_url": "https://github.com/evonfriedland/booksfordc/issues/13", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/evonfriedland/booksfordc/labels/help%20wanted"
+                    }
+                ], 
+                "project": "Books for DC", 
+                "project_url": "https://github.com/evonfriedland/booksfordc", 
+                "updated_at": "2015-03-06T14:29:56Z"
+            }
+        ], 
         "homepage": "https://twitter.com/booksfordc", 
         "html_url": "https://github.com/evonfriedland/booksfordc", 
         "id": 31002646, 
         "languages": [
             [
                 "JavaScript", 
-                10947
+                8716
             ], 
             [
                 "Python", 
@@ -2337,19 +2919,20 @@
         ], 
         "main_language": "JavaScript", 
         "name": "Books for DC", 
-        "open_issues": 3, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "evonfriedland", 
             "type": "User", 
             "url": "https://github.com/evonfriedland"
         }, 
-        "pushed_at": "2015-03-05T04:29:32Z", 
+        "pushed_at": "2015-03-07T22:24:33Z", 
         "size": 524, 
-        "updated_at": "2015-03-05T04:29:33Z", 
-        "watchers": 1
+        "updated_at": "2015-03-07T22:24:35Z", 
+        "watchers": 2
     }, 
     {
+        "accessibility": {}, 
         "activity": [
             0, 
             0, 
@@ -2401,8 +2984,8 @@
             0, 
             0, 
             0, 
-            28, 
-            12
+            30, 
+            10
         ], 
         "civic_json": {
             "bornAt": "Open Data Day 2015, Code for DC", 
@@ -2506,16 +3089,21 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-03-01T18:36:37Z", 
-        "size": 992, 
+        "size": 1260, 
         "updated_at": "2015-03-01T18:36:37Z", 
         "watchers": 0
     }, 
     {
         "accessibility": {
-            "error": 4, 
-            "notice": 6, 
-            "total": 13, 
-            "warning": 3
+            "http://codefordc.github.io/expungement-dc": {
+                "pa11y_id": "54fb8b62f478eb0300b910ba", 
+                "results": {
+                    "error": 4, 
+                    "notice": 6, 
+                    "total": 11, 
+                    "warning": 1
+                }
+            }
         }, 
         "activity": [
             0, 
@@ -2561,15 +3149,15 @@
             0, 
             0, 
             0, 
+            9, 
+            5, 
             0, 
-            13, 
-            1, 
+            8, 
+            0, 
             2, 
-            6, 
-            0, 
+            2, 
             3, 
-            1, 
-            3
+            0
         ], 
         "civic_json": null, 
         "contributors": [
