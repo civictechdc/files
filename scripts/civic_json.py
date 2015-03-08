@@ -147,20 +147,20 @@ for project in tracked:
             payload = {
                 "url": url,
                 "name": name+" - "+url,
-                "standard": "WCAG2A"
+                "standard": "WCAG2AAA"
             }
             r = requests.post("https://accessfordc-worker.herokuapp.com/tasks", data=payload).json()
             # Initial pa11y run
-            p = requests.post("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/run")
-            time.sleep(30)
-            r = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/results").json()
+            start = requests.post("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/run")
+            time.sleep(20)
+            get = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/results").json()
             try:
                 accessibility[url] = {
-                    "pa11y_id": access[url],
-                    "results": r[0]["count"]
+                    "pa11y_id": r["id"],
+                    "results": get[0]["count"]
                 }
             except IndexError:
-                accessibility[url] = {"pa11y_id": access[url]}
+                accessibility[url] = {"pa11y_id": r["id"]}
 
     data['accessibility'] = accessibility
 

@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 64
 - created: 1415830109000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -78,49 +78,36 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 13
 other:
-- created: 1425084852000
-  description: "<p><b>Please RSVP here also:\_</b><a href=\"https://nvite.com/CodeCoffee/ff3\"\
-    ><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p>\
-    \ <p>We're joining forces with DC Nightowls for this Code &amp; Coffee. DC Nightowls\
-    \ is an open and inclusive after hours community of adventurous self-starters\
-    \ turning big ideas into exciting projects. Find out more here:\_<a href=\"http://selfstart.co/\"\
-    ><a href=\"http://selfstart.co\" class=\"linkified\">http://selfstart.co</a></a>\_\
-    </p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
-    \ for a fun, informal way to learn, code and work on projects with other members\
-    \ in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS,\
-    \ these events are open to all women or those who support women and minorities\
-    \ in tech. Feel free to come early or stay later. These events are held at public\
-    \ coffee shops, so good seats are on a first come first serve basis. Beginners\
-    \ welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors,\
-    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
-    \ bring their own projects or meet people who are working on similar projects\
-    \ to collaborate together. If you're a beginner we recommend some online tutorials\
-    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
-    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
-    \ <p>When you arrive, we'll be around the tables/booths in the back. Look for\
-    \ a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to\
-    \ find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
-    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. RSVP for\
-    \ this Meetup or see who else is going here:\_<a href=\"https://nvite.com/dcfemtech/ecae\"\
-    ><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p>\
-    \ <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\"\
-    \ /></p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220812708/
+- created: 1425580319000
+  description: '<p>We''re encouraging women everywhere to celebrate <i>International
+    Women''s Day</i> by spending at least one hour on a code-related project this
+    Sunday. No feat is too small!</p> <p>(This isn''t physical meet up, but there''s
+    still plenty you can do!)</p> <p>You could work on your first app, figure out
+    how to get your computer to recognize your device, finally find that bug in your
+    code, start a new tutorial, help someone else get started, or add more test coverage.
+    Anything you can think of that''s code related. It''s that simple!</p> <p><b>Post
+    your Sunday accomplishments in the comments below, on Twitter (@WomenWhoCodeDC,
+    #WomensDay), or join us on Slack to celebrate. </b></p> <p>We''re excited to hear
+    about all the things you get into!</p>'
+  duration: 81900000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/220949414/
   group: {created: 1395616294000, group_lat: 38.90999984741211, group_lon: -77.04000091552734,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: '220812708'
+  id: '220949414'
   maybe_rsvp_count: 0
-  name: Code & Coffee
+  name: 'International Women''s Day: Code Hour'
   status: upcoming
-  time: 1425754800000
-  updated: 1425084852000
+  time: 1425790800000
+  updated: 1425580703000
   utc_offset: -18000000
+  venue: {address_1: We're not physically meeting for this event, city: Washington,
+    country: us, id: 23680382, lat: 0, lon: 0, name: Anywhere and Everywhere, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 42
 - created: 1424539258000
   description: "<p>I wanted to do the Flask in your PJ's class again... but this time,\
     \ using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the\
@@ -158,7 +145,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1424279774000
   description: "<p><b>Meetup Format</b></p> <p><br/>The WWC Front End Hack Night (FEHN)\
     \ study group is a space where women can come together and help each other learn\
@@ -200,7 +187,7 @@ other:
     state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 21
 - created: 1424969372000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -238,7 +225,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 13
 - created: 1424824280000
   description: "<p><img src=\"https://raw.githubusercontent.com/maptime/dc/gh-pages/img/dcflag.png\"\
     \ /></p> <p>Tim Abdella,\_GIO\_for the Government of the District of Columbia,\
@@ -269,7 +256,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 6
   yes_rsvp_count: 50
 - created: 1423625127000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
@@ -329,7 +316,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 141
 - created: 1421849941000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -367,7 +354,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 8
 - created: 1425483167000
   description: "<p>Please join us next Thursday, March 12th for an exploration of\
     \ R's Grammar of Graphics package ecosystem. We'll have three different overviews,\
@@ -399,7 +386,7 @@ other:
     lon: -77.049484, name: 'GWU, Duques Hall - Room 151', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 114
 - created: 1425082539000
   description: "<p>For the March Data Science DC Meetup, we're very happy to have\
     \ two talks that will dive into the mathematical details. First, Brandon Bass\
@@ -483,7 +470,7 @@ other:
     repinned: false, state: MD, zip: '20815'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 99
 - created: 1424279774000
   description: "<p><b>Meetup Format\_</b></p> <p>The WWC Front End Hack Night (FEHN)\
     \ study group is a space where women can come together and help each other learn\
@@ -520,7 +507,7 @@ other:
     lat: 38.903423, lon: -77.021599, name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1424051129000
   description: "<p>Want to learn more about async apps in python?\_</p> <p><a href=\"\
     https://github.com/makaimc\">Matt Makai</a>, Developer Evangelist at\_<a href=\"\
@@ -577,7 +564,7 @@ other:
     lat: 38.914551, lon: -77.021095, name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -616,7 +603,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1424747085000
   description: "<p>Are you curious if social media generated data has any relationship\
     \ to security prices? Do you think news sentiment can give you an edge trading\
@@ -672,7 +659,7 @@ other:
     state: MD, zip: '21202'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 69
 - created: 1422815256000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in March! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -757,7 +744,9 @@ other:
     \ <p>- Good processes for UX in development</p> <p><b>SCHEDULE</b></p> <p>Come\
     \ at 6:30 for empanadas, drinks (adult &amp; otherwise) and networking. The panel\
     \ begins at 7:00 and ends by 8:30. There will be a raffle from our host, Teksystems,\
-    \ so stay until the end!</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\"\
+    \ so stay until the end!</p> <p><b>SPEAKERS</b></p> <p>\u2022\_Scott Savage, Boost\
+    \ Labs</p> <p>\u2022\_Cobey Potter, Wellfire Interactive\_</p> <p>\u2022\_Jordan\
+    \ DeVries, BraveUX</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\"\
     \ /></p> <p><b>TEKsystems:</b> People are at the heart of every successful business\
     \ initiative. At TEKsystems, we understand people. Every year we deploy over 80,000\
     \ IT professionals at 6,000 client sites across North America, Europe and Asia.\
@@ -778,14 +767,14 @@ other:
   name: User Experience for Devs & Techies
   status: upcoming
   time: 1426717800000
-  updated: 1425328848000
+  updated: 1425622160000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034004, name: General Assembly @ 1776 (8th Floor), repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 24
 - created: 1425357740000
   description: "<p>RSVP here too:\_<a href=\"http://www.meetup.com/DC-Tech-Meetup/events/213904822/\"\
     ><a href=\"http://www.meetup.com/DC-Tech-Meetup/events/213904822/\" class=\"linkified\"\
@@ -855,7 +844,7 @@ other:
     lon: -77.037071, name: K&L Gates, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 82
 - created: 1425427868000
   description: <p>Are you a professional female developer? You're not alone. Come
     brunch with others like you! This brunch is for working developers only because
@@ -880,7 +869,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1424279774000
   description: "<p><b>Meetup Format</b>\_</p> <p>The Front End Hack Night (FEHN) study\
     \ group is a space where women can come together and help each other learn and\
@@ -1129,7 +1118,7 @@ other:
     zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 79
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1151,30 +1140,18 @@ other:
     repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1418680238000
-  description: "<p><b>IMPORTANT:<br/></b>-<b>\_</b>Registration is through <a href=\"\
-    http://wcm-marcom.eventbrite.com\">Eventbrite</a>.<br/>- New date!</p> <p>Join\
-    \ the Web Content Mavens and learn about managing marketing and communications\
-    \ across multiple channels - including web, email, social and mobile.\_</p> <p><b>Shashi\
-    \ Bellamkonda</b> will discuss integrated digital marketing solutions including\
-    \ planning a cross-platform communications/marketing campaign, Carrying a brand\
-    \ across properties, visual identity cues and engaging your customers and members\
-    \ as participants in your marketing efforts.\_</p> <p><b>Second Speaker - </b>We\
-    \ are confirming a new speaker.\_</p> <p><b>SPEAKERS</b></p> <p><br/><b>Shashi\
-    \ Bellamkonda</b>, VP of Digital Marketing, The Bozzuto Group</p> <p><br/><img\
-    \ src=\"http://photos3.meetupstatic.com/photos/event/b/d/e/2/600_434208610.jpeg\"\
-    \ /></p> <p>Shashi Bellamkonda is\_the Vice President, Digital Marketing at The\
-    \ Bozzuto Group and\_an adjunct faculty member of Georgetown University. After\
-    \ several years of enriching experience in the hospitality industry, including\
-    \ being a chef, Shashi transformed his hobby of computers and technology to his\
-    \ current career.\_Shashi was previously Senior Director, Social Media and Digital\
-    \ Marketing at Network Solutions. He has co-authored chapters in two books also\
-    \ been\_<a href=\"http://www.goodreads.com/review/list/6512288-shashi-bellamkonda?shelf=books-mentioning-shashi-bellamkonda\"\
-    >featured in 15 Books</a>\_on marketing and social media.</p> <p><br/><b>AGENDA</b></p>\
-    \ <p>6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15\
-    \ pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><img\
-    \ src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\"\
+  description: "<p><b>IMPORTANT: </b>-<b>\_</b>Registration is through <a href=\"\
+    http://wcm-marcom.eventbrite.com\">Eventbrite</a>.\_</p> <p><b>OVERVIEW</b></p>\
+    \ <p>Join the Web Content Mavens and learn about managing marketing and communications\
+    \ across multiple channels - including web, email, social and mobile.\_</p> <p><br/><b>SPEAKERS</b></p>\
+    \ <p><b>Brenna Holmes</b>, VP of Digital, Chapman, Cubine, Adams + Hussey</p>\
+    \ <p><b>Heather Shelby</b>, Online Activist Coordinator, Environmental Defense\
+    \ Fund</p> <p><b>Shashi Bellamkonda</b>,\_VP of Digital Marketing, The Bozzuto\
+    \ Group</p> <p><b>AGENDA</b></p> <p><br/>6:30 pm - Networking, drinks and appetizers<br/>7:00\
+    \ pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR\
+    \ SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\"\
     \ /></p> <p>What\u2019s next?\_Chapman Cubine Adams + Hussey (CCAH) has been seeking\
     \ an answer to this question for more than 25 years. We\u2019re driven to discover\
     \ what\u2019s next\_in multi-channel marketing and how we can help our clients\
@@ -1190,14 +1167,14 @@ other:
   name: Integrated Marketing & Communications - Online, Social & Mobile
   status: upcoming
   time: 1427929200000
-  updated: 1425481091000
+  updated: 1425658834000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034004, name: General Assembly @ 1776 (8th Floor), repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 105
 - created: 1423021750000
   description: "<p>(<i>Please note that you need to get a ticket through Eventbrite\
     \ to attend:\_<a href=\"http://bamgdc.eventbrite.com/?aff=DCDevMeetup\"><a href=\"\
@@ -1297,7 +1274,7 @@ other:
     zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 132
 - created: 1424447514000
   description: '<p>Saturday? Yup, we are changing things up and swapping out pizza
     for bagels and other brunchy foods. Not only that, but we are joining forces with
@@ -1349,7 +1326,7 @@ other:
     lat: 38.898926, lon: -77.049484, name: GWU Funger Hall, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1424279774000
   description: "<p><b>Meetup Format\_</b></p> <p>The Front End Hack Night (FEHN) study\
     \ group is a space where women can come together and help each other learn and\
@@ -1635,7 +1612,7 @@ other:
     lon: -77.022224, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1657,7 +1634,7 @@ other:
     zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1749,7 +1726,7 @@ other:
     zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1829,7 +1806,7 @@ other:
     zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

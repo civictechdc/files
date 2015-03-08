@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1415830109000, 
@@ -79,10 +79,10 @@
     ], 
     "other": [
         {
-            "created": 1425084852000, 
-            "description": "<p><b>Please RSVP here also:\u00a0</b><a href=\"https://nvite.com/CodeCoffee/ff3\"><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p> <p>We're joining forces with DC Nightowls for this Code &amp; Coffee. DC Nightowls is an open and inclusive after hours community of adventurous self-starters turning big ideas into exciting projects. Find out more here:\u00a0<a href=\"http://selfstart.co/\"><a href=\"http://selfstart.co\" class=\"linkified\">http://selfstart.co</a></a>\u00a0</p> <p><br/>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>When you arrive, we'll be around the tables/booths in the back. Look for a few signs. If you can't find us, tweet @DCFemTech and we'll do our best to find you.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. RSVP for this Meetup or see who else is going here:\u00a0<a href=\"https://nvite.com/dcfemtech/ecae\"><a href=\"https://nvite.com/dcfemtech/ecae\" class=\"linkified\">https://nvite.com/dcfemtech/ecae</a></a></p> <p><img src=\"https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif\" /></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220812708/", 
+            "created": 1425580319000, 
+            "description": "<p>We're encouraging women everywhere to celebrate <i>International Women's Day</i> by spending at least one hour on a code-related project this Sunday. No feat is too small!</p> <p>(This isn't physical meet up, but there's still plenty you can do!)</p> <p>You could work on your first app, figure out how to get your computer to recognize your device, finally find that bug in your code, start a new tutorial, help someone else get started, or add more test coverage. Anything you can think of that's code related. It's that simple!</p> <p><b>Post your Sunday accomplishments in the comments below, on Twitter (@WomenWhoCodeDC, #WomensDay), or join us on Slack to celebrate. </b></p> <p>We're excited to hear about all the things you get into!</p>", 
+            "duration": 81900000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220949414/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.90999984741211, 
@@ -94,16 +94,27 @@
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "220812708", 
+            "id": "220949414", 
             "maybe_rsvp_count": 0, 
-            "name": "Code & Coffee", 
+            "name": "International Women's Day: Code Hour", 
             "status": "upcoming", 
-            "time": 1425754800000, 
-            "updated": 1425084852000, 
+            "time": 1425790800000, 
+            "updated": 1425580703000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "We're not physically meeting for this event", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23680382, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Anywhere and Everywhere", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1424539258000, 
@@ -141,7 +152,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1424279774000, 
@@ -180,7 +191,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1424969372000, 
@@ -207,7 +218,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1424824280000, 
@@ -245,7 +256,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -286,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1421849941000, 
@@ -313,7 +324,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1425483167000, 
@@ -353,7 +364,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1425082539000, 
@@ -393,7 +404,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1424279774000, 
@@ -431,7 +442,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1424051129000, 
@@ -469,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1424968249000, 
@@ -496,7 +507,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1424747085000, 
@@ -537,7 +548,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1422815256000, 
@@ -606,7 +617,7 @@
         }, 
         {
             "created": 1425314135000, 
-            "description": "<p>NOTE: You MUST register on\u00a0<a href=\"http://wcm-ux4devs.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join Web Content Mavens for a discussion about user experience in app and web development projects, making devs into UXers and practical UX in real-world projects.</p> <p>Key discussion points:</p> <p>- Practical UX principles that devs &amp; techies need to know</p> <p>- How to make developers into UXers\u00a0</p> <p>- UX when you don't have UX staff or expertise</p> <p><br/>- Making theoretical UX work in a real dev environment</p> <p>- Good processes for UX in development</p> <p><b>SCHEDULE</b></p> <p>Come at 6:30 for empanadas, drinks (adult &amp; otherwise) and networking. The panel begins at 7:00 and ends by 8:30. There will be a raffle from our host, Teksystems, so stay until the end!</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><b>TEKsystems:</b> People are at the heart of every successful business initiative. At TEKsystems, we understand people. Every year we deploy over 80,000 IT professionals at 6,000 client sites across North America, Europe and Asia. Our deep insights into IT human capital management enable us to help our clients achieve their business goals - while optimizing their IT workforce strategies. We provide IT staffing solutions, IT talent management expertise and IT services to help our clients plan, build and run their critical business initiatives. Through our range of quality-focused delivery models, we meet our clients where they are, and take them where they want to go, the way they want to get there. <a href=\"http://www.teksystems.com\">www.teksystems.com.</a></p>", 
+            "description": "<p>NOTE: You MUST register on\u00a0<a href=\"http://wcm-ux4devs.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join Web Content Mavens for a discussion about user experience in app and web development projects, making devs into UXers and practical UX in real-world projects.</p> <p>Key discussion points:</p> <p>- Practical UX principles that devs &amp; techies need to know</p> <p>- How to make developers into UXers\u00a0</p> <p>- UX when you don't have UX staff or expertise</p> <p><br/>- Making theoretical UX work in a real dev environment</p> <p>- Good processes for UX in development</p> <p><b>SCHEDULE</b></p> <p>Come at 6:30 for empanadas, drinks (adult &amp; otherwise) and networking. The panel begins at 7:00 and ends by 8:30. There will be a raffle from our host, Teksystems, so stay until the end!</p> <p><b>SPEAKERS</b></p> <p>\u2022\u00a0Scott Savage, Boost Labs</p> <p>\u2022\u00a0Cobey Potter, Wellfire Interactive\u00a0</p> <p>\u2022\u00a0Jordan DeVries, BraveUX</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><b>TEKsystems:</b> People are at the heart of every successful business initiative. At TEKsystems, we understand people. Every year we deploy over 80,000 IT professionals at 6,000 client sites across North America, Europe and Asia. Our deep insights into IT human capital management enable us to help our clients achieve their business goals - while optimizing their IT workforce strategies. We provide IT staffing solutions, IT talent management expertise and IT services to help our clients plan, build and run their critical business initiatives. Through our range of quality-focused delivery models, we meet our clients where they are, and take them where they want to go, the way they want to get there. <a href=\"http://www.teksystems.com\">www.teksystems.com.</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/220869470/", 
             "group": {
                 "created": 1189804715000, 
@@ -624,7 +635,7 @@
             "name": "User Experience for Devs & Techies", 
             "status": "upcoming", 
             "time": 1426717800000, 
-            "updated": 1425328848000, 
+            "updated": 1425622160000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -639,7 +650,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1425357740000, 
@@ -717,7 +728,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1425427868000, 
@@ -752,7 +763,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1424279774000, 
@@ -964,7 +975,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1326383071000, 
@@ -1004,11 +1015,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1418680238000, 
-            "description": "<p><b>IMPORTANT:<br/></b>-<b>\u00a0</b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.<br/>- New date!</p> <p>Join the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.\u00a0</p> <p><b>Shashi Bellamkonda</b> will discuss integrated digital marketing solutions including planning a cross-platform communications/marketing campaign, Carrying a brand across properties, visual identity cues and engaging your customers and members as participants in your marketing efforts.\u00a0</p> <p><b>Second Speaker - </b>We are confirming a new speaker.\u00a0</p> <p><b>SPEAKERS</b></p> <p><br/><b>Shashi Bellamkonda</b>, VP of Digital Marketing, The Bozzuto Group</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/d/e/2/600_434208610.jpeg\" /></p> <p>Shashi Bellamkonda is\u00a0the Vice President, Digital Marketing at The Bozzuto Group and\u00a0an adjunct faculty member of Georgetown University. After several years of enriching experience in the hospitality industry, including being a chef, Shashi transformed his hobby of computers and technology to his current career.\u00a0Shashi was previously Senior Director, Social Media and Digital Marketing at Network Solutions. He has co-authored chapters in two books also been\u00a0<a href=\"http://www.goodreads.com/review/list/6512288-shashi-bellamkonda?shelf=books-mentioning-shashi-bellamkonda\">featured in 15 Books</a>\u00a0on marketing and social media.</p> <p><br/><b>AGENDA</b></p> <p>6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>What\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
+            "description": "<p><b>IMPORTANT: </b>-<b>\u00a0</b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.\u00a0</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brenna Holmes</b>, VP of Digital, Chapman, Cubine, Adams + Hussey</p> <p><b>Heather Shelby</b>, Online Activist Coordinator, Environmental Defense Fund</p> <p><b>Shashi Bellamkonda</b>,\u00a0VP of Digital Marketing, The Bozzuto Group</p> <p><b>AGENDA</b></p> <p><br/>6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>What\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
             "group": {
                 "created": 1189804715000, 
@@ -1026,7 +1037,7 @@
             "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
             "status": "upcoming", 
             "time": 1427929200000, 
-            "updated": 1425481091000, 
+            "updated": 1425658834000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1041,7 +1052,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1423021750000, 
@@ -1117,7 +1128,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1424447514000, 
@@ -1156,7 +1167,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1424279774000, 
@@ -1405,7 +1416,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1417881835000, 
@@ -1444,7 +1455,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
@@ -1561,7 +1572,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -1678,7 +1689,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 

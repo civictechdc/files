@@ -2,12 +2,12 @@
     {
         "accessibility": {
             "http://codefordc.github.io/districthousing/": {
-                "pa11y_id": "54fb8a37f478eb0300b910a0", 
+                "pa11y_id": "54fbac58a824900300a684a8", 
                 "results": {
-                    "error": 10, 
+                    "error": 23, 
                     "notice": 23, 
-                    "total": 52, 
-                    "warning": 19
+                    "total": 68, 
+                    "warning": 22
                 }
             }
         }, 
@@ -284,13 +284,7 @@
     {
         "accessibility": {
             "http://ancfinder.org/": {
-                "pa11y_id": "54fb8bfbf478eb0300b910bd", 
-                "results": {
-                    "error": 66, 
-                    "notice": 135, 
-                    "total": 209, 
-                    "warning": 8
-                }
+                "pa11y_id": "54fbac5fa824900300a684aa"
             }
         }, 
         "activity": [
@@ -496,12 +490,12 @@
     {
         "accessibility": {
             "http://cmgiven.github.io/bikeshare-odds/": {
-                "pa11y_id": "54fb8af0f478eb0300b910a4", 
+                "pa11y_id": "54fbac66a824900300a684ac", 
                 "results": {
-                    "error": 12, 
+                    "error": 16, 
                     "notice": 29, 
-                    "total": 48, 
-                    "warning": 7
+                    "total": 63, 
+                    "warning": 18
                 }
             }
         }, 
@@ -802,12 +796,12 @@
     {
         "accessibility": {
             "http://www.codefordc.org": {
-                "pa11y_id": "54fb8af7f478eb0300b910a6", 
+                "pa11y_id": "54fbac6da824900300a684ae", 
                 "results": {
-                    "error": 9, 
-                    "notice": 54, 
-                    "total": 69, 
-                    "warning": 6
+                    "error": 28, 
+                    "notice": 57, 
+                    "total": 105, 
+                    "warning": 20
                 }
             }
         }, 
@@ -1046,11 +1040,11 @@
     {
         "accessibility": {
             "http://ajschumacher.github.io/dc_mayor_schedule/": {
-                "pa11y_id": "54fb8afdf478eb0300b910a8", 
+                "pa11y_id": "54fbac74a824900300a684b0", 
                 "results": {
-                    "error": 2, 
+                    "error": 9, 
                     "notice": 5, 
-                    "total": 8, 
+                    "total": 15, 
                     "warning": 1
                 }
             }
@@ -1639,7 +1633,7 @@
     {
         "accessibility": {
             "http://codefordc.github.io/ERDA/": {
-                "pa11y_id": "54fb8b0af478eb0300b910aa"
+                "pa11y_id": "54fbac7ea824900300a684b2"
             }
         }, 
         "activity": [
@@ -1761,13 +1755,7 @@
     {
         "accessibility": {
             "http://shiftyp.github.io/dc_community_gardens_visualization": {
-                "pa11y_id": "54fb8b1cf478eb0300b910ab", 
-                "results": {
-                    "error": 27, 
-                    "notice": 30, 
-                    "total": 246, 
-                    "warning": 189
-                }
+                "pa11y_id": "54fbac84a824900300a684b3"
             }
         }, 
         "activity": [
@@ -1871,13 +1859,7 @@
     {
         "accessibility": {
             "http://codefordc.github.io/dc-campaign-finance-watch/": {
-                "pa11y_id": "54fb8b2af478eb0300b910ad", 
-                "results": {
-                    "error": 5, 
-                    "notice": 5, 
-                    "total": 10, 
-                    "warning": 0
-                }
+                "pa11y_id": "54fbac91a824900300a684b4"
             }
         }, 
         "activity": [
@@ -2019,13 +2001,7 @@
     {
         "accessibility": {
             "http://cmgiven.github.io/dc-handguns/": {
-                "pa11y_id": "54fb8b2ef478eb0300b910af", 
-                "results": {
-                    "error": 10, 
-                    "notice": 15, 
-                    "total": 31, 
-                    "warning": 6
-                }
+                "pa11y_id": "54fbac99a824900300a684b6"
             }
         }, 
         "activity": [
@@ -2179,13 +2155,7 @@
     {
         "accessibility": {
             "http://drewbo.com/dc-budget-treemap/": {
-                "pa11y_id": "54fb8c26c53f3403005be481", 
-                "results": {
-                    "error": 3, 
-                    "notice": 3, 
-                    "total": 8, 
-                    "warning": 2
-                }
+                "pa11y_id": "54fbaca8a824900300a684b7"
             }
         }, 
         "activity": [
@@ -2379,13 +2349,7 @@
     {
         "accessibility": {
             "http://electionmap.wamu.org": {
-                "pa11y_id": "54fb8c37c53f3403005be483", 
-                "results": {
-                    "error": 1, 
-                    "notice": 44, 
-                    "total": 76, 
-                    "warning": 31
-                }
+                "pa11y_id": "54fbacb0a824900300a684b8"
             }
         }, 
         "activity": [
@@ -2530,13 +2494,7 @@
     {
         "accessibility": {
             "http://cmgiven.github.io/at-risk/": {
-                "pa11y_id": "54fb8b47f478eb0300b910b5", 
-                "results": {
-                    "error": 3, 
-                    "notice": 42, 
-                    "total": 53, 
-                    "warning": 8
-                }
+                "pa11y_id": "54fbacbaa824900300a684b9"
             }
         }, 
         "activity": [
@@ -2638,12 +2596,12 @@
     {
         "accessibility": {
             "https://emanuelfeld.shinyapps.io/geocoder": {
-                "pa11y_id": "54fb8b4bf478eb0300b910b7", 
+                "pa11y_id": "54fbacc4a824900300a684bb", 
                 "results": {
-                    "error": 1, 
+                    "error": 2, 
                     "notice": 2, 
                     "total": 4, 
-                    "warning": 1
+                    "warning": 0
                 }
             }
         }, 
@@ -2777,13 +2735,7 @@
     {
         "accessibility": {
             "https://twitter.com/booksfordc": {
-                "pa11y_id": "54fb8b53f478eb0300b910b8", 
-                "results": {
-                    "error": 34, 
-                    "notice": 414, 
-                    "total": 516, 
-                    "warning": 68
-                }
+                "pa11y_id": "54fbaccda824900300a684be"
             }
         }, 
         "activity": [
@@ -3096,13 +3048,7 @@
     {
         "accessibility": {
             "http://codefordc.github.io/expungement-dc": {
-                "pa11y_id": "54fb8b62f478eb0300b910ba", 
-                "results": {
-                    "error": 4, 
-                    "notice": 6, 
-                    "total": 11, 
-                    "warning": 1
-                }
+                "pa11y_id": "54fbacd6a824900300a684bf"
             }
         }, 
         "activity": [
