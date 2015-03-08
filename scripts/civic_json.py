@@ -85,7 +85,7 @@ for project in tracked:
     help_wanted = []
     for i in issues:
         for l in i['labels']:
-            if l['name'] == 'help wanted':
+            if l['name'] in ['help wanted', 'help_wanted', 'help-wanted', 'helpwanted']:
                 issue = {
                     'project': name,
                     'project_url': link,
