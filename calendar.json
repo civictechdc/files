@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1415830109000, 
@@ -74,86 +74,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }
     ], 
     "other": [
-        {
-            "created": 1425580319000, 
-            "description": "<p>We're encouraging women everywhere to celebrate <i>International Women's Day</i> by spending at least one hour on a code-related project this Sunday. No feat is too small!</p> <p>(This isn't physical meet up, but there's still plenty you can do!)</p> <p>You could work on your first app, figure out how to get your computer to recognize your device, finally find that bug in your code, start a new tutorial, help someone else get started, or add more test coverage. Anything you can think of that's code related. It's that simple!</p> <p><b>Post your Sunday accomplishments in the comments below, on Twitter (@WomenWhoCodeDC, #WomensDay), or join us on Slack to celebrate. </b></p> <p>We're excited to hear about all the things you get into!</p>", 
-            "duration": 81900000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220949414/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.90999984741211, 
-                "group_lon": -77.04000091552734, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "220949414", 
-            "maybe_rsvp_count": 0, 
-            "name": "International Women's Day: Code Hour", 
-            "status": "upcoming", 
-            "time": 1425790800000, 
-            "updated": 1425580703000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "We're not physically meeting for this event", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23680382, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Anywhere and Everywhere", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 42
-        }, 
-        {
-            "created": 1424539258000, 
-            "description": "<p>I wanted to do the Flask in your PJ's class again... but this time, using Cloud 9!</p> <p>Cloud 9 is a free online IDE. Everything is run in the cloud, from your interface to your code, and you can share your\u00a0workspace with other people. This means we don't have to get Flask installed on anyone's machine, the volunteers\u00a0and I can easily see your code if you're getting an error, and you can code on any machine you have handy (so no install rights needed!).</p> <p>This class will be run via Hangouts on Air. This means that I'll be broadcasting, and anyone can join by watching the class on Google+ or YouTube. We'll also have a chat room open for questions and requests.</p> <p>What you'll need:</p> <p>\u2022 Coffee (we're starting early!)</p> <p><br/>\u2022 A good Internet connection (I wouldn't do this from a coffee shop)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p> <p><br/>\u2022 A GitHub account (<a href=\"http://github.com\" class=\"linkified\">http://github.com</a>)</p> <p><br/>\u2022 Some knowledge of Python (If you can make a function, you can make a Flask site!)</p> <p><br/>On Air link:\u00a0<a href=\"https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8\" class=\"linkified\">https://plus.google.com/u/0/events/cnv6gcp03gmlok4qd9fotsmv7q8</a></p> <p>If this works out well, then a Django class is in the works, since Cloud 9 also supports Django!\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/220669706/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.95000076293945, 
-                "group_lon": -77.0199966430664, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "220669706", 
-            "maybe_rsvp_count": 0, 
-            "name": "Flask in your PJ's (with Cloud 9!)", 
-            "status": "upcoming", 
-            "time": 1425821400000, 
-            "updated": 1424624591000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Link is in the details", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23483842, 
-                "lat": 38.890369, 
-                "lon": -77.03196, 
-                "name": "Google Hangout On Air", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 38
-        }, 
         {
             "created": 1424279774000, 
             "description": "<p><b>Meetup Format</b></p> <p><br/>The WWC Front End Hack Night (FEHN) study group is a space where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Begin</p> <p>\u2022\u00a06:40 - 6:50pm - Quick Introductions</p> <p>\u2022\u00a06:50 - 8:00pm - CODE!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><br/>There's always at least one lead present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><a href=\"http://nupurkapoor.github.io/js-study-group/#/\" class=\"linkified\">http://nupurkapoor.github.io/js-study-group/#/</a></p> <p><b>RESOURCES</b></p> <p>To learn more about us please visit,\u00a0<a href=\"http://bit.ly/1LzKMbY\"><a href=\"http://bit.ly/1LzKMbY\" class=\"linkified\">http://bit.ly/1LzKMbY</a></a></p> <p><b>Building Access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p><b>All Women Welcome\u00a0</b></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>", 
@@ -178,20 +102,21 @@
             "updated": 1425528608000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1630 Connecticut Ave NW 7th Floor", 
+                "address_1": "641 S St NW", 
+                "address_2": "Floor 1", 
                 "city": "Washington", 
                 "country": "us", 
                 "id": 9483992, 
-                "lat": 38.912045, 
-                "lon": -77.045258, 
+                "lat": 38.91455, 
+                "lon": -77.021095, 
                 "name": "iStrategyLabs", 
                 "repinned": false, 
                 "state": "DC", 
-                "zip": "20009"
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1424969372000, 
@@ -218,7 +143,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1424824280000, 
@@ -242,7 +167,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1426026600000, 
-            "updated": 1424983984000, 
+            "updated": 1425922288000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -256,7 +181,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -277,10 +202,10 @@
             "id": "220449315", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night III", 
-            "rsvp_limit": 150, 
+            "rsvp_limit": 160, 
             "status": "upcoming", 
             "time": 1426113000000, 
-            "updated": 1425356092000, 
+            "updated": 1425942114000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "999 9th St, NW ", 
@@ -297,11 +222,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 157
         }, 
         {
             "created": 1421849941000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. Check out this guide to better understand what we do:<a href=\"http://bit.ly/rorstudygroupguide\">bit.ly/rorstudygroupguide</a>.\u00a0We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Contact policy at buildings that need access\u00a0</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?\u00a0</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a>\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.\u00a0</p>", 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience.\u00a0</p> <p>Check out this guide to better understand what we do:<a href=\"http://bit.ly/rorstudygroupguide\">bit.ly/rorstudygroupguide</a>.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220177730/", 
             "group": {
                 "created": 1395616294000, 
@@ -320,11 +245,22 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1426113000000, 
-            "updated": 1425412560000, 
+            "updated": 1425911532000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2300 Wilson Blvd. #630", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 23616031, 
+                "lat": 38.890926, 
+                "lon": -77.086708, 
+                "name": "Excella", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1425483167000, 
@@ -346,10 +282,10 @@
             "id": "220920358", 
             "maybe_rsvp_count": 0, 
             "name": "ggWHAT???", 
-            "rsvp_limit": 150, 
+            "rsvp_limit": 175, 
             "status": "upcoming", 
             "time": 1426199400000, 
-            "updated": 1425483251000, 
+            "updated": 1425933319000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -364,7 +300,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1425082539000, 
@@ -404,7 +340,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1424279774000, 
@@ -442,7 +378,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1424051129000, 
@@ -480,7 +416,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1424968249000, 
@@ -548,7 +484,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1422815256000, 
@@ -586,7 +522,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1421849941000, 
@@ -613,11 +549,11 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1425314135000, 
-            "description": "<p>NOTE: You MUST register on\u00a0<a href=\"http://wcm-ux4devs.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join Web Content Mavens for a discussion about user experience in app and web development projects, making devs into UXers and practical UX in real-world projects.</p> <p>Key discussion points:</p> <p>- Practical UX principles that devs &amp; techies need to know</p> <p>- How to make developers into UXers\u00a0</p> <p>- UX when you don't have UX staff or expertise</p> <p><br/>- Making theoretical UX work in a real dev environment</p> <p>- Good processes for UX in development</p> <p><b>SCHEDULE</b></p> <p>Come at 6:30 for empanadas, drinks (adult &amp; otherwise) and networking. The panel begins at 7:00 and ends by 8:30. There will be a raffle from our host, Teksystems, so stay until the end!</p> <p><b>SPEAKERS</b></p> <p>\u2022\u00a0Scott Savage, Boost Labs</p> <p>\u2022\u00a0Cobey Potter, Wellfire Interactive\u00a0</p> <p>\u2022\u00a0Jordan DeVries, BraveUX</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><b>TEKsystems:</b> People are at the heart of every successful business initiative. At TEKsystems, we understand people. Every year we deploy over 80,000 IT professionals at 6,000 client sites across North America, Europe and Asia. Our deep insights into IT human capital management enable us to help our clients achieve their business goals - while optimizing their IT workforce strategies. We provide IT staffing solutions, IT talent management expertise and IT services to help our clients plan, build and run their critical business initiatives. Through our range of quality-focused delivery models, we meet our clients where they are, and take them where they want to go, the way they want to get there. <a href=\"http://www.teksystems.com\">www.teksystems.com.</a></p>", 
+            "description": "<p>NOTE: You MUST register on\u00a0<a href=\"http://wcm-ux4devs.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><br/><b>OVERVIEW</b></p> <p>Join Web Content Mavens for a discussion about user experience in app and web development projects, making devs into UXers and practical UX in real-world projects.</p> <p>Key discussion points:</p> <p>- Practical UX principles that devs &amp; techies need to know</p> <p>- How to make developers into UXers\u00a0</p> <p>- UX when you don't have UX staff or expertise</p> <p><br/>- Making theoretical UX work in a real dev environment</p> <p>- Good processes for UX in development</p> <p><b>SCHEDULE</b></p> <p>Come at 6:30 for empanadas, drinks (adult &amp; otherwise) and networking. The panel begins at 7:00 and ends by 8:30. There will be a raffle from our host, Teksystems, so stay until the end!</p> <p><b>SPEAKERS</b></p> <p>\u2022\u00a0Scott Savage, Boost Labs</p> <p>\u2022\u00a0Cobey Potter, Wellfire Interactive\u00a0</p> <p>\u2022\u00a0Jordan DeVries, BraveUX</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><b>TEKsystems:</b> Technology alone does not communicate a message\u2014people are the most important part of a digital solution. We support interactive, creative, and digital initiatives for clients ranging from digital marketing agencies to Fortune 3000 companies by supplying skilled design, development, functional and marketing technology resources. As the digital technology-focused division of TEKsystems, a $3.6 billion global IT staffing, talent management and services leader, we thrive at the intersection of technology and marketing. We offer the focus of a specialized boutique firm while providing the experience, scalability, depth and reach of a global partner. <a href=\"http://www.teksystems.com\">www.teksystems.com.</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/220869470/", 
             "group": {
                 "created": 1189804715000, 
@@ -635,7 +571,7 @@
             "name": "User Experience for Devs & Techies", 
             "status": "upcoming", 
             "time": 1426717800000, 
-            "updated": 1425622160000, 
+            "updated": 1425934158000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -688,7 +624,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1423167734000, 
@@ -728,7 +664,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1425427868000, 
@@ -855,7 +791,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1424279774000, 
@@ -936,7 +872,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
@@ -975,7 +911,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1326383071000, 
@@ -1015,11 +951,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1418680238000, 
-            "description": "<p><b>IMPORTANT: </b>-<b>\u00a0</b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.\u00a0</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brenna Holmes</b>, VP of Digital, Chapman, Cubine, Adams + Hussey</p> <p><b>Heather Shelby</b>, Online Activist Coordinator, Environmental Defense Fund</p> <p><b>Shashi Bellamkonda</b>,\u00a0VP of Digital Marketing, The Bozzuto Group</p> <p><b>AGENDA</b></p> <p><br/>6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>What\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
+            "description": "<p><b>IMPORTANT: </b>-<b>\u00a0</b>Registration is through <a href=\"http://wcm-marcom.eventbrite.com\">Eventbrite</a>.\u00a0</p> <p><b>OVERVIEW</b></p> <p>Join the Web Content Mavens and learn about managing marketing and communications across multiple channels - including web, email, social and mobile.\u00a0</p> <p><br/>Key takeaways:<br/>\u2022\u00a0Overview of different channels<br/>\u2022\u00a0When to use each and how they tie together<br/>\u2022\u00a0Planning a cross-platform communications/marketing campaign<br/>\u2022\u00a0Tone,\u00a0language &amp; terminology<br/>\u2022\u00a0Carrying a brand across properties<br/>\u2022\u00a0Visual identity cues<br/>\u2022\u00a0Customer/member participation &amp; advocacy</p> <p>\u2022\u00a0<b>SPEAKERS</b></p> <p><b>Brenna Holmes</b>, VP of Digital, Chapman, Cubine, Adams + Hussey</p> <p><b>Heather Shelby</b>, Online Activist Coordinator, Environmental Defense Fund</p> <p><b>Shashi Bellamkonda</b>,\u00a0VP of Digital Marketing, The Bozzuto Group</p> <p><b>AGENDA</b></p> <p><br/>6:30 pm - Networking, drinks and appetizers<br/>7:00 pm - Presentations<br/>8:15 pm - More networking<br/>8:45 pm - Adjourn</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/2/f/e/600_434193534.jpeg\" /></p> <p>What\u2019s next?\u00a0Chapman Cubine Adams + Hussey (CCAH) has been seeking an answer to this question for more than 25 years. We\u2019re driven to discover what\u2019s next\u00a0in multi-channel marketing and how we can help our clients test new ideas, embrace innovation and break through the clutter. <a href=\"http://www.ccah.com\">www.ccah.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/219264031/", 
             "group": {
                 "created": 1189804715000, 
@@ -1037,7 +973,7 @@
             "name": "Integrated Marketing & Communications - Online, Social & Mobile", 
             "status": "upcoming", 
             "time": 1427929200000, 
-            "updated": 1425658834000, 
+            "updated": 1425936032000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1052,7 +988,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1423021750000, 
@@ -1089,7 +1025,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1424780298000, 
@@ -1128,7 +1064,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1424447514000, 
@@ -1167,7 +1103,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1424279774000, 
@@ -1248,7 +1184,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1424279774000, 
@@ -1343,6 +1279,107 @@
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1421849941000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. Check out this guide to better understand what we do:<a href=\"http://bit.ly/rorstudygroupguide\">bit.ly/rorstudygroupguide</a>.\u00a0We encourage any advanced ROR devs to come and help others!\u00a0</p> <p>There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Contact policy at buildings that need access\u00a0</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case\u00a0the\u00a0location\u00a0requires access to the building\u00a0contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?\u00a0</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! \u00a0Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p><i>These are the resources that members have been following along, feel free to suggest if you have more to add!</i></p> <p><a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a>\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/220258278/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.90999984741211, 
+                "group_lon": -77.04000091552734, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jdhzdlytgbtb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1429135200000, 
+            "updated": 1425412502000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1425932899000, 
+            "description": "<p><b>Solve our national PACER problem in 2015.</b></p> <p><br/><a href=\"http://pacer.psc.uscourts.gov/\">PACER</a>,\u00a0<i>aka\u00a0Public Access to Court Electronic Records</i>, is the online system for accessing\u00a0U.S. Federal District and Bankruptcy Courts. PACER requires a valid credit card and US taxpayer ID (amongst <a href=\"https://www.pacer.gov/documents/pacermanual.pdf\">other things</a>) to use. PACER charges ~10 cents a page with a maximum of $3 per document.\u00a0If a user incurs less than $15 in charges per quarter, the fee for that quarter is waived.\u00a0Additional charges are levied for docket reports in HTML, audio files, and searches of the PACER Case Locator.</p> <p>Learn about how these charges are technologically excessive, how charging for access to the law is constitutionally questionable, and what you can do today to help free PACER, with a very special line-up of speakers, including:\u00a0</p> <p>\u2022<i><b> Carl Malamud</b>,<b>\u00a0</b></i>author of\u00a0<a href=\"https://yo.yourhonor.org/\">\"In re: The PACER System Memorandum of Law: A National Strategy of Litigation, Supplication, and Agitation\"</a>,\u00a0a three-part campaign to the free the law,\u00a0amongst <a href=\"https://public.resource.org/\">other things</a>.</p> <p>\u2022 <b><i>Steve Schultze</i></b>, co-creator of\u00a0<a href=\"https://www.recapthelaw.org/\">RECAP The Law</a>\u00a0(a free extension for Firefox and Chrome that improves the experience of using\u00a0PACER, helping you archive law for the public good, save money, and keeping you organized), amongst <a href=\"http://managingmiracles.blogspot.com/\">other things</a>.</p> <p>\u2022\u00a0<b><i>Harlan Yu</i></b>, co-creator of\u00a0<a href=\"https://www.recapthelaw.org/,\">&lt;/a&gt;&lt;a href=\"https://www.recapthelaw.org/\"&gt;RECAP The Law</a>, amongst <a href=\"http://www.robinsonyu.com/\">other things</a>.</p> <p><br/>More speakers and details are coming. RSVP now, this will be a very special gathering.\u00a0</p> <p>#FreePACER #LegalHack\u00a0</p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/221038601/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.91999816894531, 
+                "group_lon": -77.04000091552734, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "221038601", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack PACER", 
+            "status": "upcoming", 
+            "time": 1429138800000, 
+            "updated": 1425934067000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "TBD", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23688717, 
+                "lat": 38.875359, 
+                "lon": -76.994972, 
+                "name": "TBD - near the Supreme Court ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
+        }, 
+        {
+            "created": 1425929666000, 
+            "description": "<p>Recently, there has been significant buzz about the potential for new technologies to disrupt the market for legal services. In the meantime, a quiet \"evolution\" is occurring, as new digital tools are being integrated into traditional practice settings at a rapid pace. Inside forward-looking law firms and corporate legal departments, lawyers are creating technology-based solutions to increase the effectiveness of legal services. These lawyers are maintaining the highest quality of services while using technologies as a multiplier to drive down client costs.\u00a0</p> <p>This important day-and-a-half conference, sponsored with the ABA Journal, examines how legal technologies are being adopted in many practice areas including litigation, transactional work, compliance, and intellectual property. Each panel's presenters will demonstrate how a new technology they have developed supports improved service delivery. Attendees will have the opportunity to learn how law firms and legal departments are using technology-based tools to address client needs and explore how these approaches enhance the effectiveness of law practice.\u00a0</p> <p>The conference opens with the Iron Tech Lawyer competition on April 22nd from 1:15-3:30 and continues through April 23rd, with panels on technologies in litigation, digital tools in contract management, due diligence, and intellectual property, cross-practice technologies, legal technology careers, and access to justice and open government.\u00a0</p> <p>REGISTRATION = $45 for members of DC Legal Hackers.\u00a0</p> <p><a href=\"http://www.law.georgetown.edu/continuing-legal-education/programs/academic-conferences/Legal-Tech.cfm\">YOU MUST REGISTER HERE.\u00a0</a></p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/221037093/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.91999816894531, 
+                "group_lon": -77.04000091552734, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "221037093", 
+            "maybe_rsvp_count": 0, 
+            "name": "From Revolution to Evolution - Digital Tools in Law Practice", 
+            "status": "upcoming", 
+            "time": 1429794000000, 
+            "updated": 1425929666000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "600 New Jersey Avenue NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19547872, 
+                "lat": 38.898174, 
+                "lon": -77.012238, 
+                "name": "Georgetown Law", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
+        }, 
+        {
             "created": 1424571116000, 
             "description": "<p>Oft requested but often avoided due to the pain that is install parties... a Django class! Learn the basics of using Django to create a basic app. We will be going over:</p> <p>\u2022 Setting up a basic project</p> <p><br/>\u2022 Creating a model</p> <p><br/>\u2022 Setting up the admin</p> <p><br/>\u2022 Creating views</p> <p><br/>\u2022 Adding in templates</p> <p><br/>This class will be held remotely using the Cloud 9 IDE. This IDE is free, and will make troubleshooting your environment a ton easier for us!\u00a0</p> <p>This class will be held via Google Hangouts on Air. You can watch it via YouTube or through Google+. There will also be a chat room where you can chat with other students and get help from volunteers.\u00a0</p> <p>You will need:</p> <p>\u2022 Coffee. We start early!</p> <p><br/>\u2022 A good Internet connection. Don't try to do this at a coffee shop!</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"linkified\">http://c9.io</a>)</p> <p>\u2022 A Github account (<a href=\"http://github.com\" class=\"linkified\">http://github.com</a>)</p>", 
             "duration": 10800000, 
@@ -1363,7 +1400,7 @@
             "name": "Django in your PJ's (using Cloud 9)", 
             "status": "upcoming", 
             "time": 1430055000000, 
-            "updated": 1424658799000, 
+            "updated": 1425831164000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Link is in the details", 
@@ -1378,7 +1415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1423851955000, 
@@ -1416,7 +1453,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1417881835000, 

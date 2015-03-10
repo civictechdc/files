@@ -29,7 +29,10 @@ for project in tracked:
 
     # Get the basic Github data
     url = link.replace('github.com','api.github.com/repos')
-    headers = {'Authorization': 'token '+GITHUB_TOKEN}
+    headers = {
+        'Authorization': 'token '+GITHUB_TOKEN,
+        'Accept': 'application/vnd.github.drax-preview+json'
+        }
     r = requests.get(url, headers = headers).json()
     data = {
         'id': r['id'],
@@ -51,7 +54,8 @@ for project in tracked:
             'avatar': r['owner']['avatar_url'],
             'url': r['owner']['html_url'],
             'type': r['owner']['type']
-        }
+        },
+        'license': r['license']
     }
 
     # Add in contributor information from Github
@@ -108,9 +112,8 @@ for project in tracked:
         try:
             validate(civic,schema)
         except jsonschema.exceptions.ValidationError, error:
-            #print data['name']
-            #print error
-            #print "\n"
+            print error
+            print "\n"
             civic = None
     except ValueError:
         civic = None
@@ -122,7 +125,6 @@ for project in tracked:
 
     try:
         r = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/pa11y.yml').json()
-        print r
         y = yaml.load(r)
         urls.append(y['urls'])
     except ValueError:

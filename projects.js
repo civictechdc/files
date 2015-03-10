@@ -19,23 +19,23 @@ projects([
             1, 
             4, 
             0, 
-            15, 
-            18, 
+            32, 
+            1, 
             7, 
-            12, 
             13, 
-            7, 
-            85, 
-            70, 
-            50, 
-            5, 
-            12, 
-            6, 
-            5, 
-            0, 
-            0, 
-            2, 
+            14, 
             8, 
+            106, 
+            48, 
+            49, 
+            4, 
+            18, 
+            3, 
+            2, 
+            0, 
+            1, 
+            9, 
+            0, 
             9, 
             3, 
             0, 
@@ -46,24 +46,24 @@ projects([
             1, 
             2, 
             16, 
-            11, 
-            23, 
-            39, 
-            16, 
-            30, 
-            36, 
-            1, 
-            0, 
-            14, 
-            17, 
-            12, 
-            30, 
-            20, 
-            33, 
-            92, 
             22, 
-            36, 
-            3
+            23, 
+            28, 
+            19, 
+            51, 
+            12, 
+            1, 
+            9, 
+            10, 
+            12, 
+            20, 
+            22, 
+            23, 
+            69, 
+            58, 
+            17, 
+            39, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -109,9 +109,9 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 102, 
-                "link": "https://github.com/evonfriedland", 
-                "name": "evonfriedland"
+                "contributions": 78, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1302023?v=3", 
@@ -267,6 +267,11 @@ projects([
                 118
             ]
         ], 
+        "license": {
+            "key": "mit", 
+            "name": "MIT License", 
+            "url": "https://api.github.com/licenses/mit"
+        }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
         "open_issues": 58, 
@@ -284,22 +289,28 @@ projects([
     {
         "accessibility": {
             "http://ancfinder.org/": {
-                "pa11y_id": "54fbac5fa824900300a684aa"
+                "pa11y_id": "54fbac5fa824900300a684aa", 
+                "results": {
+                    "error": 86, 
+                    "notice": 135, 
+                    "total": 244, 
+                    "warning": 23
+                }
             }
         }, 
         "activity": [
-            11, 
+            1, 
             0, 
             9, 
             6, 
             0, 
-            13, 
-            2, 
+            15, 
+            0, 
             9, 
             0, 
             8, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             5, 
             0, 
@@ -309,18 +320,18 @@ projects([
             3, 
             5, 
             3, 
-            2, 
-            8, 
-            2, 
-            0, 
+            6, 
+            5, 
+            1, 
             1, 
             0, 
             0, 
+            0, 
             3, 
             3, 
             0, 
-            0, 
-            6, 
+            4, 
+            2, 
             2, 
             2, 
             5, 
@@ -336,10 +347,10 @@ projects([
             0, 
             0, 
             0, 
-            3, 
-            5, 
+            8, 
             0, 
-            1
+            1, 
+            0
         ], 
         "civic_json": null, 
         "contributors": [
@@ -473,6 +484,11 @@ projects([
                 104
             ]
         ], 
+        "license": {
+            "key": "other", 
+            "name": "Other", 
+            "url": null
+        }, 
         "main_language": "Python", 
         "name": "ANC Finder", 
         "open_issues": 34, 
@@ -550,8 +566,8 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            2
+            2, 
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -631,6 +647,7 @@ projects([
                 2941
             ]
         ], 
+        "license": null, 
         "main_language": "CSS", 
         "name": "CaBi Odds", 
         "open_issues": 3, 
@@ -779,6 +796,7 @@ projects([
                 914
             ]
         ], 
+        "license": null, 
         "main_language": "JavaScript", 
         "name": "Education", 
         "open_issues": 29, 
@@ -798,9 +816,9 @@ projects([
             "http://www.codefordc.org": {
                 "pa11y_id": "54fbac6da824900300a684ae", 
                 "results": {
-                    "error": 28, 
-                    "notice": 57, 
-                    "total": 105, 
+                    "error": 1, 
+                    "notice": 63, 
+                    "total": 84, 
                     "warning": 20
                 }
             }
@@ -811,8 +829,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            7, 
+            3, 
+            6, 
             7, 
             0, 
             2, 
@@ -825,39 +843,39 @@ projects([
             0, 
             0, 
             0, 
-            0, 
+            3, 
+            3, 
+            3, 
             6, 
-            1, 
             4, 
-            8, 
             3, 
             0, 
-            5, 
-            14, 
             8, 
-            3, 
-            3, 
             12, 
             8, 
-            7, 
-            9, 
-            11, 
-            11, 
-            3, 
-            1, 
+            2, 
             8, 
+            13, 
+            2, 
+            10, 
+            11, 
+            8, 
+            12, 
+            0, 
             1, 
+            9, 
+            0, 
             4, 
             2, 
             0, 
             10, 
             0, 
             0, 
-            5, 
-            2, 
-            3, 
             6, 
-            8
+            1, 
+            7, 
+            4, 
+            9
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -883,13 +901,13 @@ projects([
             ], 
             "politicalEntity": {}, 
             "status": "Production", 
-            "thumbnailUrl": "http://codefordc.org/images/logo_500px.png", 
+            "thumbnailUrl": "https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg", 
             "type": "Website"
         }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 117, 
+                "contributions": 120, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1008,7 +1026,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                119040
+                119729
             ], 
             [
                 "JavaScript", 
@@ -1016,25 +1034,30 @@ projects([
             ], 
             [
                 "CSS", 
-                15599
+                15867
             ], 
             [
                 "Ruby", 
                 3083
             ]
         ], 
+        "license": {
+            "key": "gpl-2.0", 
+            "name": "GNU General Public License v2.0", 
+            "url": "https://api.github.com/licenses/gpl-2.0"
+        }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 9, 
+        "open_issues": 8, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-06T05:07:07Z", 
+        "pushed_at": "2015-03-08T04:01:05Z", 
         "size": 17533, 
-        "updated_at": "2015-03-06T05:06:51Z", 
+        "updated_at": "2015-03-08T04:00:50Z", 
         "watchers": 16
     }, 
     {
@@ -1050,58 +1073,58 @@ projects([
             }
         }, 
         "activity": [
-            4, 
+            5, 
             6, 
             6, 
             4, 
             6, 
             5, 
-            6, 
-            6, 
-            5, 
-            6, 
             7, 
+            5, 
+            5, 
+            7, 
+            5, 
+            4, 
+            7, 
+            29, 
+            11, 
+            4, 
+            5, 
+            4, 
+            6, 
+            8, 
+            6, 
+            5, 
+            5, 
+            5, 
+            5, 
             3, 
-            6, 
+            5, 
             7, 
-            32, 
             6, 
             6, 
-            3, 
-            6, 
-            7, 
             6, 
             5, 
-            6, 
-            4, 
-            6, 
-            3, 
-            5, 
-            6, 
-            7, 
-            6, 
-            6, 
-            4, 
             10, 
             7, 
-            6, 
+            5, 
             6, 
             6, 
             4, 
-            6, 
             7, 
             6, 
-            2, 
             5, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             3, 
-            1
+            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            4, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -1179,6 +1202,7 @@ projects([
                 2215
             ]
         ], 
+        "license": null, 
         "main_language": "HTML", 
         "name": "Mayor's Schedule Archive", 
         "open_issues": 1, 
@@ -1246,8 +1270,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            5
+            5, 
+            0
         ], 
         "civic_json": {
             "categories": [
@@ -1329,7 +1353,7 @@ projects([
         "created_at": "2013-06-02T19:27:08Z", 
         "default_branch": "gh-pages", 
         "description": "DC Open211", 
-        "forks": 8, 
+        "forks": 7, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/codefordc/open211", 
@@ -1348,6 +1372,7 @@ projects([
                 48
             ]
         ], 
+        "license": null, 
         "main_language": "CSS", 
         "name": "Open 211", 
         "open_issues": 2, 
@@ -1384,17 +1409,17 @@ projects([
             1, 
             0, 
             0, 
-            0, 
-            9, 
+            6, 
+            3, 
             0, 
             8, 
-            0, 
-            11, 
             6, 
-            14, 
+            7, 
+            5, 
+            13, 
             3, 
-            1, 
             9, 
+            1, 
             5, 
             3, 
             0, 
@@ -1412,10 +1437,10 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            13, 
-            8, 
+            1, 
+            9, 
+            20, 
+            1, 
             4
         ], 
         "civic_json": {
@@ -1508,6 +1533,11 @@ projects([
                 9547
             ]
         ], 
+        "license": {
+            "key": "gpl-2.0", 
+            "name": "GNU General Public License v2.0", 
+            "url": "https://api.github.com/licenses/gpl-2.0"
+        }, 
         "main_language": "Python", 
         "name": "Metro Metrics", 
         "open_issues": 12, 
@@ -1616,6 +1646,11 @@ projects([
         "html_url": "https://github.com/rrbaker/dctreemap", 
         "id": 31340793, 
         "languages": [], 
+        "license": {
+            "key": "mit", 
+            "name": "MIT License", 
+            "url": "https://api.github.com/licenses/mit"
+        }, 
         "main_language": null, 
         "name": "DC Tree Map", 
         "open_issues": 3, 
@@ -1633,31 +1668,37 @@ projects([
     {
         "accessibility": {
             "http://codefordc.github.io/ERDA/": {
-                "pa11y_id": "54fbac7ea824900300a684b2"
+                "pa11y_id": "54fbac7ea824900300a684b2", 
+                "results": {
+                    "error": 18, 
+                    "notice": 20, 
+                    "total": 44, 
+                    "warning": 6
+                }
             }
         }, 
         "activity": [
+            1, 
+            1, 
+            0, 
+            1, 
+            0, 
+            1, 
+            0, 
+            3, 
+            7, 
+            4, 
+            3, 
+            7, 
+            3, 
+            1, 
             0, 
             2, 
             0, 
-            1, 
-            0, 
-            1, 
-            0, 
-            3, 
-            5, 
-            6, 
-            3, 
-            6, 
-            3, 
-            2, 
-            0, 
-            1, 
-            1, 
             0, 
             0, 
-            3, 
-            1, 
+            4, 
+            0, 
             0, 
             2, 
             1, 
@@ -1738,6 +1779,11 @@ projects([
                 18697
             ]
         ], 
+        "license": {
+            "key": "bsd-3-clause", 
+            "name": "BSD 3-clause \"New\" or \"Revised\" License", 
+            "url": "https://api.github.com/licenses/bsd-3-clause"
+        }, 
         "main_language": "Python", 
         "name": "Emergency Response Times", 
         "open_issues": 1, 
@@ -1755,7 +1801,13 @@ projects([
     {
         "accessibility": {
             "http://shiftyp.github.io/dc_community_gardens_visualization": {
-                "pa11y_id": "54fbac84a824900300a684b3"
+                "pa11y_id": "54fbac84a824900300a684b3", 
+                "results": {
+                    "error": 29, 
+                    "notice": 29, 
+                    "total": 275, 
+                    "warning": 217
+                }
             }
         }, 
         "activity": [
@@ -1774,8 +1826,8 @@ projects([
             0, 
             0, 
             0, 
-            5, 
-            1, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -1842,6 +1894,7 @@ projects([
                 1645
             ]
         ], 
+        "license": null, 
         "main_language": "JavaScript", 
         "name": "Community Gardens Visualization", 
         "open_issues": 2, 
@@ -1859,7 +1912,13 @@ projects([
     {
         "accessibility": {
             "http://codefordc.github.io/dc-campaign-finance-watch/": {
-                "pa11y_id": "54fbac91a824900300a684b4"
+                "pa11y_id": "54fbac91a824900300a684b4", 
+                "results": {
+                    "error": 15, 
+                    "notice": 5, 
+                    "total": 20, 
+                    "warning": 0
+                }
             }
         }, 
         "activity": [
@@ -1879,27 +1938,27 @@ projects([
             0, 
             0, 
             2, 
-            4, 
-            13, 
-            2, 
-            1, 
-            2, 
-            0, 
-            12, 
-            31, 
-            7, 
+            5, 
+            14, 
             0, 
             3, 
-            19, 
-            21, 
-            5, 
-            9, 
-            15, 
-            2, 
+            0, 
+            0, 
+            37, 
+            6, 
+            7, 
+            0, 
+            16, 
+            14, 
+            16, 
+            8, 
+            6, 
+            13, 
+            1, 
             13, 
             0, 
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1984,6 +2043,7 @@ projects([
                 5165
             ]
         ], 
+        "license": null, 
         "main_language": "Python", 
         "name": "Campaign Finance Watch", 
         "open_issues": 14, 
@@ -2001,7 +2061,13 @@ projects([
     {
         "accessibility": {
             "http://cmgiven.github.io/dc-handguns/": {
-                "pa11y_id": "54fbac99a824900300a684b6"
+                "pa11y_id": "54fbac99a824900300a684b6", 
+                "results": {
+                    "error": 15, 
+                    "notice": 15, 
+                    "total": 40, 
+                    "warning": 10
+                }
             }
         }, 
         "activity": [
@@ -2138,6 +2204,7 @@ projects([
                 1211
             ]
         ], 
+        "license": null, 
         "main_language": "CSS", 
         "name": "DC Handguns", 
         "open_issues": 0, 
@@ -2155,7 +2222,13 @@ projects([
     {
         "accessibility": {
             "http://drewbo.com/dc-budget-treemap/": {
-                "pa11y_id": "54fbaca8a824900300a684b7"
+                "pa11y_id": "54fbaca8a824900300a684b7", 
+                "results": {
+                    "error": 3, 
+                    "notice": 6, 
+                    "total": 11, 
+                    "warning": 2
+                }
             }
         }, 
         "activity": [
@@ -2243,6 +2316,11 @@ projects([
         "html_url": "https://github.com/drewbo/dc-budget-treemap", 
         "id": 24201901, 
         "languages": [], 
+        "license": {
+            "key": "cc0-1.0", 
+            "name": "Creative Commons Zero v1.0 Universal", 
+            "url": "https://api.github.com/licenses/cc0-1.0"
+        }, 
         "main_language": null, 
         "name": "2014 Budget Treemap", 
         "open_issues": 5, 
@@ -2332,6 +2410,11 @@ projects([
         "html_url": "https://github.com/drewbo/dc-juvenile", 
         "id": 25925356, 
         "languages": [], 
+        "license": {
+            "key": "cc0-1.0", 
+            "name": "Creative Commons Zero v1.0 Universal", 
+            "url": "https://api.github.com/licenses/cc0-1.0"
+        }, 
         "main_language": null, 
         "name": "DC Juvenile Arrests", 
         "open_issues": 1, 
@@ -2349,7 +2432,13 @@ projects([
     {
         "accessibility": {
             "http://electionmap.wamu.org": {
-                "pa11y_id": "54fbacb0a824900300a684b8"
+                "pa11y_id": "54fbacb0a824900300a684b8", 
+                "results": {
+                    "error": 9, 
+                    "notice": 44, 
+                    "total": 109, 
+                    "warning": 56
+                }
             }
         }, 
         "activity": [
@@ -2386,10 +2475,10 @@ projects([
             0, 
             0, 
             0, 
-            10, 
-            81, 
-            3, 
-            3, 
+            23, 
+            68, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -2477,6 +2566,11 @@ projects([
                 1576
             ]
         ], 
+        "license": {
+            "key": "cc0-1.0", 
+            "name": "Creative Commons Zero v1.0 Universal", 
+            "url": "https://api.github.com/licenses/cc0-1.0"
+        }, 
         "main_language": "JavaScript", 
         "name": "Open Elections Map", 
         "open_issues": 0, 
@@ -2494,7 +2588,13 @@ projects([
     {
         "accessibility": {
             "http://cmgiven.github.io/at-risk/": {
-                "pa11y_id": "54fbacbaa824900300a684b9"
+                "pa11y_id": "54fbacbaa824900300a684b9", 
+                "results": {
+                    "error": 71, 
+                    "notice": 48, 
+                    "total": 126, 
+                    "warning": 7
+                }
             }
         }, 
         "activity": [
@@ -2543,9 +2643,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            18, 
-            29, 
+            7, 
+            15, 
+            25, 
             0, 
             0, 
             0, 
@@ -2579,6 +2679,7 @@ projects([
                 9572
             ]
         ], 
+        "license": null, 
         "main_language": "JavaScript", 
         "name": "Funds for At-Risk Students", 
         "open_issues": 1, 
@@ -2654,10 +2755,10 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            6, 
-            11, 
-            2
+            4, 
+            10, 
+            5, 
+            0
         ], 
         "civic_json": {
             "bornAt": "", 
@@ -2692,9 +2793,9 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 15, 
-                "link": "https://github.com/evonfriedland", 
-                "name": "evonfriedland"
+                "contributions": 3, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
@@ -2710,7 +2811,7 @@ projects([
         "forks": 1, 
         "help_wanted": [], 
         "homepage": "https://emanuelfeld.shinyapps.io/geocoder", 
-        "html_url": "https://github.com/evonfriedland/geocoder", 
+        "html_url": "https://github.com/emanuelfeld/geocoder", 
         "id": 30789409, 
         "languages": [
             [
@@ -2718,14 +2819,15 @@ projects([
                 5776
             ]
         ], 
+        "license": null, 
         "main_language": "R", 
         "name": "CSV Geocoder", 
         "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-            "name": "evonfriedland", 
+            "name": "emanuelfeld", 
             "type": "User", 
-            "url": "https://github.com/evonfriedland"
+            "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-03-01T20:01:45Z", 
         "size": 229, 
@@ -2735,7 +2837,13 @@ projects([
     {
         "accessibility": {
             "https://twitter.com/booksfordc": {
-                "pa11y_id": "54fbaccda824900300a684be"
+                "pa11y_id": "54fbaccda824900300a684be", 
+                "results": {
+                    "error": 573, 
+                    "notice": 429, 
+                    "total": 1101, 
+                    "warning": 99
+                }
             }
         }, 
         "activity": [
@@ -2788,9 +2896,9 @@ projects([
             0, 
             0, 
             0, 
-            39, 
-            38, 
-            66
+            45, 
+            47, 
+            56
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -2816,9 +2924,9 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 146, 
-                "link": "https://github.com/evonfriedland", 
-                "name": "evonfriedland"
+                "contributions": 50, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
@@ -2838,49 +2946,50 @@ projects([
                 "body": "Able to search Overdrive using the following URL:\r\n\"http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria={INSERT_QUERY_HERE}&x=0&y=0\"\r\n\r\ne.g. http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria=Hello&x=0&y=0\r\n\r\nBut jquery GET request of that URL does not load response data. I'm not sure if it's an issue of cookie-setting.\r\n\r\n![image](https://cloud.githubusercontent.com/assets/4269640/6515448/e5fab5e0-c357-11e4-9e78-a7f442e4e02d.png)\r\n\r\nIt would be nice to have this functionality, since not all ebooks in Overdrive are also searchable in the catalog, for some reason.", 
                 "comments": 2, 
                 "created_at": "2015-03-05T15:21:59Z", 
-                "issue": "Improve Overdrive searching", 
-                "issue_url": "https://github.com/evonfriedland/booksfordc/issues/13", 
+                "issue": "Resolve Overdrive GET request issue", 
+                "issue_url": "https://github.com/emanuelfeld/booksfordc/issues/13", 
                 "labels": [
                     {
                         "color": "159818", 
                         "name": "help wanted", 
-                        "url": "https://api.github.com/repos/evonfriedland/booksfordc/labels/help%20wanted"
+                        "url": "https://api.github.com/repos/emanuelfeld/booksfordc/labels/help%20wanted"
                     }
                 ], 
                 "project": "Books for DC", 
-                "project_url": "https://github.com/evonfriedland/booksfordc", 
-                "updated_at": "2015-03-06T14:29:56Z"
+                "project_url": "https://github.com/emanuelfeld/booksfordc", 
+                "updated_at": "2015-03-08T22:02:25Z"
             }
         ], 
         "homepage": "https://twitter.com/booksfordc", 
-        "html_url": "https://github.com/evonfriedland/booksfordc", 
+        "html_url": "https://github.com/emanuelfeld/booksfordc", 
         "id": 31002646, 
         "languages": [
             [
                 "JavaScript", 
-                8716
+                8783
             ], 
             [
                 "Python", 
-                6518
+                6516
             ], 
             [
                 "CSS", 
                 788
             ]
         ], 
+        "license": null, 
         "main_language": "JavaScript", 
         "name": "Books for DC", 
         "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-            "name": "evonfriedland", 
+            "name": "emanuelfeld", 
             "type": "User", 
-            "url": "https://github.com/evonfriedland"
+            "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-03-07T22:24:33Z", 
-        "size": 524, 
-        "updated_at": "2015-03-07T22:24:35Z", 
+        "pushed_at": "2015-03-09T16:55:38Z", 
+        "size": 4001, 
+        "updated_at": "2015-03-09T16:55:38Z", 
         "watchers": 2
     }, 
     {
@@ -2935,9 +3044,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            30, 
-            10
+            20, 
+            20, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Open Data Day 2015, Code for DC", 
@@ -3031,6 +3140,7 @@ projects([
                 966
             ]
         ], 
+        "license": null, 
         "main_language": "JavaScript", 
         "name": "DCPS Facility Conditions", 
         "open_issues": 0, 
@@ -3048,7 +3158,13 @@ projects([
     {
         "accessibility": {
             "http://codefordc.github.io/expungement-dc": {
-                "pa11y_id": "54fbacd6a824900300a684bf"
+                "pa11y_id": "54fbacd6a824900300a684bf", 
+                "results": {
+                    "error": 9, 
+                    "notice": 6, 
+                    "total": 15, 
+                    "warning": 0
+                }
             }
         }, 
         "activity": [
@@ -3100,8 +3216,8 @@ projects([
             0, 
             8, 
             0, 
-            2, 
-            2, 
+            3, 
+            1, 
             3, 
             0
         ], 
@@ -3151,6 +3267,11 @@ projects([
                 4349
             ]
         ], 
+        "license": {
+            "key": "mit", 
+            "name": "MIT License", 
+            "url": "https://api.github.com/licenses/mit"
+        }, 
         "main_language": "CSS", 
         "name": "Conviction Expungement", 
         "open_issues": 5, 
