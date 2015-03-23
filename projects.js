@@ -12,8 +12,6 @@ projects([
             }
         }, 
         "activity": [
-            0, 
-            0, 
             2, 
             8, 
             1, 
@@ -62,7 +60,9 @@ projects([
             69, 
             58, 
             17, 
-            39, 
+            40, 
+            0, 
+            0, 
             0
         ], 
         "civic_json": {
@@ -103,7 +103,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 690, 
+                "contributions": 691, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -232,7 +232,7 @@ projects([
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
-        "forks": 35, 
+        "forks": 36, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/districthousing/", 
         "html_url": "https://github.com/codefordc/districthousing", 
@@ -240,11 +240,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                189152
+                189229
             ], 
             [
                 "HTML", 
-                68586
+                68702
             ], 
             [
                 "CSS", 
@@ -274,16 +274,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 58, 
+        "open_issues": 60, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T21:12:18Z", 
-        "size": 22640, 
-        "updated_at": "2015-03-05T22:56:07Z", 
+        "pushed_at": "2015-03-13T02:18:24Z", 
+        "size": 22602, 
+        "updated_at": "2015-03-13T02:18:24Z", 
         "watchers": 19
     }, 
     {
@@ -291,16 +291,14 @@ projects([
             "http://ancfinder.org/": {
                 "pa11y_id": "54fbac5fa824900300a684aa", 
                 "results": {
-                    "error": 86, 
-                    "notice": 135, 
-                    "total": 244, 
+                    "error": 77, 
+                    "notice": 126, 
+                    "total": 226, 
                     "warning": 23
                 }
             }
         }, 
         "activity": [
-            1, 
-            0, 
             9, 
             6, 
             0, 
@@ -350,19 +348,21 @@ projects([
             8, 
             0, 
             1, 
+            0, 
+            4, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 241, 
+                "contributions": 244, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 110, 
+                "contributions": 111, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -457,11 +457,11 @@ projects([
         "languages": [
             [
                 "Python", 
-                96819
+                97438
             ], 
             [
                 "HTML", 
-                63232
+                62785
             ], 
             [
                 "CSS", 
@@ -485,22 +485,22 @@ projects([
             ]
         ], 
         "license": {
-            "key": "other", 
-            "name": "Other", 
-            "url": null
+            "key": "cc0-1.0", 
+            "name": "Creative Commons Zero v1.0 Universal", 
+            "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 34, 
+        "open_issues": 35, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T18:29:31Z", 
-        "size": 73158, 
-        "updated_at": "2015-03-01T18:29:32Z", 
+        "pushed_at": "2015-03-12T23:22:30Z", 
+        "size": 73198, 
+        "updated_at": "2015-03-12T23:22:30Z", 
         "watchers": 27
     }, 
     {
@@ -517,8 +517,6 @@ projects([
         }, 
         "activity": [
             0, 
-            1, 
-            0, 
             0, 
             0, 
             0, 
@@ -566,8 +564,10 @@ projects([
             0, 
             0, 
             0, 
+            1, 
             2, 
-            1
+            0, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -658,15 +658,13 @@ projects([
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-03-06T14:56:59Z", 
-        "size": 1943, 
+        "size": 1980, 
         "updated_at": "2015-03-06T14:56:59Z", 
         "watchers": 7
     }, 
     {
         "accessibility": {}, 
         "activity": [
-            1, 
-            0, 
             0, 
             0, 
             0, 
@@ -679,6 +677,8 @@ projects([
             0, 
             0, 
             2, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -773,7 +773,7 @@ projects([
         "created_at": "2013-06-01T13:27:34Z", 
         "default_branch": "master", 
         "description": "Code for DC Education Project", 
-        "forks": 17, 
+        "forks": 18, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/HarlanH/code-for-dc-edu", 
@@ -817,20 +817,18 @@ projects([
                 "pa11y_id": "54fbac6da824900300a684ae", 
                 "results": {
                     "error": 1, 
-                    "notice": 63, 
-                    "total": 84, 
+                    "notice": 64, 
+                    "total": 85, 
                     "warning": 20
                 }
             }
         }, 
         "activity": [
             0, 
-            4, 
             0, 
             0, 
-            0, 
-            3, 
-            6, 
+            2, 
+            7, 
             7, 
             0, 
             2, 
@@ -843,25 +841,25 @@ projects([
             0, 
             0, 
             0, 
-            3, 
-            3, 
-            3, 
-            6, 
+            2, 
             4, 
             3, 
+            3, 
+            7, 
+            3, 
             0, 
+            6, 
+            14, 
+            8, 
+            2, 
+            4, 
+            12, 
+            7, 
             8, 
             12, 
-            8, 
-            2, 
-            8, 
-            13, 
-            2, 
+            9, 
             10, 
-            11, 
-            8, 
-            12, 
-            0, 
+            2, 
             1, 
             9, 
             0, 
@@ -871,11 +869,13 @@ projects([
             10, 
             0, 
             0, 
-            6, 
-            1, 
+            5, 
+            2, 
             7, 
-            4, 
-            9
+            2, 
+            8, 
+            6, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -907,7 +907,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 120, 
+                "contributions": 124, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -978,6 +978,12 @@ projects([
                 "name": "PeteOK"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/leah-lib", 
@@ -990,11 +996,11 @@ projects([
                 "name": "shannonturner"
             }
         ], 
-        "contributors_count": 14, 
+        "contributors_count": 15, 
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 26, 
+        "forks": 27, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -1026,7 +1032,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                119729
+                120906
             ], 
             [
                 "JavaScript", 
@@ -1048,16 +1054,16 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 8, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-08T04:01:05Z", 
-        "size": 17533, 
-        "updated_at": "2015-03-08T04:00:50Z", 
+        "pushed_at": "2015-03-22T16:36:27Z", 
+        "size": 17524, 
+        "updated_at": "2015-03-22T16:36:27Z", 
         "watchers": 16
     }, 
     {
@@ -1073,8 +1079,6 @@ projects([
             }
         }, 
         "activity": [
-            5, 
-            6, 
             6, 
             4, 
             6, 
@@ -1124,6 +1128,8 @@ projects([
             0, 
             0, 
             4, 
+            0, 
+            0, 
             0
         ], 
         "civic_json": {
@@ -1221,8 +1227,6 @@ projects([
         "accessibility": {}, 
         "activity": [
             0, 
-            0, 
-            0, 
             2, 
             0, 
             0, 
@@ -1270,7 +1274,9 @@ projects([
             0, 
             0, 
             0, 
-            5, 
+            2, 
+            3, 
+            0, 
             0
         ], 
         "civic_json": {
@@ -1390,8 +1396,6 @@ projects([
     {
         "accessibility": {}, 
         "activity": [
-            6, 
-            0, 
             0, 
             0, 
             0, 
@@ -1409,17 +1413,17 @@ projects([
             1, 
             0, 
             0, 
-            6, 
-            3, 
+            4, 
+            5, 
             0, 
             8, 
-            6, 
-            7, 
-            5, 
+            0, 
             13, 
+            4, 
+            14, 
             3, 
-            9, 
-            1, 
+            5, 
+            5, 
             5, 
             3, 
             0, 
@@ -1437,11 +1441,13 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            9, 
-            20, 
-            1, 
-            4
+            0, 
+            10, 
+            15, 
+            6, 
+            4, 
+            2, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Lee's apartment", 
@@ -1487,7 +1493,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 331, 
+                "contributions": 333, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }, 
@@ -1514,11 +1520,15 @@ projects([
             ], 
             [
                 "HTML", 
-                234073
+                237502
             ], 
             [
                 "JavaScript", 
-                150692
+                151857
+            ], 
+            [
+                "Smarty", 
+                113701
             ], 
             [
                 "ApacheConf", 
@@ -1547,9 +1557,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2015-03-03T17:19:47Z", 
-        "size": 32811, 
-        "updated_at": "2015-03-03T17:19:47Z", 
+        "pushed_at": "2015-03-14T21:17:16Z", 
+        "size": 32824, 
+        "updated_at": "2015-03-14T21:17:20Z", 
         "watchers": 17
     }, 
     {
@@ -1603,9 +1613,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             7, 
+            0, 
+            0, 
             0
         ], 
         "civic_json": null, 
@@ -1621,12 +1631,12 @@ projects([
         "created_at": "2015-02-25T23:12:30Z", 
         "default_branch": "master", 
         "description": "Data and issue tracking for DCTreeMap", 
-        "forks": 1, 
+        "forks": 2, 
         "help_wanted": [
             {
                 "assignee": null, 
                 "body": "The hosted version of OpenTreeMap has a bulk importer to insert several trees at once via CSV.  As data importers go, it is very particular about the headers and, naturally, these headers do not match up with \r\n\r\nUsing [CSVkit](https://csvkit.readthedocs.org/en/0.9.0/#), figure out a series of commands to take [the UFA dataset provided on the DC Gov Open Data portal](http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23?geometry=-77.212%2C38.864%2C-76.811%2C38.944) and convert it to the OTM import template (provided in this repository under otm_data).\r\n\r\nFor now, also removing the UFA fields that do not apply to the standard OTM installation is a plus.", 
-                "comments": 1, 
+                "comments": 2, 
                 "created_at": "2015-02-26T02:10:44Z", 
                 "issue": "CSVkit exercise: convert UFA data fields to OpenTreeMap import template", 
                 "issue_url": "https://github.com/rrbaker/dctreemap/issues/1", 
@@ -1639,7 +1649,7 @@ projects([
                 ], 
                 "project": "DC Tree Map", 
                 "project_url": "https://github.com/rrbaker/dctreemap", 
-                "updated_at": "2015-02-26T23:14:42Z"
+                "updated_at": "2015-03-10T05:53:51Z"
             }
         ], 
         "homepage": "", 
@@ -1653,7 +1663,7 @@ projects([
         }, 
         "main_language": null, 
         "name": "DC Tree Map", 
-        "open_issues": 3, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/17545?v=3", 
             "name": "rrbaker", 
@@ -1678,16 +1688,14 @@ projects([
             }
         }, 
         "activity": [
-            1, 
-            1, 
             0, 
             1, 
             0, 
             1, 
             0, 
             3, 
-            7, 
-            4, 
+            6, 
+            5, 
             3, 
             7, 
             3, 
@@ -1697,11 +1705,13 @@ projects([
             0, 
             0, 
             0, 
-            4, 
-            0, 
+            3, 
+            1, 
             0, 
             2, 
             1, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -1768,7 +1778,7 @@ projects([
         "created_at": "2014-04-30T00:47:20Z", 
         "default_branch": "master", 
         "description": "Analysis of emergency response data for Washington, DC.", 
-        "forks": 5, 
+        "forks": 4, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/ERDA/", 
         "html_url": "https://github.com/codefordc/ERDA", 
@@ -1803,9 +1813,9 @@ projects([
             "http://shiftyp.github.io/dc_community_gardens_visualization": {
                 "pa11y_id": "54fbac84a824900300a684b3", 
                 "results": {
-                    "error": 29, 
-                    "notice": 29, 
-                    "total": 275, 
+                    "error": 30, 
+                    "notice": 30, 
+                    "total": 277, 
                     "warning": 217
                 }
             }
@@ -1824,9 +1834,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             6, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -1935,26 +1945,24 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             2, 
             5, 
             14, 
             0, 
-            3, 
-            0, 
+            1, 
+            2, 
             0, 
             37, 
             6, 
             7, 
             0, 
-            16, 
             14, 
-            16, 
-            8, 
+            10, 
+            19, 
             6, 
-            13, 
-            1, 
+            11, 
+            12, 
+            2, 
             13, 
             0, 
             2, 
@@ -1967,6 +1975,8 @@ projects([
             0, 
             0, 
             4, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2096,8 +2106,6 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             1, 
             2, 
             0, 
@@ -2122,7 +2130,9 @@ projects([
             0, 
             0, 
             0, 
-            2
+            2, 
+            0, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -2257,10 +2267,10 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             5, 
             11, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2310,7 +2320,7 @@ projects([
         "created_at": "2014-09-18T19:26:59Z", 
         "default_branch": "master", 
         "description": "Treemap for DC Budget in D3; obviously inspired by Mike Bostock", 
-        "forks": 3, 
+        "forks": 2, 
         "help_wanted": [], 
         "homepage": "http://drewbo.com/dc-budget-treemap/", 
         "html_url": "https://github.com/drewbo/dc-budget-treemap", 
@@ -2369,9 +2379,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             4, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2473,8 +2483,6 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             23, 
             68, 
             4, 
@@ -2493,7 +2501,9 @@ projects([
             0, 
             0, 
             0, 
-            1
+            1, 
+            0, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -2590,9 +2600,9 @@ projects([
             "http://cmgiven.github.io/at-risk/": {
                 "pa11y_id": "54fbacbaa824900300a684b9", 
                 "results": {
-                    "error": 71, 
+                    "error": 69, 
                     "notice": 48, 
-                    "total": 126, 
+                    "total": 124, 
                     "warning": 7
                 }
             }
@@ -2641,11 +2651,11 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             7, 
             15, 
             25, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2699,16 +2709,14 @@ projects([
             "https://emanuelfeld.shinyapps.io/geocoder": {
                 "pa11y_id": "54fbacc4a824900300a684bb", 
                 "results": {
-                    "error": 2, 
-                    "notice": 2, 
-                    "total": 4, 
-                    "warning": 0
+                    "error": 22, 
+                    "notice": 27, 
+                    "total": 80, 
+                    "warning": 31
                 }
             }
         }, 
         "activity": [
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2756,7 +2764,9 @@ projects([
             0, 
             0, 
             4, 
-            10, 
+            2, 
+            11, 
+            2, 
             5, 
             0
         ], 
@@ -2793,7 +2803,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 3, 
+                "contributions": 9, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -2816,10 +2826,14 @@ projects([
         "languages": [
             [
                 "R", 
-                5776
+                5576
             ]
         ], 
-        "license": null, 
+        "license": {
+            "key": "other", 
+            "name": "Other", 
+            "url": null
+        }, 
         "main_language": "R", 
         "name": "CSV Geocoder", 
         "open_issues": 1, 
@@ -2829,9 +2843,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-03-01T20:01:45Z", 
-        "size": 229, 
-        "updated_at": "2015-03-01T20:01:45Z", 
+        "pushed_at": "2015-03-22T15:06:24Z", 
+        "size": 248, 
+        "updated_at": "2015-03-22T15:06:24Z", 
         "watchers": 1
     }, 
     {
@@ -2839,16 +2853,14 @@ projects([
             "https://twitter.com/booksfordc": {
                 "pa11y_id": "54fbaccda824900300a684be", 
                 "results": {
-                    "error": 573, 
-                    "notice": 429, 
-                    "total": 1101, 
-                    "warning": 99
+                    "error": 535, 
+                    "notice": 441, 
+                    "total": 1080, 
+                    "warning": 104
                 }
             }
         }, 
         "activity": [
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2897,8 +2909,10 @@ projects([
             0, 
             0, 
             45, 
-            47, 
-            56
+            32, 
+            70, 
+            16, 
+            64
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -2916,21 +2930,24 @@ projects([
                 "name": "Emanuel Feld", 
                 "twitter": "@booksfordc"
             }, 
-            "geography": "DC", 
+            "geography": "Washington, DC", 
+            "politicalEntity": {
+                "DC Public Library": "http://dclibrary.org/"
+            }, 
             "status": "Production", 
-            "thumbnailUrl": "https://pbs.twimg.com/profile_images/568974012793892864/OybycQH6.jpeg", 
+            "thumbnailUrl": "https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg", 
             "type": "Scraper"
         }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 50, 
+                "contributions": 144, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }
@@ -2938,59 +2955,44 @@ projects([
         "contributors_count": 2, 
         "created_at": "2015-02-19T05:26:29Z", 
         "default_branch": "master", 
-        "description": "DC Public Library catalog scraper and Twitter feed; browser plug-in; and beyond?", 
-        "forks": 1, 
-        "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "Able to search Overdrive using the following URL:\r\n\"http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria={INSERT_QUERY_HERE}&x=0&y=0\"\r\n\r\ne.g. http://overdrive.dclibrary.org/BANGSearch.dll?Type=FullText&PerPage=24&URL=SearchResults.htm&Sort=SortBy%3DRelevancy&FullTextField=All&FullTextCriteria=Hello&x=0&y=0\r\n\r\nBut jquery GET request of that URL does not load response data. I'm not sure if it's an issue of cookie-setting.\r\n\r\n![image](https://cloud.githubusercontent.com/assets/4269640/6515448/e5fab5e0-c357-11e4-9e78-a7f442e4e02d.png)\r\n\r\nIt would be nice to have this functionality, since not all ebooks in Overdrive are also searchable in the catalog, for some reason.", 
-                "comments": 2, 
-                "created_at": "2015-03-05T15:21:59Z", 
-                "issue": "Resolve Overdrive GET request issue", 
-                "issue_url": "https://github.com/emanuelfeld/booksfordc/issues/13", 
-                "labels": [
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/emanuelfeld/booksfordc/labels/help%20wanted"
-                    }
-                ], 
-                "project": "Books for DC", 
-                "project_url": "https://github.com/emanuelfeld/booksfordc", 
-                "updated_at": "2015-03-08T22:02:25Z"
-            }
-        ], 
+        "description": "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser plug-in\u2026and beyond?", 
+        "forks": 2, 
+        "help_wanted": [], 
         "homepage": "https://twitter.com/booksfordc", 
         "html_url": "https://github.com/emanuelfeld/booksfordc", 
         "id": 31002646, 
         "languages": [
             [
                 "JavaScript", 
-                8783
+                47616
             ], 
             [
                 "Python", 
-                6516
+                13513
             ], 
             [
                 "CSS", 
-                788
+                2777
             ]
         ], 
-        "license": null, 
+        "license": {
+            "key": "other", 
+            "name": "Other", 
+            "url": null
+        }, 
         "main_language": "JavaScript", 
         "name": "Books for DC", 
-        "open_issues": 4, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4269640?v=3", 
             "name": "emanuelfeld", 
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-03-09T16:55:38Z", 
-        "size": 4001, 
-        "updated_at": "2015-03-09T16:55:38Z", 
-        "watchers": 2
+        "pushed_at": "2015-03-23T01:09:12Z", 
+        "size": 4056, 
+        "updated_at": "2015-03-23T01:09:13Z", 
+        "watchers": 4
     }, 
     {
         "accessibility": {}, 
@@ -3042,10 +3044,10 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             20, 
             20, 
+            0, 
+            1, 
             0
         ], 
         "civic_json": {
@@ -3090,7 +3092,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/605331?v=3", 
-                "contributions": 19, 
+                "contributions": 20, 
                 "link": "https://github.com/bbrotsos", 
                 "name": "bbrotsos"
             }, 
@@ -3125,7 +3127,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                11679
+                13545
             ], 
             [
                 "HTML", 
@@ -3150,9 +3152,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2015-03-01T18:36:37Z", 
-        "size": 1260, 
-        "updated_at": "2015-03-01T18:36:37Z", 
+        "pushed_at": "2015-03-11T23:14:10Z", 
+        "size": 1259, 
+        "updated_at": "2015-03-11T23:14:10Z", 
         "watchers": 0
     }, 
     {
@@ -3209,8 +3211,6 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            0, 
             9, 
             5, 
             0, 
@@ -3219,6 +3219,8 @@ projects([
             3, 
             1, 
             3, 
+            0, 
+            0, 
             0
         ], 
         "civic_json": null, 
@@ -3252,7 +3254,7 @@ projects([
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 2, 
+        "forks": 5, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/expungement-dc", 
         "html_url": "https://github.com/codefordc/expungement-dc", 
@@ -3274,7 +3276,7 @@ projects([
         }, 
         "main_language": "CSS", 
         "name": "Conviction Expungement", 
-        "open_issues": 5, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -3283,7 +3285,155 @@ projects([
         }, 
         "pushed_at": "2015-02-27T20:30:21Z", 
         "size": 8611, 
-        "updated_at": "2015-02-14T15:07:59Z", 
-        "watchers": 5
+        "updated_at": "2015-03-16T19:59:36Z", 
+        "watchers": 6
+    }, 
+    {
+        "accessibility": {}, 
+        "activity": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            34, 
+            2, 
+            19, 
+            0
+        ], 
+        "civic_json": {
+            "bornAt": "Web Development Immersive 4, General Assembly", 
+            "categories": [
+                {
+                    "category": "Transportation"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "RebeccaMillsDC@gmail.com", 
+                "name": "WhatsaMATA", 
+                "twitter": "@RebeccaMillsDC"
+            }, 
+            "data": {}, 
+            "geography": "Washington, DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "", 
+            "needs": [
+                {
+                    "need": "Responsiveness"
+                }, 
+                {
+                    "need": "User authentication with Twitter/Facebook"
+                }, 
+                {
+                    "need": "Integrating a bus stop list from WMATA's API"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Alpha", 
+            "thumbnailUrl": "https://whatsamata.herokuapp.com/", 
+            "type": "Web App"
+        }, 
+        "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5178610?v=3", 
+                "contributions": 59, 
+                "link": "https://github.com/rebeccamills", 
+                "name": "rebeccamills"
+            }
+        ], 
+        "contributors_count": 1, 
+        "created_at": "2015-02-23T14:44:56Z", 
+        "default_branch": "master", 
+        "description": "WhatsaMATA", 
+        "forks": 0, 
+        "help_wanted": [], 
+        "homepage": null, 
+        "html_url": "https://github.com/rebeccamills/whatsamata", 
+        "id": 31212137, 
+        "languages": [
+            [
+                "Ruby", 
+                43881
+            ], 
+            [
+                "HTML", 
+                9245
+            ], 
+            [
+                "CSS", 
+                2460
+            ], 
+            [
+                "JavaScript", 
+                1183
+            ], 
+            [
+                "CoffeeScript", 
+                844
+            ]
+        ], 
+        "license": {
+            "key": "cc0-1.0", 
+            "name": "Creative Commons Zero v1.0 Universal", 
+            "url": "https://api.github.com/licenses/cc0-1.0"
+        }, 
+        "main_language": "Ruby", 
+        "name": "WhatsaMATA", 
+        "open_issues": 0, 
+        "owner": {
+            "avatar": "https://avatars.githubusercontent.com/u/5178610?v=3", 
+            "name": "rebeccamills", 
+            "type": "User", 
+            "url": "https://github.com/rebeccamills"
+        }, 
+        "pushed_at": "2015-03-23T00:33:23Z", 
+        "size": 3860, 
+        "updated_at": "2015-03-23T00:33:24Z", 
+        "watchers": 0
     }
 ])
