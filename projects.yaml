@@ -2,9 +2,9 @@
     http://codefordc.github.io/districthousing/:
       pa11y_id: 54fbac58a824900300a684a8
       results: {error: 23, notice: 23, total: 68, warning: 22}
-  activity: [2, 8, 1, 4, 0, 32, 1, 7, 13, 14, 8, 106, 48, 49, 4, 18, 3, 2, 0, 1, 9,
-    0, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 22, 23, 28, 19, 51, 12, 1, 9, 10, 12, 20, 22,
-    23, 69, 58, 17, 40, 0, 0, 0]
+  activity: [8, 1, 4, 0, 15, 18, 7, 10, 9, 13, 40, 112, 35, 21, 3, 17, 5, 0, 0, 1,
+    9, 9, 3, 0, 0, 9, 0, 0, 8, 2, 12, 6, 26, 37, 19, 31, 33, 8, 0, 14, 17, 2, 26,
+    20, 32, 95, 31, 15, 28, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -88,7 +88,7 @@
   license: {key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 60
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-03-13T02:18:24Z'
@@ -98,15 +98,34 @@
 - accessibility:
     http://ancfinder.org/:
       pa11y_id: 54fbac5fa824900300a684aa
-      results: {error: 77, notice: 126, total: 226, warning: 23}
-  activity: [9, 6, 0, 15, 0, 9, 0, 8, 2, 2, 0, 5, 0, 0, 6, 3, 3, 5, 3, 6, 5, 1, 1,
-    0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1,
-    0, 4, 0]
-  civic_json: null
+      results: {error: 79, notice: 128, total: 230, warning: 23}
+  activity: [14, 0, 2, 13, 8, 1, 7, 1, 4, 0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1,
+    0, 0, 1, 3, 2, 0, 6, 2, 0, 2, 5, 1, 0, 0, 7, 0, 0, 0, 0, 5, 0, 0, 1, 7, 0, 1,
+    1, 3, 0]
+  civic_json:
+    bornAt: Code for DC
+    categories:
+    - {category: Politics}
+    - {category: Government}
+    - {category: Open Data}
+    communityPartner: {}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: contactus@ancfinder.org, name: '', twitter: '@ancfinder'}
+    data: {ANC Commissioners: 'http://ancfinder.org/static/ancs.json', ANC Meetings: 'http://ancfinder.org/static/meetings.json'}
+    geography: Washington, DC
+    governmentPartner: {}
+    moreInfo: ''
+    needs:
+    - {want: ANC document uploading}
+    - {need: Django}
+    politicalEntity: {Office of Advisory Neighborhood Commissions: 'http://anc.dc.gov/'}
+    status: Production
+    thumbnailUrl: http://ancfinder.org/static/img/favicon.png
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 244,
     link: 'https://github.com/JoshData', name: JoshData}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 111,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 112,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 30,
     link: 'https://github.com/leahbannon', name: leahbannon}
@@ -118,10 +137,10 @@
     link: 'https://github.com/Copper-Head', name: Copper-Head}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1551510?v=3', contributions: 3,
     link: 'https://github.com/mcwhittemore', name: mcwhittemore}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/903759?v=3', contributions: 3,
-    link: 'https://github.com/kdurril', name: kdurril}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2487968?v=3', contributions: 3,
     link: 'https://github.com/tvanantwerp', name: tvanantwerp}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/903759?v=3', contributions: 3,
+    link: 'https://github.com/kdurril', name: kdurril}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/125098?v=3', contributions: 2,
     link: 'https://github.com/joshfinnie', name: joshfinnie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6344446?v=3', contributions: 2,
@@ -130,15 +149,17 @@
     link: 'https://github.com/mlouie', name: mlouie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/78930?v=3', contributions: 1,
     link: 'https://github.com/apendleton', name: apendleton}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/546665?v=3', contributions: 1,
+    link: 'https://github.com/tmaybe', name: tmaybe}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 1,
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=3', contributions: 1,
     link: 'https://github.com/shannonturner', name: shannonturner}
-  contributors_count: 15
+  contributors_count: 16
   created_at: '2013-03-11T23:54:30Z'
   default_branch: master
   description: A website about DC's Advisory Neighborhood Commission system.
-  forks: 29
+  forks: 31
   help_wanted: []
   homepage: http://ancfinder.org/
   html_url: https://github.com/codefordc/ancfinder
@@ -150,24 +171,23 @@
   - [Shell, 4622]
   - [JavaScript, 1992]
   - [Nginx, 1175]
-  - [ApacheConf, 104]
   license: {key: cc0-1.0, name: Creative Commons Zero v1.0 Universal, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Python
   name: ANC Finder
   open_issues: 35
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-03-12T23:22:30Z'
+  pushed_at: '2015-03-26T18:40:10Z'
   size: 73198
-  updated_at: '2015-03-12T23:22:30Z'
+  updated_at: '2015-03-26T18:40:12Z'
   watchers: 27
 - accessibility:
     http://cmgiven.github.io/bikeshare-odds/:
       pa11y_id: 54fbac66a824900300a684ac
       results: {error: 16, notice: 29, total: 63, warning: 18}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    2, 0, 0]
+  activity: [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+    1, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -214,7 +234,7 @@
   updated_at: '2015-03-06T14:56:59Z'
   watchers: 7
 - accessibility: {}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -262,10 +282,10 @@
 - accessibility:
     http://www.codefordc.org:
       pa11y_id: 54fbac6da824900300a684ae
-      results: {error: 1, notice: 64, total: 85, warning: 20}
-  activity: [0, 0, 0, 2, 7, 7, 0, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 2, 4, 3, 3, 7, 3,
-    0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1, 9, 0, 4, 2, 0, 10, 0, 0, 5, 2, 7,
-    2, 8, 6, 0]
+      results: {error: 1, notice: 65, total: 86, warning: 20}
+  activity: [0, 0, 0, 8, 8, 0, 2, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 4, 5, 7, 0,
+    2, 15, 10, 3, 0, 15, 8, 2, 14, 7, 14, 4, 1, 0, 9, 4, 1, 1, 1, 9, 0, 2, 4, 1, 8,
+    8, 6, 1, 9]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -283,7 +303,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 124,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 132,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 49,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -301,14 +321,14 @@
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1833870?v=3', contributions: 2,
     link: 'https://github.com/geobrando', name: geobrando}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 2,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4592?v=3', contributions: 2,
     link: 'https://github.com/konklone', name: konklone}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1693152?v=3', contributions: 2,
-    link: 'https://github.com/Fran33', name: Fran33}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2947360?v=3', contributions: 2,
     link: 'https://github.com/PeteOK', name: PeteOK}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 1,
-    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1693152?v=3', contributions: 2,
+    link: 'https://github.com/Fran33', name: Fran33}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6130757?v=3', contributions: 1,
     link: 'https://github.com/leah-lib', name: leah-lib}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=3', contributions: 1,
@@ -317,7 +337,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 27
+  forks: 28
   help_wanted:
   - assignee: null
     body: ''
@@ -335,7 +355,7 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [HTML, 120906]
+  - [HTML, 123980]
   - [JavaScript, 28711]
   - [CSS, 15867]
   - [Ruby, 3083]
@@ -345,16 +365,16 @@
   open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-03-22T16:36:27Z'
-  size: 17524
-  updated_at: '2015-03-22T16:36:27Z'
+  pushed_at: '2015-03-26T22:37:56Z'
+  size: 17567
+  updated_at: '2015-03-26T22:37:45Z'
   watchers: 16
 - accessibility:
     http://ajschumacher.github.io/dc_mayor_schedule/:
       pa11y_id: 54fbac74a824900300a684b0
-      results: {error: 9, notice: 5, total: 15, warning: 1}
-  activity: [6, 4, 6, 5, 7, 5, 5, 7, 5, 4, 7, 29, 11, 4, 5, 4, 6, 8, 6, 5, 5, 5, 5,
-    3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4,
+      results: {error: 13, notice: 10, total: 33, warning: 10}
+  activity: [4, 6, 6, 5, 7, 4, 6, 7, 3, 6, 7, 32, 6, 6, 4, 5, 7, 6, 6, 6, 3, 7, 2,
+    6, 5, 7, 6, 6, 4, 8, 9, 6, 6, 6, 6, 4, 7, 6, 4, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -404,9 +424,9 @@
   updated_at: '2015-02-28T22:05:02Z'
   watchers: 4
 - accessibility: {}
-  activity: [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
-    3, 0, 0]
+  activity: [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0]
   civic_json:
     categories:
     - {category: Open Data}
@@ -461,9 +481,9 @@
   updated_at: '2015-03-02T20:47:09Z'
   watchers: 3
 - accessibility: {}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 4, 5, 0, 8, 0, 13,
-    4, 14, 3, 5, 5, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 15,
-    6, 4, 2, 0]
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 10, 7,
+    8, 9, 0, 10, 4, 4, 0, 0, 1, 0, 0, 1, 0, 2, 1, 0, 8, 0, 0, 0, 0, 0, 10, 9, 12,
+    4, 0, 2, 0]
   civic_json:
     bornAt: Lee's apartment
     categories:
@@ -515,11 +535,11 @@
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2015-03-14T21:17:16Z'
   size: 32824
-  updated_at: '2015-03-14T21:17:20Z'
-  watchers: 17
+  updated_at: '2015-03-26T17:36:27Z'
+  watchers: 18
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -567,7 +587,7 @@
     http://codefordc.github.io/ERDA/:
       pa11y_id: 54fbac7ea824900300a684b2
       results: {error: 18, notice: 20, total: 44, warning: 6}
-  activity: [0, 1, 0, 1, 0, 3, 6, 5, 3, 7, 3, 1, 0, 2, 0, 0, 0, 3, 1, 0, 2, 1, 0,
+  activity: [1, 0, 1, 0, 3, 5, 5, 2, 8, 3, 2, 0, 1, 1, 0, 0, 3, 1, 0, 2, 1, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -606,8 +626,8 @@
 - accessibility:
     http://shiftyp.github.io/dc_community_gardens_visualization:
       pa11y_id: 54fbac84a824900300a684b3
-      results: {error: 30, notice: 30, total: 277, warning: 217}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      results: {error: 29, notice: 30, total: 276, warning: 217}
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -641,9 +661,9 @@
     http://codefordc.github.io/dc-campaign-finance-watch/:
       pa11y_id: 54fbac91a824900300a684b4
       results: {error: 15, notice: 5, total: 20, warning: 0}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 14, 0, 1, 2, 0, 37, 6, 7,
-    0, 14, 10, 19, 6, 11, 12, 2, 13, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
-    0, 0, 0, 0, 0]
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 16, 2, 1, 2, 0, 3, 38, 8, 1,
+    0, 19, 21, 8, 9, 13, 4, 11, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 125,
@@ -664,7 +684,7 @@
   created_at: '2014-07-12T18:04:36Z'
   default_branch: gh-pages
   description: Displays data about DC Campaign Finance on a site
-  forks: 9
+  forks: 11
   help_wanted: []
   homepage: http://codefordc.github.io/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
@@ -681,14 +701,14 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-03-01T19:05:57Z'
   size: 21159
-  updated_at: '2015-02-27T19:18:21Z'
-  watchers: 6
+  updated_at: '2015-03-24T23:51:28Z'
+  watchers: 8
 - accessibility:
     http://cmgiven.github.io/dc-handguns/:
       pa11y_id: 54fbac99a824900300a684b6
       results: {error: 15, notice: 15, total: 40, warning: 10}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 1, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 3, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     2, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -741,7 +761,7 @@
       pa11y_id: 54fbaca8a824900300a684b7
       results: {error: 3, notice: 6, total: 11, warning: 2}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 5, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -773,7 +793,7 @@
   watchers: 1
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -804,7 +824,7 @@
       pa11y_id: 54fbacb0a824900300a684b8
       results: {error: 9, notice: 44, total: 109, warning: 56}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 23, 68, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 91, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -854,7 +874,7 @@
       pa11y_id: 54fbacbaa824900300a684b9
       results: {error: 69, notice: 48, total: 124, warning: 7}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 25, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 31, 8, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -887,8 +907,8 @@
       pa11y_id: 54fbacc4a824900300a684bb
       results: {error: 22, notice: 27, total: 80, warning: 31}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 11,
-    2, 5, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3,
+    0, 5, 1]
   civic_json:
     bornAt: ''
     categories:
@@ -937,10 +957,10 @@
 - accessibility:
     https://twitter.com/booksfordc:
       pa11y_id: 54fbaccda824900300a684be
-      results: {error: 535, notice: 441, total: 1080, warning: 104}
+      results: {error: 532, notice: 449, total: 1105, warning: 124}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 32,
-    70, 16, 64]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 56, 65,
+    17, 47, 51]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -954,7 +974,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 144,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 156,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -963,29 +983,29 @@
   default_branch: master
   description: "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser\
     \ plug-in\u2026and beyond?"
-  forks: 2
+  forks: 3
   help_wanted: []
   homepage: https://twitter.com/booksfordc
   html_url: https://github.com/emanuelfeld/booksfordc
   id: 31002646
   languages:
-  - [JavaScript, 47616]
-  - [Python, 13513]
-  - [CSS, 2777]
+  - [JavaScript, 38908]
+  - [Python, 13828]
+  - [CSS, 3201]
   license: {key: other, name: Other, url: null}
   main_language: JavaScript
   name: Books for DC
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-03-23T01:09:12Z'
+  pushed_at: '2015-03-26T00:15:18Z'
   size: 4056
-  updated_at: '2015-03-23T01:09:13Z'
-  watchers: 4
+  updated_at: '2015-03-26T15:21:55Z'
+  watchers: 6
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20,
-    0, 1, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 12,
+    1, 0, 0]
   civic_json:
     bornAt: Open Data Day 2015, Code for DC
     categories:
@@ -1040,15 +1060,15 @@
 - accessibility:
     http://codefordc.github.io/expungement-dc:
       pa11y_id: 54fbacd6a824900300a684bf
-      results: {error: 9, notice: 6, total: 15, warning: 0}
+      results: {error: 21, notice: 12, total: 34, warning: 1}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 5, 0, 8, 0, 3, 1, 3,
-    0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 1, 2, 6, 0, 3, 1, 3,
+    0, 3, 1]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 18,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 21,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 8,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 9,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 2,
     link: 'https://github.com/brianek', name: brianek}
@@ -1059,28 +1079,32 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 5
+  forks: 7
   help_wanted: []
   homepage: http://codefordc.github.io/expungement-dc
   html_url: https://github.com/codefordc/expungement-dc
   id: 28992747
   languages:
-  - [CSS, 202888]
-  - [JavaScript, 4349]
+  - [HTML, 12248]
+  - [JavaScript, 4654]
+  - [CSS, 2468]
   license: {key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
-  main_language: CSS
+  main_language: HTML
   name: Conviction Expungement
-  open_issues: 11
+  open_issues: 18
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-02-27T20:30:21Z'
-  size: 8611
-  updated_at: '2015-03-16T19:59:36Z'
+  pushed_at: '2015-03-23T14:44:58Z'
+  size: 8629
+  updated_at: '2015-03-23T14:44:58Z'
   watchers: 6
-- accessibility: {}
+- accessibility:
+    https://whatsamata.herokuapp.com/:
+      pa11y_id: 55137bb9259d710300a1f49c
+      results: {error: 3, notice: 15, total: 18, warning: 0}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34,
-    2, 19, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20,
+    21, 0, 7]
   civic_json:
     bornAt: Web Development Immersive 4, General Assembly
     categories:
@@ -1097,19 +1121,20 @@
     - {need: User authentication with Twitter/Facebook}
     - {need: Integrating a bus stop list from WMATA's API}
     politicalEntity: {}
-    status: Alpha
-    thumbnailUrl: https://whatsamata.herokuapp.com/
+    status: Production
+    thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5178610?v=3', contributions: 59,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5178610?v=3', contributions: 62,
     link: 'https://github.com/rebeccamills', name: rebeccamills}
   contributors_count: 1
   created_at: '2015-02-23T14:44:56Z'
   default_branch: master
-  description: WhatsaMATA
+  description: WhatsaMATA - an app for riders of WMATA buses to report issues based
+    on the bus line they're riding. WhatsaMATA with WMATA?
   forks: 0
   help_wanted: []
-  homepage: null
+  homepage: https://whatsamata.herokuapp.com/
   html_url: https://github.com/rebeccamills/whatsamata
   id: 31212137
   languages:
@@ -1121,10 +1146,10 @@
   license: {key: cc0-1.0, name: Creative Commons Zero v1.0 Universal, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Ruby
   name: WhatsaMATA
-  open_issues: 0
+  open_issues: 5
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5178610?v=3', name: rebeccamills,
     type: User, url: 'https://github.com/rebeccamills'}
-  pushed_at: '2015-03-23T00:33:23Z'
-  size: 3860
-  updated_at: '2015-03-23T00:33:24Z'
+  pushed_at: '2015-03-23T16:24:05Z'
+  size: 3884
+  updated_at: '2015-03-23T16:24:05Z'
   watchers: 0
