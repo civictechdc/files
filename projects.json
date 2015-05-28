@@ -2,68 +2,62 @@
     {
         "accessibility": {
             "http://codefordc.github.io/districthousing/": {
-                "pa11y_id": "54fbac58a824900300a684a8", 
-                "results": {
-                    "error": 23, 
-                    "notice": 23, 
-                    "total": 68, 
-                    "warning": 22
-                }
+                "pa11y_id": "54fbac58a824900300a684a8"
             }
         }, 
         "activity": [
-            0, 
-            32, 
-            1, 
-            13, 
-            7, 
             18, 
-            15, 
-            99, 
-            56, 
-            37, 
-            5, 
+            30, 
+            89, 
+            59, 
+            30, 
+            3, 
             17, 
             4, 
             1, 
             0, 
             1, 
             9, 
-            0, 
-            9, 
+            5, 
+            4, 
             3, 
             0, 
-            2, 
-            7, 
+            6, 
+            3, 
             0, 
-            7, 
-            1, 
-            7, 
-            11, 
-            26, 
-            30, 
-            19, 
-            27, 
-            45, 
             8, 
-            1, 
-            9, 
-            15, 
+            0, 
             7, 
+            12, 
+            27, 
+            37, 
+            13, 
+            32, 
+            38, 
+            7, 
+            1, 
+            10, 
+            20, 
+            1, 
             26, 
-            19, 
-            24, 
-            70, 
-            60, 
+            20, 
+            29, 
+            81, 
+            50, 
             15, 
-            35, 
+            28, 
             0, 
             2, 
             0, 
             0, 
-            10, 
-            1, 
-            7
+            11, 
+            5, 
+            7, 
+            6, 
+            3, 
+            2, 
+            2, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -103,13 +97,13 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 705, 
+                "contributions": 719, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 78, 
+                "contributions": 82, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -162,6 +156,12 @@
                 "name": "mpeteuil"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/sethpuckett", 
+                "name": "sethpuckett"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/408989?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/uncompiled", 
@@ -172,12 +172,6 @@
                 "contributions": 4, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5732574?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/sethpuckett", 
-                "name": "sethpuckett"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3376159?v=3", 
@@ -192,10 +186,10 @@
                 "name": "lizhaney"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6130671?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
                 "contributions": 1, 
-                "link": "https://github.com/cszimm", 
-                "name": "cszimm"
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=3", 
@@ -204,16 +198,16 @@
                 "name": "endash"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6130671?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/cszimm", 
+                "name": "cszimm"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2306490?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/ameensol", 
                 "name": "ameensol"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
@@ -222,17 +216,29 @@
                 "name": "dirkkelly"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/311365?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/MetricMike", 
+                "name": "MetricMike"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/tmcw", 
+                "name": "tmcw"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2559167?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/shariq1989", 
                 "name": "shariq1989"
             }
         ], 
-        "contributors_count": 21, 
+        "contributors_count": 23, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
-        "forks": 36, 
+        "forks": 41, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/districthousing/", 
         "html_url": "https://github.com/codefordc/districthousing", 
@@ -240,11 +246,11 @@
         "languages": [
             [
                 "Ruby", 
-                191470
+                191374
             ], 
             [
                 "HTML", 
-                72807
+                72544
             ], 
             [
                 "CSS", 
@@ -275,63 +281,52 @@
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 82, 
+        "open_issues": 74, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-04-17T04:25:36Z", 
-        "size": 23101, 
-        "updated_at": "2015-04-17T04:25:37Z", 
-        "watchers": 20
+        "pushed_at": "2015-05-27T13:10:16Z", 
+        "size": 22937, 
+        "updated_at": "2015-05-19T23:28:34Z", 
+        "watchers": 22
     }, 
     {
         "accessibility": {
             "http://ancfinder.org/": {
-                "pa11y_id": "54fbac5fa824900300a684aa", 
-                "results": {
-                    "error": 82, 
-                    "notice": 130, 
-                    "total": 235, 
-                    "warning": 23
-                }
+                "pa11y_id": "54fbac5fa824900300a684aa"
             }
         }, 
         "activity": [
             0, 
-            9, 
-            0, 
-            8, 
-            2, 
-            2, 
             5, 
             0, 
             0, 
+            6, 
+            2, 
+            4, 
+            4, 
             4, 
             2, 
             6, 
-            3, 
-            3, 
             4, 
-            4, 
-            5, 
-            1, 
+            0, 
             1, 
             0, 
             0, 
-            0, 
-            4, 
+            1, 
+            3, 
             2, 
             0, 
             6, 
-            0, 
             2, 
+            0, 
             2, 
             5, 
-            0, 
             1, 
+            0, 
             0, 
             7, 
             0, 
@@ -341,8 +336,8 @@
             5, 
             0, 
             0, 
-            0, 
-            8, 
+            1, 
+            7, 
             0, 
             1, 
             1, 
@@ -351,7 +346,12 @@
             8, 
             0, 
             3, 
-            0
+            1, 
+            5, 
+            2, 
+            0, 
+            0, 
+            3
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -398,13 +398,13 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 253, 
+                "contributions": 260, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 112, 
+                "contributions": 113, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -443,6 +443,12 @@
                 "contributions": 3, 
                 "link": "https://github.com/tvanantwerp", 
                 "name": "tvanantwerp"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/903759?v=3", 
@@ -493,7 +499,7 @@
                 "name": "shannonturner"
             }
         ], 
-        "contributors_count": 16, 
+        "contributors_count": 17, 
         "created_at": "2013-03-11T23:54:30Z", 
         "default_branch": "master", 
         "description": "A website about DC's Advisory Neighborhood Commission system.", 
@@ -505,19 +511,19 @@
         "languages": [
             [
                 "Python", 
-                102600
+                102848
             ], 
             [
                 "HTML", 
-                60529
+                61445
             ], 
             [
                 "CSS", 
-                9442
+                9460
             ], 
             [
                 "Shell", 
-                4622
+                5208
             ], 
             [
                 "JavaScript", 
@@ -536,36 +542,25 @@
         }, 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 40, 
+        "open_issues": 39, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-04-16T23:36:13Z", 
-        "size": 73326, 
-        "updated_at": "2015-04-14T23:32:57Z", 
-        "watchers": 27
+        "pushed_at": "2015-05-27T00:06:37Z", 
+        "size": 73310, 
+        "updated_at": "2015-05-26T23:24:47Z", 
+        "watchers": 29
     }, 
     {
         "accessibility": {
             "http://cmgiven.github.io/bikeshare-odds/": {
-                "pa11y_id": "54fbac66a824900300a684ac", 
-                "results": {
-                    "error": 16, 
-                    "notice": 29, 
-                    "total": 63, 
-                    "warning": 18
-                }
+                "pa11y_id": "54fbac66a824900300a684ac"
             }
         }, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
             1, 
             0, 
             0, 
@@ -607,6 +602,11 @@
             0, 
             2, 
             1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -704,18 +704,12 @@
         }, 
         "pushed_at": "2015-03-06T14:56:59Z", 
         "size": 1980, 
-        "updated_at": "2015-03-06T14:56:59Z", 
-        "watchers": 7
+        "updated_at": "2015-05-19T23:31:29Z", 
+        "watchers": 8
     }, 
     {
         "accessibility": {}, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             2, 
             0, 
@@ -761,6 +755,12 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            1, 
             0
         ], 
         "civic_json": null, 
@@ -778,16 +778,16 @@
                 "name": "cmgiven"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
+                "contributions": 13, 
+                "link": "https://github.com/ajschumacher", 
+                "name": "ajschumacher"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2593347?v=3", 
                 "contributions": 13, 
                 "link": "https://github.com/sleitner", 
                 "name": "sleitner"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 12, 
-                "link": "https://github.com/ajschumacher", 
-                "name": "ajschumacher"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1072856?v=3", 
@@ -833,6 +833,10 @@
                 9169
             ], 
             [
+                "HTML", 
+                6269
+            ], 
+            [
                 "CSS", 
                 1673
             ], 
@@ -851,29 +855,18 @@
             "type": "User", 
             "url": "https://github.com/HarlanH"
         }, 
-        "pushed_at": "2014-06-11T23:44:11Z", 
-        "size": 40024, 
+        "pushed_at": "2015-05-17T16:51:48Z", 
+        "size": 40011, 
         "updated_at": "2014-12-19T15:40:35Z", 
         "watchers": 18
     }, 
     {
         "accessibility": {
             "http://www.codefordc.org": {
-                "pa11y_id": "54fbac6da824900300a684ae", 
-                "results": {
-                    "error": 1, 
-                    "notice": 65, 
-                    "total": 86, 
-                    "warning": 20
-                }
+                "pa11y_id": "54fbac6da824900300a684ae"
             }
         }, 
         "activity": [
-            8, 
-            5, 
-            0, 
-            2, 
-            3, 
             6, 
             0, 
             0, 
@@ -918,9 +911,14 @@
             1, 
             2, 
             9, 
-            0, 
             1, 
-            2
+            1, 
+            2, 
+            2, 
+            3, 
+            1, 
+            0, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -952,7 +950,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 133, 
+                "contributions": 138, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -969,16 +967,22 @@
                 "name": "leahbannon"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
+                "contributions": 7, 
+                "link": "https://github.com/ajschumacher", 
+                "name": "ajschumacher"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/781944?v=3", 
                 "contributions": 7, 
                 "link": "https://github.com/justgrimes", 
                 "name": "justgrimes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
-                "contributions": 7, 
-                "link": "https://github.com/ajschumacher", 
-                "name": "ajschumacher"
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7332618?v=3", 
@@ -987,22 +991,16 @@
                 "name": "jtreed25"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/drewbo", 
-                "name": "drewbo"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/emanuelfeld", 
-                "name": "emanuelfeld"
+                "avatar_url": "https://avatars.githubusercontent.com/u/7108211?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/drewbo", 
+                "name": "drewbo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1833870?v=3", 
@@ -1017,16 +1015,16 @@
                 "name": "konklone"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2947360?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/PeteOK", 
-                "name": "PeteOK"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1693152?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/Fran33", 
                 "name": "Fran33"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2947360?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/PeteOK", 
+                "name": "PeteOK"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=3", 
@@ -1045,7 +1043,7 @@
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 27, 
+        "forks": 28, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -1077,7 +1075,7 @@
         "languages": [
             [
                 "HTML", 
-                123985
+                124301
             ], 
             [
                 "JavaScript", 
@@ -1085,7 +1083,7 @@
             ], 
             [
                 "CSS", 
-                15867
+                26899
             ], 
             [
                 "Ruby", 
@@ -1100,60 +1098,49 @@
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 11, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-04-21T01:51:18Z", 
-        "size": 17642, 
-        "updated_at": "2015-04-21T01:51:19Z", 
-        "watchers": 16
+        "pushed_at": "2015-05-15T14:50:48Z", 
+        "size": 17733, 
+        "updated_at": "2015-05-14T02:21:48Z", 
+        "watchers": 17
     }, 
     {
         "accessibility": {
             "http://ajschumacher.github.io/dc_mayor_schedule/": {
-                "pa11y_id": "54fbac74a824900300a684b0", 
-                "results": {
-                    "error": 9, 
-                    "notice": 5, 
-                    "total": 15, 
-                    "warning": 1
-                }
+                "pa11y_id": "54fbac74a824900300a684b0"
             }
         }, 
         "activity": [
+            5, 
             7, 
-            4, 
+            32, 
             6, 
-            7, 
+            6, 
             4, 
             5, 
+            5, 
+            8, 
+            6, 
+            6, 
+            3, 
             7, 
-            29, 
-            10, 
+            3, 
             5, 
             5, 
-            4, 
+            7, 
+            6, 
+            6, 
             5, 
+            7, 
             9, 
-            5, 
-            6, 
-            4, 
-            6, 
-            4, 
-            4, 
-            5, 
-            7, 
             6, 
             6, 
-            5, 
-            6, 
-            10, 
-            7, 
-            5, 
             6, 
             6, 
             4, 
@@ -1161,7 +1148,7 @@
             6, 
             5, 
             3, 
-            3, 
+            2, 
             0, 
             0, 
             0, 
@@ -1170,6 +1157,11 @@
             0, 
             0, 
             4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -1235,7 +1227,7 @@
         "created_at": "2013-08-21T23:20:41Z", 
         "default_branch": "gh-pages", 
         "description": "archive the DC mayor's public schedule; tabularize it; give archive web interface", 
-        "forks": 2, 
+        "forks": 3, 
         "help_wanted": [], 
         "homepage": "http://ajschumacher.github.io/dc_mayor_schedule/", 
         "html_url": "https://github.com/ajschumacher/dc_mayor_schedule", 
@@ -1266,8 +1258,8 @@
         }, 
         "pushed_at": "2015-02-28T22:05:02Z", 
         "size": 2410, 
-        "updated_at": "2015-02-28T22:05:02Z", 
-        "watchers": 4
+        "updated_at": "2015-05-19T23:32:02Z", 
+        "watchers": 5
     }, 
     {
         "accessibility": {
@@ -1276,11 +1268,6 @@
             }
         }, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -1321,6 +1308,11 @@
             0, 
             0, 
             5, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -1409,7 +1401,7 @@
         "created_at": "2013-06-02T19:27:08Z", 
         "default_branch": "gh-pages", 
         "description": "DC Open211", 
-        "forks": 7, 
+        "forks": 9, 
         "help_wanted": [], 
         "homepage": "http://communityresourcedata.codefordc.org", 
         "html_url": "https://github.com/codefordc/open211", 
@@ -1440,17 +1432,12 @@
         }, 
         "pushed_at": "2015-03-01T16:01:32Z", 
         "size": 2915, 
-        "updated_at": "2015-04-17T14:37:11Z", 
-        "watchers": 3
+        "updated_at": "2015-05-19T23:31:42Z", 
+        "watchers": 5
     }, 
     {
         "accessibility": {}, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -1492,11 +1479,16 @@
             19, 
             4, 
             0, 
-            2, 
+            3, 
             0, 
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            1, 
             0
         ], 
         "civic_json": {
@@ -1515,7 +1507,7 @@
             "communityPartner": {}, 
             "conformsTo": "http://codefordc.org/resources/specification.html", 
             "contact": {
-                "email": "lmendy@gmail.c", 
+                "email": "Lee.Mendelowitz@gmail.com", 
                 "name": "Lee Mendelowitz", 
                 "twitter": "lmendy7"
             }, 
@@ -1543,7 +1535,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 333, 
+                "contributions": 335, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }, 
@@ -1570,7 +1562,7 @@
             ], 
             [
                 "HTML", 
-                237502
+                237549
             ], 
             [
                 "JavaScript", 
@@ -1608,10 +1600,10 @@
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2015-03-14T21:17:16Z", 
-        "size": 32824, 
-        "updated_at": "2015-04-06T18:11:25Z", 
-        "watchers": 19
+        "pushed_at": "2015-05-13T13:58:55Z", 
+        "size": 32828, 
+        "updated_at": "2015-05-19T23:31:14Z", 
+        "watchers": 21
     }, 
     {
         "accessibility": {
@@ -1658,17 +1650,17 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            8, 
+            2, 
+            6, 
             0, 
             1, 
             0, 
             5, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0
@@ -1788,40 +1780,34 @@
         }, 
         "pushed_at": "2015-03-29T19:25:03Z", 
         "size": 5418, 
-        "updated_at": "2015-04-16T17:05:16Z", 
-        "watchers": 2
+        "updated_at": "2015-05-19T23:30:58Z", 
+        "watchers": 3
     }, 
     {
         "accessibility": {
             "http://codefordc.github.io/ERDA/": {
-                "pa11y_id": "54fbac7ea824900300a684b2", 
-                "results": {
-                    "error": 18, 
-                    "notice": 20, 
-                    "total": 44, 
-                    "warning": 6
-                }
+                "pa11y_id": "54fbac7ea824900300a684b2"
             }
         }, 
         "activity": [
-            0, 
-            4, 
-            6, 
-            4, 
-            6, 
-            4, 
+            2, 
             4, 
             0, 
             0, 
             2, 
             0, 
             0, 
-            0, 
-            4, 
-            0, 
-            0, 
             2, 
-            1, 
+            2, 
+            0, 
+            0, 
+            3, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -1928,26 +1914,20 @@
     {
         "accessibility": {
             "http://shiftyp.github.io/dc_community_gardens_visualization": {
-                "pa11y_id": "54fbac84a824900300a684b3", 
-                "results": {
-                    "error": 14, 
-                    "notice": 14, 
-                    "total": 245, 
-                    "warning": 217
-                }
+                "pa11y_id": "54fbac84a824900300a684b3"
             }
         }, 
         "activity": [
             0, 
             0, 
             0, 
+            1, 
+            5, 
             0, 
             0, 
             0, 
             0, 
             0, 
-            0, 
-            6, 
             0, 
             0, 
             0, 
@@ -2039,44 +2019,33 @@
     {
         "accessibility": {
             "http://codefordc.github.io/dc-campaign-finance-watch/": {
-                "pa11y_id": "54fbac91a824900300a684b4", 
-                "results": {
-                    "error": 15, 
-                    "notice": 5, 
-                    "total": 20, 
-                    "warning": 0
-                }
+                "pa11y_id": "54fbac91a824900300a684b4"
             }
         }, 
         "activity": [
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
+            1, 
             2, 
-            5, 
-            14, 
+            16, 
+            2, 
+            1, 
+            2, 
             0, 
-            3, 
             0, 
-            0, 
-            37, 
-            6, 
+            41, 
+            2, 
             7, 
             0, 
+            18, 
             16, 
-            14, 
-            16, 
+            12, 
             10, 
             4, 
             14, 
-            0, 
-            13, 
+            6, 
+            7, 
             0, 
             2, 
             0, 
@@ -2088,6 +2057,11 @@
             0, 
             0, 
             4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2188,21 +2162,10 @@
     {
         "accessibility": {
             "http://cmgiven.github.io/dc-handguns/": {
-                "pa11y_id": "54fbac99a824900300a684b6", 
-                "results": {
-                    "error": 15, 
-                    "notice": 15, 
-                    "total": 40, 
-                    "warning": 10
-                }
+                "pa11y_id": "54fbac99a824900300a684b6"
             }
         }, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2244,6 +2207,11 @@
             0, 
             0, 
             2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2343,19 +2311,13 @@
         }, 
         "pushed_at": "2015-03-06T15:08:06Z", 
         "size": 8464, 
-        "updated_at": "2015-03-06T15:08:08Z", 
-        "watchers": 4
+        "updated_at": "2015-05-19T23:31:26Z", 
+        "watchers": 5
     }, 
     {
         "accessibility": {
             "http://drewbo.com/dc-budget-treemap/": {
-                "pa11y_id": "54fbaca8a824900300a684b7", 
-                "results": {
-                    "error": 3, 
-                    "notice": 6, 
-                    "total": 11, 
-                    "warning": 2
-                }
+                "pa11y_id": "54fbaca8a824900300a684b7"
             }
         }, 
         "activity": [
@@ -2375,13 +2337,13 @@
             0, 
             0, 
             0, 
+            8, 
+            8, 
             0, 
             0, 
             0, 
             0, 
             0, 
-            5, 
-            11, 
             0, 
             0, 
             0, 
@@ -2487,13 +2449,13 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2555,19 +2517,13 @@
         }, 
         "pushed_at": "2014-10-29T15:14:54Z", 
         "size": 1420, 
-        "updated_at": "2014-11-13T02:02:36Z", 
-        "watchers": 1
+        "updated_at": "2015-05-19T23:32:07Z", 
+        "watchers": 2
     }, 
     {
         "accessibility": {
             "http://electionmap.wamu.org": {
-                "pa11y_id": "54fbacb0a824900300a684b8", 
-                "results": {
-                    "error": 9, 
-                    "notice": 44, 
-                    "total": 109, 
-                    "warning": 56
-                }
+                "pa11y_id": "54fbacb0a824900300a684b8"
             }
         }, 
         "activity": [
@@ -2593,14 +2549,9 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            40, 
-            51, 
-            5, 
+            48, 
+            46, 
+            2, 
             1, 
             0, 
             0, 
@@ -2617,6 +2568,11 @@
             0, 
             0, 
             1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -2712,27 +2668,16 @@
         }, 
         "pushed_at": "2015-03-06T15:12:37Z", 
         "size": 864, 
-        "updated_at": "2015-04-17T16:31:37Z", 
-        "watchers": 12
+        "updated_at": "2015-05-09T20:16:06Z", 
+        "watchers": 14
     }, 
     {
         "accessibility": {
             "http://cmgiven.github.io/at-risk/": {
-                "pa11y_id": "54fbacbaa824900300a684b9", 
-                "results": {
-                    "error": 69, 
-                    "notice": 48, 
-                    "total": 124, 
-                    "warning": 7
-                }
+                "pa11y_id": "54fbacbaa824900300a684b9"
             }
         }, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2779,13 +2724,18 @@
             0, 
             0, 
             0, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
             0
         ], 
         "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 47, 
+                "contributions": 48, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
             }
@@ -2801,16 +2751,24 @@
         "id": 29823243, 
         "languages": [
             [
+                "ApacheConf", 
+                39016
+            ], 
+            [
                 "JavaScript", 
                 26328
             ], 
             [
+                "HTML", 
+                19431
+            ], 
+            [
                 "CSS", 
-                9572
+                9921
             ]
         ], 
         "license": null, 
-        "main_language": "JavaScript", 
+        "main_language": "ApacheConf", 
         "name": "Funds for At-Risk Students", 
         "open_issues": 1, 
         "owner": {
@@ -2819,29 +2777,18 @@
             "type": "User", 
             "url": "https://github.com/cmgiven"
         }, 
-        "pushed_at": "2015-04-10T12:57:10Z", 
-        "size": 716, 
-        "updated_at": "2015-02-05T13:57:31Z", 
-        "watchers": 0
+        "pushed_at": "2015-05-10T22:41:39Z", 
+        "size": 732, 
+        "updated_at": "2015-05-19T23:29:21Z", 
+        "watchers": 1
     }, 
     {
         "accessibility": {
-            "https://emanuelfeld.shinyapps.io/geocoder": {
-                "pa11y_id": "54fbacc4a824900300a684bb", 
-                "results": {
-                    "error": 2, 
-                    "notice": 2, 
-                    "total": 4, 
-                    "warning": 0
-                }
+            "https://emanuelfeld.github.io/geocoder": {
+                "pa11y_id": "55668f22d3b20c03006a6e65"
             }
         }, 
         "activity": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
@@ -2884,9 +2831,14 @@
             3, 
             0, 
             5, 
-            1, 
-            1, 
             0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            65, 
+            1, 
             0, 
             0
         ], 
@@ -2913,17 +2865,17 @@
             "data": {}, 
             "geography": "Global", 
             "governmentPartner": {}, 
-            "moreInfo": "https://emanuelfeld.shinyapps.io/geocoder", 
+            "moreInfo": "https://emanuelfeld.github.io/geocoder", 
             "needs": [], 
             "politicalEntity": {}, 
             "status": "Production", 
-            "thumbnailUrl": "", 
+            "thumbnailUrl": "https://raw.githubusercontent.com/emanuelfeld/geocoder/gh-pages/assets/geocoder_box.png", 
             "type": "Web App"
         }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 10, 
+                "contributions": 74, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -2936,17 +2888,25 @@
         ], 
         "contributors_count": 2, 
         "created_at": "2015-02-14T06:39:32Z", 
-        "default_branch": "master", 
-        "description": "Web app interface for geocoding addresses in CSV files. Built in R Shiny.", 
-        "forks": 1, 
+        "default_branch": "gh-pages", 
+        "description": "Web app interface for geocoding addresses in CSV files.", 
+        "forks": 2, 
         "help_wanted": [], 
-        "homepage": "https://emanuelfeld.shinyapps.io/geocoder", 
+        "homepage": "https://emanuelfeld.github.io/geocoder", 
         "html_url": "https://github.com/emanuelfeld/geocoder", 
         "id": 30789409, 
         "languages": [
             [
-                "R", 
-                5576
+                "HTML", 
+                22524
+            ], 
+            [
+                "CSS", 
+                15760
+            ], 
+            [
+                "JavaScript", 
+                536
             ]
         ], 
         "license": {
@@ -2955,7 +2915,7 @@
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
-        "main_language": "R", 
+        "main_language": "HTML", 
         "name": "CSV Geocoder", 
         "open_issues": 1, 
         "owner": {
@@ -2964,10 +2924,10 @@
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-03-30T19:20:49Z", 
-        "size": 271, 
-        "updated_at": "2015-03-30T19:20:49Z", 
-        "watchers": 1
+        "pushed_at": "2015-05-11T16:51:00Z", 
+        "size": 651, 
+        "updated_at": "2015-05-19T23:30:49Z", 
+        "watchers": 4
     }, 
     {
         "accessibility": {
@@ -3014,20 +2974,20 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            59, 
-            41, 
-            49, 
-            22, 
-            78, 
-            12, 
+            66, 
+            61, 
+            30, 
+            18, 
+            80, 
+            7, 
             1, 
-            2, 
-            1
+            1, 
+            1, 
+            6, 
+            0, 
+            0, 
+            0, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -3056,7 +3016,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 165, 
+                "contributions": 171, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -3071,7 +3031,7 @@
         "created_at": "2015-02-19T05:26:29Z", 
         "default_branch": "master", 
         "description": "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser plug-in\u2026and beyond?", 
-        "forks": 3, 
+        "forks": 4, 
         "help_wanted": [], 
         "homepage": "http://booksfordc.org", 
         "html_url": "https://github.com/emanuelfeld/booksfordc", 
@@ -3079,7 +3039,7 @@
         "languages": [
             [
                 "JavaScript", 
-                41160
+                44180
             ], 
             [
                 "Python", 
@@ -3087,7 +3047,7 @@
             ], 
             [
                 "CSS", 
-                3201
+                3392
             ], 
             [
                 "HTML", 
@@ -3109,10 +3069,10 @@
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-04-17T05:18:53Z", 
-        "size": 4557, 
-        "updated_at": "2015-04-17T05:18:53Z", 
-        "watchers": 9
+        "pushed_at": "2015-04-29T14:21:08Z", 
+        "size": 4895, 
+        "updated_at": "2015-05-18T23:25:49Z", 
+        "watchers": 11
     }, 
     {
         "accessibility": {}, 
@@ -3155,15 +3115,15 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             28, 
             12, 
             0, 
             1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -3274,19 +3234,13 @@
         }, 
         "pushed_at": "2015-03-11T23:14:10Z", 
         "size": 1259, 
-        "updated_at": "2015-03-11T23:14:10Z", 
-        "watchers": 0
+        "updated_at": "2015-05-19T23:31:16Z", 
+        "watchers": 1
     }, 
     {
         "accessibility": {
-            "http://codefordc.github.io/expungement-dc": {
-                "pa11y_id": "54fbacd6a824900300a684bf", 
-                "results": {
-                    "error": 21, 
-                    "notice": 12, 
-                    "total": 34, 
-                    "warning": 1
-                }
+            "http://codefordc.github.io/clean-slate": {
+                "pa11y_id": "55669248d3b20c03006a6e67"
             }
         }, 
         "activity": [
@@ -3322,13 +3276,8 @@
             0, 
             0, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            9, 
-            5, 
+            13, 
+            1, 
             0, 
             8, 
             0, 
@@ -3341,15 +3290,83 @@
             0, 
             0, 
             0, 
-            0
+            0, 
+            1, 
+            34, 
+            19, 
+            36, 
+            2
         ], 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Reentry Hackathon", 
+            "categories": [
+                {
+                    "category": "Re-Entry"
+                }, 
+                {
+                    "category": "Expungement"
+                }, 
+                {
+                    "category": "Access to Justice"
+                }, 
+                {
+                    "category": ""
+                }
+            ], 
+            "communityPartner": {
+                "Mission Launch": "http://www.mission-launch.org/", 
+                "Public Defender Service": "http://www.pdsdc.org/"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "Brianecknight@gmail.com", 
+                "name": "Briane", 
+                "twitter": "bchanellek"
+            }, 
+            "data": {}, 
+            "geography": "Washington DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "https://codefordc.slack.com/messages/clean_slate/", 
+            "needs": [
+                {
+                    "need": "document assembly; the ability to take data and insert into pdf or fillable pdf on site"
+                }, 
+                {
+                    "need": "ability to email results of the wizard to oneself"
+                }, 
+                {
+                    "need": "ability to log-in to save a query and then be able to see previous queries all in one page. "
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Alpha", 
+            "thumbnailUrl": "", 
+            "type": "Web app"
+        }, 
         "contributors": [
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7838603?v=3", 
+                "contributions": 63, 
+                "link": "https://github.com/jrleszcz", 
+                "name": "jrleszcz"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1573454?v=3", 
-                "contributions": 21, 
+                "contributions": 24, 
                 "link": "https://github.com/RyanGladstone", 
                 "name": "RyanGladstone"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1418949?v=3", 
+                "contributions": 17, 
+                "link": "https://github.com/cweems", 
+                "name": "cweems"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
+                "contributions": 12, 
+                "link": "https://github.com/brianek", 
+                "name": "brianek"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
@@ -3358,39 +3375,150 @@
                 "name": "mattbailey0"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5722831?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/jmezetin", 
+                "name": "jmezetin"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1408929?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/jimwebb", 
+                "name": "jimwebb"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4772649?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/DavidGinzberg", 
+                "name": "DavidGinzberg"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
                 "contributions": 2, 
-                "link": "https://github.com/brianek", 
-                "name": "brianek"
+                "link": "https://github.com/tmcw", 
+                "name": "tmcw"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 4, 
+        "contributors_count": 10, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 9, 
-        "help_wanted": [], 
-        "homepage": "http://codefordc.github.io/expungement-dc", 
-        "html_url": "https://github.com/codefordc/expungement-dc", 
+        "forks": 15, 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "", 
+                "comments": 3, 
+                "created_at": "2015-05-17T14:18:04Z", 
+                "issue": "Create a menu for our pathways/create a select one or select all menu", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/45", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "5319e7", 
+                        "name": "Priority #1", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-05-27T01:15:09Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "Website Sealing Definitions List\r\n\t\u2022\tAcquitted \u2013 This means that a person was found \u201cnot guilty\u201d for the crime which he was charged.  It is the legal and formal certification of the innocence of a person who has been charged with a crime.  For example:  Mr. Smith was arrested and charged for theft.  However, Mr. Smith was found \u201cnot guilty\u201d and acquitted of his theft charge.\r\n \r\n\t\u2022\tActual Innocence \u2013 In the context of sealing records in the District of Columbia under D.C. Code \u00a7 16-802, this refers to one of two situations: (1) when the offense for which the person was arrested or charged did not occur; and/or (2) when the person did not commit the offense for which she was arrested or charged.  Assuming that she was never convicted for that charge, she can attempt to seal her arrest and charge records anytime without any waiting period.  If she was convicted, she cannot use actual innocence to seal records related to her conviction.  \r\n\r\n\t\u2022\tCase Disposition \u2013 This refers to the court\u2019s final determination of a lawsuit or criminal charge.  A person can have a case disposition of Acquitted, Dismissed for Want of Prosecution, Dismissal, Found Guilty \u2013 Plea, Non Jury Trial Guilty, Jury Trial Not Guilty, Jury Trial Guilty, Non Jury Trial Not Guilty, No Papered, Nolle Diversion, Nolle Prosequi, or Post and Forfeit.\r\n\r\n\t\u2022\tCase Number \u2013 This is the identification number that the court assigns to each and every case that it handles.  In the context of sealing criminal records, this number is always necessary for sealing.  In rare instances where the court does not have a court case number for your arrest or charge, you should request the court to assign you a case number.\r\n\r\n\t\u2022\tCase Pending \u2013 This refers to any case that is pending or has not been fully resolved.  For example, if a case does not have a case disposition, it is likely a case pending.\r\n\r\n\t\u2022\tConviction \u2013 It refers to the judgment (sentence) on a verdict or a finding of guilty, a plea of guilty or a plea of nolo contendere, or a plea or verdict of not guilty by reason of insanity.\r\n\r\n\t\u2022\tConviction Set Aside \r\n\r\n\t\u2022\tCourt Dismissed Charges \u2013 This is also known as \u201cDismissed for Want of Prosecution.\u201d  It is an order or judgment disposing of the charges without a trial.  An involuntary dismissal accomplished on the Court\u2019s own motion for lack of prosecution or on motion from the defendant for lack of prosecution or failure to introduce evidence of facts on which relief may be granted.  The dismissal is without prejudice which allows the prosecutor the right to re-bring the charges at a later date.  \r\n\r\n\t\u2022\tD.C Superior Court \u2013 This is the court that has jurisdiction over most criminal cases in Washington, D.C.  That is, if the arrest occurred in the District of Columbia, it is likely that D.C. Superior will be the court that handles that case.  \r\n\r\n\t\u2022\tDeferred Sentencing Agreement \r\n\r\n\t\u2022\tDisqualifying misdemeanor Conviction - If a person has a \u201cdisqualifying misdemeanor conviction\u201d in any jurisdiction, that is, they have a conviction for an ineligible misdemeanor, that conviction is not eligible for sealing but after waiting at least 5 years after sentence completion.  For that conviction the individual can file to seal any D.C. non-convictions on their record.  (the waiting periods that apply to each non-convictions still apply.)\r\n\r\n\t\u2022\tDisqualifying Felony Conviction \u2013 If a person has a \u201cdisqualifying felony conviction\u201d in any jurisdiction, that is, they have a conviction for any felony other for felony BRA, that conviction is not eligible for sealing but after waiting at least 10 years after sentence completion.  For conviction, the client can file to seal any D.C. non-convictions on their record.  (The waiting periods that apply to each non-convictions still apply.)\r\n\r\n\t\u2022\tDropped Charges \r\n\r\n\t\u2022\tEligible Felony \u2013 See Felony BRA\r\n\r\n\t\u2022\tEligible misdemeanor \u2013 Eligible misdemeanors are misdemeanors that are not considered \u201cineligible misdemeanors\u201d See Ineligible misdemeanors.  Generally, with exceptions, eligible misdemeanor convictions can be sealed after a waiting period.  Also see \u201cwaiting period\u201d and \u201cdisqualifying convictions\u201d\r\n\r\n\t\u2022\tExpunged Criminal Record \u2013 D.C. generally uses the term \u201csealed\u201d instead of \u201cexpunged\u201d  Sealed criminal records are records that are not available to the public\r\n\r\n\t\u2022\tFelony BRA \u2013 The ONLY eligible felony is BRA (which stands for Bail Reform Act violation), also known as \u201cfailure to appear.\u201d  If the client was convicted of \u201cfailure to appear,\u201d then their record is eligible for sealing.  If they were convicted of any other felony, they are NOT eligible.  If the client has an ineligible felony conviction and a nonconviction, they may be able to seal the non-conviction after a waiting period following their ineligible felony.\r\n\r\n\t\u2022\tFelony Conviction \u2013 With the exception of an eligible felony (Felony BRA), felony convictions cannot be sealed\r\n\r\n\t\u2022\tFugitive From Justice \u2013 It refers to a situation where a person has a warrant from another jurisdiction.  If that person is arrested in D.C. because of a warrant from another jurisdiction, that person may be eligible to file a \u00a7 16-803.01 Motion to seal a fugitive arrest after they appear before the proper authority in the demanding jurisdiction.\r\n\r\n\t\u2022\tInappropriately attributed arrest record \r\n\r\n\t\u2022\tIncorrectly Attributed Record \r\n\r\n\t\u2022\tIneligible misdemeanor \u2013 This refers to a long list of misdemeanors that are found and defined in D.C. Code \u00a7 16-801.  Misdemeanor convictions cannot be sealed.  Furthermore, ineligible misdemeanor non-convictions require longer waiting periods for sealing (compared to eligible misdemeanors).\r\n\r\n\t\u2022\tInnocent \u2013 See Actual Innocence\r\n\r\n\t\u2022\tInterpersonal Violence \u2013 In the context of sealing it is an ineligible misdemeanor.  As defined in D.C. Code \u00a7 16-1001(6)(B), it is an \u201cact punishable as a criminal offense that is committed or threatened to be committed by an offender upon a person \u2026 [w]ho is or was married to, in a domestic partnership with, divorced or separated from, or in a romantic, dating, or sexual relationship with another person who is or was married to, in a domestic partnership with, divorced or separated from, or in a romantic, dating, or sexual relationship with the offender.\u201d \r\n\r\n\t\u2022\tIntimate Partner Violence \u2013 In the context of sealing, it is an ineligible misdemeanor.  As defined in D.C. Code \u00a7 16-1001(7), it means \u201cact punishable as a criminal offense that is committed or threatened to be committed by an offender upon a person: (A) To whom the offender is or was married; (B) With whom the offender is or was in a domestic partnership; or (C) With whom the offender is or was in a romantic, dating, or sexual relationship.\u201d \r\n \r\n\t\u2022\tIntrafamily Violence \u2013 In the context of sealing, it is an ineligible misdemeanor.  As defined in D.C. Code \u00a7 16-1001(9), it means \u201cact punishable as a criminal offense that is committed or threatened to be committed by an offender upon a person to whom the offender is related by blood, adoption, legal custody, marriage, or domestic partnership, or with whom the offender has a child in common.\u201d\r\n\r\n\t\u2022\tMPD - Metropolitan Police Department \u2013 This is the local law enforcement agency in Washington, D.C.  If you are arrested in the District of Columbia, it is likely that it was a police officer, or someone, from the MPD. If you plan to seal your D.C. criminal records, you should get a copy of your full records from the MPD.\r\n\r\n\t\u2022\tNo Charge \r\n\r\n\t\u2022\tNon-Conviction \u2013 This refers to any arrest or charges that did not result in a conviction.  See Conviction.  Amongst others, this can refer to finding of not guilty, no papered, and dismissed.\r\n\r\n\t\u2022\tOff-Papered \u2013 When a person has been unconditionally discharged from incarceration, commitment, probation, parole or supervised release \u2013 whichever is the latest.\r\n\r\n\t\u2022\tPapered \u2013 This means that the United States Attorney\u2019s Office of the District of Columbia or the Office of the Attorney General for the District of Columbia has decided to proceed with prosecution against you for the incident that leads to your arrest.\r\n\r\n\t\u2022\tPDID (Police Department ID Number) \u2013 Identification number used by the Metropolitan Police Department to identify individuals whom they arrest.  Regardless of the number of arrest incidents, an individual should only have one PDID. \r\n\r\n\t\u2022\tPublic Record \u2013 In the context of sealing under D.C. Code \u00a7 16-801, these are records that are available to the public.  \"Public\" means any person, agency, organization, or entity other than: (A) Any court; (B) Any federal, state, or local prosecutor;  (C) Any law enforcement agency;  (D) Any licensing agency with respect to an offense that may disqualify a person from obtaining that license; (E) Any licensed school, day care center, before or after school facility or other educational or child protection agency or facility; (F) Any government employer or nominating or tenure commission with respect to: (i) Employment of a judicial or quasi-judicial officer; or (ii) Employment at a senior-level, executive-grade government position. \r\n\r\n\t\u2022\tSealed Criminal Record\r\n\r\n\t\u2022\tWaiting period \u2013 In the context of sealing, this is the amount of time that a person must wait until he is eligible to seal his criminal record(s).  Please note that some criminal record sealing do not have a waiting period because either (i) it is not eligible for sealing; or (ii) it does not require a waiting period. \r\n\r\n\t\u2022\tYouth Rehabilitation Act \r\n\r\n\t\u2022\tPreponderance of the evidence \r\n\r\n\t\u2022\tClear and convincing evidence \r\n\r\n\t\u2022\tPost and Forfeit \u2013 The Metropolitan Police Department (MPD) or the Office of the Attorney General for the District of Columbia has resolved the incident that leads to your arrest using the Post and Forfeit procedure.  The Post and Forfeit procedure allows a person charged with certain offenses to post and forfeit an amount as collateral (which otherwise would serve as security upon release to ensure the arrest\u2019s appearance at trial) and thereby obtain a full and final resolution of the offense.  The agreement to resolve the offense using the Post and Forfeit procedure is final\r\n\r\n\t\u2022\tMultiple Arrest Record \r\n\r\n Definitions from DC Code 16-801 - http://dccode.org/simple/sections/16-801.html \r\n", 
+                "comments": 0, 
+                "created_at": "2015-03-25T04:28:21Z", 
+                "issue": "Add in definitions using jquery ", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/23", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d4c5f9", 
+                        "name": "Priority #3", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-05-17T19:55:44Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "\r\n-Add in a page on getting your arrest information (like this:http://www.expungemaryland.org/step2. ). Options can easily be presented in vertical boxes as a way to improve design. Maybe the vertical goes can be clickable and lead to more information.  Don\u2019t worry about the content, you can use dumb content. ", 
+                "comments": 1, 
+                "created_at": "2015-03-25T04:25:45Z", 
+                "issue": "Add new page (vertical boxes) on steps to get your arrest record. Use dummy content", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/21", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "006b75", 
+                        "name": "Priority #2", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-05-17T19:56:36Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "-Add in a disclaimer page like this: http://www.expungemaryland.org/disclaimer", 
+                "comments": 0, 
+                "created_at": "2015-03-25T04:24:07Z", 
+                "issue": "Quick project: add in a new disclaimer page", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/20", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d4c5f9", 
+                        "name": "Priority #3", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-05-17T14:12:09Z"
+            }
+        ], 
+        "homepage": "http://codefordc.github.io/clean-slate", 
+        "html_url": "https://github.com/codefordc/clean-slate", 
         "id": 28992747, 
         "languages": [
             [
                 "HTML", 
-                12248
+                16015
             ], 
             [
                 "JavaScript", 
-                4654
+                8916
             ], 
             [
                 "CSS", 
-                2468
+                2479
             ]
         ], 
         "license": {
@@ -3401,28 +3529,22 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 20, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-04-10T00:20:36Z", 
-        "size": 8752, 
-        "updated_at": "2015-03-23T14:44:58Z", 
-        "watchers": 6
+        "pushed_at": "2015-05-28T02:57:54Z", 
+        "size": 9290, 
+        "updated_at": "2015-05-19T23:29:24Z", 
+        "watchers": 10
     }, 
     {
         "accessibility": {
             "https://whatsamata.herokuapp.com/": {
-                "pa11y_id": "55137bb9259d710300a1f49c", 
-                "results": {
-                    "error": 3, 
-                    "notice": 15, 
-                    "total": 18, 
-                    "warning": 0
-                }
+                "pa11y_id": "55137bb9259d710300a1f49c"
             }
         }, 
         "activity": [
@@ -3464,16 +3586,16 @@
             0, 
             0, 
             0, 
+            14, 
+            20, 
+            21, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            3, 
-            31, 
-            12, 
-            9, 
             7, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             0, 
             0, 
             0, 
@@ -3569,13 +3691,13 @@
         }, 
         "pushed_at": "2015-04-08T23:59:56Z", 
         "size": 3924, 
-        "updated_at": "2015-04-09T00:11:46Z", 
+        "updated_at": "2015-05-19T23:30:44Z", 
         "watchers": 1
     }, 
     {
         "accessibility": {
-            "http://getdctrees.org/": {
-                "pa11y_id": "553715ab338ab50300229fbd"
+            "http://getdctrees.org": {
+                "pa11y_id": "5566926dd3b20c03006a6e69"
             }
         }, 
         "activity": [
@@ -3624,13 +3746,13 @@
             0, 
             0, 
             0, 
+            53, 
+            79, 
+            26, 
+            4, 
+            2, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            28, 
-            82
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -3674,7 +3796,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 116, 
+                "contributions": 165, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }
@@ -3685,29 +3807,34 @@
         "description": "A user-friendly interface for requesting new tree plantings from the DDOT Urban Forestry Administration.", 
         "forks": 0, 
         "help_wanted": [], 
-        "homepage": "http://getdctrees.org/", 
+        "homepage": "http://getdctrees.org", 
         "html_url": "https://github.com/emanuelfeld/tree-map", 
         "id": 14220687, 
         "languages": [
             [
-                "CSS", 
-                18053
+                "HTML", 
+                28268
             ], 
             [
-                "HTML", 
-                13407
+                "CSS", 
+                22614
             ], 
             [
                 "R", 
-                7221
+                7280
             ], 
             [
                 "JavaScript", 
                 536
             ]
         ], 
-        "license": null, 
-        "main_language": "CSS", 
+        "license": {
+            "featured": true, 
+            "key": "gpl-2.0", 
+            "name": "GNU General Public License v2.0", 
+            "url": "https://api.github.com/licenses/gpl-2.0"
+        }, 
+        "main_language": "HTML", 
         "name": "Get DC Trees", 
         "open_issues": 1, 
         "owner": {
@@ -3716,9 +3843,9 @@
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-04-22T03:10:26Z", 
-        "size": 18844, 
-        "updated_at": "2015-04-22T03:10:27Z", 
-        "watchers": 1
+        "pushed_at": "2015-05-26T22:31:02Z", 
+        "size": 21420, 
+        "updated_at": "2015-05-19T23:20:37Z", 
+        "watchers": 3
     }
 ]
