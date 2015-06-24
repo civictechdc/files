@@ -1,8 +1,8 @@
 - accessibility:
     http://codefordc.github.io/districthousing/: {pa11y_id: 54fbac58a824900300a684a8}
-  activity: [18, 30, 89, 59, 30, 3, 17, 4, 1, 0, 1, 9, 5, 4, 3, 0, 6, 3, 0, 8, 0,
-    7, 12, 27, 37, 13, 32, 38, 7, 1, 10, 20, 1, 26, 20, 29, 81, 50, 15, 28, 0, 2,
-    0, 0, 11, 5, 7, 6, 3, 2, 2, 0]
+  activity: [37, 5, 17, 4, 1, 0, 1, 9, 0, 9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19,
+    27, 45, 8, 1, 9, 15, 7, 26, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3,
+    0, 4, 0, 5, 0, 6, 2]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -22,9 +22,9 @@
     thumbnailUrl: https://codefordc.github.io/districthousing/img/district-housing-logo-small.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 719,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 722,
     link: 'https://github.com/jrunningen', name: jrunningen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 82,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 84,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 78,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -38,6 +38,8 @@
     link: 'https://github.com/MikeyBurkman', name: MikeyBurkman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3814190?v=3', contributions: 7,
     link: 'https://github.com/jasoncorum', name: jasoncorum}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 6,
+    link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4406809?v=3', contributions: 6,
     link: 'https://github.com/mepps', name: mepps}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/459756?v=3', contributions: 4,
@@ -68,40 +70,40 @@
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2559167?v=3', contributions: 1,
     link: 'https://github.com/shariq1989', name: shariq1989}
-  contributors_count: 23
+  contributors_count: 24
   created_at: '2013-06-24T02:05:03Z'
   default_branch: master
   description: 'District Housing lets caseworkers help clients apply for Section 8
     housing by automatically filling out multiple PDF applications using one online
     form. '
-  forks: 41
+  forks: 42
   help_wanted: []
   homepage: http://codefordc.github.io/districthousing/
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
   - [Ruby, 191374]
-  - [HTML, 72544]
-  - [CSS, 14133]
+  - [HTML, 73822]
+  - [CSS, 14432]
   - [Puppet, 5537]
-  - [CoffeeScript, 2537]
+  - [CoffeeScript, 3487]
   - [JavaScript, 767]
   - [Shell, 118]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 74
+  open_issues: 71
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-05-27T13:10:16Z'
-  size: 22937
+  pushed_at: '2015-06-16T01:41:28Z'
+  size: 22390
   updated_at: '2015-05-19T23:28:34Z'
   watchers: 22
 - accessibility:
     http://ancfinder.org/: {pa11y_id: 54fbac5fa824900300a684aa}
-  activity: [0, 5, 0, 0, 6, 2, 4, 4, 4, 2, 6, 4, 0, 1, 0, 0, 1, 3, 2, 0, 6, 2, 0,
-    2, 5, 1, 0, 0, 7, 0, 0, 0, 0, 5, 0, 0, 1, 7, 0, 1, 1, 3, 0, 8, 0, 3, 1, 5, 2,
-    0, 0, 3]
+  activity: [0, 6, 6, 0, 6, 3, 5, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1,
+    0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3,
+    0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -181,13 +183,13 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-05-27T00:06:37Z'
-  size: 73310
-  updated_at: '2015-05-26T23:24:47Z'
-  watchers: 29
+  size: 73373
+  updated_at: '2015-06-11T00:44:11Z'
+  watchers: 30
 - accessibility:
     http://cmgiven.github.io/bikeshare-odds/: {pa11y_id: 54fbac66a824900300a684ac}
-  activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -235,9 +237,9 @@
   updated_at: '2015-05-19T23:31:29Z'
   watchers: 8
 - accessibility: {}
-  activity: [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 1, 0]
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    0, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/130809?v=3', contributions: 87,
@@ -283,9 +285,9 @@
   watchers: 18
 - accessibility:
     http://www.codefordc.org: {pa11y_id: 54fbac6da824900300a684ae}
-  activity: [6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 3, 6, 5, 2, 2, 10, 12, 4, 2, 15, 6, 2,
-    10, 13, 14, 4, 0, 1, 9, 4, 0, 2, 1, 9, 0, 0, 6, 1, 7, 8, 7, 1, 2, 9, 1, 1, 2,
-    2, 3, 1, 0, 0]
+  activity: [0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 9, 11, 8, 2, 10, 11, 2, 10, 13, 8, 10,
+    0, 1, 9, 4, 0, 2, 0, 10, 0, 0, 6, 1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 1, 0, 0,
+    0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -337,7 +339,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 28
+  forks: 29
   help_wanted:
   - assignee: null
     body: ''
@@ -362,17 +364,17 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 10
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-05-15T14:50:48Z'
-  size: 17733
+  pushed_at: '2015-06-17T12:07:04Z'
+  size: 17419
   updated_at: '2015-05-14T02:21:48Z'
   watchers: 17
 - accessibility:
     http://ajschumacher.github.io/dc_mayor_schedule/: {pa11y_id: 54fbac74a824900300a684b0}
-  activity: [5, 7, 32, 6, 6, 4, 5, 5, 8, 6, 6, 3, 7, 3, 5, 5, 7, 6, 6, 5, 7, 9, 6,
-    6, 6, 6, 4, 7, 6, 5, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [5, 5, 4, 5, 9, 5, 6, 4, 6, 4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4,
+    7, 6, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -423,8 +425,8 @@
   watchers: 5
 - accessibility:
     http://communityresourcedata.codefordc.org: {pa11y_id: 55371401338ab50300229fb7}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     categories:
@@ -480,9 +482,9 @@
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
 - accessibility: {}
-  activity: [0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 8, 0, 8, 9, 5, 12, 0, 10, 4, 4, 0, 0, 0,
-    1, 0, 1, 0, 0, 3, 0, 8, 0, 0, 0, 0, 0, 5, 7, 19, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0,
-    0, 1, 0]
+  activity: [1, 0, 0, 0, 7, 2, 6, 2, 6, 7, 8, 13, 0, 10, 0, 7, 1, 0, 0, 1, 0, 1, 0,
+    0, 3, 0, 0, 8, 0, 0, 0, 0, 3, 7, 21, 0, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    0, 0, 0]
   civic_json:
     bornAt: Lee's apartment
     categories:
@@ -534,12 +536,12 @@
     type: User, url: 'https://github.com/LeeMendelowitz'}
   pushed_at: '2015-05-13T13:58:55Z'
   size: 32828
-  updated_at: '2015-05-19T23:31:14Z'
-  watchers: 21
+  updated_at: '2015-06-23T17:26:56Z'
+  watchers: 22
 - accessibility:
     http://dctreemap.org/dc/map: {pa11y_id: 5537141e338ab50300229fb9}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 0, 1, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -599,7 +601,7 @@
   watchers: 3
 - accessibility:
     http://codefordc.github.io/ERDA/: {pa11y_id: 54fbac7ea824900300a684b2}
-  activity: [2, 4, 0, 0, 2, 0, 0, 2, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [2, 0, 0, 0, 4, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -638,7 +640,7 @@
   watchers: 4
 - accessibility:
     http://shiftyp.github.io/dc_community_gardens_visualization: {pa11y_id: 54fbac84a824900300a684b3}
-  activity: [0, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -670,8 +672,8 @@
   watchers: 0
 - accessibility:
     http://codefordc.github.io/dc-campaign-finance-watch/: {pa11y_id: 54fbac91a824900300a684b4}
-  activity: [0, 0, 0, 1, 2, 16, 2, 1, 2, 0, 0, 41, 2, 7, 0, 18, 16, 12, 10, 4, 14,
-    6, 7, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [2, 5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16, 10, 4, 14, 0, 13, 0, 2,
+    0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   civic_json: null
   contributors:
@@ -714,8 +716,8 @@
   watchers: 8
 - accessibility:
     http://cmgiven.github.io/dc-handguns/: {pa11y_id: 54fbac99a824900300a684b6}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -765,7 +767,7 @@
   watchers: 5
 - accessibility:
     http://drewbo.com/dc-budget-treemap/: {pa11y_id: 54fbaca8a824900300a684b7}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -798,7 +800,7 @@
   updated_at: '2015-03-02T22:29:25Z'
   watchers: 1
 - accessibility: {}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -828,8 +830,8 @@
   watchers: 2
 - accessibility:
     http://electionmap.wamu.org: {pa11y_id: 54fbacb0a824900300a684b8}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48,
-    46, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 51, 5, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -878,8 +880,8 @@
 - accessibility:
     http://cmgiven.github.io/at-risk/: {pa11y_id: 54fbacbaa824900300a684b9}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 7, 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+    0, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 48,
@@ -911,8 +913,8 @@
 - accessibility:
     https://emanuelfeld.github.io/geocoder: {pa11y_id: 55668f22d3b20c03006a6e65}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 65,
-    1, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0,
+    0, 0, 0]
   civic_json:
     bornAt: ''
     categories:
@@ -940,7 +942,7 @@
   created_at: '2015-02-14T06:39:32Z'
   default_branch: gh-pages
   description: Web app interface for geocoding addresses in CSV files.
-  forks: 2
+  forks: 3
   help_wanted: []
   homepage: https://emanuelfeld.github.io/geocoder
   html_url: https://github.com/emanuelfeld/geocoder
@@ -957,13 +959,13 @@
     type: User, url: 'https://github.com/emanuelfeld'}
   pushed_at: '2015-05-11T16:51:00Z'
   size: 651
-  updated_at: '2015-05-19T23:30:49Z'
-  watchers: 4
+  updated_at: '2015-06-14T11:58:16Z'
+  watchers: 5
 - accessibility:
     http://booksfordc.org: {pa11y_id: 55371465338ab50300229fbb}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 61, 30, 18, 80, 7, 1, 1, 1, 6,
-    0, 0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0, 0, 0, 0,
+    0, 0, 3, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -977,7 +979,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 171,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 174,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -992,7 +994,7 @@
   html_url: https://github.com/emanuelfeld/booksfordc
   id: 31002646
   languages:
-  - [JavaScript, 44180]
+  - [JavaScript, 45707]
   - [Python, 14208]
   - [CSS, 3392]
   - [HTML, 931]
@@ -1002,13 +1004,13 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-04-29T14:21:08Z'
-  size: 4895
+  pushed_at: '2015-06-14T16:21:56Z'
+  size: 4181
   updated_at: '2015-05-18T23:25:49Z'
   watchers: 11
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Open Data Day 2015, Code for DC
@@ -1064,8 +1066,8 @@
 - accessibility:
     http://codefordc.github.io/clean-slate: {pa11y_id: 55669248d3b20c03006a6e67}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 1, 0, 8, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 1, 34,
-    19, 36, 2]
+    0, 0, 0, 0, 0, 9, 5, 0, 8, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0, 20, 35, 36, 0,
+    67, 1, 1, 4]
   civic_json:
     bornAt: Reentry Hackathon
     categories:
@@ -1091,22 +1093,22 @@
     thumbnailUrl: ''
     type: Web app
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 63,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 86,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 24,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 23,
+    link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1418949?v=3', contributions: 17,
     link: 'https://github.com/cweems', name: cweems}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 12,
-    link: 'https://github.com/brianek', name: brianek}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 11,
+    link: 'https://github.com/jmezetin', name: jmezetin}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 9,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 5,
-    link: 'https://github.com/jmezetin', name: jmezetin}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4772649?v=3', contributions: 8,
+    link: 'https://github.com/DavidGinzberg', name: DavidGinzberg}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1408929?v=3', contributions: 5,
     link: 'https://github.com/jimwebb', name: jimwebb}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4772649?v=3', contributions: 5,
-    link: 'https://github.com/DavidGinzberg', name: DavidGinzberg}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 2,
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
@@ -1118,172 +1120,6 @@
     records sealed in DC
   forks: 15
   help_wanted:
-  - assignee: null
-    body: ''
-    comments: 3
-    created_at: '2015-05-17T14:18:04Z'
-    issue: Create a menu for our pathways/create a select one or select all menu
-    issue_url: https://github.com/codefordc/clean-slate/issues/45
-    labels:
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-05-27T01:15:09Z'
-  - assignee: null
-    body: "Website Sealing Definitions List\r\n\t\u2022\tAcquitted \u2013 This means\
-      \ that a person was found \u201Cnot guilty\u201D for the crime which he was\
-      \ charged.  It is the legal and formal certification of the innocence of a person\
-      \ who has been charged with a crime.  For example:  Mr. Smith was arrested and\
-      \ charged for theft.  However, Mr. Smith was found \u201Cnot guilty\u201D and\
-      \ acquitted of his theft charge.\r\n \r\n\t\u2022\tActual Innocence \u2013 In\
-      \ the context of sealing records in the District of Columbia under D.C. Code\
-      \ \xA7 16-802, this refers to one of two situations: (1) when the offense for\
-      \ which the person was arrested or charged did not occur; and/or (2) when the\
-      \ person did not commit the offense for which she was arrested or charged. \
-      \ Assuming that she was never convicted for that charge, she can attempt to\
-      \ seal her arrest and charge records anytime without any waiting period.  If\
-      \ she was convicted, she cannot use actual innocence to seal records related\
-      \ to her conviction.  \r\n\r\n\t\u2022\tCase Disposition \u2013 This refers\
-      \ to the court\u2019s final determination of a lawsuit or criminal charge. \
-      \ A person can have a case disposition of Acquitted, Dismissed for Want of Prosecution,\
-      \ Dismissal, Found Guilty \u2013 Plea, Non Jury Trial Guilty, Jury Trial Not\
-      \ Guilty, Jury Trial Guilty, Non Jury Trial Not Guilty, No Papered, Nolle Diversion,\
-      \ Nolle Prosequi, or Post and Forfeit.\r\n\r\n\t\u2022\tCase Number \u2013 This\
-      \ is the identification number that the court assigns to each and every case\
-      \ that it handles.  In the context of sealing criminal records, this number\
-      \ is always necessary for sealing.  In rare instances where the court does not\
-      \ have a court case number for your arrest or charge, you should request the\
-      \ court to assign you a case number.\r\n\r\n\t\u2022\tCase Pending \u2013 This\
-      \ refers to any case that is pending or has not been fully resolved.  For example,\
-      \ if a case does not have a case disposition, it is likely a case pending.\r\
-      \n\r\n\t\u2022\tConviction \u2013 It refers to the judgment (sentence) on a\
-      \ verdict or a finding of guilty, a plea of guilty or a plea of nolo contendere,\
-      \ or a plea or verdict of not guilty by reason of insanity.\r\n\r\n\t\u2022\t\
-      Conviction Set Aside \r\n\r\n\t\u2022\tCourt Dismissed Charges \u2013 This is\
-      \ also known as \u201CDismissed for Want of Prosecution.\u201D  It is an order\
-      \ or judgment disposing of the charges without a trial.  An involuntary dismissal\
-      \ accomplished on the Court\u2019s own motion for lack of prosecution or on\
-      \ motion from the defendant for lack of prosecution or failure to introduce\
-      \ evidence of facts on which relief may be granted.  The dismissal is without\
-      \ prejudice which allows the prosecutor the right to re-bring the charges at\
-      \ a later date.  \r\n\r\n\t\u2022\tD.C Superior Court \u2013 This is the court\
-      \ that has jurisdiction over most criminal cases in Washington, D.C.  That is,\
-      \ if the arrest occurred in the District of Columbia, it is likely that D.C.\
-      \ Superior will be the court that handles that case.  \r\n\r\n\t\u2022\tDeferred\
-      \ Sentencing Agreement \r\n\r\n\t\u2022\tDisqualifying misdemeanor Conviction\
-      \ - If a person has a \u201Cdisqualifying misdemeanor conviction\u201D in any\
-      \ jurisdiction, that is, they have a conviction for an ineligible misdemeanor,\
-      \ that conviction is not eligible for sealing but after waiting at least 5 years\
-      \ after sentence completion.  For that conviction the individual can file to\
-      \ seal any D.C. non-convictions on their record.  (the waiting periods that\
-      \ apply to each non-convictions still apply.)\r\n\r\n\t\u2022\tDisqualifying\
-      \ Felony Conviction \u2013 If a person has a \u201Cdisqualifying felony conviction\u201D\
-      \ in any jurisdiction, that is, they have a conviction for any felony other\
-      \ for felony BRA, that conviction is not eligible for sealing but after waiting\
-      \ at least 10 years after sentence completion.  For conviction, the client can\
-      \ file to seal any D.C. non-convictions on their record.  (The waiting periods\
-      \ that apply to each non-convictions still apply.)\r\n\r\n\t\u2022\tDropped\
-      \ Charges \r\n\r\n\t\u2022\tEligible Felony \u2013 See Felony BRA\r\n\r\n\t\u2022\
-      \tEligible misdemeanor \u2013 Eligible misdemeanors are misdemeanors that are\
-      \ not considered \u201Cineligible misdemeanors\u201D See Ineligible misdemeanors.\
-      \  Generally, with exceptions, eligible misdemeanor convictions can be sealed\
-      \ after a waiting period.  Also see \u201Cwaiting period\u201D and \u201Cdisqualifying\
-      \ convictions\u201D\r\n\r\n\t\u2022\tExpunged Criminal Record \u2013 D.C. generally\
-      \ uses the term \u201Csealed\u201D instead of \u201Cexpunged\u201D  Sealed criminal\
-      \ records are records that are not available to the public\r\n\r\n\t\u2022\t\
-      Felony BRA \u2013 The ONLY eligible felony is BRA (which stands for Bail Reform\
-      \ Act violation), also known as \u201Cfailure to appear.\u201D  If the client\
-      \ was convicted of \u201Cfailure to appear,\u201D then their record is eligible\
-      \ for sealing.  If they were convicted of any other felony, they are NOT eligible.\
-      \  If the client has an ineligible felony conviction and a nonconviction, they\
-      \ may be able to seal the non-conviction after a waiting period following their\
-      \ ineligible felony.\r\n\r\n\t\u2022\tFelony Conviction \u2013 With the exception\
-      \ of an eligible felony (Felony BRA), felony convictions cannot be sealed\r\n\
-      \r\n\t\u2022\tFugitive From Justice \u2013 It refers to a situation where a\
-      \ person has a warrant from another jurisdiction.  If that person is arrested\
-      \ in D.C. because of a warrant from another jurisdiction, that person may be\
-      \ eligible to file a \xA7 16-803.01 Motion to seal a fugitive arrest after they\
-      \ appear before the proper authority in the demanding jurisdiction.\r\n\r\n\t\
-      \u2022\tInappropriately attributed arrest record \r\n\r\n\t\u2022\tIncorrectly\
-      \ Attributed Record \r\n\r\n\t\u2022\tIneligible misdemeanor \u2013 This refers\
-      \ to a long list of misdemeanors that are found and defined in D.C. Code \xA7\
-      \ 16-801.  Misdemeanor convictions cannot be sealed.  Furthermore, ineligible\
-      \ misdemeanor non-convictions require longer waiting periods for sealing (compared\
-      \ to eligible misdemeanors).\r\n\r\n\t\u2022\tInnocent \u2013 See Actual Innocence\r\
-      \n\r\n\t\u2022\tInterpersonal Violence \u2013 In the context of sealing it is\
-      \ an ineligible misdemeanor.  As defined in D.C. Code \xA7 16-1001(6)(B), it\
-      \ is an \u201Cact punishable as a criminal offense that is committed or threatened\
-      \ to be committed by an offender upon a person \u2026 [w]ho is or was married\
-      \ to, in a domestic partnership with, divorced or separated from, or in a romantic,\
-      \ dating, or sexual relationship with another person who is or was married to,\
-      \ in a domestic partnership with, divorced or separated from, or in a romantic,\
-      \ dating, or sexual relationship with the offender.\u201D \r\n\r\n\t\u2022\t\
-      Intimate Partner Violence \u2013 In the context of sealing, it is an ineligible\
-      \ misdemeanor.  As defined in D.C. Code \xA7 16-1001(7), it means \u201Cact\
-      \ punishable as a criminal offense that is committed or threatened to be committed\
-      \ by an offender upon a person: (A) To whom the offender is or was married;\
-      \ (B) With whom the offender is or was in a domestic partnership; or (C) With\
-      \ whom the offender is or was in a romantic, dating, or sexual relationship.\u201D\
-      \ \r\n \r\n\t\u2022\tIntrafamily Violence \u2013 In the context of sealing,\
-      \ it is an ineligible misdemeanor.  As defined in D.C. Code \xA7 16-1001(9),\
-      \ it means \u201Cact punishable as a criminal offense that is committed or threatened\
-      \ to be committed by an offender upon a person to whom the offender is related\
-      \ by blood, adoption, legal custody, marriage, or domestic partnership, or with\
-      \ whom the offender has a child in common.\u201D\r\n\r\n\t\u2022\tMPD - Metropolitan\
-      \ Police Department \u2013 This is the local law enforcement agency in Washington,\
-      \ D.C.  If you are arrested in the District of Columbia, it is likely that it\
-      \ was a police officer, or someone, from the MPD. If you plan to seal your D.C.\
-      \ criminal records, you should get a copy of your full records from the MPD.\r\
-      \n\r\n\t\u2022\tNo Charge \r\n\r\n\t\u2022\tNon-Conviction \u2013 This refers\
-      \ to any arrest or charges that did not result in a conviction.  See Conviction.\
-      \  Amongst others, this can refer to finding of not guilty, no papered, and\
-      \ dismissed.\r\n\r\n\t\u2022\tOff-Papered \u2013 When a person has been unconditionally\
-      \ discharged from incarceration, commitment, probation, parole or supervised\
-      \ release \u2013 whichever is the latest.\r\n\r\n\t\u2022\tPapered \u2013 This\
-      \ means that the United States Attorney\u2019s Office of the District of Columbia\
-      \ or the Office of the Attorney General for the District of Columbia has decided\
-      \ to proceed with prosecution against you for the incident that leads to your\
-      \ arrest.\r\n\r\n\t\u2022\tPDID (Police Department ID Number) \u2013 Identification\
-      \ number used by the Metropolitan Police Department to identify individuals\
-      \ whom they arrest.  Regardless of the number of arrest incidents, an individual\
-      \ should only have one PDID. \r\n\r\n\t\u2022\tPublic Record \u2013 In the context\
-      \ of sealing under D.C. Code \xA7 16-801, these are records that are available\
-      \ to the public.  \"Public\" means any person, agency, organization, or entity\
-      \ other than: (A) Any court; (B) Any federal, state, or local prosecutor;  (C)\
-      \ Any law enforcement agency;  (D) Any licensing agency with respect to an offense\
-      \ that may disqualify a person from obtaining that license; (E) Any licensed\
-      \ school, day care center, before or after school facility or other educational\
-      \ or child protection agency or facility; (F) Any government employer or nominating\
-      \ or tenure commission with respect to: (i) Employment of a judicial or quasi-judicial\
-      \ officer; or (ii) Employment at a senior-level, executive-grade government\
-      \ position. \r\n\r\n\t\u2022\tSealed Criminal Record\r\n\r\n\t\u2022\tWaiting\
-      \ period \u2013 In the context of sealing, this is the amount of time that a\
-      \ person must wait until he is eligible to seal his criminal record(s).  Please\
-      \ note that some criminal record sealing do not have a waiting period because\
-      \ either (i) it is not eligible for sealing; or (ii) it does not require a waiting\
-      \ period. \r\n\r\n\t\u2022\tYouth Rehabilitation Act \r\n\r\n\t\u2022\tPreponderance\
-      \ of the evidence \r\n\r\n\t\u2022\tClear and convincing evidence \r\n\r\n\t\
-      \u2022\tPost and Forfeit \u2013 The Metropolitan Police Department (MPD) or\
-      \ the Office of the Attorney General for the District of Columbia has resolved\
-      \ the incident that leads to your arrest using the Post and Forfeit procedure.\
-      \  The Post and Forfeit procedure allows a person charged with certain offenses\
-      \ to post and forfeit an amount as collateral (which otherwise would serve as\
-      \ security upon release to ensure the arrest\u2019s appearance at trial) and\
-      \ thereby obtain a full and final resolution of the offense.  The agreement\
-      \ to resolve the offense using the Post and Forfeit procedure is final\r\n\r\
-      \n\t\u2022\tMultiple Arrest Record \r\n\r\n Definitions from DC Code 16-801\
-      \ - http://dccode.org/simple/sections/16-801.html \r\n"
-    comments: 0
-    created_at: '2015-03-25T04:28:21Z'
-    issue: 'Add in definitions using jquery '
-    issue_url: https://github.com/codefordc/clean-slate/issues/23
-    labels:
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: d4c5f9, name: 'Priority #3', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-05-17T19:55:44Z'
   - assignee: null
     body: "\r\n-Add in a page on getting your arrest information (like this:http://www.expungemaryland.org/step2.\
       \ ). Options can easily be presented in vertical boxes as a way to improve design.\
@@ -1300,40 +1136,28 @@
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
     updated_at: '2015-05-17T19:56:36Z'
-  - assignee: null
-    body: '-Add in a disclaimer page like this: http://www.expungemaryland.org/disclaimer'
-    comments: 0
-    created_at: '2015-03-25T04:24:07Z'
-    issue: 'Quick project: add in a new disclaimer page'
-    issue_url: https://github.com/codefordc/clean-slate/issues/20
-    labels:
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: d4c5f9, name: 'Priority #3', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-05-17T14:12:09Z'
   homepage: http://codefordc.github.io/clean-slate
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 16015]
-  - [JavaScript, 8916]
-  - [CSS, 2479]
+  - [HTML, 19603]
+  - [JavaScript, 11208]
+  - [CSS, 2485]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 10
+  open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-05-28T02:57:54Z'
-  size: 9290
-  updated_at: '2015-05-19T23:29:24Z'
+  pushed_at: '2015-06-23T23:21:44Z'
+  size: 9171
+  updated_at: '2015-06-05T23:02:14Z'
   watchers: 10
 - accessibility:
     https://whatsamata.herokuapp.com/: {pa11y_id: 55137bb9259d710300a1f49c}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 21, 0, 7, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 31, 12, 9, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   civic_json:
     bornAt: Web Development Immersive 4, General Assembly
     categories:
@@ -1386,8 +1210,8 @@
 - accessibility:
     http://getdctrees.org: {pa11y_id: 5566926dd3b20c03006a6e69}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 53, 79, 26,
-    4, 2, 0, 1]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 77, 42, 5, 2, 0, 1,
+    0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
