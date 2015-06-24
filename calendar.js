@@ -1,44 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "created": 1427388953000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - \"closing\" - Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/221419443/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "221419443", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1435098600000, 
-            "updated": 1435100256000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 44
-        }, 
-        {
             "created": 1427388979000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -74,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427389020000, 
@@ -345,72 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/222475687/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "fnstflytjbfc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1435098600000, 
-            "updated": 1434763573000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1433879605000, 
-            "description": "<p>This month we'll start to venture through the weeds of geospatial data--the containers of geographic information. We'll explore the main data types and discover how they compare.\u00a0</p> <p>Some questions we'll cover: What are the main differences between vector and raster data? What are the use cases for different types of data? What's a shapefile and why does it have 4+ files within it? What's best for web maps? How do we convert it? Where can I find this data in the first place?\u00a0</p> <p>After this Maptime you'll be well on your way to become a vector detector or a raster master!\u00a0</p> <p>Beginners strongly encouraged! Please bring a laptop so we can get hands-on into the nitty gritty of geospatial data.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/223133893/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "223133893", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Geospatial Data Formats", 
-            "rsvp_limit": 55, 
-            "status": "upcoming", 
-            "time": 1435098600000, 
-            "updated": 1435068527000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 45
-        }, 
-        {
             "created": 1433434610000, 
             "description": "<p>Join us for the follow-up to our successful <a href=\"http://18f.github.io/hackathons/a11yhack/\">A11yhack</a> event, which we co-organized with the White House Office of Science and Technology Policy, 18F, Data.gov, and NIDRR back in March (more on that <a href=\"https://18f.gsa.gov/2015/04/07/icymi-a11yhack-accessibility-awareness-hackathon/\">here</a> and <a href=\"https://www.whitehouse.gov/blog/2015/04/16/improving-accessibility-government-websites\">here</a>).\u00a0</p> <p>Learn about the event (including our \"policy hack\" with accessibility experts), see demos of the great a11y projects built at the event, and hear from experts in accessibility policy about what it means to make tech \"accessible by design.\"</p> <p><br/><b>SCHEDULE (UPDATED):</b></p> <p><b>6:30 \u2013 Arrive/Mingle/Drinks</b></p> <p><b>6:45 \u2013 Welcome</b></p> <p><b>6:50 \u2013 Recap of #a11yhack event</b></p> <p><b>7:00 \u2013 Special Presentation - Sai Prasad, Intel</b></p> <p>\u2022 Demo of Professor Stephen Hawking's <a href=\"http://newsroom.intel.com/community/intel_newsroom/blog/2014/12/02/new-intel-created-system-offers-professor-stephen-hawking-ability-to-better-communicate-with-the-world\">new, open-source communications system</a>, developed by Intel</p> <p><b>7:15 -\u00a0Demos from the hackathon</b></p> <p>\u2022\u00a0508 Playbook\u00a0</p> <p>\u2022 Video CAPTCHA\u00a0</p> <p><b>7:30 \u2013 \"Accessibility by Design\" Panel</b></p> <p>\u2022 Alok Doshi, Technology and Innovation Advisor, Office of Strategic Planning and Policy Analysis, Federal Communications Commission</p> <p><br/>\u2022 Jonathan Lazar, \u00a0Director, Undergraduate Program in Information Systems, Towson University</p> <p>\u2022\u00a0Anil Lewis, \u200eExecutive Director, Jernigan Institute,\u00a0National Federation of the Blind</p> <p>\u2022\u00a0Bob Williams, Senior Advisor, Social Security Administration\u00a0</p> <p><br/>\u2022\u00a0Jameson Dempsey, Kelley Drye &amp; Warren LLP (moderator)\u00a0</p> <p><br/><b>8:30 \u2013 Fin</b></p>", 
             "duration": 7200000, 
@@ -486,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1434052536000, 
@@ -564,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 275
+            "yes_rsvp_count": 276
         }, 
         {
             "created": 1433817473000, 
@@ -642,7 +538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1434912206000, 
@@ -680,7 +576,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1427088126000, 
@@ -746,7 +642,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1432306565000, 
@@ -786,7 +682,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 318
+            "yes_rsvp_count": 319
         }, 
         {
             "created": 1435070774000, 
@@ -892,7 +788,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1434912955000, 
@@ -959,7 +855,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1417881835000, 
@@ -1180,7 +1076,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -1367,7 +1263,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1434582255000, 
@@ -1395,6 +1291,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1435121795000, 
+            "description": "<p>Numerous platforms exist to make machine learning more approachable and easier to use. This talk will focus on Microsoft's solution. Let's add something new to our data scientist tool belt. Agenda</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Azure Machine Learning</p> <p>9:00 PM -- Post event drinks at <a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p><b>Location</b></p> <p>Join us at the new home of Ad.com! (The Design Group still has their signage on the building. )</p> <p>3700 O'Donnell Street</p> <p>Baltimore, MD \u00a021224</p> <p><b>Parking</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><b><br/></b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p> <p><b>Talks</b></p> <p><b>Azure Machine Learning</b></p> <p>Azure ML allows developers to build predictive analytics models. In this talk we will discuss the key parts of the service \u2013 ML Studio, library of machine learning algorithms, extensibility mechanisms and machine learning web service.<br/>We will also walk through a completed example to bring together these concepts.</p> <p><b>Speaker</b></p> <p><a href=\"http://twitter.com/vlele\">Vishwas Lele </a>serves as CTO at Applied Information Sciences, Inc. Mr Lele is responsible for assisting organizations in envisoning, designing and implementing enterprise solutions related to\u00a0cloud and mobility. Mr Lele brings close to 25 years of experience and thought leadership to his position, and has been with AIS for 20 years. A noted industry speaker and author, Mr. Lele serves as the Microsoft Regional Director for Washington D.C. and is currently a Windows Azure MVP. You can read blog articles written by Vishwas through links on\u00a0his <a href=\"http://about.me/vlele\">About.me </a>page.</p> <p><b>Companies</b></p> <p><a href=\"http://www.appliedis.com\">Applied Information Sciences </a>(AIS) is a privately held, technical services company headquartered in Reston, Virginia with offices in Maryland, North Carolina, Ohio, Texas and India. \u00a0AIS employs more than 400 people and realizes more than $60 million in annual revenue. AIS was founded in 1982 and has enjoyed steady growth under fiscally responsible management. \u00a0Today the AIS client base is roughly half government and half commercial clients. \u00a0We seek this balance as commercial firms are more likely to embrace innovation which fuels AIS differentiation. \u00a0Government clients are becoming more innovative as they seek to reduce their costs.</p> <p><b>Post Event Drinks</b></p> <p><a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p>1028 South Conkling Street, Baltimore</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/223460148/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "223460148", 
+            "maybe_rsvp_count": 0, 
+            "name": "Azure Machine Learning", 
+            "rsvp_limit": 125, 
+            "status": "upcoming", 
+            "time": 1437604200000, 
+            "updated": 1435122667000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3700 O'Donnell Street ", 
+                "city": "Baltimore", 
+                "country": "us", 
+                "id": 23668500, 
+                "lat": 39.280602000000002, 
+                "lon": -76.565917999999996, 
+                "name": "AOL / Advertising.com", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1430322325000, 
@@ -1430,7 +1365,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1427088126000, 
@@ -1513,6 +1448,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1427088126000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rlzgglytlbfb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rlzgglytlbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1438641000000, 
+            "updated": 1432846440000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 

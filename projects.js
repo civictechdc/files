@@ -1799,12 +1799,12 @@ projects([
             2, 
             0, 
             0, 
-            0, 
-            4, 
-            0, 
-            0, 
             2, 
-            1, 
+            2, 
+            0, 
+            0, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -2551,9 +2551,9 @@ projects([
             0, 
             0, 
             0, 
-            40, 
-            51, 
-            5, 
+            48, 
+            46, 
+            2, 
             1, 
             0, 
             0, 
@@ -3357,16 +3357,16 @@ projects([
                 "name": "jrleszcz"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
+                "contributions": 31, 
+                "link": "https://github.com/brianek", 
+                "name": "brianek"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1573454?v=3", 
                 "contributions": 29, 
                 "link": "https://github.com/RyanGladstone", 
                 "name": "RyanGladstone"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 23, 
-                "link": "https://github.com/brianek", 
-                "name": "brianek"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1418949?v=3", 
@@ -3447,7 +3447,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                19603
+                29717
             ], 
             [
                 "JavaScript", 
@@ -3455,7 +3455,7 @@ projects([
             ], 
             [
                 "CSS", 
-                2485
+                2582
             ]
         ], 
         "license": {
@@ -3466,14 +3466,14 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 7, 
+        "open_issues": 9, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-06-23T23:21:44Z", 
+        "pushed_at": "2015-06-24T11:21:19Z", 
         "size": 9171, 
         "updated_at": "2015-06-05T23:02:14Z", 
         "watchers": 10

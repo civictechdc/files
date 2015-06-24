@@ -601,7 +601,7 @@
   watchers: 3
 - accessibility:
     http://codefordc.github.io/ERDA/: {pa11y_id: 54fbac7ea824900300a684b2}
-  activity: [2, 0, 0, 0, 4, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [2, 0, 0, 2, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -830,7 +830,7 @@
   watchers: 2
 - accessibility:
     http://electionmap.wamu.org: {pa11y_id: 54fbacb0a824900300a684b8}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 51, 5, 1, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 46, 2, 1, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1095,10 +1095,10 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 86,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 31,
+    link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 23,
-    link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1418949?v=3', contributions: 17,
     link: 'https://github.com/cweems', name: cweems}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 11,
@@ -1140,16 +1140,16 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 19603]
+  - [HTML, 29717]
   - [JavaScript, 11208]
-  - [CSS, 2485]
+  - [CSS, 2582]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 7
+  open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-06-23T23:21:44Z'
+  pushed_at: '2015-06-24T11:21:19Z'
   size: 9171
   updated_at: '2015-06-05T23:02:14Z'
   watchers: 10
