@@ -312,98 +312,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1433434610000
-  description: "<p>Join us for the follow-up to our successful <a href=\"http://18f.github.io/hackathons/a11yhack/\"\
-    >A11yhack</a> event, which we co-organized with the White House Office of Science\
-    \ and Technology Policy, 18F, Data.gov, and NIDRR back in March (more on that\
-    \ <a href=\"https://18f.gsa.gov/2015/04/07/icymi-a11yhack-accessibility-awareness-hackathon/\"\
-    >here</a> and <a href=\"https://www.whitehouse.gov/blog/2015/04/16/improving-accessibility-government-websites\"\
-    >here</a>).\_</p> <p>Learn about the event (including our \"policy hack\" with\
-    \ accessibility experts), see demos of the great a11y projects built at the event,\
-    \ and hear from experts in accessibility policy about what it means to make tech\
-    \ \"accessible by design.\"</p> <p><br/><b>SCHEDULE (UPDATED):</b></p> <p><b>6:30\
-    \ \u2013 Arrive/Mingle/Drinks</b></p> <p><b>6:45 \u2013 Welcome</b></p> <p><b>6:50\
-    \ \u2013 Recap of #a11yhack event</b></p> <p><b>7:00 \u2013 Special Presentation\
-    \ - Sai Prasad, Intel</b></p> <p>\u2022 Demo of Professor Stephen Hawking's <a\
-    \ href=\"http://newsroom.intel.com/community/intel_newsroom/blog/2014/12/02/new-intel-created-system-offers-professor-stephen-hawking-ability-to-better-communicate-with-the-world\"\
-    >new, open-source communications system</a>, developed by Intel</p> <p><b>7:15\
-    \ -\_Demos from the hackathon</b></p> <p>\u2022\_508 Playbook\_</p> <p>\u2022\
-    \ Video CAPTCHA\_</p> <p><b>7:30 \u2013 \"Accessibility by Design\" Panel</b></p>\
-    \ <p>\u2022 Alok Doshi, Technology and Innovation Advisor, Office of Strategic\
-    \ Planning and Policy Analysis, Federal Communications Commission</p> <p><br/>\u2022\
-    \ Jonathan Lazar, \_Director, Undergraduate Program in Information Systems, Towson\
-    \ University</p> <p>\u2022\_Anil Lewis, \u200EExecutive Director, Jernigan Institute,\_\
-    National Federation of the Blind</p> <p>\u2022\_Bob Williams, Senior Advisor,\
-    \ Social Security Administration\_</p> <p><br/>\u2022\_Jameson Dempsey, Kelley\
-    \ Drye &amp; Warren LLP (moderator)\_</p> <p><br/><b>8:30 \u2013 Fin</b></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/DCLegalHackers/events/223015886/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '223015886'
-  maybe_rsvp_count: 0
-  name: '#A11yhack Follow-Up: Hacking Accessibility'
-  status: upcoming
-  time: 1435185000000
-  updated: 1435004307000
-  utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 32
-- created: 1431798596000
-  description: "<p>Please join us on June 24 to learn how data scientists can speed\
-    \ data processing, development, and analysis on Hadoop using <a href=\"http://cask.co/\"\
-    >Cask Data App Platform</a>.</p> <p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking\
-    \ &amp; Food\_</p> <p>6:55 PM -- Greetings \_&amp; Annoucements</p> <p>7:00 PM\
-    \ --<i>Accelerating Hadoop Projects with Cask Data App Platform -- Dave Finnegan</i></p>\
-    \ <p>8:30 PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p>Johns\
-    \ Hopkins University Applied Physics Laboratory (APL)<br/>Building 200 Room E100<br/>11100\
-    \ Johns Hopkins Road<br/>Laurel, MD 20723</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\"\
-    \ /></p> <p><b>Directions</b></p> <p>After the traffic light at Montpelier Road\
-    \ and Johns Hopkins Road, move into the Left-most lane on Johns Hopkins Rd. You\
-    \ will first pass the pond on your right and then see our 5-story Bldg 200 on\
-    \ your left.</p> <p>Turn Left either just at Bldg 200 or at the traffic light\
-    \ just beyond it (where the tree-lined entrance road to the old campus is to the\
-    \ right). Either turn will take you into a multi-linked parking lot for Bldg 200.</p>\
-    \ <p>Park in any unmarked space.</p> <p>The entrance lobby to Bldg 200 is on the\
-    \ South side (opposite from Johns Hopkins Road), under the glassed-in curved windows\
-    \ of the 2nd floor projection.</p> <p><b>Talks</b></p> <p>Dave Finnegan will share\
-    \ ideas and use-cases behind the designing and building of CDAP, its architecture,\
-    \ core concepts, and building blocks, and demonstrate the platform. He will also\
-    \ talk about specific customer use-cases and how they have benefited by adopting\
-    \ this open source technology.</p> <p><b>Speakers</b></p> <p>Dave Finnegan is\
-    \ Director of Sales Engineering at Cask where he is responsible for helping customers\
-    \ realize the full value of the Cask Data Application Platform.</p> <p>Dave has\
-    \ a long history with high tech startups, most recently with Datastax and MongoDB\
-    \ where he played a critical role in the growth of both companies.\_</p> <p>Now\
-    \ at Cask Data, he's excited about bringing the power of the Hadoop ecosystem\
-    \ to domain experts who can create valuable solutions without needing to learn\
-    \ the myriad of technologies and APIs presented by the Hadoop tool stack.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-MD/events/222576410/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '222576410'
-  maybe_rsvp_count: 0
-  name: Accelerating Hadoop Projects with the Cask Data Application Platform
-  rsvp_limit: 200
-  status: upcoming
-  time: 1435185000000
-  updated: 1435103249000
-  utc_offset: -14400000
-  venue: {address_1: 11100 Johns Hopkins Road, city: Laurel, country: us, id: 11286692,
-    lat: 39.164036000000003, lon: -76.896636999999998, name: ' Johns Hopkins University
-      Applied Physics Laboratory (APL) - Building 200 Room E100', repinned: false,
-    state: MD, zip: '20723'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 86
 - created: 1434052536000
   description: "<p><i>This week we'll be linking up with the Code for Progress hacknight\
     \ at Bread for the City! You can read more about the origins hacknight\_<a href=\"\
@@ -446,7 +354,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 23
 - created: 1433431384000
   description: "<p>Come learn about performing machine learning in R.\_ Both the caret\
     \ and h2o packages will be discussed along with different methods of evaluation.\_\
@@ -481,7 +389,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 281
+  yes_rsvp_count: 278
 - created: 1433817473000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -545,7 +453,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1434912206000
   description: <p>In preparation for the Algorithms and Interview Prep meetup on June
     29th, we are going to host a 30-60min review of binary search trees via Google
@@ -569,7 +477,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 34
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -616,7 +524,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 24
 - created: 1434910122000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -648,7 +556,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 31
 - created: 1432306565000
   description: "<p>For our second June Data Science DC Meetup (making up for a skipped\
     \ May!), we're very pleased to have a presentation by Prof. Wei-Yin Loh from the\
@@ -712,7 +620,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 321
+  yes_rsvp_count: 320
 - created: 1435070774000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\"\
@@ -785,7 +693,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1433793230000
   description: "<p>Cryptography is, as we speak, at the center of both domestic and\
     \ international debates focusing on privacy and the role of nation states. Discussions\
@@ -824,7 +732,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1434912955000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -966,7 +874,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1140,7 +1048,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1509,7 +1417,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 43
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
