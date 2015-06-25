@@ -342,7 +342,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1431798596000, 
@@ -382,7 +382,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1434052536000, 
@@ -420,7 +420,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1433431384000, 
@@ -460,7 +460,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 280
+            "yes_rsvp_count": 281
         }, 
         {
             "created": 1433817473000, 
@@ -576,7 +576,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1427088126000, 
@@ -599,11 +599,22 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1435617000000, 
-            "updated": 1432846440000, 
+            "updated": 1435170614000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": " 1121 14th St Nw, Washington, DC", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23875509, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Hire Strategy (suite 600 6th fl.)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1434910122000, 
@@ -682,7 +693,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 322
+            "yes_rsvp_count": 321
         }, 
         {
             "created": 1435070774000, 
@@ -855,7 +866,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1417881835000, 
@@ -894,7 +905,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 154
+            "yes_rsvp_count": 156
         }, 
         {
             "created": 1326383071000, 
@@ -1294,7 +1305,7 @@
         }, 
         {
             "created": 1435121795000, 
-            "description": "<p>Numerous platforms exist to make machine learning more approachable and easier to use. This talk will focus on Microsoft's solution. Let's add something new to our data scientist tool belt. Agenda</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Azure Machine Learning</p> <p>9:00 PM -- Post event drinks at <a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p><b>Location</b></p> <p>Join us at the new home of Ad.com! (The Design Group still has their signage on the building. )</p> <p>3700 O'Donnell Street</p> <p>Baltimore, MD \u00a021224</p> <p><b>Parking</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><b><br/></b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p> <p><b>Talks</b></p> <p><b>Azure Machine Learning</b></p> <p>Azure ML allows developers to build predictive analytics models. In this talk we will discuss the key parts of the service \u2013 ML Studio, library of machine learning algorithms, extensibility mechanisms and machine learning web service.<br/>We will also walk through a completed example to bring together these concepts.</p> <p><b>Speaker</b></p> <p><a href=\"http://twitter.com/vlele\">Vishwas Lele </a>serves as CTO at Applied Information Sciences, Inc. Mr Lele is responsible for assisting organizations in envisoning, designing and implementing enterprise solutions related to\u00a0cloud and mobility. Mr Lele brings close to 25 years of experience and thought leadership to his position, and has been with AIS for 20 years. A noted industry speaker and author, Mr. Lele serves as the Microsoft Regional Director for Washington D.C. and is currently a Windows Azure MVP. You can read blog articles written by Vishwas through links on\u00a0his <a href=\"http://about.me/vlele\">About.me </a>page.</p> <p><b>Companies</b></p> <p><a href=\"http://www.appliedis.com\">Applied Information Sciences </a>(AIS) is a privately held, technical services company headquartered in Reston, Virginia with offices in Maryland, North Carolina, Ohio, Texas and India. \u00a0AIS employs more than 400 people and realizes more than $60 million in annual revenue. AIS was founded in 1982 and has enjoyed steady growth under fiscally responsible management. \u00a0Today the AIS client base is roughly half government and half commercial clients. \u00a0We seek this balance as commercial firms are more likely to embrace innovation which fuels AIS differentiation. \u00a0Government clients are becoming more innovative as they seek to reduce their costs.</p> <p><b>Post Event Drinks</b></p> <p><a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p>1028 South Conkling Street, Baltimore</p>", 
+            "description": "<p>Numerous platforms exist to make machine learning more approachable and easier to use. This talk will focus on Microsoft's solution. Let's add something new to our data scientist tool belt.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Azure Machine Learning</p> <p>9:00 PM -- Post event drinks at <a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p><b>Location</b></p> <p>Join us at the new home of Ad.com! (The Design Group still has their signage on the building. )</p> <p>3700 O'Donnell Street</p> <p>Baltimore, MD \u00a021224</p> <p><b>Parking</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><b><br/></b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p> <p><b>Talks</b></p> <p><b>Azure Machine Learning</b></p> <p>Azure ML allows developers to build predictive analytics models. In this talk we will discuss the key parts of the service \u2013 ML Studio, library of machine learning algorithms, extensibility mechanisms and machine learning web service.<br/>We will also walk through a completed example to bring together these concepts.</p> <p><b>Speaker</b></p> <p><a href=\"http://twitter.com/vlele\">Vishwas Lele </a>serves as CTO at Applied Information Sciences, Inc. Mr Lele is responsible for assisting organizations in envisoning, designing and implementing enterprise solutions related to\u00a0cloud and mobility. Mr Lele brings close to 25 years of experience and thought leadership to his position, and has been with AIS for 20 years. A noted industry speaker and author, Mr. Lele serves as the Microsoft Regional Director for Washington D.C. and is currently a Windows Azure MVP. You can read blog articles written by Vishwas through links on\u00a0his <a href=\"http://about.me/vlele\">About.me </a>page.</p> <p><b>Companies</b></p> <p><a href=\"http://www.appliedis.com\">Applied Information Sciences </a>(AIS) is a privately held, technical services company headquartered in Reston, Virginia with offices in Maryland, North Carolina, Ohio, Texas and India. \u00a0AIS employs more than 400 people and realizes more than $60 million in annual revenue. AIS was founded in 1982 and has enjoyed steady growth under fiscally responsible management. \u00a0Today the AIS client base is roughly half government and half commercial clients. \u00a0We seek this balance as commercial firms are more likely to embrace innovation which fuels AIS differentiation. \u00a0Government clients are becoming more innovative as they seek to reduce their costs.</p> <p><b>Post Event Drinks</b></p> <p><a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p>1028 South Conkling Street, Baltimore</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/223460148/", 
             "group": {
@@ -1314,7 +1325,7 @@
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1437604200000, 
-            "updated": 1435122667000, 
+            "updated": 1435180404000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "3700 O'Donnell Street ", 
@@ -1329,7 +1340,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1430322325000, 

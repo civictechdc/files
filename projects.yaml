@@ -1,8 +1,8 @@
 - accessibility:
     http://codefordc.github.io/districthousing/: {pa11y_id: 54fbac58a824900300a684a8}
-  activity: [37, 5, 17, 4, 1, 0, 1, 9, 0, 9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19,
-    27, 45, 8, 1, 9, 15, 7, 26, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3,
-    0, 4, 0, 5, 0, 6, 2]
+  activity: [30, 3, 17, 4, 1, 0, 1, 9, 5, 4, 3, 0, 6, 3, 0, 8, 0, 7, 12, 27, 37, 13,
+    32, 38, 7, 1, 10, 20, 1, 26, 20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6,
+    3, 2, 2, 1, 4, 0, 8, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -101,8 +101,8 @@
   watchers: 22
 - accessibility:
     http://ancfinder.org/: {pa11y_id: 54fbac5fa824900300a684aa}
-  activity: [0, 6, 6, 0, 6, 3, 5, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1,
-    0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3,
+  activity: [4, 2, 6, 3, 3, 4, 4, 5, 1, 1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1,
+    0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1, 1, 3, 0, 8, 0, 3, 1, 1, 6, 0, 0, 2, 1,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -285,9 +285,9 @@
   watchers: 18
 - accessibility:
     http://www.codefordc.org: {pa11y_id: 54fbac6da824900300a684ae}
-  activity: [0, 0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 9, 11, 8, 2, 10, 11, 2, 10, 13, 8, 10,
-    0, 1, 9, 4, 0, 2, 0, 10, 0, 0, 6, 1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 1, 0, 0,
-    0, 0, 0, 0]
+  activity: [0, 0, 0, 0, 6, 0, 3, 6, 5, 2, 2, 10, 12, 4, 2, 15, 6, 2, 10, 13, 14,
+    4, 0, 1, 9, 4, 0, 2, 1, 9, 0, 0, 6, 1, 7, 8, 7, 1, 2, 9, 1, 1, 2, 2, 3, 1, 0,
+    0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -373,8 +373,8 @@
   watchers: 17
 - accessibility:
     http://ajschumacher.github.io/dc_mayor_schedule/: {pa11y_id: 54fbac74a824900300a684b0}
-  activity: [5, 5, 4, 5, 9, 5, 6, 4, 6, 4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4,
-    7, 6, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [6, 4, 5, 5, 8, 6, 6, 3, 7, 3, 5, 5, 7, 6, 6, 5, 7, 9, 6, 6, 6, 6, 4,
+    7, 6, 5, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -482,8 +482,8 @@
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
 - accessibility: {}
-  activity: [1, 0, 0, 0, 7, 2, 6, 2, 6, 7, 8, 13, 0, 10, 0, 7, 1, 0, 0, 1, 0, 1, 0,
-    0, 3, 0, 0, 8, 0, 0, 0, 0, 3, 7, 21, 0, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+  activity: [1, 0, 0, 0, 9, 0, 8, 0, 10, 7, 8, 9, 0, 10, 4, 4, 0, 0, 1, 0, 0, 1, 0,
+    2, 1, 0, 8, 0, 0, 0, 0, 0, 10, 9, 12, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -541,7 +541,7 @@
 - accessibility:
     http://dctreemap.org/dc/map: {pa11y_id: 5537141e338ab50300229fb9}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -672,7 +672,7 @@
   watchers: 0
 - accessibility:
     http://codefordc.github.io/dc-campaign-finance-watch/: {pa11y_id: 54fbac91a824900300a684b4}
-  activity: [2, 5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16, 10, 4, 14, 0, 13, 0, 2,
+  activity: [2, 16, 2, 1, 2, 0, 0, 41, 2, 7, 0, 18, 16, 12, 10, 4, 14, 6, 7, 0, 2,
     0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   civic_json: null
@@ -913,7 +913,7 @@
 - accessibility:
     https://emanuelfeld.github.io/geocoder: {pa11y_id: 55668f22d3b20c03006a6e65}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 63, 3, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: ''
@@ -1066,8 +1066,8 @@
 - accessibility:
     http://codefordc.github.io/clean-slate: {pa11y_id: 55669248d3b20c03006a6e67}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 9, 5, 0, 8, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0, 20, 35, 36, 0,
-    67, 1, 1, 4]
+    0, 0, 0, 0, 0, 13, 1, 0, 8, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 1, 35, 19, 36, 2,
+    66, 0, 1, 7]
   civic_json:
     bornAt: Reentry Hackathon
     categories:
@@ -1093,9 +1093,9 @@
     thumbnailUrl: ''
     type: Web app
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 86,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 90,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 31,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 32,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1146,10 +1146,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 9
+  open_issues: 8
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-06-24T11:21:19Z'
+  pushed_at: '2015-06-24T13:16:07Z'
   size: 9171
   updated_at: '2015-06-05T23:02:14Z'
   watchers: 10

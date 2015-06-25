@@ -353,7 +353,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1431798596000
   description: "<p>Please join us on June 24 to learn how data scientists can speed\
     \ data processing, development, and analysis on Hadoop using <a href=\"http://cask.co/\"\
@@ -403,7 +403,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1434052536000
   description: "<p><i>This week we'll be linking up with the Code for Progress hacknight\
     \ at Bread for the City! You can read more about the origins hacknight\_<a href=\"\
@@ -446,7 +446,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 24
 - created: 1433431384000
   description: "<p>Come learn about performing machine learning in R.\_ Both the caret\
     \ and h2o packages will be discussed along with different methods of evaluation.\_\
@@ -481,7 +481,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 280
+  yes_rsvp_count: 281
 - created: 1433817473000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -569,7 +569,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -609,11 +609,14 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1435617000000
-  updated: 1432846440000
+  updated: 1435170614000
   utc_offset: -14400000
+  venue: {address_1: ' 1121 14th St Nw, Washington, DC', city: Washington, country: us,
+    id: 23875509, lat: 0, lon: 0, name: Hire Strategy (suite 600 6th fl.), repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 20
 - created: 1434910122000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -709,7 +712,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 322
+  yes_rsvp_count: 321
 - created: 1435070774000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\"\
@@ -899,7 +902,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>This talk serves as an extremely\
     \ basic introduction to retrieving data from Hadoop, with a special focus on HBase\
@@ -941,7 +944,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 154
+  yes_rsvp_count: 156
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1451,8 +1454,8 @@ other:
 - created: 1435121795000
   description: "<p>Numerous platforms exist to make machine learning more approachable\
     \ and easier to use. This talk will focus on Microsoft's solution. Let's add something\
-    \ new to our data scientist tool belt. Agenda</p> <p><b>Agenda</b></p> <p>6:30\
-    \ PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00\
+    \ new to our data scientist tool belt.</p> <p><b>Agenda</b></p> <p>6:30 PM --\
+    \ Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00\
     \ PM -- Azure Machine Learning</p> <p>9:00 PM -- Post event drinks at <a href=\"\
     http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p><b>Location</b></p>\
     \ <p>Join us at the new home of Ad.com! (The Design Group still has their signage\
@@ -1499,14 +1502,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1437604200000
-  updated: 1435122667000
+  updated: 1435180404000
   utc_offset: -14400000
   venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
     lat: 39.280602000000002, lon: -76.565917999999996, name: AOL / Advertising.com,
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
