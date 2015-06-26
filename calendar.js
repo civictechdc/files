@@ -307,84 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1434052536000, 
-            "description": "<p><i>This week we'll be linking up with the Code for Progress hacknight at Bread for the City! You can read more about the origins hacknight\u00a0<a href=\"http://www.codeforprogress.org/app/hacknight/\">here</a>. We'll still be following our study group schedule outlined below.\u00a0</i></p> <p><b>This event is intended to be exclusively open for women; we are trans* friendly.</b></p> <p><br/>Come join our weekly study group where women come together and help each other learn and understand the Python programming language. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><br/><b>Laptops</b></p> <p>In order to maximize your benefits from WWC Python Night, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding with us!</p> <p><b>Meetup Agenda Every study group will have the following format:</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please <a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/python\">visit our Github page</a></p> <p>Beginners can look to our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/python/first_timers_guide.md\">Getting Started Guide </a></p> <p><br/><b>Building Access</b></p> <p>In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223183235/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "223183235", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Study Group", 
-            "status": "upcoming", 
-            "time": 1435271400000, 
-            "updated": 1434059773000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1525 7th Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23895622, 
-                "lat": 38.909976999999998, 
-                "lon": -77.021454000000006, 
-                "name": "Bread for the City", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
-            "created": 1433431384000, 
-            "description": "<p>Come learn about performing machine learning in R.\u00a0 Both the caret and h2o packages will be discussed along with different methods of evaluation.\u00a0 Basic implementations of popular machine learning algorithms in R will be explained, including Random Forests, K-nearest neighbors, Support Vector Machine and Neural Networks. This is your chance to see how easy it is to dive into the world of machine learning.</p> <p>Eric Koziol is currently a data scientist for KPMG where he performs advanced predictive modeling and visualizations in the government and infrastructure sectors.\u00a0 He is formerly a forensic structural engineer and holds a Professional Engineering license in Illinois.\u00a0 He holds both a Bachelors and Masters degree in Civil Engineering from the University of Illinois at Urbana-Champaign.\u00a0 Eric also enjoys many outdoor activities include rock climbing, snowboarding, mountain biking and ultimate frisbee.</p> <p>Agenda:</p> <p>6:30 - 7:00 \u00a0Food, drinks and schmoozing<br/>7:00 - 7:10 \u00a0 Intros and announcements<br/>7:10 - \u00a08:15ish Presentation, Q&amp;A<br/>8:30 off to Tonic for Data Drinks</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/223014826/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "We're back at Funger this time!", 
-            "id": "223014826", 
-            "maybe_rsvp_count": 0, 
-            "name": "Machine Learning in R", 
-            "status": "upcoming", 
-            "time": 1435271400000, 
-            "updated": 1433431384000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 268
-        }, 
-        {
             "created": 1433817473000, 
             "description": "<p>As discussed...<br/>Let's meet at MLK library to continue pushing the ball forward. (If you cannot make it and would like to join us virtually, please post in comments and I will if we can do a group chat.)</p> <p><b>Things to do (&amp; more):<br/></b>- We will go over the research gathered to provide a site that the users want. (Hopefully our assumptions are correct.)\u00a0</p> <p>- finalize and send out surveys? \u00a0</p> <p>- We will go over the question of Bootstramp vs Bourbon<br/>- We will go over Heroku vs AWS<br/>- Figure out next steps / propose an MVP app together</p> <p><b>How to find the group?\u00a0<br/></b>MLK Library in DC, Digital Commons Room 2\u00a0</p> <p>\n\n<b>RSVPs</b>\u00a0<br/>There is a limited amount of space. Please only RSVP if you you truly intend on attending. \u00a0(FYI -- we need to get a larger space, that might be possible for now we have limited space.)</p>", 
             "event_url": "http://www.meetup.com/dc-pyladies/events/223118759/", 
@@ -498,7 +420,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1427088126000, 
@@ -536,7 +458,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1434910122000, 
@@ -615,7 +537,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 329
+            "yes_rsvp_count": 331
         }, 
         {
             "created": 1435070774000, 
@@ -683,7 +605,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1433793230000, 
@@ -721,7 +643,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1434912955000, 
@@ -748,7 +670,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -827,7 +749,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 158
+            "yes_rsvp_count": 163
         }, 
         {
             "created": 1326383071000, 
@@ -867,7 +789,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1427088126000, 
@@ -905,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1424968249000, 
@@ -1410,6 +1332,33 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1424968249000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytlbgb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "fnstflytlbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1438727400000, 
+            "updated": 1433103630000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -1446,7 +1395,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 

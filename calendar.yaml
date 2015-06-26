@@ -312,84 +312,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1434052536000
-  description: "<p><i>This week we'll be linking up with the Code for Progress hacknight\
-    \ at Bread for the City! You can read more about the origins hacknight\_<a href=\"\
-    http://www.codeforprogress.org/app/hacknight/\">here</a>. We'll still be following\
-    \ our study group schedule outlined below.\_</i></p> <p><b>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</b></p> <p><br/>Come\
-    \ join our weekly study group where women come together and help each other learn\
-    \ and understand the Python programming language. We welcome devs of all levels\
-    \ and encourage those with more experience to help out those that are just starting.\
-    \ There's always at least one mentor or leader present to help you with best practices\
-    \ or to guide you through if you are stuck with a nasty problem!\_</p> <p><br/><b>Laptops</b></p>\
-    \ <p>In order to maximize your benefits from WWC Python Night, please bring your\
-    \ laptop. Extra computers will not be available at the event. Even if you have\
-    \ never coded before, you will be coding with us!</p> <p><b>Meetup Agenda Every\
-    \ study group will have the following format:</b></p> <p>\u2022 6:30pm - Setup</p>\
-    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm -\
-    \ Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or\
-    \ talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p>\
-    \ <p>To learn more about us please <a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources/python\"\
-    >visit our Github page</a></p> <p>Beginners can look to our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/python/first_timers_guide.md\"\
-    >Getting Started Guide </a></p> <p><br/><b>Building Access</b></p> <p>In case\
-    \ the location requires access to the building, contact the group lead if information\
-    \ is provided or drop a comment on the Meetup page. We'll come and get you.</p>\
-    \ <p><b>Welcome</b></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223183235/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '223183235'
-  maybe_rsvp_count: 0
-  name: Python Study Group
-  status: upcoming
-  time: 1435271400000
-  updated: 1434059773000
-  utc_offset: -14400000
-  venue: {address_1: 1525 7th Street NW, city: Washington, country: us, id: 23895622,
-    lat: 38.909976999999998, lon: -77.021454000000006, name: Bread for the City, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 21
-- created: 1433431384000
-  description: "<p>Come learn about performing machine learning in R.\_ Both the caret\
-    \ and h2o packages will be discussed along with different methods of evaluation.\_\
-    \ Basic implementations of popular machine learning algorithms in R will be explained,\
-    \ including Random Forests, K-nearest neighbors, Support Vector Machine and Neural\
-    \ Networks. This is your chance to see how easy it is to dive into the world of\
-    \ machine learning.</p> <p>Eric Koziol is currently a data scientist for KPMG\
-    \ where he performs advanced predictive modeling and visualizations in the government\
-    \ and infrastructure sectors.\_ He is formerly a forensic structural engineer\
-    \ and holds a Professional Engineering license in Illinois.\_ He holds both a\
-    \ Bachelors and Masters degree in Civil Engineering from the University of Illinois\
-    \ at Urbana-Champaign.\_ Eric also enjoys many outdoor activities include rock\
-    \ climbing, snowboarding, mountain biking and ultimate frisbee.</p> <p>Agenda:</p>\
-    \ <p>6:30 - 7:00 \_Food, drinks and schmoozing<br/>7:00 - 7:10 \_ Intros and announcements<br/>7:10\
-    \ - \_8:15ish Presentation, Q&amp;A<br/>8:30 off to Tonic for Data Drinks</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/stats-prog-dc/events/223014826/
-  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
-    who: dc-hackeRs}
-  headcount: 0
-  how_to_find_us: We're back at Funger this time!
-  id: '223014826'
-  maybe_rsvp_count: 0
-  name: Machine Learning in R
-  status: upcoming
-  time: 1435271400000
-  updated: 1433431384000
-  utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 268
 - created: 1433817473000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -477,7 +399,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 39
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -524,7 +446,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1434910122000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -620,7 +542,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 329
+  yes_rsvp_count: 331
 - created: 1435070774000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\"\
@@ -693,7 +615,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1433793230000
   description: "<p>Cryptography is, as we speak, at the center of both domestic and\
     \ international debates focusing on privacy and the role of nation states. Discussions\
@@ -732,7 +654,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1434912955000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -759,7 +681,7 @@ other:
   updated: 1434913198000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 7
   yes_rsvp_count: 30
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -852,7 +774,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 158
+  yes_rsvp_count: 163
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -874,7 +796,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 21
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -921,7 +843,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1659,6 +1581,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1424968249000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/fnstflytlbgb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: fnstflytlbgb
+  maybe_rsvp_count: 0
+  name: Android Hack Night
+  rsvp_limit: 30
+  status: upcoming
+  time: 1438727400000
+  updated: 1433103630000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1680,7 +1643,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
