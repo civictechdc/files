@@ -307,45 +307,6 @@
     ], 
     "other": [
         {
-            "created": 1433817473000, 
-            "description": "<p>As discussed...<br/>Let's meet at MLK library to continue pushing the ball forward. (If you cannot make it and would like to join us virtually, please post in comments and I will if we can do a group chat.)</p> <p><b>Things to do (&amp; more):<br/></b>- We will go over the research gathered to provide a site that the users want. (Hopefully our assumptions are correct.)\u00a0</p> <p>- finalize and send out surveys? \u00a0</p> <p>- We will go over the question of Bootstramp vs Bourbon<br/>- We will go over Heroku vs AWS<br/>- Figure out next steps / propose an MVP app together</p> <p><b>How to find the group?\u00a0<br/></b>MLK Library in DC, Digital Commons Room 2\u00a0</p> <p>\n\n<b>RSVPs</b>\u00a0<br/>There is a limited amount of space. Please only RSVP if you you truly intend on attending. \u00a0(FYI -- we need to get a larger space, that might be possible for now we have limited space.)</p>", 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/223118759/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "223118759", 
-            "maybe_rsvp_count": 0, 
-            "name": "Diversity in Tech Project: Planning session", 
-            "rsvp_limit": 12, 
-            "status": "upcoming", 
-            "time": 1435413600000, 
-            "updated": 1434812530000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 12
-        }, 
-        {
             "created": 1431096160000, 
             "description": "<p>Want to learn the basics of Python? Here's your chance to do so without leaving the house.</p> <p>This is a class for absolutely beginners, so don't worry about not having enough experience.</p> <p>We will be covering:</p> <p>\u2022\u00a0What is Python, and what can it do?</p> <p>\u2022\u00a0Saving data</p> <p>\u2022\u00a0Manipulating data</p> <p>\u2022\u00a0Data types</p> <p>\u2022\u00a0Repeating code</p> <p>\u2022\u00a0Creating functions</p> <p>\u2022\u00a0Using the Python Standard Library</p> <p>\u2022\u00a0What next?</p> <p>For this class, we will be using <a href=\"http://c9.io\">Cloud 9</a>. You can feel free to use the Python installed on your machine, but it's much, MUCH easier to share errors with me when you use Cloud 9.</p> <p>Class pre-requisites:</p> <p>\u2022\u00a0A stable Internet connection (please, don't do this from a coffee shop!)</p> <p>\u2022\u00a0A Cloud 9 account (it's free!)</p> <p>\u2022\u00a0Some caffeine (we really do start at 9:30!)</p>", 
             "duration": 10800000, 
@@ -382,7 +343,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1434912206000, 
@@ -420,7 +381,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1427088126000, 
@@ -458,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1434910122000, 
@@ -670,7 +631,7 @@
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -710,7 +671,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -789,7 +750,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1427088126000, 
@@ -894,6 +855,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1435354074000, 
+            "description": "<p><i>This location is fully wheelchair-accessible, and we will provide dinner. Please note that parking can be tricky: you'll need to find street parking, or you can park at the garage at the nearby Whole Foods. It is very easy to access by Metro on the Yellow Line.</i></p> <p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p><b>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223523686/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "223523686", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Study Group", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1436394600000, 
+            "updated": 1435416038000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1422815436000, 
@@ -1326,33 +1315,6 @@
             "status": "upcoming", 
             "time": 1438641000000, 
             "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytlbgb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "fnstflytlbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1438727400000, 
-            "updated": 1433103630000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
