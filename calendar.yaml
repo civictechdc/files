@@ -313,38 +313,38 @@ codefordc:
   yes_rsvp_count: 5
 other:
 - created: 1431096160000
-  description: "<p>Want to learn the basics of Python? Here's your chance to do so\
-    \ without leaving the house.</p> <p>This is a class for absolutely beginners,\
-    \ so don't worry about not having enough experience.</p> <p>We will be covering:</p>\
-    \ <p>\u2022\_What is Python, and what can it do?</p> <p>\u2022\_Saving data</p>\
-    \ <p>\u2022\_Manipulating data</p> <p>\u2022\_Data types</p> <p>\u2022\_Repeating\
-    \ code</p> <p>\u2022\_Creating functions</p> <p>\u2022\_Using the Python Standard\
-    \ Library</p> <p>\u2022\_What next?</p> <p>For this class, we will be using <a\
-    \ href=\"http://c9.io\">Cloud 9</a>. You can feel free to use the Python installed\
-    \ on your machine, but it's much, MUCH easier to share errors with me when you\
-    \ use Cloud 9.</p> <p>Class pre-requisites:</p> <p>\u2022\_A stable Internet connection\
-    \ (please, don't do this from a coffee shop!)</p> <p>\u2022\_A Cloud 9 account\
-    \ (it's free!)</p> <p>\u2022\_Some caffeine (we really do start at 9:30!)</p>"
+  description: "<p>(This link will be active starting at 8:30am:\_<a href=\"https://plus.google.com/u/0/events/ck2c0c52a66u7s7juk8anjcnbo0\"\
+    >Hangout OnAir Link</a>\_)</p> <p>Want to learn the basics of Python? Here's your\
+    \ chance to do so without leaving the house.</p> <p>This is a class for absolutely\
+    \ beginners, so don't worry about not having enough experience.</p> <p>We will\
+    \ be covering:</p> <p>\u2022\_What is Python, and what can it do?</p> <p>\u2022\
+    \_Saving data</p> <p>\u2022\_Manipulating data</p> <p>\u2022\_Data types</p> <p>\u2022\
+    \_Repeating code</p> <p>\u2022\_Creating functions</p> <p>\u2022\_Using the Python\
+    \ Standard Library</p> <p>\u2022\_What next?</p> <p>For this class, we will be\
+    \ using <a href=\"http://c9.io\">Cloud 9</a>. You can feel free to use the Python\
+    \ installed on your machine, but it's much, MUCH easier to share errors with me\
+    \ when you use Cloud 9.</p> <p>Class pre-requisites:</p> <p>\u2022\_A stable Internet\
+    \ connection (please, don't do this from a coffee shop!)</p> <p>\u2022\_A Cloud\
+    \ 9 account (it's free!)</p> <p>\u2022\_Some caffeine (we really do start at 9:30!)</p>"
   duration: 10800000
   event_url: http://www.meetup.com/dc-pyladies/events/222395896/
   group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
   headcount: 0
-  how_to_find_us: Look for an email from me with the details. It won't be sent out
-    until the morning of the class!
+  how_to_find_us: Click the link in the details!
   id: '222395896'
   maybe_rsvp_count: 0
   name: Learn Python in your PJs!
   status: upcoming
   time: 1435498200000
-  updated: 1433696076000
+  updated: 1435442653000
   utc_offset: -14400000
   venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
     lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 51
 - created: 1434912206000
   description: <p>In preparation for the Algorithms and Interview Prep meetup on June
     29th, we are going to host a 30-60min review of binary search trees via Google
@@ -368,7 +368,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -511,7 +511,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 335
+  yes_rsvp_count: 337
 - created: 1435070774000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\"\
@@ -623,7 +623,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 58
 - created: 1434912955000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -650,7 +650,7 @@ other:
   updated: 1434913198000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 13
   yes_rsvp_count: 30
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -743,7 +743,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 171
+  yes_rsvp_count: 173
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -765,7 +765,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -935,7 +935,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1339,7 +1339,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
