@@ -307,45 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1431096160000, 
-            "description": "<p>(This link will be active starting at 8:30am:\u00a0<a href=\"https://plus.google.com/u/0/events/ck2c0c52a66u7s7juk8anjcnbo0\">Hangout OnAir Link</a>\u00a0)</p> <p>Want to learn the basics of Python? Here's your chance to do so without leaving the house.</p> <p>This is a class for absolutely beginners, so don't worry about not having enough experience.</p> <p>We will be covering:</p> <p>\u2022\u00a0What is Python, and what can it do?</p> <p>\u2022\u00a0Saving data</p> <p>\u2022\u00a0Manipulating data</p> <p>\u2022\u00a0Data types</p> <p>\u2022\u00a0Repeating code</p> <p>\u2022\u00a0Creating functions</p> <p>\u2022\u00a0Using the Python Standard Library</p> <p>\u2022\u00a0What next?</p> <p>For this class, we will be using <a href=\"http://c9.io\">Cloud 9</a>. You can feel free to use the Python installed on your machine, but it's much, MUCH easier to share errors with me when you use Cloud 9.</p> <p>Class pre-requisites:</p> <p>\u2022\u00a0A stable Internet connection (please, don't do this from a coffee shop!)</p> <p>\u2022\u00a0A Cloud 9 account (it's free!)</p> <p>\u2022\u00a0Some caffeine (we really do start at 9:30!)</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/222395896/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Click the link in the details!", 
-            "id": "222395896", 
-            "maybe_rsvp_count": 0, 
-            "name": "Learn Python in your PJs!", 
-            "status": "upcoming", 
-            "time": 1435498200000, 
-            "updated": 1435442653000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Link is in the details", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23483842, 
-                "lat": 38.890369, 
-                "lon": -77.031959999999998, 
-                "name": "Google Hangout On Air", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 51
-        }, 
-        {
             "created": 1434912206000, 
             "description": "<p>In preparation for the Algorithms and Interview Prep meetup on June 29th, we are going to host a 30-60min review of binary search trees via Google Hangouts. We're hoping to jump right into the problems on Monday so please attend the hangout if you need a refresher! :)</p>", 
             "duration": 3600000, 
@@ -419,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1434910122000, 
@@ -458,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1432306565000, 
@@ -498,7 +459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 336
+            "yes_rsvp_count": 337
         }, 
         {
             "created": 1435070774000, 
@@ -566,7 +527,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1433793230000, 
@@ -604,7 +565,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1434912955000, 
@@ -631,7 +592,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -671,7 +632,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1417881835000, 
@@ -750,7 +711,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1427088126000, 
@@ -882,7 +843,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1422815436000, 
