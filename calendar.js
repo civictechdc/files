@@ -342,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1434910122000, 
@@ -381,7 +381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1432306565000, 
@@ -421,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 340
+            "yes_rsvp_count": 339
         }, 
         {
             "created": 1435070774000, 
@@ -489,7 +489,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1433793230000, 
@@ -527,7 +527,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1434912955000, 
@@ -554,7 +554,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 18, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -594,7 +594,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417881835000, 
@@ -633,7 +633,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 179
+            "yes_rsvp_count": 184
         }, 
         {
             "created": 1326383071000, 
@@ -673,7 +673,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1427088126000, 
@@ -777,7 +777,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1435354074000, 
@@ -805,7 +805,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422815436000, 
@@ -843,7 +843,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1427088126000, 
@@ -977,7 +977,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1427088126000, 
@@ -1069,7 +1069,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1434582255000, 
@@ -1135,11 +1135,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1430322325000, 
-            "description": "<p>Calling all transportation coders in the Baltimore region: we're having our first Transportation Techies meetup in Charm City. Our friends at the\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0are providing us a meeting space in conjunction with the <a href=\"https://www.actconf.org/\">2015 ACT International Conference.</a>\u00a0(You do not need to register for the conference in order to attend our meetup.) Doors open at 6:00 with pizza and drinks courtesy of our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.</p> <p>The format is show &amp; tell:\u00a0If you have a project (an app, a hack, or a data visualization) you'd like to present, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>. Looking for data sources? See\u00a0Reinvent Transit list from\u00a0<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\">technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\">Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a> site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p><a href=\"https://twitter.com/kotarohara_en\">Kotaro Hara</a> will show how he collects data about street-level accessibility using a combination of crowdsourcing, automated methods, and Google Street View to support people with mobility impairments in Baltimore.</p> <p><br/><a href=\"http://chriswhong.com/\">Chris Whong</a> will talk about his project to\u00a0reverse-engineer the real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a> published by Maryland's MTA. (There are several good articles about this project:\u00a0<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic hackers are already building a better MTA bus tracking system</a>,\u00a0<a href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\">Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>, and <a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\">Chris's own story,\u00a0Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time Bus Data</a>.)</p> <p><a href=\"http://www.thetrainingset.com/\">Justin Elszasz</a>\u00a0will take you on an edge-of-your-seat adventure through... parking citation data. Armed with less-than-average computer science skills, Justin pursues questions and digs out noteworthy stories from Baltimore's open data portal with the intent of improving the community and bringing science to bear on social issues in cities. America's attachment to personal vehicle ownership means that parking has become just one of a multitude of transportation and quality of life issues that Baltimore in particular and cities in general are facing.</p> <p><br/>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\">Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer to our event, but its last train leaves at 6:15pm.) You can use the free <a href=\"http://www.charmcitycirculator.com/\">Charm City Circulator</a>'s <a href=\"http://www.charmcitycirculator.com/sites/default/files/ONLINE_Purple_Route_Maps_052915.jpg\">Purple Line</a> to ride the bus to Penn Station. The\u00a0Inner Harbor stop at\u00a0S Calvert St &amp; W Pratt St is a few blocks from our location at the\u00a0<a href=\"http://baltimore.hyatt.com/en/hotel/home.html\">Hyatt Regency</a>.\u00a0The Circulator runs every 10 to 15 minutes, until 9:00pm. <a href=\"http://www.amtrak.com/\">Amtrak</a> has more-expensive departures at\u00a09:20pm,\u00a010:10pm,\u00a010:20pm, and\u00a011:15pm.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/d/9/6/600_437920342.jpeg\" /></p>", 
+            "description": "<p>Calling all transportation coders in the Baltimore region: we're having our first Transportation Techies meetup in Charm City. Our friends at the\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0are providing us a meeting space in conjunction with the <a href=\"https://www.actconf.org/\">2015 ACT International Conference.</a>\u00a0(You do not need to register for the conference in order to attend our meetup.) Doors open at 6:00 with pizza and drinks courtesy of our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.</p> <p>The format is show &amp; tell:\u00a0If you have a project (an app, a hack, or a data visualization) you'd like to present, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>. Looking for data sources? See\u00a0Reinvent Transit list from\u00a0<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\">technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\">Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a> site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>Jaime McKay from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a> will show how GTFS\u00a0Builder is helping Maryland expand open data.</p> <p><br/><a href=\"https://twitter.com/kotarohara_en\">Kotaro Hara</a> will show how he collects data about street-level accessibility using a combination of crowdsourcing, automated methods, and Google Street View to support people with mobility impairments in Baltimore.</p> <p><br/><a href=\"http://chriswhong.com/\">Chris Whong</a> will talk about his project to\u00a0reverse-engineer the real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a> published by Maryland's MTA. (There are several good articles about this project:\u00a0<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic hackers are already building a better MTA bus tracking system</a>,\u00a0<a href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\">Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>, and <a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\">Chris's own story,\u00a0Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time Bus Data</a>.)</p> <p><a href=\"http://www.thetrainingset.com/\">Justin Elszasz</a>\u00a0will take you on an edge-of-your-seat adventure through... parking citation data. Armed with less-than-average computer science skills, Justin pursues questions and digs out noteworthy stories from Baltimore's open data portal with the intent of improving the community and bringing science to bear on social issues in cities. America's attachment to personal vehicle ownership means that parking has become just one of a multitude of transportation and quality of life issues that Baltimore in particular and cities in general are facing.</p> <p><br/>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\">Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer to our event, but its last train leaves at 6:15pm.) You can use the free <a href=\"http://www.charmcitycirculator.com/\">Charm City Circulator</a>'s <a href=\"http://www.charmcitycirculator.com/sites/default/files/ONLINE_Purple_Route_Maps_052915.jpg\">Purple Line</a> to ride the bus to Penn Station. The\u00a0Inner Harbor stop at\u00a0S Calvert St &amp; W Pratt St is a few blocks from our location at the\u00a0<a href=\"http://baltimore.hyatt.com/en/hotel/home.html\">Hyatt Regency</a>.\u00a0The Circulator runs every 10 to 15 minutes, until 9:00pm. <a href=\"http://www.amtrak.com/\">Amtrak</a> has more-expensive departures at\u00a09:20pm,\u00a010:10pm,\u00a010:20pm, and\u00a011:15pm.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/d/9/6/600_437920342.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/222183536/", 
             "group": {
                 "created": 1384372275000, 
@@ -1157,7 +1157,7 @@ calendar({
             "name": "Transportation Tech in Baltimore", 
             "status": "upcoming", 
             "time": 1438034400000, 
-            "updated": 1435347164000, 
+            "updated": 1435582697000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "300 Light St", 

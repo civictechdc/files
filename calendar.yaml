@@ -358,7 +358,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1434910122000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -390,7 +390,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 35
 - created: 1432306565000
   description: "<p>For our second June Data Science DC Meetup (making up for a skipped\
     \ May!), we're very pleased to have a presentation by Prof. Wei-Yin Loh from the\
@@ -454,7 +454,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 340
+  yes_rsvp_count: 339
 - created: 1435070774000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\"\
@@ -527,7 +527,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1433793230000
   description: "<p>Cryptography is, as we speak, at the center of both domestic and\
     \ international debates focusing on privacy and the role of nation states. Discussions\
@@ -566,7 +566,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 63
 - created: 1434912955000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -593,7 +593,7 @@ other:
   updated: 1434913198000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 18
   yes_rsvp_count: 30
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -644,7 +644,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>This talk serves as an extremely\
     \ basic introduction to retrieving data from Hadoop, with a special focus on HBase\
@@ -686,7 +686,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 179
+  yes_rsvp_count: 184
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -708,7 +708,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 33
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -847,7 +847,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1435354074000
   description: "<p><i>This location is fully wheelchair-accessible, and we will provide\
     \ dinner. Please note that parking can be tricky: you'll need to find street parking,\
@@ -878,7 +878,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -913,7 +913,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1074,7 +1074,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 25
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1201,7 +1201,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1307,7 +1307,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 56
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -1323,14 +1323,16 @@ other:
     http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\"\
     >technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\"\
     >Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a>\
-    \ site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p><a href=\"https://twitter.com/kotarohara_en\"\
-    >Kotaro Hara</a> will show how he collects data about street-level accessibility\
-    \ using a combination of crowdsourcing, automated methods, and Google Street View\
-    \ to support people with mobility impairments in Baltimore.</p> <p><br/><a href=\"\
-    http://chriswhong.com/\">Chris Whong</a> will talk about his project to\_reverse-engineer\
-    \ the real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a>\
-    \ published by Maryland's MTA. (There are several good articles about this project:\_\
-    <a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
+    \ site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>Jaime McKay from\
+    \ <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a>\
+    \ will show how GTFS\_Builder is helping Maryland expand open data.</p> <p><br/><a\
+    \ href=\"https://twitter.com/kotarohara_en\">Kotaro Hara</a> will show how he\
+    \ collects data about street-level accessibility using a combination of crowdsourcing,\
+    \ automated methods, and Google Street View to support people with mobility impairments\
+    \ in Baltimore.</p> <p><br/><a href=\"http://chriswhong.com/\">Chris Whong</a>\
+    \ will talk about his project to\_reverse-engineer the real-time <a href=\"http://mta.maryland.gov/bus-tracker\"\
+    >bus-tracker app</a> published by Maryland's MTA. (There are several good articles\
+    \ about this project:\_<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
     >Civic hackers are already building a better MTA bus tracking system</a>,\_<a\
     \ href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\"\
     >Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>,\
@@ -1368,7 +1370,7 @@ other:
   name: Transportation Tech in Baltimore
   status: upcoming
   time: 1438034400000
-  updated: 1435347164000
+  updated: 1435582697000
   utc_offset: -14400000
   venue: {address_1: 300 Light St, city: Baltimore, country: US, id: 18324662, lat: 39.284885000000003,
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}

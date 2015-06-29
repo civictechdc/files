@@ -1,8 +1,8 @@
 - accessibility:
     http://codefordc.github.io/districthousing/: {pa11y_id: 54fbac58a824900300a684a8}
-  activity: [4, 15, 3, 5, 0, 0, 2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 29, 33, 18,
-    32, 32, 1, 6, 8, 17, 15, 27, 20, 46, 82, 19, 37, 3, 0, 2, 0, 11, 4, 8, 6, 3, 0,
-    4, 0, 3, 2, 4, 4, 0]
+  activity: [4, 18, 3, 2, 0, 1, 9, 0, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 22, 23, 28, 19,
+    51, 12, 1, 9, 10, 12, 20, 22, 23, 69, 58, 17, 40, 0, 1, 1, 0, 11, 5, 7, 6, 3,
+    0, 4, 0, 4, 1, 4, 4, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -101,8 +101,8 @@
   watchers: 22
 - accessibility:
     http://ancfinder.org/: {pa11y_id: 54fbac5fa824900300a684aa}
-  activity: [6, 3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0,
-    7, 0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0,
+  activity: [6, 3, 3, 5, 3, 6, 5, 1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0,
+    7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -238,7 +238,7 @@
   watchers: 8
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -285,8 +285,8 @@
   watchers: 18
 - accessibility:
     http://www.codefordc.org: {pa11y_id: 54fbac6da824900300a684ae}
-  activity: [0, 0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2,
-    1, 9, 0, 4, 2, 0, 10, 0, 0, 5, 2, 7, 2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 1, 0, 0, 0,
+  activity: [0, 0, 0, 3, 3, 3, 6, 4, 3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8, 12, 0,
+    1, 9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 1, 0, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -373,8 +373,8 @@
   watchers: 17
 - accessibility:
     http://ajschumacher.github.io/dc_mayor_schedule/: {pa11y_id: 54fbac74a824900300a684b0}
-  activity: [5, 4, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6,
-    7, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [5, 4, 6, 8, 6, 5, 5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7,
+    6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -482,8 +482,8 @@
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
 - accessibility: {}
-  activity: [1, 0, 0, 4, 5, 0, 8, 0, 13, 4, 14, 3, 5, 5, 5, 3, 0, 0, 1, 0, 1, 0, 0,
-    3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 15, 6, 4, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+  activity: [1, 0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0,
+    3, 0, 0, 8, 0, 0, 0, 0, 1, 9, 20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -541,7 +541,7 @@
 - accessibility:
     http://dctreemap.org/dc/map: {pa11y_id: 5537141e338ab50300229fb9}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -601,7 +601,7 @@
   watchers: 3
 - accessibility:
     http://codefordc.github.io/ERDA/: {pa11y_id: 54fbac7ea824900300a684b2}
-  activity: [0, 0, 0, 3, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [0, 0, 0, 4, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -672,7 +672,7 @@
   watchers: 0
 - accessibility:
     http://codefordc.github.io/dc-campaign-finance-watch/: {pa11y_id: 54fbac91a824900300a684b4}
-  activity: [5, 14, 0, 1, 2, 0, 37, 6, 7, 0, 14, 10, 19, 6, 11, 12, 2, 13, 0, 2, 0,
+  activity: [5, 14, 0, 3, 0, 0, 37, 6, 7, 0, 16, 14, 16, 8, 6, 13, 1, 13, 0, 2, 0,
     0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   civic_json: null
@@ -830,7 +830,7 @@
   watchers: 2
 - accessibility:
     http://electionmap.wamu.org: {pa11y_id: 54fbacb0a824900300a684b8}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 75, 4, 2, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 68, 4, 2, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -880,7 +880,7 @@
 - accessibility:
     http://cmgiven.github.io/at-risk/: {pa11y_id: 54fbacbaa824900300a684b9}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 18, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 7, 15, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -913,7 +913,7 @@
 - accessibility:
     https://emanuelfeld.github.io/geocoder: {pa11y_id: 55668f22d3b20c03006a6e65}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 11, 2, 5, 0, 0, 0, 0, 0, 0, 43, 22, 1, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 5, 0, 5, 0, 0, 0, 0, 0, 0, 45, 20, 1, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: ''
@@ -964,8 +964,8 @@
 - accessibility:
     http://booksfordc.org: {pa11y_id: 55371465338ab50300229fbb}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 32, 70, 16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0,
-    0, 0, 2, 1, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 47, 56, 22, 71, 19, 2, 2, 1, 4, 2, 0, 0, 0,
+    0, 0, 3, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -1010,7 +1010,7 @@
   watchers: 11
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 24, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Open Data Day 2015, Code for DC
@@ -1095,7 +1095,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 96,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 33,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 35,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1149,7 +1149,7 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-06-26T01:32:15Z'
+  pushed_at: '2015-06-29T14:07:44Z'
   size: 9341
   updated_at: '2015-06-05T23:02:14Z'
   watchers: 10
@@ -1210,7 +1210,7 @@
 - accessibility:
     http://getdctrees.org: {pa11y_id: 5566926dd3b20c03006a6e69}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 107, 49, 5, 2, 1, 0, 1,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
