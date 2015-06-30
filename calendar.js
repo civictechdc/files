@@ -307,83 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223086519/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytjbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1435617000000, 
-            "updated": 1435170614000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": " 1121 14th St Nw, Washington, DC", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23875509, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Hire Strategy (suite 600 6th fl.)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
-            "created": 1434910122000, 
-            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>6:45 - 7:00 Review Design Question from Last Meetup\u00a0</p> <p><br/>7:00 - 8:00 - Work on <b>binary search tree</b> problems out of \"Cracking the Code\" interview; we will work in teams and have our hosts ask \"interview style\" follow up questions to prepare you</p> <p>8:00 - 8:15 - Design/Open-ended question</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so (unlike last time!) please bring a computer. You can code in the language of your choice!</p> <p>\n\n\nThis event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223399627/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "223399627", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms and Interview Prep Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1435617000000, 
-            "updated": 1435027000000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 31
-        }, 
-        {
             "created": 1432306565000, 
             "description": "<p>For our second June Data Science DC Meetup (making up for a skipped May!), we're very pleased to have a presentation by Prof. Wei-Yin Loh from the Department of Statistics at the University of Wisconsin-Madison and (for the summer) the Bureau of Labor Statistics. Dr. Loh recently wrote a <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/insr.12016/abstract\">comprehensive review</a> of the history of Classification and Regression Trees, a fundamental technique in applied statistics, machine learning, and data science, and will present his work for us. This will be a great event whether you're new to decision trees, or whether you want to hear about the back-story and the state of the art!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>It has been 52 years since the publication of AID (Morgan and Sonquist, 1963), the first regression tree algorithm. Owing to its novelty at the time and to the many questions it left unanswered, the paper was met with mostly criticism and cynicism. As a result, little progress was made until the appearance two decades later of CHAID (Kass, 1980), CART (Breiman et al., 1984), ID3 (Quinlan, 1986), and FACT (Loh and Vanichsetakul, 1988). These second-generation methods brought new ideas that resolved many of the issues of AID, but they also revealed some fundamental computational and statistical problems of their own. Research accelerated over the last two decades, being spurred almost simultaneously by the rapid increase in computing power, the rapid growth in the size and complexity of data sets, and the desire for more flexible statistical techniques. This talk will give a brief critical review of the history of the subject and the current state-of-the-art algorithms.</p> <p><br/><b>Bio:</b></p> <p><a href=\"http://www.stat.wisc.edu/~loh/index.html\">Wei-Yin Loh</a> is Professor of Statistics at the University of Wisconsin, Madison. He has been developing algorithms for classification and regression trees for\u00a0 thirty years. \u00a0He is the co-author (with his students) of the FACT, QUEST,\u00a0 CRUISE, and LOTUS algorithms and the author of <a href=\"http://www.stat.wisc.edu/~loh/guide.html\">GUIDE</a>. Versions of his QUEST algorithm are\u00a0implemented in IBM SPSS and Dell Statistica. Dr. Loh is a fellow of the American\u00a0Statistical Association and the Institute of Mathematical Statistics and a\u00a0consultant to government and industry. He is a recipient of the Benjamin\u00a0Reynolds Award for teaching, the U.S. Army Wilks Award for statistics research\u00a0and application, and the Outstanding Science Alumni Award from the National\u00a0University of Singapore. He is a visiting fellow of the Bureau of Labor\u00a0Statistics this summer.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.weddingwire.com/corp/tech-jobs\">WeddingWire</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)</p>", 
             "duration": 7200000, 
@@ -421,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 341
+            "yes_rsvp_count": 335
         }, 
         {
             "created": 1435070774000, 
@@ -489,7 +412,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1433793230000, 
@@ -527,7 +450,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1434912955000, 
@@ -554,7 +477,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -594,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
@@ -633,7 +556,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 185
+            "yes_rsvp_count": 186
         }, 
         {
             "created": 1427088126000, 
@@ -671,7 +594,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1424968249000, 
@@ -977,7 +900,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1427088126000, 
@@ -1036,7 +959,7 @@ calendar({
         }, 
         {
             "created": 1432827429000, 
-            "description": "<p><b>NOTE:\u00a0</b></p> <p>\u2022\u00a0<b>Rescheduled to July 21st.</b></p> <p>\u2022\u00a0<b>You MUST register on <a href=\"https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\">Eventbrite</a>.\u00a0</b></p> <p>Join us\u00a0for drinks, appetizers and networking, followed by a discussion of large content collections and how companies and organizations can more effectively manage those repositories in a multi-channel, multi-device world.\u00a0</p> <p>Our speakers will discuss\u00a0content collections, what they can include, how that information is distributed and managed. They will also talk about the challenges in managing large content collections, including those presented by mobile, social, marketing platforms, etc and solutions to the issues of\u00a0multi-channel, multi-device content management and governance.</p> <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web &amp; Communications Technology, University of Maryland Medical Center</p> <p><br/>Speakers will be announced as they are confirmed.</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\" /></p>", 
+            "description": "<p><b>NOTE:\u00a0</b></p> <p>\u2022\u00a0<b>You MUST register on <a href=\"https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\">Eventbrite</a>.\u00a0</b></p> <p>Join us\u00a0for drinks, appetizers and networking, followed by a discussion of large content collections and how companies and organizations can more effectively manage those repositories in a multi-channel, multi-device world.\u00a0</p> <p>Our speakers will discuss\u00a0content collections, what they can include, how that information is distributed and managed. They will also talk about the challenges in managing large content collections, including those presented by mobile, social, marketing platforms, etc and solutions to the issues of\u00a0multi-channel, multi-device content management and governance.</p> <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web &amp; Communications Technology, University of Maryland Medical Center</p> <p><br/>Speakers will be announced as they are confirmed.</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/222842787/", 
             "group": {
                 "created": 1189804715000, 
@@ -1054,7 +977,7 @@ calendar({
             "name": "Managing Big Content : Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1437517800000, 
-            "updated": 1435527179000, 
+            "updated": 1435639910000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1135,7 +1058,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1430322325000, 
@@ -1199,6 +1122,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1435624442000, 
+            "description": "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a \u00a0single 180-degree snapshot of that moment.\u00a0</p> <p><i><b>Demo</b></i>: They will have a live demo setup that folks can stop by and participate in.</p> <p>See sample videos on the Google Cloud Spin Twitter account at\u00a0</p> <p><a href=\"https://twitter.com/googlecloudspin\"><a href=\"https://twitter.com/googlecloudspin\" class=\"linkified\">https://twitter.com/googlecloudspin</a></a></p> <p><br/><b>Ray Bio: [<a href=\"https://www.flickr.com/photos/saturnism/936509581/in/photolist-dwxNhv-2qKREV-7CxDuz-6mvW4h-bGxToT\">photo</a>]</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps.\u00a0 Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.\u00a0</p> <p><b>Bret Bio:\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/d/8/600_439242200.jpeg\" /></p> <p>Bret McGowen is a Developer Advocate for the Google Cloud Platform. Prior to Google, he came from Rackspace as a software engineer building the RackConnect cloud-to-dedicated-hosting product and contributed to OpenStack-related projects.</p> <p><b>Sponsors</b>: Capital One</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/223591204/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Google Cloud, Android, Mobile, Cloud, Python", 
+            "id": "223591204", 
+            "maybe_rsvp_count": 0, 
+            "name": "Google Cloud Spin\" (Ray Tsang & Bret McGowen, Google)", 
+            "rsvp_limit": 120, 
+            "status": "upcoming", 
+            "time": 1438036200000, 
+            "updated": 1435624584000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1680 Capital One Drive", 
+                "city": "McLean", 
+                "country": "us", 
+                "id": 23933274, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Capital One", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1424968249000, 
@@ -1310,6 +1273,33 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1435605354000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR hack night! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda Every study group will have the following format:</p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Topics of Focus</p> <p>For those who are new to coding or new to Rails, we will have a mentor there to assist a group focusing on a chapter of Michael Hartl's Rails Tutorial every meeting. For those who have some experience already, we will have a mentor there to assist a group focusing on Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access<br/>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytlbhb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "kpvxhlytlbhb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1438813800000, 
+            "updated": 1435605354000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -1387,6 +1377,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1427088126000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rlzgglytlbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rlzgglytlbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1439245800000, 
+            "updated": 1432846440000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1422815467000, 
