@@ -338,7 +338,7 @@ other:
   updated: 1434913198000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 28
+  waitlist_count: 27
   yes_rsvp_count: 30
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -390,7 +390,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 16
 - created: 1417881835000
   description: "<p><b>What You'll Learn</b></p> <p>This talk serves as an extremely\
     \ basic introduction to retrieving data from Hadoop, with a special focus on HBase\
@@ -432,7 +432,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 201
+  yes_rsvp_count: 205
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -490,8 +490,9 @@ other:
     \ conversation. \_</p> <p>See you there!</p> <p>6:00pm - 6:45pm Food, drinks and\
     \ networking\_<br/>6:45pm - 6:55pm Introductions and Announcements\_<br/>6:55pm\
     \ - 8:00pm Presentations</p> <p>* Justin Raines, CTAC<br/>* Lindsay Young, 18F\_\
-    <br/>* Michael Pulsifer, Dept. of Labor</p> <p>7:55pm - 8:00pm Refill your beverage\_\
-    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+    <br/>*\_Heather Maniscalco, Blackboard<br/>* Michael Pulsifer, Dept. of Labor</p>\
+    \ <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_\
+    <br/>8:30pm - 9:00pm Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/223612352/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -502,14 +503,14 @@ other:
   name: DC API User Group - July Edition
   status: upcoming
   time: 1436306400000
-  updated: 1435704106000
+  updated: 1435770370000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 31
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -551,7 +552,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -634,34 +635,38 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1326383071000
-  description: '<p>Note: we''re moving July''s GeoDC to the SECOND Monday of the month
-    to better accommodate speaker schedules!</p> <p>July''s GeoDC meetup is all about
-    location data, specifically the creation, use, and opening of address data.</p>
-    <p>Mapbox''s Tom Lee will talk about openaddresses.io, an open data project that
-    treats address data as essential infrastructure. Openaddresses.io is working with
-    national and municipal governments and open data gurus to build a free and permissively
-    licensed collection of global addresses. Openaddresses.io passed 100 million addresses
-    in January 2015 and is growing fast.</p> <p>Stay tuned for additional speakers!</p>'
+  description: "<p><b>Note: We're moving July's GeoDC to the SECOND Wednesday of the\
+    \ month to better accommodate speaker schedules, and it will be DOWNSTAIRS at\
+    \ Stetson's.\_</b></p> <p>July's GeoDC meetup is all about location data, specifically\
+    \ the creation, use, and opening of address data.</p> <p>Mapbox's Tom Lee will\
+    \ talk about openaddresses.io, an open data project that treats address data as\
+    \ essential infrastructure. Openaddresses.io is working with national and municipal\
+    \ governments and open data gurus to build a free and permissively licensed collection\
+    \ of global addresses. Openaddresses.io passed 100 million addresses in January\
+    \ 2015 and is growing fast.</p> <p>Logan Powell from the US Census Bureau will\
+    \ show off the City SDK, an open source toolkit for connecting census data \u2013\
+    \ from affordable housing locations to air quality indexes \u2013\_and geo layers\
+    \ to your apps.</p> <p>Stay tuned for additional speakers!</p>"
   event_url: http://www.meetup.com/Geo-DC/events/218672536/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
-  how_to_find_us: Upstairs bar
+  how_to_find_us: Downstairs bar
   id: dlcllcytkbcb
   maybe_rsvp_count: 0
   name: 'July GeoDC: All the world''s an address'
   status: upcoming
   time: 1436396400000
-  updated: 1435610128000
+  updated: 1435767102000
   utc_offset: -14400000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 52
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -822,7 +827,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytkbtb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223626247/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -836,7 +841,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1435497255000
   description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
     \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
@@ -988,7 +993,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1165,7 +1170,7 @@ other:
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1220,8 +1225,7 @@ other:
     \ that folks can stop by and participate in.</p> <p>See sample videos on the Google\
     \ Cloud Spin Twitter account at\_</p> <p><a href=\"https://twitter.com/googlecloudspin\"\
     ><a href=\"https://twitter.com/googlecloudspin\" class=\"linkified\">https://twitter.com/googlecloudspin</a></a></p>\
-    \ <p><br/><b>Ray Bio: [<a href=\"https://www.flickr.com/photos/saturnism/936509581/in/photolist-dwxNhv-2qKREV-7CxDuz-6mvW4h-bGxToT\"\
-    >photo</a>]</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\"\
+    \ <p><br/><b>Ray Bio:\_</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\"\
     \ /></p> <p>Ray had extensive hands on cross-industry enterprise systems integration\
     \ delivery and management experiences during his time at Accenture, managed full\
     \ stack application development, DevOps, and ITOps.\_ Ray specialized in middleware,\
@@ -1245,13 +1249,13 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1438036200000
-  updated: 1435691560000
+  updated: 1435761143000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1498,7 +1502,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

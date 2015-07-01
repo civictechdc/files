@@ -331,7 +331,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 28, 
+            "waitlist_count": 27, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -371,7 +371,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
@@ -410,7 +410,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 201
+            "yes_rsvp_count": 205
         }, 
         {
             "created": 1427088126000, 
@@ -452,7 +452,7 @@ calendar({
         }, 
         {
             "created": 1435703333000, 
-            "description": "<p>I think it was Pierre L'Enfant who once wrote, \"The only thing hotter than summer in DC is the change APIs are effecting across all society.\" \u00a0In that spirit, next week is the first Tuesday of the month, which means it's time for the DC API Meetup. \u00a0</p> <p>Remember, we're at the new CHIEF location. \u00a0It's just a few blocks north of where we've always met - 1800 Massachusetts Avenue, 2nd floor. \u00a0 There will be plenty of good pizza, cold beer, and great conversation. \u00a0</p> <p>See you there!</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Raines, CTAC<br/>* Lindsay Young, 18F\u00a0<br/>* Michael Pulsifer, Dept. of Labor</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>I think it was Pierre L'Enfant who once wrote, \"The only thing hotter than summer in DC is the change APIs are effecting across all society.\" \u00a0In that spirit, next week is the first Tuesday of the month, which means it's time for the DC API Meetup. \u00a0</p> <p>Remember, we're at the new CHIEF location. \u00a0It's just a few blocks north of where we've always met - 1800 Massachusetts Avenue, 2nd floor. \u00a0 There will be plenty of good pizza, cold beer, and great conversation. \u00a0</p> <p>See you there!</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Raines, CTAC<br/>* Lindsay Young, 18F\u00a0<br/>*\u00a0Heather Maniscalco, Blackboard<br/>* Michael Pulsifer, Dept. of Labor</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/223612352/", 
             "group": {
                 "created": 1347647025000, 
@@ -470,7 +470,7 @@ calendar({
             "name": "DC API User Group - July Edition", 
             "status": "upcoming", 
             "time": 1436306400000, 
-            "updated": 1435704106000, 
+            "updated": 1435770370000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -485,7 +485,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1424968249000, 
@@ -513,7 +513,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1434582255000, 
@@ -579,11 +579,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>Note: we're moving July's GeoDC to the SECOND Monday of the month to better accommodate speaker schedules!</p> <p>July's GeoDC meetup is all about location data, specifically the creation, use, and opening of address data.</p> <p>Mapbox's Tom Lee will talk about openaddresses.io, an open data project that treats address data as essential infrastructure. Openaddresses.io is working with national and municipal governments and open data gurus to build a free and permissively licensed collection of global addresses. Openaddresses.io passed 100 million addresses in January 2015 and is growing fast.</p> <p>Stay tuned for additional speakers!</p>", 
+            "description": "<p><b>Note: We're moving July's GeoDC to the SECOND Wednesday of the month to better accommodate speaker schedules, and it will be DOWNSTAIRS at Stetson's.\u00a0</b></p> <p>July's GeoDC meetup is all about location data, specifically the creation, use, and opening of address data.</p> <p>Mapbox's Tom Lee will talk about openaddresses.io, an open data project that treats address data as essential infrastructure. Openaddresses.io is working with national and municipal governments and open data gurus to build a free and permissively licensed collection of global addresses. Openaddresses.io passed 100 million addresses in January 2015 and is growing fast.</p> <p>Logan Powell from the US Census Bureau will show off the City SDK, an open source toolkit for connecting census data \u2013 from affordable housing locations to air quality indexes \u2013\u00a0and geo layers to your apps.</p> <p>Stay tuned for additional speakers!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/218672536/", 
             "group": {
                 "created": 1307975249000, 
@@ -596,13 +596,13 @@ calendar({
                 "who": "Members"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
+            "how_to_find_us": "Downstairs bar", 
             "id": "dlcllcytkbcb", 
             "maybe_rsvp_count": 0, 
             "name": "July GeoDC: All the world's an address", 
             "status": "upcoming", 
             "time": 1436396400000, 
-            "updated": 1435610128000, 
+            "updated": 1435767102000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -619,7 +619,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1422815436000, 
@@ -731,7 +731,7 @@ calendar({
             "created": 1435605354000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytkbtb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223626247/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -752,7 +752,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1435497255000, 
@@ -883,7 +883,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1435605354000, 
@@ -985,7 +985,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1427088126000, 
@@ -1016,7 +1016,7 @@ calendar({
         }, 
         {
             "created": 1435624442000, 
-            "description": "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a \u00a0single 180-degree snapshot of that moment.\u00a0</p> <p><i><b>Demo</b></i>: They will have a live demo setup that folks can stop by and participate in.</p> <p>See sample videos on the Google Cloud Spin Twitter account at\u00a0</p> <p><a href=\"https://twitter.com/googlecloudspin\"><a href=\"https://twitter.com/googlecloudspin\" class=\"linkified\">https://twitter.com/googlecloudspin</a></a></p> <p><br/><b>Ray Bio: [<a href=\"https://www.flickr.com/photos/saturnism/936509581/in/photolist-dwxNhv-2qKREV-7CxDuz-6mvW4h-bGxToT\">photo</a>]</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps.\u00a0 Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.\u00a0</p> <p><b>Bret Bio:\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/d/8/600_439242200.jpeg\" /></p> <p>Bret McGowen is a Developer Advocate for the Google Cloud Platform. Prior to Google, he came from Rackspace as a software engineer building the RackConnect cloud-to-dedicated-hosting product and contributed to OpenStack-related projects.</p> <p><b>Sponsors</b>: Capital One</p>", 
+            "description": "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a \u00a0single 180-degree snapshot of that moment.\u00a0</p> <p><i><b>Demo</b></i>: They will have a live demo setup that folks can stop by and participate in.</p> <p>See sample videos on the Google Cloud Spin Twitter account at\u00a0</p> <p><a href=\"https://twitter.com/googlecloudspin\"><a href=\"https://twitter.com/googlecloudspin\" class=\"linkified\">https://twitter.com/googlecloudspin</a></a></p> <p><br/><b>Ray Bio:\u00a0</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps.\u00a0 Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.\u00a0</p> <p><b>Bret Bio:\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/d/8/600_439242200.jpeg\" /></p> <p>Bret McGowen is a Developer Advocate for the Google Cloud Platform. Prior to Google, he came from Rackspace as a software engineer building the RackConnect cloud-to-dedicated-hosting product and contributed to OpenStack-related projects.</p> <p><b>Sponsors</b>: Capital One</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/223591204/", 
             "group": {
@@ -1037,7 +1037,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1438036200000, 
-            "updated": 1435691560000, 
+            "updated": 1435761143000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -1052,7 +1052,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1424968249000, 
@@ -1227,7 +1227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
