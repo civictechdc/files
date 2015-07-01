@@ -307,152 +307,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1432306565000, 
-            "description": "<p>For our second June Data Science DC Meetup (making up for a skipped May!), we're very pleased to have a presentation by Prof. Wei-Yin Loh from the Department of Statistics at the University of Wisconsin-Madison and (for the summer) the Bureau of Labor Statistics. Dr. Loh recently wrote a <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/insr.12016/abstract\">comprehensive review</a> of the history of Classification and Regression Trees, a fundamental technique in applied statistics, machine learning, and data science, and will present his work for us. This will be a great event whether you're new to decision trees, or whether you want to hear about the back-story and the state of the art!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>It has been 52 years since the publication of AID (Morgan and Sonquist, 1963), the first regression tree algorithm. Owing to its novelty at the time and to the many questions it left unanswered, the paper was met with mostly criticism and cynicism. As a result, little progress was made until the appearance two decades later of CHAID (Kass, 1980), CART (Breiman et al., 1984), ID3 (Quinlan, 1986), and FACT (Loh and Vanichsetakul, 1988). These second-generation methods brought new ideas that resolved many of the issues of AID, but they also revealed some fundamental computational and statistical problems of their own. Research accelerated over the last two decades, being spurred almost simultaneously by the rapid increase in computing power, the rapid growth in the size and complexity of data sets, and the desire for more flexible statistical techniques. This talk will give a brief critical review of the history of the subject and the current state-of-the-art algorithms.</p> <p><br/><b>Bio:</b></p> <p><a href=\"http://www.stat.wisc.edu/~loh/index.html\">Wei-Yin Loh</a> is Professor of Statistics at the University of Wisconsin, Madison. He has been developing algorithms for classification and regression trees for\u00a0 thirty years. \u00a0He is the co-author (with his students) of the FACT, QUEST,\u00a0 CRUISE, and LOTUS algorithms and the author of <a href=\"http://www.stat.wisc.edu/~loh/guide.html\">GUIDE</a>. Versions of his QUEST algorithm are\u00a0implemented in IBM SPSS and Dell Statistica. Dr. Loh is a fellow of the American\u00a0Statistical Association and the Institute of Mathematical Statistics and a\u00a0consultant to government and industry. He is a recipient of the Benjamin\u00a0Reynolds Award for teaching, the U.S. Army Wilks Award for statistics research\u00a0and application, and the Outstanding Science Alumni Award from the National\u00a0University of Singapore. He is a visiting fellow of the Bureau of Labor\u00a0Statistics this summer.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.weddingwire.com/corp/tech-jobs\">WeddingWire</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/222711964/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "222711964", 
-            "maybe_rsvp_count": 0, 
-            "name": "A Brief History of Classification and Regression Trees", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1435703400000, 
-            "updated": 1433861998000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 318
-        }, 
-        {
-            "created": 1435070774000, 
-            "description": "<p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"https://www.eventbrite.com/e/vinetta-showcase-pitch-panel-washington-dc-tickets-17008275209\">event registration page</a>. After you RSVP here you'll receive a discount code. \u00a0</p> <p>The Vinetta Showcase is a high-impact pitch\u00a0and panel series.\u00a0 An esteemed panel consisting of two active investors and two founders of successful startups gather\u00a0to listen to pitches of top female founders, ask tough questions, and deliver actionable feedback.</p> <p>The audience of 80 attendees is an\u00a0engaged\u00a0community of actionable\u00a0entrepreneurs, venture influencers, young professionals and service providers who all see the massive growth potential for investing in female founders.</p> <p>More information can be found on the <a href=\"http://vinettashowcasedc.weebly.com/\">Vinetta Project website</a>.\u00a0</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/223441810/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "223441810", 
-            "maybe_rsvp_count": 0, 
-            "name": "Vinetta DC Showcase", 
-            "status": "upcoming", 
-            "time": 1435703400000, 
-            "updated": 1435070774000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "address_2": "Floor 1", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/221900776/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "fnstflytjbnc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1435703400000, 
-            "updated": 1435700269000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1433793230000, 
-            "description": "<p>Cryptography is, as we speak, at the center of both domestic and international debates focusing on privacy and the role of nation states. Discussions around cryptography and encryption are often filled with confusing terms, misleading numbers, and a general lack of understanding. Inevitably this leads to our collective eyes glazing over and missing out on this critical conversation.</p> <p><br/>Let\u2019s take a new approach -- remove the acronyms and increase understanding of complex cryptographic systems through smart data visualization. If cryptography is numbers, privacy is social, and the two are inseparable. We will explore their deeply integrated nature and also the data visualization techniques to help draw these conclusions.</p> <p><br/>A couple of big things we will touch on:</p> <p>\u2022\u00a0Using visualizations to actually understand cryptography.</p> <p>\u2022\u00a0Case studies demonstrating cryptographic failures and social impacts of private communications.</p> <p>\u2022\u00a0Sourcing accurate information, with particular consideration to the private nature of this data.</p> <p>\u2022\u00a0Building an extendable data visualization platform that can be valuable now and in the future.</p> <p>\u2022\u00a0Making this information as accessible as possible.</p> <p>\n\n\n<b>Agenda:</b></p> <p>\u2022\u00a06:30 - Doors open, networking</p> <p>\u2022\u00a07ish - Introductions &amp; Announcements</p> <p>\u2022\u00a07:15 \u00a0- Presentation</p> <p>\u2022 8:20 - Q&amp;A</p> <p><br/>\u2022\u00a08:45 - Data Drinks (Secret Location TBA)</p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/223109920/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "223109920", 
-            "maybe_rsvp_count": 0, 
-            "name": "Visualizing Cryptography", 
-            "status": "upcoming", 
-            "time": 1435703400000, 
-            "updated": 1434034331000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23677604, 
-                "lat": 38.898926000000003, 
-                "lon": -77.049484000000007, 
-                "name": "GWU, Duques Hall - Room 151", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 62
-        }, 
-        {
             "created": 1434912955000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p><b>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</b></p>", 
             "duration": 7200000, 
@@ -477,7 +331,7 @@ calendar({
             "updated": 1434913198000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 27, 
+            "waitlist_count": 28, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -517,7 +371,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1417881835000, 
@@ -556,7 +410,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 200
+            "yes_rsvp_count": 201
         }, 
         {
             "created": 1427088126000, 
@@ -631,7 +485,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1424968249000, 
@@ -697,7 +551,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1435354074000, 
@@ -765,7 +619,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1422815436000, 
@@ -937,7 +791,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1427088126000, 
@@ -1441,6 +1295,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1424968249000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/222198119/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "fnstflytlbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1439332200000, 
+            "updated": 1433236869000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1422815467000, 
