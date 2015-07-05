@@ -373,8 +373,8 @@
   watchers: 17
 - accessibility:
     http://ajschumacher.github.io/dc_mayor_schedule/: {pa11y_id: 54fbac74a824900300a684b0}
-  activity: [3, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7,
-    6, 2, 5, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+  activity: [4, 6, 7, 6, 5, 6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7,
+    5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -672,7 +672,7 @@
   watchers: 0
 - accessibility:
     http://codefordc.github.io/dc-campaign-finance-watch/: {pa11y_id: 54fbac91a824900300a684b4}
-  activity: [13, 2, 1, 2, 0, 12, 31, 7, 0, 3, 19, 21, 5, 9, 15, 2, 13, 0, 1, 1, 0,
+  activity: [14, 0, 1, 2, 0, 37, 6, 7, 0, 14, 10, 19, 6, 11, 12, 2, 13, 0, 2, 0, 0,
     0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   civic_json: null
