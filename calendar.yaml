@@ -358,7 +358,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1435703333000
   description: "<p>I think it was Pierre L'Enfant who once wrote, \"The only thing\
     \ hotter than summer in DC is the change APIs are effecting across all society.\"\
@@ -389,7 +389,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -503,7 +503,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1238,7 +1238,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
