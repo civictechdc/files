@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1427389020000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -358,7 +358,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 46
 - created: 1435703333000
   description: "<p>I think it was Pierre L'Enfant who once wrote, \"The only thing\
     \ hotter than summer in DC is the change APIs are effecting across all society.\"\
@@ -389,7 +389,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 69
 - created: 1434582255000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -441,7 +441,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1435354074000
   description: "<p><i>This location is fully wheelchair-accessible, and we will provide\
     \ dinner. Please note that parking can be tricky: you'll need to find street parking,\
@@ -471,8 +471,8 @@ other:
   updated: 1435416038000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 29
+  waitlist_count: 1
+  yes_rsvp_count: 30
 - created: 1326383071000
   description: "<p><b>Note: We're moving July's GeoDC to the SECOND Wednesday of the\
     \ month to better accommodate speaker schedules, and it will be DOWNSTAIRS at\
@@ -503,7 +503,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 77
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -587,7 +587,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -636,7 +636,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1435497255000
   description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
     \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
@@ -854,7 +854,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 64
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -872,15 +872,17 @@ other:
     >Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a>\
     \ site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p><b>Jaime McKay</b>\
     \ from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a>\
-    \ will show how GTFS\_Builder is helping Maryland expand open data.</p> <p><br/><a\
-    \ href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a> will show\
-    \ how he collects data about street-level accessibility using a combination of\
-    \ crowdsourcing, automated methods, and Google Street View to support people with\
-    \ mobility impairments in Baltimore.</p> <p><br/><a href=\"http://elliottplack.me/\"\
-    ><b>Elliott Plack</b></a> will share a map of historic/abandoned Baltimore transportation\
-    \ projects like the Red Line and the cross town expressway.</p> <p><br/><a href=\"\
-    http://chriswhong.com/\"><b>Chris Whong</b></a> will talk about his project to\_\
-    reverse-engineer the real-time <a href=\"http://mta.maryland.gov/bus-tracker\"\
+    \ will show how GTFS\_Builder is helping Maryland expand open data.</p> <p><br/><b>Michael\
+    \ Walk</b> from the\_<a href=\"http://mta.maryland.gov/\">Maryland Transit Administration</a>\
+    \ will update us on\_MTA's plans to open up its data, including real-time, ridership,\
+    \ routes and stops.</p> <p><br/><a href=\"https://twitter.com/kotarohara_en\"\
+    ><b>Kotaro Hara</b></a> will show how he collects data about street-level accessibility\
+    \ using a combination of crowdsourcing, automated methods, and Google Street View\
+    \ to support people with mobility impairments in Baltimore.</p> <p><br/><a href=\"\
+    http://elliottplack.me/\"><b>Elliott Plack</b></a> will share a map of historic/abandoned\
+    \ Baltimore transportation projects like the Red Line and the cross town expressway.</p>\
+    \ <p><br/><a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will talk\
+    \ about his project to\_reverse-engineer the real-time <a href=\"http://mta.maryland.gov/bus-tracker\"\
     >bus-tracker app</a> published by Maryland's MTA. (There are several good articles\
     \ about this project:\_<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
     >Civic hackers are already building a better MTA bus tracking system</a>,\_<a\
@@ -890,10 +892,9 @@ other:
     >Chris's own story,\_Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time\
     \ Bus Data</a>.)</p> <p><a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\_\
     will take you on an edge-of-your-seat adventure through... parking citation data.\
-    \ Armed with less-than-average computer science skills, Justin pursues questions\
-    \ and digs out noteworthy stories from Baltimore's open data portal with the intent\
-    \ of improving the community and bringing science to bear on social issues in\
-    \ cities. America's attachment to personal vehicle ownership means that parking\
+    \ Justin digs out noteworthy stories from Baltimore's open data portal with the\
+    \ intent of improving the community and bringing science to bear on social issues\
+    \ in cities. America's attachment to personal vehicle ownership means that parking\
     \ has become just one of a multitude of transportation and quality of life issues\
     \ that Baltimore in particular and cities in general are facing.</p> <p><br/>For\
     \ folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\"\
@@ -920,13 +921,13 @@ other:
   name: Transportation Tech in Baltimore
   status: upcoming
   time: 1438034400000
-  updated: 1435794189000
+  updated: 1436201530000
   utc_offset: -14400000
   venue: {address_1: 300 Light St, city: Baltimore, country: US, id: 18324662, lat: 39.284885000000003,
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 48
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1011,7 +1012,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
