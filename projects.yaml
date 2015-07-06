@@ -101,8 +101,8 @@
   watchers: 22
 - accessibility:
     http://ancfinder.org/: {pa11y_id: 54fbac5fa824900300a684aa}
-  activity: [3, 3, 5, 3, 2, 8, 2, 0, 1, 0, 0, 3, 3, 0, 0, 6, 2, 2, 5, 0, 1, 0, 7,
-    0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0, 1, 4, 0, 2, 6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0,
+  activity: [3, 3, 5, 3, 2, 8, 2, 1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0, 7,
+    0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -189,7 +189,7 @@
 - accessibility:
     http://cmgiven.github.io/bikeshare-odds/: {pa11y_id: 54fbac66a824900300a684ac}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -238,7 +238,7 @@
   watchers: 8
 - accessibility: {}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -285,8 +285,8 @@
   watchers: 18
 - accessibility:
     http://www.codefordc.org: {pa11y_id: 54fbac6da824900300a684ae}
-  activity: [0, 0, 2, 4, 3, 3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1,
-    9, 0, 4, 2, 0, 10, 0, 0, 5, 2, 7, 2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 1, 0, 0, 0, 0,
+  activity: [0, 0, 3, 3, 3, 6, 4, 3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8, 12, 0, 1,
+    9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 1, 0, 0, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -364,10 +364,10 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 11
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-06-25T12:56:53Z'
+  pushed_at: '2015-07-05T19:46:07Z'
   size: 17414
   updated_at: '2015-05-14T02:21:48Z'
   watchers: 17
@@ -482,8 +482,8 @@
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
 - accessibility: {}
-  activity: [0, 0, 0, 9, 0, 8, 0, 11, 6, 14, 3, 1, 9, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3,
-    0, 0, 8, 0, 0, 0, 0, 0, 10, 13, 8, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+  activity: [0, 0, 6, 3, 0, 8, 6, 7, 5, 13, 3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3,
+    0, 0, 8, 0, 0, 0, 0, 1, 9, 20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Lee's apartment
