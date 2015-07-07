@@ -305,7 +305,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 138,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 152,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -361,14 +361,15 @@
   - [JavaScript, 28711]
   - [CSS, 26899]
   - [Ruby, 3083]
+  - [Shell, 2544]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
   open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-05T19:46:07Z'
-  size: 17414
+  pushed_at: '2015-07-07T03:04:12Z'
+  size: 17528
   updated_at: '2015-05-14T02:21:48Z'
   watchers: 17
 - accessibility:
@@ -830,7 +831,7 @@
   watchers: 2
 - accessibility:
     http://electionmap.wamu.org: {pa11y_id: 54fbacb0a824900300a684b8}
-  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 68, 4, 2, 0, 0, 0,
+  activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 51, 5, 1, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -913,8 +914,8 @@
 - accessibility:
     https://emanuelfeld.github.io/geocoder: {pa11y_id: 55668f22d3b20c03006a6e65}
   activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 5, 0, 5, 0, 0, 0, 0, 0, 0, 45, 20, 1, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0, 0, 0,
+    0, 0, 0]
   civic_json:
     bornAt: ''
     categories:
@@ -1140,16 +1141,16 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 29717]
-  - [JavaScript, 11208]
-  - [CSS, 2582]
+  - [HTML, 29856]
+  - [JavaScript, 11520]
+  - [CSS, 2723]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-02T22:43:44Z'
+  pushed_at: '2015-07-07T02:57:52Z'
   size: 9220
   updated_at: '2015-06-05T23:02:14Z'
   watchers: 10
