@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1427389020000, 
@@ -342,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1435703333000, 
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1434582255000, 
@@ -444,12 +444,12 @@ calendar({
             "updated": 1435416038000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 30
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p><b>Note: We're moving July's GeoDC to the SECOND Wednesday of the month to better accommodate speaker schedules, and it will be DOWNSTAIRS at Stetson's.\u00a0</b></p> <p>July's GeoDC meetup is all about location data, specifically the creation, use, and opening of address data.</p> <p>Mapbox's Tom Lee will talk about openaddresses.io, an open data project that treats address data as essential infrastructure. Openaddresses.io is working with national and municipal governments and open data gurus to build a free and permissively licensed collection of global addresses. Openaddresses.io passed 100 million addresses in January 2015 and is growing fast.</p> <p>Logan Powell from the US Census Bureau will show off the City SDK, an open source toolkit for connecting census data \u2013 from affordable housing locations to air quality indexes \u2013\u00a0and geo layers to your apps.</p> <p>Stay tuned for additional speakers!</p>", 
+            "description": "<p><b>Note: We're moving July's GeoDC to the SECOND Wednesday of the month to better accommodate speaker schedules, and it will be DOWNSTAIRS at Stetson's.\u00a0</b></p> <p>July's GeoDC meetup is all about location data, specifically the creation, use, and opening of address and traffic data.</p> <p>Mapbox's Tom Lee will talk about openaddresses.io, an open data project that treats address data as essential infrastructure. Openaddresses.io is working with national and municipal governments and open data gurus to build a free and permissively licensed collection of global addresses. Openaddresses.io passed 100 million addresses in January 2015 and is growing fast.</p> <p>Logan Powell from the US Census Bureau will show off the City SDK, an open source toolkit for connecting census data \u2013 from affordable housing locations to air quality indexes \u2013\u00a0and geo layers to your apps</p> <p>Conveyal's Kevin Webb will introduce the OpenTraffic project, an international collaboration to a create traffic speed data set linked to OpenStreetMap. Kevin is a principal at Conveyal, a DC-based company that builds open source/open data platforms for transportation.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/218672536/", 
             "group": {
                 "created": 1307975249000, 
@@ -468,7 +468,7 @@ calendar({
             "name": "July GeoDC: All the world's an address", 
             "status": "upcoming", 
             "time": 1436396400000, 
-            "updated": 1435767102000, 
+            "updated": 1436209705000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -485,7 +485,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1422815436000, 
@@ -563,7 +563,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1435605354000, 
@@ -629,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1427088126000, 
@@ -759,7 +759,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1430322325000, 
