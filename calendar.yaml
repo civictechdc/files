@@ -296,7 +296,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 22
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -331,7 +331,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 49
 - created: 1427088126000
   description: "<p>*** Julia Poladsky from Bitovi will be doing a special tech talk\
     \ on JavaScript data types and prototypical inheritance! ***</p> <p>***This meetup\
@@ -384,7 +384,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 47
 - created: 1436363865000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -416,7 +416,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1436407708000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -443,7 +443,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 18
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -492,7 +492,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1435497255000
   description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
     \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
@@ -517,7 +517,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -868,7 +868,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -962,6 +962,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1436462363000
+  description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
+    \ have now seen, the new location is great! \_Good space, good food and drink,\
+    \ and plenty to talk about. \_For August, we've got a great lineup forming, so\
+    \ go ahead and mark your calendar for the first Tuesday of the month! \_</p> <p>See\
+    \ you soon. \_:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
+    \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
+    \ <p>* Jeffrey Meisel, Census Bureau\_<br/>* Sean McDonald, Frontline SMS\_<br/>*\
+    \ Eric Mill, 18F\_<br/>* TBD</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm\
+    \ - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/223814899/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '223814899'
+  maybe_rsvp_count: 0
+  name: DC API User Group - August Edition
+  status: upcoming
+  time: 1438725600000
+  updated: 1436462363000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1073,7 +1101,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1095,7 +1123,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1311,6 +1339,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1436463866000
+  description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
+    to open the doors of cartographic possibility to anyone interested by creating
+    a time and space for collaborative learning, exploration, and map creation using
+    mapping tools and technologies. Beginners most welcome!</p> <p>BYO-laptops! Project
+    Night is where geo/map members of the community get together and work on projects.
+    There's no tutorial or instruction, but instead space and time to work on a tutorial
+    or project independently or with friends. Bring some ideas and your curiosity.
+    We can't wait to hang out and make things together.</p> <p>Huge thanks to WeWork
+    Dupont for hosting!</p>
+  duration: 9000000
+  event_url: http://www.meetup.com/Maptime-DC/events/223815285/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '223815285'
+  maybe_rsvp_count: 0
+  name: Maptime DC Project Night
+  status: upcoming
+  time: 1439935200000
+  updated: 1436463866000
+  utc_offset: -14400000
+  venue: {address_1: '1875 Connecticut Avenue NW ', city: Washington, country: us,
+    id: 23457882, lat: 38.915545999999999, lon: -77.045379999999994, name: ' WeWork
+      Dupont Circle ', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\

@@ -304,7 +304,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1422815436000, 
@@ -342,7 +342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1427088126000, 
@@ -382,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1436363865000, 
@@ -421,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1436407708000, 
@@ -448,7 +448,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1435605354000, 
@@ -475,7 +475,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1435497255000, 
@@ -514,7 +514,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1427088126000, 
@@ -747,7 +747,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1435605354000, 
@@ -802,6 +802,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1436462363000, 
+            "description": "<p>So much great work happening with APIs! \u00a0</p> <p>As many of you have now seen, the new location is great! \u00a0Good space, good food and drink, and plenty to talk about. \u00a0For August, we've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! \u00a0</p> <p>See you soon. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Jeffrey Meisel, Census Bureau\u00a0<br/>* Sean McDonald, Frontline SMS\u00a0<br/>* Eric Mill, 18F\u00a0<br/>* TBD</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/223814899/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "223814899", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - August Edition", 
+            "status": "upcoming", 
+            "time": 1438725600000, 
+            "updated": 1436462363000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1424968249000, 
@@ -894,7 +931,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1326383071000, 
@@ -934,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1427088126000, 
@@ -1082,6 +1119,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1436463866000, 
+            "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p> <p>BYO-laptops! Project Night is where geo/map members of the community get together and work on projects. There's no tutorial or instruction, but instead space and time to work on a tutorial or project independently or with friends. Bring some ideas and your curiosity. We can't wait to hang out and make things together.</p> <p>Huge thanks to WeWork Dupont for hosting!</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/223815285/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "223815285", 
+            "maybe_rsvp_count": 0, 
+            "name": "Maptime DC Project Night", 
+            "status": "upcoming", 
+            "time": 1439935200000, 
+            "updated": 1436463866000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1875 Connecticut Avenue NW ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23457882, 
+                "lat": 38.915545999999999, 
+                "lon": -77.045379999999994, 
+                "name": " WeWork Dupont Circle ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1424968249000, 
