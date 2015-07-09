@@ -1,8 +1,8 @@
 - accessibility:
     http://codefordc.github.io/districthousing/: {pa11y_id: 54fbac58a824900300a684a8}
-  activity: [17, 4, 1, 0, 1, 9, 0, 9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19, 27,
-    45, 8, 1, 9, 15, 7, 26, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0,
-    4, 0, 5, 0, 6, 2, 0, 0]
+  activity: [17, 4, 1, 0, 1, 9, 5, 4, 3, 0, 6, 3, 0, 8, 0, 7, 12, 27, 37, 13, 32,
+    38, 7, 1, 10, 20, 1, 26, 20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6, 3, 2,
+    2, 1, 4, 0, 8, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -305,7 +305,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 159,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 160,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -363,14 +363,14 @@
   - [JavaScript, 28711]
   - [CSS, 26899]
   - [Ruby, 3083]
-  - [Shell, 2544]
+  - [Shell, 2713]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
   open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-08T15:04:02Z'
+  pushed_at: '2015-07-08T18:06:55Z'
   size: 17528
   updated_at: '2015-05-14T02:21:48Z'
   watchers: 17
@@ -1098,7 +1098,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 96,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 39,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 41,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1121,7 +1121,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 15
+  forks: 16
   help_wanted:
   - assignee: null
     body: "\r\n-Add in a page on getting your arrest information (like this:http://www.expungemaryland.org/step2.\
@@ -1145,14 +1145,14 @@
   languages:
   - [HTML, 29893]
   - [JavaScript, 11520]
-  - [CSS, 2726]
+  - [CSS, 2631]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
   open_issues: 8
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-08T03:37:06Z'
+  pushed_at: '2015-07-08T21:34:49Z'
   size: 9220
   updated_at: '2015-06-05T23:02:14Z'
   watchers: 10
