@@ -296,7 +296,7 @@ other:
     name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 27
 - created: 1422815436000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -782,37 +782,37 @@ other:
     \ Looking for data sources? See\_Reinvent Transit list from\_<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\"\
     >technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\"\
     >Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a>\
-    \ site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p><b>Jaime McKay</b>\
-    \ from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a>\
-    \ will show how GTFS\_Builder is helping Maryland expand open data.</p> <p><br/><b>Michael\
-    \ Walk</b> from the\_<a href=\"http://mta.maryland.gov/\">Maryland Transit Administration</a>\
-    \ will update us on\_MTA's plans to open up its data, including real-time, ridership,\
-    \ routes and stops.</p> <p><br/><a href=\"https://twitter.com/kotarohara_en\"\
-    ><b>Kotaro Hara</b></a> will show how he collects data about street-level accessibility\
-    \ using a combination of crowdsourcing, automated methods, and Google Street View\
-    \ to support people with mobility impairments in Baltimore.</p> <p><br/><a href=\"\
-    https://twitter.com/ChaseGilliam\"><b>Chase Gilliam</b></a> will show us his <a\
-    \ href=\"https://bikestack.herokuapp.com/\">Bike Stack</a> program.</p> <p><br/><a\
-    \ href=\"http://elliottplack.me/\"><b>Elliott Plack</b></a> will share a map of\
-    \ historic/abandoned Baltimore transportation projects like the Red Line and the\
-    \ cross town expressway.</p> <p><br/><a href=\"http://chriswhong.com/\"><b>Chris\
-    \ Whong</b></a> will talk about his project to\_reverse-engineer the real-time\
-    \ <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a> published\
-    \ by Maryland's MTA. (There are several good articles about this project:\_<a\
-    \ href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
+    \ site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>\u2022\_<b>Jaime\
+    \ McKay</b> from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional\
+    \ Transit</a> will show how GTFS\_Builder helps Maryland expand open data.\_</p>\
+    \ <p>\u2022\_<b>Michael Walk</b> from the\_<a href=\"http://mta.maryland.gov/\"\
+    >Maryland Transit Administration</a> will update us on\_MTA's plans to open up\
+    \ its data, including real-time, ridership, routes and stops.</p> <p><br/>\u2022\
+    \_<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a> will show\
+    \ how he collects street-level accessibility\_data using crowdsourcing and Google\
+    \ Street View to support Baltimoreans with mobility impairments.</p> <p><br/>\u2022\
+    \_<a href=\"https://twitter.com/ChaseGilliam\"><b>Chase Gilliam</b></a> will show\
+    \ us his <a href=\"https://bikestack.herokuapp.com/\">Bike Stack</a> program.</p>\
+    \ <p><br/>\u2022\_<a href=\"http://elliottplack.me/\"><b>Elliott Plack</b></a>\
+    \ made a map of historic/abandoned Baltimore transportation projects like the\
+    \ Red Line and the cross town expressway.</p> <p><br/>\u2022 <b>Jason Lancaster</b>\_\
+    will show how he built a\_quick, cheap iOS app\_for the\_Charm City Circulator.</p>\
+    \ <p><br/>\u2022\_<a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will\
+    \ talk about his project to\_reverse-engineer the <a href=\"http://mta.maryland.gov/\"\
+    >MTA</a>'s real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker\
+    \ app</a>.</p> <p>\u2022\_<a href=\"http://www.thetrainingset.com/\"><b>Justin\
+    \ Elszasz</b></a>\_will digs out stories derived from\_parking citation data from\
+    \ Baltimore's open data portal.</p> <p><br/>There are several good articles about\
+    \ Chris Whong's project:\_<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
     >Civic hackers are already building a better MTA bus tracking system</a>,\_<a\
     \ href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\"\
     >Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>,\
-    \ and <a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\"\
+    \ and\_<a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\"\
     >Chris's own story,\_Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time\
-    \ Bus Data</a>.)</p> <p><a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\_\
-    will take you on an edge-of-your-seat adventure through... parking citation data.\
-    \ Justin digs out noteworthy stories from Baltimore's open data portal with the\
-    \ intent of improving the community and bringing science to bear on social issues\
-    \ in cities. America's attachment to personal vehicle ownership means that parking\
-    \ has become just one of a multitude of transportation and quality of life issues\
-    \ that Baltimore in particular and cities in general are facing.</p> <p><br/>For\
-    \ folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\"\
+    \ Bus Data</a>.</p> <p>See also this story about Justin Elszasz's\_work:\_<a href=\"\
+    http://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/\"\
+    >What parking ticket stats reveal about Baltimore\u2019s use of open data</a>.</p>\
+    \ <p>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\"\
     >Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for\
     \ DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer\
     \ to our event, but its last train leaves at 6:15pm.) You can use the free <a\
@@ -836,7 +836,7 @@ other:
   name: Transportation Tech in Baltimore
   status: upcoming
   time: 1438034400000
-  updated: 1436545184000
+  updated: 1436591267000
   utc_offset: -14400000
   venue: {address_1: 300 Light St, city: Baltimore, country: US, id: 18324662, lat: 39.284885000000003,
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
