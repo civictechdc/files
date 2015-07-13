@@ -307,7 +307,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 58
 - created: 1427088126000
   description: "<p>*** Julia Poladsky from Bitovi will be doing a special tech talk\
     \ on JavaScript data types and prototypical inheritance! ***</p> <p>***This meetup\
@@ -360,7 +360,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 73
 - created: 1436363865000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -419,7 +419,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -471,7 +471,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 10
 - created: 1435497255000
   description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
     \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
@@ -496,7 +496,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 49
 - created: 1436537984000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -526,7 +526,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -596,7 +596,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 43
 - created: 1432827429000
   description: "<p><b>NOTE:\_</b></p> <p>\u2022\_<b>You MUST register on <a href=\"\
     https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\"\
@@ -637,7 +637,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -686,7 +686,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1435121795000
   description: "<p>Numerous platforms exist to make machine learning more approachable\
     \ and easier to use. This talk will focus on Microsoft's solution. Let's add something\
@@ -753,11 +753,12 @@ other:
     \ (ACT)</a>\_are providing us a meeting space in conjunction with the <a href=\"\
     https://www.actconf.org/\">2015 ACT International Conference.</a>\_(You do not\
     \ need to register for the conference in order to attend our meetup, but please\
-    \ do RSVP via this site.) Doors open at 6:00 with pizza and drinks courtesy of\
-    \ our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>.\
-    \ Presentations start at 6:30.</p> <p>The format is show &amp; tell:\_If you have\
-    \ a project (an app, a hack, or a data visualization) you'd like to present, contact\_\
-    <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>.\
+    \ do RSVP via this site.) We'll be in the Frederick/Columbia room of the Hyatt\
+    \ Regency.\_Doors open at 6:00 with pizza and drinks courtesy of our sponsor,\
+    \ Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations\
+    \ start at 6:30.</p> <p>The format is show &amp; tell:\_If you have a project\
+    \ (an app, a hack, or a data visualization) you'd like to present, contact\_<a\
+    \ href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>.\
     \ Looking for data sources? See\_Reinvent Transit list from\_<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\"\
     >technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\"\
     >Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a>\
@@ -815,7 +816,7 @@ other:
   name: Transportation Tech in Baltimore
   status: upcoming
   time: 1438034400000
-  updated: 1436591267000
+  updated: 1436793017000
   utc_offset: -14400000
   venue: {address_1: 300 Light St, city: Baltimore, country: US, id: 18324662, lat: 39.284885000000003,
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
@@ -906,7 +907,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 71
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1027,7 +1028,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1283,7 +1284,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
