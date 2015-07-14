@@ -269,123 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1422815436000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in July! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231756/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231756", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 22: Wart Warthog", 
-            "status": "upcoming", 
-            "time": 1436826600000, 
-            "updated": 1435088064000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 59
-        }, 
-        {
-            "created": 1427088126000, 
-            "description": "<p>*** Julia Poladsky from Bitovi will be doing a special tech talk on JavaScript data types and prototypical inheritance! ***</p> <p>***This meetup is specially geared towards first timers - people who are starting to learn HTML, CSS, and JavaScript. Nevertheless, please join us even if you are not a first timer! We usually split up into 2 groups - one for first timers who want to go over the first timer's guide and one for everyone else***</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Tech talk by Julia Poladsky from Bitovi on JavaScript data types and prototypical inheritance</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223182101/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytkbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "First Timer's Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1436826600000, 
-            "updated": 1436285348000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "address_2": "Floor 1", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
-            "created": 1436363865000, 
-            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>6:45 - 7:00 Practice Interviews\u00a0</p> <p><br/>7:00 - 8:00 - Work on <b>graphs and AVL tree\u00a0</b>problems out of \"Cracking the Code\" interview; we will work in teams and have our hosts ask \"interview style\" follow up questions to prepare you</p> <p>8:00 - 8:15 - Design/Open-ended question</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so (unlike last time!) please bring a computer. You can code in the language of your choice!</p> <p>\n\n\nThis event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223785583/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "223785583", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms and Interview Prep Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1436826600000, 
-            "updated": 1436365932000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 20
-        }, 
-        {
             "created": 1436407708000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p><b>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</b></p>", 
             "duration": 7200000, 
@@ -410,7 +293,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1435605354000, 
@@ -448,7 +331,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435497255000, 
@@ -555,7 +438,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1436476003000, 
@@ -593,7 +476,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1432827429000, 
@@ -615,22 +498,22 @@ calendar({
             "name": "Managing Big Content : Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1437517800000, 
-            "updated": 1435639910000, 
+            "updated": 1436851488000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "address_1": "1133 15th St NW (8th Floor)", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
+                "id": 20421012, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776 (8th Floor)", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1435605354000, 
@@ -700,7 +583,7 @@ calendar({
         }, 
         {
             "created": 1430322325000, 
-            "description": "<p>Calling all transportation coders in the Baltimore region: we're having our first Transportation Techies meetup in Charm City. Our friends at the\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0are providing us a meeting space in conjunction with the <a href=\"https://www.actconf.org/\">2015 ACT International Conference.</a>\u00a0(You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Frederick/Columbia room of the Hyatt Regency.\u00a0Doors open at 6:00 with pizza and drinks courtesy of our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.</p> <p>The format is show &amp; tell:\u00a0If you have a project (an app, a hack, or a data visualization) you'd like to present, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>. Looking for data sources? See\u00a0Reinvent Transit list from\u00a0<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\">technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\">Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a> site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>\u2022\u00a0<b>Jaime McKay</b> from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a> will show how GTFS\u00a0Builder helps Maryland expand open data.\u00a0</p> <p>\u2022\u00a0<b>Michael Walk</b> from the\u00a0<a href=\"http://mta.maryland.gov/\">Maryland Transit Administration</a> will update us on\u00a0MTA's plans to open up its data, including real-time, ridership, routes and stops.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a> will show how he collects street-level accessibility\u00a0data using crowdsourcing and Google Street View to support Baltimoreans with mobility impairments.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/ChaseGilliam\"><b>Chase Gilliam</b></a> will show us his <a href=\"https://bikestack.herokuapp.com/\">Bike Stack</a> program.</p> <p><br/>\u2022\u00a0<a href=\"http://elliottplack.me/\"><b>Elliott Plack</b></a> made a map of historic/abandoned Baltimore transportation projects like the Red Line and the cross town expressway.</p> <p><br/>\u2022 <b>Jason Lancaster</b>\u00a0will show how he built a\u00a0quick, cheap iOS app\u00a0for the\u00a0Charm City Circulator.</p> <p><br/>\u2022\u00a0<a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will talk about his project to\u00a0reverse-engineer the <a href=\"http://mta.maryland.gov/\">MTA</a>'s real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a>.</p> <p>\u2022\u00a0<a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\u00a0will digs out stories derived from\u00a0parking citation data from Baltimore's open data portal.</p> <p><br/>There are several good articles about Chris Whong's project:\u00a0<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic hackers are already building a better MTA bus tracking system</a>,\u00a0<a href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\">Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>, and\u00a0<a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\">Chris's own story,\u00a0Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time Bus Data</a>.</p> <p>See also this story about Justin Elszasz's\u00a0work:\u00a0<a href=\"http://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/\">What parking ticket stats reveal about Baltimore\u2019s use of open data</a>.</p> <p>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\">Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer to our event, but its last train leaves at 6:15pm.) You can use the free <a href=\"http://www.charmcitycirculator.com/\">Charm City Circulator</a>'s <a href=\"http://www.charmcitycirculator.com/sites/default/files/ONLINE_Purple_Route_Maps_052915.jpg\">Purple Line</a> to ride the bus to Penn Station. The\u00a0Inner Harbor stop at\u00a0S Calvert St &amp; W Pratt St is a few blocks from our location at the\u00a0<a href=\"http://baltimore.hyatt.com/en/hotel/home.html\">Hyatt Regency</a>.\u00a0The Circulator runs every 10 to 15 minutes, until 9:00pm. <a href=\"http://www.amtrak.com/\">Amtrak</a> has more-expensive departures at\u00a09:20pm,\u00a010:10pm,\u00a010:20pm, and\u00a011:15pm.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/d/9/6/600_437920342.jpeg\" /></p>", 
+            "description": "<p>Calling all transportation coders in the Baltimore region: we're having our first Transportation Techies meetup in Charm City. Our friends at the\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0are providing us a meeting space in conjunction with the <a href=\"https://www.actconf.org/\">2015 ACT International Conference.</a>\u00a0(You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Frederick/Columbia room of the Hyatt Regency.\u00a0Doors open at 6:00 with pizza and drinks courtesy of our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>The format is show &amp; tell:\u00a0If you have a project (an app, a hack, or a data visualization) you'd like to present, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>. Looking for data sources? See\u00a0Reinvent Transit list from\u00a0<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\">technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\">Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a> site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>\u2022\u00a0<b>Jaime McKay</b> from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a> will show how GTFS\u00a0Builder helps Maryland expand open data.\u00a0</p> <p>\u2022\u00a0<b>Michael Walk</b> from the\u00a0<a href=\"http://mta.maryland.gov/\">Maryland Transit Administration</a> will update us on\u00a0MTA's plans to open up its data, including real-time, ridership, routes and stops.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a> will show how he collects street-level accessibility\u00a0data using crowdsourcing and Google Street View to support Baltimoreans with mobility impairments.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/ChaseGilliam\"><b>Chase Gilliam</b></a> will show us his <a href=\"https://bikestack.herokuapp.com/\">Bike Stack</a> program.</p> <p><br/>\u2022\u00a0<a href=\"http://elliottplack.me/\"><b>Elliott Plack</b></a> made a map of historic/abandoned Baltimore transportation projects like the Red Line and the cross town expressway.</p> <p><br/>\u2022 <b>Jason Lancaster</b>\u00a0will show how he built a\u00a0quick, cheap iOS app\u00a0for the\u00a0Charm City Circulator.</p> <p><br/>\u2022\u00a0<a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will talk about his project to\u00a0reverse-engineer the <a href=\"http://mta.maryland.gov/\">MTA</a>'s real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a>.</p> <p>\u2022\u00a0<a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\u00a0will digs out stories derived from\u00a0parking citation data from Baltimore's open data portal.</p> <p><br/>There are several good articles about Chris Whong's project:\u00a0<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic hackers are already building a better MTA bus tracking system</a>,\u00a0<a href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\">Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>, and\u00a0<a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\">Chris's own story,\u00a0Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time Bus Data</a>.</p> <p>See also this story about Justin Elszasz's\u00a0work:\u00a0<a href=\"http://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/\">What parking ticket stats reveal about Baltimore\u2019s use of open data</a>.</p> <p>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\">Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer to our event, but its last train leaves at 6:15pm.) You can use the free <a href=\"http://www.charmcitycirculator.com/\">Charm City Circulator</a>'s <a href=\"http://www.charmcitycirculator.com/sites/default/files/ONLINE_Purple_Route_Maps_052915.jpg\">Purple Line</a> to ride the bus to Penn Station. The\u00a0Inner Harbor stop at\u00a0S Calvert St &amp; W Pratt St is a few blocks from our location at the\u00a0<a href=\"http://baltimore.hyatt.com/en/hotel/home.html\">Hyatt Regency</a>.\u00a0The Circulator runs every 10 to 15 minutes, until 9:00pm. <a href=\"http://www.amtrak.com/\">Amtrak</a> has more-expensive departures at\u00a09:20pm,\u00a010:10pm,\u00a010:20pm, and\u00a011:15pm.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/d/9/6/600_437920342.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/222183536/", 
             "group": {
                 "created": 1384372275000, 
@@ -718,7 +601,7 @@ calendar({
             "name": "Transportation Tech in Baltimore", 
             "status": "upcoming", 
             "time": 1438034400000, 
-            "updated": 1436793017000, 
+            "updated": 1436854826000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "300 Light St", 
@@ -732,7 +615,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1427088126000, 
@@ -759,7 +642,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1435624442000, 
@@ -983,7 +866,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1326383071000, 
@@ -1208,7 +1091,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1424968249000, 
@@ -1241,7 +1124,7 @@ calendar({
             "created": 1435605354000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytlbzb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223911963/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1262,7 +1145,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1427088126000, 
@@ -1344,6 +1227,60 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1427088126000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779203/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rlzgglytlbpc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1441060200000, 
+            "updated": 1432846440000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1424968249000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytmbcb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "fnstflytmbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1441146600000, 
+            "updated": 1433103630000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
