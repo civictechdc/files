@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1427389052000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427389075000, 
@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1436537984000, 
@@ -449,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1436476003000, 
@@ -486,7 +486,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -590,7 +590,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
+        }, 
+        {
+            "created": 1436976450000, 
+            "description": "<p>Data scientists often use R and Python to train statistical and machine learning models. However, using these models in a production database or Hadoop platform can be difficult. This talk will present several strategies that pair R and Python with SAS and PMML to train sophisticated predictive models and deploy them to in-database and Hadoop environments to make predictions on new data. For a sneak peek, check out: <a href=\"https://github.com/sassoftware/enlighten-integration.\"><a href=\"https://github.com/sassoftware/enlighten-integration\" class=\"linkified\">https://github.com/sassoftware/enlighten-integration</a>.</a>\u00a0</p> <p>Bio:</p> <p>Patrick Hall is a senior staff scientist at SAS where he designs new data mining and machine learning technologies. He is the 11th person worldwide to become a Cloudera certified data scientist. Patrick studied computational chemistry at the University of Illinois before graduating from the Institute for Advanced Analytics at North Carolina State University in 2012.</p> <p>Schedule:</p> <p>6:30 - 7:00 \u00a0 Food, drinks and mingling<br/>7:00 - 7:10 \u00a0 \u00a0Intros and announcements<br/>7:10 - \u00a08:15ish \u00a0 Presentation, Q&amp;A<br/>8:15ish \u00a0 Off to data drinks at Tonic</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/223941085/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "223941085", 
+            "maybe_rsvp_count": 0, 
+            "name": "Playing Nice: Using PMML, Python, R, and SAS for Production Analytics", 
+            "status": "upcoming", 
+            "time": 1437690600000, 
+            "updated": 1436976450000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1430322325000, 
@@ -626,7 +665,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1427088126000, 
@@ -653,7 +692,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1435624442000, 
@@ -693,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1435605354000, 
@@ -784,7 +823,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1424968249000, 
@@ -1141,7 +1180,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1424968249000, 
@@ -1369,7 +1408,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
