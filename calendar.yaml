@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -232,7 +232,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -271,7 +271,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 other:
 - created: 1436407708000
   description: "<p>We're a group of women who want to learn and develop our Python\
@@ -351,7 +351,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1435497255000
   description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
     \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
@@ -453,7 +453,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 23
 - created: 1436476003000
   description: "<p>Ever want to design a basemap? Using basic tiles just doesn't cut\
     \ it out for you anymore? We'll be going through CartoCSS, the styling language\
@@ -479,7 +479,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1432827429000
   description: "<p><b>NOTE:\_</b></p> <p>\u2022\_<b>You MUST register on <a href=\"\
     https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\"\
@@ -491,17 +491,16 @@ other:
     \ will also talk about the challenges in managing large content collections, including\
     \ those presented by mobile, social, marketing platforms, etc and solutions to\
     \ the issues of\_multi-channel, multi-device content management and governance.</p>\
-    \ <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web &amp; Communications\
-    \ Technology, University of Maryland Medical Center</p> <p><br/>Speakers will\
-    \ be announced as they are confirmed.</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\_\
-    is the global leader in customer experience management software that lets marketers\
-    \ own the experience of every customer or prospect that engages with their brand.\
-    \ The company delivers highly relevant content and personalized digital experiences\
-    \ that delight audiences, build loyalty and drive revenue.\_</p> <p>More than\
-    \ 3,500 of the world\u2019s leading brands and organizations trust Sitecore to\
-    \ help them deliver the meaningful interactions that win customers for life. Learn\
-    \ more at\_<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\_</p> <p><img\
-    \ src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\"\
+    \ <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, University of Maryland Medical\
+    \ Center</p> <p><br/><b>Rachel Metscher</b>, ICF International</p> <p><b>OUR SPONSOR</b></p>\
+    \ <p>Sitecore\_is the global leader in customer experience management software\
+    \ that lets marketers own the experience of every customer or prospect that engages\
+    \ with their brand. The company delivers highly relevant content and personalized\
+    \ digital experiences that delight audiences, build loyalty and drive revenue.\_\
+    </p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust\
+    \ Sitecore to help them deliver the meaningful interactions that win customers\
+    \ for life. Learn more at\_<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\_\
+    </p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\"\
     \ /></p>"
   event_url: http://www.meetup.com/webcontentmavens/events/222842787/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -513,14 +512,14 @@ other:
   name: 'Managing Big Content : Web, Mobile & Social'
   status: upcoming
   time: 1437517800000
-  updated: 1436851488000
+  updated: 1436915702000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -628,7 +627,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -706,7 +705,7 @@ other:
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -791,7 +790,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 76
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -912,7 +911,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1025,6 +1024,26 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 52
+- created: 1436915407000
+  event_url: http://www.meetup.com/DCLegalHackers/events/223926114/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  how_to_find_us: Suite 400, text 413-387-8268 if lost
+  id: '223926114'
+  maybe_rsvp_count: 0
+  name: '#LegalHack Open Educational Resources'
+  status: upcoming
+  time: 1438815600000
+  updated: 1436915442000
+  utc_offset: -14400000
+  venue: {address_1: '1899 L Street NW ', address_2: Suite 400, city: Washington,
+    country: us, id: 1330329, lat: 38.903917, lon: -77.043056000000007, name: New
+      America Foundation, repinned: false, state: DC, zip: '20036'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1046,7 +1065,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
