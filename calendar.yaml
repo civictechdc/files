@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -297,7 +297,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - created: 1436537984000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -327,7 +327,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -374,7 +374,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1436476003000
   description: "<p>Ever want to design a basemap? Using basic tiles just doesn't cut\
     \ it out for you anymore? We'll be going through CartoCSS, the styling language\
@@ -399,7 +399,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 16
   yes_rsvp_count: 50
 - created: 1432827429000
   description: "<p><b>NOTE:\_</b></p> <p>\u2022\_<b>You MUST register on <a href=\"\
@@ -440,7 +440,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 88
 - created: 1437011699000
   description: <p>DC Tech is having their awesome <a href="http://www.meetup.com/DC-Tech-Meetup/events/213907562/"><b>Women
     in Tech meetup</b></a> - and we will be there! (giving a little 60 second talk
@@ -464,7 +464,7 @@ other:
     lon: -77.024225999999999, name: MLK Library, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 29
 - created: 1437035376000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -491,7 +491,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -599,7 +599,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1436976450000
   description: "<p>Data scientists often use R and Python to train statistical and\
     \ machine learning models. However, using these models in a production database\
@@ -634,7 +634,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 72
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -1030,7 +1030,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1436915407000
   event_url: http://www.meetup.com/DCLegalHackers/events/223926114/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -1158,7 +1158,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1422815467000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1318,7 +1318,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1642,10 +1642,10 @@ other:
   name: Writing Grammars in PyParsing for Web Scraping, Data Wrangler, and App Control
   status: upcoming
   time: 1441233000000
-  updated: 1428344852000
+  updated: 1437070400000
   utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
@@ -1735,11 +1735,14 @@ other:
   name: Deep Dive Into Dplyr And Databases
   status: upcoming
   time: 1444257000000
-  updated: 1430405548000
+  updated: 1437070409000
   utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
+    state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1814,8 +1817,11 @@ other:
   name: November Meetup
   status: upcoming
   time: 1446679800000
-  updated: 1417881977000
+  updated: 1437070416000
   utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
+    state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1893,8 +1899,11 @@ other:
   name: December Meetup
   status: upcoming
   time: 1449099000000
-  updated: 1417881984000
+  updated: 1437070421000
   utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
+    state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1

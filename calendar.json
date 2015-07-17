@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1427389052000, 
@@ -305,7 +305,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1436537984000, 
@@ -346,7 +346,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1427088126000, 
@@ -384,7 +384,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1436476003000, 
@@ -421,7 +421,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -459,7 +459,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1437011699000, 
@@ -497,7 +497,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1437035376000, 
@@ -524,7 +524,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1435605354000, 
@@ -590,7 +590,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1436976450000, 
@@ -629,7 +629,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1430322325000, 
@@ -916,7 +916,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1436915407000, 
@@ -1050,7 +1050,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1422815467000, 
@@ -1180,7 +1180,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1424968249000, 
@@ -1392,16 +1392,16 @@
             "name": "Writing Grammars in PyParsing for Web Scraping, Data Wrangler, and App Control", 
             "status": "upcoming", 
             "time": 1441233000000, 
-            "updated": 1428344852000, 
+            "updated": 1437070400000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 13300352, 
+                "id": 10605112, 
                 "lat": 38.898952000000001, 
                 "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
+                "name": "GWU, Funger Hall, Room 103", 
                 "repinned": false, 
                 "state": "DC", 
                 "zip": "20052"
@@ -1509,11 +1509,23 @@
             "name": "Deep Dive Into Dplyr And Databases", 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1430405548000, 
+            "updated": 1437070409000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -1614,8 +1626,20 @@
             "name": "November Meetup", 
             "status": "upcoming", 
             "time": 1446679800000, 
-            "updated": 1417881977000, 
+            "updated": 1437070416000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -1719,8 +1743,20 @@
             "name": "December Meetup", 
             "status": "upcoming", 
             "time": 1449099000000, 
-            "updated": 1417881984000, 
+            "updated": 1437070421000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
