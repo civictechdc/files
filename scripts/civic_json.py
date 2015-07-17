@@ -16,10 +16,10 @@ output = []
 schema = requests.get("http://codefordc.org/resources/schema.json").json()
 
 # Load existing access results
-access = {}
-access_tasks = requests.get("https://accessfordc-worker.herokuapp.com/tasks").json()
-for i in access_tasks:
-    access[i["url"]] = i["id"]
+# access = {}
+# access_tasks = requests.get("https://accessfordc-worker.herokuapp.com/tasks").json()
+# for i in access_tasks:
+#    access[i["url"]] = i["id"]
 
 # Begin building
 for project in tracked:
@@ -120,51 +120,8 @@ for project in tracked:
     data['civic_json'] = civic
 
     # Get accessibility results
-    accessibility = {}
-    urls = []
+    # TODO: call to Continua11y here
 
-    try:
-        r = requests.get(link.replace('github.com','raw.githubusercontent.com') + '/' + data['default_branch'] + '/pa11y.yml').json()
-        y = yaml.load(r)
-        urls.append(y['urls'])
-    except ValueError:
-        if data['homepage']:
-            urls.append(data['homepage'])
-
-    for url in urls:
-        
-        # Get results if they exist
-        try:
-            r = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+access[url]+"/results").json()
-            try:
-                accessibility[url] = {
-                    "pa11y_id": access[url],
-                    "results": r[0]["count"]
-                }
-            except IndexError:
-                accessibility[url] = {"pa11y_id": access[url]}
-        
-        # If not, start tracking site
-        except KeyError:
-            payload = {
-                "url": url,
-                "name": name+" - "+url,
-                "standard": "WCAG2AAA"
-            }
-            r = requests.post("https://accessfordc-worker.herokuapp.com/tasks", data=payload).json()
-            # Initial pa11y run
-            start = requests.post("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/run")
-            time.sleep(20)
-            get = requests.get("https://accessfordc-worker.herokuapp.com/tasks/"+r["id"]+"/results").json()
-            try:
-                accessibility[url] = {
-                    "pa11y_id": r["id"],
-                    "results": get[0]["count"]
-                }
-            except IndexError:
-                accessibility[url] = {"pa11y_id": r["id"]}
-
-    data['accessibility'] = accessibility
 
     # Oh yeah, the project's name
     data['name'] = name
