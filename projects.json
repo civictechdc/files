@@ -1591,7 +1591,7 @@
             "url": "https://github.com/LeeMendelowitz"
         }, 
         "pushed_at": "2015-07-10T20:25:59Z", 
-        "size": 32825, 
+        "size": 32814, 
         "updated_at": "2015-06-23T17:26:56Z", 
         "watchers": 22
     }, 
@@ -3455,14 +3455,14 @@
                         "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
                     }, 
                     {
-                        "color": "5319e7", 
-                        "name": "Priority #1", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
+                        "color": "006b75", 
+                        "name": "Priority #2", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232"
                     }
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-14T18:07:00Z"
+                "updated_at": "2015-07-17T23:14:08Z"
             }, 
             {
                 "assignee": null, 
@@ -3491,29 +3491,6 @@
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
                 "updated_at": "2015-07-13T17:58:46Z"
-            }, 
-            {
-                "assignee": null, 
-                "body": "On the first page you could say,\r\n \r\n1)    I have an arrest or charge that resulted in a non-conviction that I would like to seal that does not fit into any of the categories above\r\n\r\n2)    I have a conviction that I would like to seal that does not fit into any of the categories above\r\n\r\n \r\n \r\nThen you have to ask if a case is pending. After that it is broken down to felony conviction, misdemeanor conviction for the conviction tab.", 
-                "comments": 2, 
-                "created_at": "2015-07-09T18:57:40Z", 
-                "issue": "Revise Nonconviciton/conviction button. Break it into two and make sure corresponding code is also changed", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/84", 
-                "labels": [
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "5319e7", 
-                        "name": "Priority #1", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-16T14:33:28Z"
             }, 
             {
                 "assignee": null, 
@@ -3564,7 +3541,7 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 8, 
+        "open_issues": 7, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
