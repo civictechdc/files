@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1427389052000, 
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1436537984000, 
@@ -346,7 +346,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427088126000, 
@@ -384,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1436476003000, 
@@ -421,7 +421,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -497,7 +497,44 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
+        }, 
+        {
+            "created": 1437237879000, 
+            "description": "<p>I'm just reposting this meetup from the Women Who Code group. I won't be there this week.\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\">Katherine McClintic</a>\u00a0is the event host. It's an opportunity to hang out, work on your app or a tutorial, &amp; get help if you're stuck.\u00a0</p> <p>Anyone interested in working on an open source app to help you improve your coding skills or to mentor others?\u00a0Send a message to [masked] with info on your availability &amp; details about your skill level.</p> <p>Recommended tutorial: <a href=\"http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/224010096/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Girls (and Guys)"
+            }, 
+            "headcount": 0, 
+            "id": "224010096", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1437604200000, 
+            "updated": 1437237879000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave Nw Ste 200", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 23972349, 
+                "lat": 38.899033000000003, 
+                "lon": -77.032982000000004, 
+                "name": "LivingSocial, Inc", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1437035376000, 
@@ -641,7 +678,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1430322325000, 
@@ -744,7 +781,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1436728473000, 
@@ -784,7 +821,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1435605354000, 
@@ -822,7 +859,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427088126000, 
@@ -979,7 +1016,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1436915407000, 
@@ -1243,7 +1280,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1424968249000, 
@@ -1471,7 +1508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
