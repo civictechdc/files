@@ -274,30 +274,32 @@ codefordc:
   yes_rsvp_count: 6
 other:
 - created: 1435497255000
-  description: "<p>Yes, this is a Python group, but if you want to do web dev, you'll\
-    \ want to learn Javascript!</p> <p>In this online class, we'll be learning the\
-    \ basics of Javascript, including:</p> <p>\u2022\_Storing and manipulating data</p>\
-    \ <p>\u2022 Manipulating HTML</p> <p><br/>\u2022\_Logic and flow control</p> <p>\u2022\
-    \_Objects</p> <p>\u2022\_Functions</p> <p>\u2022\_Debugging</p> <p>\u2022\_Frameworks</p>"
+  description: "<p>Hangout On Air link:\_<a href=\"https://plus.google.com/u/0/events/c6ploisrs6csrqbqtbjbl5oje3k\"\
+    \ class=\"linkified\">https://plus.google.com/u/0/events/c6ploisrs6csrqbqtbjbl5oje3k</a></p>\
+    \ <p>Yes, this is a Python group, but if you want to do web dev, you'll want to\
+    \ learn Javascript!</p> <p>In this online class, we'll be learning the basics\
+    \ of Javascript, including:</p> <p>\u2022\_Storing and manipulating data</p> <p>\u2022\
+    \ Manipulating HTML</p> <p><br/>\u2022\_Logic and flow control</p> <p>\u2022\_\
+    Objects</p> <p>\u2022\_Functions</p> <p>\u2022\_Debugging</p> <p>\u2022\_Frameworks</p>"
   duration: 10800000
   event_url: http://www.meetup.com/dc-pyladies/events/223553042/
   group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
   headcount: 0
-  how_to_find_us: A link will be added to the meet-up the day before the class.
+  how_to_find_us: The link is in the details!
   id: '223553042'
   maybe_rsvp_count: 0
   name: Learn Javascript in your PJs!
   status: upcoming
   time: 1437312600000
-  updated: 1435527996000
+  updated: 1437253506000
   utc_offset: -14400000
   venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
     lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - created: 1436537984000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -374,7 +376,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1436476003000
   description: "<p>Ever want to design a basemap? Using basic tiles just doesn't cut\
     \ it out for you anymore? We'll be going through CartoCSS, the styling language\
@@ -520,7 +522,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -631,7 +633,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 90
 - created: 1436976450000
   description: "<p>Data scientists often use R and Python to train statistical and\
     \ machine learning models. However, using these models in a production database\
@@ -666,7 +668,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 104
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -884,7 +886,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 117
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -892,27 +894,27 @@ other:
     \ Study Group. This event is intended for those new to programming and/or ROR\
     \ (but we welcome people of all levels to attend and help out)! The agenda will\
     \ include a lecture that covers Ruby and Rails and an installfest to help you\
-    \ set up Rails on your own computer.\_</p> <p>Please bring a laptop to the event\
-    \ so you can participate in\_the installfest!</p> <p>Check out our ROR guide for\
-    \ more info about what we will be covering on Wednesday:\_<a href=\"http://bit.ly/wwcrailsguide\"\
-    ><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p>\
-    \ <p><b>Getting in the Building</b></p> <p>The building locks its doors at 6pm,\
-    \ but there will be someone at the door to let you in.\_ If not please comment\
-    \ here or on Slack (if you're signed up for it, see resource link below if not)\
-    \ and someone will come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every\
-    \ study group will have the following format:</p> <p>\u2022\_6:30pm - Setup</p>\
-    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm -\
-    \ Introduction talk to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install\
-    \ necessary software following the <a href=\"http://installrails.com/\">InstallRails</a>\
-    \ guide.</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ set up Rails on your own computer.\_</p> <p>This event is intended to be exclusively\
+    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
+    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
+    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
+    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
+    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Getting in\
+    \ the Building</b></p> <p>The building locks its doors at 6pm, but there will\
+    \ be someone at the door to let you in.\_ If not please comment here or on Slack\
+    \ (if you're signed up for it, see resource link below if not) and someone will\
+    \ come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every study group will\
+    \ have the following format:</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40\
+    \ - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk\
+    \ to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install necessary software\
+    \ following the <a href=\"http://installrails.com/\">InstallRails</a> guide.</p>\
+    \ <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p> <p>These\
+    \ are the resources that members have been following along, feel free to suggest\
+    \ if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/223981363/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -924,14 +926,14 @@ other:
   name: 'Ruby on Rails Study Group: First Timers'' Night!'
   status: upcoming
   time: 1438209000000
-  updated: 1437170576000
+  updated: 1437246504000
   utc_offset: -14400000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1003,7 +1005,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1157,7 +1159,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
