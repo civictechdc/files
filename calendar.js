@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1427389052000, 
@@ -269,47 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1436537984000, 
-            "description": "<p>As discussed...<br/>Let's meet at MLK library to continue pushing the ball forward. (If you cannot make it and would like to join us virtually, please post in comments and I will if we can do a group chat.)</p> <p><b>Things to do (&amp; more):<br/></b>- We will where things are and plan the next steps<br/>- We will go over research also. \u00a0</p> <p><b>How to find the group? \u00a0</b>MLK Library in DC, Digital Commons Room 2 \u00a0<br/>(If we are at full capacity, we will move to a bigger room and post to the meetup.)</p> <p><b>RSVPs</b>\u00a0 <i>There is a limited amount of space. Please only RSVP if you you truly intend on attending.\u00a0</i></p> <p><br/>Hangout:\u00a0<a href=\"https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa\"><a href=\"https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa\" class=\"linkified\">https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/223833938/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Digital Commons Room 2", 
-            "id": "223833938", 
-            "maybe_rsvp_count": 0, 
-            "name": "Group project co-working: Diversity in Tech", 
-            "rsvp_limit": 14, 
-            "status": "upcoming", 
-            "time": 1437325200000, 
-            "updated": 1437326226000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 6
-        }, 
-        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -345,7 +304,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1436476003000, 
@@ -382,12 +341,12 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 50
         }, 
         {
             "created": 1432827429000, 
-            "description": "<p><b>NOTE:\u00a0</b></p> <p>\u2022\u00a0<b>You MUST register on <a href=\"https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\">Eventbrite</a>.\u00a0</b></p> <p>Join us\u00a0for drinks, appetizers and networking, followed by a discussion of large content collections and how companies and organizations can more effectively manage those repositories in a multi-channel, multi-device world.\u00a0</p> <p>Our speakers will discuss\u00a0content collections, what they can include, how that information is distributed and managed. They will also talk about the challenges in managing large content collections, including those presented by mobile, social, marketing platforms, etc and solutions to the issues of\u00a0multi-channel, multi-device content management and governance.</p> <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, University of Maryland Medical Center</p> <p><br/><b>Rachel Metscher</b>, ICF International</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\" /></p>", 
+            "description": "<p><b>NOTE:\u00a0</b></p> <p>\u2022\u00a0<b>You MUST register on <a href=\"https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\">Eventbrite</a>.\u00a0</b></p> <p>Join us\u00a0for drinks, appetizers and networking, followed by a discussion of large content collections and how companies and organizations can more effectively manage those repositories in a multi-channel, multi-device world.\u00a0</p> <p>Our speakers will discuss\u00a0content collections, what they can include, how that information is distributed and managed. They will also talk about the challenges in managing large content collections, including those presented by mobile, social, marketing platforms, etc and solutions to the issues of\u00a0multi-channel, multi-device content management and governance.</p> <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web and Communications Technology, University of Maryland Medical Center</p> <p><b>Rachel Metscher</b>, Senior Director of Brand and Marketing Communications, ICF International</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/222842787/", 
             "group": {
                 "created": 1189804715000, 
@@ -405,7 +364,7 @@ calendar({
             "name": "Managing Big Content : Web, Mobile & Social", 
             "status": "upcoming", 
             "time": 1437517800000, 
-            "updated": 1436915702000, 
+            "updated": 1437341752000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -458,11 +417,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1437237879000, 
-            "description": "<p>I'm just reposting this meetup from the Women Who Code group. I won't be there this week.\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\">Katherine McClintic</a>\u00a0is the event host. It's an opportunity to hang out, work on your app or a tutorial, &amp; get help if you're stuck.\u00a0</p> <p>Anyone interested in working on an open source app to help you improve your coding skills or to mentor others?\u00a0Send a message to [masked] with info on your availability &amp; details about your skill level.</p> <p>Recommended tutorial: <a href=\"http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\u00a0</p>", 
+            "description": "<p>I'm just reposting this meetup from the Women Who Code group. I won't be there this week.\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\">Katherine McClintic</a>\u00a0is the event host. It's an opportunity to hang out, work on your app or a tutorial, &amp; get help if you're stuck.\u00a0</p> <p>NOTE:\u00a0Anyone who attends this event must RSVP on the Women Who Code event &amp; include their name, as per LivingSocial requirements. This event is for Women Only.</p> <p><a href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\"><a href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\" class=\"linkified\">http://www.meetup.com/Women-Who-Code-DC/events/223853372/</a></a></p> <p>Anyone interested in working on an open source app to help you improve your coding skills or to mentor others?\u00a0Send a message to [masked] with info on your availability &amp; details about your skill level. Recommended tutorial: <a href=\"http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/224010096/", 
             "group": {
@@ -481,7 +440,7 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1437604200000, 
-            "updated": 1437237879000, 
+            "updated": 1437343666000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave Nw Ste 200", 
@@ -561,7 +520,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435121795000, 
@@ -639,7 +598,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1430322325000, 
@@ -782,7 +741,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1435605354000, 
@@ -1056,7 +1015,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -1149,7 +1108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1435605354000, 
@@ -1548,6 +1507,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1437347249000, 
+            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join the Web Content Mavens as we discuss the value of reach of content marketing - and determine if you are setting up your content marketing efforts for success.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "224034782", 
+            "maybe_rsvp_count": 0, 
+            "name": "Content Marketing: Are You Doing It Right?", 
+            "status": "upcoming", 
+            "time": 1442358000000, 
+            "updated": 1437349006000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 

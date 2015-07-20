@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -273,38 +273,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 6
 other:
-- created: 1436537984000
-  description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
-    \ the ball forward. (If you cannot make it and would like to join us virtually,\
-    \ please post in comments and I will if we can do a group chat.)</p> <p><b>Things\
-    \ to do (&amp; more):<br/></b>- We will where things are and plan the next steps<br/>-\
-    \ We will go over research also. \_</p> <p><b>How to find the group? \_</b>MLK\
-    \ Library in DC, Digital Commons Room 2 \_<br/>(If we are at full capacity, we\
-    \ will move to a bigger room and post to the meetup.)</p> <p><b>RSVPs</b>\_ <i>There\
-    \ is a limited amount of space. Please only RSVP if you you truly intend on attending.\_\
-    </i></p> <p><br/>Hangout:\_<a href=\"https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa\"\
-    ><a href=\"https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa\" class=\"\
-    linkified\">https://plus.google.com/hangouts/_/gvxf4quqd7776uaugbpvepc5kaa</a></a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/dc-pyladies/events/223833938/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  how_to_find_us: Digital Commons Room 2
-  id: '223833938'
-  maybe_rsvp_count: 0
-  name: 'Group project co-working: Diversity in Tech'
-  rsvp_limit: 14
-  status: upcoming
-  time: 1437325200000
-  updated: 1437326226000
-  utc_offset: -14400000
-  venue: {address_1: '901 G St NW # 400', city: Washington, country: us, id: 4367692,
-    lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
-      King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 6
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -351,7 +319,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1436476003000
   description: "<p>Ever want to design a basemap? Using basic tiles just doesn't cut\
     \ it out for you anymore? We'll be going through CartoCSS, the styling language\
@@ -376,7 +344,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 21
   yes_rsvp_count: 50
 - created: 1432827429000
   description: "<p><b>NOTE:\_</b></p> <p>\u2022\_<b>You MUST register on <a href=\"\
@@ -389,16 +357,17 @@ other:
     \ will also talk about the challenges in managing large content collections, including\
     \ those presented by mobile, social, marketing platforms, etc and solutions to\
     \ the issues of\_multi-channel, multi-device content management and governance.</p>\
-    \ <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, University of Maryland Medical\
-    \ Center</p> <p><br/><b>Rachel Metscher</b>, ICF International</p> <p><b>OUR SPONSOR</b></p>\
-    \ <p>Sitecore\_is the global leader in customer experience management software\
-    \ that lets marketers own the experience of every customer or prospect that engages\
-    \ with their brand. The company delivers highly relevant content and personalized\
-    \ digital experiences that delight audiences, build loyalty and drive revenue.\_\
-    </p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust\
-    \ Sitecore to help them deliver the meaningful interactions that win customers\
-    \ for life. Learn more at\_<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\_\
-    </p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\"\
+    \ <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web and Communications\
+    \ Technology, University of Maryland Medical Center</p> <p><b>Rachel Metscher</b>,\
+    \ Senior Director of Brand and Marketing Communications, ICF International</p>\
+    \ <p><b>OUR SPONSOR</b></p> <p>Sitecore\_is the global leader in customer experience\
+    \ management software that lets marketers own the experience of every customer\
+    \ or prospect that engages with their brand. The company delivers highly relevant\
+    \ content and personalized digital experiences that delight audiences, build loyalty\
+    \ and drive revenue.\_</p> <p>More than 3,500 of the world\u2019s leading brands\
+    \ and organizations trust Sitecore to help them deliver the meaningful interactions\
+    \ that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
+    >www.sitecore.com</a>\_</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\"\
     \ /></p>"
   event_url: http://www.meetup.com/webcontentmavens/events/222842787/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -410,7 +379,7 @@ other:
   name: 'Managing Big Content : Web, Mobile & Social'
   status: upcoming
   time: 1437517800000
-  updated: 1436915702000
+  updated: 1437341752000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
@@ -441,16 +410,21 @@ other:
     lon: -77.024225999999999, name: MLK Library, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1437237879000
   description: "<p>I'm just reposting this meetup from the Women Who Code group. I\
     \ won't be there this week.\_<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\"\
     >Katherine McClintic</a>\_is the event host. It's an opportunity to hang out,\
-    \ work on your app or a tutorial, &amp; get help if you're stuck.\_</p> <p>Anyone\
-    \ interested in working on an open source app to help you improve your coding\
-    \ skills or to mentor others?\_Send a message to [masked] with info on your availability\
-    \ &amp; details about your skill level.</p> <p>Recommended tutorial: <a href=\"\
-    http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\_\
+    \ work on your app or a tutorial, &amp; get help if you're stuck.\_</p> <p>NOTE:\_\
+    Anyone who attends this event must RSVP on the Women Who Code event &amp; include\
+    \ their name, as per LivingSocial requirements. This event is for Women Only.</p>\
+    \ <p><a href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\"><a\
+    \ href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\" class=\"\
+    linkified\">http://www.meetup.com/Women-Who-Code-DC/events/223853372/</a></a></p>\
+    \ <p>Anyone interested in working on an open source app to help you improve your\
+    \ coding skills or to mentor others?\_Send a message to [masked] with info on\
+    \ your availability &amp; details about your skill level. Recommended tutorial:\
+    \ <a href=\"http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\_\
     </p>"
   duration: 7200000
   event_url: http://www.meetup.com/railsgirlsdc/events/224010096/
@@ -463,7 +437,7 @@ other:
   name: Ruby on Rails Study Group
   status: upcoming
   time: 1437604200000
-  updated: 1437237879000
+  updated: 1437343666000
   utc_offset: -14400000
   venue: {address_1: 1445 New York Ave Nw Ste 200, city: Washington, country: US,
     id: 23972349, lat: 38.899033000000003, lon: -77.032982000000004, name: 'LivingSocial,
@@ -549,7 +523,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1435121795000
   description: "<p>Numerous platforms exist to make machine learning more approachable\
     \ and easier to use. This talk will focus on Microsoft's solution. Let's add something\
@@ -643,7 +617,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 108
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -861,7 +835,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 137
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1134,7 +1108,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1256,7 +1230,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1770,6 +1744,61 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1437347249000
+  description: "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\"\
+    >register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating\
+    \ content that interests and engages your audience, creates a trust relationship\
+    \ with your visitors and enhances your brand.</p> <p>Join the Web Content Mavens\
+    \ as we discuss the value of reach of content marketing - and determine if you\
+    \ are setting up your content marketing efforts for success.</p> <p><b>SPEAKERS</b></p>\
+    \ <p><b>Rebecca Lombardo</b>,\_Director of Marketing &amp; Business Development,\
+    \ The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With\
+    \ 13 years of magazine experience, she enjoys helping companies market themselves\
+    \ online in a more editorial way. Responsible for disrupting traditional thinking\
+    \ and inspiring new ideas that deepen brand retention, Rebecca works with existing\
+    \ and potential clients to keep them on the cutting edge of digital marketing\
+    \ and design services via the loyal account managers inside Sutter Group. She\
+    \ keeps the creative bar high and the attention focused on the end-user. Rebecca\
+    \ has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established\
+    \ brands like PEZ, with their Public Relations, Content and Social Media marketing.</p>\
+    \ <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p>\
+    \ <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p>\
+    \ <p>Sutter Group\_is a woman-owned and operated small business based in the Washington,\
+    \ D.C. area with almost 30 years of experience working with nationally recognized\
+    \ brands. Our dedication to brand consistency and quality across digital platforms\
+    \ and specialty printing has made us one of the most highly referred full-service\
+    \ creative agencies. Sutter Group\u2019s sought-after brand development insight\
+    \ and multi-platform marketing experience has given us the pleasure of working\
+    \ with the nation\u2019s leading automotive brands, technology companies, nonprofits\
+    \ and more. Sutter Group offers services in branding, website design, marketing\
+    \ strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img\
+    \ src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p>\
+    \ <p>Sitecore\_is the global leader in customer experience management software\
+    \ that lets marketers own the experience of every customer or prospect that engages\
+    \ with their brand. The company delivers highly relevant content and personalized\
+    \ digital experiences that delight audiences, build loyalty and drive revenue.\_\
+    </p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust\
+    \ Sitecore to help them deliver the meaningful interactions that win customers\
+    \ for life. Learn more at\_<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\_\
+    </p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/224034782/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '224034782'
+  maybe_rsvp_count: 0
+  name: 'Content Marketing: Are You Doing It Right?'
+  status: upcoming
+  time: 1442358000000
+  updated: 1437349006000
+  utc_offset: -14400000
+  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
+    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
+      Hub, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
