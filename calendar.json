@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1427389052000, 
@@ -304,7 +304,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1436476003000, 
@@ -341,7 +341,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 23, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -454,7 +454,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1437035376000, 
@@ -481,7 +481,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1435605354000, 
@@ -520,7 +520,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1435121795000, 
@@ -559,7 +559,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1436976450000, 
@@ -741,7 +741,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1435605354000, 
@@ -779,7 +779,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1427088126000, 
@@ -936,7 +936,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1436915407000, 
@@ -1016,6 +1016,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 16
+        }, 
+        {
+            "created": 1437393299000, 
+            "description": "<p>As discussed...<br/>Let's meet at MLK library to continue pushing the ball forward. (If you cannot make it and would like to join us virtually, please post in comments and I will if we can do a group chat.)</p> <p><b>Things to do (&amp; more):<br/></b>- Look over planning documents and discuss the shape of the data for each application</p> <p>- Make sure everyone's local environment is set up for development</p> <p>- Go over our git workflow</p> <p>- Document all the things!</p> <p><b>Note:</b>Though we had many remote people at this last meeting, it would be best if everyone showed up in person. It's easiest to set up multiple environments when hands can be laid upon keyboards.\u00a0</p> <p><br/><b>How to find the group? \u00a0</b>MLK Library in DC, Digital Commons Room 2 \u00a0<br/>(If we are at full capacity, we will move to a bigger room and post to the meetup.)</p> <p><b>RSVPs</b>\u00a0 <i>There is a limited amount of space. Please only RSVP if you you truly intend on attending.\u00a0</i></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/224043692/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Digital Commons Room 2", 
+            "id": "224043692", 
+            "maybe_rsvp_count": 0, 
+            "name": "Group project co-working: Diversity in Tech", 
+            "rsvp_limit": 14, 
+            "status": "upcoming", 
+            "time": 1439139600000, 
+            "updated": 1437393299000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW # 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4367692, 
+                "lat": 38.898448999999999, 
+                "lon": -77.024704, 
+                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1427088126000, 
@@ -1510,7 +1551,7 @@
         }, 
         {
             "created": 1437347249000, 
-            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join the Web Content Mavens as we discuss the value of reach of content marketing - and determine if you are setting up your content marketing efforts for success.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
+            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
             "group": {
                 "created": 1189804715000, 
@@ -1528,7 +1569,7 @@
             "name": "Content Marketing: Are You Doing It Right?", 
             "status": "upcoming", 
             "time": 1442358000000, 
-            "updated": 1437349006000, 
+            "updated": 1437354890000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
