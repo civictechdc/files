@@ -360,10 +360,10 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 10
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-13T16:34:37Z'
+  pushed_at: '2015-07-20T14:42:45Z'
   size: 17564
   updated_at: '2015-05-14T02:21:48Z'
   watchers: 17
@@ -590,7 +590,7 @@
   size: 5418
   updated_at: '2015-05-19T23:30:58Z'
   watchers: 3
-- activity: [3, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [4, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -1064,7 +1064,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 96,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 47,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 48,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1082,7 +1082,7 @@
     link: 'https://github.com/jimwebb', name: jimwebb}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6122?v=3', contributions: 4,
     link: 'https://github.com/wam', name: wam}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 3,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 4,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12052154?v=3', contributions: 2,
     link: 'https://github.com/JasonParentEAB', name: JasonParentEAB}
@@ -1117,7 +1117,7 @@
     updated_at: '2015-07-14T18:46:23Z'
   - assignee: null
     body: 'We can either use google analytics or some other analytics site: https://bitdeli.com/'
-    comments: 2
+    comments: 5
     created_at: '2015-07-13T17:55:58Z'
     issue: Incorporate analytics into our github site
     issue_url: https://github.com/codefordc/clean-slate/issues/92
@@ -1126,7 +1126,7 @@
     - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-07-14T18:24:05Z'
+    updated_at: '2015-07-20T14:59:42Z'
   - assignee: null
     body: '@John Leszczynski'
     comments: 1
@@ -1186,7 +1186,7 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 30170]
+  - [HTML, 30302]
   - [JavaScript, 8560]
   - [CSS, 3558]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
@@ -1195,7 +1195,7 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-17T00:13:06Z'
+  pushed_at: '2015-07-20T14:51:58Z'
   size: 10328
   updated_at: '2015-07-14T19:49:58Z'
   watchers: 10
@@ -1276,7 +1276,7 @@
     thumbnailUrl: https://raw.githubusercontent.com/emanuelfeld/tree-map/gh-pages/assets/dc168green.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 165,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 169,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   contributors_count: 1
   created_at: '2013-11-08T01:07:50Z'
@@ -1291,7 +1291,7 @@
   languages:
   - [HTML, 28268]
   - [CSS, 22614]
-  - [R, 7280]
+  - [R, 18236]
   - [JavaScript, 536]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
@@ -1299,7 +1299,7 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-05-26T22:31:02Z'
-  size: 21420
+  pushed_at: '2015-07-20T13:05:18Z'
+  size: 21676
   updated_at: '2015-05-19T23:20:37Z'
   watchers: 3

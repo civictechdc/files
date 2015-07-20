@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1427389052000, 
@@ -304,7 +304,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1436476003000, 
@@ -341,7 +341,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1437011699000, 
@@ -417,7 +417,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1437237879000, 
@@ -559,7 +559,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1436976450000, 
@@ -598,7 +598,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1430322325000, 
@@ -741,7 +741,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 163
+        }, 
+        {
+            "created": 1437413157000, 
+            "description": "<p>July features Elaine Ayo talking about some of her work with data. Watch this space for more info!</p> <p>As always, pizza will show up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get started.</p>", 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/224050687/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "224050687", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data with Elaine", 
+            "status": "upcoming", 
+            "time": 1438209000000, 
+            "updated": 1437413157000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1818 N St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 311792, 
+                "lat": 38.907229999999998, 
+                "lon": -77.042150000000007, 
+                "name": "Sunlight Foundation", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1435605354000, 
@@ -779,7 +817,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427088126000, 
@@ -936,7 +974,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1436915407000, 
@@ -1056,7 +1094,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1427088126000, 
@@ -1584,7 +1622,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 

@@ -1099,14 +1099,14 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-07-13T16:34:37Z", 
+        "pushed_at": "2015-07-20T14:42:45Z", 
         "size": 17564, 
         "updated_at": "2015-05-14T02:21:48Z", 
         "watchers": 17
@@ -1776,8 +1776,8 @@ projects([
     }, 
     {
         "activity": [
-            3, 
-            1, 
+            4, 
+            0, 
             0, 
             2, 
             1, 
@@ -3291,7 +3291,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 47, 
+                "contributions": 48, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3345,7 +3345,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 3, 
+                "contributions": 4, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -3399,7 +3399,7 @@ projects([
             {
                 "assignee": null, 
                 "body": "We can either use google analytics or some other analytics site: https://bitdeli.com/", 
-                "comments": 2, 
+                "comments": 5, 
                 "created_at": "2015-07-13T17:55:58Z", 
                 "issue": "Incorporate analytics into our github site", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/92", 
@@ -3417,7 +3417,7 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-14T18:24:05Z"
+                "updated_at": "2015-07-20T14:59:42Z"
             }, 
             {
                 "assignee": null, 
@@ -3528,7 +3528,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                30170
+                30302
             ], 
             [
                 "JavaScript", 
@@ -3554,7 +3554,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-07-17T00:13:06Z", 
+        "pushed_at": "2015-07-20T14:51:58Z", 
         "size": 10328, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
@@ -3804,7 +3804,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 165, 
+                "contributions": 169, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }
@@ -3829,7 +3829,7 @@ projects([
             ], 
             [
                 "R", 
-                7280
+                18236
             ], 
             [
                 "JavaScript", 
@@ -3851,8 +3851,8 @@ projects([
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-05-26T22:31:02Z", 
-        "size": 21420, 
+        "pushed_at": "2015-07-20T13:05:18Z", 
+        "size": 21676, 
         "updated_at": "2015-05-19T23:20:37Z", 
         "watchers": 3
     }
