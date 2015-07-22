@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 57
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1427389075000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -306,7 +306,7 @@ other:
       Inc', repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1437035376000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -333,7 +333,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -385,7 +385,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1435121795000
   description: "<p>Numerous platforms exist to make machine learning more approachable\
     \ and easier to use. This talk will focus on Microsoft's solution. Let's add something\
@@ -444,7 +444,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 101
 - created: 1437458079000
   description: "<p>Had a hot summer? So have we! Come cool off and grab a couple drinks\
     \ with us at Shaw's own sherry bar, Mockingbird Hill. We invite everyone in the\
@@ -469,7 +469,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 18
 - created: 1436976450000
   description: "<p>Data scientists often use R and Python to train statistical and\
     \ machine learning models. However, using these models in a production database\
@@ -582,7 +582,7 @@ other:
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -626,7 +626,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1435624442000
   description: "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features\
     \ of the Google Cloud Platform used in building the Google Cloud Spin demo shown\
@@ -667,7 +667,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 96
 - created: 1436728473000
   description: "<p>For the July Data Science DC Meetup we're having a themed evening\
     \ where we'll look at the intersection of data science with mapping and spatial\
@@ -722,7 +722,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 195
+  yes_rsvp_count: 200
 - created: 1437413157000
   description: "<p>July features Elaine Ayo talking about some of her data science\
     \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
@@ -752,7 +752,7 @@ other:
     zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1437529630000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -762,8 +762,9 @@ other:
     \ first Wednesday of every month, which caters especially for absolute beginners\
     \ and people with basic familiarity.\_All other study group nights will cover\
     \ more advanced topics and work on projects more in depth, according to everyone's\
-    \ interests.</p> <p><b>This Women Who Code DC event is intended to be exclusively\
-    \ open for women; we are trans* friendly.\_</b></p>"
+    \ interests.</p> <p>There will be food at this event!</p> <p><b>This Women Who\
+    \ Code DC event is intended to be exclusively open for women; we are trans* friendly.\_\
+    </b></p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/224085010/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -777,14 +778,14 @@ other:
   name: Python Study Group
   status: upcoming
   time: 1438209000000
-  updated: 1437529989000
+  updated: 1437587585000
   utc_offset: -14400000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1018,7 +1019,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1436915407000
   event_url: http://www.meetup.com/DCLegalHackers/events/223926114/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -1060,7 +1061,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1437393299000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -1343,7 +1344,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 17
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1696,7 +1697,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1422815503000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in September! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
