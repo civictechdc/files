@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1427389052000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1427389075000, 
@@ -269,119 +269,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1436476003000, 
-            "description": "<p>Ever want to design a basemap? Using basic tiles just doesn't cut it out for you anymore? We'll be going through CartoCSS, the styling language used for designing vector tilesets used in web mapping. We'll be using Mapbox Studio for this tutorial, under Katie's instruction. Feel free to download the software beforehand.\u00a0</p> <p>Katie Kowalsky is an organizer for Maptime Madison, tweets for NACIS and Maptime HQ, and is currently in DC working for Girls Who Code.</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/223819487/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "223819487", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to CartoCSS & Mapbox Studio", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1437517800000, 
-            "updated": 1436492092000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 15, 
-            "yes_rsvp_count": 50
-        }, 
-        {
-            "created": 1432827429000, 
-            "description": "<p><b>NOTE:\u00a0</b></p> <p>\u2022\u00a0<b>You MUST register on <a href=\"https://www.eventbrite.com/e/anywhere-content-big-content-edition-tickets-17171649867\">Eventbrite</a>.\u00a0</b></p> <p>Join us\u00a0for drinks, appetizers and networking, followed by a discussion of large content collections and how companies and organizations can more effectively manage those repositories in a multi-channel, multi-device world.\u00a0</p> <p>Our speakers will discuss\u00a0content collections, what they can include, how that information is distributed and managed. They will also talk about the challenges in managing large content collections, including those presented by mobile, social, marketing platforms, etc and solutions to the issues of\u00a0multi-channel, multi-device content management and governance.</p> <p><b>SPEAKERS</b></p> <p><b>Ed Bennett</b>, Director, Web and Communications Technology, University of Maryland Medical Center</p> <p><b>Rachel Metscher</b>, Senior Director of Brand and Marketing Communications, ICF International</p> <p><b>OUR SPONSOR</b></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/2/9/8/d/600_437350637.jpeg\" /></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/222842787/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "222842787", 
-            "maybe_rsvp_count": 0, 
-            "name": "Managing Big Content : Web, Mobile & Social", 
-            "status": "upcoming", 
-            "time": 1437517800000, 
-            "updated": 1437341752000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 92
-        }, 
-        {
-            "created": 1437011699000, 
-            "description": "<p>DC Tech is having their awesome <a href=\"http://www.meetup.com/DC-Tech-Meetup/events/213907562/\"><b>Women in Tech meetup</b></a> - and we will be there! (giving a little 60 second talk on what we do) They have a huge list of really spectacular women founders - make sure to check them all out.</p> <p>So if you are free please sign up and come! We'll have a slack channel so that you can find other WWC members - <a href=\"https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform\">sign up here</a> if you want to be added.</p> <p>See you there!</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223954200/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "223954200", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC Tech: Women in Tech Edition", 
-            "status": "upcoming", 
-            "time": 1437519600000, 
-            "updated": 1437011699000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 679273, 
-                "lat": 38.898738999999999, 
-                "lon": -77.024225999999999, 
-                "name": "MLK Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 54
-        }, 
-        {
             "created": 1437237879000, 
             "description": "<p>I'm just reposting this meetup from the Women Who Code group. I won't be there this week.\u00a0<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\">Katherine McClintic</a>\u00a0is the event host. It's an opportunity to hang out, work on your app or a tutorial, &amp; get help if you're stuck.\u00a0</p> <p>NOTE:\u00a0Anyone who attends this event must RSVP on the Women Who Code event &amp; include their name, as per LivingSocial requirements. This event is for Women Only.</p> <p><a href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\"><a href=\"http://www.meetup.com/Women-Who-Code-DC/events/223853372/\" class=\"linkified\">http://www.meetup.com/Women-Who-Code-DC/events/223853372/</a></a></p> <p>Anyone interested in working on an open source app to help you improve your coding skills or to mentor others?\u00a0Send a message to [masked] with info on your availability &amp; details about your skill level. Recommended tutorial: <a href=\"http://railstutorial.org/book\" class=\"linkified\">http://railstutorial.org/book</a>\u00a0</p>", 
             "duration": 7200000, 
@@ -443,7 +330,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1435605354000, 
@@ -482,7 +369,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1435121795000, 
@@ -521,7 +408,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1437458079000, 
@@ -599,7 +486,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1430322325000, 
@@ -635,7 +522,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1427088126000, 
@@ -662,7 +549,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1435624442000, 
@@ -702,7 +589,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1436728473000, 
@@ -742,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 190
+            "yes_rsvp_count": 195
         }, 
         {
             "created": 1437413157000, 
@@ -780,7 +667,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
+        }, 
+        {
+            "created": 1437529630000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p><b>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.\u00a0</b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224085010/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Take the elevator to the 6th floor.           The closest Metro is Red line, Farragut North Station", 
+            "id": "224085010", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Study Group", 
+            "status": "upcoming", 
+            "time": 1438209000000, 
+            "updated": 1437529989000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1435605354000, 
@@ -818,7 +744,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -986,7 +912,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1436915407000, 
@@ -1199,7 +1125,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1435605354000, 
