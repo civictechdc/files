@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1427389052000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427389075000, 
@@ -303,7 +303,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1437237879000, 
@@ -482,7 +482,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435121795000, 
@@ -521,7 +521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1437458079000, 
@@ -560,7 +560,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1436976450000, 
@@ -599,7 +599,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1430322325000, 
@@ -662,7 +662,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1435624442000, 
@@ -742,11 +742,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1437413157000, 
-            "description": "<p>July features Elaine Ayo talking about some of her work with data. Watch this space for more info!</p> <p>As always, pizza will show up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get started.</p>", 
+            "description": "<p>July features Elaine Ayo talking about some of her data science work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\">District Data Labs' Incubator Program</a>, Elaine\u00a0and her\u00a0team developed a visualization of Bureau of Labor Statistics data for different industry concentrations and tried to find interesting clusters of industry. Elaine will present her team's final app, as well as what they learned in putting it together.</p> <p><a href=\"https://twitter.com/eieayo\">Elaine Ayo </a>is a data analyst at a public policy research firm, primarily focusing on studies of nutrition assistance programs.</p> <p>############################</p> <p>As always, pizza will show up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get started. See you soon!</p>", 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/224050687/", 
             "group": {
                 "created": 1378482158000, 
@@ -764,7 +764,7 @@ calendar({
             "name": "Data with Elaine", 
             "status": "upcoming", 
             "time": 1438209000000, 
-            "updated": 1437413157000, 
+            "updated": 1437503298000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1818 N St NW", 
@@ -780,7 +780,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435605354000, 
@@ -818,7 +818,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1427088126000, 
@@ -932,8 +932,19 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1438813800000, 
-            "updated": 1435697321000, 
+            "updated": 1437511016000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2100 Crystal Drive", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 23752637, 
+                "lat": 38.855201999999998, 
+                "lon": -77.050147999999993, 
+                "name": "TechShop DC-Arlington", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1194,7 +1205,7 @@ calendar({
             "created": 1435605354000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytlbqb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224078260/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1211,8 +1222,20 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1439418600000, 
-            "updated": 1435697321000, 
+            "updated": 1437511062000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW,", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 6154072, 
+                "lat": 38.899357000000002, 
+                "lon": -77.033066000000005, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1280,7 +1303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1424968249000, 
@@ -1623,7 +1646,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1417881835000, 
@@ -1662,7 +1685,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 

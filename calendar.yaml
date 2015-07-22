@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 52
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1427389075000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -297,7 +297,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 15
   yes_rsvp_count: 50
 - created: 1432827429000
   description: "<p><b>NOTE:\_</b></p> <p>\u2022\_<b>You MUST register on <a href=\"\
@@ -363,7 +363,7 @@ other:
     lon: -77.024225999999999, name: MLK Library, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1437237879000
   description: "<p>I'm just reposting this meetup from the Women Who Code group. I\
     \ won't be there this week.\_<a href=\"http://www.meetup.com/Women-Who-Code-DC/members/180218742\"\
@@ -476,7 +476,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1435121795000
   description: "<p>Numerous platforms exist to make machine learning more approachable\
     \ and easier to use. This talk will focus on Microsoft's solution. Let's add something\
@@ -535,7 +535,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1437458079000
   description: "<p>Had a hot summer? So have we! Come cool off and grab a couple drinks\
     \ with us at Shaw's own sherry bar, Mockingbird Hill. We invite everyone in the\
@@ -560,7 +560,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1436976450000
   description: "<p>Data scientists often use R and Python to train statistical and\
     \ machine learning models. However, using these models in a production database\
@@ -595,7 +595,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 133
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -717,7 +717,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1435624442000
   description: "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features\
     \ of the Google Cloud Platform used in building the Google Cloud Spin demo shown\
@@ -813,11 +813,19 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 183
+  yes_rsvp_count: 190
 - created: 1437413157000
-  description: <p>July features Elaine Ayo talking about some of her work with data.
-    Watch this space for more info!</p> <p>As always, pizza will show up around 6:30,
-    so start arriving then. We'll introduce ourselves at 7 and get started.</p>
+  description: "<p>July features Elaine Ayo talking about some of her data science\
+    \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
+    >District Data Labs' Incubator Program</a>, Elaine\_and her\_team developed a\
+    \ visualization of Bureau of Labor Statistics data for different industry concentrations\
+    \ and tried to find interesting clusters of industry. Elaine will present her\
+    \ team's final app, as well as what they learned in putting it together.</p> <p><a\
+    \ href=\"https://twitter.com/eieayo\">Elaine Ayo </a>is a data analyst at a public\
+    \ policy research firm, primarily focusing on studies of nutrition assistance\
+    \ programs.</p> <p>############################</p> <p>As always, pizza will show\
+    \ up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get\
+    \ started. See you soon!</p>"
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/224050687/
   group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
@@ -828,14 +836,14 @@ other:
   name: Data with Elaine
   status: upcoming
   time: 1438209000000
-  updated: 1437413157000
+  updated: 1437503298000
   utc_offset: -14400000
   venue: {address_1: 1818 N St NW, city: Washington, country: us, id: 311792, lat: 38.907229999999998,
     lon: -77.042150000000007, name: Sunlight Foundation, repinned: false, state: DC,
     zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 10
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -882,7 +890,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1040,8 +1048,11 @@ other:
   name: Ruby on Rails Study Group
   status: upcoming
   time: 1438813800000
-  updated: 1435697321000
+  updated: 1437511016000
   utc_offset: -14400000
+  venue: {address_1: 2100 Crystal Drive, city: Arlington, country: us, id: 23752637,
+    lat: 38.855201999999998, lon: -77.050147999999993, name: TechShop DC-Arlington,
+    repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1299,7 +1310,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytlbqb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224078260/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1309,8 +1320,11 @@ other:
   name: Ruby on Rails Study Group
   status: upcoming
   time: 1439418600000
-  updated: 1435697321000
+  updated: 1437511062000
   utc_offset: -14400000
+  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
+    lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
+    state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1388,7 +1402,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1837,7 +1851,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -1872,7 +1886,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
