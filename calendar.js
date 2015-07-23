@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1427389052000, 
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1436976450000, 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 135
         }, 
         {
             "created": 1430322325000, 
@@ -403,11 +403,22 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1438036200000, 
-            "updated": 1432846440000, 
+            "updated": 1437670827000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1435624442000, 
@@ -447,7 +458,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1436728473000, 
@@ -487,7 +498,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 206
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1437413157000, 
@@ -564,7 +575,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1435605354000, 
@@ -629,7 +640,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1436462363000, 
@@ -666,7 +677,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1424968249000, 
@@ -719,7 +730,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1435605354000, 
@@ -1113,7 +1124,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1424968249000, 

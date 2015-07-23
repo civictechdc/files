@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 65
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -297,7 +297,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1436976450000
   description: "<p>Data scientists often use R and Python to train statistical and\
     \ machine learning models. However, using these models in a production database\
@@ -332,7 +332,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 135
 - created: 1430322325000
   description: "<p>Calling all transportation coders in the Baltimore region: we're\
     \ having our first Transportation Techies meetup in Charm City. Our friends at\
@@ -450,11 +450,14 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1438036200000
-  updated: 1432846440000
+  updated: 1437670827000
   utc_offset: -14400000
+  venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
+    id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
+      Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1435624442000
   description: "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features\
     \ of the Google Cloud Platform used in building the Google Cloud Spin demo shown\
@@ -495,7 +498,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 105
 - created: 1436728473000
   description: "<p>For the July Data Science DC Meetup we're having a themed evening\
     \ where we'll look at the intersection of data science with mapping and spatial\
@@ -550,7 +553,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 206
+  yes_rsvp_count: 208
 - created: 1437413157000
   description: "<p>July features Elaine Ayo talking about some of her data science\
     \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
@@ -613,7 +616,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -704,7 +707,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -732,7 +735,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -798,7 +801,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 6
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1197,7 +1200,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 26
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
