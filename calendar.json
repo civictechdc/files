@@ -269,84 +269,6 @@
     ], 
     "other": [
         {
-            "created": 1437458079000, 
-            "description": "<p>Had a hot summer? So have we! Come cool off and grab a couple drinks with us at Shaw's own sherry bar, Mockingbird Hill. We invite everyone in the community to join us and special thanks to those who have supported \u00a0us\u00a0(hosts, members, tech community)\u00a0thus far!</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224065375/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "224065375", 
-            "maybe_rsvp_count": 0, 
-            "name": "WWC + Friends Happy Hour!", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1437685200000, 
-            "updated": 1437479180000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1843 7th Street Northwest", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23977321, 
-                "lat": 38.914893999999997, 
-                "lon": -77.021866000000003, 
-                "name": "Mockingbird Hill", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 22
-        }, 
-        {
-            "created": 1436976450000, 
-            "description": "<p>Data scientists often use R and Python to train statistical and machine learning models. However, using these models in a production database or Hadoop platform can be difficult. This talk will present several strategies that pair R and Python with SAS and PMML to train sophisticated predictive models and deploy them to in-database and Hadoop environments to make predictions on new data. For a sneak peek, check out: <a href=\"https://github.com/sassoftware/enlighten-integration.\"><a href=\"https://github.com/sassoftware/enlighten-integration\" class=\"linkified\">https://github.com/sassoftware/enlighten-integration</a>.</a>\u00a0</p> <p>Bio:</p> <p>Patrick Hall is a senior staff scientist at SAS where he designs new data mining and machine learning technologies. He is the 11th person worldwide to become a Cloudera certified data scientist. Patrick studied computational chemistry at the University of Illinois before graduating from the Institute for Advanced Analytics at North Carolina State University in 2012.</p> <p>Schedule:</p> <p>6:30 - 7:00 \u00a0 Food, drinks and mingling<br/>7:00 - 7:10 \u00a0 \u00a0Intros and announcements<br/>7:10 - \u00a08:15ish \u00a0 Presentation, Q&amp;A<br/>8:15ish \u00a0 Off to data drinks at Tonic</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/223941085/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "223941085", 
-            "maybe_rsvp_count": 0, 
-            "name": "Playing Nice: Using PMML, Python, R, and SAS for Production Analytics", 
-            "status": "upcoming", 
-            "time": 1437690600000, 
-            "updated": 1436976450000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 134
-        }, 
-        {
             "created": 1430322325000, 
             "description": "<p>Calling all transportation coders in the Baltimore region: we're having our first Transportation Techies meetup in Charm City. Our friends at the\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0are providing us a meeting space in conjunction with the <a href=\"https://www.actconf.org/\">2015 ACT International Conference.</a>\u00a0(You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Frederick/Columbia room of the Hyatt Regency.\u00a0Doors open at 6:00 with pizza and drinks courtesy of our sponsor, Arlington, VA's <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>The format is show &amp; tell:\u00a0If you have a project (an app, a hack, or a data visualization) you'd like to present, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a>. Looking for data sources? See\u00a0Reinvent Transit list from\u00a0<a href=\"http://technical.ly/baltimore/2013/04/09/openbaltimore-transportation-datasets-updated-for-reinvent-transit-hackathon/\">technical.ly</a>, this list from <a href=\"https://data.baltimorecity.gov/browse?category=Transportation\">Open Baltimore</a>, and the <a href=\"https://github.com/gomrln/merlin\">Github</a> site behind <a href=\"http://www.mrln.org/\">MRLN</a>.</p> <p>\u2022\u00a0<b>Jaime McKay</b> from <a href=\"http://www.cmrtransit.org/\">Central Maryland Regional Transit</a> will show how GTFS\u00a0Builder helps Maryland expand open data.\u00a0</p> <p>\u2022\u00a0<b>Michael Walk</b> from the\u00a0<a href=\"http://mta.maryland.gov/\">Maryland Transit Administration</a> will update us on\u00a0MTA's plans to open up its data, including real-time, ridership, routes and stops.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a> will show how he collects street-level accessibility\u00a0data using crowdsourcing and Google Street View to support Baltimoreans with mobility impairments.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/ChaseGilliam\"><b>Chase Gilliam</b></a> will show us his <a href=\"https://bikestack.herokuapp.com/\">Bike Stack</a> program.</p> <p><br/>\u2022\u00a0<a href=\"http://elliottplack.me/\"><b>Elliott Plack</b></a> made a map of historic/abandoned Baltimore transportation projects like the Red Line and the cross town expressway.</p> <p><br/>\u2022 <b>Jason Lancaster</b>\u00a0will show how he built a\u00a0quick, cheap iOS app\u00a0for the\u00a0Charm City Circulator.</p> <p><br/>\u2022\u00a0<a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will talk about his project to\u00a0reverse-engineer the <a href=\"http://mta.maryland.gov/\">MTA</a>'s real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a>.</p> <p>\u2022\u00a0<a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\u00a0will digs out stories derived from\u00a0parking citation data from Baltimore's open data portal.</p> <p><br/>There are several good articles about Chris Whong's project:\u00a0<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic hackers are already building a better MTA bus tracking system</a>,\u00a0<a href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\">Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>, and\u00a0<a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\">Chris's own story,\u00a0Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time Bus Data</a>.</p> <p>See also this story about Justin Elszasz's\u00a0work:\u00a0<a href=\"http://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/\">What parking ticket stats reveal about Baltimore\u2019s use of open data</a>.</p> <p>For folks coming from Washington, the last <a href=\"http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls\">Penn Line</a> <a href=\"http://mta.maryland.gov/marc-train\">MARC train</a> for DC leaves Penn Station at 9:15pm. (The Camden Line's Camden Station is closer to our event, but its last train leaves at 6:15pm.) You can use the free <a href=\"http://www.charmcitycirculator.com/\">Charm City Circulator</a>'s <a href=\"http://www.charmcitycirculator.com/sites/default/files/ONLINE_Purple_Route_Maps_052915.jpg\">Purple Line</a> to ride the bus to Penn Station. The\u00a0Inner Harbor stop at\u00a0S Calvert St &amp; W Pratt St is a few blocks from our location at the\u00a0<a href=\"http://baltimore.hyatt.com/en/hotel/home.html\">Hyatt Regency</a>.\u00a0The Circulator runs every 10 to 15 minutes, until 9:00pm. <a href=\"http://www.amtrak.com/\">Amtrak</a> has more-expensive departures at\u00a09:20pm,\u00a010:10pm,\u00a010:20pm, and\u00a011:15pm.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/d/9/6/600_437920342.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/222183536/", 
@@ -419,7 +341,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1427088126000, 
@@ -497,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1436728473000, 
@@ -537,7 +459,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 212
+            "yes_rsvp_count": 243
         }, 
         {
             "created": 1437413157000, 
@@ -575,7 +497,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1437529630000, 
@@ -652,7 +574,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1427088126000, 
@@ -716,11 +638,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Beginner's Night</b></p> <p>On beginner's night, we'll be focused on helping each other fix java, android, and android studio installation issues. See our Getting Started guide in \"Resources\" below for installation instructions!</p> <p>We'll also get started on the <a href=\"https://www.udacity.com/course/viewer#!/c-ud837\">Android Development for Beginners</a> course on Udacity. The course is free, and completely optional. You don't need to take the course to join us at hack night!. Check our Getting Started guide below for additional suggestions of learning materials!</p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223967641/", 
             "group": {
                 "created": 1395616294000, 
@@ -735,11 +657,11 @@
             "headcount": 0, 
             "id": "fnstflytlbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
+            "name": "Android Hack Night - Beginner's Night", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1438727400000, 
-            "updated": 1433103630000, 
+            "updated": 1437731983000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -769,7 +691,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1435605354000, 
@@ -846,7 +768,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1436915407000, 
@@ -1017,7 +939,7 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1439332200000, 
-            "updated": 1433236869000, 
+            "updated": 1437732382000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1168,7 +1090,7 @@
         {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytlbxb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141203/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1186,7 +1108,7 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1439937000000, 
-            "updated": 1433103630000, 
+            "updated": 1437732397000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1249,7 +1171,7 @@
         {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytlbhc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141206/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1267,7 +1189,7 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1440541800000, 
-            "updated": 1433103630000, 
+            "updated": 1437732422000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1330,7 +1252,7 @@
         {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytmbcb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141213/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1348,7 +1270,7 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1441146600000, 
-            "updated": 1433103630000, 
+            "updated": 1437732453000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1459,6 +1381,33 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1424968249000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141219/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "fnstflytmblb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1441751400000, 
+            "updated": 1437732467000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1422815503000, 
