@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1427389052000, 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1430322325000, 
@@ -380,7 +380,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
+        }, 
+        {
+            "created": 1437677897000, 
+            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>7:00 - 8:15 - We will be pairing up and doing mock interviews!\u00a0</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. You can code in the language of your choice!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224125522/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224125522", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms and Interview Prep Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1438036200000, 
+            "updated": 1437677897000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1427088126000, 
@@ -458,7 +497,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1436728473000, 
@@ -498,7 +537,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 208
+            "yes_rsvp_count": 212
         }, 
         {
             "created": 1437413157000, 
@@ -575,7 +614,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1435605354000, 
@@ -613,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1427088126000, 
@@ -640,7 +679,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1436462363000, 
@@ -677,7 +716,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1424968249000, 
@@ -886,7 +925,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1437393299000, 
@@ -1124,7 +1163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1424968249000, 
@@ -1352,7 +1391,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1326383071000, 
@@ -1420,33 +1459,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/fnstflytmblb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "fnstflytmblb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1441751400000, 
-            "updated": 1433103630000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1422815503000, 

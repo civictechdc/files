@@ -185,7 +185,7 @@
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -298,18 +298,18 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 161,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 163,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 24,
     link: 'https://github.com/leahbannon', name: leahbannon}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 7,
-    link: 'https://github.com/ajschumacher', name: ajschumacher}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 10,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 7,
     link: 'https://github.com/justgrimes', name: justgrimes}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 5,
-    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 7,
+    link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7332618?v=3', contributions: 5,
     link: 'https://github.com/jtreed25', name: jtreed25}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7108211?v=3', contributions: 4,
@@ -360,10 +360,10 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 11
+  open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-23T14:27:24Z'
+  pushed_at: '2015-07-23T20:29:35Z'
   size: 17577
   updated_at: '2015-07-21T23:36:55Z'
   watchers: 18
@@ -473,8 +473,8 @@
   size: 2915
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
-- activity: [9, 0, 8, 0, 10, 7, 8, 9, 0, 10, 4, 4, 0, 0, 1, 0, 0, 1, 0, 2, 1, 0, 8,
-    0, 0, 0, 0, 0, 10, 9, 12, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+- activity: [9, 0, 8, 0, 11, 6, 11, 6, 1, 9, 4, 4, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8,
+    0, 0, 0, 0, 0, 10, 13, 8, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     0, 2, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -590,7 +590,7 @@
   size: 5418
   updated_at: '2015-05-19T23:30:58Z'
   watchers: 3
-- activity: [2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
@@ -936,8 +936,8 @@
   updated_at: '2015-06-14T11:58:16Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 66, 61, 30, 18, 80, 7, 1, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0,
-    0, 0, 0, 0]
+    0, 0, 0, 0, 0, 0, 20, 56, 65, 17, 47, 51, 6, 1, 1, 1, 6, 0, 0, 0, 0, 0, 2, 1,
+    0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
