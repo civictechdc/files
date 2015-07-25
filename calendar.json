@@ -302,7 +302,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1437677897000, 
@@ -341,7 +341,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1427088126000, 
@@ -419,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1436728473000, 
@@ -459,7 +459,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 263
+            "yes_rsvp_count": 271
         }, 
         {
             "created": 1437413157000, 
@@ -497,7 +497,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1437529630000, 
@@ -574,7 +574,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1427088126000, 
@@ -638,7 +638,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1424968249000, 
@@ -665,7 +665,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1437645673000, 
@@ -772,6 +772,7 @@
         }, 
         {
             "created": 1436915407000, 
+            "description": "<p><b>#LegalHack OER: Should publicly funded education resources be openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation about how we should be thinking about the ownership of publicly funded educational materials.</p> <p>If the federal government pays for educational resources to be developed, should those resources belong in the public commons? Increasingly, federal agencies are starting to think the answer should be \u201cyes.\u201d From the <a href=\"https://creativecommons.org/tag/taaccct\">Departments of Labor and Education</a>, to the <a href=\"http://www.nsf.gov/news/special_reports/public_access/\">National Science Foundation</a>, agencies are considering how to share the wealth of educational materials they fund with the public.</p> <p>But many questions remain: How should these materials be licensed? Where will these materials be stored? Who will be responsible for curating them? What incentives can be used to encourage the creation of new materials?</p> <p>To talk through these questions and more, we\u2019ve assembled a panel of experts to #LegalHack publicly funded educational materials.</p> <p>-----</p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"> more than twenty</a> legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Speakers:</p> <p><br/><b>\u2022\u00a0Meredith Jacob, </b><i>Creative Commons US</i></p> <p><b>\u2022\u00a0Sharon Leu, </b><i>U.S. Department of Labor</i></p> <p><b>\u2022 </b><b>Dipayan Ghosh</b><i>, White House Office of Science and Technology Policy\u00a0</i></p> <p><b>\u2022\u00a0Chris Lewis</b><i>, Public Knowledge</i></p> <p>Schedule:</p> <p>6:00pm: Drinks/Networking</p> <p>6:45pm: Panel Introductions / Brief Presentations If You'd Like</p> <p>7:00pm: Panel</p> <p>7:45pm: Q&amp;A</p> <p>8:00pm: End</p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/223926114/", 
             "group": {
                 "created": 1372871984000, 
@@ -790,7 +791,7 @@
             "name": "#LegalHack Open Educational Resources", 
             "status": "upcoming", 
             "time": 1438815600000, 
-            "updated": 1436915442000, 
+            "updated": 1437772114000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -807,7 +808,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
@@ -1140,6 +1141,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1437765166000, 
+            "description": "<p>Yes! We'll finally be going over Python 3!</p> <p>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data<br/>* Getting information from the user<br/>* Logic and flow control<br/>* Using the standard library<br/>* Projects of interest</p> <p>The On Air link will only be added the day before the class starts, so keep an eye out for it!</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/224150140/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "224150140", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Python THREE in your PJs!", 
+            "status": "upcoming", 
+            "time": 1440336600000, 
+            "updated": 1437765166000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Link is in the details", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23483842, 
+                "lat": 38.890369, 
+                "lon": -77.031959999999998, 
+                "name": "Google Hangout On Air", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1427088126000, 
