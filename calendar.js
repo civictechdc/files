@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1427389052000, 
@@ -341,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -459,7 +459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 281
+            "yes_rsvp_count": 285
         }, 
         {
             "created": 1437413157000, 
@@ -536,7 +536,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1435605354000, 
@@ -638,7 +638,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1424968249000, 
@@ -768,7 +768,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1436915407000, 
@@ -808,11 +808,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>It's summer time... in the city! Between screen on the green, dancing cranes, rooftop sunsets, and more - the city stays alive despite the humidity. Keeping our pulse vibrant is the surge of talent doing internships!\u00a0</p> <p>So to shake things up a bit - we're asking interns from some of our favorite places and spaces share with us about THEIR summer experiences. I've asked them each to prepare short 2-3 minute presentations answering these questions:\u00a0</p> <p>1) What is your name/what was one surprising thing you learned about working in the DC area this summer - or what was your favorite thing you did this summer in DC</p> <p>2) Introduce us to your project - what is it - what did you do - what\u2019s the coolest part.\u00a0</p> <p><br/>We've got some presentations confirmed - but if you know of someone or want to present - let us know!\u00a0</p> <p>As always (though with the minor exception of July 2015) we will meet in the UPSTAIRS of STETSONS. This is a 21 and older venue - but with our intern focus - we will ensure ALL AGES are welcome.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052546/", 
             "group": {
                 "created": 1307975249000, 
@@ -828,10 +828,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytlbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC: Summer Intern Edition!", 
             "status": "upcoming", 
             "time": 1438815600000, 
-            "updated": 1326383071000, 
+            "updated": 1437918961000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1610 U St NW", 
@@ -848,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1437393299000, 
@@ -1086,7 +1086,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1424968249000, 
@@ -1392,7 +1392,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1427088126000, 
@@ -1600,7 +1600,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1422815542000, 
