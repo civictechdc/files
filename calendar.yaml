@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 70
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -351,7 +351,7 @@ other:
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 76
 - created: 1437677897000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -379,7 +379,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -426,7 +426,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1435624442000
   description: "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features\
     \ of the Google Cloud Platform used in building the Google Cloud Spin demo shown\
@@ -458,16 +458,16 @@ other:
   id: '223591204'
   maybe_rsvp_count: 0
   name: Google Cloud Spin (Ray Tsang & Bret McGowen, Google)
-  rsvp_limit: 120
+  rsvp_limit: 140
   status: upcoming
   time: 1438036200000
-  updated: 1435761143000
+  updated: 1437999865000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 5
-  yes_rsvp_count: 120
+  waitlist_count: 0
+  yes_rsvp_count: 129
 - created: 1436728473000
   description: "<p>For the July Data Science DC Meetup we're having a themed evening\
     \ where we'll look at the intersection of data science with mapping and spatial\
@@ -522,7 +522,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 292
+  yes_rsvp_count: 305
 - created: 1437413157000
   description: "<p>July features Elaine Ayo talking about some of her data science\
     \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
@@ -585,7 +585,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -632,7 +632,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 24
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -676,7 +676,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -704,7 +704,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 63
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -752,7 +752,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1437645673000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://studentinnovationgala.splashthat.com/\"\
@@ -777,7 +777,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -931,7 +931,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 41
 - created: 1437393299000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -1010,6 +1010,41 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1422815467000
+  description: "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!)\
+    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
+    \ signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal,\
+    \ engaging, and friendly: presenters have 5 minutes to show off their hack (it\
+    \ goes faster than you\u2019d expect) and then the audience has 5 minutes to ask\
+    \ questions, make jokes, and suggest ideas and feedback. The hacks that people\
+    \ present are anything from how to train your dog to text you when it needs a\
+    \ walk to [something more serious... like blenders made out of artichokes]. Show\
+    \ us what you\u2019ve got! But remember: no startup pitches, no dull work projects,\
+    \ no deckware!</p> <p>If you\u2019re interested in presenting, complete this short\
+    \ form to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the\
+    \ meetup! We'll start close to 6:30. There may be a couple beers. It's going to\
+    \ be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
+    \ We love hacks! &lt;3</p>"
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231769/
+  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
+    who: Hackers}
+  headcount: 0
+  how_to_find_us: by the couch!
+  id: '220231769'
+  maybe_rsvp_count: 0
+  name: 'Round 23: Bucolic Plague'
+  status: upcoming
+  time: 1439332200000
+  updated: 1438013138000
+  utc_offset: -14400000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 25
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1052,42 +1087,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
-- created: 1422815467000
-  description: "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!)\
-    \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
-    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"\
-    ><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p>\
-    \ <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly:\
-    \ presenters have 5 minutes to show off their hack (it goes faster than you\u2019\
-    d expect) and then the audience has 5 minutes to ask questions, make jokes, and\
-    \ suggest ideas and feedback. The hacks that people present are anything from\
-    \ how to train your dog to text you when it needs a walk to [something more serious...\
-    \ like blenders made out of artichokes]. Show us what you\u2019ve got! But remember:\
-    \ no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form\
-    \ to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a\
-    \ couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us!\
-    \ We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231769/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  how_to_find_us: by the couch!
-  id: '220231769'
-  maybe_rsvp_count: 0
-  name: 'Round 23: Bucolic Plague'
-  status: upcoming
-  time: 1439334000000
-  updated: 1422815467000
-  utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 17
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1214,7 +1213,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1740,25 +1739,25 @@ other:
     \ TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with\
     \ their Public Relations, Content and Social Media marketing.</p> <p>Additional\
     \ speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img\
-    \ src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter\
-    \ Group\_is a woman-owned and operated small business based in the Washington,\
-    \ D.C. area with almost 30 years of experience working with nationally recognized\
-    \ brands. Our dedication to brand consistency and quality across digital platforms\
-    \ and specialty printing has made us one of the most highly referred full-service\
-    \ creative agencies. Sutter Group\u2019s sought-after brand development insight\
-    \ and multi-platform marketing experience has given us the pleasure of working\
-    \ with the nation\u2019s leading automotive brands, technology companies, nonprofits\
-    \ and more. Sutter Group offers services in branding, website design, marketing\
-    \ strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img\
-    \ src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p>\
-    \ <p>Sitecore\_is the global leader in customer experience management software\
-    \ that lets marketers own the experience of every customer or prospect that engages\
-    \ with their brand. The company delivers highly relevant content and personalized\
-    \ digital experiences that delight audiences, build loyalty and drive revenue.\_\
-    </p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust\
-    \ Sitecore to help them deliver the meaningful interactions that win customers\
-    \ for life. Learn more at\_<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\_\
-    </p>"
+    \ src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"\
+    http://www.sutter-group.com/\">Sutter Group</a>\_is a woman-owned and operated\
+    \ small business based in the Washington, D.C. area with almost 30 years of experience\
+    \ working with nationally recognized brands. Our dedication to brand consistency\
+    \ and quality across digital platforms and specialty printing has made us one\
+    \ of the most highly referred full-service creative agencies. Sutter Group\u2019\
+    s sought-after brand development insight and multi-platform marketing experience\
+    \ has given us the pleasure of working with the nation\u2019s leading automotive\
+    \ brands, technology companies, nonprofits and more. Sutter Group offers services\
+    \ in branding, website design, marketing strategy, digital marketing, campaign\
+    \ planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
+    \ /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\_is the global leader\
+    \ in customer experience management software that lets marketers own the experience\
+    \ of every customer or prospect that engages with their brand. The company delivers\
+    \ highly relevant content and personalized digital experiences that delight audiences,\
+    \ build loyalty and drive revenue.\_</p> <p>More than 3,500 of the world\u2019\
+    s leading brands and organizations trust Sitecore to help them deliver the meaningful\
+    \ interactions that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
+    >www.sitecore.com</a>\_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/224034782/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1769,14 +1768,14 @@ other:
   name: 'Content Marketing: Are You Doing It Right?'
   status: upcoming
   time: 1442358000000
-  updated: 1437996660000
+  updated: 1438004571000
   utc_offset: -14400000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 17
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful

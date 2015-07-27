@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1427389052000, 
@@ -302,7 +302,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1437677897000, 
@@ -341,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1427088126000, 
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1435624442000, 
@@ -401,10 +401,10 @@ calendar({
             "id": "223591204", 
             "maybe_rsvp_count": 0, 
             "name": "Google Cloud Spin (Ray Tsang & Bret McGowen, Google)", 
-            "rsvp_limit": 120, 
+            "rsvp_limit": 140, 
             "status": "upcoming", 
             "time": 1438036200000, 
-            "updated": 1435761143000, 
+            "updated": 1437999865000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -418,8 +418,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 120
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 129
         }, 
         {
             "created": 1436728473000, 
@@ -459,7 +459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 292
+            "yes_rsvp_count": 305
         }, 
         {
             "created": 1437413157000, 
@@ -536,7 +536,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1435605354000, 
@@ -574,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1427088126000, 
@@ -601,7 +601,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1436462363000, 
@@ -638,7 +638,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1424968249000, 
@@ -665,7 +665,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1437645673000, 
@@ -691,7 +691,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1435605354000, 
@@ -848,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1437393299000, 
@@ -919,6 +919,44 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1422815467000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231769/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231769", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 23: Bucolic Plague", 
+            "status": "upcoming", 
+            "time": 1439332200000, 
+            "updated": 1438013138000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 25
+        }, 
+        {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
@@ -945,44 +983,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
-        }, 
-        {
-            "created": 1422815467000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231769/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231769", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 23: Bucolic Plague", 
-            "status": "upcoming", 
-            "time": 1439334000000, 
-            "updated": 1422815467000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
         }, 
         {
             "created": 1435605354000, 
@@ -1086,7 +1086,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1424968249000, 
@@ -1488,7 +1488,7 @@ calendar({
         }, 
         {
             "created": 1437347249000, 
-            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
+            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
             "group": {
                 "created": 1189804715000, 
@@ -1506,7 +1506,7 @@ calendar({
             "name": "Content Marketing: Are You Doing It Right?", 
             "status": "upcoming", 
             "time": 1442358000000, 
-            "updated": 1437996660000, 
+            "updated": 1438004571000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1521,7 +1521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1417881835000, 
