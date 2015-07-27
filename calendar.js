@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1427389052000, 
@@ -302,7 +302,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1437677897000, 
@@ -341,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1427088126000, 
@@ -379,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1435624442000, 
@@ -418,7 +418,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 120
         }, 
         {
@@ -459,7 +459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 288
+            "yes_rsvp_count": 292
         }, 
         {
             "created": 1437413157000, 
@@ -497,7 +497,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1437529630000, 
@@ -536,7 +536,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1435605354000, 
@@ -574,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1427088126000, 
@@ -638,7 +638,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1424968249000, 
@@ -665,7 +665,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1437645673000, 
@@ -768,7 +768,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1436915407000, 
@@ -848,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1437393299000, 
@@ -1488,7 +1488,7 @@ calendar({
         }, 
         {
             "created": 1437347249000, 
-            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
+            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p>Sutter Group\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p>Sitecore\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
             "group": {
                 "created": 1189804715000, 
@@ -1506,7 +1506,7 @@ calendar({
             "name": "Content Marketing: Are You Doing It Right?", 
             "status": "upcoming", 
             "time": 1442358000000, 
-            "updated": 1437354890000, 
+            "updated": 1437996660000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1521,7 +1521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417881835000, 
