@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 68
 - created: 1427389052000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -300,16 +300,16 @@ other:
     \ <b>Jason Lancaster</b>\_will show how he built a\_quick, cheap iOS app\_for\
     \ the\_Charm City Circulator.</p> <p><br/>\u2022\_<a href=\"http://kyle.fritz.io/\"\
     ><b>Kyle Fritz</b></a>\_will share how <a href=\"https://orderup.com/\">OrderUp</a>\_\
-    solves the food delivery challenge with operations, engineering, and data science.</p>\
-    \ <p><br/>\u2022\_<a href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will\
-    \ talk about his project to\_reverse-engineer the <a href=\"http://mta.maryland.gov/\"\
-    >MTA</a>'s real-time <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker\
-    \ app</a>.</p> <p>\u2022\_<a href=\"http://www.thetrainingset.com/\"><b>Justin\
-    \ Elszasz</b></a>\_will digs out stories derived from\_parking citation data from\
-    \ Baltimore's open data portal.</p> <p><br/>There are several good articles about\
-    \ Chris Whong's project:\_<a href=\"http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\"\
-    >Civic hackers are already building a better MTA bus tracking system</a>,\_<a\
-    \ href=\"http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\"\
+    uses data science to navigate\_Baltimore's street grid.</p> <p><br/>\u2022\_<a\
+    \ href=\"http://chriswhong.com/\"><b>Chris Whong</b></a> will talk about his project\
+    \ to\_reverse-engineer the <a href=\"http://mta.maryland.gov/\">MTA</a>'s real-time\
+    \ <a href=\"http://mta.maryland.gov/bus-tracker\">bus-tracker app</a>.</p> <p>\u2022\
+    \_<a href=\"http://www.thetrainingset.com/\"><b>Justin Elszasz</b></a>\_will digs\
+    \ out stories derived from\_parking citation data from Baltimore's open data portal.</p>\
+    \ <p><br/>There are several good articles about Chris Whong's project:\_<a href=\"\
+    http://technical.ly/baltimore/2015/02/16/mta-bus-tracking-chris-whong/\">Civic\
+    \ hackers are already building a better MTA bus tracking system</a>,\_<a href=\"\
+    http://arstechnica.com/information-technology/2015/02/25/bus-pass-civic-hackers-open-transit-data-mta-said-would-cost-too-much-to-share/\"\
     >Bus pass: Civic hackers open transit data MTA said would cost too much to share</a>,\
     \ and\_<a href=\"http://chriswhong.com/open-data/anatomy-of-a-civic-hack-freeing-baltimores-real-time-bus-data/\"\
     >Chris's own story,\_Anatomy of a Civic Hack: Freeing Baltimore\u2019s Real-time\
@@ -345,13 +345,13 @@ other:
   name: Transportation Tech in Baltimore
   status: upcoming
   time: 1438034400000
-  updated: 1437760067000
+  updated: 1438025607000
   utc_offset: -14400000
   venue: {address_1: 300 Light St, city: Baltimore, country: US, id: 18324662, lat: 39.284885000000003,
     lon: -76.614593999999997, name: Hyatt Regency Baltimore, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 75
 - created: 1437677897000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -379,7 +379,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -426,7 +426,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 33
 - created: 1435624442000
   description: "<p><b>Abstract:</b></p> <p>Ray &amp; Bret will walk through features\
     \ of the Google Cloud Platform used in building the Google Cloud Spin demo shown\
@@ -467,7 +467,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 129
+  yes_rsvp_count: 126
 - created: 1436728473000
   description: "<p>For the July Data Science DC Meetup we're having a themed evening\
     \ where we'll look at the intersection of data science with mapping and spatial\
@@ -522,7 +522,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 305
+  yes_rsvp_count: 314
 - created: 1437413157000
   description: "<p>July features Elaine Ayo talking about some of her data science\
     \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
@@ -704,7 +704,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -752,7 +752,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1437645673000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://studentinnovationgala.splashthat.com/\"\
@@ -851,7 +851,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 73
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -1044,7 +1044,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 30
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1331,7 +1331,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1775,7 +1775,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
