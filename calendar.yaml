@@ -288,7 +288,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 339
+  yes_rsvp_count: 337
 - created: 1437413157000
   description: "<p>July features Elaine Ayo talking about some of her data science\
     \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
@@ -352,7 +352,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -399,7 +399,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -443,7 +443,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 17
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -668,7 +668,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 83
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -826,7 +826,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1422815467000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in August! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -861,7 +861,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1176,9 +1176,8 @@ other:
     \ tweets about data science as <a href=\"http://twitter.com/harlanh\">@harlanh</a>.</p>\
     \ <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\"\
     >GWU Department of Decision Sciences</a>,\_<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_\
-    <a href=\"http://datamininglab.com/\">Elder Research</a>,\_<a href=\"http://www.weddingwire.com/corp/tech-jobs\"\
-    >WeddingWire</a>,\_<a href=\"http://www.novetta.com/\">Novetta Solutions</a>,\
-    \ and\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    <a href=\"http://datamininglab.com/\">Elder Research</a>,\_<a href=\"http://www.novetta.com/\"\
+    >Novetta Solutions</a>, and\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
     >Booz Allen Hamilton</a>.\_(Would your organization like to sponsor too? Please\
     \ get in touch!)\_</p>"
   duration: 7200000
@@ -1193,14 +1192,14 @@ other:
   rsvp_limit: 500
   status: upcoming
   time: 1440109800000
-  updated: 1438107429000
+  updated: 1438180260000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 86
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1228,7 +1227,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1469,7 +1468,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1716,7 +1715,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1438041748000
   description: "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Register on Eventbrite</a></b></p> <p><b>What is Speed MIX?</b></p> <p>Speed\
