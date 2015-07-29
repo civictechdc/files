@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1427389052000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1427389075000, 
@@ -306,7 +306,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 329
+            "yes_rsvp_count": 341
         }, 
         {
             "created": 1437413157000, 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1437529630000, 
@@ -614,11 +614,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>OpenRefine is rad but also slow and buggy. I like it for some uses but most of the time, even with reporters, I like to invest the time teaching some command line basics and using csvkit. A nice case in point was last time I gave a data cleaning workshop I worked with a USA Today guy and we struggled mightily to get his data processed with OpenRefine, which kept crashing. Then I showed him csvkit's tools. He was rocking and rolling in under an hour and used the data in a story!</p> <p>\n\nDuring this talk you'll learn how to use OpenRefine, it's limitations, and how to use other tools like csvkit to wrangle your data when OpenRefine falls down.</p> <p><b>About David Eads</b></p> <p>David Eads builds news applications for NPR Visuals. Until recently, he built news apps for the Chicago Tribune. He speaks and teaches about technology, organizes a community data journalism workshop, developed the Tarbell publishing platform, and helped start FreeGeek Chicago.</p> <p>\n\nHis work connects journalism, data, and social issues. He builds and teaches simple, direct solutions that help journalists effectively tell their stories on the web. He contributes to and organizes projects that strive for democracy, diversity, and sustainability.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100068/", 
             "group": {
@@ -634,10 +634,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytlbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "Data Wrangling with OpenRefine", 
+            "name": "Data Wrangling with OpenRefine and Other Tools", 
             "status": "upcoming", 
             "time": 1438813800000, 
-            "updated": 1428451523000, 
+            "updated": 1438127906000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -733,7 +733,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1437393299000, 
@@ -971,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1424968249000, 
@@ -1026,6 +1026,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1438104447000, 
+            "description": "<p>For our August Data Science DC Meetup, we're thrilled to have Brian Muller from OpBandit (recently acquired by Vox) presenting about the algorithms of Multi-Armed Bandit models and their importance in web content optimization. Going beyond simple A/B testing, Bandit approaches continuously exploit the knowledge they have learned about user preferences, maximizing value as they learn. As a short postscript, Harlan Harris will talk about Bandit modeling when preference data is incomplete and delayed. Expect to learn about tradeoffs between exploration and exploitation, algorithms for continuous learning and optimization, and how much of a difference they can make in practice.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstracts:</b></p> <p>1.</p> <p>At OpBandit, we built a service that renders different versions of news content for rendering on top publishers across six countries.\u00a0 At a high level, whenever a reader requests a page on a publisher's website, our service selects from multiple versions of headlines and photos to deliver the collection of versions that we think a user is most likely to click.\u00a0 This requires decision making on the fly for each request, with hard requirements for speed, reliability, and selection quality.\u00a0 This talk will cover the technical approaches we used (mostly solutions to the multi-armed bandit problem) to make content version selections, as well as the product implications of our choices and the results of each approach.</p> <p><a href=\"https://www.linkedin.com/in/bamuller\">Brian Muller</a> is the Director of Data Science at <a href=\"http://www.voxmedia.com/\">Vox Media</a>.\u00a0 Previously, he was the CTO and co-founder of <a href=\"https://opbandit.com/\">OpBandit</a> (acquired by Vox), a content optimization tool for online publishers.\u00a0 Prior to founding OpBandit, he was the Lead Data Scientist at LivingSocial.\u00a0 While at LivingSocial, he founded the data science team and oversaw the creation and growth of a big data infrastructure and the teams necessary to support it - all while the customer base grew from thousands to over 70 million users.\u00a0 Before that, he worked as the Web Director for Foreign Policy Magazine under the Washington Post.\u00a0 He as a MS in the Biomedical Sciences, and has spent time in academia working for the Medical University of South Carolina and Johns Hopkins University School of Medicine focused on squeezing meaningful information out of vast quantities of genomic data. Follow Brian on Twitter <a href=\"https://twitter.com/bmuller\">@bmuller</a>.\u00a0</p> <p><br/>2.</p> <p>Traditional multi-armed bandit optimization relies on your getting feedback relatively quickly so that you can update your utility function with improved estimates of the value of each option. This talk will explore options for tackling the problem of bandit-like optimization when feedback is slow and incomplete, such as in direct marketing campaigns where purchases may be delayed weeks or months. How do you update your utility function when \"no\" might mean \"not yet\" and product demand changes over time?</p> <p><br/><a href=\"http://www.linkedin.com/in/harlanharris\">Harlan\u00a0D.\u00a0Harris</a>\u00a0is Director, Data Science at <a href=\"https://www.eab.com/\">EAB</a>, a company that provides enterprise software and best-practices research to higher education institutions. He is a co-founder of the Data Science DC Meetup and of Data Community DC, Inc.\u00a0Harlan\u00a0has a BS in Computer Science from the University of Wisconsin-Madison, and a PhD in Computer Science, focusing on Machine Learning and Cognitive Science, from the University of\u00a0Illinois\u00a0at Urbana-Champaign. He worked as a researcher at Columbia University, the University of Connecticut, and New York University psychology departments before turning to data science and predictive analytics in industry. Harlan is co-author of O'Reilly's Analyzing the Analyzers, and tweets about data science as <a href=\"http://twitter.com/harlanh\">@harlanh</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.weddingwire.com/corp/tech-jobs\">WeddingWire</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/224235468/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "224235468", 
+            "maybe_rsvp_count": 0, 
+            "name": "Feeling a Multi-armed Embrace: Lessons from Online Content Optimization", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1440109800000, 
+            "updated": 1438107429000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1437765166000, 
@@ -1433,7 +1473,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1438041748000, 
