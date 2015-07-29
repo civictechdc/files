@@ -20,7 +20,7 @@
     thumbnailUrl: https://codefordc.github.io/districthousing/img/district-housing-logo-small.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 732,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 734,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 84,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
@@ -42,6 +42,8 @@
     link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4406809?v=3', contributions: 6,
     link: 'https://github.com/mepps', name: mepps}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/86790?v=3', contributions: 4,
+    link: 'https://github.com/adelevie', name: adelevie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/459756?v=3', contributions: 4,
     link: 'https://github.com/mpeteuil', name: mpeteuil}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/408989?v=3', contributions: 4,
@@ -54,14 +56,16 @@
     link: 'https://github.com/wsankey', name: wsankey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8462602?v=3', contributions: 2,
     link: 'https://github.com/lizhaney', name: lizhaney}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 1,
-    link: 'https://github.com/dfelsent', name: dfelsent}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9677598?v=3', contributions: 1,
+    link: 'https://github.com/dmjurg', name: dmjurg}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/20806?v=3', contributions: 1,
     link: 'https://github.com/endash', name: endash}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6130671?v=3', contributions: 1,
     link: 'https://github.com/cszimm', name: cszimm}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2306490?v=3', contributions: 1,
     link: 'https://github.com/ameensol', name: ameensol}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 1,
+    link: 'https://github.com/dfelsent', name: dfelsent}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/81055?v=3', contributions: 1,
     link: 'https://github.com/dirkkelly', name: dirkkelly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/311365?v=3', contributions: 1,
@@ -70,20 +74,20 @@
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2559167?v=3', contributions: 1,
     link: 'https://github.com/shariq1989', name: shariq1989}
-  contributors_count: 25
+  contributors_count: 27
   created_at: '2013-06-24T02:05:03Z'
   default_branch: master
   description: 'District Housing lets caseworkers help clients apply for Section 8
     housing by automatically filling out multiple PDF applications using one online
     form. '
-  forks: 46
+  forks: 48
   help_wanted: []
   homepage: http://codefordc.github.io/districthousing/
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 193141]
-  - [HTML, 74588]
+  - [Ruby, 193703]
+  - [HTML, 74776]
   - [CSS, 14432]
   - [Puppet, 5537]
   - [CoffeeScript, 4299]
@@ -92,10 +96,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 63
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-19T19:44:10Z'
+  pushed_at: '2015-07-29T03:08:55Z'
   size: 22351
   updated_at: '2015-05-19T23:28:34Z'
   watchers: 22
@@ -640,7 +644,7 @@
   created_at: '2014-06-24T23:23:23Z'
   default_branch: master
   description: ''
-  forks: 2
+  forks: 3
   help_wanted: []
   homepage: http://shiftyp.github.io/dc_community_gardens_visualization
   html_url: https://github.com/shiftyp/dc_community_gardens_visualization
@@ -650,11 +654,11 @@
   license: null
   main_language: JavaScript
   name: Community Gardens Visualization
-  open_issues: 2
+  open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/131928?v=3', name: shiftyp,
     type: User, url: 'https://github.com/shiftyp'}
-  pushed_at: '2014-07-13T21:56:15Z'
-  size: 592
+  pushed_at: '2015-07-29T02:02:37Z'
+  size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 37, 6, 7, 0, 16, 14, 16, 10, 4, 14, 0, 13, 0, 2, 0, 0, 0, 0, 0,
@@ -662,23 +666,13 @@
     0, 0, 0, 0, 0]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 125,
-    link: 'https://github.com/donaldbraman', name: donaldbraman}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1186124?v=3', contributions: 24,
-    link: 'https://github.com/saulshanabrook', name: saulshanabrook}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 6,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 13,
     link: 'https://github.com/mkalish', name: mkalish}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/14930?v=3', contributions: 1,
-    link: 'https://github.com/adunkman', name: adunkman}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/578345?v=3', contributions: 1,
-    link: 'https://github.com/kevko', name: kevko}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2553268?v=3', contributions: 1,
-    link: 'https://github.com/louh', name: louh}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 1,
-    link: 'https://github.com/stvnrlly', name: stvnrlly}
-  contributors_count: 7
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 2,
+    link: 'https://github.com/JoshData', name: JoshData}
+  contributors_count: 2
   created_at: '2014-07-12T18:04:36Z'
-  default_branch: gh-pages
+  default_branch: master
   description: Displays data about DC Campaign Finance on a site
   forks: 10
   help_wanted: []
@@ -686,18 +680,16 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [Python, 31029]
-  - [CSS, 5195]
-  - [JavaScript, 5165]
+  - [JavaScript, 24772]
   license: null
-  main_language: Python
+  main_language: JavaScript
   name: Campaign Finance Watch
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-03-01T19:05:57Z'
-  size: 21159
-  updated_at: '2015-03-24T23:51:28Z'
+  pushed_at: '2015-07-29T00:58:59Z'
+  size: 21124
+  updated_at: '2015-07-29T00:59:00Z'
   watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1064,7 +1056,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 97,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 50,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 53,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 29,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1080,6 +1072,8 @@
     link: 'https://github.com/ParentJA', name: ParentJA}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1408929?v=3', contributions: 5,
     link: 'https://github.com/jimwebb', name: jimwebb}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/466645?v=3', contributions: 4,
+    link: 'https://github.com/afiedler', name: afiedler}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6122?v=3', contributions: 4,
     link: 'https://github.com/wam', name: wam}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 4,
@@ -1088,7 +1082,7 @@
     link: 'https://github.com/JasonParentEAB', name: JasonParentEAB}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 2,
     link: 'https://github.com/tmcw', name: tmcw}
-  contributors_count: 13
+  contributors_count: 14
   created_at: '2015-01-09T00:15:28Z'
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
@@ -1186,8 +1180,8 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 30437]
-  - [JavaScript, 10144]
+  - [HTML, 30672]
+  - [JavaScript, 10715]
   - [CSS, 3558]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
@@ -1195,7 +1189,7 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-07-23T03:38:18Z'
+  pushed_at: '2015-07-29T00:59:05Z'
   size: 10388
   updated_at: '2015-07-14T19:49:58Z'
   watchers: 10

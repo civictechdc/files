@@ -92,7 +92,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 732, 
+                "contributions": 734, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -157,6 +157,12 @@ projects([
                 "name": "mepps"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/adelevie", 
+                "name": "adelevie"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
@@ -193,10 +199,10 @@ projects([
                 "name": "lizhaney"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/9677598?v=3", 
                 "contributions": 1, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
+                "link": "https://github.com/dmjurg", 
+                "name": "dmjurg"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/20806?v=3", 
@@ -215,6 +221,12 @@ projects([
                 "contributions": 1, 
                 "link": "https://github.com/ameensol", 
                 "name": "ameensol"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
@@ -241,11 +253,11 @@ projects([
                 "name": "shariq1989"
             }
         ], 
-        "contributors_count": 25, 
+        "contributors_count": 27, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
-        "forks": 46, 
+        "forks": 48, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/districthousing/", 
         "html_url": "https://github.com/codefordc/districthousing", 
@@ -253,11 +265,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                193141
+                193703
             ], 
             [
                 "HTML", 
-                74588
+                74776
             ], 
             [
                 "CSS", 
@@ -288,14 +300,14 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-07-19T19:44:10Z", 
+        "pushed_at": "2015-07-29T03:08:55Z", 
         "size": 22351, 
         "updated_at": "2015-05-19T23:28:34Z", 
         "watchers": 22
@@ -1971,7 +1983,7 @@ projects([
         "created_at": "2014-06-24T23:23:23Z", 
         "default_branch": "master", 
         "description": "", 
-        "forks": 2, 
+        "forks": 3, 
         "help_wanted": [], 
         "homepage": "http://shiftyp.github.io/dc_community_gardens_visualization", 
         "html_url": "https://github.com/shiftyp/dc_community_gardens_visualization", 
@@ -1985,15 +1997,15 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Community Gardens Visualization", 
-        "open_issues": 2, 
+        "open_issues": 3, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/131928?v=3", 
             "name": "shiftyp", 
             "type": "User", 
             "url": "https://github.com/shiftyp"
         }, 
-        "pushed_at": "2014-07-13T21:56:15Z", 
-        "size": 592, 
+        "pushed_at": "2015-07-29T02:02:37Z", 
+        "size": 576, 
         "updated_at": "2014-07-13T21:57:21Z", 
         "watchers": 0
     }, 
@@ -2055,51 +2067,21 @@ projects([
         "civic_json": null, 
         "contributors": [
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
-                "contributions": 125, 
-                "link": "https://github.com/donaldbraman", 
-                "name": "donaldbraman"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1186124?v=3", 
-                "contributions": 24, 
-                "link": "https://github.com/saulshanabrook", 
-                "name": "saulshanabrook"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 6, 
+                "contributions": 13, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/adunkman", 
-                "name": "adunkman"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/578345?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/kevko", 
-                "name": "kevko"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/louh", 
-                "name": "louh"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/stvnrlly", 
-                "name": "stvnrlly"
+                "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/JoshData", 
+                "name": "JoshData"
             }
         ], 
-        "contributors_count": 7, 
+        "contributors_count": 2, 
         "created_at": "2014-07-12T18:04:36Z", 
-        "default_branch": "gh-pages", 
+        "default_branch": "master", 
         "description": "Displays data about DC Campaign Finance on a site", 
         "forks": 10, 
         "help_wanted": [], 
@@ -2108,20 +2090,12 @@ projects([
         "id": 21773181, 
         "languages": [
             [
-                "Python", 
-                31029
-            ], 
-            [
-                "CSS", 
-                5195
-            ], 
-            [
                 "JavaScript", 
-                5165
+                24772
             ]
         ], 
         "license": null, 
-        "main_language": "Python", 
+        "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
         "open_issues": 13, 
         "owner": {
@@ -2130,9 +2104,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-03-01T19:05:57Z", 
-        "size": 21159, 
-        "updated_at": "2015-03-24T23:51:28Z", 
+        "pushed_at": "2015-07-29T00:58:59Z", 
+        "size": 21124, 
+        "updated_at": "2015-07-29T00:59:00Z", 
         "watchers": 8
     }, 
     {
@@ -3291,7 +3265,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 50, 
+                "contributions": 53, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3338,6 +3312,12 @@ projects([
                 "name": "jimwebb"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/466645?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/afiedler", 
+                "name": "afiedler"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/wam", 
@@ -3362,7 +3342,7 @@ projects([
                 "name": "tmcw"
             }
         ], 
-        "contributors_count": 13, 
+        "contributors_count": 14, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
@@ -3528,11 +3508,11 @@ projects([
         "languages": [
             [
                 "HTML", 
-                30437
+                30672
             ], 
             [
                 "JavaScript", 
-                10144
+                10715
             ], 
             [
                 "CSS", 
@@ -3554,7 +3534,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-07-23T03:38:18Z", 
+        "pushed_at": "2015-07-29T00:59:05Z", 
         "size": 10388, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
