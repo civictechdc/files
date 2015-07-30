@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1427389075000, 
@@ -251,11 +251,22 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1438641000000, 
-            "updated": 1432846440000, 
+            "updated": 1438268203000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "700 6th Street, NW, #410", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23283742, 
+                "lat": 38.898994000000002, 
+                "lon": -77.020294000000007, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1436462363000, 
@@ -292,7 +303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1424968249000, 
@@ -319,7 +330,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1437645673000, 
@@ -383,7 +394,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1438095372000, 
@@ -421,7 +432,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1417881835000, 
@@ -460,7 +471,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1436915407000, 
@@ -540,7 +551,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
+        }, 
+        {
+            "created": 1438187120000, 
+            "description": "<p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://smallbizdevhack.com/#register\">event registration page</a>. After you RSVP here you'll receive a FREE ticket. \u00a0</p> <p>\n\n\nInterested in making a difference in your community using the power of technology? Here is your chance to do just that, join the Small Biz Dev Hackathon presented by Capital One in Washington DC on 8th &amp; 9th August for an unique opportunity to help small business owners with their everyday struggles. The winning hack will go through the AngelHack HACKcelerator program and have an opportunity to see their idea come to life and help thousands of small business owners.\u00a0</p>", 
+            "duration": 115200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224260070/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "224260070", 
+            "maybe_rsvp_count": 0, 
+            "name": "Small Biz Dev Hackathon 2015", 
+            "status": "upcoming", 
+            "time": 1439038800000, 
+            "updated": 1438272467000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15TH ST. NW 12TH FLOOR", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 12503492, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "1776 DC", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 0
         }, 
         {
             "created": 1437393299000, 
@@ -604,11 +654,24 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1439245800000, 
-            "updated": 1432846440000, 
+            "updated": 1438268233000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "address_2": "Floor 1", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1422815467000, 
@@ -771,8 +834,19 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1439850600000, 
-            "updated": 1432846440000, 
+            "updated": 1438268253000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
@@ -813,7 +887,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1424968249000, 
@@ -907,7 +981,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1437765166000, 
@@ -968,8 +1042,19 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1440455400000, 
-            "updated": 1432846440000, 
+            "updated": 1438268271000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
@@ -1342,7 +1427,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1438041748000, 
@@ -1361,10 +1446,10 @@
             "headcount": 0, 
             "id": "224220483", 
             "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Associations + Digital Experts & Agencies", 
+            "name": "Speed MIX: Associations & Nonprofits + Digital Experts and Agencies", 
             "status": "upcoming", 
             "time": 1443479400000, 
-            "updated": 1438257455000, 
+            "updated": 1438264467000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1379,7 +1464,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1417881835000, 
