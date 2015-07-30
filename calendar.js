@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1427389075000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1427389099000, 
@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 337
+            "yes_rsvp_count": 339
         }, 
         {
             "created": 1437413157000, 
@@ -306,7 +306,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1437529630000, 
@@ -345,11 +345,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1435605354000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our<b> First Timer's Night</b> Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Getting in the Building</b></p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install necessary software following the <a href=\"http://installrails.com/\">InstallRails</a> guide.</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our<b> First Timer's Night</b> Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Getting in the Building</b></p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install necessary software following the <a href=\"http://installrails.com/\">InstallRails</a> guide.</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b>Install Guide:</b></p> <p><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223981363/", 
             "group": {
@@ -368,7 +368,7 @@ calendar({
             "name": "Ruby on Rails Study Group: First Timers' Night!", 
             "status": "upcoming", 
             "time": 1438209000000, 
-            "updated": 1437246504000, 
+            "updated": 1438201831000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -383,7 +383,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1427088126000, 
@@ -410,7 +410,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1436462363000, 
@@ -500,7 +500,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435605354000, 
@@ -538,7 +538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1438095372000, 
@@ -576,7 +576,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1417881835000, 
@@ -655,7 +655,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 
@@ -1027,7 +1027,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1437765166000, 
@@ -1065,7 +1065,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -1435,11 +1435,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1438041748000, 
-            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Register on Eventbrite</a></b></p> <p><b>What is Speed MIX?</b></p> <p>Speed MIX is an opportunity to network with people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b><i>Mingle</i></b>:\u00a0When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b><i>Interact</i></b>:\u00a0We'll sit you at a table for 4-6 sessions, each about 10 minutes.\u00a0If you are with an association, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at associations and related nonprofits.\u00a0</p> <p><b><i>eXchange</i></b>:\u00a0Exchange information with the people you met - and reach out when you are ready.\u00a0</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that, while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your agency or have a recruiting table, please reach out! When we send out followup information after the event, we can include information about your company as well as open positions. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
+            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>What is Speed MIX?</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an company/organization). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b><i>Mingle</i></b>:\u00a0When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b><i>Interact</i></b>:\u00a0We'll sit you at a table for 4-6 sessions, each about 10 minutes.\u00a0If you are with an association, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at associations and related nonprofits.\u00a0</p> <p><b><i>eXchange</i></b>:\u00a0Exchange information with the people you met - and reach out when you are ready.\u00a0</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that, while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your agency or have a recruiting table, please reach out! When we send out followup information after the event, we can include information about your company as well as open positions. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
             "group": {
                 "created": 1189804715000, 
@@ -1457,7 +1457,7 @@ calendar({
             "name": "Speed MIX: Associations + Digital Agencies and Freelancers", 
             "status": "upcoming", 
             "time": 1443479400000, 
-            "updated": 1438041774000, 
+            "updated": 1438198516000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1472,7 +1472,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
