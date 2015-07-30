@@ -231,161 +231,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1436728473000, 
-            "description": "<p>For the July Data Science DC Meetup we're having a themed evening where we'll look at the intersection of data science with mapping and spatial analysis. We will feature two presentations - the first by Anthony Fox from CCRI, who will discuss GeoMesa and how they analyze high-velocity streaming spatio-temporal data. \u00a0The second speaker is\u00a0Jason Dalton of Azimuth1, who will discuss using spatial graph analysis to model the US fuel energy infrastructure for the Dept of Energy.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstracts:</b></p> <p><b>Anthony Fox</b> -\u00a0In this presentation, Anthony will describe several examples of high-velocity streaming spatio-temporal data. \u00a0He will highlight challenges faced when dealing with these types of data and some\u00a0techniques for addressing\u00a0these challenges. \u00a0These techniques revolve around indexing, distributed computation, and visualization with the GeoMesa platform. \u00a0</p> <p>Anthony is Director of Data Science and System Architecture at <a href=\"http://www.ccri.com/\">Commonwealth Computer Research, Inc.</a>, where he specializes in scaling compute intensive statistical algorithms using distributed systems. He is the lead developer on GeoMesa, a LocationTech open-source project that brings OGC compliant spatial support to the Accumulo distributed database. Follow Anthony on Twitter <a href=\"https://twitter.com/algoriffic\">@algoriffic</a>.</p> <p><br/><b>Jason Dalton</b> -\u00a0By combining graph and geospatial analytics we describe the flow of oil, gas, and other petroleum products around the country with a high degree of accuracy. \u00a0These techniques allow us to determine the causes of price spikes, and determine areas that have a weak supply chain and may be particularly vulnerable to future price spikes.\u00a0</p> <p>Jason is Founder and CEO of <a href=\"http://www.azimuth1.com/\">Azimuth1</a>. Follow him on Twitter @<a href=\"https://twitter.com/jasonrdalton\">jasonrdalton</a>.\u00a0</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.weddingwire.com/corp/tech-jobs\">WeddingWire</a>, <a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/223875087/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "223875087", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms for Geospatial Data Analysis", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1438209000000, 
-            "updated": 1437170846000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 339
-        }, 
-        {
-            "created": 1437413157000, 
-            "description": "<p>July features Elaine Ayo talking about some of her data science work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\">District Data Labs' Incubator Program</a>, Elaine\u00a0and her\u00a0team developed a visualization of Bureau of Labor Statistics data for different industry concentrations and tried to find interesting clusters of industry. Elaine will present her team's final app, as well as what they learned in putting it together.</p> <p><a href=\"https://twitter.com/eieayo\">Elaine Ayo </a>is a data analyst at a public policy research firm, primarily focusing on studies of nutrition assistance programs.</p> <p>############################</p> <p>As always, pizza will show up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get started. See you soon!</p>", 
-            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/224050687/", 
-            "group": {
-                "created": 1378482158000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 10135982, 
-                "join_mode": "open", 
-                "name": "Ladies Who Code (Washington DC)", 
-                "urlname": "Ladies-Who-Code-Washington-DC", 
-                "who": "Ladies Who Code"
-            }, 
-            "headcount": 0, 
-            "id": "224050687", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data with Elaine", 
-            "status": "upcoming", 
-            "time": 1438209000000, 
-            "updated": 1437503298000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1818 N St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 311792, 
-                "lat": 38.907229999999998, 
-                "lon": -77.042150000000007, 
-                "name": "Sunlight Foundation", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1437529630000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>There will be food at this event!</p> <p><b>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.\u00a0</b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224085010/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Take the elevator to the 6th floor.           The closest Metro is Red line, Farragut North Station. No parking.  There are decks that you can park for $7 flat for the evening right across the street", 
-            "id": "224085010", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Study Group", 
-            "status": "upcoming", 
-            "time": 1438209000000, 
-            "updated": 1438132206000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 25
-        }, 
-        {
-            "created": 1435605354000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our<b> First Timer's Night</b> Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Getting in the Building</b></p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install necessary software following the <a href=\"http://installrails.com/\">InstallRails</a> guide.</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b>Install Guide:</b></p> <p><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223981363/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "kpvxhlytkbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group: First Timers' Night!", 
-            "status": "upcoming", 
-            "time": 1438209000000, 
-            "updated": 1438201831000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 28
-        }, 
-        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -410,11 +255,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1436462363000, 
-            "description": "<p>So much great work happening with APIs! \u00a0</p> <p>As many of you have now seen, the new location is great! \u00a0Good space, good food and drink, and plenty to talk about. \u00a0For August, we've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! \u00a0</p> <p>See you soon. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Jeffrey Meisel, Census Bureau\u00a0<br/>* Sean McDonald, Frontline SMS\u00a0<br/>* Eric Mill, 18F\u00a0<br/>* TBD</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>So much great work happening with APIs! \u00a0</p> <p>As many of you have now seen, the new location is great! \u00a0Good space, good food and drink, and plenty to talk about. \u00a0For August, we've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! \u00a0</p> <p>See you soon. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Jeffrey Meisel, Census Bureau\u00a0<br/>* Sean McDonald, Frontline SMS\u00a0<br/>*\u00a0TJ Stalcup,\u00a0WealthEngine<br/>* Eric Mill, 18F\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/223814899/", 
             "group": {
                 "created": 1347647025000, 
@@ -432,7 +277,7 @@ calendar({
             "name": "DC API User Group - August Edition", 
             "status": "upcoming", 
             "time": 1438725600000, 
-            "updated": 1436462363000, 
+            "updated": 1438222405000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -447,7 +292,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1424968249000, 
@@ -474,7 +319,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1437645673000, 
@@ -576,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1417881835000, 
@@ -615,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1436915407000, 
@@ -695,7 +540,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1437393299000, 
@@ -871,6 +716,41 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1438226302000, 
+            "description": "<p>Are you a professional female developer? You're not alone. Come brunch with others like you! This brunch is for working developers only because it can be tough to find times to network with other women in the industry.</p> <p>The estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224275275/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 10, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "0"
+            }, 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224275275", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Developer Brunch", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1439740800000, 
+            "updated": 1438226333000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1027,7 +907,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1437765166000, 
@@ -1401,6 +1281,33 @@ calendar({
             "yes_rsvp_count": 6
         }, 
         {
+            "created": 1424968249000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141221/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "tjxljlytmbtb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1442356200000, 
+            "updated": 1437823706000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1437347249000, 
             "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
@@ -1439,7 +1346,7 @@ calendar({
         }, 
         {
             "created": 1438041748000, 
-            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>What is Speed MIX?</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an company/organization). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b><i>Mingle</i></b>:\u00a0When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b><i>Interact</i></b>:\u00a0We'll sit you at a table for 4-6 sessions, each about 10 minutes.\u00a0If you are with an association, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at associations and related nonprofits.\u00a0</p> <p><b><i>eXchange</i></b>:\u00a0Exchange information with the people you met - and reach out when you are ready.\u00a0</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that, while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your agency or have a recruiting table, please reach out! When we send out followup information after the event, we can include information about your company as well as open positions. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
+            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>What is Speed MIX?</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or similar). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b><i>Mingle</i></b>:\u00a0When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b><i>Interact</i></b>:\u00a0We'll sit you at a table for 4-6 sessions, each about 10 minutes.\u00a0If you are with an association, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at associations and related nonprofits.\u00a0</p> <p><b><i>eXchange</i></b>:\u00a0Exchange information with the people you met - and reach out when you are ready.\u00a0</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that, while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your agency or have a recruiting table, please reach out! When we send out followup information after the event, we can include information about your company as well as open positions. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
             "group": {
                 "created": 1189804715000, 
@@ -1454,10 +1361,10 @@ calendar({
             "headcount": 0, 
             "id": "224220483", 
             "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Associations + Digital Agencies and Freelancers", 
+            "name": "Speed MIX: Associations + Digital Experts & Agencies", 
             "status": "upcoming", 
             "time": 1443479400000, 
-            "updated": 1438198516000, 
+            "updated": 1438257455000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1472,7 +1379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1417881835000, 

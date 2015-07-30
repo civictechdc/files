@@ -234,174 +234,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 6
 other:
-- created: 1436728473000
-  description: "<p>For the July Data Science DC Meetup we're having a themed evening\
-    \ where we'll look at the intersection of data science with mapping and spatial\
-    \ analysis. We will feature two presentations - the first by Anthony Fox from\
-    \ CCRI, who will discuss GeoMesa and how they analyze high-velocity streaming\
-    \ spatio-temporal data. \_The second speaker is\_Jason Dalton of Azimuth1, who\
-    \ will discuss using spatial graph analysis to model the US fuel energy infrastructure\
-    \ for the Dept of Energy.</p> <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking,\
-    \ Empanadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction, Announcements</p>\
-    \ <p>\u2022\_7:15pm -- Presentation and Discussion</p> <p>\u2022\_8:30pm -- Data\
-    \ Drinks (<i>Tonic,\_2036 G St NW</i>)</p> <p><b>Abstracts:</b></p> <p><b>Anthony\
-    \ Fox</b> -\_In this presentation, Anthony will describe several examples of high-velocity\
-    \ streaming spatio-temporal data. \_He will highlight challenges faced when dealing\
-    \ with these types of data and some\_techniques for addressing\_these challenges.\
-    \ \_These techniques revolve around indexing, distributed computation, and visualization\
-    \ with the GeoMesa platform. \_</p> <p>Anthony is Director of Data Science and\
-    \ System Architecture at <a href=\"http://www.ccri.com/\">Commonwealth Computer\
-    \ Research, Inc.</a>, where he specializes in scaling compute intensive statistical\
-    \ algorithms using distributed systems. He is the lead developer on GeoMesa, a\
-    \ LocationTech open-source project that brings OGC compliant spatial support to\
-    \ the Accumulo distributed database. Follow Anthony on Twitter <a href=\"https://twitter.com/algoriffic\"\
-    >@algoriffic</a>.</p> <p><br/><b>Jason Dalton</b> -\_By combining graph and geospatial\
-    \ analytics we describe the flow of oil, gas, and other petroleum products around\
-    \ the country with a high degree of accuracy. \_These techniques allow us to determine\
-    \ the causes of price spikes, and determine areas that have a weak supply chain\
-    \ and may be particularly vulnerable to future price spikes.\_</p> <p>Jason is\
-    \ Founder and CEO of <a href=\"http://www.azimuth1.com/\">Azimuth1</a>. Follow\
-    \ him on Twitter @<a href=\"https://twitter.com/jasonrdalton\">jasonrdalton</a>.\_\
-    </p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the\_<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\"\
-    >GWU Department of Decision Sciences</a>,\_<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_\
-    <a href=\"http://datamininglab.com/\">Elder Research</a>,\_<a href=\"http://www.weddingwire.com/corp/tech-jobs\"\
-    >WeddingWire</a>, <a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\_\
-    <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
-    >Booz Allen Hamilton</a>.\_(Would your organization like to sponsor too? Please\
-    \ get in touch!)\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-DC/events/223875087/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
-    who: Data Scientists}
-  headcount: 0
-  id: '223875087'
-  maybe_rsvp_count: 0
-  name: Algorithms for Geospatial Data Analysis
-  rsvp_limit: 500
-  status: upcoming
-  time: 1438209000000
-  updated: 1437170846000
-  utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 339
-- created: 1437413157000
-  description: "<p>July features Elaine Ayo talking about some of her data science\
-    \ work:</p> <p><br/>For <a href=\"http://www.districtdatalabs.com/#!incubator/c185j\"\
-    >District Data Labs' Incubator Program</a>, Elaine\_and her\_team developed a\
-    \ visualization of Bureau of Labor Statistics data for different industry concentrations\
-    \ and tried to find interesting clusters of industry. Elaine will present her\
-    \ team's final app, as well as what they learned in putting it together.</p> <p><a\
-    \ href=\"https://twitter.com/eieayo\">Elaine Ayo </a>is a data analyst at a public\
-    \ policy research firm, primarily focusing on studies of nutrition assistance\
-    \ programs.</p> <p>############################</p> <p>As always, pizza will show\
-    \ up around 6:30, so start arriving then. We'll introduce ourselves at 7 and get\
-    \ started. See you soon!</p>"
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/224050687/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
-    who: Ladies Who Code}
-  headcount: 0
-  id: '224050687'
-  maybe_rsvp_count: 0
-  name: Data with Elaine
-  status: upcoming
-  time: 1438209000000
-  updated: 1437503298000
-  utc_offset: -14400000
-  venue: {address_1: 1818 N St NW, city: Washington, country: us, id: 311792, lat: 38.907229999999998,
-    lon: -77.042150000000007, name: Sunlight Foundation, repinned: false, state: DC,
-    zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 19
-- created: 1437529630000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!\_</p> <p>We host beginners night on the\
-    \ first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.\_All other study group nights will cover\
-    \ more advanced topics and work on projects more in depth, according to everyone's\
-    \ interests.</p> <p>There will be food at this event!</p> <p><b>This Women Who\
-    \ Code DC event is intended to be exclusively open for women; we are trans* friendly.\_\
-    </b></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224085010/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Take the elevator to the 6th floor.           The closest Metro
-    is Red line, Farragut North Station. No parking.  There are decks that you can
-    park for $7 flat for the evening right across the street
-  id: '224085010'
-  maybe_rsvp_count: 0
-  name: Python Study Group
-  status: upcoming
-  time: 1438209000000
-  updated: 1438132206000
-  utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 25
-- created: 1435605354000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills?</p> <p>Come to our<b> First Timer's Night</b> Ruby on Rails(ROR)\
-    \ Study Group. This event is intended for those new to programming and/or ROR\
-    \ (but we welcome people of all levels to attend and help out)! The agenda will\
-    \ include a lecture that covers Ruby and Rails and an installfest to help you\
-    \ set up Rails on your own computer.\_</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
-    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
-    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Getting in\
-    \ the Building</b></p> <p>The building locks its doors at 6pm, but there will\
-    \ be someone at the door to let you in.\_ If not please comment here or on Slack\
-    \ (if you're signed up for it, see resource link below if not) and someone will\
-    \ come get you.</p> <p><br/><b>Meetup Agenda</b></p> <p>Every study group will\
-    \ have the following format:</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40\
-    \ - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk\
-    \ to Ruby and Rails</p> <p><br/>\u2022 7:10 - 8:10pm - Install necessary software\
-    \ following the <a href=\"http://installrails.com/\">InstallRails</a> guide.</p>\
-    \ <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><i><b>RESOURCES</b></i></p> <p>These\
-    \ are the resources that members have been following along, feel free to suggest\
-    \ if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p><b>Install Guide:</b></p> <p><a href=\"http://installrails.com/\" class=\"\
-    linkified\">http://installrails.com/</a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223981363/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: kpvxhlytkbmc
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails Study Group: First Timers'' Night!'
-  status: upcoming
-  time: 1438209000000
-  updated: 1438201831000
-  utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 28
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -445,7 +277,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -453,9 +285,10 @@ other:
     \ go ahead and mark your calendar for the first Tuesday of the month! \_</p> <p>See\
     \ you soon. \_:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
     \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
-    \ <p>* Jeffrey Meisel, Census Bureau\_<br/>* Sean McDonald, Frontline SMS\_<br/>*\
-    \ Eric Mill, 18F\_<br/>* TBD</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm\
-    \ - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+    \ <p>* Jeffrey Meisel, Census Bureau\_<br/>* Sean McDonald, Frontline SMS\_<br/>*\_\
+    TJ Stalcup,\_WealthEngine<br/>* Eric Mill, 18F\_</p> <p><br/>7:55pm - 8:00pm Refill\
+    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
+    \ Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/223814899/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -466,14 +299,14 @@ other:
   name: DC API User Group - August Edition
   status: upcoming
   time: 1438725600000
-  updated: 1436462363000
+  updated: 1438222405000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 84
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -521,7 +354,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1437645673000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://studentinnovationgala.splashthat.com/\"\
@@ -628,7 +461,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1417881835000
   description: '<p>OpenRefine is rad but also slow and buggy. I like it for some uses
     but most of the time, even with reporters, I like to invest the time teaching
@@ -670,7 +503,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -750,7 +583,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1437393299000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -958,6 +791,31 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1438226302000
+  description: <p>Are you a professional female developer? You're not alone. Come
+    brunch with others like you! This brunch is for working developers only because
+    it can be tough to find times to network with other women in the industry.</p>
+    <p>The estimated cost for the brunch is $10, but the final cost will be whatever
+    you owe the restaurant for your order, which you will pay directly to them. (We
+    will not be taking any payments from you).</p>
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224275275/
+  fee: {accepts: cash, amount: 10, currency: USD, description: per person, label: Price,
+    required: '0'}
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '224275275'
+  maybe_rsvp_count: 0
+  name: Professional Developer Brunch
+  rsvp_limit: 20
+  status: upcoming
+  time: 1439740800000
+  updated: 1438226333000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1201,7 +1059,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 91
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1658,6 +1516,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1424968249000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224141221/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: tjxljlytmbtb
+  maybe_rsvp_count: 0
+  name: Android Hack Night
+  rsvp_limit: 30
+  status: upcoming
+  time: 1442356200000
+  updated: 1437823706000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1437347249000
   description: "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\"\
     >register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating\
@@ -1725,7 +1624,7 @@ other:
     \ period - you'll mingle (M), interact (I) and exchange information (X).\_</p>\
     \ <p>Before the event, you'll provide information about yourself, your organization/company\
     \ and what you either can provide (if you are a freelancer/agency) or what you\
-    \ need (if you are with an company/organization). We'll use this to pre-match\
+    \ need (if you are with an association or similar). We'll use this to pre-match\
     \ you during the speed portion.\_</p> <p><b><i>Mingle</i></b>:\_When you arrive,\
     \ we'll have a short structured networking portion where we organize tables based\
     \ on topic and you can self-select which table to join. After the Speed MIX portion,\
@@ -1750,17 +1649,17 @@ other:
   headcount: 0
   id: '224220483'
   maybe_rsvp_count: 0
-  name: 'Speed MIX: Associations + Digital Agencies and Freelancers'
+  name: 'Speed MIX: Associations + Digital Experts & Agencies'
   status: upcoming
   time: 1443479400000
-  updated: 1438198516000
+  updated: 1438257455000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
