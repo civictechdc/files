@@ -280,7 +280,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -357,7 +357,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1437645673000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://studentinnovationgala.splashthat.com/\"\
@@ -1098,7 +1098,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 104
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1658,7 +1658,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1438041748000
   description: "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p>Speed Networking between people\
@@ -1710,7 +1710,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
