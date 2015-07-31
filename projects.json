@@ -3265,13 +3265,13 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 53, 
+                "contributions": 54, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1573454?v=3", 
-                "contributions": 29, 
+                "contributions": 32, 
                 "link": "https://github.com/RyanGladstone", 
                 "name": "RyanGladstone"
             }, 
@@ -3453,7 +3453,7 @@
             {
                 "assignee": null, 
                 "body": "Anyone willing to Add in popup legal glossary using this: http://openadvocate.org/readclearly/? ReadClearly identifies complex legal terms on your website and displays a plain language explanation.", 
-                "comments": 1, 
+                "comments": 4, 
                 "created_at": "2015-07-09T18:59:39Z", 
                 "issue": "Add in popup legal glossary", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/85", 
@@ -3476,7 +3476,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-23T03:24:15Z"
+                "updated_at": "2015-07-30T22:35:35Z"
             }, 
             {
                 "assignee": null, 
@@ -3512,7 +3512,7 @@
             ], 
             [
                 "JavaScript", 
-                10715
+                10747
             ], 
             [
                 "CSS", 
@@ -3527,14 +3527,14 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 7, 
+        "open_issues": 6, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-07-29T00:59:05Z", 
+        "pushed_at": "2015-07-30T23:13:25Z", 
         "size": 10388, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
