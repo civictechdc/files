@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1427389075000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1427389099000, 
@@ -266,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1436462363000, 
@@ -303,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1424968249000, 
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1417881835000, 
@@ -471,7 +471,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1436915407000, 
@@ -551,7 +551,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1438187120000, 
@@ -709,7 +709,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1424968249000, 
@@ -944,6 +944,46 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1438354352000, 
+            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with pizza and drinks, and the presentations start at 6:30. Contact Michael if you have a tech project you'd like to share.</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/224308905/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Lobby entrance is on Oak St; take elevator to 11th floor", 
+            "id": "224308905", 
+            "maybe_rsvp_count": 0, 
+            "name": "Walk Hack Night", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1440108000000, 
+            "updated": 1438355924000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1501 Wilson Blvd, Suite 1100", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 16609032, 
+                "lat": 38.895149000000004, 
+                "lon": -77.074043000000003, 
+                "name": "Mobility Lab", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22209"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
+        }, 
+        {
             "created": 1438104447000, 
             "description": "<p>For our August Data Science DC Meetup, we're thrilled to have Brian Muller from OpBandit (recently acquired by Vox) presenting about the algorithms of Multi-Armed Bandit models and their importance in web content optimization. Going beyond simple A/B testing, Bandit approaches continuously exploit the knowledge they have learned about user preferences, maximizing value as they learn. As a short postscript, Harlan Harris will talk about Bandit modeling when preference data is incomplete and delayed. Expect to learn about tradeoffs between exploration and exploitation, algorithms for continuous learning and optimization, and how much of a difference they can make in practice.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstracts:</b></p> <p>1.</p> <p>At OpBandit, we built a service that renders different versions of news content for rendering on top publishers across six countries.\u00a0 At a high level, whenever a reader requests a page on a publisher's website, our service selects from multiple versions of headlines and photos to deliver the collection of versions that we think a user is most likely to click.\u00a0 This requires decision making on the fly for each request, with hard requirements for speed, reliability, and selection quality.\u00a0 This talk will cover the technical approaches we used (mostly solutions to the multi-armed bandit problem) to make content version selections, as well as the product implications of our choices and the results of each approach.</p> <p><a href=\"https://www.linkedin.com/in/bamuller\">Brian Muller</a> is the Director of Data Science at <a href=\"http://www.voxmedia.com/\">Vox Media</a>.\u00a0 Previously, he was the CTO and co-founder of <a href=\"https://opbandit.com/\">OpBandit</a> (acquired by Vox), a content optimization tool for online publishers.\u00a0 Prior to founding OpBandit, he was the Lead Data Scientist at LivingSocial.\u00a0 While at LivingSocial, he founded the data science team and oversaw the creation and growth of a big data infrastructure and the teams necessary to support it - all while the customer base grew from thousands to over 70 million users.\u00a0 Before that, he worked as the Web Director for Foreign Policy Magazine under the Washington Post.\u00a0 He as a MS in the Biomedical Sciences, and has spent time in academia working for the Medical University of South Carolina and Johns Hopkins University School of Medicine focused on squeezing meaningful information out of vast quantities of genomic data. Follow Brian on Twitter <a href=\"https://twitter.com/bmuller\">@bmuller</a>.\u00a0</p> <p><br/>2.</p> <p>Traditional multi-armed bandit optimization relies on your getting feedback relatively quickly so that you can update your utility function with improved estimates of the value of each option. This talk will explore options for tackling the problem of bandit-like optimization when feedback is slow and incomplete, such as in direct marketing campaigns where purchases may be delayed weeks or months. How do you update your utility function when \"no\" might mean \"not yet\" and product demand changes over time?</p> <p><br/><a href=\"http://www.linkedin.com/in/harlanharris\">Harlan\u00a0D.\u00a0Harris</a>\u00a0is Director, Data Science at <a href=\"https://www.eab.com/\">EAB</a>, a company that provides enterprise software and best-practices research to higher education institutions. He is a co-founder of the Data Science DC Meetup and of Data Community DC, Inc.\u00a0Harlan\u00a0has a BS in Computer Science from the University of Wisconsin-Madison, and a PhD in Computer Science, focusing on Machine Learning and Cognitive Science, from the University of\u00a0Illinois\u00a0at Urbana-Champaign. He worked as a researcher at Columbia University, the University of Connecticut, and New York University psychology departments before turning to data science and predictive analytics in industry. Harlan is co-author of O'Reilly's Analyzing the Analyzers, and tweets about data science as <a href=\"http://twitter.com/harlanh\">@harlanh</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
@@ -1019,7 +1059,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1427088126000, 
@@ -1431,7 +1471,7 @@ calendar({
         }, 
         {
             "created": 1438041748000, 
-            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out followup information, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
+            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
             "group": {
                 "created": 1189804715000, 
@@ -1449,16 +1489,16 @@ calendar({
             "name": "Speed MIX: Associations & Nonprofits + Digital Experts and Agencies", 
             "status": "upcoming", 
             "time": 1443479400000, 
-            "updated": 1438290296000, 
+            "updated": 1438363833000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1585,7 +1625,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>The Cloud, Mobile and Web Applications are producing semi-structured data at an unprecedented rate. IT professionals continue to struggle capturing, transforming, and analyzing these complex data structures mixed with traditional relational style datasets using conventional MPP and/or Hadoop infrastructures. \u00a0Public cloud infrastructures such as Amazon and Azure provide almost unlimited resources and scalability to handle both structured and semi-structured data (XML, JSON, AVRO) at Petabyte scale. \u00a0These new capabilities coupled with traditional data management access methods such as SQL allow organizations and businesses new opportunities to leverage analytics at an unprecedented scale while greatly simplifying data pipeline architectures and providing an alternative to the \"data lake\".</p> <p><br/>Please join DWDC and Snowflake Computing for a discussion of these topics and a demonstration of this game changing technology. The demonstration will focus on analyzing structured and semistructured together using a commercially available cloud based platform and standards based SQL language to provide insights on large petabytes scale data sets.\u00a0</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100071/", 
             "group": {
@@ -1601,10 +1641,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytpbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "November Meetup", 
+            "name": "Analyzing Semi-Structured Data At Volume In The Cloud", 
             "status": "upcoming", 
             "time": 1446679800000, 
-            "updated": 1437070416000, 
+            "updated": 1438355226000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
