@@ -309,7 +309,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -434,7 +434,7 @@ other:
     repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1438095372000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -506,7 +506,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -553,7 +553,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1326383071000
   description: "<p>It's summer time... in the city! Between screen on the green, dancing\
     \ cranes, rooftop sunsets, and more - the city stays alive despite the humidity.\
@@ -1033,10 +1033,13 @@ other:
     >Landmark</a>\_app for pedestrian-focused directions.</p> <p><br/>\u2022\_<a href=\"\
     https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"\
     http://gisinc.com/\">GISInc</a> analyzes indoor\_traffic patterns.</p> <p>\u2022\
-    \_<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\_will show\
-    \ how he uses Google Street View to make sidewalks more\_accessible.\_</p> <p><br/>Follow\_\
-    <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation\
-    \ Techies\" updates.</p>"
+    \_<a href=\"http://www.tedeytan.com/\">Ted Eytan</a>,\_MD from Kaiser Permanente,\_\
+    will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total\
+    \ Health</a> uses infrared sensors and visualization tools to model trail use\
+    \ and promote walking in NoMA.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/kotarohara_en\"\
+    ><b>Kotaro Hara</b></a>\_will show how he uses Google Street View to make sidewalks\
+    \ more\_accessible.\_</p> <p><br/>Follow\_<a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a>\_for \"Transportation Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/224308905/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1049,14 +1052,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1440108000000
-  updated: 1438355924000
+  updated: 1438436514000
   utc_offset: -14400000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -1135,7 +1138,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1518,12 +1521,10 @@ other:
 - created: 1438369095000
   description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
-    http://devfestdc2015.eventbrite.com/\">Eventbrite</a> Link\_</p> <p>Early bird\
-    \ price is still $15 for two days until August 10!!\_</p> <p>Please don't RSVP\
+    http://devfestdc2015.eventbrite.com/\">Eventbrite</a> Link.</p> <p>Early bird\
+    \ price is still $15 for a few days until August 10!!\_</p> <p>Please don't RSVP\
     \ here. RSVP at <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a></p>\
-    \ <p>Great speakers, code labs, workshops and panels planned.</p> <p>Register\
-    \ Here:\_<a href=\"http://devfestdc2015.eventbrite.com/\"><a href=\"http://devfestdc2015.eventbrite.com/\"\
-    \ class=\"linkified\">http://devfestdc2015.eventbrite.com/</a></a>\_</p>"
+    \ <p>Great speakers, code labs, workshops and panels planned.</p>"
   event_url: http://www.meetup.com/gdg-dc/events/224314177/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
     id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
@@ -1537,7 +1538,7 @@ other:
   rsvp_limit: 2
   status: upcoming
   time: 1441972800000
-  updated: 1438372381000
+  updated: 1438438845000
   utc_offset: -14400000
   venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
     lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
