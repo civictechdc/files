@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1427389075000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 19
 - created: 1427389099000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -309,7 +309,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 100
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -382,7 +382,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -586,7 +586,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1438187120000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://smallbizdevhack.com/#register\"\
@@ -616,7 +616,7 @@ other:
     zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1437393299000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -851,7 +851,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1056,7 +1056,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -1515,6 +1515,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1438369095000
+  description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
+    >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
+    http://devfestdc2015.eventbrite.com/\">Eventbrite</a> Link\_</p> <p>Early bird\
+    \ price is still $15 for two days until August 10!!\_</p> <p>Please don't RSVP\
+    \ here. RSVP at <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a></p>\
+    \ <p>Great speakers, code labs, workshops and panels planned.</p> <p>Register\
+    \ Here:\_<a href=\"http://devfestdc2015.eventbrite.com/\"><a href=\"http://devfestdc2015.eventbrite.com/\"\
+    \ class=\"linkified\">http://devfestdc2015.eventbrite.com/</a></a>\_</p>"
+  event_url: http://www.meetup.com/gdg-dc/events/224314177/
+  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
+    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
+    urlname: gdg-dc, who: Google Techies and Users}
+  headcount: 0
+  how_to_find_us: DevFestDC, Google, Iot, BigData, Developers, Polymer, Meteor, AngularJS,
+    Java, Python
+  id: '224314177'
+  maybe_rsvp_count: 0
+  name: DevFestDC - 2015
+  rsvp_limit: 2
+  status: upcoming
+  time: 1441972800000
+  updated: 1438372381000
+  utc_offset: -14400000
+  venue: {address_1: 22000 AOL Way, city: Dulles, country: us, id: 1637409, lat: 39.005215,
+    lon: -77.445723999999998, name: AOL, repinned: false, state: VA, zip: '20166'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1747,7 +1776,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
