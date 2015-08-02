@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1427389075000, 
@@ -266,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1436462363000, 
@@ -551,7 +551,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1438187120000, 
@@ -945,7 +945,7 @@ calendar({
         }, 
         {
             "created": 1438354352000, 
-            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with pizza and drinks, and the presentations start at 6:30. Contact Michael if you have a tech project you'd like to share.</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<a href=\"http://www.tedeytan.com/\">Ted Eytan</a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a> uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with pizza and drinks, and the presentations start at 6:30. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a tech project you'd like to share.</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<a href=\"http://www.tedeytan.com/\"><b>Ted Eytan</b></a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a> uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\">#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\">@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>, <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\">@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a> (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\">@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>), <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\">@kptotalhealth</a>), and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a> (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224308905/", 
             "group": {
                 "created": 1384372275000, 
@@ -965,7 +965,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1440108000000, 
-            "updated": 1438436514000, 
+            "updated": 1438464149000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -981,7 +981,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1438104447000, 
@@ -1021,7 +1021,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1437765166000, 
@@ -1059,7 +1059,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427088126000, 

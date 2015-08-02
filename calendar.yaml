@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1427389075000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -280,7 +280,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -586,7 +586,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 53
 - created: 1438187120000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"http://smallbizdevhack.com/#register\"\
@@ -1024,22 +1024,32 @@ other:
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
     \ visualizations about pedestrians and the walking experience. Doors open at\_\
     <a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_at 6:00 with pizza and drinks,\
-    \ and the presentations start at 6:30. Contact Michael if you have a tech project\
-    \ you'd like to share.</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\_\
-    <b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo\
-    \ <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\_<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\"\
-    >VisionZero</a>\_app.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/nguyenist\"\
-    ><b>Stephanie Nguyen</b></a> will demo the\_<a href=\"http://www.landmarkdirections.com/\"\
-    >Landmark</a>\_app for pedestrian-focused directions.</p> <p><br/>\u2022\_<a href=\"\
-    https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"\
-    http://gisinc.com/\">GISInc</a> analyzes indoor\_traffic patterns.</p> <p>\u2022\
-    \_<a href=\"http://www.tedeytan.com/\">Ted Eytan</a>,\_MD from Kaiser Permanente,\_\
-    will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total\
-    \ Health</a> uses infrared sensors and visualization tools to model trail use\
-    \ and promote walking in NoMA.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/kotarohara_en\"\
-    ><b>Kotaro Hara</b></a>\_will show how he uses Google Street View to make sidewalks\
-    \ more\_accessible.\_</p> <p><br/>Follow\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for \"Transportation Techies\" updates.</p>"
+    \ and the presentations start at 6:30. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a> if you have a tech project you'd like to share.</p> <p>Our presenters\
+    \ thus far are:</p> <p><br/>\u2022\_<b><a href=\"https://twitter.com/cartograham\"\
+    >James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\_<a\
+    \ href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\_app.</p>\
+    \ <p><br/>\u2022\_<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a>\
+    \ will demo the\_<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\_\
+    app for pedestrian-focused directions.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/bmoregeo\"\
+    ><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a>\
+    \ analyzes indoor\_traffic patterns.</p> <p>\u2022\_<a href=\"http://www.tedeytan.com/\"\
+    ><b>Ted Eytan</b></a>,\_MD from Kaiser Permanente,\_will show how the <a href=\"\
+    http://centerfortotalhealth.org/\">KP Center for Total Health</a> uses infrared\
+    \ sensors and visualization tools to model trail use and promote walking in NoMA.</p>\
+    \ <p><br/>\u2022\_<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\_\
+    will show how he uses Google Street View to make sidewalks more\_accessible.\_\
+    </p> <p><br/>Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\"\
+    >#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\"\
+    >@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>,\
+    \ <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\"\
+    >@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a>\
+    \ (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\"\
+    >@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>),\
+    \ <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\"\
+    >@kptotalhealth</a>), and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a>\
+    \ (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/224308905/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1052,14 +1062,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1440108000000
-  updated: 1438436514000
+  updated: 1438464149000
   utc_offset: -14400000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -1138,7 +1148,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 107
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1166,7 +1176,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\

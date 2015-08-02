@@ -1537,7 +1537,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 336, 
+                "contributions": 338, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }, 
@@ -1566,11 +1566,11 @@ projects([
         "languages": [
             [
                 "Python", 
-                337169
+                337254
             ], 
             [
                 "HTML", 
-                237549
+                237356
             ], 
             [
                 "JavaScript", 
@@ -1608,8 +1608,8 @@ projects([
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2015-07-10T20:25:59Z", 
-        "size": 32814, 
+        "pushed_at": "2015-08-01T22:21:34Z", 
+        "size": 32815, 
         "updated_at": "2015-06-23T17:26:56Z", 
         "watchers": 22
     }, 
@@ -2106,8 +2106,8 @@ projects([
         }, 
         "pushed_at": "2015-07-31T00:22:37Z", 
         "size": 21124, 
-        "updated_at": "2015-07-29T00:59:00Z", 
-        "watchers": 8
+        "updated_at": "2015-08-01T20:31:10Z", 
+        "watchers": 9
     }, 
     {
         "activity": [
