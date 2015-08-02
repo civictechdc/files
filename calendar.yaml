@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1427389099000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -309,7 +309,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 105
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -464,7 +464,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1417881835000
   description: '<p>OpenRefine is rad but also slow and buggy. I like it for some uses
     but most of the time, even with reporters, I like to invest the time teaching
@@ -506,7 +506,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 92
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -616,7 +616,7 @@ other:
     zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1437393299000
   description: "<p>As discussed...<br/>Let's meet at MLK library to continue pushing\
     \ the ball forward. (If you cannot make it and would like to join us virtually,\
@@ -732,7 +732,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1148,7 +1148,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 108
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1176,7 +1176,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
