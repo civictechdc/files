@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1427389099000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -280,7 +280,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 39
 - created: 1436462363000
   description: "<p>So much great work happening with APIs! \_</p> <p>As many of you\
     \ have now seen, the new location is great! \_Good space, good food and drink,\
@@ -309,7 +309,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 109
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -506,7 +506,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 93
+  yes_rsvp_count: 95
 - created: 1436915407000
   description: "<p><b>#LegalHack OER: Should publicly funded education resources be\
     \ openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation\
@@ -553,7 +553,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1326383071000
   description: "<p>It's summer time... in the city! Between screen on the green, dancing\
     \ cranes, rooftop sunsets, and more - the city stays alive despite the humidity.\
@@ -650,7 +650,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1069,7 +1069,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 16
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -1148,7 +1148,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -1176,7 +1176,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1735,7 +1735,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1438041748000
   description: "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p>Speed Networking between people\
@@ -2342,6 +2342,47 @@ other:
   name: Monthly Meetup
   status: upcoming
   time: 1467846000000
+  updated: 1326383071000
+  utc_offset: -14400000
+  venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
+    lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
+      667-6295, repinned: false, state: DC, zip: '20009'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1417881835000
+  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
+    /></p>
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvlbfb/
+  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
+    who: Data Wranglers}
+  headcount: 0
+  id: hffzclyvlbfb
+  maybe_rsvp_count: 0
+  name: January Meetup
+  status: upcoming
+  time: 1470263400000
+  updated: 1417881835000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1326383071000
+  description: <p>On the first Wednesday of the month, we'll gather to socialize,
+    network, and hear about the work people are doing with maps, GIS, geodata, and
+    more.</p>
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcyvlbfb/
+  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
+    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
+  headcount: 0
+  how_to_find_us: Upstairs bar
+  id: dlcllcyvlbfb
+  maybe_rsvp_count: 0
+  name: Monthly Meetup
+  status: upcoming
+  time: 1470265200000
   updated: 1326383071000
   utc_offset: -14400000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
