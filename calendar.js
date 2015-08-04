@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1427389075000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1427389099000, 
@@ -232,7 +232,7 @@ calendar({
     "other": [
         {
             "created": 1436462363000, 
-            "description": "<p>So much great work happening with APIs! \u00a0</p> <p>As many of you have now seen, the new location is great! \u00a0Good space, good food and drink, and plenty to talk about. \u00a0For August, we've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! \u00a0</p> <p>See you soon. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Jeffrey Meisel, Census Bureau\u00a0<br/>* Sean McDonald, Frontline SMS\u00a0<br/>*\u00a0TJ Stalcup,\u00a0WealthEngine<br/>* Eric Mill, 18F\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>So much great work happening with APIs! \u00a0</p> <p>As many of you have now seen, the new location is great! \u00a0Good space, good food and drink, and plenty to talk about. \u00a0For August, we've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! \u00a0</p> <p>See you soon. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Sean McDonald, Frontline SMS\u00a0<br/>* Tyrone Grandison, Dept. of Labor/Census Bureau\u00a0<br/>*\u00a0TJ Stalcup,\u00a0WealthEngine<br/>* Eric Mill, 18F\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/223814899/", 
             "group": {
                 "created": 1347647025000, 
@@ -250,7 +250,7 @@ calendar({
             "name": "DC API User Group - August Edition", 
             "status": "upcoming", 
             "time": 1438725600000, 
-            "updated": 1438222405000, 
+            "updated": 1438705089000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1424968249000, 
@@ -292,7 +292,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1437645673000, 
@@ -322,7 +322,7 @@ calendar({
         }, 
         {
             "created": 1435605354000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>\n\n\n<i><b>Parking</b></i></p> <p>For those who are commuting via automobile, you can park across the street in the Crystal City Public Parking garage for free after 4 p.m.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223930246/", 
             "group": {
@@ -341,7 +341,7 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1438813800000, 
-            "updated": 1437511016000, 
+            "updated": 1438709446000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2100 Crystal Drive", 
@@ -437,7 +437,7 @@ calendar({
         }, 
         {
             "created": 1436915407000, 
-            "description": "<p><b>#LegalHack OER: Should publicly funded education resources be openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation about how we should be thinking about the ownership of publicly funded educational materials.</p> <p>If the federal government pays for educational resources to be developed, should those resources belong in the public commons? Increasingly, federal agencies are starting to think the answer should be \u201cyes.\u201d From the <a href=\"https://creativecommons.org/tag/taaccct\">Departments of Labor and Education</a>, to the <a href=\"http://www.nsf.gov/news/special_reports/public_access/\">National Science Foundation</a>, agencies are considering how to share the wealth of educational materials they fund with the public.</p> <p>But many questions remain: How should these materials be licensed? Where will these materials be stored? Who will be responsible for curating them? What incentives can be used to encourage the creation of new materials?</p> <p>To talk through these questions and more, we\u2019ve assembled a panel of experts to #LegalHack publicly funded educational materials.</p> <p>-----</p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"> more than twenty</a> legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Speakers:</p> <p><br/><b>\u2022\u00a0Meredith Jacob, </b><i>Creative Commons US</i></p> <p><b>\u2022\u00a0Sharon Leu, </b><i>U.S. Department of Labor</i></p> <p><b>\u2022 </b><b>Dipayan Ghosh</b><i>, White House Office of Science and Technology Policy\u00a0</i></p> <p><b>\u2022\u00a0Chris Lewis</b><i>, Public Knowledge</i></p> <p>Schedule:</p> <p>6:00pm: Drinks/Networking</p> <p>6:45pm: Panel Introductions / Brief Presentations If You'd Like</p> <p>7:00pm: Panel</p> <p>7:45pm: Q&amp;A</p> <p>8:00pm: End</p>", 
+            "description": "<p><b>#LegalHack OER: Should publicly funded education resources be openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation about how we should be thinking about the ownership of publicly funded educational materials.</p> <p>If the federal government pays for educational resources to be developed, should those resources belong in the public commons? Increasingly, federal agencies are starting to think the answer should be \u201cyes.\u201d From the <a href=\"https://creativecommons.org/tag/taaccct\">Departments of Labor and Education</a>, to the <a href=\"http://www.nsf.gov/news/special_reports/public_access/\">National Science Foundation</a>, agencies are considering how to share the wealth of educational materials they fund with the public.</p> <p>But many questions remain: How should these materials be licensed? Where will these materials be stored? Who will be responsible for curating them? What incentives can be used to encourage the creation of new materials?</p> <p>To talk through these questions and more, we\u2019ve assembled a panel of experts to #LegalHack publicly funded educational materials.</p> <p>-----</p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"> more than twenty</a> legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Speakers:</p> <p><br/><b>\u2022\u00a0</b><i>Meredith Jacob</i>,\u00a0<b>Creative Commons US</b></p> <p><i>\u2022\u00a0Chris Lewis, </i><b>Public Knowledge</b></p> <p><br/><b>\u2022\u00a0</b><i>Sharon Leu</i>,\u00a0<b>U.S. Department of Labor</b></p> <p><b>\u2022 </b><i>Dipayan Ghosh, </i><b>White House Office of Science and Technology Policy\u00a0</b></p> <p><b>\u2022 </b><i>Lindsey Tepe</i>,<b> New America Foundation </b>(moderator)\u00a0</p> <p>Schedule:</p> <p>6:00pm: Drinks/Networking</p> <p>6:45pm: Panel Introductions\u00a0</p> <p>7:00pm: Panel</p> <p>7:45pm: Q&amp;A</p> <p>8:00pm: End</p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/223926114/", 
             "group": {
                 "created": 1372871984000, 
@@ -456,7 +456,7 @@ calendar({
             "name": "#LegalHack Open Educational Resources", 
             "status": "upcoming", 
             "time": 1438815600000, 
-            "updated": 1437772114000, 
+            "updated": 1438706808000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -473,7 +473,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1326383071000, 
@@ -513,7 +513,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1438187120000, 
@@ -738,7 +738,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1438226302000, 
@@ -849,7 +849,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1424968249000, 
@@ -954,7 +954,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1438104447000, 
@@ -994,7 +994,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1437765166000, 
@@ -1032,7 +1032,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1427088126000, 
@@ -1480,7 +1480,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1427088126000, 
