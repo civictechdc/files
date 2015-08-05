@@ -231,6 +231,46 @@ calendar({
     ], 
     "other": [
         {
+            "created": 1436915407000, 
+            "description": "<p><b>#LegalHack OER: Should publicly funded education resources be openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation about how we should be thinking about the ownership of publicly funded educational materials.</p> <p>If the federal government pays for educational resources to be developed, should those resources belong in the public commons? Increasingly, federal agencies are starting to think the answer should be \u201cyes.\u201d From the <a href=\"https://creativecommons.org/tag/taaccct\">Departments of Labor and Education</a>, to the <a href=\"http://www.nsf.gov/news/special_reports/public_access/\">National Science Foundation</a>, agencies are considering how to share the wealth of educational materials they fund with the public.</p> <p>But many questions remain: How should these materials be licensed? Where will these materials be stored? Who will be responsible for curating them? What incentives can be used to encourage the creation of new materials?</p> <p>To talk through these questions and more, we\u2019ve assembled a panel of experts to #LegalHack publicly funded educational materials.</p> <p>-----</p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"> more than twenty</a> legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Speakers:</p> <p><br/><b>\u2022\u00a0</b><i>Meredith Jacob</i>,\u00a0<b>Creative Commons US</b></p> <p><i>\u2022\u00a0Chris Lewis, </i><b>Public Knowledge</b></p> <p><br/><b>\u2022\u00a0</b><i>Sharon Leu</i>,\u00a0<b>U.S. Department of Labor</b></p> <p><b>\u2022 </b><i>Dipayan Ghosh, </i><b>White House Office of Science and Technology Policy\u00a0</b></p> <p><b>\u2022 </b><i>Lindsey Tepe</i>,<b> New America Foundation </b>(moderator)\u00a0</p> <p>Schedule:</p> <p>6:00pm: Drinks/Networking</p> <p>6:45pm: Panel Introductions\u00a0</p> <p>7:00pm: Panel</p> <p>7:45pm: Q&amp;A</p> <p>8:00pm: End</p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/223926114/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Suite 400, text 413-387-8268 if lost", 
+            "id": "223926114", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack Open Educational Resources", 
+            "status": "upcoming", 
+            "time": 1438812000000, 
+            "updated": 1438785419000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1899 L Street NW ", 
+                "address_2": "Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 1330329, 
+                "lat": 38.903917, 
+                "lon": -77.043056000000007, 
+                "name": "New America Foundation", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 43
+        }, 
+        {
             "created": 1437645673000, 
             "description": "<p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://studentinnovationgala.splashthat.com/\">event registration page</a>. After you RSVP here you'll receive a 25% off discount code. \u00a0</p> <p>Come celebrate the growing opportunities,\u00a0programs, and startups emerging from the DC\u00a0area\u2019s innovators.\u00a0</p> <p>Watch\u00a0demos from student startups and the programs that support them. Meet and mix with rising talent and local entrepreneurs of all ages.\u00a0</p> <p><b>Do you have a project that you want to showcase?</b> Email Daniel Wilson\u00a0(danielw[at]joindcxp.org) for more information on showcasing!</p>", 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224116155/", 
@@ -369,47 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
-        }, 
-        {
-            "created": 1436915407000, 
-            "description": "<p><b>#LegalHack OER: Should publicly funded education resources be openly licensed?</b></p> <p>Join us on Wednesday, August 5, 2015 for a conversation about how we should be thinking about the ownership of publicly funded educational materials.</p> <p>If the federal government pays for educational resources to be developed, should those resources belong in the public commons? Increasingly, federal agencies are starting to think the answer should be \u201cyes.\u201d From the <a href=\"https://creativecommons.org/tag/taaccct\">Departments of Labor and Education</a>, to the <a href=\"http://www.nsf.gov/news/special_reports/public_access/\">National Science Foundation</a>, agencies are considering how to share the wealth of educational materials they fund with the public.</p> <p>But many questions remain: How should these materials be licensed? Where will these materials be stored? Who will be responsible for curating them? What incentives can be used to encourage the creation of new materials?</p> <p>To talk through these questions and more, we\u2019ve assembled a panel of experts to #LegalHack publicly funded educational materials.</p> <p>-----</p> <p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"> more than twenty</a> legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Speakers:</p> <p><br/><b>\u2022\u00a0</b><i>Meredith Jacob</i>,\u00a0<b>Creative Commons US</b></p> <p><i>\u2022\u00a0Chris Lewis, </i><b>Public Knowledge</b></p> <p><br/><b>\u2022\u00a0</b><i>Sharon Leu</i>,\u00a0<b>U.S. Department of Labor</b></p> <p><b>\u2022 </b><i>Dipayan Ghosh, </i><b>White House Office of Science and Technology Policy\u00a0</b></p> <p><b>\u2022 </b><i>Lindsey Tepe</i>,<b> New America Foundation </b>(moderator)\u00a0</p> <p>Schedule:</p> <p>6:00pm: Drinks/Networking</p> <p>6:45pm: Panel Introductions\u00a0</p> <p>7:00pm: Panel</p> <p>7:45pm: Q&amp;A</p> <p>8:00pm: End</p>", 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/223926114/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Suite 400, text 413-387-8268 if lost", 
-            "id": "223926114", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack Open Educational Resources", 
-            "status": "upcoming", 
-            "time": 1438815600000, 
-            "updated": 1438706808000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1899 L Street NW ", 
-                "address_2": "Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 1330329, 
-                "lat": 38.903917, 
-                "lon": -77.043056000000007, 
-                "name": "New America Foundation", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1326383071000, 
@@ -569,7 +569,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422815467000, 
@@ -635,7 +635,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1435605354000, 
@@ -785,7 +785,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1424968249000, 
@@ -854,6 +854,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1438796466000, 
+            "description": "<p><b>Speaker:\u00a0</b></p> <p>Dr. David Higdon, Social Decision and Analytics Laboratory, Virginia Bioinformatics Institute\u00a0</p> <p><b>Abstract:\u00a0</b></p> <p>This talk gives a conceptual, and hopefully intuitive overview of Bayesian inference. The Bayesian approach is quite flexible, allowing the modeler to explore non-standard model formulations. The resulting uncertainty is characterized by a (multivariate) probability distribution for the unknown model parameters. This talk will also describe the Metropolis algorithm, a surprisingly general recipe for generating a (dependent) Monte Carlo sample from this posterior distribution. The concepts will be demonstrated using simple R code which will be made available for all to try out. Time permitting, the talk will also show how this basic approach can be used for some \"hand crafted\" analyses.</p> <p><b>About the speaker: </b><br/>Dr. David Higdon is a professor in the Social Decision Analytics Laboratory at Virginia Tech University. Previously, he spent 10 years as a scientist or group leader of the Statistical Sciences Group at Los Alamos National Laboratory. He is an expert in Bayesian statistical modeling of environmental and physical systems, combining physical observations with computer simulation models for prediction and inference. His research interests include space-time modeling; inverse problems in hydrology and imaging; statistical modeling in ecology, environmental science, and biology; multiscale models; parallel processing in posterior exploration; statistical computing; and Monte Carlo and simulation based methods. Dr. Higdon has served on several advisory groups concerned with statistical modeling and uncertainty quantification and co-chaired the NRC Committee on Mathematical Foundations of Validation, Verification, and Uncertainty Quantification. He is a fellow of the American Statistical Association. Dr. Higdon holds a B.A. and M.A. in mathematics from the University of California, San Diego, and a Ph.D. in statistics from the University of Washington.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/224428044/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "224428044", 
+            "maybe_rsvp_count": 0, 
+            "name": "A Primer for Bayesian Inference and MCMC in R", 
+            "status": "upcoming", 
+            "time": 1440023400000, 
+            "updated": 1438796629000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24009231, 
+                "lat": 38.898926000000003, 
+                "lon": -77.049484000000007, 
+                "name": "GWU Funger Hall (Room TBA)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1438354352000, 
             "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a tech project you'd like to share.</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<a href=\"http://www.tedeytan.com/\"><b>Ted Eytan</b></a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a> uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\">#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\">@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>, <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\">@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a> (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\">@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>), <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\">@kptotalhealth</a>), and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a> (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224308905/", 
@@ -891,7 +929,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1438104447000, 
@@ -931,7 +969,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1437765166000, 
@@ -1040,7 +1078,7 @@ calendar({
             "created": 1435605354000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><i><b>RESOURCES</b></i></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/kpvxhlytlbjc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224425962/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1057,8 +1095,19 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1440628200000, 
-            "updated": 1435697321000, 
+            "updated": 1438791094000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24009011, 
+                "lat": 38.905864999999999, 
+                "lon": -77.043396000000001, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1116,6 +1165,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1438791348000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><i>Parking</i></p> <p>For those who are commuting via automobile, you can park across the street in the Crystal City Public Parking garage for free after 4 p.m.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224426019/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224426019", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1441233000000, 
+            "updated": 1438791348000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2100 Crystal Drive", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24009019, 
+                "lat": 38.855201999999998, 
+                "lon": -77.050147999999993, 
+                "name": "Tech Shop", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -1249,6 +1336,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1438791464000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224426055/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224426055", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1441837800000, 
+            "updated": 1438791464000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW,", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 6154072, 
+                "lat": 38.899357000000002, 
+                "lon": -77.033066000000005, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1438369095000, 
@@ -1418,60 +1544,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 34
-        }, 
-        {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779214/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytmbcc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1442874600000, 
-            "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1437823706000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytmbdc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "tjxljlytmbdc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1442961000000, 
-            "updated": 1437823706000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1438041748000, 
