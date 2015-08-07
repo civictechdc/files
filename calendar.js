@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1427389075000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1422815467000, 
@@ -493,7 +493,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1435605354000, 
@@ -532,7 +532,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1438226302000, 
@@ -747,7 +747,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 152
         }, 
         {
             "created": 1438354352000, 
@@ -827,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1437765166000, 
@@ -1064,7 +1064,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p><b>What You'll Hear About</b></p> <p>R is a reliable and versatile tool for data munging. Unfortunately, base R data load and transform processes are slow for larger data sets.</p> <p>To alleviate this problem, the contributors to the data.table package in R have rewritten many data flow tools in C, with dramatic speed gains. Moreover, data.table can often do with one line what base-R users would require a page of code for. This has come at the cost of a rather demanding coding syntax.\u00a0</p> <p>During this talk, I will try to partially demystify data.table by going over a limited basic set of data.table operations, benchmarking against base-R as I go. For even larger data.sets, using R for ETL becomes unwieldly, so, time allowing, I will also attempt to demonstrate a few basic uses of Pentaho's PDI toolset.</p> <p><b>About Our Speaker</b></p> <p>Serban Tanasa is a managing director of Sunstone Science, a new innovative Business Intelligence and Analytics startup in the DC Metro Area.</p> <p>A migrant from the world of academia and international development, he is also serving as the director of analytics and research at CSBS, where he is currently building a BI solution from the ground up.</p> <p>Serban's hard at work bridging the gap between traditional Business Intelligence and the new wave of analytics-heavy methods surrounding Big Data.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100069/", 
             "group": {
@@ -1080,10 +1080,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytmbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "Writing Grammars in PyParsing for Web Scraping, Data Wrangler, and App Control", 
+            "name": "Blazing Fast Data Load and Transform with R's data.table and Pentaho's PDI", 
             "status": "upcoming", 
             "time": 1441233000000, 
-            "updated": 1437070400000, 
+            "updated": 1438906465000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -1099,7 +1099,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1326383071000, 
