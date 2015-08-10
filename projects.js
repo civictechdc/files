@@ -2740,9 +2740,9 @@ projects([
             0, 
             0, 
             4, 
-            2, 
-            11, 
-            2, 
+            10, 
+            5, 
+            0, 
             5, 
             0, 
             0, 
@@ -2750,8 +2750,8 @@ projects([
             0, 
             0, 
             0, 
-            43, 
-            22, 
+            45, 
+            20, 
             1, 
             0, 
             0, 
@@ -3204,8 +3204,8 @@ projects([
             0, 
             27, 
             2, 
-            24, 
-            11, 
+            26, 
+            9, 
             6, 
             15, 
             0
@@ -3351,7 +3351,7 @@ projects([
             {
                 "assignee": null, 
                 "body": "Our site has a few differnt users: Lawyers/Law students, returning citizens (those with criminal or arrest records) and other (case managers, family members etc). \r\n\r\nWe want to be ask at the beginning of the site  who that person is. For example, it could be 3 buttons and we ask the user to click which one they are. I..e  Option 1: lawyer/law sudent 2) returning citizen/formerly incarcerated, 3) case manager, 4) family member of formely incarcerated.  \r\n\r\nOur hope is tha thtis will allow us to track who is using the site better. We also will be able to change the language so its more affirming. For example, if the person using the site is a lawyer trying to help a client, we can change the language to ask, \"does your client have their criminal record now\" as opposed to saying \"do you have your cirminal record now). ", 
-                "comments": 5, 
+                "comments": 6, 
                 "created_at": "2015-07-31T00:19:40Z", 
                 "issue": "Imrpove user experience of site. Front end design. Estimated work time: 1 hour or less. ", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/107", 
@@ -3374,7 +3374,7 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-08T13:02:02Z"
+                "updated_at": "2015-08-10T01:35:33Z"
             }, 
             {
                 "assignee": null, 
