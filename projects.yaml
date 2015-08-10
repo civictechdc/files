@@ -103,8 +103,8 @@
   size: 22382
   updated_at: '2015-05-19T23:28:34Z'
   watchers: 22
-- activity: [8, 2, 1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5,
-    0, 0, 0, 3, 5, 0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0,
+- activity: [5, 1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5,
+    0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -189,7 +189,7 @@
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -237,7 +237,7 @@
   updated_at: '2015-05-19T23:31:29Z'
   watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -282,8 +282,8 @@
   size: 40011
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [3, 7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1, 9, 0, 4, 2, 0,
-    10, 0, 0, 5, 2, 7, 2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20,
+- activity: [6, 4, 3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8, 12, 0, 1, 9, 0, 4, 2, 0,
+    10, 0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10,
     1, 7, 1, 0]
   civic_json:
     bornAt: Code for DC
@@ -422,7 +422,7 @@
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     categories:
@@ -477,8 +477,8 @@
   size: 2915
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
-- activity: [8, 0, 13, 4, 14, 3, 5, 5, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0,
-    0, 0, 0, 10, 15, 6, 4, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+- activity: [8, 6, 7, 5, 13, 3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0,
+    0, 0, 1, 9, 20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 2, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -848,7 +848,7 @@
   updated_at: '2015-05-09T20:16:06Z'
   watchers: 14
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 18, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    7, 15, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -928,8 +928,8 @@
   updated_at: '2015-06-14T11:58:16Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 45, 32, 70, 16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0,
-    0, 0, 1, 0, 0]
+    0, 0, 0, 0, 45, 47, 56, 22, 71, 19, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0,
+    0, 0, 1, 0, 3]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -968,7 +968,7 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-08-09T21:32:42Z'
+  pushed_at: '2015-08-10T15:16:51Z'
   size: 4130
   updated_at: '2015-07-26T22:25:18Z'
   watchers: 12
@@ -1101,7 +1101,7 @@
       \ For example, if the person using the site is a lawyer trying to help a client,\
       \ we can change the language to ask, \"does your client have their criminal\
       \ record now\" as opposed to saying \"do you have your cirminal record now). "
-    comments: 6
+    comments: 7
     created_at: '2015-07-31T00:19:40Z'
     issue: 'Imrpove user experience of site. Front end design. Estimated work time:
       1 hour or less. '
@@ -1112,7 +1112,7 @@
     - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-08-10T01:35:33Z'
+    updated_at: '2015-08-10T12:53:39Z'
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
@@ -1181,7 +1181,7 @@
   - assignee: null
     body: '@cweems Would you happen to have some bandwith before thursday to see if
       the Email responses button is possible? '
-    comments: 0
+    comments: 1
     created_at: '2015-06-02T02:15:22Z'
     issue: 'Allow for email feature. '
     issue_url: https://github.com/codefordc/clean-slate/issues/62
@@ -1190,7 +1190,7 @@
     - {color: 006b75, name: 'Priority #2', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-07-31T00:01:40Z'
+    updated_at: '2015-08-10T16:47:04Z'
   homepage: https://codefordc.github.io/clean-slate
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
@@ -1261,7 +1261,7 @@
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 107, 49, 5, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0,
     0, 4, 0, 0]
   civic_json:
     bornAt: Code for DC
