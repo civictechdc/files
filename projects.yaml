@@ -1,6 +1,6 @@
-- activity: [2, 8, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 11, 23, 39, 16, 30, 36, 1, 0, 14,
-    17, 12, 38, 20, 33, 92, 22, 37, 3, 0, 2, 0, 2, 11, 10, 6, 1, 2, 4, 0, 3, 2, 2,
-    6, 0, 0, 7, 2, 6, 7, 0]
+- activity: [9, 0, 9, 3, 0, 0, 9, 0, 7, 1, 2, 16, 22, 23, 28, 19, 51, 12, 1, 9, 10,
+    12, 23, 27, 23, 69, 58, 17, 40, 0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 4, 1, 4,
+    4, 0, 0, 9, 6, 0, 7, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -371,8 +371,8 @@
   size: 17624
   updated_at: '2015-07-21T23:36:55Z'
   watchers: 18
-- activity: [6, 4, 6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7, 6, 2, 5, 0, 0,
-    0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [5, 5, 5, 3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0,
+    0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -536,7 +536,7 @@
   updated_at: '2015-08-04T19:21:10Z'
   watchers: 24
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 8, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -800,7 +800,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 81, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 68, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -943,7 +943,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 175,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 178,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -959,7 +959,7 @@
   id: 31002646
   languages:
   - [JavaScript, 46736]
-  - [Python, 14208]
+  - [Python, 14893]
   - [CSS, 3392]
   - [HTML, 931]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
@@ -968,12 +968,12 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-07-25T16:09:29Z'
-  size: 4119
+  pushed_at: '2015-08-09T21:32:42Z'
+  size: 4130
   updated_at: '2015-07-26T22:25:18Z'
   watchers: 12
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 30, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 20, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Open Data Day 2015, Code for DC
