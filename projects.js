@@ -2601,7 +2601,7 @@ projects([
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-08-03T22:52:00Z", 
-        "size": 864, 
+        "size": 1004, 
         "updated_at": "2015-05-09T20:16:06Z", 
         "watchers": 14
     }, 
