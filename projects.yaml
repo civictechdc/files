@@ -1,5 +1,5 @@
-- activity: [9, 0, 9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19, 27, 45, 8, 1, 9, 15,
-    7, 34, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 0, 6, 2,
+- activity: [9, 5, 4, 3, 0, 6, 3, 0, 8, 0, 7, 12, 27, 37, 13, 32, 38, 7, 1, 10, 20,
+    1, 34, 20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6, 3, 2, 2, 1, 4, 0, 8, 0,
     0, 0, 9, 6, 0, 7, 0]
   civic_json:
     bornAt: Code for DC
@@ -943,7 +943,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 180,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 185,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -958,17 +958,17 @@
   html_url: https://github.com/emanuelfeld/booksfordc
   id: 31002646
   languages:
-  - [JavaScript, 46736]
-  - [Python, 14893]
+  - [JavaScript, 45075]
+  - [Python, 14954]
   - [CSS, 3392]
   - [HTML, 931]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: Books for DC
-  open_issues: 1
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-08-11T23:44:17Z'
+  pushed_at: '2015-08-12T01:42:01Z'
   size: 4130
   updated_at: '2015-08-11T21:00:15Z'
   watchers: 14
