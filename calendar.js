@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1427389075000, 
@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1435605354000, 
@@ -342,7 +342,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1427088126000, 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1436463866000, 
@@ -418,7 +418,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1424968249000, 
@@ -446,7 +446,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435605354000, 
@@ -487,6 +487,45 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1439402099000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224587669/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224587669", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Study Group", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1440023400000, 
+            "updated": 1439402258000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1438796466000, 
             "description": "<p><b>Speaker:\u00a0</b></p> <p>Dr. David Higdon, Social Decision and Analytics Laboratory, Virginia Bioinformatics Institute\u00a0</p> <p><b>Abstract:\u00a0</b></p> <p>This talk gives a conceptual, and hopefully intuitive overview of Bayesian inference. The Bayesian approach is quite flexible, allowing the modeler to explore non-standard model formulations. The resulting uncertainty is characterized by a (multivariate) probability distribution for the unknown model parameters. This talk will also describe the Metropolis algorithm, a surprisingly general recipe for generating a (dependent) Monte Carlo sample from this posterior distribution. The concepts will be demonstrated using simple R code which will be made available for all to try out. Time permitting, the talk will also show how this basic approach can be used for some \"hand crafted\" analyses.</p> <p><b>About the speaker: </b><br/>Dr. David Higdon is a professor in the Social Decision Analytics Laboratory at Virginia Tech University. Previously, he spent 10 years as a scientist or group leader of the Statistical Sciences Group at Los Alamos National Laboratory. He is an expert in Bayesian statistical modeling of environmental and physical systems, combining physical observations with computer simulation models for prediction and inference. His research interests include space-time modeling; inverse problems in hydrology and imaging; statistical modeling in ecology, environmental science, and biology; multiscale models; parallel processing in posterior exploration; statistical computing; and Monte Carlo and simulation based methods. Dr. Higdon has served on several advisory groups concerned with statistical modeling and uncertainty quantification and co-chaired the NRC Committee on Mathematical Foundations of Validation, Verification, and Uncertainty Quantification. He is a fellow of the American Statistical Association. Dr. Higdon holds a B.A. and M.A. in mathematics from the University of California, San Diego, and a Ph.D. in statistics from the University of Washington.</p>", 
             "duration": 7200000, 
@@ -522,7 +561,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 194
+            "yes_rsvp_count": 199
         }, 
         {
             "created": 1438354352000, 
@@ -562,7 +601,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1438104447000, 
@@ -678,7 +717,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1424968249000, 
@@ -743,7 +782,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1427088126000, 
@@ -1244,33 +1283,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1437823706000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytmbdc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "tjxljlytmbdc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1442961000000, 
-            "updated": 1437823706000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1438041748000, 
             "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
@@ -1305,7 +1317,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1417881835000, 
