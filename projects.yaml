@@ -943,7 +943,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 178,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 180,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -968,10 +968,10 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-08-10T15:16:51Z'
+  pushed_at: '2015-08-11T23:44:17Z'
   size: 4130
-  updated_at: '2015-08-11T17:24:23Z'
-  watchers: 13
+  updated_at: '2015-08-11T21:00:15Z'
+  watchers: 14
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 26, 14, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
