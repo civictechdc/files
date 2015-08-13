@@ -2,8 +2,8 @@
     "codefordc": [
         {
             "created": 1427389052000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin).</p> <p>~7:30\u00a0Food (pizza) delivered.\u00a0</p> <p>9:00\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30 DIY Happy Hour at Hill Country</p> <p><b>Notes:\u00a0</b></p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Slack, Meetup, or\u00a0Google Group</p>", 
+            "duration": 9000000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/221419478/", 
             "group": {
                 "created": 1375990708000, 
@@ -21,13 +21,13 @@
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1439418600000, 
-            "updated": 1427389052000, 
+            "updated": 1439413340000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "419 7th St NW, Second Floor", 
+                "address_1": "419 7th St NW, Third Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 20407722, 
+                "id": 23752411, 
                 "lat": 0, 
                 "lon": 0, 
                 "name": "Impact Hub DC", 
@@ -342,7 +342,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -418,7 +418,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1424968249000, 
@@ -523,7 +523,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1438796466000, 
@@ -561,7 +561,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 199
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1438354352000, 
@@ -601,7 +601,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1438104447000, 
@@ -641,7 +641,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 165
+            "yes_rsvp_count": 166
         }, 
         {
             "created": 1437765166000, 
@@ -913,7 +913,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1326383071000, 
@@ -953,7 +953,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1427088126000, 
@@ -1215,7 +1215,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1438791539000, 
