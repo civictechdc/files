@@ -2,56 +2,56 @@ projects([
     {
         "activity": [
             9, 
-            5, 
-            4, 
+            9, 
             3, 
             0, 
-            6, 
-            3, 
+            0, 
+            9, 
+            0, 
             0, 
             8, 
-            0, 
-            7, 
+            2, 
             12, 
-            27, 
+            6, 
+            26, 
             37, 
-            13, 
-            32, 
-            38, 
-            7, 
-            1, 
-            10, 
-            20, 
-            1, 
+            19, 
+            31, 
+            33, 
+            8, 
+            0, 
+            14, 
+            17, 
+            2, 
             34, 
             20, 
-            29, 
-            81, 
-            50, 
+            32, 
+            95, 
+            31, 
             15, 
             28, 
             0, 
             2, 
             0, 
-            0, 
+            1, 
             11, 
-            5, 
+            4, 
             7, 
-            6, 
+            7, 
+            2, 
+            2, 
+            2, 
             3, 
             2, 
-            2, 
-            1, 
-            4, 
             0, 
             8, 
             0, 
             0, 
             0, 
-            9, 
+            10, 
             6, 
+            8, 
             0, 
-            7, 
             0
         ], 
         "civic_json": {
@@ -92,7 +92,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 734, 
+                "contributions": 735, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -139,16 +139,16 @@ projects([
                 "name": "MikeyBurkman"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/292463?v=3", 
+                "contributions": 8, 
+                "link": "https://github.com/meiao", 
+                "name": "meiao"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
                 "contributions": 7, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/292463?v=3", 
-                "contributions": 6, 
-                "link": "https://github.com/meiao", 
-                "name": "meiao"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=3", 
@@ -157,16 +157,16 @@ projects([
                 "name": "mepps"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/adelevie", 
-                "name": "adelevie"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
                 "name": "mpeteuil"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/adelevie", 
+                "name": "adelevie"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/408989?v=3", 
@@ -257,7 +257,7 @@ projects([
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
-        "forks": 49, 
+        "forks": 50, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/districthousing/", 
         "html_url": "https://github.com/codefordc/districthousing", 
@@ -269,23 +269,23 @@ projects([
             ], 
             [
                 "HTML", 
-                74776
+                75801
             ], 
             [
                 "CSS", 
-                14432
+                14478
+            ], 
+            [
+                "CoffeeScript", 
+                5622
             ], 
             [
                 "Puppet", 
                 5537
             ], 
             [
-                "CoffeeScript", 
-                4299
-            ], 
-            [
                 "JavaScript", 
-                767
+                787
             ], 
             [
                 "Shell", 
@@ -307,7 +307,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-12T20:11:50Z", 
+        "pushed_at": "2015-08-13T00:20:16Z", 
         "size": 22382, 
         "updated_at": "2015-05-19T23:28:34Z", 
         "watchers": 22
@@ -2799,7 +2799,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 74, 
+                "contributions": 78, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -2848,8 +2848,8 @@ projects([
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-05-11T16:51:00Z", 
-        "size": 651, 
+        "pushed_at": "2015-08-13T03:01:09Z", 
+        "size": 547, 
         "updated_at": "2015-08-11T05:13:56Z", 
         "watchers": 6
     }, 
@@ -3537,7 +3537,7 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
