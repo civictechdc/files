@@ -266,7 +266,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 22
 - created: 1436463866000
   description: "<p>Maptime is, rather literally, time for mapmaking. Our mission is\
     \ to open the doors of cartographic possibility to anyone interested by creating\
@@ -297,7 +297,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -391,7 +391,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1439402099000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -468,7 +468,7 @@ other:
     lon: -77.049484000000007, name: GWU Funger Hall (Room TBA), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 202
+  yes_rsvp_count: 205
 - created: 1438354352000
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
     \ visualizations about pedestrians and the walking experience. Doors open at\_\
@@ -523,7 +523,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -602,7 +602,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 167
+  yes_rsvp_count: 172
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -718,7 +718,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1312,7 +1312,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1438791539000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1364,6 +1364,41 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1438616874000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/railsgirlsdc/events/224375754/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytmbcc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1442874600000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1449,6 +1484,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytmblc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytmblc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1443479400000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1545,6 +1614,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 32
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbhb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytnbhb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1444084200000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -1602,6 +1705,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbqb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytnbqb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1444689000000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1422815542000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1640,6 +1777,108 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbzb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytnbzb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1445293800000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbjc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytnbjc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1445898600000
+  updated: 1439487723000
+  utc_offset: -14400000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbdb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytpbdb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1446507000000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -1697,6 +1936,74 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbmb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytpbmb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1447111800000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbvb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytpbvb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1447716600000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1735,6 +2042,74 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbfc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytpbfc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1448321400000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbnc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytpbnc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1448926200000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1779,6 +2154,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbkb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytqbkb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1449531000000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1820,6 +2229,142 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbsb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytqbsb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1450135800000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbcc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytqbcc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1450740600000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytqblc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlytqblc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1451345400000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbgb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvcbgb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1451950200000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1861,6 +2406,142 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbpb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvcbpb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1452555000000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbxb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvcbxb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1453159800000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbhc/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvcbhc
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1453764600000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbcb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvdbcb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1454369400000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
