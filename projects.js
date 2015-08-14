@@ -1,58 +1,58 @@
 projects([
     {
         "activity": [
-            9, 
+            8, 
             9, 
             3, 
             0, 
             0, 
             9, 
             0, 
-            0, 
-            8, 
+            7, 
+            1, 
             2, 
-            12, 
-            6, 
-            26, 
-            37, 
-            19, 
-            31, 
+            14, 
+            7, 
+            29, 
             33, 
-            8, 
+            18, 
+            31, 
+            39, 
+            1, 
             0, 
             14, 
             17, 
-            2, 
+            11, 
+            29, 
+            21, 
             34, 
-            20, 
-            32, 
-            95, 
-            31, 
+            99, 
+            23, 
+            25, 
             15, 
-            28, 
             0, 
             2, 
             0, 
             1, 
-            11, 
-            4, 
+            12, 
+            5, 
+            5, 
             7, 
-            7, 
-            2, 
-            2, 
             2, 
             3, 
+            1, 
+            3, 
             2, 
+            2, 
+            6, 
             0, 
-            8, 
             0, 
-            0, 
-            0, 
-            10, 
+            7, 
+            3, 
             6, 
             8, 
             0, 
-            0
+            1
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -92,7 +92,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 735, 
+                "contributions": 736, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -265,7 +265,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                193703
+                193776
             ], 
             [
                 "HTML", 
@@ -307,7 +307,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-13T00:20:16Z", 
+        "pushed_at": "2015-08-14T04:14:37Z", 
         "size": 22382, 
         "updated_at": "2015-08-13T16:30:37Z", 
         "watchers": 23
@@ -3265,7 +3265,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 55, 
+                "contributions": 56, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3336,13 +3336,19 @@ projects([
                 "name": "JasonParentEAB"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/453900?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/rdeprey", 
+                "name": "rdeprey"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/tmcw", 
                 "name": "tmcw"
             }
         ], 
-        "contributors_count": 14, 
+        "contributors_count": 15, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
@@ -3351,7 +3357,7 @@ projects([
             {
                 "assignee": null, 
                 "body": "Our site has a few differnt users: Lawyers/Law students, returning citizens (those with criminal or arrest records) and other (case managers, family members etc). \r\n\r\nWe want to be ask at the beginning of the site  who that person is. For example, it could be 3 buttons and we ask the user to click which one they are. I..e  Option 1: lawyer/law sudent 2) returning citizen/formerly incarcerated, 3) case manager, 4) family member of formely incarcerated.  \r\n\r\nOur hope is tha thtis will allow us to track who is using the site better. We also will be able to change the language so its more affirming. For example, if the person using the site is a lawyer trying to help a client, we can change the language to ask, \"does your client have their criminal record now\" as opposed to saying \"do you have your cirminal record now). ", 
-                "comments": 7, 
+                "comments": 8, 
                 "created_at": "2015-07-31T00:19:40Z", 
                 "issue": "Imrpove user experience of site. Front end design. Estimated work time: 1 hour or less. ", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/107", 
@@ -3374,7 +3380,7 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-10T12:53:39Z"
+                "updated_at": "2015-08-14T00:57:00Z"
             }, 
             {
                 "assignee": null, 
@@ -3518,7 +3524,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                30708
+                31600
             ], 
             [
                 "JavaScript", 
@@ -3544,7 +3550,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-12T21:23:56Z", 
+        "pushed_at": "2015-08-14T02:03:43Z", 
         "size": 10255, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10

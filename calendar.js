@@ -444,7 +444,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 205
+            "yes_rsvp_count": 228
         }, 
         {
             "created": 1438354352000, 
@@ -562,7 +562,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1437765166000, 

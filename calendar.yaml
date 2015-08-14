@@ -468,7 +468,7 @@ other:
     lon: -77.049484000000007, name: GWU Funger Hall (Room TBA), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 205
+  yes_rsvp_count: 228
 - created: 1438354352000
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
     \ visualizations about pedestrians and the walking experience. Doors open at\_\
@@ -628,7 +628,7 @@ other:
     lon: -77.042496, name: cove, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 37
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
