@@ -219,7 +219,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -423,7 +423,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1438796466000
   description: "<p><b>Speaker:\_</b></p> <p>Dr. David Higdon, Social Decision and\
     \ Analytics Laboratory, Virginia Bioinformatics Institute\_</p> <p><b>Abstract:\_\
@@ -468,7 +468,7 @@ other:
     lon: -77.049484000000007, name: GWU Funger Hall (Room TBA), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 243
+  yes_rsvp_count: 251
 - created: 1438354352000
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
     \ visualizations about pedestrians and the walking experience. Doors open at\_\
@@ -525,7 +525,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 84
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -604,7 +604,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 174
 - created: 1439489661000
   description: <p>Hi Everyone! I work in HR for Capital One and have experience with
     resumes. We would spend time going over how to write a great resume, practice
