@@ -92,7 +92,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 736, 
+                "contributions": 737, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -133,16 +133,16 @@
                 "name": "jasoncorum"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=3", 
-                "contributions": 8, 
-                "link": "https://github.com/MikeyBurkman", 
-                "name": "MikeyBurkman"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/292463?v=3", 
                 "contributions": 8, 
                 "link": "https://github.com/meiao", 
                 "name": "meiao"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=3", 
+                "contributions": 8, 
+                "link": "https://github.com/MikeyBurkman", 
+                "name": "MikeyBurkman"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
@@ -151,22 +151,28 @@
                 "name": "colinxfleming"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8662824?v=3", 
+                "contributions": 6, 
+                "link": "https://github.com/tingaloo", 
+                "name": "tingaloo"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=3", 
                 "contributions": 6, 
                 "link": "https://github.com/mepps", 
                 "name": "mepps"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/mpeteuil", 
-                "name": "mpeteuil"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/adelevie", 
                 "name": "adelevie"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/mpeteuil", 
+                "name": "mpeteuil"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/408989?v=3", 
@@ -253,7 +259,7 @@
                 "name": "shariq1989"
             }
         ], 
-        "contributors_count": 27, 
+        "contributors_count": 28, 
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
@@ -269,7 +275,7 @@
             ], 
             [
                 "HTML", 
-                75801
+                75859
             ], 
             [
                 "CSS", 
@@ -277,7 +283,7 @@
             ], 
             [
                 "CoffeeScript", 
-                5622
+                6609
             ], 
             [
                 "Puppet", 
@@ -285,7 +291,7 @@
             ], 
             [
                 "JavaScript", 
-                787
+                788
             ], 
             [
                 "Shell", 
@@ -300,14 +306,14 @@
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 64, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-15T22:33:51Z", 
+        "pushed_at": "2015-08-16T05:24:45Z", 
         "size": 22412, 
         "updated_at": "2015-08-13T16:30:37Z", 
         "watchers": 23
@@ -2041,8 +2047,8 @@
             4, 
             0, 
             0, 
-            0, 
-            6, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -2471,10 +2477,10 @@
             0, 
             0, 
             0, 
-            10, 
-            81, 
-            3, 
-            3, 
+            16, 
+            75, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -2738,8 +2744,8 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            4, 
+            2, 
             11, 
             2, 
             5, 
@@ -2749,8 +2755,8 @@
             0, 
             0, 
             0, 
-            26, 
-            39, 
+            43, 
+            22, 
             1, 
             0, 
             0, 
@@ -2764,7 +2770,7 @@
             0, 
             2, 
             0, 
-            2
+            7
         ], 
         "civic_json": {
             "bornAt": "", 
@@ -2799,7 +2805,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 83, 
+                "contributions": 84, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -2822,7 +2828,7 @@
         "languages": [
             [
                 "JavaScript", 
-                10910
+                11078
             ], 
             [
                 "HTML", 
@@ -2848,7 +2854,7 @@
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-08-15T02:26:12Z", 
+        "pushed_at": "2015-08-16T01:11:36Z", 
         "size": 547, 
         "updated_at": "2015-08-15T01:57:41Z", 
         "watchers": 6
@@ -2881,32 +2887,32 @@
             0, 
             0, 
             0, 
-            39, 
-            38, 
-            66, 
-            16, 
-            52, 
             45, 
-            6, 
+            32, 
+            70, 
+            16, 
+            64, 
+            33, 
+            2, 
+            2, 
+            1, 
+            4, 
+            2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             2, 
             1, 
             0, 
-            6, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            1, 
-            0, 
-            0, 
             0, 
             0, 
             0, 
             1, 
             0, 
-            13
+            0, 
+            17
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -3021,9 +3027,9 @@
             0, 
             0, 
             0, 
-            0, 
-            30, 
-            10, 
+            14, 
+            24, 
+            2, 
             1, 
             0, 
             0, 
@@ -3182,8 +3188,8 @@
             0, 
             8, 
             0, 
-            2, 
-            2, 
+            3, 
+            1, 
             3, 
             0, 
             3, 
@@ -3195,16 +3201,16 @@
             0, 
             15, 
             40, 
-            28, 
-            8, 
-            35, 
-            33, 
+            36, 
+            0, 
+            53, 
+            15, 
             1, 
             0, 
             27, 
             2, 
-            21, 
-            14, 
+            24, 
+            11, 
             6, 
             15, 
             0, 
@@ -3357,7 +3363,7 @@
             {
                 "assignee": null, 
                 "body": "Our site has a few differnt users: Lawyers/Law students, returning citizens (those with criminal or arrest records) and other (case managers, family members etc). \r\n\r\nWe want to be ask at the beginning of the site  who that person is. For example, it could be 3 buttons and we ask the user to click which one they are. I..e  Option 1: lawyer/law sudent 2) returning citizen/formerly incarcerated, 3) case manager, 4) family member of formely incarcerated.  \r\n\r\nOur hope is tha thtis will allow us to track who is using the site better. We also will be able to change the language so its more affirming. For example, if the person using the site is a lawyer trying to help a client, we can change the language to ask, \"does your client have their criminal record now\" as opposed to saying \"do you have your cirminal record now). ", 
-                "comments": 8, 
+                "comments": 9, 
                 "created_at": "2015-07-31T00:19:40Z", 
                 "issue": "Imrpove user experience of site. Front end design. Estimated work time: 1 hour or less. ", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/107", 
@@ -3380,7 +3386,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-14T00:57:00Z"
+                "updated_at": "2015-08-16T02:36:24Z"
             }, 
             {
                 "assignee": null, 
@@ -3413,7 +3419,7 @@
             {
                 "assignee": null, 
                 "body": "When viewing the site on desktop or full-sized screens, clicking the navbar causes a horizontal scroll bar to appear and slide up or down. Looking at the DOM, this seems to be a bootstrap navbar-collapse behavior, which we have on mobile. When the navbar doesn't collapse it just looks strange and detracts from the overall quality of the site so we should find a way to prevent it when it's not necessary.\r\n\r\n**Steps to reproduce**\r\n\r\n1. Go to the [home page](http://codefordc.github.io/clean-slate/)\r\n2. Click the `Home` button repeatedly", 
-                "comments": 3, 
+                "comments": 4, 
                 "created_at": "2015-07-14T18:43:57Z", 
                 "issue": "Disable navbar collapse behavior on full-sized screens", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/94", 
@@ -3436,7 +3442,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-14T18:46:23Z"
+                "updated_at": "2015-08-16T02:37:02Z"
             }, 
             {
                 "assignee": null, 
@@ -3543,14 +3549,14 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 8, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-14T02:03:43Z", 
+        "pushed_at": "2015-08-16T02:33:31Z", 
         "size": 10255, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
