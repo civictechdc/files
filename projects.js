@@ -300,15 +300,15 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 64, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-14T04:14:37Z", 
-        "size": 22382, 
+        "pushed_at": "2015-08-15T22:33:51Z", 
+        "size": 22412, 
         "updated_at": "2015-08-13T16:30:37Z", 
         "watchers": 23
     }, 
@@ -1142,18 +1142,18 @@ projects([
             4, 
             6, 
             7, 
-            6, 
-            2, 
             5, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             3, 
-            1, 
+            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            4, 
+            0, 
             0, 
             0, 
             0, 
@@ -2935,7 +2935,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 189, 
+                "contributions": 192, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -2958,7 +2958,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                46122
+                45557
             ], 
             [
                 "Python", 
@@ -2988,7 +2988,7 @@ projects([
             "type": "User", 
             "url": "https://github.com/emanuelfeld"
         }, 
-        "pushed_at": "2015-08-15T00:28:52Z", 
+        "pushed_at": "2015-08-15T23:16:09Z", 
         "size": 4130, 
         "updated_at": "2015-08-11T21:00:15Z", 
         "watchers": 14

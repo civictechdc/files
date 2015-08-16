@@ -266,7 +266,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1436463866000
   description: "<p>Maptime is, rather literally, time for mapmaking. Our mission is\
     \ to open the doors of cartographic possibility to anyone interested by creating\
@@ -297,7 +297,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -423,7 +423,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1438796466000
   description: "<p><b>Speaker:\_</b></p> <p>Dr. David Higdon, Social Decision and\
     \ Analytics Laboratory, Virginia Bioinformatics Institute\_</p> <p><b>Abstract:\_\
@@ -468,7 +468,7 @@ other:
     lon: -77.049484000000007, name: GWU Funger Hall (Room TBA), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 256
+  yes_rsvp_count: 259
 - created: 1438354352000
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
     \ visualizations about pedestrians and the walking experience. Doors open at\_\
@@ -604,7 +604,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 218
+  yes_rsvp_count: 223
 - created: 1439489661000
   description: <p>Hi Everyone! I work in HR for Capital One and have experience with
     resumes. We would spend time going over how to write a great resume, practice
@@ -628,7 +628,7 @@ other:
     lon: -77.042496, name: cove, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 47
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
