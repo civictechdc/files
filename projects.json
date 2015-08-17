@@ -92,7 +92,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 737, 
+                "contributions": 738, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -127,16 +127,16 @@
                 "name": "shiftyp"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8662824?v=3", 
+                "contributions": 14, 
+                "link": "https://github.com/tingaloo", 
+                "name": "tingaloo"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3814190?v=3", 
                 "contributions": 13, 
                 "link": "https://github.com/jasoncorum", 
                 "name": "jasoncorum"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/292463?v=3", 
-                "contributions": 8, 
-                "link": "https://github.com/meiao", 
-                "name": "meiao"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1711330?v=3", 
@@ -145,16 +145,16 @@
                 "name": "MikeyBurkman"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/292463?v=3", 
+                "contributions": 8, 
+                "link": "https://github.com/meiao", 
+                "name": "meiao"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
                 "contributions": 7, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8662824?v=3", 
-                "contributions": 6, 
-                "link": "https://github.com/tingaloo", 
-                "name": "tingaloo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4406809?v=3", 
@@ -163,16 +163,16 @@
                 "name": "mepps"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/adelevie", 
-                "name": "adelevie"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/459756?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/mpeteuil", 
                 "name": "mpeteuil"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/adelevie", 
+                "name": "adelevie"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/408989?v=3", 
@@ -275,11 +275,11 @@
             ], 
             [
                 "HTML", 
-                75859
+                77077
             ], 
             [
                 "CSS", 
-                14478
+                16108
             ], 
             [
                 "CoffeeScript", 
@@ -313,7 +313,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-16T05:24:45Z", 
+        "pushed_at": "2015-08-16T21:57:42Z", 
         "size": 22412, 
         "updated_at": "2015-08-13T16:30:37Z", 
         "watchers": 23
@@ -2995,7 +2995,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-08-15T23:16:09Z", 
-        "size": 4130, 
+        "size": 4476, 
         "updated_at": "2015-08-11T21:00:15Z", 
         "watchers": 14
     }, 
@@ -3271,7 +3271,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 56, 
+                "contributions": 57, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3318,16 +3318,16 @@
                 "name": "jimwebb"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/453900?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/rdeprey", 
+                "name": "rdeprey"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/466645?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/afiedler", 
                 "name": "afiedler"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/wam", 
-                "name": "wam"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
@@ -3336,16 +3336,16 @@
                 "name": "stvnrlly"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/wam", 
+                "name": "wam"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12052154?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/JasonParentEAB", 
                 "name": "JasonParentEAB"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/453900?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/rdeprey", 
-                "name": "rdeprey"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
@@ -3360,34 +3360,6 @@
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
         "forks": 21, 
         "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "Our site has a few differnt users: Lawyers/Law students, returning citizens (those with criminal or arrest records) and other (case managers, family members etc). \r\n\r\nWe want to be ask at the beginning of the site  who that person is. For example, it could be 3 buttons and we ask the user to click which one they are. I..e  Option 1: lawyer/law sudent 2) returning citizen/formerly incarcerated, 3) case manager, 4) family member of formely incarcerated.  \r\n\r\nOur hope is tha thtis will allow us to track who is using the site better. We also will be able to change the language so its more affirming. For example, if the person using the site is a lawyer trying to help a client, we can change the language to ask, \"does your client have their criminal record now\" as opposed to saying \"do you have your cirminal record now). ", 
-                "comments": 9, 
-                "created_at": "2015-07-31T00:19:40Z", 
-                "issue": "Imrpove user experience of site. Front end design. Estimated work time: 1 hour or less. ", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/107", 
-                "labels": [
-                    {
-                        "color": "84b6eb", 
-                        "name": "enhancement", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/enhancement"
-                    }, 
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "5319e7", 
-                        "name": "Priority #1", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-16T02:36:24Z"
-            }, 
             {
                 "assignee": null, 
                 "body": "Step 1: Create a banner/button  four our site that reads \"espanol\" that is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate site and host on your github pages. We will then use the link of your github pages to be used as the link references as \"espanol\".", 
@@ -3415,34 +3387,6 @@
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
                 "updated_at": "2015-07-31T03:51:38Z"
-            }, 
-            {
-                "assignee": null, 
-                "body": "When viewing the site on desktop or full-sized screens, clicking the navbar causes a horizontal scroll bar to appear and slide up or down. Looking at the DOM, this seems to be a bootstrap navbar-collapse behavior, which we have on mobile. When the navbar doesn't collapse it just looks strange and detracts from the overall quality of the site so we should find a way to prevent it when it's not necessary.\r\n\r\n**Steps to reproduce**\r\n\r\n1. Go to the [home page](http://codefordc.github.io/clean-slate/)\r\n2. Click the `Home` button repeatedly", 
-                "comments": 4, 
-                "created_at": "2015-07-14T18:43:57Z", 
-                "issue": "Disable navbar collapse behavior on full-sized screens", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/94", 
-                "labels": [
-                    {
-                        "color": "fc2929", 
-                        "name": "bug", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/bug"
-                    }, 
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "d4c5f9", 
-                        "name": "Priority #3", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-16T02:37:02Z"
             }, 
             {
                 "assignee": null, 
@@ -3477,7 +3421,7 @@
                 "body": "Anyone willing to Add in popup legal glossary using this: http://openadvocate.org/readclearly/? ReadClearly identifies complex legal terms on your website and displays a plain language explanation.", 
                 "comments": 12, 
                 "created_at": "2015-07-09T18:59:39Z", 
-                "issue": "Add in popup legal glossary", 
+                "issue": "Add in our defintions to the popup legal glossary", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/85", 
                 "labels": [
                     {
@@ -3498,7 +3442,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-07T22:42:22Z"
+                "updated_at": "2015-08-16T23:59:44Z"
             }, 
             {
                 "assignee": null, 
@@ -3530,15 +3474,15 @@
         "languages": [
             [
                 "HTML", 
-                31600
+                33689
             ], 
             [
                 "JavaScript", 
-                10808
+                10807
             ], 
             [
                 "CSS", 
-                3558
+                3921
             ]
         ], 
         "license": {
@@ -3549,14 +3493,14 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 11, 
+        "open_issues": 6, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-16T02:33:31Z", 
+        "pushed_at": "2015-08-16T19:41:26Z", 
         "size": 10255, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
