@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1427389099000, 
@@ -228,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1436463866000, 
@@ -266,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1424968249000, 
@@ -294,7 +294,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1435605354000, 
@@ -332,7 +332,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1439402099000, 
@@ -371,7 +371,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1438796466000, 
@@ -392,28 +392,29 @@
             "id": "224428044", 
             "maybe_rsvp_count": 0, 
             "name": "A Primer for Bayesian Inference and MCMC in R", 
+            "rsvp_limit": 275, 
             "status": "upcoming", 
             "time": 1440023400000, 
-            "updated": 1438796629000, 
+            "updated": 1439830101000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "2201 G St. NW", 
+                "address_1": "800 22nd St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24009231, 
-                "lat": 38.898926000000003, 
-                "lon": -77.049484000000007, 
-                "name": "GWU Funger Hall (Room TBA)", 
+                "id": 24033044, 
+                "lat": 38.899715, 
+                "lon": -77.048896999999997, 
+                "name": "GWU Science & Engineering Hall - Room B1220 (Lehman Auditorium)", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 265
+            "waitlist_count": 3, 
+            "yes_rsvp_count": 275
         }, 
         {
             "created": 1438354352000, 
-            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. Thanks to <a href=\"http://www.walkarlington.com/\">WalkArlington</a> for providing swag for our speakers and guests.\u00a0</p> <p>Our presenters thus far are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/fraser-mclaughlin/42/3a8/574\">Fraser McLaughlin</a></b> will describe\u00a0<a href=\"http://www.eco-compteur.com/en/\">Eco-Counter</a> technologies being used to count pedestrians in Arlington and around the world, and discuss how data are organized and validated.</p> <p><br/>\u2022\u00a0<a href=\"http://www.tedeytan.com/\"><b>Ted Eytan</b></a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the <a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a> uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.</p> <p><br/>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/stanislav-parfenov/a/964/356\">Stanislav Parfenov</a></b> will show us how\u00a0<a href=\"http://www.placemeter.com/\">Placemeter</a> analyzes pedestrian movement across the urban landscape.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\">#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\">@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>, <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\">@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a> (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\">@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>), <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\">@kptotalhealth</a>), and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a> (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).\u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have any questions.</p>", 
+            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. Thanks to <a href=\"http://www.walkarlington.com/\">WalkArlington</a> for providing swag for our speakers and guests.\u00a0</p> <p>Our presenters are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.tedeytan.com/\"><b>Ted Eytan</b></a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the\u00a0<a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a>\u00a0uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/fraser-mclaughlin/42/3a8/574\">Fraser McLaughlin</a></b> will describe\u00a0<a href=\"http://www.eco-compteur.com/en/\">Eco-Counter</a> technologies being used to count pedestrians in Arlington and around the world, and discuss how data are organized and validated.\u00a0</p> <p>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/stanislav-parfenov/a/964/356\">Stanislav Parfenov</a></b> will show us how\u00a0<a href=\"http://www.placemeter.com/\">Placemeter</a> analyzes pedestrian movement across the urban landscape.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\">#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\">@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>, <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\">@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a> (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\">@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>), <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\">@kptotalhealth</a>), <a href=\"https://twitter.com/placemeter\">@placemeter</a> and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a> (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).\u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have any questions.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224308905/", 
             "group": {
                 "created": 1384372275000, 
@@ -433,7 +434,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1440108000000, 
-            "updated": 1439491960000, 
+            "updated": 1439828488000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -449,7 +450,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1438104447000, 
@@ -489,7 +490,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 231
+            "yes_rsvp_count": 243
         }, 
         {
             "created": 1439489661000, 
@@ -527,7 +528,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1437765166000, 
@@ -565,7 +566,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1427088126000, 
@@ -663,6 +664,46 @@
                 "lat": 38.905864999999999, 
                 "lon": -77.043396000000001, 
                 "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1439825583000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224692530/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We're right across the street from Forever 21, and beside Pret A Manger. Suite 475", 
+            "id": "224692530", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Study Group", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1440628200000, 
+            "updated": 1439825583000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1155 F Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23383402, 
+                "lat": 38.897387999999999, 
+                "lon": -77.027573000000004, 
+                "name": "FiscalNote HQ", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1269,33 +1310,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779218/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytmblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1443479400000, 
-            "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1438041748000, 

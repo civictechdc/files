@@ -105,8 +105,8 @@
   size: 22412
   updated_at: '2015-08-13T16:30:37Z'
   watchers: 23
-- activity: [2, 1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0,
-    0, 0, 3, 5, 0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [1, 1, 0, 0, 0, 3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0,
+    0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -239,7 +239,7 @@
   updated_at: '2015-05-19T23:31:29Z'
   watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -284,8 +284,8 @@
   size: 40011
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [7, 3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1, 9, 0, 4, 2, 0, 10,
-    0, 0, 5, 2, 7, 2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1,
+- activity: [4, 3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8, 12, 0, 1, 9, 0, 4, 2, 0, 10,
+    0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1,
     7, 1, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -424,7 +424,7 @@
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     categories:
@@ -479,8 +479,8 @@
   size: 2915
   updated_at: '2015-05-19T23:31:42Z'
   watchers: 5
-- activity: [0, 13, 4, 14, 3, 5, 5, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0,
-    0, 0, 10, 15, 6, 4, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
+- activity: [6, 7, 5, 13, 3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0,
+    0, 1, 9, 20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     2, 0, 1]
   civic_json:
     bornAt: Lee's apartment
@@ -668,15 +668,17 @@
     3, 0, 4]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 17,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 18,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
-  contributors_count: 2
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 1,
+    link: 'https://github.com/jkoul', name: jkoul}
+  contributors_count: 3
   created_at: '2014-07-12T18:04:36Z'
   default_branch: master
   description: Displays data about DC Campaign Finance on a site
-  forks: 10
+  forks: 11
   help_wanted: []
   homepage: http://codefordc.github.io/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
@@ -689,7 +691,7 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-08-12T23:04:57Z'
+  pushed_at: '2015-08-17T13:21:34Z'
   size: 21140
   updated_at: '2015-08-04T19:20:58Z'
   watchers: 10
@@ -849,8 +851,8 @@
   size: 1004
   updated_at: '2015-05-09T20:16:06Z'
   watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    18, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+    15, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -1221,7 +1223,7 @@
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 107, 49, 5, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     4, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
