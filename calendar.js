@@ -193,44 +193,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779193/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytlbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1439850600000, 
-            "updated": 1438268253000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 29
-        }, 
-        {
             "created": 1436463866000, 
             "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p> <p>BYO-laptops! Project Night is where geo/map members of the community get together and work on projects. There's no tutorial or instruction, but instead space and time to work on a tutorial or project independently or with friends. Bring some ideas and your curiosity. We can't wait to hang out and make things together.</p> <p>Huge thanks to WeWork Dupont for hosting!</p> <p>Note about location:\u00a0the main entrance is set back a bit from Connecticut ave. We're on the 10th floor - 1875 Connecticut Ave. NW</p>", 
             "duration": 9000000, 
@@ -294,7 +256,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1435605354000, 
@@ -332,7 +294,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1439402099000, 
@@ -371,7 +333,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1438796466000, 
@@ -409,7 +371,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 275
         }, 
         {
@@ -490,7 +452,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 247
+            "yes_rsvp_count": 250
         }, 
         {
             "created": 1439489661000, 
@@ -528,7 +490,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1437765166000, 
@@ -604,7 +566,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1424968249000, 
@@ -669,7 +631,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1439825583000, 
@@ -709,7 +671,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427088126000, 
@@ -736,7 +698,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1424968249000, 
@@ -840,7 +802,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1326383071000, 
@@ -1312,6 +1274,33 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1427088126000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779218/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rlzgglytmblc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1443479400000, 
+            "updated": 1432846440000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1438041748000, 
             "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
@@ -1422,7 +1411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
