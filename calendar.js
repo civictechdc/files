@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1439402099000, 
@@ -305,7 +305,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 30, 
+            "waitlist_count": 29, 
             "yes_rsvp_count": 275
         }, 
         {
@@ -345,7 +345,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -386,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 258
+            "yes_rsvp_count": 267
         }, 
         {
             "created": 1439489661000, 
@@ -425,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 1, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1437765166000, 
@@ -463,7 +463,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
+        }, 
+        {
+            "created": 1439998881000, 
+            "description": "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance. This is important. : ) You can only access our office through the alley behind 14th, not from out front. The best way to get to us is to go to the corner of 14th and R, walk west on R and then north up the alley. You'll see our sign from R St and we're in a blue garage with glass doors.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p>RSVP Here:\u00a0<a href=\"https://nvite.com/dcfemtech/f882\"><a href=\"https://nvite.com/dcfemtech/f882\" class=\"linkified\">https://nvite.com/dcfemtech/f882</a></a></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224741459/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224741459", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee @ Mapbox", 
+            "status": "upcoming", 
+            "time": 1440352800000, 
+            "updated": 1439998968000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1714 14th St NW, Washington, DC", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24037811, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Mapbox Garage", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427088126000, 
@@ -501,7 +539,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1424968249000, 
@@ -528,7 +566,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1435605354000, 
@@ -606,7 +644,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1427088126000, 
@@ -629,11 +667,23 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1441060200000, 
-            "updated": 1432846440000, 
+            "updated": 1439998021000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1211 Connecticut Avenue Northwest #250", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 11024172, 
+                "lat": 38.906216000000001, 
+                "lon": -77.041213999999997, 
+                "name": "RepEquity Inc.", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1424968249000, 
@@ -737,7 +787,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1326383071000, 
@@ -1005,6 +1055,51 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1439990803000, 
+            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Sept 15, 22, 29 and Oct 6; 7-9p).\u00a0</b></p> <p><b><br/></b></p> <p><b>Introduction to Ruby:<br/></b></p> <p>Ready to start programming? Want to learn one language that you can use to build web apps and iPhone apps, do system administration, and security? Then you're ready to learn Ruby.</p> <p>Ruby is an open source language that powers applications and products like Hulu, LivingSocial, Groupon, and Github. There is a thriving, friendly community of users, and the job market for developers is strong.</p> <p>Through this five course series, you'll get a thorough introduction to programming fundamentals with Ruby. We'll use the Interactive RuBy shell; write command line programs that use loops, conditionals, methods, and classes; and learn the basics of object oriented programming. We'll mix lecture and practice, and help guide you through the coursework.</p> <p><b><i>We'll spend part of the first class meeting setting up your development environment, so there's no need to install software ahead of time. Just bring your laptop and be prepared to start coding!</i></b></p> <p><br/><b>Outline of Sessions:</b></p> <p><br/><b>Class 1 -\u00a0Intro to programming in Ruby\u00a0(2 hours, 7-9p)</b></p> <p>What is programming? What is Ruby? We'll give you some context for the class, then dive right into writing code! Using the Interactive Ruby Shell, we'll begin experimenting with variables, methods, and data types. We'll end the class by writing a little interactive command line program.</p> <p><b><a href=\"https://github.com/azelma/gdi-ruby#class-2\">&lt;/a&gt;Class 2 -\u00a0</b></p> <p>Structured programming (loops and conditions), working with collections data types\u00a0\u00a0(2 hours, 7-9p)</p> <p>We'll create small programs in the text editor that use conditionals and loops for control flow. Then, we'll explore Ruby's collections data types, and see some of the ways we can work with them.</p> <p><b>&lt;a href=\"https://github.com/azelma/gdi-ruby#class-3\"&gt;</a>Class 3 -\u00a0</b></p> <p>Object Oriented Programming, part I\u00a0\u00a0(2 hours, 7-9p)</p> <p>We'll discuss the basic concepts of object oriented programming. We'll write our own methods, and explore some of the predefined methods that are available in Ruby for certain classes of object.</p> <p><b>&lt;a href=\"https://github.com/azelma/gdi-ruby#class-4\"&gt;&lt;/a&gt;Class 4 -\u00a0</b></p> <p>Object Oriented Programming, part II\u00a0\u00a0(2 hours, 7-9p)</p> <p>We will expand our knowledge of OOP by discussing classes and inheritance. We will tie together everything we've learned with a relatively complex, totally fun final project.</p> <p>\n\n\n<b>About the Instructor:\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/b/0/600_441079120.jpeg\" /></p> <p>Valerie Woolard is a software engineer. She loves Ruby, Python, algorithms, test-driven development, and teaching other people about those things. She holds a master's degree in computer science from the University of Chicago and bachelor's degrees in French and cognitive science from the University of California, Berkeley. She's always happy to chat about linguistics, diversity in tech, running, musical theatre, and her ever-expanding list of books to read.</p> <p>\n\n\n\n<b>Getting there:</b>\u00a0</p> <p>LivingSocial is conveniently located at 1445 New York Avenue NW - 2 blocks from the McPherson Square metro station (on the blue, silver and orange lines).\u00a0</p> <p>\n\n\n<b>Refund Policy:</b>\u00a0</p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224738916/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 90, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "224738916", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Ruby", 
+            "rsvp_limit": 15, 
+            "status": "upcoming", 
+            "time": 1442358000000, 
+            "updated": 1439990803000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 23819537, 
+                "lat": 38.899033000000003, 
+                "lon": -77.032982000000004, 
+                "name": "LivingSocial, Inc", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1437347249000, 
             "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
@@ -1077,7 +1172,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1438616874000, 
@@ -1310,33 +1405,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1437823706000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytmbmc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "tjxljlytmbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1443565800000, 
-            "updated": 1437823706000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 
