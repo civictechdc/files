@@ -98,7 +98,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 84, 
+                "contributions": 107, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -271,11 +271,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                193776
+                195139
             ], 
             [
                 "HTML", 
-                77077
+                77493
             ], 
             [
                 "CSS", 
@@ -283,7 +283,7 @@ projects([
             ], 
             [
                 "CoffeeScript", 
-                6609
+                7296
             ], 
             [
                 "Puppet", 
@@ -306,14 +306,14 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 64, 
+        "open_issues": 63, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-18T00:04:19Z", 
+        "pushed_at": "2015-08-19T03:16:19Z", 
         "size": 22412, 
         "updated_at": "2015-08-13T16:30:37Z", 
         "watchers": 23
@@ -2893,14 +2893,14 @@ projects([
             0, 
             0, 
             0, 
-            59, 
-            41, 
-            49, 
-            22, 
-            78, 
-            12, 
-            1, 
+            61, 
+            51, 
+            44, 
+            16, 
+            83, 
+            6, 
             2, 
+            1, 
             1, 
             6, 
             0, 
@@ -2917,8 +2917,8 @@ projects([
             0, 
             1, 
             0, 
-            3, 
-            14
+            5, 
+            12
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
