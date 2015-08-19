@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1427389099000, 
@@ -74,7 +74,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1427389123000, 
@@ -228,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1424968249000, 
@@ -252,11 +252,11 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1439937000000, 
-            "updated": 1438737016000, 
+            "updated": 1439936571000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1435605354000, 
@@ -333,7 +333,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1438796466000, 
@@ -371,7 +371,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 27, 
             "yes_rsvp_count": 275
         }, 
         {
@@ -411,8 +411,8 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
-            "yes_rsvp_count": 100
+            "waitlist_count": 5, 
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1438104447000, 
@@ -452,7 +452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 253
+            "yes_rsvp_count": 256
         }, 
         {
             "created": 1439489661000, 
@@ -490,7 +490,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1437765166000, 
@@ -566,7 +566,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1424968249000, 
@@ -802,7 +802,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1326383071000, 
@@ -1232,6 +1232,45 @@
             "time": 1442961000000, 
             "updated": 1437823706000, 
             "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1439936511000, 
+            "description": "<p>Details coming!\u00a0</p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/224725896/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "224725896", 
+            "maybe_rsvp_count": 0, 
+            "name": "Telecom Data Hackathon", 
+            "status": "upcoming", 
+            "time": 1443272400000, 
+            "updated": 1439936556000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1899 L Street NW ", 
+                "address_2": "Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 1330329, 
+                "lat": 38.903917, 
+                "lon": -77.043056000000007, 
+                "name": "New America Foundation", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3

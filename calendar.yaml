@@ -37,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1427389099000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -76,7 +76,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -225,7 +225,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 69
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -263,11 +263,11 @@ other:
   rsvp_limit: 30
   status: upcoming
   time: 1439937000000
-  updated: 1438737016000
+  updated: 1439936571000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 17
 - created: 1435605354000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -351,7 +351,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 21
 - created: 1438796466000
   description: "<p><b>Speaker:\_</b></p> <p>Dr. David Higdon, Social Decision and\
     \ Analytics Laboratory, Virginia Bioinformatics Institute\_</p> <p><b>Abstract:\_\
@@ -397,7 +397,7 @@ other:
     lat: 38.899715, lon: -77.048896999999997, name: GWU Science & Engineering Hall
       - Room B1220 (Lehman Auditorium), repinned: false, state: DC}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 27
   yes_rsvp_count: 275
 - created: 1438354352000
   description: "<p>Walk Hack Night is a show &amp; tell of projects, apps and data\
@@ -456,8 +456,8 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 4
-  yes_rsvp_count: 100
+  waitlist_count: 5
+  yes_rsvp_count: 99
 - created: 1438104447000
   description: "<p>For our August Data Science DC Meetup, we're thrilled to have Brian\
     \ Muller from OpBandit (recently acquired by Vox) presenting about the algorithms\
@@ -536,7 +536,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 253
+  yes_rsvp_count: 256
 - created: 1439489661000
   description: <p>Hi Everyone! I work in HR for Capital One and have experience with
     resumes. We would spend time going over how to write a great resume, practice
@@ -560,7 +560,7 @@ other:
     lon: -77.042496, name: cove, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -635,7 +635,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -938,7 +938,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1473,6 +1473,26 @@ other:
   time: 1442961000000
   updated: 1437823706000
   utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
+- created: 1439936511000
+  description: "<p>Details coming!\_</p>"
+  event_url: http://www.meetup.com/DCLegalHackers/events/224725896/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  id: '224725896'
+  maybe_rsvp_count: 0
+  name: Telecom Data Hackathon
+  status: upcoming
+  time: 1443272400000
+  updated: 1439936556000
+  utc_offset: -14400000
+  venue: {address_1: '1899 L Street NW ', address_2: Suite 400, city: Washington,
+    country: us, id: 1330329, lat: 38.903917, lon: -77.043056000000007, name: New
+      America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
