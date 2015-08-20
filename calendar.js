@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1427389099000, 
@@ -229,7 +229,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 2, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1437765166000, 
@@ -385,7 +385,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -428,6 +428,7 @@ calendar({
         {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141206/", 
             "group": {
                 "created": 1395616294000, 
@@ -446,7 +447,7 @@ calendar({
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1440541800000, 
-            "updated": 1437823706000, 
+            "updated": 1440079286000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -488,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1435605354000, 
@@ -526,7 +527,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1439825583000, 
@@ -566,7 +567,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427088126000, 
@@ -605,7 +606,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1424968249000, 
@@ -709,7 +710,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1326383071000, 
@@ -947,7 +948,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1424968249000, 
@@ -1095,6 +1096,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1440079801000, 
+            "description": "<p>For our September meetup we're honored to welcome <b>Dr. Hadley Wickham</b> (@hadleywickham), the author of several highly used packages in R, including dplyr, tidyr, stringr, devtools and ggplot2.\u00a0</p> <p><b>Abstract:</b><br/>A fluent interface lets you easily express yourself in code. Over time a fluent interface retreats to your subconcious. You don't need to bring it to mind; the code just flows out of your fingers. I strive for this fluency in all the packages I write, and while I don't always succeed, I think I've learned some valuable lessons along the way.</p> <p>In this talk, I'll discuss three guidelines that make it easier to develop fluent interfaces:</p> <p>* __Pure functions__. A pure function only interacts with the world through its inputs and outputs; it has no side-effects. Pure functions make great building blocks because they're are easy to reason about and can be easily composed.</p> <p>* __Predictable interfaces__. It's easier to learn a function if its consistent, because you can learn the behaviour of a whole group of functions at once. I'll highlight the benefits of predictability with some of my favourite R \"WAT\"s (including `c()`, `sapply()` and `sample()`).</p> <p>* __Pipes__. Pure predictable functions are nice in isolation but are most powerful in combination. The pipe, `%&gt;%`, is particularly in important when combining many functions because it turns function composition on its head so you can read it from left-to-right. I'll show you how this has helped me build dplyr, rvest, ggvis, lowliner, stringr and more.</p> <p>This talk will help you make best use of my recent packages, and teach you how to apply the same principles to make your own code easier to use.</p> <p><b>Speaker Information: </b><br/>Hadley is Chief Scientist at RStudio and Adjunct Professor of Statistics at Rice University. He is interested in building better tools for data science. His work includes R packages for data analysis (ggplot2, plyr, reshape2); packages that make R less frustrating (lubridate for dates, stringr for strings, httr for accessing web APIs); and that make it easier to do good software development in R (roxygen2, testthat, devtools, lineprof, staticdocs). He is also a writer, educator, and frequent contributor to conferences promoting more accessible and more effective data analysis.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/224763637/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We're at the School on Int'l affairs on E Street, 2nd floor.", 
+            "id": "224763637", 
+            "maybe_rsvp_count": 0, 
+            "name": "Pure, predictable, pipeable: creating fluent interfaces with R", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1442442600000, 
+            "updated": 1440080812000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E St NW - Room 213", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23736024, 
+                "lat": 38.896275000000003, 
+                "lon": -77.044205000000005, 
+                "name": "GWU Elliot School of Int'l Affairs", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1438616874000, 
@@ -1456,7 +1497,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -1685,6 +1726,44 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1440087572000, 
+            "description": "<p><b>Please only RSVP if you're certain you will be able to make all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\u00a0</b></p> <p>\n\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1000/pp for three days, but Elixir Mastery is offering GDI DC three free tickets. If you are certain you will be able to make all three days, RSVP and you will be shown a discount code. Please go to the <a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>\u00a0and enter your discount code to claim the discount within 48 hours. If the code is not claimed in that time frame we will need to pass it along to another GDI DC member.\u00a0</p> <p>\n\n\n\n<b>About Elixir</b></p> <p><br/>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p><br/>More information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p><br/><b><br/></b></p> <p><b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://www.elixirmastery.com/\">event registration page</a>. We have scholarships for the first three members that RSVP, making the course free of charge.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0If you are unable to RSVP it is because the three scholarships have been claimed.</p>", 
+            "duration": 201600000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224766721/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "224766721", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Elixir by Elixir Mastery (Scholarship)", 
+            "rsvp_limit": 3, 
+            "status": "upcoming", 
+            "time": 1446645600000, 
+            "updated": 1440088166000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1445 New York Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 23819537, 
+                "lat": 38.899033000000003, 
+                "lon": -77.032982000000004, 
+                "name": "LivingSocial, Inc", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p>The Cloud, Mobile and Web Applications are producing semi-structured data at an unprecedented rate. IT professionals continue to struggle capturing, transforming, and analyzing these complex data structures mixed with traditional relational style datasets using conventional MPP and/or Hadoop infrastructures. \u00a0Public cloud infrastructures such as Amazon and Azure provide almost unlimited resources and scalability to handle both structured and semi-structured data (XML, JSON, AVRO) at Petabyte scale. \u00a0These new capabilities coupled with traditional data management access methods such as SQL allow organizations and businesses new opportunities to leverage analytics at an unprecedented scale while greatly simplifying data pipeline architectures and providing an alternative to the \"data lake\".</p> <p><br/>Please join DWDC and Snowflake Computing for a discussion of these topics and a demonstration of this game changing technology. The demonstration will focus on analyzing structured and semistructured together using a commercially available cloud based platform and standards based SQL language to provide insights on large petabytes scale data sets.\u00a0</p>", 
             "duration": 9000000, 
@@ -1721,7 +1800,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1326383071000, 
