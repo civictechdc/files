@@ -1,47 +1,47 @@
 projects([
     {
         "activity": [
-            5, 
-            4, 
+            9, 
             3, 
             0, 
-            6, 
-            3, 
+            0, 
+            9, 
+            0, 
             0, 
             8, 
-            0, 
-            7, 
+            2, 
             12, 
-            27, 
+            6, 
+            26, 
             37, 
-            13, 
-            32, 
-            38, 
-            7, 
-            1, 
-            10, 
-            20, 
-            1, 
+            19, 
+            31, 
+            33, 
+            8, 
+            0, 
+            14, 
+            17, 
+            2, 
             34, 
             20, 
-            29, 
-            81, 
-            50, 
+            32, 
+            95, 
+            31, 
             15, 
             28, 
             0, 
             2, 
             0, 
-            0, 
-            11, 
-            5, 
-            7, 
-            6, 
-            3, 
-            2, 
-            2, 
             1, 
+            11, 
             4, 
+            7, 
+            7, 
+            2, 
+            2, 
+            2, 
+            3, 
+            3, 
             0, 
             8, 
             0, 
@@ -49,10 +49,10 @@ projects([
             0, 
             10, 
             6, 
-            1, 
-            7, 
+            10, 
             0, 
-            18
+            0, 
+            38
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -98,7 +98,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 107, 
+                "contributions": 123, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -271,19 +271,19 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                195139
+                195169
             ], 
             [
                 "HTML", 
-                77493
+                77070
             ], 
             [
                 "CSS", 
-                16108
+                16102
             ], 
             [
                 "CoffeeScript", 
-                7296
+                7512
             ], 
             [
                 "Puppet", 
@@ -313,10 +313,10 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-19T23:52:01Z", 
+        "pushed_at": "2015-08-20T02:56:21Z", 
         "size": 22412, 
-        "updated_at": "2015-08-13T16:30:37Z", 
-        "watchers": 23
+        "updated_at": "2015-08-20T00:22:16Z", 
+        "watchers": 24
     }, 
     {
         "activity": [
@@ -2117,7 +2117,7 @@ projects([
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-08-17T13:21:34Z", 
-        "size": 21140, 
+        "size": 26573, 
         "updated_at": "2015-08-04T19:20:58Z", 
         "watchers": 10
     }, 
@@ -2861,7 +2861,7 @@ projects([
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-08-16T01:11:36Z", 
-        "size": 547, 
+        "size": 565, 
         "updated_at": "2015-08-15T01:57:41Z", 
         "watchers": 6
     }, 
