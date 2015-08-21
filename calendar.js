@@ -193,90 +193,9 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1438354352000, 
-            "description": "<p>Walk Hack Night is a show &amp; tell of projects, apps and data visualizations about pedestrians and the walking experience. Doors open at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. Thanks to <a href=\"http://www.walkarlington.com/\">WalkArlington</a> for providing swag for our speakers and guests.\u00a0</p> <p>Our presenters are:</p> <p><br/>\u2022\u00a0<b><a href=\"https://twitter.com/cartograham\">James Graham</a></b> will demo <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0<a href=\"http://visionzero.ddot.dc.gov/VisionZero/\">VisionZero</a>\u00a0app.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/nguyenist\"><b>Stephanie Nguyen</b></a> will demo the\u00a0<a href=\"http://www.landmarkdirections.com/\">Landmark</a>\u00a0app for pedestrian-focused directions.\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.tedeytan.com/\"><b>Ted Eytan</b></a>,\u00a0MD from Kaiser Permanente,\u00a0will show how the\u00a0<a href=\"http://centerfortotalhealth.org/\">KP Center for Total Health</a>\u00a0uses infrared sensors and visualization tools to model trail use and promote walking in NoMA.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/bmoregeo\"><b>Chris Fricke</b></a> will show how <a href=\"http://gisinc.com/\">GISInc</a> analyzes indoor\u00a0traffic patterns.</p> <p>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/fraser-mclaughlin/42/3a8/574\">Fraser McLaughlin</a></b> will describe\u00a0<a href=\"http://www.eco-compteur.com/en/\">Eco-Counter</a> technologies being used to count pedestrians in Arlington and around the world, and discuss how data are organized and validated.\u00a0</p> <p>\u2022\u00a0<b><a href=\"https://www.linkedin.com/pub/stanislav-parfenov/a/964/356\">Stanislav Parfenov</a></b> will show us how\u00a0<a href=\"http://www.placemeter.com/\">Placemeter</a> analyzes pedestrian movement across the urban landscape.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/kotarohara_en\"><b>Kotaro Hara</b></a>\u00a0will show how he uses Google Street View to make sidewalks more\u00a0accessible.\u00a0</p> <p><br/>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Our hashtag is <a href=\"https://twitter.com/search?q=%23walkhacknight\">#walkhacknight</a>. Our speakers &amp; sponsors are <a href=\"https://twitter.com/mvs202\">@mvs202</a>, <a href=\"https://twitter.com/mobilitylabteam\">@mobilitylabteam</a>, <a href=\"https://twitter.com/bmoregeo\">@bmoregeo</a> (<a href=\"https://twitter.com/geometri_io\">@geometri_io</a>), <a href=\"https://twitter.com/cartograham\">@cartograham</a> (<a href=\"https://twitter.com/DDOTDC\">@DDOTDC</a>), <a href=\"https://twitter.com/nguyenist\">@nguyenist</a> (<a href=\"https://twitter.com/golandmark\">@golandmark</a>), <a href=\"https://twitter.com/tedeytan\">@tedeytan</a> (<a href=\"https://twitter.com/kptotalhealth\">@kptotalhealth</a>), <a href=\"https://twitter.com/placemeter\">@placemeter</a> and <a href=\"https://twitter.com/kotarohara_en\">@kotarohara_en</a> (<a href=\"https://twitter.com/umdcs\">@umdcs</a>).\u00a0Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have any questions.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/224308905/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Lobby entrance is on Oak St; take elevator to 11th floor", 
-            "id": "224308905", 
-            "maybe_rsvp_count": 0, 
-            "name": "Walk Hack Night", 
-            "rsvp_limit": 100, 
-            "status": "upcoming", 
-            "time": 1440108000000, 
-            "updated": 1439828488000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1501 Wilson Blvd, Suite 1100", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 16609032, 
-                "lat": 38.895149000000004, 
-                "lon": -77.074043000000003, 
-                "name": "Mobility Lab", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22209"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 4, 
-            "yes_rsvp_count": 100
-        }, 
-        {
-            "created": 1438104447000, 
-            "description": "<p>For our August Data Science DC Meetup, we're thrilled to have Brian Muller from OpBandit (recently acquired by Vox) presenting about the algorithms of Multi-Armed Bandit models and their importance in web content optimization. Going beyond simple A/B testing, Bandit approaches continuously exploit the knowledge they have learned about user preferences, maximizing value as they learn. As a short postscript, Harlan Harris will talk about Bandit modeling when preference data is incomplete and delayed. Expect to learn about tradeoffs between exploration and exploitation, algorithms for continuous learning and optimization, and how much of a difference they can make in practice.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstracts:</b></p> <p>1.</p> <p>At OpBandit, we built a service that renders different versions of news content for rendering on top publishers across six countries.\u00a0 At a high level, whenever a reader requests a page on a publisher's website, our service selects from multiple versions of headlines and photos to deliver the collection of versions that we think a user is most likely to click.\u00a0 This requires decision making on the fly for each request, with hard requirements for speed, reliability, and selection quality.\u00a0 This talk will cover the technical approaches we used (mostly solutions to the multi-armed bandit problem) to make content version selections, as well as the product implications of our choices and the results of each approach.</p> <p><a href=\"https://www.linkedin.com/in/bamuller\">Brian Muller</a> is the Director of Data Science at <a href=\"http://www.voxmedia.com/\">Vox Media</a>.\u00a0 Previously, he was the CTO and co-founder of <a href=\"https://opbandit.com/\">OpBandit</a> (acquired by Vox), a content optimization tool for online publishers.\u00a0 Prior to founding OpBandit, he was the Lead Data Scientist at LivingSocial.\u00a0 While at LivingSocial, he founded the data science team and oversaw the creation and growth of a big data infrastructure and the teams necessary to support it - all while the customer base grew from thousands to over 70 million users.\u00a0 Before that, he worked as the Web Director for Foreign Policy Magazine under the Washington Post.\u00a0 He as a MS in the Biomedical Sciences, and has spent time in academia working for the Medical University of South Carolina and Johns Hopkins University School of Medicine focused on squeezing meaningful information out of vast quantities of genomic data. Follow Brian on Twitter <a href=\"https://twitter.com/bmuller\">@bmuller</a>.\u00a0</p> <p><br/>2.</p> <p>Traditional multi-armed bandit optimization relies on your getting feedback relatively quickly so that you can update your utility function with improved estimates of the value of each option. This talk will explore options for tackling the problem of bandit-like optimization when feedback is slow and incomplete, such as in direct marketing campaigns where purchases may be delayed weeks or months. How do you update your utility function when \"no\" might mean \"not yet\" and product demand changes over time?</p> <p><br/><a href=\"http://www.linkedin.com/in/harlanharris\">Harlan\u00a0D.\u00a0Harris</a>\u00a0is Director, Data Science at <a href=\"https://www.eab.com/\">EAB</a>, a company that provides enterprise software and best-practices research to higher education institutions. He is a co-founder of the Data Science DC Meetup and of Data Community DC, Inc.\u00a0Harlan\u00a0has a BS in Computer Science from the University of Wisconsin-Madison, and a PhD in Computer Science, focusing on Machine Learning and Cognitive Science, from the University of\u00a0Illinois\u00a0at Urbana-Champaign. He worked as a researcher at Columbia University, the University of Connecticut, and New York University psychology departments before turning to data science and predictive analytics in industry. Harlan is co-author of O'Reilly's Analyzing the Analyzers, and tweets about data science as <a href=\"http://twitter.com/harlanh\">@harlanh</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/224235468/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "224235468", 
-            "maybe_rsvp_count": 0, 
-            "name": "Feeling a Multi-armed Embrace: Lessons from Online Content Optimization", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1440109800000, 
-            "updated": 1438180260000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 270
-        }, 
-        {
-            "created": 1439489661000, 
-            "description": "<p>Hi Everyone! I work in HR for Capital One and have experience with resumes. We would spend time going over how to write a great resume, practice and then I will leave time for reviews. Please bring a hard copy of your resume. I will also talk about some tips I have learned from being on the otherside of interviewing.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224613305/", 
+            "created": 1440117609000, 
+            "description": "<p>ksahguhgk</p> <p>aheg<b>jkahgek</b></p> <p><b>ajegjkahgkh</b></p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224777644/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -288,28 +207,27 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "224613305", 
+            "id": "224777644", 
             "maybe_rsvp_count": 0, 
-            "name": "Resume Workshop and Tips and Tricks to Landing the Job", 
-            "rsvp_limit": 59, 
+            "name": "Test Event 4 (delete if you get this notification...)", 
             "status": "upcoming", 
-            "time": 1440109800000, 
-            "updated": 1439943975000, 
+            "time": 1440198000000, 
+            "updated": 1440117609000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1817 M St NW", 
+                "address_1": "1015 7th Street NW.", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23703671, 
-                "lat": 38.905921999999997, 
-                "lon": -77.042496, 
-                "name": "cove", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 48
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1437765166000, 
@@ -385,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1427088126000, 
@@ -462,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1424968249000, 
@@ -606,7 +524,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
+        }, 
+        {
+            "created": 1440117127000, 
+            "description": "<p>lkajfdkl</p> <p>aklsjegkjahe</p> <p><b>askjeghawheawef!!!</b></p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224777521/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224777521", 
+            "maybe_rsvp_count": 0, 
+            "name": "Test Event 3 (delete if you get this notification...)", 
+            "status": "upcoming", 
+            "time": 1440716400000, 
+            "updated": 1440117127000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2459 18th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 664574, 
+                "lat": 38.922108000000001, 
+                "lon": -77.042465000000007, 
+                "name": "Tryst Coffeehouse", 
+                "phone": "202-232-5500", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1427088126000, 
@@ -645,7 +602,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1424968249000, 
@@ -1174,7 +1131,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 185
+            "yes_rsvp_count": 197
         }, 
         {
             "created": 1438616874000, 
@@ -1351,7 +1308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1439487723000, 
@@ -1453,33 +1410,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1437823706000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytmbmc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "tjxljlytmbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1443565800000, 
-            "updated": 1437823706000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 
