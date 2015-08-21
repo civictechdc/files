@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1427389099000, 
@@ -229,7 +229,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -270,7 +270,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 274
+            "yes_rsvp_count": 270
         }, 
         {
             "created": 1439489661000, 
@@ -308,8 +308,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 56
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1437765166000, 
@@ -385,7 +385,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1427088126000, 
@@ -423,7 +423,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 27
+        }, 
+        {
+            "created": 1440096184000, 
+            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>7:00 - 8:15 - \u00a0Again, we'll spend all of the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. You can code in the language of your choice!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224769850/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224769850", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms and Interview Prep Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1440455400000, 
+            "updated": 1440096184000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1424968249000, 
@@ -489,7 +528,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1435605354000, 
@@ -710,7 +749,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1326383071000, 
@@ -1020,7 +1059,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1437347249000, 
@@ -1135,7 +1174,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 185
         }, 
         {
             "created": 1438616874000, 
@@ -1201,6 +1240,52 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1440102483000, 
+            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Sept 22, 24, 29 and Oct 1;[masked]p).\u00a0</b></p> <p>\n\n\n\n<b>Introduction to HTML/CSS:</b></p> <p><br/>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>\n\n\nWe will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p><b><br/></b></p> <p><b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Tuesday, September 22 6:30p-8:30p</p> <p>Class 2, Introduction to CSS: Thursday, September 24 6:30p-8:30p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Tuesday, September 29 6:30p-8:30p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday,\u00a0October 1 6:30p-8:30p</p> <p>\n\n\n<b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/0/7/e/600_441109278.jpeg\" /></p> <p>Ashley Holtz is a programmer and consultant in Washington, DC focusing on security and forensics. She is extremely passionate about closing the gender gap in technical fields. When she's not working, Ashley serves as the Outreach Director for DC Web Women where she teaches women and children about programming and online safety. You can learn more about her work, sign up to volunteer, or request a presentation for your school/group here:\u00a0<a href=\"http://dcwebwomen.org/community-outreach\"><a href=\"http://dcwebwomen.org/community-outreach\" class=\"linkified\">http://dcwebwomen.org/community-outreach</a></a>.\u00a0</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Creative Colony is conveniently located at 8121 Georgia Avenue, Suite 600, Silver Spring, MD 20910 - a few blocks from the Silver Spring metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224772008/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 90, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "224772008", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to HTML/CSS", 
+            "rsvp_limit": 11, 
+            "status": "upcoming", 
+            "time": 1442961000000, 
+            "updated": 1440102989000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "8121 Georgia Ave, Suite 600", 
+                "city": "Silver Spring", 
+                "country": "us", 
+                "id": 19179062, 
+                "lat": 38.991073999999998, 
+                "lon": -77.026122999999998, 
+                "name": "Creative Colony", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1437823706000, 
@@ -1434,33 +1519,6 @@
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779220/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytnbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p>The <a href=\"https://github.com/hadley/dplyr\">dplyr</a> package for R provides a unified domain-specific language for tabular data. A powerful feature is that it supports multiple sources of tabular data, including data.frames, data.tables, and several dialects of relational database. But data.frames are not databases! How can this work? In this talk, I will dive into the details of how high-level dplyr verbs get translated into SQL, and walk through tips and tricks, optimizations, and gotchas.</p> <p><b>Our Instructor - Harlan Harris</b></p> <p>Data Scientist with experience and skills in Statistics and Statistical Programming, Machine Learning, Enterprise Software, Operations Research, Analytical Marketing, Enterprise Analytics, Higher Education, Cognitive Psychology, Cognitive Modeling, Linguistics/Psycholinguistics, Artificial Intelligence, and more. Harlan applies statistical, mathematical, computational, and scientific methods to understanding how things, processes, and people work. He's also deeply involved in the data science professional community, and help organize professional events and services in the DC area.</p>", 
             "duration": 9000000, 
@@ -1497,7 +1555,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
@@ -1761,7 +1819,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
@@ -1800,7 +1858,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
