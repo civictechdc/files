@@ -98,7 +98,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 123, 
+                "contributions": 124, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -107,6 +107,12 @@
                 "contributions": 78, 
                 "link": "https://github.com/mlouie", 
                 "name": "mlouie"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8662824?v=3", 
+                "contributions": 26, 
+                "link": "https://github.com/tingaloo", 
+                "name": "tingaloo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1019782?v=3", 
@@ -125,12 +131,6 @@
                 "contributions": 15, 
                 "link": "https://github.com/shiftyp", 
                 "name": "shiftyp"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8662824?v=3", 
-                "contributions": 14, 
-                "link": "https://github.com/tingaloo", 
-                "name": "tingaloo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3814190?v=3", 
@@ -271,11 +271,11 @@
         "languages": [
             [
                 "Ruby", 
-                195169
+                196280
             ], 
             [
                 "HTML", 
-                77070
+                78820
             ], 
             [
                 "CSS", 
@@ -283,7 +283,7 @@
             ], 
             [
                 "CoffeeScript", 
-                7512
+                7024
             ], 
             [
                 "Puppet", 
@@ -306,14 +306,14 @@
         }, 
         "main_language": "Ruby", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-20T02:56:21Z", 
+        "pushed_at": "2015-08-21T14:26:30Z", 
         "size": 22412, 
         "updated_at": "2015-08-20T00:22:16Z", 
         "watchers": 24
@@ -1131,34 +1131,34 @@
     }, 
     {
         "activity": [
-            7, 
-            2, 
             6, 
+            3, 
+            5, 
+            6, 
+            7, 
+            6, 
+            6, 
+            4, 
+            10, 
+            7, 
+            6, 
+            6, 
+            6, 
+            5, 
             5, 
             7, 
             6, 
-            6, 
-            4, 
-            8, 
-            9, 
-            6, 
-            6, 
-            6, 
-            6, 
-            4, 
-            7, 
-            6, 
-            4, 
             3, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             4, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            3, 
+            1, 
             0, 
             0, 
             0, 
@@ -2041,14 +2041,14 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
-            2, 
-            2, 
+            0, 
+            4, 
             0, 
             0, 
-            5, 
-            1, 
+            0, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2892,13 +2892,13 @@
             0, 
             0, 
             0, 
-            0, 
-            66, 
-            61, 
-            30, 
-            18, 
-            80, 
-            7, 
+            20, 
+            56, 
+            65, 
+            17, 
+            47, 
+            51, 
+            6, 
             1, 
             1, 
             1, 
@@ -2908,8 +2908,8 @@
             0, 
             0, 
             0, 
-            0, 
-            3, 
+            2, 
+            1, 
             0, 
             0, 
             0, 

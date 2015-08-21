@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1427389099000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1439998881000, 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1424968249000, 
@@ -409,44 +409,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
-        }, 
-        {
-            "created": 1439909774000, 
-            "description": "<p>Come and join our community fundraising &amp; networking happy hour event. Price is $15/per person in advance or $20 cash at the door</p> <p>Go to below link to make your RSVP:</p> <p><a href=\"http://www.abovezest.com/ch_details.php?ch_pk=150826CH469\" class=\"linkified\">http://www.abovezest.com/ch_details.php?ch_pk=150826CH469</a></p> <p><br/>The 100% money goes to High School Technology Services (HSTS) a local non-profit (501c3) assisting unprivileged high school students with computer training and career development. HSTS is a project of Social Good Fund. There will be a 30 minute presentation and a chance to meet and greet with HSTS team members.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/224716428/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "224716428", 
-            "maybe_rsvp_count": 0, 
-            "name": "Community Fundraising & Networking Happy Hour", 
-            "status": "upcoming", 
-            "time": 1440626400000, 
-            "updated": 1440044727000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1990 K St NW, Washington, DC", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24006255, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "cove", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 9
         }, 
         {
             "created": 1435605354000, 
@@ -524,7 +486,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1440117127000, 
@@ -706,7 +668,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1326383071000, 
@@ -944,7 +906,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1424968249000, 
@@ -1131,7 +1093,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 197
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1438616874000, 
@@ -1242,7 +1204,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1437823706000, 
@@ -1748,7 +1710,7 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 3
         }, 
         {
