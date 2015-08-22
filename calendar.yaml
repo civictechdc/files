@@ -195,26 +195,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 6
 other:
-- created: 1440117609000
-  description: <p>ksahguhgk</p> <p>aheg<b>jkahgek</b></p> <p><b>ajegjkahgkh</b></p>
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224777644/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '224777644'
-  maybe_rsvp_count: 0
-  name: Test Event 4 (delete if you get this notification...)
-  status: upcoming
-  time: 1440198000000
-  updated: 1440117609000
-  utc_offset: -14400000
-  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
-    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
 - created: 1437765166000
   description: <p>Yes! We'll finally be going over Python 3!</p> <p>This is a class
     for the new developer, and works not only for those new to programming, but also
@@ -242,7 +222,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1439998881000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
     \ for a fun, informal way to learn, code and work on projects with other members\
@@ -282,7 +262,7 @@ other:
     id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -358,7 +338,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1228,7 +1208,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 218
+  yes_rsvp_count: 222
 - created: 1438616874000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1552,6 +1532,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 32
+- created: 1437823706000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytmbmc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: tjxljlytmbmc
+  maybe_rsvp_count: 0
+  name: Android Hack Night
+  rsvp_limit: 30
+  status: upcoming
+  time: 1443565800000
+  updated: 1437823706000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
