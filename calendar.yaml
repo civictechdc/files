@@ -203,26 +203,27 @@ other:
     that you have a C9 account before the class starts! Everyone should be fine using
     the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data<br/>*
     Getting information from the user<br/>* Logic and flow control<br/>* Using the
-    standard library<br/>* Projects of interest</p> <p>The On Air link will only be
-    added the day before the class starts, so keep an eye out for it!</p>
+    standard library<br/>* Projects of interest</p> <p><a href="https://plus.google.com/events/ccv9733vp4fkgcerqn7hjal7j58">On
+    Air Hangout</a></p>
   duration: 10800000
   event_url: http://www.meetup.com/dc-pyladies/events/224150140/
   group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
     id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
   headcount: 0
+  how_to_find_us: https://plus.google.com/events/ccv9733vp4fkgcerqn7hjal7j58
   id: '224150140'
   maybe_rsvp_count: 0
   name: Intro to Python THREE in your PJs!
   status: upcoming
   time: 1440336600000
-  updated: 1437765166000
+  updated: 1440330301000
   utc_offset: -14400000
   venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
     lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 - created: 1439998881000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
     \ for a fun, informal way to learn, code and work on projects with other members\
@@ -665,7 +666,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 101
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1208,7 +1209,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 228
+  yes_rsvp_count: 230
 - created: 1438616874000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1340,7 +1341,7 @@ other:
       Colony, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1437823706000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1607,6 +1608,60 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1440292935000
+  description: "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\"\
+    >Eventbrite</a>.\_</b></p> <p>Come to the geekier side of the web world. \_Meet\
+    \ developers, programmers and data gurus - along with the people who manage web\
+    \ projects, wrangle web systems and otherwise run websites.</p> <p>You don't have\
+    \ to be a hard-core geek to join us. \_But you should have a good understanding\
+    \ of how websites work. \_If you've tweaked code, you're meant to be here!</p>\
+    \ <p>We have lots to talk about. \_To make sure we get a good mix, we're inviting\
+    \ a host of web tech experts to mix and mingle with you, including:\_<br/>- Web\
+    \ CMS\_<br/>- Ruby and other web frameworks\_<br/>- Mobile development and administration\_\
+    <br/>- Web project management\_<br/>- Website management\_<br/>- APIs and integrating\
+    \ with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p>\
+    \ <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product\
+    \ or company or recruit? Be sure you use the proper registration type. You'll\
+    \ be able to include a link to jobs or a product page in a follow-up message.</p>\
+    \ <p>- If your title doesn't let us know how techie you are - include that info!\_\
+    </p> <p>- If you register in the web techie or web manager/technical PM roles,\
+    \ be sure to include details about your organization and position. \_If you aren't\
+    \ sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking\
+    \ for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How\
+    \ Does It Work?</b></p> <p>You'll have a chance to network and mingle with several\
+    \ people in a couple different ways. You'll mingle (M), interact (I) and exchange\
+    \ information (X).\_</p> <p>Before the event, you'll provide information about\
+    \ yourself and what you are interested in. We'll use this to pre-match you during\
+    \ the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have\
+    \ a short structured networking portion where we organize tables based on topic\
+    \ and you can self-select which table to join. After the Speed portion, you can\
+    \ return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX\
+    \ - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based\
+    \ on information you provide.</p> <p><b><i>eXchange</i></b>: More networking!\
+    \ Exchange information with the people you've met.</p> <p><b>Schedule</b></p>\
+    \ <p>6:00 - Check-in</p> <p>6:30 - Structured Networking with drinks &amp; appetizers</p>\
+    \ <p>7:00 - Speed MIX</p> <p>8:30 - Networking (structured and unstructured)</p>\
+    \ <p><b>Sponsorship</b></p> <p>If you want to highlight your product, skills or\
+    \ have a recruiting table, please reach out to\_<a href=\"mailto:[masked]\">[masked]</a>\_\
+    for more information.\_</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/224818222/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '224818222'
+  maybe_rsvp_count: 0
+  name: 'Speed MIX: Web Techies Unite'
+  status: upcoming
+  time: 1444086000000
+  updated: 1440292952000
+  utc_offset: -14400000
+  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
+    lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -1641,7 +1696,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1918,7 +1973,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
