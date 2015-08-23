@@ -193,45 +193,6 @@
     ], 
     "other": [
         {
-            "created": 1437765166000, 
-            "description": "<p>Yes! We'll finally be going over Python 3!</p> <p>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data<br/>* Getting information from the user<br/>* Logic and flow control<br/>* Using the standard library<br/>* Projects of interest</p> <p><a href=\"https://plus.google.com/events/ccv9733vp4fkgcerqn7hjal7j58\">On Air Hangout</a></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/224150140/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "https://plus.google.com/events/ccv9733vp4fkgcerqn7hjal7j58", 
-            "id": "224150140", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Python THREE in your PJs!", 
-            "status": "upcoming", 
-            "time": 1440336600000, 
-            "updated": 1440330301000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Link is in the details", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23483842, 
-                "lat": 38.890369, 
-                "lon": -77.031959999999998, 
-                "name": "Google Hangout On Air", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 43
-        }, 
-        {
             "created": 1439998881000, 
             "description": "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance. This is important. : ) You can only access our office through the alley behind 14th, not from out front. The best way to get to us is to go to the corner of 14th and R, walk west on R and then north up the alley. You'll see our sign from R St and we're in a blue garage with glass doors.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p>RSVP Here:\u00a0<a href=\"https://nvite.com/dcfemtech/f882\"><a href=\"https://nvite.com/dcfemtech/f882\" class=\"linkified\">https://nvite.com/dcfemtech/f882</a></a></p>", 
             "duration": 10800000, 
@@ -632,7 +593,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1326383071000, 
@@ -672,7 +633,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -1057,7 +1018,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 230
+            "yes_rsvp_count": 233
         }, 
         {
             "created": 1438616874000, 
@@ -1234,7 +1195,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1439487723000, 
@@ -1475,7 +1436,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1326383071000, 
@@ -1738,7 +1699,7 @@
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 3
         }, 
         {
