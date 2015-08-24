@@ -98,15 +98,15 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 64
+  open_issues: 63
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-08-23T17:34:28Z'
   size: 22614
   updated_at: '2015-08-20T00:22:16Z'
   watchers: 24
-- activity: [0, 1, 0, 0, 3, 3, 0, 0, 6, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
-    0, 3, 5, 0, 1, 4, 0, 2, 6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [1, 0, 0, 0, 3, 3, 0, 1, 5, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
+    0, 3, 5, 0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -261,7 +261,7 @@
   created_at: '2013-06-01T13:27:34Z'
   default_branch: master
   description: Code for DC Education Project
-  forks: 18
+  forks: 19
   help_wanted: []
   homepage: null
   html_url: https://github.com/HarlanH/code-for-dc-edu
@@ -282,9 +282,9 @@
   size: 40011
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [3, 0, 6, 14, 8, 2, 4, 12, 7, 8, 12, 9, 10, 2, 1, 9, 0, 4, 2, 0, 10, 0,
-    0, 5, 2, 7, 2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7,
-    1, 0, 0, 0]
+- activity: [3, 0, 8, 12, 8, 2, 8, 13, 2, 10, 11, 8, 12, 0, 1, 9, 0, 4, 2, 0, 10,
+    0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1,
+    7, 1, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -371,7 +371,7 @@
   size: 17624
   updated_at: '2015-07-21T23:36:55Z'
   watchers: 18
-- activity: [6, 3, 5, 6, 7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7, 5, 3, 4, 0, 0, 0, 0,
+- activity: [5, 3, 5, 7, 6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0,
     0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -422,7 +422,7 @@
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     categories:
@@ -802,7 +802,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 75, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 68, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
