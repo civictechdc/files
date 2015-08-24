@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1427389099000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427389123000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1427389147000, 
@@ -150,7 +150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427389174000, 
@@ -188,7 +188,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }
     ], 
     "other": [
@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1440096184000, 
@@ -295,7 +295,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1435605354000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427088126000, 
@@ -412,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1424968249000, 
@@ -516,7 +516,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1326383071000, 
@@ -556,7 +556,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1427088126000, 
@@ -727,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1427088126000, 
@@ -826,7 +826,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1437347249000, 
@@ -863,7 +863,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1438791539000, 
@@ -941,7 +941,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 241
+            "yes_rsvp_count": 254
+        }, 
+        {
+            "created": 1440421299000, 
+            "description": "<p>It's time to get comfortable with git!</p> <p>Today, git is the go-to for versioning. If you want to go code in the open source community, chances are good that you're going to have to learn about git.</p> <p>In this class, we're going to go over:</p> <p>\u2022 What exactly IS git?</p> <p><br/>\u2022 Installing it</p> <p><br/>\u2022 Creating repositories</p> <p><br/>\u2022 Branching, merging, rebasing, tagging</p> <p><br/>\u2022 Fixing merges</p> <p><br/>\u2022 Working with Github</p> <p><br/>\u2022 Getting information out of git</p> <p><br/>\u2022 Tricks and tips</p> <p><br/>In order to participate in this class, you'll need a GitHub account and a computer with admin rights. We'll be playing around with a repo on my account, so you won't need to do anything but sign up!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/224846829/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "The link will be sent out either the day before, or the day of.", 
+            "id": "224846829", 
+            "maybe_rsvp_count": 0, 
+            "name": "Let's learn Git in your PJs!", 
+            "status": "upcoming", 
+            "time": 1442755800000, 
+            "updated": 1440421470000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Link is in the details", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23483842, 
+                "lat": 38.890369, 
+                "lon": -77.031959999999998, 
+                "name": "Google Hangout On Air", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1438616874000, 
@@ -1331,8 +1370,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Speed MIX: Web Techies and Managers", 
             "status": "upcoming", 
-            "time": 1444086000000, 
-            "updated": 1440411554000, 
+            "time": 1444084200000, 
+            "updated": 1440425763000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1347,7 +1386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1437823706000, 
@@ -1454,6 +1493,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1440425244000, 
+            "description": "<p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/profile/view?id=14164330&amp;authType=NAME_SEARCH&amp;authToken=T_vE&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437138131592%2Ctas%3Abrian\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0TBD</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/224848074/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "224848074", 
+            "maybe_rsvp_count": 0, 
+            "name": "The State of Data Science Education", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1444489200000, 
+            "updated": 1440425403000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW, Room 108", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 20624812, 
+                "lat": 38.898926000000003, 
+                "lon": -77.049484000000007, 
+                "name": "GWU Funger Hall", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 13, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1439487723000, 
@@ -1676,7 +1754,7 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 3
         }, 
         {
