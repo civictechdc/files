@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1427389099000, 
@@ -296,7 +296,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -335,7 +335,44 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
+        }, 
+        {
+            "created": 1440517481000, 
+            "description": "<p>You know what's almost as good as great APIs? The end of DC summer weather! As it cools off, our new API meetup location is better than ever for enjoying good food and drink on a spacious patio with your fellow API meetup-ers. :) Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking<br/>6:45pm - 6:55pm Introductions and Announcements<br/>6:55pm - 8:00pm Presentations</p> <p>* Jake Morgan, Mulesoft<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Dag Gogue - TransitLabs</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/224875372/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "224875372", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - September Edition", 
+            "status": "upcoming", 
+            "time": 1441144800000, 
+            "updated": 1440517481000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1424968249000, 
@@ -439,7 +476,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1326383071000, 
@@ -479,7 +516,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1427088126000, 
@@ -650,7 +687,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1427088126000, 
@@ -749,7 +786,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1437347249000, 
@@ -786,7 +823,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1438791539000, 
@@ -864,7 +901,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 257
+            "yes_rsvp_count": 260
         }, 
         {
             "created": 1440421299000, 
@@ -903,7 +940,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1438616874000, 
@@ -1014,7 +1051,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1437823706000, 
