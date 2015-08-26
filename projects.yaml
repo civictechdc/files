@@ -1,6 +1,6 @@
-- activity: [9, 3, 0, 2, 7, 0, 7, 1, 7, 11, 26, 30, 19, 27, 45, 8, 1, 9, 15, 7, 34,
-    19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0,
-    9, 7, 1, 9, 0, 40, 33]
+- activity: [4, 3, 0, 6, 3, 0, 8, 0, 7, 12, 27, 37, 13, 32, 38, 7, 1, 10, 20, 1, 34,
+    20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6, 3, 2, 2, 1, 5, 0, 8, 0, 0, 0,
+    10, 6, 2, 8, 0, 41, 40]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -100,7 +100,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 62
+  open_issues: 61
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-08-26T00:52:38Z'
@@ -1030,9 +1030,9 @@
   size: 1259
   updated_at: '2015-05-19T23:31:16Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 5, 0, 8,
-    0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27, 10,
-    4, 15, 0, 7, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 1, 0, 8,
+    0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 1, 35, 19, 36, 2, 66, 0, 1, 7, 22, 4, 27, 6,
+    4, 15, 0, 7, 2]
   civic_json:
     bornAt: Reentry Hackathon
     categories:
@@ -1321,7 +1321,7 @@
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16,
-    0, 27, 8]
+    0, 28, 7]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 52,
