@@ -92,13 +92,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 738, 
+                "contributions": 743, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
-                "contributions": 130, 
+                "contributions": 131, 
                 "link": "https://github.com/emanuelfeld", 
                 "name": "emanuelfeld"
             }, 
@@ -271,11 +271,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                195936
+                195715
             ], 
             [
                 "HTML", 
-                76389
+                74859
             ], 
             [
                 "CSS", 
@@ -283,7 +283,7 @@ projects([
             ], 
             [
                 "CoffeeScript", 
-                7024
+                7034
             ], 
             [
                 "Puppet", 
@@ -313,7 +313,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-25T11:17:12Z", 
+        "pushed_at": "2015-08-25T23:49:15Z", 
         "size": 22614, 
         "updated_at": "2015-08-20T00:22:16Z", 
         "watchers": 24
@@ -1441,13 +1441,13 @@ projects([
     {
         "activity": [
             7, 
-            5, 
+            8, 
             13, 
-            3, 
-            9, 
+            0, 
+            10, 
+            0, 
+            7, 
             1, 
-            5, 
-            3, 
             0, 
             0, 
             1, 
@@ -1463,10 +1463,10 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            9, 
-            20, 
-            1, 
+            3, 
+            7, 
+            21, 
+            0, 
             4, 
             3, 
             0, 
@@ -2061,14 +2061,14 @@ projects([
             0, 
             3, 
             0, 
-            4, 
-            2
+            6, 
+            0
         ], 
         "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 18, 
+                "contributions": 20, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2110,7 +2110,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-17T13:21:34Z", 
+        "pushed_at": "2015-08-25T21:39:42Z", 
         "size": 26573, 
         "updated_at": "2015-08-04T19:20:58Z", 
         "watchers": 10
@@ -2635,8 +2635,8 @@ projects([
             0, 
             0, 
             7, 
-            15, 
-            25, 
+            18, 
+            22, 
             0, 
             0, 
             0, 
@@ -2743,9 +2743,9 @@ projects([
             0, 
             0, 
             0, 
-            4, 
+            6, 
             10, 
-            5, 
+            3, 
             0, 
             5, 
             0, 
@@ -2754,9 +2754,9 @@ projects([
             0, 
             0, 
             0, 
-            45, 
-            20, 
-            1, 
+            57, 
+            9, 
+            0, 
             0, 
             0, 
             0, 
@@ -2886,17 +2886,17 @@ projects([
             0, 
             0, 
             0, 
-            45, 
-            47, 
-            56, 
+            59, 
+            41, 
+            49, 
             22, 
-            71, 
-            19, 
-            2, 
+            78, 
+            12, 
+            1, 
             2, 
             1, 
-            4, 
-            2, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -3026,8 +3026,8 @@ projects([
             0, 
             0, 
             0, 
-            20, 
-            20, 
+            28, 
+            12, 
             0, 
             1, 
             0, 
@@ -3271,7 +3271,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 57, 
+                "contributions": 58, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3312,16 +3312,16 @@ projects([
                 "name": "ParentJA"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1408929?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/jimwebb", 
-                "name": "jimwebb"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/453900?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/rdeprey", 
                 "name": "rdeprey"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1408929?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/jimwebb", 
+                "name": "jimwebb"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/466645?v=3", 
@@ -3330,16 +3330,22 @@ projects([
                 "name": "afiedler"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/wam", 
+                "name": "wam"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/wam", 
-                "name": "wam"
+                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/tmcw", 
+                "name": "tmcw"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12052154?v=3", 
@@ -3348,17 +3354,17 @@ projects([
                 "name": "JasonParentEAB"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/32314?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/tmcw", 
-                "name": "tmcw"
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/mkalish", 
+                "name": "mkalish"
             }
         ], 
-        "contributors_count": 15, 
+        "contributors_count": 16, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 21, 
+        "forks": 22, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -3474,11 +3480,11 @@ projects([
         "languages": [
             [
                 "HTML", 
-                33689
+                33762
             ], 
             [
                 "JavaScript", 
-                10807
+                11443
             ], 
             [
                 "CSS", 
@@ -3493,14 +3499,14 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 6, 
+        "open_issues": 7, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-08-16T19:41:26Z", 
+        "pushed_at": "2015-08-25T21:49:46Z", 
         "size": 10296, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
@@ -3532,12 +3538,12 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            34, 
-            2, 
-            19, 
-            0, 
+            3, 
+            31, 
+            12, 
+            9, 
             7, 
+            0, 
             0, 
             0, 
             0, 
@@ -3687,15 +3693,14 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            107, 
-            49, 
-            5, 
+            28, 
+            82, 
+            46, 
+            6, 
             2, 
-            1, 
+            0, 
             0, 
             1, 
-            0, 
             0, 
             0, 
             0, 
@@ -3703,6 +3708,7 @@ projects([
             0, 
             0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
