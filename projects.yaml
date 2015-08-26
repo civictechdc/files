@@ -22,7 +22,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 743,
     link: 'https://github.com/jrunningen', name: jrunningen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 131,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 133,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1302023?v=3', contributions: 78,
     link: 'https://github.com/mlouie', name: mlouie}
@@ -36,18 +36,18 @@
     link: 'https://github.com/shiftyp', name: shiftyp}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3814190?v=3', contributions: 13,
     link: 'https://github.com/jasoncorum', name: jasoncorum}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 9,
+    link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1711330?v=3', contributions: 8,
     link: 'https://github.com/MikeyBurkman', name: MikeyBurkman}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 8,
-    link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 7,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4406809?v=3', contributions: 6,
     link: 'https://github.com/mepps', name: mepps}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/459756?v=3', contributions: 4,
-    link: 'https://github.com/mpeteuil', name: mpeteuil}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/86790?v=3', contributions: 4,
     link: 'https://github.com/adelevie', name: adelevie}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/459756?v=3', contributions: 4,
+    link: 'https://github.com/mpeteuil', name: mpeteuil}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/408989?v=3', contributions: 4,
     link: 'https://github.com/uncompiled', name: uncompiled}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 4,
@@ -58,25 +58,27 @@
     link: 'https://github.com/wsankey', name: wsankey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8462602?v=3', contributions: 2,
     link: 'https://github.com/lizhaney', name: lizhaney}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9677598?v=3', contributions: 1,
-    link: 'https://github.com/dmjurg', name: dmjurg}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 1,
+    link: 'https://github.com/dfelsent', name: dfelsent}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/20806?v=3', contributions: 1,
     link: 'https://github.com/endash', name: endash}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6130671?v=3', contributions: 1,
     link: 'https://github.com/cszimm', name: cszimm}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9677598?v=3', contributions: 1,
+    link: 'https://github.com/dmjurg', name: dmjurg}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2306490?v=3', contributions: 1,
     link: 'https://github.com/ameensol', name: ameensol}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 1,
-    link: 'https://github.com/dfelsent', name: dfelsent}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/81055?v=3', contributions: 1,
     link: 'https://github.com/dirkkelly', name: dirkkelly}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/578345?v=3', contributions: 1,
+    link: 'https://github.com/kevko', name: kevko}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/311365?v=3', contributions: 1,
     link: 'https://github.com/MetricMike', name: MetricMike}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 1,
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2559167?v=3', contributions: 1,
     link: 'https://github.com/shariq1989', name: shariq1989}
-  contributors_count: 28
+  contributors_count: 29
   created_at: '2013-06-24T02:05:03Z'
   default_branch: master
   description: 'District Housing lets caseworkers help clients apply for Section 8
@@ -89,24 +91,24 @@
   id: 10896437
   languages:
   - [Ruby, 195715]
-  - [HTML, 74859]
+  - [HTML, 74867]
   - [CSS, 16102]
-  - [CoffeeScript, 7034]
+  - [CoffeeScript, 6976]
   - [Puppet, 5537]
   - [JavaScript, 788]
   - [Shell, 118]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: District Housing Application Assistant
-  open_issues: 65
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-08-25T23:49:15Z'
+  pushed_at: '2015-08-26T00:52:38Z'
   size: 22614
   updated_at: '2015-08-20T00:22:16Z'
   watchers: 24
 - activity: [1, 0, 0, 0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0,
-    0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 8, 0, 1, 1, 3, 0, 8, 0, 3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -282,9 +284,9 @@
   size: 40011
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [3, 0, 9, 11, 8, 2, 10, 11, 2, 10, 13, 8, 10, 0, 1, 9, 4, 0, 2, 0, 10,
-    0, 0, 6, 1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2,
-    5, 1, 0, 0, 0]
+- activity: [2, 2, 10, 12, 4, 2, 15, 6, 2, 10, 13, 14, 4, 0, 1, 9, 4, 0, 2, 1, 9,
+    0, 0, 6, 1, 7, 8, 7, 1, 2, 9, 1, 1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2,
+    6, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -338,7 +340,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 31
+  forks: 29
   help_wanted:
   - assignee: null
     body: ''
@@ -369,9 +371,9 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-07-28T23:58:43Z'
   size: 17624
-  updated_at: '2015-07-21T23:36:55Z'
-  watchers: 18
-- activity: [4, 4, 5, 7, 6, 6, 5, 6, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 3, 0, 0, 0, 0,
+  updated_at: '2015-08-26T00:23:22Z'
+  watchers: 19
+- activity: [3, 5, 5, 7, 6, 6, 5, 7, 9, 6, 6, 6, 6, 4, 7, 6, 5, 3, 2, 0, 0, 0, 0,
     0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -802,7 +804,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 51, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 46, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1058,7 +1060,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 97,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 58,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 61,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 35,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1072,7 +1074,7 @@
     link: 'https://github.com/mattbailey0', name: mattbailey0}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1606922?v=3', contributions: 7,
     link: 'https://github.com/ParentJA', name: ParentJA}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/453900?v=3', contributions: 5,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/453900?v=3', contributions: 6,
     link: 'https://github.com/rdeprey', name: rdeprey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1408929?v=3', contributions: 5,
     link: 'https://github.com/jimwebb', name: jimwebb}
@@ -1082,10 +1084,10 @@
     link: 'https://github.com/wam', name: wam}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 4,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 2,
-    link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12052154?v=3', contributions: 2,
     link: 'https://github.com/JasonParentEAB', name: JasonParentEAB}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 2,
+    link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 1,
     link: 'https://github.com/mkalish', name: mkalish}
   contributors_count: 16
@@ -1093,7 +1095,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 22
+  forks: 24
   help_wanted:
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
@@ -1157,16 +1159,16 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 33762]
-  - [JavaScript, 11443]
+  - [HTML, 33689]
+  - [JavaScript, 10807]
   - [CSS, 3921]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 7
+  open_issues: 8
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-08-25T21:49:46Z'
+  pushed_at: '2015-08-26T02:42:56Z'
   size: 10296
   updated_at: '2015-07-14T19:49:58Z'
   watchers: 10
@@ -1274,3 +1276,76 @@
   size: 21676
   updated_at: '2015-05-19T23:20:37Z'
   watchers: 3
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 6]
+  civic_json:
+    bornAt: Code for DC
+    categories: []
+    communityPartner: {DC Learn JS: 'http://dclearnjs.github.io'}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: casey.s.watts@gmail.com, name: Tech Meetup Website, twitter: ''}
+    data: {}
+    geography: ''
+    governmentPartner: {}
+    moreInfo: ''
+    needs:
+    - {need: html/css/js}
+    - {need: rails}
+    politicalEntity: {}
+    status: Production
+    thumbnailUrl: ''
+    type: ''
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/273653?v=3', contributions: 6,
+    link: 'https://github.com/caseywatts', name: caseywatts}
+  contributors_count: 1
+  created_at: '2015-08-25T22:28:15Z'
+  default_branch: master
+  description: ''
+  forks: 1
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/tech-meetup-website/tech-meetup-website
+  id: 41391103
+  languages: []
+  license: null
+  main_language: null
+  name: Tech Meetup Website
+  open_issues: 3
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/13546551?v=3', name: tech-meetup-website,
+    type: Organization, url: 'https://github.com/tech-meetup-website'}
+  pushed_at: '2015-08-25T23:26:01Z'
+  size: 0
+  updated_at: '2015-08-25T22:28:15Z'
+  watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16,
+    0, 27, 8]
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 52,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  contributors_count: 1
+  created_at: '2015-07-29T18:49:22Z'
+  default_branch: gh-pages
+  description: DC Master Address Repository Query Tool
+  forks: 0
+  help_wanted: []
+  homepage: http://emanuelfeld.github.io/mardc
+  html_url: https://github.com/emanuelfeld/mardc
+  id: 39910468
+  languages:
+  - [JavaScript, 10667]
+  - [HTML, 8928]
+  - [CSS, 5318]
+  license: null
+  main_language: JavaScript
+  name: MAR DC
+  open_issues: 1
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
+    type: User, url: 'https://github.com/emanuelfeld'}
+  pushed_at: '2015-08-26T03:45:51Z'
+  size: 416
+  updated_at: '2015-08-25T21:28:43Z'
+  watchers: 2
