@@ -67,6 +67,12 @@
     },
     {
         "Get DC Trees": "https://github.com/emanuelfeld/tree-map"
+    },
+    {
+        "Tech Meetup Website": "https://github.com/tech-meetup-website/tech-meetup-website"
+    },
+    {
+        "MAR DC": "https://github.com/emanuelfeld/mardc"
     }
 ],
 "meetups": [
