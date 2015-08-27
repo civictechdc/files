@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427389123000, 
@@ -195,7 +195,7 @@ calendar({
         }, 
         {
             "created": 1440517481000, 
-            "description": "<p>You know what's almost as good as great APIs? The end of DC summer weather! As it cools off, our new API meetup location is better than ever for enjoying good food and drink on a spacious patio with your fellow API meetup-ers. :) Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking<br/>6:45pm - 6:55pm Introductions and Announcements<br/>6:55pm - 8:00pm Presentations</p> <p>* Jake Morgan, Mulesoft<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Dag Gogue - TransitLabs<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>You know what's almost as good as great APIs? The end of DC summer weather! As it cools off, our new API meetup location is better than ever for enjoying good food and drink on a spacious patio with your fellow API meetup-ers. :) Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking<br/>6:45pm - 6:55pm Introductions and Announcements<br/>6:55pm - 8:00pm Presentations</p> <p>* Jake Morgan, Mulesoft<br/>* Monica Shelton - Department of the Treasury<br/>* Dag Gogue - TransitLabs<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/224875372/", 
             "group": {
                 "created": 1347647025000, 
@@ -213,7 +213,7 @@ calendar({
             "name": "DC API User Group - September Edition", 
             "status": "upcoming", 
             "time": 1441144800000, 
-            "updated": 1440558836000, 
+            "updated": 1440697716000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1424968249000, 
@@ -255,7 +255,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1438791348000, 
@@ -293,7 +293,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -332,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1326383071000, 
@@ -372,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1440534898000, 
@@ -411,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1427088126000, 
@@ -796,7 +796,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 270
+            "yes_rsvp_count": 280
         }, 
         {
             "created": 1439936511000, 
@@ -858,8 +858,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Let's learn Git in your PJs!", 
             "status": "upcoming", 
-            "time": 1442755800000, 
-            "updated": 1440421470000, 
+            "time": 1442669400000, 
+            "updated": 1440680912000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Link is in the details", 
@@ -875,6 +875,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 38
+        }, 
+        {
+            "created": 1440681237000, 
+            "description": "<p>Portfolios aren't just for designers! It's becoming more and more common for potential employers to check out your personal site and Github account to see what you can do. Let's get together and work on our portfolios! This will include:</p> <p>\u2022\u00a0Creating / brushing up your personal site</p> <p>\u2022\u00a0Cleaning up your Github repo</p> <p>\u2022\u00a0Brainstorming projects that you can do or participate in</p> <p>\u2022\u00a0Adding these items to whatever professional networking site you use (LinkedIn, etc)</p> <p>You don't need a strong grasp of style to make a website. We'll be here to help! Just bring yourself and a laptop.</p>", 
+            "duration": 14400000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/224922248/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We'll be in the Dream Lab! The people at the help desks should be able to direct you our way.", 
+            "id": "224922248", 
+            "maybe_rsvp_count": 0, 
+            "name": "Portfolio workshop!", 
+            "status": "upcoming", 
+            "time": 1442768400000, 
+            "updated": 1440682158000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW # 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4367692, 
+                "lat": 38.898448999999999, 
+                "lon": -77.024704, 
+                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1438616874000, 
@@ -1307,7 +1347,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
