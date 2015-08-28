@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1424968249000, 
@@ -253,6 +253,44 @@ calendar({
             "time": 1441146600000, 
             "updated": 1440548181000, 
             "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1440705572000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome! We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224930600/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "224930600", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Study Group - Beginner's Night!", 
+            "status": "upcoming", 
+            "time": 1441233000000, 
+            "updated": 1440705572000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1 Thomas Cir NW", 
+                "city": "Washington, 20005", 
+                "country": "us", 
+                "id": 23992270, 
+                "lat": 38.905330999999997, 
+                "lon": -77.032798999999997, 
+                "name": "TrackMaven", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
@@ -332,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1326383071000, 
@@ -372,11 +410,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1440534898000, 
-            "description": "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\">GIS in Transit conference</a>, we're inviting conference-goers and local transit nerds to a show &amp; tell of cool mapping projects in the world of transportation. Doors open at <a href=\"http://www.1776.vc/\">1776</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. You do not have to be registered for the conference in order to attend, but please do RSVP via this site.\u00a0</p> <p>If you have a project about mapping transit, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers so far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/woolie\">Ian Rees</a>\u00a0and <a href=\"https://twitter.com/drewdaraabrams\">Drew Dara-Abrams</a>\u00a0will tell us about <a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://transit.land/\">Transitland</a> project.</p> <p><br/>\u2022\u00a0Drew Dara-Abrams\u00a0will show us Mapzen's\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> open-source routing service.</p> <p><br/>\u2022 <a href=\"https://twitter.com/kvnweb\">Kevin Webb</a> will discuss\u00a0Conveyal's\u00a0work mapping transport access.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/mvs202\">Michael Schade</a> will demo\u00a0TransitScreen's\u00a0project to map the world's GTFS data.</p> <p>Thanks to our sponsor\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>\u00a0for the refreshments, our venue host <a href=\"http://www.1776.vc/\">1776</a>, and our co-hosts\u00a0<a href=\"http://transitscreen.com/\">TransitScreen</a> and <a href=\"http://conveyal.com/\">Conveyal</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.\u00a0</p>", 
+            "description": "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\">GIS in Transit conference</a>, we're inviting conference-goers and local transit nerds to a show &amp; tell of cool mapping projects in the world of transportation. Doors open at <a href=\"http://www.1776.vc/\">1776</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. You do not have to be registered for the conference in order to attend, but please do RSVP via this site.\u00a0</p> <p>If you have a project about mapping transit, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers so far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/woolie\">Ian Rees</a>\u00a0and <a href=\"https://twitter.com/drewdaraabrams\">Drew Dara-Abrams</a>\u00a0will tell us about <a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://transit.land/\">Transitland</a> project.</p> <p><br/>\u2022\u00a0Drew Dara-Abrams\u00a0will show us Mapzen's\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> open-source routing service.</p> <p><br/>\u2022 <a href=\"https://twitter.com/kvnweb\">Kevin Webb</a> will discuss\u00a0Conveyal's\u00a0work mapping transport access.</p> <p><br/>\u2022\u00a0<a href=\"http://transit.melindamorang.com/\">Melinda Morang</a> will show\u00a0how <a href=\"http://www.esri.com/\">Esri</a>'s ArcMap is used to analyze\u00a0GTFS data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jaimemckay1\">Jaime McKay</a> and\u00a0<a href=\"http://mjcaction.com/\">Marcy Jaffe</a> will discuss their efforts to get smaller agencies to provide robust GTFS data for developers.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/mvs202\">Michael Schade</a> will demo\u00a0TransitScreen's\u00a0project to map the world's GTFS data.</p> <p>Thanks to our sponsor\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>\u00a0for the refreshments, our venue host <a href=\"http://www.1776.vc/\">1776</a>, and our co-hosts\u00a0<a href=\"http://transitscreen.com/\">TransitScreen</a> and <a href=\"http://conveyal.com/\">Conveyal</a>.\u00a0</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224881931/", 
             "group": {
                 "created": 1384372275000, 
@@ -396,7 +434,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1441317600000, 
-            "updated": 1440644120000, 
+            "updated": 1440709027000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW", 
@@ -411,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1427088126000, 
@@ -796,7 +834,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 280
+            "yes_rsvp_count": 281
         }, 
         {
             "created": 1439936511000, 
@@ -914,7 +952,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1438616874000, 
@@ -1684,33 +1722,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779229/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytnbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1445898600000, 
-            "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
