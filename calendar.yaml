@@ -2,24 +2,23 @@ codefordc:
 - created: 1427389099000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
-    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
-    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
-    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
-    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
-    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
-    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
-    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
-    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
-    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
-    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
-    \ Meetup</p>"
+    \ <p>7:15 - 9:00 Hacking. Project teams break out to work. \_New participants\
+    \ can join teams, circulate, or seek out the Co-Captains for orientation.</p>\
+    \ <p>~7:30\_Food delivered.\_</p> <p>9:00 - 9:15 Everyone reconvenes and shares\
+    \ reactions to and progress made over the last two hours. Show and tell if time/resources\
+    \ allow it. Thank you and goodnight.</p> <p>9:30\_Sometimes an after party (Happy\
+    \ Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text Justin at 301-538-5812\_for\
+    \ entry if no one is at the door.</p> <p>\u2022\_Bring cash for food and drink!\
+    \ Pay what you can.</p> <p><br/>\u2022\_If you are new to Code for DC\u2026 \_\
+    </p> <p>\n\n\u2022\_Bring a laptop if you can (it\u2019s ok if you can\u2019t)\_\
+    </p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active\
+    \ projects</a></p> <p>\u2022\_Review the <a href=\"http://codefordc.org/codeofconduct.html\"\
+    >Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_\
+    <a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\"\
+    \ class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p>\
+    \ <p>\u2022\_Start working on a project with someone or bring your own project</p>\
+    \ <p><br/>\u2022\_Introduce yourself to others</p> <p>\u2022\_If you had a good\
+    \ time join Google Group and Meetup</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Code-for-DC/events/221419499/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -31,13 +30,13 @@ codefordc:
   name: Civic Hacknight
   status: upcoming
   time: 1441837800000
-  updated: 1427389099000
+  updated: 1440857834000
   utc_offset: -14400000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
+    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 23
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -232,7 +231,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 58
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -303,7 +302,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1438791348000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -335,9 +334,7 @@ other:
     \ <p>This event is intended to be exclusively open for people who identify as\
     \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><i>Parking</i></p>\
-    \ <p>For those who are commuting via automobile, you can park across the street\
-    \ in the Crystal City Public Parking garage for free after 4 p.m.</p>"
+    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/224426019/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -349,14 +346,14 @@ other:
   name: Ruby on Rails Study Group
   status: upcoming
   time: 1441233000000
-  updated: 1438791348000
+  updated: 1440869935000
   utc_offset: -14400000
-  venue: {address_1: 2100 Crystal Drive, city: Arlington, country: us, id: 24009019,
-    lat: 38.855201999999998, lon: -77.050147999999993, name: Tech Shop, repinned: false,
-    state: VA}
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1417881835000
   description: "<p><b>What You'll Hear About</b></p> <p>R is a reliable and versatile\
     \ tool for data munging. Unfortunately, base R data load and transform processes\
@@ -394,7 +391,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 131
+  yes_rsvp_count: 132
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -464,7 +461,7 @@ other:
     lat: 38.904854, lon: -77.034003999999996, name: '1776', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 104
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -984,7 +981,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 287
+  yes_rsvp_count: 286
 - created: 1439936511000
   description: "<p>Details coming!\_</p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/224725896/
@@ -1034,7 +1031,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
