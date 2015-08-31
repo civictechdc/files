@@ -73,6 +73,9 @@
     },
     {
         "MAR DC": "https://github.com/emanuelfeld/mardc"
+    },
+    {
+        "Open Elections Data": "https://github.com/openelections/openelections-data-dc"
     }
 ],
 "meetups": [
