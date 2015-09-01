@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -184,7 +184,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 88
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -255,7 +255,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 38
 - created: 1438791348000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -344,7 +344,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 152
+  yes_rsvp_count: 155
 - created: 1326383071000
   description: "<p>Following up on GeoDC August's intern edition, September's meetup\
     \ is all about teaching and mentoring in geo. Learn how others in the DC geo community\
@@ -376,7 +376,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 53
 - created: 1440534898000
   description: "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\"\
     >GIS in Transit conference</a>, we're inviting conference-goers and local transit\
@@ -423,8 +423,8 @@ other:
   venue: {address_1: 1133 15th St NW, city: Washington, country: us, id: 24051362,
     lat: 38.904854, lon: -77.034003999999996, name: '1776', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
-  yes_rsvp_count: 121
+  waitlist_count: 17
+  yes_rsvp_count: 122
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -509,7 +509,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1438791464000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -944,7 +944,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 298
+  yes_rsvp_count: 300
 - created: 1439936511000
   description: "<p>Details coming!\_</p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/224725896/
@@ -994,7 +994,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -1576,7 +1576,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -2148,7 +2148,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
