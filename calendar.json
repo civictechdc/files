@@ -155,71 +155,6 @@
     ], 
     "other": [
         {
-            "created": 1440517481000, 
-            "description": "<p>You know what's almost as good as great APIs? The end of DC summer weather! As it cools off, our new API meetup location is better than ever for enjoying good food and drink on a spacious patio with your fellow API meetup-ers. :) Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking<br/>6:45pm - 6:55pm Introductions and Announcements<br/>6:55pm - 8:00pm Presentations</p> <p>* Jake Morgan, Mulesoft<br/>* Monica Shelton - Department of the Treasury<br/>* Dag Gogue - TransitLabs<br/>*\u00a0Rahul Singh - Anant</p> <p>7:55pm - 8:00pm Refill your beverage<br/>8:00pm - 8:30pm Panel discussions<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/224875372/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "224875372", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - September Edition", 
-            "status": "upcoming", 
-            "time": 1441144800000, 
-            "updated": 1440697716000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 97
-        }, 
-        {
-            "created": 1424968249000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141213/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "tjxljlytmbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night - Exploring Android Studio Talk!", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1441146600000, 
-            "updated": 1441144915000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
             "created": 1440705572000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome! We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -372,7 +307,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1440534898000, 
@@ -411,7 +346,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1441141181000, 
@@ -447,7 +382,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1427088126000, 
@@ -474,7 +409,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1424968249000, 
@@ -813,11 +748,11 @@
             "how_to_find_us": "We're at the School on Int'l affairs on E Street, 2nd floor.", 
             "id": "224763637", 
             "maybe_rsvp_count": 0, 
-            "name": "Pure, predictable, pipeable: creating fluent interfaces with R", 
+            "name": "Hadley Wickham: Pure, predictable, pipeable: creating fluent interfaces with R", 
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1442442600000, 
-            "updated": 1440080812000, 
+            "updated": 1441156461000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1957 E St NW - Room 213", 
@@ -832,11 +767,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 306
+            "yes_rsvp_count": 308
         }, 
         {
             "created": 1439936511000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Telecom Data Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments (<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>)\u00a0</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a></p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics\u00a0</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\u00a0</p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p> <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Telecom Data Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments w\u00a0<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>, etc.</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a>.</p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\u00a0</p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p> <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/224725896/", 
             "group": {
                 "created": 1372871984000, 
@@ -854,7 +789,7 @@
             "name": "Telecom Data Hackathon", 
             "status": "upcoming", 
             "time": 1442667600000, 
-            "updated": 1441143758000, 
+            "updated": 1441177450000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -871,7 +806,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1440421299000, 
@@ -910,7 +845,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1440681237000, 
@@ -1383,7 +1318,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 
@@ -1423,7 +1358,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1440425244000, 
@@ -1749,6 +1684,33 @@
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1437823706000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytnbkc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "tjxljlytnbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night - Exploring Android Studio Talk!", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1440986511000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbdb/", 
@@ -1900,7 +1862,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 

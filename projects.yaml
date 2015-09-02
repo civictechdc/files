@@ -664,8 +664,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0,
-    6, 0, 2]
+    1, 0, 4, 0, 0, 5, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0,
+    6, 2, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 20,
@@ -1316,7 +1316,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/13546551?v=3', name: tech-meetup-website,
     type: Organization, url: 'https://github.com/tech-meetup-website'}
   pushed_at: '2015-08-25T23:26:01Z'
-  size: 0
+  size: 106
   updated_at: '2015-08-27T20:33:32Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
