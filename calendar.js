@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1427389123000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1438791348000, 
@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1417881835000, 
@@ -307,11 +307,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1440534898000, 
-            "description": "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\">GIS in Transit conference</a>, we're inviting conference-goers and local transit nerds to a show &amp; tell of cool mapping projects in the world of transportation. Doors open at <a href=\"http://www.1776.vc/\">1776</a>\u00a0at 6:00 with food and drinks, and the presentations start at 6:30. You do not have to be registered for the conference in order to attend, but please do RSVP via this site.\u00a0</p> <p>Our speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/woolie\">Ian Rees</a>\u00a0and <a href=\"https://twitter.com/drewdaraabrams\">Drew Dara-Abrams</a>\u00a0will tell us about <a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://transit.land/\">Transitland</a> project.</p> <p><br/>\u2022\u00a0Drew Dara-Abrams\u00a0will show us Mapzen's\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> open-source routing service.</p> <p><br/>\u2022 <a href=\"https://twitter.com/kvnweb\">Kevin Webb</a> will discuss\u00a0Conveyal's\u00a0work mapping transport access.</p> <p><br/>\u2022\u00a0<a href=\"http://transit.melindamorang.com/\">Melinda Morang</a> will show\u00a0how <a href=\"http://www.esri.com/\">Esri</a>'s ArcMap is used to analyze\u00a0GTFS data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/thurmSR\">Sara Thurman</a> will debut TransitTally, a visualization of transit\u00a0options based on your location.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jaimemckay1\">Jaime McKay</a> and\u00a0<a href=\"http://mjcaction.com/\">Marcy Jaffe</a> will discuss their efforts to get smaller agencies to provide robust GTFS data for developers.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/mvs202\">Michael Schade</a> will demo\u00a0TransitScreen's\u00a0project to map the world's GTFS data.</p> <p>Thanks to our sponsor\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>\u00a0for the refreshments, our venue host <a href=\"http://www.1776.vc/\">1776</a>, and our co-hosts\u00a0<a href=\"http://transitscreen.com/\">TransitScreen</a> and <a href=\"http://conveyal.com/\">Conveyal</a>.\u00a0</p> <p>If you have a project about mapping transit, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.\u00a0</p>", 
+            "description": "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\">GIS in Transit conference</a>, we're inviting conference-goers and local transit nerds to a show &amp; tell of cool mapping projects in the world of transportation.\u00a0You do not have to be registered for the conference in order to attend, but please do RSVP via this site.</p> <p>Doors open at <a href=\"http://www.1776.vc/\">1776</a>\u00a0at 6:00 with food and drinks. We will have a volunteer in the lobby to let people in at least until 7:00 and hopefully up to 7:30. Afterwards, the security guard is not allowed to let latecomers in the building. The presentations start at 6:30.\u00a0Our speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/woolie\">Ian Rees</a>\u00a0and <a href=\"https://twitter.com/drewdaraabrams\">Drew Dara-Abrams</a>\u00a0will tell us about <a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://transit.land/\">Transitland</a> project.</p> <p><br/>\u2022\u00a0Drew Dara-Abrams\u00a0will show us Mapzen's\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> open-source routing service.</p> <p><br/>\u2022 <a href=\"https://twitter.com/kvnweb\">Kevin Webb</a> will discuss\u00a0Conveyal's\u00a0work mapping transport access.</p> <p><br/>\u2022\u00a0<a href=\"http://transit.melindamorang.com/\">Melinda Morang</a> will show\u00a0how <a href=\"http://www.esri.com/\">Esri</a>'s ArcMap is used to analyze\u00a0GTFS data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/thurmSR\">Sara Thurman</a> will debut TransitTally, a visualization of transit\u00a0options based on your location.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jaimemckay1\">Jaime McKay</a> and\u00a0<a href=\"http://mjcaction.com/\">Marcy Jaffe</a> will discuss their efforts to get smaller agencies to provide robust GTFS data for developers.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/mvs202\">Michael Schade</a> will demo\u00a0TransitScreen's\u00a0project to map the world's GTFS data.</p> <p>Thanks to our sponsor\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>\u00a0for the refreshments, our venue host <a href=\"http://www.1776.vc/\">1776</a>, and our co-hosts\u00a0<a href=\"http://transitscreen.com/\">TransitScreen</a> and <a href=\"http://conveyal.com/\">Conveyal</a>.\u00a0</p> <p>If you have a project about mapping transit, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224881931/", 
             "group": {
                 "created": 1384372275000, 
@@ -331,7 +331,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1441317600000, 
-            "updated": 1441137126000, 
+            "updated": 1441232523000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW", 
@@ -345,8 +345,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 146
+            "waitlist_count": 3, 
+            "yes_rsvp_count": 150
         }, 
         {
             "created": 1441141181000, 
@@ -382,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -475,7 +475,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1438369095000, 
@@ -689,7 +689,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1438791539000, 
@@ -767,7 +767,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 313
+            "yes_rsvp_count": 314
         }, 
         {
             "created": 1439936511000, 
@@ -1151,7 +1151,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
@@ -1318,7 +1318,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1326383071000, 
@@ -1822,7 +1822,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
