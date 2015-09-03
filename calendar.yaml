@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -195,16 +195,16 @@ other:
   id: '224881931'
   maybe_rsvp_count: 0
   name: Mapping Transit
-  rsvp_limit: 150
+  rsvp_limit: 160
   status: upcoming
   time: 1441317600000
-  updated: 1441232523000
+  updated: 1441302215000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW, city: Washington, country: us, id: 24051362,
     lat: 38.904854, lon: -77.034003999999996, name: '1776', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 2
-  yes_rsvp_count: 150
+  waitlist_count: 0
+  yes_rsvp_count: 160
 - created: 1441141181000
   description: "<p><a href=\"https://devfestdc2015.eventbrite.com/\">DevFestDC\_2015</a>\
     \ is around the corner and we are hosting a happy hour for all volunteers, attendees,\
@@ -363,7 +363,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1438369095000
   description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
@@ -748,7 +748,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 314
+  yes_rsvp_count: 315
 - created: 1439936511000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -1160,7 +1160,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1437823706000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1409,7 +1409,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -2086,6 +2086,52 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1441299586000
+  description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
+    \ (UX) is defined as how someone feels about using a product, system, or service.\
+    \ Regardless of what we\u2019re designing -- a website, an Android app, or a toaster--we\
+    \ all strive to make our designs useful, easy to use, and enjoyable to use. But\
+    \ how exactly do we make something useful, easy to use, and enjoyable? How do\
+    \ we know if the target audience is having a good or bad experience? This class\
+    \ will arm you with the essential tips to find those answers.</p> <p>\n\n\n<b>About\
+    \ the Instructor:\_</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/5/a/9/600_441594697.jpeg\"\
+    \ /></p> <p>Jenny is a UX designer with background in UI design, web development,\
+    \ and painting.\_</p> <p>Fascinated with Human-Computer Interaction, how it affects\
+    \ our daily lives, and how interacting with, and building, technology could improve\
+    \ our lives; Jenny's\_passion is\_making software usable, and bridging the gap\
+    \ between clients and users with developers and technology.</p> <p>Jenny is currently\
+    \ consulting\_with agencies, startups and small businesses on awesome digital\
+    \ projects. She\_also writes about UX at\_<a href=\"http://www.uxjenny.com/\"\
+    >www.uxjenny.com</a>.</p> <p><br/><b>Getting there:\_</b></p> <p>Opower is conveniently\
+    \ located at 1515 N Courthouse Rd, Arlington, VA 22201 - one block away from the\
+    \ Courthouse metro stop\_(on the orange and silver line).\_</p> <p>\n\n\n<b>Refund\
+    \ Policy:\_</b></p> <p>Your payment guarantees your seat in the course. If something\
+    \ changes after registration and you cannot attend the course, your seat is yours\
+    \ to sell or give to someone else - just please let us know who! \_As a rule we\
+    \ don't offer refunds or credits; \_Instead your class fee will go toward our\
+    \ chapter fund which we will use to establish a scholarship fund going forward.\
+    \ \_ That said, please do reach out and let us know if you have extenuating circumstances.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/225096237/
+  fee: {accepts: cash, amount: 24, currency: USD, description: per person, label: Price,
+    required: '1'}
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
+    who: Nerdettes}
+  headcount: 0
+  id: '225096237'
+  maybe_rsvp_count: 0
+  name: Intro to UX
+  rsvp_limit: 19
+  status: upcoming
+  time: 1446764400000
+  updated: 1441299586000
+  utc_offset: -18000000
+  venue: {address_1: 1515 N Courthouse Rd, city: Arlington, country: US, id: 22030482,
+    lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
