@@ -155,161 +155,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1440705572000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome! We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224930600/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "224930600", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Study Group - Beginner's Night!", 
-            "status": "upcoming", 
-            "time": 1441233000000, 
-            "updated": 1440986481000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1 Thomas Cir NW", 
-                "city": "Washington, 20005", 
-                "country": "us", 
-                "id": 23992270, 
-                "lat": 38.905330999999997, 
-                "lon": -77.032798999999997, 
-                "name": "TrackMaven", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 34
-        }, 
-        {
-            "created": 1438791348000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224426019/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "224426019", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1441233000000, 
-            "updated": 1440986454000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><b>What You'll Hear About</b></p> <p>R is a reliable and versatile tool for data munging. Unfortunately, base R data load and transform processes are slow for larger data sets.</p> <p>To alleviate this problem, the contributors to the data.table package in R have rewritten many data flow tools in C, with dramatic speed gains. Moreover, data.table can often do with one line what base-R users would require a page of code for. This has come at the cost of a rather demanding coding syntax.\u00a0</p> <p>During this talk, I will try to partially demystify data.table by going over a limited basic set of data.table operations, benchmarking against base-R as I go. For even larger data.sets, using R for ETL becomes unwieldly, so, time allowing, I will also attempt to demonstrate a few basic uses of Pentaho's PDI toolset.</p> <p><b>About Our Speaker</b></p> <p>Serban Tanasa is a managing director of Sunstone Science, a new innovative Business Intelligence and Analytics startup in the DC Metro Area.</p> <p>A migrant from the world of academia and international development, he is also serving as the director of analytics and research at CSBS, where he is currently building a BI solution from the ground up.</p> <p>Serban's hard at work bridging the gap between traditional Business Intelligence and the new wave of analytics-heavy methods surrounding Big Data.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100069/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclytmbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Blazing Fast Data Load and Transform with R's data.table and Pentaho's PDI", 
-            "status": "upcoming", 
-            "time": 1441233000000, 
-            "updated": 1438906465000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 156
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>Following up on GeoDC August's intern edition, September's meetup is all about teaching and mentoring in geo. Learn how others in the DC geo community are teaching and learning, approaching new problems and audiences, and growing a new generation of mappers.</p> <p>Courtney Claessens and\u00a0Brian Davidson will give the latest news from #Maptime, share stats on the community's explosive growth, and talk about how to get involved locally.</p> <p><br/>Jess Garson from the National Education Association will share her experience organizing Tech Lady Hackathons and the importance of fostering supportive environments for women and other groups traditionally underrepresented in geo and coding generally.</p> <p><br/>Mapbox's Carol Hansen will discuss how Mapbox teaches internally, cross-pollinating between various teams, using open communications and developer logs (devlogs) to break down complex topics for any audience, including her work on a Landsat 8 imagery pipeline.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/221052553/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcytmbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "GeoDC September: Teaching and Mentoring Geo", 
-            "status": "upcoming", 
-            "time": 1441234800000, 
-            "updated": 1441041997000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1610 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 66
-        }, 
-        {
             "created": 1440534898000, 
             "description": "<p>In conjunction with the <a href=\"http://2015gisintransitconference.sched.org/\">GIS in Transit conference</a>, we're inviting conference-goers and local transit nerds to a show &amp; tell of cool mapping projects in the world of transportation.\u00a0You do not have to be registered for the conference in order to attend, but please do RSVP via this site.</p> <p>Doors open at <a href=\"http://www.1776.vc/\">1776</a>\u00a0at 6:00 with food and drinks. We will have a volunteer in the lobby to let people in at least until 7:00 and hopefully up to 7:30. Afterwards, the security guard is not allowed to let latecomers in the building. The presentations start at 6:30.\u00a0Our speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/woolie\">Ian Rees</a>\u00a0and <a href=\"https://twitter.com/drewdaraabrams\">Drew Dara-Abrams</a>\u00a0will tell us about <a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://transit.land/\">Transitland</a> project.</p> <p><br/>\u2022\u00a0Drew Dara-Abrams\u00a0will show us Mapzen's\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> open-source routing service.</p> <p><br/>\u2022 <a href=\"https://twitter.com/kvnweb\">Kevin Webb</a> will discuss\u00a0Conveyal's\u00a0work mapping transport access.</p> <p><br/>\u2022\u00a0<a href=\"http://transit.melindamorang.com/\">Melinda Morang</a> will show\u00a0how <a href=\"http://www.esri.com/\">Esri</a>'s ArcMap is used to analyze\u00a0GTFS data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/thurmSR\">Sara Thurman</a> will debut TransitTally, a visualization of transit\u00a0options based on your location.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jaimemckay1\">Jaime McKay</a> and\u00a0<a href=\"http://mjcaction.com/\">Marcy Jaffe</a> will discuss their efforts to get smaller agencies to provide robust GTFS data for developers.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/mvs202\">Michael Schade</a> will demo\u00a0TransitScreen's\u00a0project to map the world's GTFS data.</p> <p>Thanks to our sponsor\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>\u00a0for the refreshments, our venue host <a href=\"http://www.1776.vc/\">1776</a>, and our co-hosts\u00a0<a href=\"http://transitscreen.com/\">TransitScreen</a> and <a href=\"http://conveyal.com/\">Conveyal</a>.\u00a0</p> <p>If you have a project about mapping transit, contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/224881931/", 
@@ -345,7 +190,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 150
         }, 
         {
@@ -382,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1427088126000, 
@@ -436,7 +281,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1438791464000, 
@@ -727,7 +572,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1440079801000, 
@@ -1748,6 +1593,33 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1437823706000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytpbfb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "tjxljlytpbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night - Exploring Android Studio Talk!", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1446593400000, 
+            "updated": 1440986511000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1440087572000, 
             "description": "<p><b>Please only RSVP if you're certain you will be able to make all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\u00a0</b></p> <p>\n\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1000/pp for three days, but Elixir Mastery is offering GDI DC three free tickets. If you are certain you will be able to make all three days, RSVP and you will be shown a discount code. Please go to the <a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>\u00a0and enter your discount code to claim the discount within 48 hours. If the code is not claimed in that time frame we will need to pass it along to another GDI DC member.\u00a0</p> <p>\n\n\n\n<b>About Elixir</b></p> <p><br/>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p><br/>More information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p><br/><b><br/></b></p> <p><b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://www.elixirmastery.com/\">event registration page</a>. We have scholarships for the first three members that RSVP, making the course free of charge.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0If you are unable to RSVP it is because the three scholarships have been claimed.</p>", 
             "duration": 201600000, 
@@ -1900,6 +1772,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1437823706000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytpbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "tjxljlytpbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night - Exploring Android Studio Talk!", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1447198200000, 
+            "updated": 1440986511000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 
