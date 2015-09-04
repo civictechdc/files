@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1427389123000, 
@@ -74,7 +74,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427389147000, 
@@ -191,7 +191,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 160
+            "yes_rsvp_count": 159
         }, 
         {
             "created": 1441141181000, 
@@ -227,7 +227,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -254,7 +254,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1424968249000, 
@@ -281,7 +281,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1438791464000, 
@@ -320,7 +320,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1438369095000, 
@@ -425,7 +425,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1424968249000, 
@@ -612,11 +612,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 315
+            "yes_rsvp_count": 318
         }, 
         {
             "created": 1439936511000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us in September for DC Legal Hackers' Telecom Data Hackathon</p> <p>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments w\u00a0<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>, etc.</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a>.</p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\u00a0</p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p> <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><img src=\"https://commotionwireless.net/files/OTI-Institute-CMYK%20%5BConverted%5D-01.png\" /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology Institute</a> in September for a Telecom Data Hackathon.</p> <p><br/>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments w\u00a0<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>, etc.</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a>.</p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\u00a0</p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p> <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/224725896/", 
             "group": {
                 "created": 1372871984000, 
@@ -634,7 +634,7 @@
             "name": "Telecom Data Hackathon", 
             "status": "upcoming", 
             "time": 1442667600000, 
-            "updated": 1441177450000, 
+            "updated": 1441317737000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -651,7 +651,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1440421299000, 
@@ -690,7 +690,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1440681237000, 
@@ -869,6 +869,43 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1441308071000, 
+            "description": "<p>This month we'll be learning how to use QGIS, an open source GIS software. In order to make the meetup roll smoother, please have QGIS installed on your laptop before you arrive! Instructions can be found here:</p> <p>1.\u00a0Head to the official\u00a0<a href=\"http://qgis.com/\">QGIS homepage</a>\u00a0and follow the directions for your respective operating system.</p> <p>2.\u00a0Grab an installer from\u00a0<a href=\"http://boundlessgeo.com/solutions/solutions-software/qgis/qgis-download/\">Boundless</a>. Note that registration is required for this option but they e-mail the install right to you!</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/225100092/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "225100092", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to QGIS", 
+            "status": "upcoming", 
+            "time": 1442961000000, 
+            "updated": 1441308071000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "900 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21261802, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "MLK Library Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1439487723000, 
@@ -1163,7 +1200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1326383071000, 
