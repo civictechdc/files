@@ -157,6 +157,7 @@ calendar({
         {
             "created": 1424968249000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224141219/", 
             "group": {
                 "created": 1395616294000, 
@@ -175,7 +176,7 @@ calendar({
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1441751400000, 
-            "updated": 1437823706000, 
+            "updated": 1441459961000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -511,11 +512,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 328
+            "yes_rsvp_count": 329
         }, 
         {
             "created": 1439936511000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><img src=\"https://commotionwireless.net/files/OTI-Institute-CMYK%20%5BConverted%5D-01.png\" /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology Institute</a> in September for a Telecom Data Hackathon.</p> <p><br/>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments w\u00a0<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>, etc.</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a>.</p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\u00a0</p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p> <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><img src=\"https://commotionwireless.net/files/OTI-Institute-CMYK%20%5BConverted%5D-01.png\" /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology Institute</a> in September for a Telecom Data Hackathon.</p> <p><br/>What's a \"legal hackathon\"?</p> <p>A legal hackathon is an\u00a0event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem (here: Telecom Data) for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking.\u00a0During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their \"legal hacks.\"\u00a0</p> <p>What will be \"hacked\" on?</p> <p>- FCC\u00a0Notice and Comment:\u00a0Visualization of Orders and other agency docs,\u00a0<a href=\"https://github.com/dclegalhackers/ecfs\">ECFS (APIs, UI)</a>, analyzing\u00a0lots of comments w\u00a0<a href=\"https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/\">Natural Language Processing</a>, etc.</p> <p>- <a href=\"http://www.meetup.com/DCLegalHackers/events/142945462/\">Mapping broadband</a>.</p> <p>- <a href=\"http://www.measurementlab.net/\">Measurement Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else! If you're generally interested in legal hacking, but not in legal citations, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>SCHEDULE:\u00a0</p> <p>9:00 am: Arrive and Breakfast</p> <p>10:00 am:\u00a0Welcome &amp; Intro of events</p> <p>10:15 am: Lightning Talks \u00a0</p> <p>11:00 am: Problem Statements &amp;\u00a0Brainstorming Sessions</p> <p>12:00 pm: Lunch</p> <p>1:00 pm: Hacking</p> <p>4:30 pm: Sharing! &amp; Closing Remarks, Better Telecom Data</p> <p>5:00 pm: Happy Hour</p> <p><br/>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #TelecomHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/224725896/", 
             "group": {
                 "created": 1372871984000, 
@@ -530,10 +531,10 @@ calendar({
             "headcount": 0, 
             "id": "224725896", 
             "maybe_rsvp_count": 0, 
-            "name": "Telecom Data Hackathon", 
+            "name": "Telecom Data Hackathon #TelecomHack #LegalHack", 
             "status": "upcoming", 
             "time": 1442667600000, 
-            "updated": 1441317737000, 
+            "updated": 1441473071000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1899 L Street NW ", 
@@ -804,7 +805,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1439487723000, 
@@ -1242,7 +1243,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1437823706000, 

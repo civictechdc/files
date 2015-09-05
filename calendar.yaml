@@ -180,6 +180,7 @@ other:
     \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
     \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
     http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/224141219/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -191,7 +192,7 @@ other:
   rsvp_limit: 30
   status: upcoming
   time: 1441751400000
-  updated: 1437823706000
+  updated: 1441459961000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -643,7 +644,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 328
+  yes_rsvp_count: 329
 - created: 1439936511000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
     https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
@@ -671,12 +672,13 @@ other:
     \ Lab</a> Design Challenge and Net Neutrality Metrics.</p> <p>- Anything else!\
     \ If you're generally interested in legal hacking, but not in legal citations,\
     \ please attend! We're happy to facilitate collaboration between lawyers and coders.</p>\
-    \ <p>SCHEDULE:\_</p> <p>9 Arrive &amp; Breakfast</p> <p>10-10:30 Intros / Ignite\
-    \ talks from experts (FCC, Open Technology Institute, the Sunlight Foundation)\_\
-    </p> <p>11 - 12 Breakouts</p> <p>12 - 12:30 Lunch</p> <p>4 Accomplishments</p>\
-    \ <p>5 Happy Hour, pats on the back, better Telecom Data</p> <p>* * * * * * *\
-    \ *</p> <p>Follow along on twitter with the hashtag #LegalHack or at\_<a href=\"\
-    http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>"
+    \ <p>SCHEDULE:\_</p> <p>9:00 am: Arrive and Breakfast</p> <p>10:00 am:\_Welcome\
+    \ &amp; Intro of events</p> <p>10:15 am: Lightning Talks \_</p> <p>11:00 am: Problem\
+    \ Statements &amp;\_Brainstorming Sessions</p> <p>12:00 pm: Lunch</p> <p>1:00\
+    \ pm: Hacking</p> <p>4:30 pm: Sharing! &amp; Closing Remarks, Better Telecom Data</p>\
+    \ <p>5:00 pm: Happy Hour</p> <p><br/>* * * * * * * *</p> <p>Follow along on twitter\
+    \ with the hashtag #TelecomHack or at\_<a href=\"http://www.twitter.com/DCLegalHackers\"\
+    >www.twitter.com/DCLegalHackers</a></p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/224725896/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
@@ -684,10 +686,10 @@ other:
   headcount: 0
   id: '224725896'
   maybe_rsvp_count: 0
-  name: Telecom Data Hackathon
+  name: 'Telecom Data Hackathon #TelecomHack #LegalHack'
   status: upcoming
   time: 1442667600000
-  updated: 1441317737000
+  updated: 1441473071000
   utc_offset: -14400000
   venue: {address_1: '1899 L Street NW ', address_2: Suite 400, city: Washington,
     country: us, id: 1330329, lat: 38.903917, lon: -77.043056000000007, name: New
@@ -953,7 +955,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1513,7 +1515,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1437823706000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
