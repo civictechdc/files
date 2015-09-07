@@ -219,7 +219,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1438369095000, 
@@ -551,7 +551,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1440421299000, 
@@ -696,6 +696,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1441578117000, 
+            "description": "<p>Data Science is not just about Web analytics and academic papers. Come hear about how Data Science can be used for your own hobbies!\u00a0</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Building a Magic: The Gathering card game recommendation engine - Don Miner</i></p> <p>8:30 PM -- Post event drinks</p> <p><b>Location</b></p> <p><a href=\"http://gamesandstuffonline.com/\">Games and Stuff</a>\u00a0opened its doors in 2000, intent on providing game enthusiasts in central Maryland with a place to immerse themselves in their hobby.\u00a0</p> <p>7385 Baltimore Annapolis Blvd, Glen Burnie, MD 21061</p> <p><b>Talks</b></p> <p><b>Building a Magic: The Gathering card game recommendation engine and using data science on data about hobbies<br/></b></p> <p>In this talk, Don will give an overview of\u00a0<a href=\"http://edhrec.com/\">edhrec.com</a>, a service that provides recommendations for a specific style of play in the Magic: The Gathering trading card game called Commander. The service takes user-created \"decks\", saves them in a database, and then provides recommendations on what other cards that user should be using in their deck. The website has been around for about a year and is visited by over 50,000 players a month as of September 2015.</p> <p>The talk is geared towards people that don't know anything about Magic or Commander, however, and most of the time will be spent discussing:<br/>the methods and approaches used, specifically recommendation engines and the common problems when using them in practice lessons learned about human factor of having a data-driven service that targets a passionate hobbyist population that doesn't know much about data science or even computer science the virtues of spending time on analyzing data for seemingly \"toy\" domains</p> <p><br/><b>Speakers</b></p> <p><a href=\"http://twitter.com/donaldpminer\">Donald Miner</a> is founder of the data science firm Miner &amp; Kasch and specializes in Hadoop enterprise architecture and applying machine learning to real-world business problems. Donald is author of the O\u2019Reilly book MapReduce Design Patterns and the upcoming O'Reilly book Enterprise Hadoop. He has architected and implemented dozens of mission-critical and large-scale Hadoop systems within the U.S. Government and Fortune 500 companies. He has applied machine learning techniques to analyze data across several verticals, including financial, retail, telecommunications, health care, government intelligence, and entertainment. His PhD is from the University of Maryland, Baltimore County, where he focused on machine learning and multi-agent systems. He lives in Maryland with his wife and two young sons.</p> <p><br/><b>Company</b></p> <p><a href=\"http://minerkasch.com/\">Miner &amp; Kasch</a> is a Big Data platform architecture and data science consulting firm based in Baltimore, MD. Our consultants have industry-leading expertise across health care, finance, retail, government, energy, and entertainment. Miner &amp; Kasch platform architects provide customers full-stack expertise in technologies across the Big Data ecosystem, including Hadoop, Spark, HBase, Accumulo, Cassandrau, and MPP Databases. Miner &amp; Kasch \u00a0data scientists provide insight into the most difficult questions customers encounter using cutting-edge machine learning, statistics, and data analysis tools.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/225168626/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "225168626", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Science for Hobbies", 
+            "rsvp_limit": 125, 
+            "status": "upcoming", 
+            "time": 1442874600000, 
+            "updated": 1441578134000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "7385 Baltimore Annapolis Blvd", 
+                "city": "Glen Burnie", 
+                "country": "us", 
+                "id": 24076390, 
+                "lat": 39.173656000000001, 
+                "lon": -76.631714000000002, 
+                "name": "Games and Stuff", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1440102483000, 
