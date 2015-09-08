@@ -219,7 +219,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1438369095000, 
@@ -298,7 +298,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1427088126000, 
@@ -512,7 +512,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 335
+            "yes_rsvp_count": 337
         }, 
         {
             "created": 1439936511000, 
@@ -590,7 +590,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1440681237000, 
@@ -630,7 +630,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1438616874000, 
@@ -734,7 +734,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1440102483000, 
@@ -844,7 +844,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1441653193000, 
@@ -1089,43 +1089,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
-        }, 
-        {
-            "created": 1440292935000, 
-            "description": "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\">Eventbrite</a>.\u00a0</b></p> <p>Come to the geekier side of the web world. \u00a0Meet developers, programmers and data gurus - along with the people who manage web projects, wrangle web systems and otherwise run websites.</p> <p>You don't have to be a hard-core geek to join us. \u00a0But you should have a good understanding of how websites work. \u00a0If you've tweaked code, you're meant to be here!</p> <p>We have lots to talk about. \u00a0To make sure we get a good mix, we're inviting a host of web tech experts to mix and mingle with you, including:\u00a0<br/>- Web CMS\u00a0<br/>- Ruby and other web frameworks\u00a0<br/>- Mobile development and administration\u00a0<br/>- Web project management\u00a0<br/>- Website management\u00a0<br/>- APIs and integrating with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p> <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product or company or recruit? Be sure you use the proper registration type. You'll be able to include a link to jobs or a product page in a follow-up message.</p> <p>- If your title doesn't let us know how techie you are - include that info!\u00a0</p> <p>- If you register in the web techie or web manager/technical PM roles, be sure to include details about your organization and position. \u00a0If you aren't sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How Does It Work?</b></p> <p>You'll have a chance to network and mingle with several people in a couple different ways. You'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself and what you are interested in. We'll use this to pre-match you during the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed portion, you can return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.</p> <p><b><i>eXchange</i></b>: More networking! Exchange information with the people you've met.</p> <p><b>Schedule</b></p> <p>6:00 - Check-in</p> <p>6:30 - Structured Networking with drinks &amp; appetizers</p> <p>7:00 - Speed MIX</p> <p>8:30 - Networking (structured and unstructured)</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your product, skills or have a recruiting table, please reach out to\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0for more information.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/224818222/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "224818222", 
-            "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Web Techies and Managers", 
-            "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1440425763000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
         }, 
         {
             "created": 1437823706000, 
@@ -1608,6 +1571,43 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1441688777000, 
+            "description": "<p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "225197304", 
+            "maybe_rsvp_count": 0, 
+            "name": "Making Your Messages Count: Developing Nonprofit Content That Resonates", 
+            "status": "upcoming", 
+            "time": 1445986800000, 
+            "updated": 1441688777000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbdb/", 
@@ -1845,6 +1845,43 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1440292935000, 
+            "description": "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\">Eventbrite</a>.\u00a0</b></p> <p><br/>Come to the geekier side of the web world. \u00a0Meet developers, programmers and data gurus - along with the people who manage web projects, wrangle web systems and otherwise run websites.</p> <p>You don't have to be a hard-core geek to join us. \u00a0But you should have a good understanding of how websites work. \u00a0If you've tweaked code, you're meant to be here!</p> <p>We have lots to talk about. \u00a0To make sure we get a good mix, we're inviting a host of web tech experts to mix and mingle with you, including:\u00a0<br/>- Web CMS\u00a0<br/>- Ruby and other web frameworks\u00a0<br/>- Mobile development and administration\u00a0<br/>- Web project management\u00a0<br/>- Website management\u00a0<br/>- APIs and integrating with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p> <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product or company or recruit? Be sure you use the proper registration type. You'll be able to include a link to jobs or a product page in a follow-up message.</p> <p>- If your title doesn't let us know how techie you are - include that info!\u00a0</p> <p>- If you register in the web techie or web manager/technical PM roles, be sure to include details about your organization and position. \u00a0If you aren't sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How Does It Work?</b></p> <p>You'll have a chance to network and mingle with several people in a couple different ways. You'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself and what you are interested in. We'll use this to pre-match you during the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed portion, you can return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.</p> <p><b><i>eXchange</i></b>: More networking! Exchange information with the people you've met.</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your product, skills or have a recruiting table, please reach out to\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0for more information.\u00a0</p> <p><b>OUR SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><a href=\"http://www.teksystems.com\"><b>TEKsystems</b></a><br/>Creative Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p> <p><a href=\"http://www.sutter-group.com\">The Sutter Group</a><br/>Creative Marketing &amp; Web Design Agency</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\" /></p> <p><a href=\"http://www.fireflypartners.com\">Firefly Partners</a><br/>Creative Problem Solvers. \u00a0Nonprofit Experts. \u00a0Website Design, Custom Development &amp; Training</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/224818222/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "224818222", 
+            "maybe_rsvp_count": 0, 
+            "name": "Speed MIX: Web Techies and Managers", 
+            "status": "upcoming", 
+            "time": 1447111800000, 
+            "updated": 1441694550000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th St NW (8th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 20421012, 
+                "lat": 38.904854, 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776 (8th Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
+        }, 
+        {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbvb/", 
@@ -1995,7 +2032,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\">Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri will demonstrate how we can use DSS's powerful tools to create a complete workflow from raw data to training models in 1h.</p> <p>We will start by scraping data science related job listings in Washington DC. Then, we will download all of the company reviews and try to make sense of where is the best place to work by cleaning and parsing raw html, and ultimately performing unsupervised learning to see what topics come up!\u00a0</p> <p>Finally we will use DSS's insight tool to create a web app using flask, html and javascript to explore the results.</p> <p><br/><b>Our Speaker</b></p> <p>Henri Dwyer is a data scientist and engineer working at Dataiku on building the best platform for data scientists. He received an MSc in Engineering from Columbia University in New York City, and a BS and an Ms in Engineering from Ecole Polytechnique in Paris. He now lives in Brooklyn, and is always keen on discovering new data science problems to solve.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100075/", 
             "group": {
@@ -2011,10 +2048,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclytqbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "December Meetup", 
+            "name": "Easy Data Wrangling with DSS: From Scraping HTML To Unsupervised Learning in 1h", 
             "status": "upcoming", 
             "time": 1449099000000, 
-            "updated": 1437070421000, 
+            "updated": 1441708434000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -2030,7 +2067,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 

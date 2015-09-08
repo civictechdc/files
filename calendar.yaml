@@ -247,7 +247,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1438369095000
   description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
@@ -321,7 +321,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 36
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -644,7 +644,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 335
+  yes_rsvp_count: 337
 - created: 1439936511000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
     \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
@@ -711,7 +711,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -741,7 +741,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1438616874000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -885,7 +885,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1005,7 +1005,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 56
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1349,60 +1349,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
-- created: 1440292935000
-  description: "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\"\
-    >Eventbrite</a>.\_</b></p> <p>Come to the geekier side of the web world. \_Meet\
-    \ developers, programmers and data gurus - along with the people who manage web\
-    \ projects, wrangle web systems and otherwise run websites.</p> <p>You don't have\
-    \ to be a hard-core geek to join us. \_But you should have a good understanding\
-    \ of how websites work. \_If you've tweaked code, you're meant to be here!</p>\
-    \ <p>We have lots to talk about. \_To make sure we get a good mix, we're inviting\
-    \ a host of web tech experts to mix and mingle with you, including:\_<br/>- Web\
-    \ CMS\_<br/>- Ruby and other web frameworks\_<br/>- Mobile development and administration\_\
-    <br/>- Web project management\_<br/>- Website management\_<br/>- APIs and integrating\
-    \ with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p>\
-    \ <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product\
-    \ or company or recruit? Be sure you use the proper registration type. You'll\
-    \ be able to include a link to jobs or a product page in a follow-up message.</p>\
-    \ <p>- If your title doesn't let us know how techie you are - include that info!\_\
-    </p> <p>- If you register in the web techie or web manager/technical PM roles,\
-    \ be sure to include details about your organization and position. \_If you aren't\
-    \ sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking\
-    \ for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How\
-    \ Does It Work?</b></p> <p>You'll have a chance to network and mingle with several\
-    \ people in a couple different ways. You'll mingle (M), interact (I) and exchange\
-    \ information (X).\_</p> <p>Before the event, you'll provide information about\
-    \ yourself and what you are interested in. We'll use this to pre-match you during\
-    \ the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have\
-    \ a short structured networking portion where we organize tables based on topic\
-    \ and you can self-select which table to join. After the Speed portion, you can\
-    \ return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX\
-    \ - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based\
-    \ on information you provide.</p> <p><b><i>eXchange</i></b>: More networking!\
-    \ Exchange information with the people you've met.</p> <p><b>Schedule</b></p>\
-    \ <p>6:00 - Check-in</p> <p>6:30 - Structured Networking with drinks &amp; appetizers</p>\
-    \ <p>7:00 - Speed MIX</p> <p>8:30 - Networking (structured and unstructured)</p>\
-    \ <p><b>Sponsorship</b></p> <p>If you want to highlight your product, skills or\
-    \ have a recruiting table, please reach out to\_<a href=\"mailto:[masked]\">[masked]</a>\_\
-    for more information.\_</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/224818222/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '224818222'
-  maybe_rsvp_count: 0
-  name: 'Speed MIX: Web Techies and Managers'
-  status: upcoming
-  time: 1444084200000
-  updated: 1440425763000
-  utc_offset: -14400000
-  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
-    lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 16
 - created: 1437823706000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -2033,6 +1979,44 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1441688777000
+  description: "<p>In the world of nonprofit marketing there is a tendency to create\
+    \ content as though the audience is us. As though the folks reading our blogs\
+    \ and following our accounts have the same nuanced understanding of a given issue\
+    \ as those working full time on it. This can severely limit your audience. Non-profits\
+    \ can avoid this common pitfall and make content that is compelling to a wider\
+    \ audience by borrowing some basic research methods and formal work processes\
+    \ from the field of advertising account planning. Those methods and work processes\
+    \ will be the focus of this talk.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brad Perry,\
+    \ Director of Strategy, Create Digital</b></p> <p>After briefly attempting to\
+    \ become a journalist, I detoured to a graduate degree in social psychology and\
+    \ a career in gender-based violence prevention and communications at a non-profit.\
+    \ Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding\
+    \ on the Interwebz. I am currently Director of Strategy at Create Digital where\
+    \ I've helped develop several award-winning digital campaigns, including the Play\
+    \ Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign\
+    \ 2014\" from the Online Media &amp; Marketing Association. I am a husband, a\
+    \ proud papa, and currently serve on the national board of the non-profit organization,\
+    \ Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as\
+    \ a Woman\" video.\_</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/225197304/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '225197304'
+  maybe_rsvp_count: 0
+  name: 'Making Your Messages Count: Developing Nonprofit Content That Resonates'
+  status: upcoming
+  time: 1445986800000
+  updated: 1441688777000
+  utc_offset: -14400000
+  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
+    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
+      Hub, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -2250,6 +2234,68 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1440292935000
+  description: "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\"\
+    >Eventbrite</a>.\_</b></p> <p><br/>Come to the geekier side of the web world.\
+    \ \_Meet developers, programmers and data gurus - along with the people who manage\
+    \ web projects, wrangle web systems and otherwise run websites.</p> <p>You don't\
+    \ have to be a hard-core geek to join us. \_But you should have a good understanding\
+    \ of how websites work. \_If you've tweaked code, you're meant to be here!</p>\
+    \ <p>We have lots to talk about. \_To make sure we get a good mix, we're inviting\
+    \ a host of web tech experts to mix and mingle with you, including:\_<br/>- Web\
+    \ CMS\_<br/>- Ruby and other web frameworks\_<br/>- Mobile development and administration\_\
+    <br/>- Web project management\_<br/>- Website management\_<br/>- APIs and integrating\
+    \ with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p>\
+    \ <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product\
+    \ or company or recruit? Be sure you use the proper registration type. You'll\
+    \ be able to include a link to jobs or a product page in a follow-up message.</p>\
+    \ <p>- If your title doesn't let us know how techie you are - include that info!\_\
+    </p> <p>- If you register in the web techie or web manager/technical PM roles,\
+    \ be sure to include details about your organization and position. \_If you aren't\
+    \ sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking\
+    \ for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How\
+    \ Does It Work?</b></p> <p>You'll have a chance to network and mingle with several\
+    \ people in a couple different ways. You'll mingle (M), interact (I) and exchange\
+    \ information (X).\_</p> <p>Before the event, you'll provide information about\
+    \ yourself and what you are interested in. We'll use this to pre-match you during\
+    \ the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have\
+    \ a short structured networking portion where we organize tables based on topic\
+    \ and you can self-select which table to join. After the Speed portion, you can\
+    \ return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX\
+    \ - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based\
+    \ on information you provide.</p> <p><b><i>eXchange</i></b>: More networking!\
+    \ Exchange information with the people you've met.</p> <p><b>Schedule</b></p>\
+    \ <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00\
+    \ - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p><b>Sponsorship</b></p>\
+    \ <p>If you want to highlight your product, skills or have a recruiting table,\
+    \ please reach out to\_<a href=\"mailto:[masked]\">[masked]</a>\_for more information.\_\
+    </p> <p><b>OUR SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\"\
+    \ /></p> <p><a href=\"http://www.teksystems.com\"><b>TEKsystems</b></a><br/>Creative\
+    \ Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p><img src=\"\
+    http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p>\
+    \ <p><a href=\"http://www.sutter-group.com\">The Sutter Group</a><br/>Creative\
+    \ Marketing &amp; Web Design Agency</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\"\
+    \ /></p> <p><a href=\"http://www.fireflypartners.com\">Firefly Partners</a><br/>Creative\
+    \ Problem Solvers. \_Nonprofit Experts. \_Website Design, Custom Development &amp;\
+    \ Training</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/224818222/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '224818222'
+  maybe_rsvp_count: 0
+  name: 'Speed MIX: Web Techies and Managers'
+  status: upcoming
+  time: 1447111800000
+  updated: 1441694550000
+  utc_offset: -18000000
+  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
+    lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -2391,8 +2437,20 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 1
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
+    >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
+    \ will demonstrate how we can use DSS's powerful tools to create a complete workflow\
+    \ from raw data to training models in 1h.</p> <p>We will start by scraping data\
+    \ science related job listings in Washington DC. Then, we will download all of\
+    \ the company reviews and try to make sense of where is the best place to work\
+    \ by cleaning and parsing raw html, and ultimately performing unsupervised learning\
+    \ to see what topics come up!\_</p> <p>Finally we will use DSS's insight tool\
+    \ to create a web app using flask, html and javascript to explore the results.</p>\
+    \ <p><br/><b>Our Speaker</b></p> <p>Henri Dwyer is a data scientist and engineer\
+    \ working at Dataiku on building the best platform for data scientists. He received\
+    \ an MSc in Engineering from Columbia University in New York City, and a BS and\
+    \ an Ms in Engineering from Ecole Polytechnique in Paris. He now lives in Brooklyn,\
+    \ and is always keen on discovering new data science problems to solve.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100075/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -2401,17 +2459,18 @@ other:
   headcount: 0
   id: hffzclytqbdb
   maybe_rsvp_count: 0
-  name: December Meetup
+  name: 'Easy Data Wrangling with DSS: From Scraping HTML To Unsupervised Learning
+    in 1h'
   status: upcoming
   time: 1449099000000
-  updated: 1437070421000
+  updated: 1441708434000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
