@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -196,7 +196,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1438791464000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -247,7 +247,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1438369095000
   description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
@@ -321,7 +321,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -361,11 +361,14 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1442269800000
-  updated: 1432846440000
+  updated: 1441755004000
   utc_offset: -14400000
+  venue: {address_1: 641 S St NW, address_2: Floor 1, city: Washington, country: us,
+    id: 9483992, lat: 38.914549999999998, lon: -77.021095000000003, name: iStrategyLabs,
+    repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1424968249000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -396,13 +399,13 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytmbtb
+  id: bqlpklytmbtb
   maybe_rsvp_count: 0
   name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1442356200000
-  updated: 1437823706000
+  updated: 1441756224000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -539,7 +542,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 58
 - created: 1438791539000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -590,7 +593,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1440079801000
   description: "<p>For our September meetup we're honored to welcome <b>Dr. Hadley\
     \ Wickham</b> (@hadleywickham), the author of several highly used packages in\
@@ -644,7 +647,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 341
+  yes_rsvp_count: 350
 - created: 1439936511000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
     \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
@@ -681,7 +684,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -711,7 +714,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -816,11 +819,14 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1442874600000
-  updated: 1432846440000
+  updated: 1441755095000
   utc_offset: -14400000
+  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
+    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -885,7 +891,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -969,17 +975,17 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytmbdc
+  id: bqlpklytmbdc
   maybe_rsvp_count: 0
   name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1442961000000
-  updated: 1437823706000
+  updated: 1441756225000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 1
 - created: 1441308071000
   description: "<p>This month we'll be learning how to use QGIS, an open source GIS\
     \ software. In order to make the meetup roll smoother, please have QGIS installed\
@@ -1005,7 +1011,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 64
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1126,8 +1132,11 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1443479400000
-  updated: 1432846440000
+  updated: 1441755113000
   utc_offset: -14400000
+  venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
+    id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
+      Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
@@ -1197,36 +1206,36 @@ other:
     \ of Android experience (including none), but coding experience *is*preferred\
     \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
     \ bring your laptop to this event as computers will not be provided.***</b></p>\
-    \ <p><b>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\_\
-    group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p>\
-    \ <p>We will set up stations according to level of experience and provide you\
-    \ with recommended resources to work through as a group. \_You will be able to\
-    \ ask your fellow coders questions and help each other work through issues. \_\
-    We encourage any advanced Android developers and enthusiasts to come and help\
-    \ others! \_There will also be at least one mentor present to help you with best\
-    \ practices or guide you if you are stuck with a problem! \_</p> <p><b>Building\
-    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
-    \ to let people in instead of relying on their security staff. \_ Please respect\
-    \ the policy in case the location requires access to the building. \_To gain access,\
-    \ contact the group lead if information is provided or drop a comment on the meetup\
-    \ page. We'll come get you.\_</p> <p><b>Resources</b></p> <p>Beginners should\
-    \ check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
     >Android Getting Started Guide</a>. \_It's chock full of information to get you\
     \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
     \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/225009102/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytmbmc
+  id: bqlpklytmbmc
   maybe_rsvp_count: 0
-  name: Android Hack Night - Exploring Android Studio Talk!
+  name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1443565800000
-  updated: 1440986511000
+  updated: 1441756225000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -1351,8 +1360,11 @@ other:
   name: Front End Hack Night
   status: upcoming
   time: 1444084200000
-  updated: 1432846440000
+  updated: 1441755138000
   utc_offset: -14400000
+  venue: {address_1: '700 6th Street, NW, #410', city: Washington, country: us, id: 23283742,
+    lat: 38.898994000000002, lon: -77.020294000000007, name: Social Tables, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
@@ -1411,43 +1423,43 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 17
-- created: 1437823706000
+- created: 1441756224000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
     \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
     \ of Android experience (including none), but coding experience *is*preferred\
     \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
     \ bring your laptop to this event as computers will not be provided.***</b></p>\
-    \ <p><b>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\_\
-    group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p>\
-    \ <p>We will set up stations according to level of experience and provide you\
-    \ with recommended resources to work through as a group. \_You will be able to\
-    \ ask your fellow coders questions and help each other work through issues. \_\
-    We encourage any advanced Android developers and enthusiasts to come and help\
-    \ others! \_There will also be at least one mentor present to help you with best\
-    \ practices or guide you if you are stuck with a problem! \_</p> <p><b>Building\
-    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
-    \ to let people in instead of relying on their security staff. \_ Please respect\
-    \ the policy in case the location requires access to the building. \_To gain access,\
-    \ contact the group lead if information is provided or drop a comment on the meetup\
-    \ page. We'll come get you.\_</p> <p><b>Resources</b></p> <p>Beginners should\
-    \ check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
     >Android Getting Started Guide</a>. \_It's chock full of information to get you\
     \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
     \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytnbjb/
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbjb/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytnbjb
+  id: bqlpklytnbjb
   maybe_rsvp_count: 0
-  name: Android Hack Night - Exploring Android Studio Talk!
+  name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1444170600000
-  updated: 1440986511000
+  updated: 1441756224000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -1533,7 +1545,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 81
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1555,7 +1567,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1440425244000
   description: "<p><i><b>You must RSVP through Event Brite at the link below to sign\
     \ up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p>\
@@ -1715,43 +1727,43 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
-- created: 1437823706000
+- created: 1441756224000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
     \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
     \ of Android experience (including none), but coding experience *is*preferred\
     \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
     \ bring your laptop to this event as computers will not be provided.***</b></p>\
-    \ <p><b>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\_\
-    group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p>\
-    \ <p>We will set up stations according to level of experience and provide you\
-    \ with recommended resources to work through as a group. \_You will be able to\
-    \ ask your fellow coders questions and help each other work through issues. \_\
-    We encourage any advanced Android developers and enthusiasts to come and help\
-    \ others! \_There will also be at least one mentor present to help you with best\
-    \ practices or guide you if you are stuck with a problem! \_</p> <p><b>Building\
-    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
-    \ to let people in instead of relying on their security staff. \_ Please respect\
-    \ the policy in case the location requires access to the building. \_To gain access,\
-    \ contact the group lead if information is provided or drop a comment on the meetup\
-    \ page. We'll come get you.\_</p> <p><b>Resources</b></p> <p>Beginners should\
-    \ check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
     >Android Getting Started Guide</a>. \_It's chock full of information to get you\
     \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
     \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytnbrb/
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbrb/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytnbrb
+  id: bqlpklytnbrb
   maybe_rsvp_count: 0
-  name: Android Hack Night - Exploring Android Studio Talk!
+  name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1444775400000
-  updated: 1440986511000
+  updated: 1441756224000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -1919,43 +1931,43 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
-- created: 1437823706000
+- created: 1441756224000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
     \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
     \ of Android experience (including none), but coding experience *is*preferred\
     \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
     \ bring your laptop to this event as computers will not be provided.***</b></p>\
-    \ <p><b>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\_\
-    group to talk about all things Android!<br/></b></p> <p><b>Meetup Format</b></p>\
-    \ <p>We will set up stations according to level of experience and provide you\
-    \ with recommended resources to work through as a group. \_You will be able to\
-    \ ask your fellow coders questions and help each other work through issues. \_\
-    We encourage any advanced Android developers and enthusiasts to come and help\
-    \ others! \_There will also be at least one mentor present to help you with best\
-    \ practices or guide you if you are stuck with a problem! \_</p> <p><b>Building\
-    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
-    \ to let people in instead of relying on their security staff. \_ Please respect\
-    \ the policy in case the location requires access to the building. \_To gain access,\
-    \ contact the group lead if information is provided or drop a comment on the meetup\
-    \ page. We'll come get you.\_</p> <p><b>Resources</b></p> <p>Beginners should\
-    \ check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
     >Android Getting Started Guide</a>. \_It's chock full of information to get you\
     \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
     \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/tjxljlytnbbc/
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbbc/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: tjxljlytnbbc
+  id: bqlpklytnbbc
   maybe_rsvp_count: 0
-  name: Android Hack Night - Exploring Android Studio Talk!
+  name: Android Hack Night
   rsvp_limit: 30
   status: upcoming
   time: 1445380200000
-  updated: 1440986511000
+  updated: 1441756224000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
