@@ -340,7 +340,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 30
+  forks: 32
   help_wanted:
   - assignee: null
     body: ''
@@ -668,7 +668,7 @@
     2, 1, 1]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 22,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 24,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
@@ -684,16 +684,16 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 28242]
-  - [HTML, 320]
+  - [JavaScript, 30935]
   - [CSS, 272]
+  - [HTML, 234]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-07T21:57:43Z'
+  pushed_at: '2015-09-09T22:41:09Z'
   size: 26560
   updated_at: '2015-08-04T19:20:58Z'
   watchers: 10
@@ -1104,9 +1104,9 @@
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
       \ site and host on your github pages. We will then use the link of your github\
       \ pages to be used as the link references as \"espanol\"."
-    comments: 3
+    comments: 5
     created_at: '2015-07-31T00:10:04Z'
-    issue: Create a spanish version of the site. Should only take 30 minutes
+    issue: Add an internalization feature so that site can be used in espanol.
     issue_url: https://github.com/codefordc/clean-slate/issues/106
     labels:
     - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/enhancement'}
@@ -1114,10 +1114,10 @@
     - {color: 006b75, name: 'Priority #2', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-07-31T03:51:38Z'
+    updated_at: '2015-09-09T20:30:41Z'
   - assignee: null
     body: '@John Leszczynski'
-    comments: 1
+    comments: 2
     created_at: '2015-07-09T19:08:42Z'
     issue: ' whether or not we can move the json file into a spreadsheet so that it
       will be easier for the legal partner to edit and update questions.'
@@ -1128,14 +1128,14 @@
     - {color: d4c5f9, name: 'Priority #3', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%233'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-07-10T20:38:54Z'
+    updated_at: '2015-09-09T23:37:24Z'
   - assignee: null
     body: 'Anyone willing to Add in popup legal glossary using this: http://openadvocate.org/readclearly/?
       ReadClearly identifies complex legal terms on your website and displays a plain
       language explanation.'
-    comments: 12
+    comments: 13
     created_at: '2015-07-09T18:59:39Z'
-    issue: Add in our defintions to the popup legal glossary
+    issue: 'Simplify our definitions. Many words on the site are not defined simply. '
     issue_url: https://github.com/codefordc/clean-slate/issues/85
     labels:
     - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/enhancement'}
@@ -1143,7 +1143,7 @@
     - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-08-16T23:59:44Z'
+    updated_at: '2015-09-09T20:33:06Z'
   - assignee: null
     body: '@cweems Would you happen to have some bandwith before thursday to see if
       the Email responses button is possible? '
@@ -1167,7 +1167,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 8
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-08-26T02:42:56Z'
@@ -1353,7 +1353,7 @@
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    2, 4, 0]
+    5, 1, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2214?v=3', contributions: 6,

@@ -1058,7 +1058,7 @@ projects([
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 30, 
+        "forks": 32, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -2074,7 +2074,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 22, 
+                "contributions": 24, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2103,15 +2103,15 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                28242
-            ], 
-            [
-                "HTML", 
-                320
+                30935
             ], 
             [
                 "CSS", 
                 272
+            ], 
+            [
+                "HTML", 
+                234
             ]
         ], 
         "license": null, 
@@ -2124,7 +2124,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-09-07T21:57:43Z", 
+        "pushed_at": "2015-09-09T22:41:09Z", 
         "size": 26560, 
         "updated_at": "2015-08-04T19:20:58Z", 
         "watchers": 10
@@ -3383,9 +3383,9 @@ projects([
             {
                 "assignee": null, 
                 "body": "Step 1: Create a banner/button  four our site that reads \"espanol\" that is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate site and host on your github pages. We will then use the link of your github pages to be used as the link references as \"espanol\".", 
-                "comments": 3, 
+                "comments": 5, 
                 "created_at": "2015-07-31T00:10:04Z", 
-                "issue": "Create a spanish version of the site. Should only take 30 minutes", 
+                "issue": "Add an internalization feature so that site can be used in espanol.", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/106", 
                 "labels": [
                     {
@@ -3406,12 +3406,12 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-31T03:51:38Z"
+                "updated_at": "2015-09-09T20:30:41Z"
             }, 
             {
                 "assignee": null, 
                 "body": "@John Leszczynski", 
-                "comments": 1, 
+                "comments": 2, 
                 "created_at": "2015-07-09T19:08:42Z", 
                 "issue": " whether or not we can move the json file into a spreadsheet so that it will be easier for the legal partner to edit and update questions.", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/87", 
@@ -3434,14 +3434,14 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-07-10T20:38:54Z"
+                "updated_at": "2015-09-09T23:37:24Z"
             }, 
             {
                 "assignee": null, 
                 "body": "Anyone willing to Add in popup legal glossary using this: http://openadvocate.org/readclearly/? ReadClearly identifies complex legal terms on your website and displays a plain language explanation.", 
-                "comments": 12, 
+                "comments": 13, 
                 "created_at": "2015-07-09T18:59:39Z", 
-                "issue": "Add in our defintions to the popup legal glossary", 
+                "issue": "Simplify our definitions. Many words on the site are not defined simply. ", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/85", 
                 "labels": [
                     {
@@ -3462,7 +3462,7 @@ projects([
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-08-16T23:59:44Z"
+                "updated_at": "2015-09-09T20:33:06Z"
             }, 
             {
                 "assignee": null, 
@@ -3513,7 +3513,7 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 8, 
+        "open_issues": 12, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -4092,8 +4092,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            4, 
+            5, 
+            1, 
             0
         ], 
         "civic_json": null, 
