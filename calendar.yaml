@@ -1,42 +1,4 @@
 codefordc:
-- created: 1427389099000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:00 Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation.</p>\
-    \ <p>~7:30\_Food delivered.\_</p> <p>9:00 - 9:15 Everyone reconvenes and shares\
-    \ reactions to and progress made over the last two hours. Show and tell if time/resources\
-    \ allow it. Thank you and goodnight.</p> <p>9:30\_Sometimes an after party (Happy\
-    \ Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text Justin at 301-538-5812\_for\
-    \ entry if no one is at the door.</p> <p>\u2022\_Bring cash for food and drink!\
-    \ Pay what you can.</p> <p><br/>\u2022\_If you are new to Code for DC\u2026 \_\
-    </p> <p>\n\n\u2022\_Bring a laptop if you can (it\u2019s ok if you can\u2019t)\_\
-    </p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active\
-    \ projects</a></p> <p>\u2022\_Review the <a href=\"http://codefordc.org/codeofconduct.html\"\
-    >Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_\
-    <a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\"\
-    \ class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p>\
-    \ <p>\u2022\_Start working on a project with someone or bring your own project</p>\
-    \ <p><br/>\u2022\_Introduce yourself to others</p> <p>\u2022\_If you had a good\
-    \ time join Google Group and Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/221419499/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '221419499'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1441837800000
-  updated: 1440857834000
-  utc_offset: -14400000
-  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
-    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 53
 - created: 1427389123000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -75,7 +37,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1427389147000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -155,57 +117,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 8
 other:
-- created: 1438791464000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills? Come to our weekly ROR study group! We welcome women with\
-    \ all levels of experience. You will be able to ask your fellow coders questions\
-    \ and help each other work through issues. We encourage any advanced ROR devs\
-    \ to come and help others! There's always at least one mentor present to help\
-    \ you with best practices or guide you through if you are stuck with a nasty problem!</p>\
-    \ <p>Meetup Agenda</p> <p>Every study group will have the following format:</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm -\
-    \ Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new\
-    \ to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For\
-    \ those who have some experience already but are looking for projects, we recommend\
-    \ Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on\
-    \ something else if you like.</p> <p>Contact policy at buildings that need access</p>\
-    \ <p>Certain building managements requires meetup hosts to let people in and do\
-    \ not encourage them being contacted. Please respect the policy, in case the location\
-    \ requires access to the building contact the group lead if information is provided,\
-    \ or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby\
-    \ on Rails Study Group leader? If you are passionate about learning ROR with fellow\
-    \ awesome women and want to help us, come on out! Drop us a message or email us\
-    \ and let us know that you are interested in helping us with the Rails study group!</p>\
-    \ <p>RESOURCES</p> <p>These are the resources that members have been following\
-    \ along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/224426055/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '224426055'
-  maybe_rsvp_count: 0
-  name: Ruby on Rails Study Group
-  status: upcoming
-  time: 1441837800000
-  updated: 1440986424000
-  utc_offset: -14400000
-  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
-    lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
-    state: DC, zip: '20005'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 13
 - created: 1438369095000
   description: "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a>\_is scheduled as a two day event.\_</p> <p>Register in the <a href=\"\
@@ -399,7 +310,7 @@ other:
     repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1437347249000
   description: "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\"\
     >register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating\
@@ -459,7 +370,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 67
 - created: 1441828259000
   description: '<p>We''re a group of women working to learn and develop our Python
     programming skills. Some of us are professional developers and data scientists,
@@ -592,7 +503,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 359
+  yes_rsvp_count: 358
 - created: 1439936511000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
     \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
@@ -630,7 +541,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 31
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -660,7 +571,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 53
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -837,7 +748,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 42
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -957,7 +868,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -2043,6 +1954,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1441756224000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem! \_\
+    </p> <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.\_</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed! \_</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbkc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: bqlpklytnbkc
+  maybe_rsvp_count: 0
+  name: Android Hack Night
+  rsvp_limit: 30
+  status: upcoming
+  time: 1445985000000
+  updated: 1441756224000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1441688777000
   description: "<p>In the world of nonprofit marketing there is a tendency to create\
     \ content as though the audience is us. As though the folks reading our blogs\
@@ -2159,7 +2111,7 @@ other:
     lat: 38.899033000000003, lon: -77.032982000000004, name: 'LivingSocial, Inc',
     repinned: false}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 6
   yes_rsvp_count: 3
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\

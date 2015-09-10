@@ -1,44 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "created": 1427389099000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p><br/>\u2022\u00a0If you are new to Code for DC\u2026 \u00a0</p> <p>\n\n\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/221419499/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "221419499", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1441837800000, 
-            "updated": 1440857834000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 53
-        }, 
-        {
             "created": 1427389123000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -74,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427389147000, 
@@ -154,45 +116,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1438791464000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224426055/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "224426055", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1441837800000, 
-            "updated": 1440986424000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
         {
             "created": 1438369095000, 
             "description": "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a> Link.</p> <p>DevFestDC is around the corner (Sep 11 &amp; 12) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at AOL Campus only $15. Check out all the\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0Plan to attend both days or either one of the days depending on your schedule!<br/>Register Here at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers</p> <p><br/>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a></p> <p>Great speakers, code labs, workshops and panels planned.</p> <p><a href=\"https://ci6.googleusercontent.com/proxy/yC9GVt5269sDggMufAghYeLU0Ug3pRZp8Zlc-ZcEp1qv5JKQSIOyn98MHULl868vOt29GRbeiS6PrRAb2hAxsx3b0-JqGCzoiPHKwj2EpH6KIujhDmVRyaW2pOqDzGeqIlKdTbI4rHJ7BYtrZO7vZapotSu5GTtnIOYwNqA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0d16ec81-b4ee-43a0-8ad9-2686d56cb4fc.pnghttps://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci3.googleusercontent.com/proxy/ybafaEsbV_McbI53NOZSYzezhurzXM2_OOEjrj2khEGCdnXoD89-6baGZ7qsvSykW32LMMNb1rCy5o17a0nm0QaNvp-j8hhWDlJSMvTvaMAXe5gneXoBWO0glcJO8CwkVVntzLUGPImYb_CcDNCI3xhWW1sEmDIOMi7Mj7E=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0997d89a-ab48-4191-a724-6d7d755b011f.jpghttps://ci3.googleusercontent.com/proxy/LwPCdnBhXiYcrp_VgHQjFsD4sonkAeBpS1zuVcGodqogLPOurVtuSe1TQPbdGeyzdukJQ0dR-ij3SNkRzROqn3xVBAcIFFu4BC4YyxBSf6cubBt2X_dtTrw_KpPBKM2AKkIU_EYy0yMM68DALMZotbxVIskYaCJsQbSoOC0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/dfc32c3e-8550-4c25-a7cc-d766b2a8555c.jpghttps://ci3.googleusercontent.com/proxy/BY3-wPP-EM7flYUoynZS2n-ydxxPronjjynsxgXpT_JYf5vf6GIfNbxcESWNlVYWJ8EQGsoiMwMF1pYxxuatD2SgohZqnqqP6S73FYom1GD9MhyKSVbthdhmmOkZ41KRQdYHLQO1fD0FcIF6j9f96vfGVBrSNf6PYyJAf24=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/efd6ee44-95ba-456f-b56d-630897348ad9.jpghttps://ci5.googleusercontent.com/proxy/OA6_VuSnd0uFlM2ftgyz1asP1qQFHqNR0Zv0FOAUOAzpKS64DpvSoNY2D3CgkMfkrI-9Y5-Ts7FLl3ndQF9rYTOSf49RyYBqR7rE0cHtrADkDTc7IQZbXeA803MQ9pRqEjnid6R-j_yzuLR_0-3uAS2GHkqo5LMsUwOuJu0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/a09ed8a5-28c9-44e6-9d1f-a82c079c34d8.jpghttps://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci6.googleusercontent.com/proxy/bBSwtCnRCTviqoNESMWMhHjv3UJo23uq9R6EnKy4Ro1cyTtu-aLTUOu8QpjyY0SyzHs01xoyglvSDAdarAo2ppyyzzM_1Ua5-8wKdQwMXe1Tou-UF7zcCnrEb660VDiVkOLaHkjXs4pxYZ1wvLXpEWZw9zjVGSrTsDgAhlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/509029c9-8316-43cb-867b-b3d05300f2d4.jpghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpghttps://ci5.googleusercontent.com/proxy/osbxgdzR1cQCNKIf1WT7bLvRMBOC1s6o2hYa4Xi2q9AQfllw_SGBP9bMCkVPdfn9AnFcQcdOuh8aTy8Zt3S_w9FZTSFRNJN5XbNinAgYrkTG6vqsODnKOGGsGpMNvvZSr-EZN1efLCMzKWLsrgeONmXsa7qJYFPWnzhtrlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/1b2d9aa2-6e53-487d-9426-dac65cccf48d.pnghttps://ci3.googleusercontent.com/proxy/fkgqwkeQGgvDagQ-wYtWmXnc9VVP0RYYevcyx9GA_VN-8xMd41gjjO2MiXBbyqO3UwkJBnwisPc_PsrUkbiic7UXcIjmiSLgXyOIwx_WKA8lWICNdSQa8MISKzz4z42ht5gCf47cBNwCDSdYTXi7fzgWbnkO5uiZodeUGgw=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/6493a57d-1e63-4840-97f6-3c88f288fb4d.pnghttps://ci5.googleusercontent.com/proxy/uVCAGrgbNR-nOe4ppA3GOj04GaDD9lddbY265KVVAPJ0YJ-uDxntcxmcurFNqtcHL2WdH5dWXK-O5wMkNZee2cB4Io-vAJR6gNjXuULTS2pyw5UNhB4yoAIdBihBfsR7Pn60Aq0PIsL2SP1Gxu4qERfckveSrj5X4LS5ip0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/2c36c5bd-a1b9-4d27-a4ee-4cce7f1c6c2c.pnghttps://ci3.googleusercontent.com/proxy/xLZMYogB2rYnL0lyMbhXGf2UOYhTmcYj9VaE8d3EW2IPRYRYf6AZKg_uAyAkYY_I6TEirVc8T-cDdf3v5WYP-5hF94iiDT0z8NhNI-3gtmcNB4rPFc8iFKqBZ8PeEOuqfW66w1BuovbZkzr-GkaTZ9pLN8ImKUG54Y0Ttlg=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/37e97ccc-30e4-4455-bf62-46bb9e17e083.jpghttps://ci4.googleusercontent.com/proxy/rW8aP3HP7S58jMP6KljVnzfgXE_kOYnqlFKi3OnoRc9dtabVvIGHYn9SryXDNGkl19s0V2wqdl5ss4aDz3Sk3DkpXE8x13gJNmcLbjo1RxYA-h5HxucGfdLsMYHP6-8dJVicw-UUiBqdEkQLWNOitfgjzwrbPGmvockhduo=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/b36d3de0-5041-449d-a4f4-ef3fdc3b9e95.pnghttps://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.2&amp;disp=emb&amp;realattid=ii_ie4730db0_14f932f0393b295f&amp;attbid=ANGjdJ8iMNsRFRpGZEfAiufgOUTt146SE41SbtgV9VRHk_dVusGECl5J2Ld0NAPxPVFQ_2hkhPDOGiFMdeVIeODaX1x5ynLPIBctpH2LJ9voSt2VuCjorQmx5eH_GD0&amp;sz=w390-h114&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1https://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.1&amp;disp=emb&amp;realattid=ii_ie4730dl1_14f932f0393b295f&amp;attbid=ANGjdJ970nJS_gElx4trqmzyU9YH1atRfmbLMoVTGryx_R4umUoEQyPLn70-UQ9vAfHfOiLi93uuKBxNcWRcBd6yWK5AkfIBv_4yN4miamSDDl2bES7puJ9OqXAqUp8&amp;sz=w174-h142&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1\" class=\"linkified\">https://ci6.googleusercontent.com/proxy/yC9GVt5269sDggMufAghYeLU0Ug3pRZp8Zlc-ZcEp1qv5JKQSIOyn98MHULl868vOt29GRbeiS6PrRAb2hAxsx3b0-JqGCzoiPHKwj2EpH6KIujhDmVRyaW2pOqDzGeqIlKdTbI4rHJ7BYtrZO7vZapotSu5GTtnIOYwNqA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0d16ec81-b4ee-43a0-8ad9-2686d56cb4fc.pnghttps://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci3.googleusercontent.com/proxy/ybafaEsbV_McbI53NOZSYzezhurzXM2_OOEjrj2khEGCdnXoD89-6baGZ7qsvSykW32LMMNb1rCy5o17a0nm0QaNvp-j8hhWDlJSMvTvaMAXe5gneXoBWO0glcJO8CwkVVntzLUGPImYb_CcDNCI3xhWW1sEmDIOMi7Mj7E=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0997d89a-ab48-4191-a724-6d7d755b011f.jpghttps://ci3.googleusercontent.com/proxy/LwPCdnBhXiYcrp_VgHQjFsD4sonkAeBpS1zuVcGodqogLPOurVtuSe1TQPbdGeyzdukJQ0dR-ij3SNkRzROqn3xVBAcIFFu4BC4YyxBSf6cubBt2X_dtTrw_KpPBKM2AKkIU_EYy0yMM68DALMZotbxVIskYaCJsQbSoOC0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/dfc32c3e-8550-4c25-a7cc-d766b2a8555c.jpghttps://ci3.googleusercontent.com/proxy/BY3-wPP-EM7flYUoynZS2n-ydxxPronjjynsxgXpT_JYf5vf6GIfNbxcESWNlVYWJ8EQGsoiMwMF1pYxxuatD2SgohZqnqqP6S73FYom1GD9MhyKSVbthdhmmOkZ41KRQdYHLQO1fD0FcIF6j9f96vfGVBrSNf6PYyJAf24=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/efd6ee44-95ba-456f-b56d-630897348ad9.jpghttps://ci5.googleusercontent.com/proxy/OA6_VuSnd0uFlM2ftgyz1asP1qQFHqNR0Zv0FOAUOAzpKS64DpvSoNY2D3CgkMfkrI-9Y5-Ts7FLl3ndQF9rYTOSf49RyYBqR7rE0cHtrADkDTc7IQZbXeA803MQ9pRqEjnid6R-j_yzuLR_0-3uAS2GHkqo5LMsUwOuJu0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/a09ed8a5-28c9-44e6-9d1f-a82c079c34d8.jpghttps://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci6.googleusercontent.com/proxy/bBSwtCnRCTviqoNESMWMhHjv3UJo23uq9R6EnKy4Ro1cyTtu-aLTUOu8QpjyY0SyzHs01xoyglvSDAdarAo2ppyyzzM_1Ua5-8wKdQwMXe1Tou-UF7zcCnrEb660VDiVkOLaHkjXs4pxYZ1wvLXpEWZw9zjVGSrTsDgAhlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/509029c9-8316-43cb-867b-b3d05300f2d4.jpghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpghttps://ci5.googleusercontent.com/proxy/osbxgdzR1cQCNKIf1WT7bLvRMBOC1s6o2hYa4Xi2q9AQfllw_SGBP9bMCkVPdfn9AnFcQcdOuh8aTy8Zt3S_w9FZTSFRNJN5XbNinAgYrkTG6vqsODnKOGGsGpMNvvZSr-EZN1efLCMzKWLsrgeONmXsa7qJYFPWnzhtrlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/1b2d9aa2-6e53-487d-9426-dac65cccf48d.pnghttps://ci3.googleusercontent.com/proxy/fkgqwkeQGgvDagQ-wYtWmXnc9VVP0RYYevcyx9GA_VN-8xMd41gjjO2MiXBbyqO3UwkJBnwisPc_PsrUkbiic7UXcIjmiSLgXyOIwx_WKA8lWICNdSQa8MISKzz4z42ht5gCf47cBNwCDSdYTXi7fzgWbnkO5uiZodeUGgw=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/6493a57d-1e63-4840-97f6-3c88f288fb4d.pnghttps://ci5.googleusercontent.com/proxy/uVCAGrgbNR-nOe4ppA3GOj04GaDD9lddbY265KVVAPJ0YJ-uDxntcxmcurFNqtcHL2WdH5dWXK-O5wMkNZee2cB4Io-vAJR6gNjXuULTS2pyw5UNhB4yoAIdBihBfsR7Pn60Aq0PIsL2SP1Gxu4qERfckveSrj5X4LS5ip0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/2c36c5bd-a1b9-4d27-a4ee-4cce7f1c6c2c.pnghttps://ci3.googleusercontent.com/proxy/xLZMYogB2rYnL0lyMbhXGf2UOYhTmcYj9VaE8d3EW2IPRYRYf6AZKg_uAyAkYY_I6TEirVc8T-cDdf3v5WYP-5hF94iiDT0z8NhNI-3gtmcNB4rPFc8iFKqBZ8PeEOuqfW66w1BuovbZkzr-GkaTZ9pLN8ImKUG54Y0Ttlg=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/37e97ccc-30e4-4455-bf62-46bb9e17e083.jpghttps://ci4.googleusercontent.com/proxy/rW8aP3HP7S58jMP6KljVnzfgXE_kOYnqlFKi3OnoRc9dtabVvIGHYn9SryXDNGkl19s0V2wqdl5ss4aDz3Sk3DkpXE8x13gJNmcLbjo1RxYA-h5HxucGfdLsMYHP6-8dJVicw-UUiBqdEkQLWNOitfgjzwrbPGmvockhduo=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/b36d3de0-5041-449d-a4f4-ef3fdc3b9e95.pnghttps://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.2&amp;disp=emb&amp;realattid=ii_ie4730db0_14f932f0393b295f&amp;attbid=ANGjdJ8iMNsRFRpGZEfAiufgOUTt146SE41SbtgV9VRHk_dVusGECl5J2Ld0NAPxPVFQ_2hkhPDOGiFMdeVIeODaX1x5ynLPIBctpH2LJ9voSt2VuCjorQmx5eH_GD0&amp;sz=w390-h114&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1https://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.1&amp;disp=emb&amp;realattid=ii_ie4730dl1_14f932f0393b295f&amp;attbid=ANGjdJ970nJS_gElx4trqmzyU9YH1atRfmbLMoVTGryx_R4umUoEQyPLn70-UQ9vAfHfOiLi93uuKBxNcWRcBd6yWK5AkfIBv_4yN4miamSDDl2bES7puJ9OqXAqUp8&amp;sz=w174-h142&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1</a></p>", 
@@ -355,7 +278,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1437347249000, 
@@ -392,7 +315,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1441828259000, 
@@ -498,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 359
+            "yes_rsvp_count": 358
         }, 
         {
             "created": 1439936511000, 
@@ -537,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1440421299000, 
@@ -576,7 +499,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1440681237000, 
@@ -731,7 +654,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1440102483000, 
@@ -841,7 +764,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1441653193000, 
@@ -1654,6 +1577,33 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1441756224000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbkc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bqlpklytnbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1441756224000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1441688777000, 
             "description": "<p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
@@ -1762,7 +1712,7 @@ calendar({
                 "repinned": false
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 3
         }, 
         {
