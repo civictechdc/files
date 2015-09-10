@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1427389147000, 
@@ -193,7 +193,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1427088126000, 
@@ -233,7 +233,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1439990803000, 
@@ -315,7 +315,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1441828259000, 
@@ -343,7 +343,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1438791539000, 
@@ -421,7 +421,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 358
+            "yes_rsvp_count": 359
         }, 
         {
             "created": 1439936511000, 
@@ -499,7 +499,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1440681237000, 
@@ -540,6 +540,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 20
+        }, 
+        {
+            "created": 1441902223000, 
+            "description": "<p>This September, Lindsay Brown will walk us through her exploreMapPy project, which puts DOT data for 52 states and territories in an interactive map. The project uses Python and JavaScript and makes use of svg, json, and other cool tools. (<a href=\"https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\" class=\"linkified\">https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239</a>)<br/>More info on the meetup coming soon.</p> <p>********</p> <p>We start gathering at 6:30, and order pizza for around then. Intros start at 7, and then our talk. See you soon!</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/225259705/", 
+            "group": {
+                "created": 1378482158000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 10135982, 
+                "join_mode": "open", 
+                "name": "Ladies Who Code (Washington DC)", 
+                "urlname": "Ladies-Who-Code-Washington-DC", 
+                "who": "Ladies Who Code"
+            }, 
+            "headcount": 0, 
+            "id": "225259705", 
+            "maybe_rsvp_count": 0, 
+            "name": "Interactive Maps With Python And JavaScript", 
+            "status": "upcoming", 
+            "time": 1442874600000, 
+            "updated": 1441902605000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1818 N St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 311792, 
+                "lat": 38.907229999999998, 
+                "lon": -77.042150000000007, 
+                "name": "Sunlight Foundation", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1438616874000, 
@@ -615,7 +654,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1441578117000, 
@@ -654,7 +693,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1440102483000, 
@@ -764,7 +803,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1441653193000, 
@@ -956,6 +995,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1441890236000, 
+            "description": "<p>Django Girls\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
+            "duration": 14400000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/225255813/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We'll be in the Dream Lab! It's in the big glass area to your right as you come in.", 
+            "id": "225255813", 
+            "maybe_rsvp_count": 0, 
+            "name": "DjangoGirls Workshop!", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1443978000000, 
+            "updated": 1441890236000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW # 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4367692, 
+                "lat": 38.898448999999999, 
+                "lon": -77.024704, 
+                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1439487723000, 
@@ -1159,7 +1239,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1326383071000, 
@@ -1199,7 +1279,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1440425244000, 
@@ -1638,7 +1718,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 
