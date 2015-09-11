@@ -1,6 +1,6 @@
-- activity: [0, 9, 0, 0, 8, 2, 12, 6, 26, 37, 19, 31, 33, 8, 0, 14, 17, 2, 34, 20,
-    32, 95, 31, 15, 28, 0, 2, 0, 1, 11, 4, 7, 7, 2, 2, 2, 3, 3, 0, 8, 0, 0, 0, 10,
-    6, 10, 0, 0, 60, 23, 0, 0]
+- activity: [0, 9, 0, 7, 1, 2, 14, 7, 29, 33, 18, 31, 39, 1, 0, 14, 17, 11, 29, 21,
+    34, 99, 23, 25, 15, 0, 2, 0, 1, 12, 5, 5, 7, 2, 3, 1, 3, 3, 2, 6, 0, 0, 7, 3,
+    6, 10, 0, 2, 64, 17, 0, 2]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -1097,7 +1097,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 26
+  forks: 27
   help_wanted:
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
