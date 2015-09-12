@@ -503,7 +503,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 412
+  yes_rsvp_count: 417
 - created: 1439936511000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
     \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
@@ -541,7 +541,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -601,7 +601,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 38
 - created: 1441902223000
   description: <p>This September, Lindsay Brown will walk us through her exploreMapPy
     project, which puts DOT data for 52 states and territories in an interactive map.
@@ -629,7 +629,7 @@ other:
     zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1438616874000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1207,7 +1207,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1466,7 +1466,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1570,6 +1570,31 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1442000799000
+  description: <p>This is a DC2 conference headlined by Dr. DJ Patil about the state
+    of Data Science education and industry needs. Please check out <a href="http://www.datacommunitydc.org/the-state-of-data-science-education"
+    class="linkified">http://www.datacommunitydc.org/the-state-of-data-science-education</a>
+    for details and registration.</p>
+  duration: 10800000
+  event_url: http://www.meetup.com/stats-prog-dc/events/225289440/
+  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
+    who: dc-hackeRs}
+  headcount: 0
+  id: '225289440'
+  maybe_rsvp_count: 0
+  name: The State of Data Science Education Conference
+  rsvp_limit: 1
+  status: upcoming
+  time: 1444489200000
+  updated: 1442000868000
+  utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 22
+  yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -2488,7 +2513,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
