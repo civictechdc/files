@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1427389147000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1427389174000, 
@@ -116,47 +116,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1438369095000, 
-            "description": "<p>Friends,</p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a> Link.</p> <p>DevFestDC is around the corner (Sep 11 &amp; 12) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at AOL Campus only $15. Check out all the\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0Plan to attend both days or either one of the days depending on your schedule!<br/>Register Here at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers</p> <p><br/>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2015.eventbrite.com/\">Eventbrite</a></p> <p>Great speakers, code labs, workshops and panels planned.</p> <p><a href=\"https://ci6.googleusercontent.com/proxy/yC9GVt5269sDggMufAghYeLU0Ug3pRZp8Zlc-ZcEp1qv5JKQSIOyn98MHULl868vOt29GRbeiS6PrRAb2hAxsx3b0-JqGCzoiPHKwj2EpH6KIujhDmVRyaW2pOqDzGeqIlKdTbI4rHJ7BYtrZO7vZapotSu5GTtnIOYwNqA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0d16ec81-b4ee-43a0-8ad9-2686d56cb4fc.pnghttps://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci3.googleusercontent.com/proxy/ybafaEsbV_McbI53NOZSYzezhurzXM2_OOEjrj2khEGCdnXoD89-6baGZ7qsvSykW32LMMNb1rCy5o17a0nm0QaNvp-j8hhWDlJSMvTvaMAXe5gneXoBWO0glcJO8CwkVVntzLUGPImYb_CcDNCI3xhWW1sEmDIOMi7Mj7E=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0997d89a-ab48-4191-a724-6d7d755b011f.jpghttps://ci3.googleusercontent.com/proxy/LwPCdnBhXiYcrp_VgHQjFsD4sonkAeBpS1zuVcGodqogLPOurVtuSe1TQPbdGeyzdukJQ0dR-ij3SNkRzROqn3xVBAcIFFu4BC4YyxBSf6cubBt2X_dtTrw_KpPBKM2AKkIU_EYy0yMM68DALMZotbxVIskYaCJsQbSoOC0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/dfc32c3e-8550-4c25-a7cc-d766b2a8555c.jpghttps://ci3.googleusercontent.com/proxy/BY3-wPP-EM7flYUoynZS2n-ydxxPronjjynsxgXpT_JYf5vf6GIfNbxcESWNlVYWJ8EQGsoiMwMF1pYxxuatD2SgohZqnqqP6S73FYom1GD9MhyKSVbthdhmmOkZ41KRQdYHLQO1fD0FcIF6j9f96vfGVBrSNf6PYyJAf24=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/efd6ee44-95ba-456f-b56d-630897348ad9.jpghttps://ci5.googleusercontent.com/proxy/OA6_VuSnd0uFlM2ftgyz1asP1qQFHqNR0Zv0FOAUOAzpKS64DpvSoNY2D3CgkMfkrI-9Y5-Ts7FLl3ndQF9rYTOSf49RyYBqR7rE0cHtrADkDTc7IQZbXeA803MQ9pRqEjnid6R-j_yzuLR_0-3uAS2GHkqo5LMsUwOuJu0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/a09ed8a5-28c9-44e6-9d1f-a82c079c34d8.jpghttps://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci6.googleusercontent.com/proxy/bBSwtCnRCTviqoNESMWMhHjv3UJo23uq9R6EnKy4Ro1cyTtu-aLTUOu8QpjyY0SyzHs01xoyglvSDAdarAo2ppyyzzM_1Ua5-8wKdQwMXe1Tou-UF7zcCnrEb660VDiVkOLaHkjXs4pxYZ1wvLXpEWZw9zjVGSrTsDgAhlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/509029c9-8316-43cb-867b-b3d05300f2d4.jpghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpghttps://ci5.googleusercontent.com/proxy/osbxgdzR1cQCNKIf1WT7bLvRMBOC1s6o2hYa4Xi2q9AQfllw_SGBP9bMCkVPdfn9AnFcQcdOuh8aTy8Zt3S_w9FZTSFRNJN5XbNinAgYrkTG6vqsODnKOGGsGpMNvvZSr-EZN1efLCMzKWLsrgeONmXsa7qJYFPWnzhtrlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/1b2d9aa2-6e53-487d-9426-dac65cccf48d.pnghttps://ci3.googleusercontent.com/proxy/fkgqwkeQGgvDagQ-wYtWmXnc9VVP0RYYevcyx9GA_VN-8xMd41gjjO2MiXBbyqO3UwkJBnwisPc_PsrUkbiic7UXcIjmiSLgXyOIwx_WKA8lWICNdSQa8MISKzz4z42ht5gCf47cBNwCDSdYTXi7fzgWbnkO5uiZodeUGgw=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/6493a57d-1e63-4840-97f6-3c88f288fb4d.pnghttps://ci5.googleusercontent.com/proxy/uVCAGrgbNR-nOe4ppA3GOj04GaDD9lddbY265KVVAPJ0YJ-uDxntcxmcurFNqtcHL2WdH5dWXK-O5wMkNZee2cB4Io-vAJR6gNjXuULTS2pyw5UNhB4yoAIdBihBfsR7Pn60Aq0PIsL2SP1Gxu4qERfckveSrj5X4LS5ip0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/2c36c5bd-a1b9-4d27-a4ee-4cce7f1c6c2c.pnghttps://ci3.googleusercontent.com/proxy/xLZMYogB2rYnL0lyMbhXGf2UOYhTmcYj9VaE8d3EW2IPRYRYf6AZKg_uAyAkYY_I6TEirVc8T-cDdf3v5WYP-5hF94iiDT0z8NhNI-3gtmcNB4rPFc8iFKqBZ8PeEOuqfW66w1BuovbZkzr-GkaTZ9pLN8ImKUG54Y0Ttlg=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/37e97ccc-30e4-4455-bf62-46bb9e17e083.jpghttps://ci4.googleusercontent.com/proxy/rW8aP3HP7S58jMP6KljVnzfgXE_kOYnqlFKi3OnoRc9dtabVvIGHYn9SryXDNGkl19s0V2wqdl5ss4aDz3Sk3DkpXE8x13gJNmcLbjo1RxYA-h5HxucGfdLsMYHP6-8dJVicw-UUiBqdEkQLWNOitfgjzwrbPGmvockhduo=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/b36d3de0-5041-449d-a4f4-ef3fdc3b9e95.pnghttps://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.2&amp;disp=emb&amp;realattid=ii_ie4730db0_14f932f0393b295f&amp;attbid=ANGjdJ8iMNsRFRpGZEfAiufgOUTt146SE41SbtgV9VRHk_dVusGECl5J2Ld0NAPxPVFQ_2hkhPDOGiFMdeVIeODaX1x5ynLPIBctpH2LJ9voSt2VuCjorQmx5eH_GD0&amp;sz=w390-h114&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1https://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.1&amp;disp=emb&amp;realattid=ii_ie4730dl1_14f932f0393b295f&amp;attbid=ANGjdJ970nJS_gElx4trqmzyU9YH1atRfmbLMoVTGryx_R4umUoEQyPLn70-UQ9vAfHfOiLi93uuKBxNcWRcBd6yWK5AkfIBv_4yN4miamSDDl2bES7puJ9OqXAqUp8&amp;sz=w174-h142&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1\" class=\"linkified\">https://ci6.googleusercontent.com/proxy/yC9GVt5269sDggMufAghYeLU0Ug3pRZp8Zlc-ZcEp1qv5JKQSIOyn98MHULl868vOt29GRbeiS6PrRAb2hAxsx3b0-JqGCzoiPHKwj2EpH6KIujhDmVRyaW2pOqDzGeqIlKdTbI4rHJ7BYtrZO7vZapotSu5GTtnIOYwNqA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0d16ec81-b4ee-43a0-8ad9-2686d56cb4fc.pnghttps://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci3.googleusercontent.com/proxy/ybafaEsbV_McbI53NOZSYzezhurzXM2_OOEjrj2khEGCdnXoD89-6baGZ7qsvSykW32LMMNb1rCy5o17a0nm0QaNvp-j8hhWDlJSMvTvaMAXe5gneXoBWO0glcJO8CwkVVntzLUGPImYb_CcDNCI3xhWW1sEmDIOMi7Mj7E=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/0997d89a-ab48-4191-a724-6d7d755b011f.jpghttps://ci3.googleusercontent.com/proxy/LwPCdnBhXiYcrp_VgHQjFsD4sonkAeBpS1zuVcGodqogLPOurVtuSe1TQPbdGeyzdukJQ0dR-ij3SNkRzROqn3xVBAcIFFu4BC4YyxBSf6cubBt2X_dtTrw_KpPBKM2AKkIU_EYy0yMM68DALMZotbxVIskYaCJsQbSoOC0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/dfc32c3e-8550-4c25-a7cc-d766b2a8555c.jpghttps://ci3.googleusercontent.com/proxy/BY3-wPP-EM7flYUoynZS2n-ydxxPronjjynsxgXpT_JYf5vf6GIfNbxcESWNlVYWJ8EQGsoiMwMF1pYxxuatD2SgohZqnqqP6S73FYom1GD9MhyKSVbthdhmmOkZ41KRQdYHLQO1fD0FcIF6j9f96vfGVBrSNf6PYyJAf24=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/efd6ee44-95ba-456f-b56d-630897348ad9.jpghttps://ci5.googleusercontent.com/proxy/OA6_VuSnd0uFlM2ftgyz1asP1qQFHqNR0Zv0FOAUOAzpKS64DpvSoNY2D3CgkMfkrI-9Y5-Ts7FLl3ndQF9rYTOSf49RyYBqR7rE0cHtrADkDTc7IQZbXeA803MQ9pRqEjnid6R-j_yzuLR_0-3uAS2GHkqo5LMsUwOuJu0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/a09ed8a5-28c9-44e6-9d1f-a82c079c34d8.jpghttps://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci6.googleusercontent.com/proxy/bBSwtCnRCTviqoNESMWMhHjv3UJo23uq9R6EnKy4Ro1cyTtu-aLTUOu8QpjyY0SyzHs01xoyglvSDAdarAo2ppyyzzM_1Ua5-8wKdQwMXe1Tou-UF7zcCnrEb660VDiVkOLaHkjXs4pxYZ1wvLXpEWZw9zjVGSrTsDgAhlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/509029c9-8316-43cb-867b-b3d05300f2d4.jpghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpghttps://ci5.googleusercontent.com/proxy/osbxgdzR1cQCNKIf1WT7bLvRMBOC1s6o2hYa4Xi2q9AQfllw_SGBP9bMCkVPdfn9AnFcQcdOuh8aTy8Zt3S_w9FZTSFRNJN5XbNinAgYrkTG6vqsODnKOGGsGpMNvvZSr-EZN1efLCMzKWLsrgeONmXsa7qJYFPWnzhtrlA=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/1b2d9aa2-6e53-487d-9426-dac65cccf48d.pnghttps://ci3.googleusercontent.com/proxy/fkgqwkeQGgvDagQ-wYtWmXnc9VVP0RYYevcyx9GA_VN-8xMd41gjjO2MiXBbyqO3UwkJBnwisPc_PsrUkbiic7UXcIjmiSLgXyOIwx_WKA8lWICNdSQa8MISKzz4z42ht5gCf47cBNwCDSdYTXi7fzgWbnkO5uiZodeUGgw=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/6493a57d-1e63-4840-97f6-3c88f288fb4d.pnghttps://ci5.googleusercontent.com/proxy/uVCAGrgbNR-nOe4ppA3GOj04GaDD9lddbY265KVVAPJ0YJ-uDxntcxmcurFNqtcHL2WdH5dWXK-O5wMkNZee2cB4Io-vAJR6gNjXuULTS2pyw5UNhB4yoAIdBihBfsR7Pn60Aq0PIsL2SP1Gxu4qERfckveSrj5X4LS5ip0=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/2c36c5bd-a1b9-4d27-a4ee-4cce7f1c6c2c.pnghttps://ci3.googleusercontent.com/proxy/xLZMYogB2rYnL0lyMbhXGf2UOYhTmcYj9VaE8d3EW2IPRYRYf6AZKg_uAyAkYY_I6TEirVc8T-cDdf3v5WYP-5hF94iiDT0z8NhNI-3gtmcNB4rPFc8iFKqBZ8PeEOuqfW66w1BuovbZkzr-GkaTZ9pLN8ImKUG54Y0Ttlg=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/37e97ccc-30e4-4455-bf62-46bb9e17e083.jpghttps://ci4.googleusercontent.com/proxy/rW8aP3HP7S58jMP6KljVnzfgXE_kOYnqlFKi3OnoRc9dtabVvIGHYn9SryXDNGkl19s0V2wqdl5ss4aDz3Sk3DkpXE8x13gJNmcLbjo1RxYA-h5HxucGfdLsMYHP6-8dJVicw-UUiBqdEkQLWNOitfgjzwrbPGmvockhduo=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/b36d3de0-5041-449d-a4f4-ef3fdc3b9e95.pnghttps://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.2&amp;disp=emb&amp;realattid=ii_ie4730db0_14f932f0393b295f&amp;attbid=ANGjdJ8iMNsRFRpGZEfAiufgOUTt146SE41SbtgV9VRHk_dVusGECl5J2Ld0NAPxPVFQ_2hkhPDOGiFMdeVIeODaX1x5ynLPIBctpH2LJ9voSt2VuCjorQmx5eH_GD0&amp;sz=w390-h114&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1https://mail.google.com/mail/u/0/?ui=2&amp;ik=1655ec1eb5&amp;view=fimg&amp;th=14f94e27ff25ac0a&amp;attid=0.1&amp;disp=emb&amp;realattid=ii_ie4730dl1_14f932f0393b295f&amp;attbid=ANGjdJ970nJS_gElx4trqmzyU9YH1atRfmbLMoVTGryx_R4umUoEQyPLn70-UQ9vAfHfOiLi93uuKBxNcWRcBd6yWK5AkfIBv_4yN4miamSDDl2bES7puJ9OqXAqUp8&amp;sz=w174-h142&amp;ats=1441336401880&amp;rm=14f94e27ff25ac0a&amp;zw&amp;atsh=1</a></p>", 
-            "duration": 118800000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/224314177/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "DevFestDC, Google, Iot, Cloud, Cloud Platform, App Engine, Compute Engine, Containers, BigData, Developers, Polymer, Meteor, AngularJS, Java, Python, Space X, AOL, AWS, BigData, Hadoop, MapR", 
-            "id": "224314177", 
-            "maybe_rsvp_count": 0, 
-            "name": "DevFestDC - 2015 Sep 11/12 @ AOL", 
-            "rsvp_limit": 2, 
-            "status": "upcoming", 
-            "time": 1441972800000, 
-            "updated": 1441336648000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "22000 AOL Way", 
-                "city": "Dulles", 
-                "country": "us", 
-                "id": 1637409, 
-                "lat": 39.005215, 
-                "lon": -77.445723999999998, 
-                "name": "AOL", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "20166"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
         {
             "created": 1422815503000, 
             "description": "<p>Hack and Tell will be at WeWork Chinatown again in September! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
@@ -233,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1439990803000, 
@@ -421,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 423
+            "yes_rsvp_count": 424
         }, 
         {
             "created": 1439936511000, 
@@ -460,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1440421299000, 
@@ -539,7 +498,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1441902223000, 
@@ -1357,7 +1316,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 28, 
+            "waitlist_count": 30, 
             "yes_rsvp_count": 1
         }, 
         {
