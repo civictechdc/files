@@ -191,7 +191,7 @@
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -477,8 +477,8 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-03-01T16:01:32Z'
   size: 2915
-  updated_at: '2015-05-19T23:31:42Z'
-  watchers: 5
+  updated_at: '2015-09-14T15:52:09Z'
+  watchers: 6
 - activity: [3, 9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 1, 9, 20,
     1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0,
     0, 0, 0]
@@ -853,8 +853,8 @@
   size: 1004
   updated_at: '2015-05-09T20:16:06Z'
   watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 29, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 25, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -934,7 +934,7 @@
   updated_at: '2015-08-15T01:57:41Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45,
-    32, 70, 16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17,
+    47, 56, 22, 71, 19, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -1062,9 +1062,9 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 97,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 67,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 72,
     link: 'https://github.com/brianek', name: brianek}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 37,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 41,
     link: 'https://github.com/jmezetin', name: jmezetin}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 35,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1080,14 +1080,14 @@
     link: 'https://github.com/omarimayerswalker', name: omarimayerswalker}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1606922?v=3', contributions: 7,
     link: 'https://github.com/ParentJA', name: ParentJA}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 6,
+    link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1408929?v=3', contributions: 5,
     link: 'https://github.com/jimwebb', name: jimwebb}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/466645?v=3', contributions: 4,
     link: 'https://github.com/afiedler', name: afiedler}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6122?v=3', contributions: 4,
     link: 'https://github.com/wam', name: wam}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 4,
-    link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12052154?v=3', contributions: 2,
     link: 'https://github.com/JasonParentEAB', name: JasonParentEAB}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/32314?v=3', contributions: 2,
@@ -1162,17 +1162,17 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 34006]
-  - [JavaScript, 10938]
+  - [HTML, 35972]
+  - [JavaScript, 11072]
   - [CSS, 3973]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 21
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-13T21:51:08Z'
-  size: 10315
+  pushed_at: '2015-09-14T17:57:13Z'
+  size: 10535
   updated_at: '2015-07-14T19:49:58Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1228,7 +1228,7 @@
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 107, 49, 5, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -1323,7 +1323,7 @@
   updated_at: '2015-08-27T20:33:32Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 23, 12,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 25, 10,
     1, 0, 0]
   civic_json: null
   contributors:

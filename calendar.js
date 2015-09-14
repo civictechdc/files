@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1427389147000, 
@@ -192,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1439990803000, 
@@ -241,7 +241,7 @@ calendar({
         }, 
         {
             "created": 1437347249000, 
-            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing</p> <p>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each</p> <p>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet</p> <p>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows</p> <p>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p>Additional speakers will be announced when confirmed.</p> <p><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
+            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing<br/>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each<br/>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet<br/>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows<br/>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p><br/>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p><b>Stephanie Hedean</b>,\u00a0Director of Content Marketing, SmartBrief\u00a0</p> <p>Stephanie Hedean is currently Director of Content Marketing at SmartBrief, a digital B2B publisher. SmartBrief\u2019s core business is the publication of over 200 e-newsletters reaching over 5 million subscribers across 15 industry verticals. Stephanie joined SmartBrief in May of 2014 and leads the effort to expand and diversify the business and product portfolio to include custom content marketing products for advertisers, partners and content clients. Prior to SmartBrief, Stephanie was at USA TODAY where she held numerous positions including Director of Client Solutions and Vice President of Marketing and Strategy. She also spent a few years working in the non-profit sector as Director of Strategic Partnerships and Communications for the Global Network for Neglected Tropical Diseases at the Sabin Vaccine Institute. Stephanie is a graduate of Ohio University and has an Executive Masters degree in Leadership in Business from The McDonough School of Business at Georgetown University.</p> <p><br/><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
             "group": {
                 "created": 1189804715000, 
@@ -259,7 +259,7 @@ calendar({
             "name": "Content Marketing: Are You Doing It Right?", 
             "status": "upcoming", 
             "time": 1442358000000, 
-            "updated": 1438004571000, 
+            "updated": 1442246174000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -278,7 +278,7 @@ calendar({
         }, 
         {
             "created": 1441828259000, 
-            "description": "<p>We're a group of women working to learn and develop our Python programming skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. Folks of all skill levels are welcome!</p> <p><b>About the location: </b>The location is To Be Determined!</p> <p>**<br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>**</p> <p>This Women Who Code DC event is intended to be open for all women; we are emphatically trans* friendly.</p> <p>**</p> <p>Notes: Please bring a laptop!</p>", 
+            "description": "<p>We're a group of women working to learn and develop our Python programming skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. Folks of all skill levels are welcome!</p> <p><br/>**<br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>**</p> <p>This Women Who Code DC event is intended to be open for all women; we are emphatically trans* friendly.</p> <p>**</p> <p>Notes: Please bring a laptop!<br/>Parking: There's\u00a0a Parking Lot called GG1 on Paint Branch Drive that's about a 2-3 minute walk from the engineering building. Park in any parking lot with signs using Black lettering, but avoid the ones with signs whose letters are Red or Yellow.<br/>(<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=zFYfhqDqD-7k.keoW0aCNpWqM\">map</a>)\u00a0<br/>If you have any problems getting there, you can contact Morgan Davis at &lt;a&gt;248-<br/>[masked]&lt;/a&gt;.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225237634/", 
             "group": {
@@ -292,17 +292,29 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Jeong H. Kim Engineering Bldg. room 1105 Look for signs!", 
             "id": "225237634", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Study Group", 
+            "name": "Python Study Group: With an intro to data science tools!", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1442442600000, 
-            "updated": 1441829216000, 
+            "updated": 1442248258000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "University of Maryland College Park, MD 20742", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24091332, 
+                "lat": 38.974735000000003, 
+                "lon": -76.944999999999993, 
+                "name": "University of Maryland", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1438791539000, 
@@ -380,7 +392,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 428
+            "yes_rsvp_count": 448
         }, 
         {
             "created": 1439936511000, 
@@ -458,7 +470,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1440681237000, 
@@ -498,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1441902223000, 
@@ -537,7 +549,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1438616874000, 
@@ -613,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1441578117000, 
@@ -652,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1440102483000, 
@@ -725,7 +737,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1441308071000, 
@@ -762,7 +774,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1441653193000, 
@@ -863,7 +875,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1438041748000, 
@@ -900,7 +912,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1437823706000, 
@@ -927,7 +939,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1441653193000, 
@@ -994,7 +1006,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1439487723000, 
@@ -1198,7 +1210,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1326383071000, 
@@ -1238,11 +1250,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1440425244000, 
-            "description": "<p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/profile/view?id=14164330&amp;authType=NAME_SEARCH&amp;authToken=T_vE&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437138131592%2Ctas%3Abrian\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0TBD</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p>", 
+            "description": "<p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/profile/view?id=14164330&amp;authType=NAME_SEARCH&amp;authToken=T_vE&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437138131592%2Ctas%3Abrian\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/pub/amanda-traud/14/579/442\">Amanda Traud</a> - Data Scientist at <a href=\"http://www.l-3nss.com/index.php?option=com_content&amp;view=article&amp;id=43&amp;Itemid=203\">L-3 Global Solutions</a></p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/224848074/", 
             "group": {
@@ -1262,7 +1274,7 @@ calendar({
             "rsvp_limit": 1, 
             "status": "upcoming", 
             "time": 1444489200000, 
-            "updated": 1441137058000, 
+            "updated": 1442237867000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW, Room 108", 
@@ -1871,7 +1883,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
