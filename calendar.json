@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1427389147000, 
@@ -152,7 +152,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1427088126000, 
@@ -192,7 +192,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1439990803000, 
@@ -237,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1437347249000, 
@@ -274,7 +274,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1441828259000, 
@@ -380,7 +380,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 422
+            "yes_rsvp_count": 424
         }, 
         {
             "created": 1439936511000, 
@@ -419,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1440421299000, 
@@ -458,7 +458,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1440681237000, 
@@ -652,7 +652,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1440102483000, 
@@ -1238,7 +1238,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1440425244000, 
@@ -1590,6 +1590,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1442174254000, 
+            "description": "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\u00a0project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By this point, you should have the following...\u00a0</p> <p><br/>\u2022\u00a0Understand the current code</p> <p>\u2022\u00a0Have it running on your local computer with settings_local.py and\u00a0preferably\u00a0Postgres</p> <p>\u2022 Work through the <a href=\"https://devcenter.heroku.com/articles/getting-started-with-python#introduction\">Heroku tutorial</a>\u00a0</p> <p>\u2022 Have an official url / title! (Let's do this via Slack)</p> <p><br/>During this check-in, we will talk about how to get to our MVP and what our MVP is.\u00a0</p> <p>\n\n\n\n<a href=\"https://github.com/PyLadiesDC/job-translations\">Job Translations</a>:\u00a0</p> <p>More info coming</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/225329309/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "225329309", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code a project together - check-in", 
+            "rsvp_limit": 8, 
+            "status": "upcoming", 
+            "time": 1445794200000, 
+            "updated": 1442174782000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW # 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4367692, 
+                "lat": 38.898448999999999, 
+                "lon": -77.024704, 
+                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1439487723000, 
