@@ -2125,7 +2125,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-09-09T22:41:09Z", 
-        "size": 26560, 
+        "size": 27066, 
         "updated_at": "2015-09-10T00:01:09Z", 
         "watchers": 11
     }, 
@@ -3009,7 +3009,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-09-07T18:41:32Z", 
-        "size": 4197, 
+        "size": 4205, 
         "updated_at": "2015-08-11T21:00:15Z", 
         "watchers": 14
     }, 
@@ -3285,13 +3285,13 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 72, 
+                "contributions": 87, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5722831?v=3", 
-                "contributions": 41, 
+                "contributions": 43, 
                 "link": "https://github.com/jmezetin", 
                 "name": "jmezetin"
             }, 
@@ -3495,7 +3495,7 @@
         "languages": [
             [
                 "HTML", 
-                35972
+                35058
             ], 
             [
                 "JavaScript", 
@@ -3503,7 +3503,7 @@
             ], 
             [
                 "CSS", 
-                3973
+                3906
             ]
         ], 
         "license": {
@@ -3514,14 +3514,14 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 22, 
+        "open_issues": 12, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-09-14T17:57:13Z", 
+        "pushed_at": "2015-09-14T22:48:08Z", 
         "size": 10535, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10

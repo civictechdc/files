@@ -152,7 +152,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1427088126000, 
@@ -192,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1439990803000, 
@@ -237,7 +237,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1437347249000, 
@@ -274,7 +274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1441828259000, 
@@ -314,7 +314,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1438791539000, 
@@ -352,7 +352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1440079801000, 
@@ -392,7 +392,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 448
+            "yes_rsvp_count": 447
         }, 
         {
             "created": 1439936511000, 
@@ -431,7 +431,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1440421299000, 
@@ -470,7 +470,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1440681237000, 
@@ -510,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1441902223000, 
@@ -549,7 +549,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1438616874000, 
@@ -625,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1441578117000, 
@@ -775,32 +775,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 79
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225188935/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytmbfc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1443047400000, 
-            "updated": 1441653193000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 
@@ -1006,7 +980,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1439487723000, 
@@ -1210,7 +1184,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1326383071000, 
@@ -1254,7 +1228,7 @@ calendar({
         }, 
         {
             "created": 1440425244000, 
-            "description": "<p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/profile/view?id=14164330&amp;authType=NAME_SEARCH&amp;authToken=T_vE&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437138131592%2Ctas%3Abrian\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/pub/amanda-traud/14/579/442\">Amanda Traud</a> - Data Scientist at <a href=\"http://www.l-3nss.com/index.php?option=com_content&amp;view=article&amp;id=43&amp;Itemid=203\">L-3 Global Solutions</a></p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p>", 
+            "description": "<p>Continuum Analytics develops Anaconda, the leading modern open source analytics platform powered by Python. Continuum\u2019s Python\u00ad based platform and consulting services empower organizations to analyze, manage and visualize big data \u00ad turning massive datasets into actionable insights and business value. Built on proven open\u00adsource technology and easily integrated within existing\u00a0IT\u00a0environments, Anaconda allows organizations to make critical business decisions based on their data quickly, easily, inexpensively, and with flexibility. Without having to worry about how to access their data, organizations can free up resources to solve actual problems. Continuum\u2019s founders and developers have created or contribute to some of the most popular data science technologies, including NumPy, SciPy, Pandas, IPython, and many others. To learn more about the Anaconda platform, training and consulting services, visit\u00a0</p> <p><a href=\"http://www.continuum.io/\">continuum.io</a></p> <p>.</p> <p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/bamuller\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/pub/amanda-traud/14/579/442\">Amanda Traud</a> - Data Scientist at <a href=\"http://www.l-3nss.com/index.php?option=com_content&amp;view=article&amp;id=43&amp;Itemid=203\">L-3 Global Solutions</a></p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p> <p>\n\n\n<b>SPONSORS</b></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/1/2/e/600_441997166.jpeg\" /></p> <p>\n\n\nContinuum Analytics develops Anaconda, the leading modern open source analytics platform powered by Python. Continuum\u2019s Python\u00ad based platform and consulting services empower organizations to analyze, manage and visualize big data \u00ad turning massive datasets into actionable insights and business value. Built on proven open\u00adsource technology and easily integrated within existing\u00a0IT\u00a0environments, Anaconda allows organizations to make critical business decisions based on their data quickly, easily, inexpensively, and with flexibility. Without having to worry about how to access their data, organizations can free up resources to solve actual problems. Continuum\u2019s founders and developers have created or contribute to some of the most popular data science technologies, including NumPy, SciPy, Pandas, IPython, and many others. To learn more about the Anaconda platform, training and consulting services, visit\u00a0<a href=\"http://www.continuum.io/\">continuum.io</a>.</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/224848074/", 
             "group": {
@@ -1274,7 +1248,7 @@ calendar({
             "rsvp_limit": 1, 
             "status": "upcoming", 
             "time": 1444489200000, 
-            "updated": 1442237867000, 
+            "updated": 1442263190000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW, Room 108", 
@@ -1767,6 +1741,32 @@ calendar({
                 "repinned": false, 
                 "state": "DC"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1441653193000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytnblc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gnsnklytnblc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1446071400000, 
+            "updated": 1441653193000, 
+            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
