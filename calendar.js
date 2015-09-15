@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1438791539000, 
@@ -274,7 +274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1440079801000, 
@@ -314,7 +314,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 461
+            "yes_rsvp_count": 472
         }, 
         {
             "created": 1439936511000, 
@@ -471,7 +471,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1438616874000, 
@@ -586,7 +586,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1440102483000, 
@@ -679,9 +679,10 @@ calendar({
             "id": "225100092", 
             "maybe_rsvp_count": 0, 
             "name": "Intro to QGIS", 
+            "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1442961000000, 
-            "updated": 1441308071000, 
+            "updated": 1442329094000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -771,7 +772,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1438041748000, 
@@ -808,7 +809,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1437823706000, 
@@ -1224,7 +1225,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 34, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1354,7 +1355,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
@@ -1918,7 +1919,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 

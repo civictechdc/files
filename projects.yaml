@@ -933,8 +933,8 @@
   size: 565
   updated_at: '2015-08-15T01:57:41Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45,
-    47, 56, 22, 71, 19, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 59,
+    41, 49, 22, 78, 12, 1, 2, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -1168,10 +1168,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 12
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-14T22:48:08Z'
+  pushed_at: '2015-09-15T14:56:06Z'
   size: 10535
   updated_at: '2015-07-14T19:49:58Z'
   watchers: 10
