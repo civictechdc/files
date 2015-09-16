@@ -2,7 +2,7 @@
     "codefordc": [
         {
             "created": 1427389123000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n<b>Notes:\u00a0</b></p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p><b><br/>If you are new to Code for DC\u2026\u00a0</b></p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n<b>Notes:\u00a0</b></p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p><b><br/>If you are new to Code for DC\u2026\u00a0</b></p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/221419512/", 
             "group": {
@@ -21,7 +21,7 @@
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1442961000000, 
-            "updated": 1442151536000, 
+            "updated": 1442382026000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1427389147000, 
@@ -117,88 +117,6 @@
     ], 
     "other": [
         {
-            "created": 1439990803000, 
-            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Sept 15, 22, 29 and Oct 6; 7-9p).\u00a0</b></p> <p><b><br/></b></p> <p><b>Introduction to Ruby:<br/></b></p> <p>Ready to start programming? Want to learn one language that you can use to build web apps and iPhone apps, do system administration, and security? Then you're ready to learn Ruby.</p> <p>Ruby is an open source language that powers applications and products like Hulu, LivingSocial, Groupon, and Github. There is a thriving, friendly community of users, and the job market for developers is strong.</p> <p>Through this five course series, you'll get a thorough introduction to programming fundamentals with Ruby. We'll use the Interactive RuBy shell; write command line programs that use loops, conditionals, methods, and classes; and learn the basics of object oriented programming. We'll mix lecture and practice, and help guide you through the coursework.</p> <p><b><i>We'll spend part of the first class meeting setting up your development environment, so there's no need to install software ahead of time. Just bring your laptop and be prepared to start coding!</i></b></p> <p><br/><b>Outline of Sessions:</b></p> <p><br/><b>Class 1 -\u00a0Intro to programming in Ruby\u00a0(2 hours, 7-9p)</b></p> <p>What is programming? What is Ruby? We'll give you some context for the class, then dive right into writing code! Using the Interactive Ruby Shell, we'll begin experimenting with variables, methods, and data types. We'll end the class by writing a little interactive command line program.</p> <p><b><a href=\"https://github.com/azelma/gdi-ruby#class-2\">&lt;/a&gt;Class 2 -\u00a0</b></p> <p>Structured programming (loops and conditions), working with collections data types\u00a0\u00a0(2 hours, 7-9p)</p> <p>We'll create small programs in the text editor that use conditionals and loops for control flow. Then, we'll explore Ruby's collections data types, and see some of the ways we can work with them.</p> <p><b>&lt;a href=\"https://github.com/azelma/gdi-ruby#class-3\"&gt;</a>Class 3 -\u00a0</b></p> <p>Object Oriented Programming, part I\u00a0\u00a0(2 hours, 7-9p)</p> <p>We'll discuss the basic concepts of object oriented programming. We'll write our own methods, and explore some of the predefined methods that are available in Ruby for certain classes of object.</p> <p><b>&lt;a href=\"https://github.com/azelma/gdi-ruby#class-4\"&gt;&lt;/a&gt;Class 4 -\u00a0</b></p> <p>Object Oriented Programming, part II\u00a0\u00a0(2 hours, 7-9p)</p> <p>We will expand our knowledge of OOP by discussing classes and inheritance. We will tie together everything we've learned with a relatively complex, totally fun final project.</p> <p>\n\n\n<b>About the Instructor:\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/b/0/600_441079120.jpeg\" /></p> <p>Valerie Woolard is a software engineer. She loves Ruby, Python, algorithms, test-driven development, and teaching other people about those things. She holds a master's degree in computer science from the University of Chicago and bachelor's degrees in French and cognitive science from the University of California, Berkeley. She's always happy to chat about linguistics, diversity in tech, running, musical theatre, and her ever-expanding list of books to read.</p> <p>\n\n\n\n<b>Getting there:</b>\u00a0</p> <p>LivingSocial is conveniently located at 1445 New York Avenue NW - 2 blocks from the McPherson Square metro station (on the blue, silver and orange lines).\u00a0</p> <p>\n\n\n<b>Refund Policy:</b>\u00a0</p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224738916/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 90, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "224738916", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Ruby", 
-            "rsvp_limit": 15, 
-            "status": "upcoming", 
-            "time": 1442358000000, 
-            "updated": 1439990803000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 23819537, 
-                "lat": 38.899033000000003, 
-                "lon": -77.032982000000004, 
-                "name": "LivingSocial, Inc", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1437347249000, 
-            "description": "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\">register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating content that interests and engages your audience, creates a trust relationship with your visitors and enhances your brand.</p> <p>Join us\u00a0\u00a0as we discuss:</p> <p>\u00a0 \u2022\u00a0The value and reach of content marketing<br/>\u00a0 \u2022\u00a0Content types - and the pros, cons and appropriate format of each<br/>\u00a0 \u2022\u00a0Aligning your content with the appropriate outlet<br/>\u00a0 \u2022\u00a0Integrating content into existing marketing, communication and content creation workflows<br/>\u00a0 \u2022\u00a0Identifying your content marketing strategy - and how to evaluate success.</p> <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\u00a0Director of Marketing &amp; Business Development, The Sutter Group</p> <p><br/>Rebecca designs and drives the marketing of SG. With 13 years of magazine experience, she enjoys helping companies market themselves online in a more editorial way. Responsible for disrupting traditional thinking and inspiring new ideas that deepen brand retention, Rebecca works with existing and potential clients to keep them on the cutting edge of digital marketing and design services via the loyal account managers inside Sutter Group. She keeps the creative bar high and the attention focused on the end-user. Rebecca has helped start-ups like TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with their Public Relations, Content and Social Media marketing.</p> <p><b>Stephanie Hedean</b>,\u00a0Director of Content Marketing, SmartBrief\u00a0</p> <p>Stephanie Hedean is currently Director of Content Marketing at SmartBrief, a digital B2B publisher. SmartBrief\u2019s core business is the publication of over 200 e-newsletters reaching over 5 million subscribers across 15 industry verticals. Stephanie joined SmartBrief in May of 2014 and leads the effort to expand and diversify the business and product portfolio to include custom content marketing products for advertisers, partners and content clients. Prior to SmartBrief, Stephanie was at USA TODAY where she held numerous positions including Director of Client Solutions and Vice President of Marketing and Strategy. She also spent a few years working in the non-profit sector as Director of Strategic Partnerships and Communications for the Global Network for Neglected Tropical Diseases at the Sabin Vaccine Institute. Stephanie is a graduate of Ohio University and has an Executive Masters degree in Leadership in Business from The McDonough School of Business at Georgetown University.</p> <p><br/><b>SPONSORS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p> <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\u00a0is a woman-owned and operated small business based in the Washington, D.C. area with almost 30 years of experience working with nationally recognized brands. Our dedication to brand consistency and quality across digital platforms and specialty printing has made us one of the most highly referred full-service creative agencies. Sutter Group\u2019s sought-after brand development insight and multi-platform marketing experience has given us the pleasure of working with the nation\u2019s leading automotive brands, technology companies, nonprofits and more. Sutter Group offers services in branding, website design, marketing strategy, digital marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/224034782/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "224034782", 
-            "maybe_rsvp_count": 0, 
-            "name": "Content Marketing: Are You Doing It Right?", 
-            "status": "upcoming", 
-            "time": 1442358000000, 
-            "updated": 1442246174000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 74
-        }, 
-        {
             "created": 1441828259000, 
             "description": "<p>We're a group of women working to learn and develop our Python programming skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. Folks of all skill levels are welcome!</p> <p><br/>**<br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>**</p> <p>This Women Who Code DC event is intended to be open for all women; we are emphatically trans* friendly.</p> <p>**</p> <p>Notes: Please bring a laptop!<br/>Parking: There's\u00a0a Parking Lot called GG1 on Paint Branch Drive that's about a 2-3 minute walk from the engineering building. Park in any parking lot with signs using Black lettering, but avoid the ones with signs whose letters are Red or Yellow.<br/>(<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=zFYfhqDqD-7k.keoW0aCNpWqM\">map</a>)\u00a0<br/>If you have any problems getting there, you can contact Morgan Davis at &lt;a&gt;248-<br/>[masked]&lt;/a&gt;.</p>", 
             "duration": 7200000, 
@@ -236,7 +154,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1438791539000, 
@@ -314,7 +232,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 483
+            "yes_rsvp_count": 496
         }, 
         {
             "created": 1439936511000, 
@@ -353,7 +271,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1440421299000, 
@@ -392,7 +310,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1440681237000, 
@@ -509,7 +427,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1427088126000, 
@@ -547,7 +465,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1441578117000, 
@@ -586,7 +504,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1440102483000, 
@@ -696,7 +614,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -735,7 +653,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1439487723000, 
@@ -912,7 +830,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1441890236000, 
@@ -1065,7 +983,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1441756224000, 
@@ -1275,7 +1193,7 @@
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 34, 
+            "waitlist_count": 35, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1378,7 +1296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1441756224000, 

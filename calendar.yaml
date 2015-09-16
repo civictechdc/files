@@ -3,16 +3,16 @@ codefordc:
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
     \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n<b>Notes:\_</b></p> <p>\u2022\
-    \_Text Justin at 301-538-5812\_for entry if no one is at the door.</p> <p>\u2022\
-    \_Bring cash for food and drink! Pay what you can.</p> <p><b><br/>If you are new\
-    \ to Code for DC\u2026\_</b></p> <p>\u2022\_Bring a laptop if you can (it\u2019\
-    s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\"\
-    >our active projects</a></p> <p>\u2022\_Review the <a href=\"http://codefordc.org/codeofconduct.html\"\
+    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin).</p>\
+    \ <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone reconvenes and shares\
+    \ reactions to and progress made over the last two hours. Show and tell if time/resources\
+    \ allow it. Thank you and goodnight.</p> <p>9:30\_Sometimes an after party (Happy\
+    \ Hour)</p> <p>\n\n<b>Notes:\_</b></p> <p>\u2022\_Text Justin at 301-538-5812\_\
+    for entry if no one is at the door.</p> <p>\u2022\_Bring cash for food and drink!\
+    \ Pay what you can.</p> <p><b><br/>If you are new to Code for DC\u2026\_</b></p>\
+    \ <p>\u2022\_Bring a laptop if you can (it\u2019s ok if you can\u2019t)\_</p>\
+    \ <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active\
+    \ projects</a></p> <p>\u2022\_Review the <a href=\"http://codefordc.org/codeofconduct.html\"\
     >Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_\
     <a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\"\
     \ class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p>\
@@ -30,13 +30,13 @@ codefordc:
   name: Civic Hacknight
   status: upcoming
   time: 1442961000000
-  updated: 1442151536000
+  updated: 1442382026000
   utc_offset: -14400000
   venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 37
 - created: 1427389147000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -116,152 +116,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 9
 other:
-- created: 1439990803000
-  description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
-    \ multi-day events, so keep in mind that this Meetup event serves as registration\
-    \ for the entire 4-session course (Sept 15, 22, 29 and Oct 6; 7-9p).\_</b></p>\
-    \ <p><b><br/></b></p> <p><b>Introduction to Ruby:<br/></b></p> <p>Ready to start\
-    \ programming? Want to learn one language that you can use to build web apps and\
-    \ iPhone apps, do system administration, and security? Then you're ready to learn\
-    \ Ruby.</p> <p>Ruby is an open source language that powers applications and products\
-    \ like Hulu, LivingSocial, Groupon, and Github. There is a thriving, friendly\
-    \ community of users, and the job market for developers is strong.</p> <p>Through\
-    \ this five course series, you'll get a thorough introduction to programming fundamentals\
-    \ with Ruby. We'll use the Interactive RuBy shell; write command line programs\
-    \ that use loops, conditionals, methods, and classes; and learn the basics of\
-    \ object oriented programming. We'll mix lecture and practice, and help guide\
-    \ you through the coursework.</p> <p><b><i>We'll spend part of the first class\
-    \ meeting setting up your development environment, so there's no need to install\
-    \ software ahead of time. Just bring your laptop and be prepared to start coding!</i></b></p>\
-    \ <p><br/><b>Outline of Sessions:</b></p> <p><br/><b>Class 1 -\_Intro to programming\
-    \ in Ruby\_(2 hours, 7-9p)</b></p> <p>What is programming? What is Ruby? We'll\
-    \ give you some context for the class, then dive right into writing code! Using\
-    \ the Interactive Ruby Shell, we'll begin experimenting with variables, methods,\
-    \ and data types. We'll end the class by writing a little interactive command\
-    \ line program.</p> <p><b><a href=\"https://github.com/azelma/gdi-ruby#class-2\"\
-    >&lt;/a&gt;Class 2 -\_</b></p> <p>Structured programming (loops and conditions),\
-    \ working with collections data types\_\_(2 hours, 7-9p)</p> <p>We'll create small\
-    \ programs in the text editor that use conditionals and loops for control flow.\
-    \ Then, we'll explore Ruby's collections data types, and see some of the ways\
-    \ we can work with them.</p> <p><b>&lt;a href=\"https://github.com/azelma/gdi-ruby#class-3\"\
-    &gt;</a>Class 3 -\_</b></p> <p>Object Oriented Programming, part I\_\_(2 hours,\
-    \ 7-9p)</p> <p>We'll discuss the basic concepts of object oriented programming.\
-    \ We'll write our own methods, and explore some of the predefined methods that\
-    \ are available in Ruby for certain classes of object.</p> <p><b>&lt;a href=\"\
-    https://github.com/azelma/gdi-ruby#class-4\"&gt;&lt;/a&gt;Class 4 -\_</b></p>\
-    \ <p>Object Oriented Programming, part II\_\_(2 hours, 7-9p)</p> <p>We will expand\
-    \ our knowledge of OOP by discussing classes and inheritance. We will tie together\
-    \ everything we've learned with a relatively complex, totally fun final project.</p>\
-    \ <p>\n\n\n<b>About the Instructor:\_</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/b/0/600_441079120.jpeg\"\
-    \ /></p> <p>Valerie Woolard is a software engineer. She loves Ruby, Python, algorithms,\
-    \ test-driven development, and teaching other people about those things. She holds\
-    \ a master's degree in computer science from the University of Chicago and bachelor's\
-    \ degrees in French and cognitive science from the University of California, Berkeley.\
-    \ She's always happy to chat about linguistics, diversity in tech, running, musical\
-    \ theatre, and her ever-expanding list of books to read.</p> <p>\n\n\n\n<b>Getting\
-    \ there:</b>\_</p> <p>LivingSocial is conveniently located at 1445 New York Avenue\
-    \ NW - 2 blocks from the McPherson Square metro station (on the blue, silver and\
-    \ orange lines).\_</p> <p>\n\n\n<b>Refund Policy:</b>\_</p> <p>Your payment guarantees\
-    \ your seat in the course. If something changes after registration and you cannot\
-    \ attend the course, your seat is yours to sell or give to someone else - just\
-    \ please let us know who! \_As a rule we don't offer refunds or credits; \_Instead\
-    \ your class fee will go toward our chapter fund which we will use to establish\
-    \ a scholarship fund going forward. \_ That said, please do reach out and let\
-    \ us know if you have extenuating circumstances.</p>"
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/224738916/
-  fee: {accepts: cash, amount: 90, currency: USD, description: per person, label: Price,
-    required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '224738916'
-  maybe_rsvp_count: 0
-  name: Intro to Ruby
-  rsvp_limit: 15
-  status: upcoming
-  time: 1442358000000
-  updated: 1439990803000
-  utc_offset: -14400000
-  venue: {address_1: 1445 New York Ave Nw, city: Washington, country: US, id: 23819537,
-    lat: 38.899033000000003, lon: -77.032982000000004, name: 'LivingSocial, Inc',
-    repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
-- created: 1437347249000
-  description: "<p><b>You MUST <a href=\"https://www.eventbrite.com/e/content-marketing-are-you-doing-it-right-tickets-17823439387\"\
-    >register on Eventbrite</a> to attend.</b></p> <p>Content marketing is about creating\
-    \ content that interests and engages your audience, creates a trust relationship\
-    \ with your visitors and enhances your brand.</p> <p>Join us\_\_as we discuss:</p>\
-    \ <p>\_ \u2022\_The value and reach of content marketing<br/>\_ \u2022\_Content\
-    \ types - and the pros, cons and appropriate format of each<br/>\_ \u2022\_Aligning\
-    \ your content with the appropriate outlet<br/>\_ \u2022\_Integrating content\
-    \ into existing marketing, communication and content creation workflows<br/>\_\
-    \ \u2022\_Identifying your content marketing strategy - and how to evaluate success.</p>\
-    \ <p>We will begin at 6:30 with networking, drinks and appetizers. Presentations\
-    \ start at 7pm.</p> <p><b>SPEAKERS</b></p> <p><b>Rebecca Lombardo</b>,\_Director\
-    \ of Marketing &amp; Business Development, The Sutter Group</p> <p><br/>Rebecca\
-    \ designs and drives the marketing of SG. With 13 years of magazine experience,\
-    \ she enjoys helping companies market themselves online in a more editorial way.\
-    \ Responsible for disrupting traditional thinking and inspiring new ideas that\
-    \ deepen brand retention, Rebecca works with existing and potential clients to\
-    \ keep them on the cutting edge of digital marketing and design services via the\
-    \ loyal account managers inside Sutter Group. She keeps the creative bar high\
-    \ and the attention focused on the end-user. Rebecca has helped start-ups like\
-    \ TaxiFareFinder.com and Spahub.com, as well as established brands like PEZ, with\
-    \ their Public Relations, Content and Social Media marketing.</p> <p><b>Stephanie\
-    \ Hedean</b>,\_Director of Content Marketing, SmartBrief\_</p> <p>Stephanie Hedean\
-    \ is currently Director of Content Marketing at SmartBrief, a digital B2B publisher.\
-    \ SmartBrief\u2019s core business is the publication of over 200 e-newsletters\
-    \ reaching over 5 million subscribers across 15 industry verticals. Stephanie\
-    \ joined SmartBrief in May of 2014 and leads the effort to expand and diversify\
-    \ the business and product portfolio to include custom content marketing products\
-    \ for advertisers, partners and content clients. Prior to SmartBrief, Stephanie\
-    \ was at USA TODAY where she held numerous positions including Director of Client\
-    \ Solutions and Vice President of Marketing and Strategy. She also spent a few\
-    \ years working in the non-profit sector as Director of Strategic Partnerships\
-    \ and Communications for the Global Network for Neglected Tropical Diseases at\
-    \ the Sabin Vaccine Institute. Stephanie is a graduate of Ohio University and\
-    \ has an Executive Masters degree in Leadership in Business from The McDonough\
-    \ School of Business at Georgetown University.</p> <p><br/><b>SPONSORS</b></p>\
-    \ <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sg120.png\" /></p>\
-    \ <p><a href=\"http://www.sutter-group.com/\">Sutter Group</a>\_is a woman-owned\
-    \ and operated small business based in the Washington, D.C. area with almost 30\
-    \ years of experience working with nationally recognized brands. Our dedication\
-    \ to brand consistency and quality across digital platforms and specialty printing\
-    \ has made us one of the most highly referred full-service creative agencies.\
-    \ Sutter Group\u2019s sought-after brand development insight and multi-platform\
-    \ marketing experience has given us the pleasure of working with the nation\u2019\
-    s leading automotive brands, technology companies, nonprofits and more. Sutter\
-    \ Group offers services in branding, website design, marketing strategy, digital\
-    \ marketing, campaign planning, e-learning and design.</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
-    \ /></p> <p><a href=\"http://www.sitecore.com\">Sitecore</a>\_is the global leader\
-    \ in customer experience management software that lets marketers own the experience\
-    \ of every customer or prospect that engages with their brand. The company delivers\
-    \ highly relevant content and personalized digital experiences that delight audiences,\
-    \ build loyalty and drive revenue.\_</p> <p>More than 3,500 of the world\u2019\
-    s leading brands and organizations trust Sitecore to help them deliver the meaningful\
-    \ interactions that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
-    >www.sitecore.com</a>\_</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/224034782/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '224034782'
-  maybe_rsvp_count: 0
-  name: 'Content Marketing: Are You Doing It Right?'
-  status: upcoming
-  time: 1442358000000
-  updated: 1442246174000
-  utc_offset: -14400000
-  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
-    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
-      Hub, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 74
 - created: 1441828259000
   description: "<p>We're a group of women working to learn and develop our Python\
     \ programming skills. Some of us are professional developers and data scientists,\
@@ -298,7 +152,7 @@ other:
     name: University of Maryland, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 32
 - created: 1438791539000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -403,7 +257,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 483
+  yes_rsvp_count: 496
 - created: 1439936511000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
     \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
@@ -441,7 +295,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -471,7 +325,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -583,7 +437,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -630,7 +484,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -695,7 +549,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 61
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -815,7 +669,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 2
   yes_rsvp_count: 80
 - created: 1442352338000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
@@ -854,7 +708,7 @@ other:
     lat: 38.932063999999997, lon: -77.028289999999998, name: The Coupe, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1086,7 +940,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1441890236000
   description: "<p>Django Girls\_is a non-profit organization that organizes free,\
     \ one-day workshops to teach women who have never programmed before how to build\
@@ -1258,7 +1112,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 16
 - created: 1441756224000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1536,7 +1390,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 34
+  waitlist_count: 35
   yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
@@ -1650,7 +1504,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1441756224000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
