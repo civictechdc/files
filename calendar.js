@@ -196,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1441828259000, 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1438791539000, 
@@ -314,7 +314,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 472
+            "yes_rsvp_count": 483
         }, 
         {
             "created": 1439936511000, 
@@ -475,7 +475,7 @@ calendar({
         }, 
         {
             "created": 1438616874000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
+            "description": "<p>Quiz for ALL attendees:</p> <p>Please send your responses to [masked] before noon on Sunday, Sept. 20 so I can look through them before we meet on Monday. Thanks!</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and use tutorials, google, etc. to help you figure out the answers.\u00a0<br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?<br/>4. What are the default views for all Rails apps?<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default views could be displayed?<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default views could be displayed? What file are they in?<br/>7. Where is the method to add_bank_account to users? What gem does it use?<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>\n\nWe'll meet on Monday evenings probably from 6:30-8:30 at MLK library or maybe even Optoro.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p><br/>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/224375754/", 
             "group": {
@@ -494,16 +494,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1442874600000, 
-            "updated": 1439487723000, 
+            "updated": 1442349370000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "Chinatown", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24094465, 
+                "lat": 38.900855999999997, 
+                "lon": -77.022864999999996, 
+                "name": "Probably MLK Library or maybe Optoro", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1441578117000, 
@@ -586,7 +586,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1440102483000, 
@@ -696,8 +696,46 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 80
+        }, 
+        {
+            "created": 1442352338000, 
+            "description": "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>We'll be in the back part of the bar, at a big communal table. The Coupe's full menu will be available to order from the bartender.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p>RSVP at\u00a0<a href=\"https://nvite.com/dcfemtech/cc2e\" class=\"linkified\">https://nvite.com/dcfemtech/cc2e</a></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225379129/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We reserved a table!", 
+            "id": "225379129", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee @ The Coupe!", 
+            "status": "upcoming", 
+            "time": 1443380400000, 
+            "updated": 1442352338000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3415 11th St Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 18115802, 
+                "lat": 38.932063999999997, 
+                "lon": -77.028289999999998, 
+                "name": "The Coupe", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1439487723000, 
@@ -841,7 +879,8 @@ calendar({
         {
             "created": 1441653193000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytmbnc/", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225378306/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -858,11 +897,22 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1443652200000, 
-            "updated": 1441653193000, 
+            "updated": 1442353199000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24009011, 
+                "lat": 38.905864999999999, 
+                "lon": -77.043396000000001, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1441890236000, 
@@ -1293,6 +1343,44 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1422815542000, 
+            "description": "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231785/", 
+            "group": {
+                "created": 1361902062000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 7361532, 
+                "join_mode": "open", 
+                "name": "DC Hack and Tell", 
+                "urlname": "DC-Hack-and-Tell", 
+                "who": "Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "by the couch!", 
+            "id": "220231785", 
+            "maybe_rsvp_count": 0, 
+            "name": "Round 25: Percival's Pernicious Parsnips", 
+            "status": "upcoming", 
+            "time": 1444775400000, 
+            "updated": 1442350580000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "718 7th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19047832, 
+                "lat": 38.899109000000003, 
+                "lon": -77.022223999999994, 
+                "name": "WeWork Chinatown", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 15
+        }, 
+        {
             "created": 1441756224000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytnbrb/", 
@@ -1318,44 +1406,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1422815542000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231785/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231785", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 25: Percival's Pernicious Parsnips", 
-            "status": "upcoming", 
-            "time": 1444777200000, 
-            "updated": 1422815542000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
@@ -1732,33 +1782,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1441756224000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bqlpklytpbfb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bqlpklytpbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1446593400000, 
-            "updated": 1441756224000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1440087572000, 
             "description": "<p><b>Please only RSVP if you're certain you will be able to make all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\u00a0</b></p> <p>\n\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1000/pp for three days, but Elixir Mastery is offering GDI DC three free tickets. If you are certain you will be able to make all three days, RSVP and you will be shown a discount code. Please go to the <a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>\u00a0and enter your discount code to claim the discount within 48 hours. If the code is not claimed in that time frame we will need to pass it along to another GDI DC member.\u00a0</p> <p>\n\n\n\n<b>About Elixir</b></p> <p><br/>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p><br/>More information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p><br/><b><br/></b></p> <p><b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://www.elixirmastery.com/\">event registration page</a>. We have scholarships for the first three members that RSVP, making the course free of charge.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0If you are unable to RSVP it is because the three scholarships have been claimed.</p>", 
             "duration": 201600000, 
@@ -1919,7 +1942,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 

@@ -3285,7 +3285,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 87, 
+                "contributions": 93, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3363,7 +3363,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12052154?v=3", 
-                "contributions": 2, 
+                "contributions": 4, 
                 "link": "https://github.com/JasonParentEAB", 
                 "name": "JasonParentEAB"
             }, 
@@ -3495,11 +3495,11 @@
         "languages": [
             [
                 "HTML", 
-                35058
+                23059
             ], 
             [
                 "JavaScript", 
-                11072
+                12409
             ], 
             [
                 "CSS", 
@@ -3514,14 +3514,14 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 13, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-09-15T14:56:06Z", 
+        "pushed_at": "2015-09-15T22:16:17Z", 
         "size": 10535, 
         "updated_at": "2015-07-14T19:49:58Z", 
         "watchers": 10
@@ -3705,12 +3705,11 @@
             0, 
             0, 
             0, 
-            0, 
-            107, 
-            49, 
+            38, 
+            77, 
+            42, 
             5, 
             2, 
-            1, 
             0, 
             1, 
             0, 
@@ -3721,6 +3720,7 @@
             0, 
             0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
@@ -3873,8 +3873,8 @@
             0, 
             0, 
             0, 
-            0, 
             6, 
+            0, 
             0, 
             0
         ], 
@@ -3989,8 +3989,8 @@
             0, 
             16, 
             0, 
-            25, 
-            10, 
+            28, 
+            7, 
             1, 
             0, 
             0
