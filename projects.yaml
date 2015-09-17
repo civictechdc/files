@@ -668,7 +668,7 @@
     1, 2, 1]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 24,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 26,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
@@ -684,7 +684,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 30935]
+  - [JavaScript, 36640]
   - [CSS, 272]
   - [HTML, 234]
   license: null
@@ -693,7 +693,7 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-09T22:41:09Z'
+  pushed_at: '2015-09-16T22:13:23Z'
   size: 27066
   updated_at: '2015-09-10T00:01:09Z'
   watchers: 11
@@ -1171,7 +1171,7 @@
   open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-16T02:26:00Z'
+  pushed_at: '2015-09-16T21:07:16Z'
   size: 10535
   updated_at: '2015-09-16T00:34:48Z'
   watchers: 11
@@ -1228,7 +1228,7 @@
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 38, 77, 42, 5, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 53, 79, 26, 4, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -1323,8 +1323,8 @@
   updated_at: '2015-08-27T20:33:32Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 28, 7,
-    1, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 14, 0, 28, 8,
+    0, 0, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 52,
