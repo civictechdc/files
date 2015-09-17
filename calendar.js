@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1427389147000, 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1440421299000, 
@@ -236,7 +236,7 @@ calendar({
         }, 
         {
             "created": 1441902223000, 
-            "description": "<p>This September, Lindsay Brown will walk us through her exploreMapPy project, which puts DOT data for 52 states and territories in an interactive map. The project uses Python and JavaScript and makes use of svg, json, and other cool tools. (<a href=\"https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\" class=\"linkified\">https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239</a>)<br/>More info on the meetup coming soon.</p> <p>********</p> <p>We start gathering at 6:30, and order pizza for around then. Intros start at 7, and then our talk. See you soon!</p>", 
+            "description": "<p>This September, Lindsay Brown will walk us through her <a href=\"https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\">exploreMapPy project</a>, which puts DOT data for 52 states and territories in an interactive map. The project uses Python and JavaScript and makes use of svg, json, and other cool tools.\u00a0It doesn't use a mapping API; rather, the map is comprised of 52 SVG shapes.\u00a0 Lindsay will cover topics like her design approach and how she tested the JS.</p> <p>Lindsay Brown is a Web Development Specialist, looking to grow beyond her current SharePoint environment at her day job. She's interested in pursuing work that involves functional JavaScript, Python, and data visualization.</p> <p>********</p> <p>We start gathering at 6:30, and order pizza for around then. Intros start at 7, and then our talk. See you soon!</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/225259705/", 
             "group": {
@@ -255,7 +255,7 @@ calendar({
             "name": "Interactive Maps With Python And JavaScript", 
             "status": "upcoming", 
             "time": 1442874600000, 
-            "updated": 1441902605000, 
+            "updated": 1442504607000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1818 N St NW", 
@@ -347,7 +347,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1441578117000, 
@@ -386,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1440102483000, 
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441308071000, 
@@ -624,7 +624,7 @@ calendar({
         }, 
         {
             "created": 1442459161000, 
-            "description": "<p>For our September Meetup, we're presenting the work of five (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes.</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location TBA)</p> <p><br/><b>Location:</b></p> <p>We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes.</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location <i>TBA</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/225413582/", 
             "group": {
@@ -644,7 +644,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1442459182000, 
+            "updated": 1442507045000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -659,7 +659,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1442409352000, 
@@ -983,7 +983,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1326383071000, 
@@ -1101,7 +1101,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 38, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1205,6 +1205,52 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 16
+        }, 
+        {
+            "created": 1442512202000, 
+            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Oct 13 and Oct 15; 7-9p). \u00a0</b></p> <p><b><br/></b></p> <p><b>About the Course:<br/></b></p> <p>Through the course of this two-part class, you'll get a thorough introduction to HTML5 and CSS3 to build on your previous knowledge. You'll get hands-on experience working with HTML5 features like semantic elements and forms, and you'll learn new CSS3 properties and abilities including transformations and transitions. Finally, we'll dig into responsive design and browser compatibility.</p> <p><br/>You'll leave with readily-applicable skills and we'll be available to answer any questions you may have along the way!</p> <p>To get the most out of this class, you should have a working knowledge of basic HTML and CSS. You may have taken Intro to HTML through Girl Develop It, or maybe you have built a site for fun.</p> <p><b><i><br/></i></b></p> <p><b><i>Why Hangouts &amp; Full Disclosure:<br/></i></b></p> <p><i>Many of our students find it hard to make classes because of traffic, late working hours, etc. We wanted to explore an alternative, virtual classes, and see if it may be a fit for GDI DC.\u00a0</i></p> <p><i><b>Here are the perks: </b>you can join the meetups from anywhere, lower class rates (our cost savings roll right down to you) and the videos are available for reference after each class.\u00a0</i></p> <p><i>Please note that there may be some issues while we're ironing out the details and figuring things out. However, we hope you'll enjoy the sessions!</i></p> <p><br/><b><i><br/></i></b></p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#prerequisites\"&gt;&lt;/a&gt; <b>Prerequisites:</b></p> <p>Introduction to HTML/CSS or basic HTML/CSS experience.</p> <p>\n\n\n<a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#tech-requirements\">&lt;/a&gt; <b>Tech Requirements:</b></p> <p>A modern browser: either Chrome with the \"Web Developer\" extension or Firefox with Firebug installed.A text editor. We recommend Sublime Text 2 (free; available for both Mac and PC).</p> <p>If you do not have a Google account you may not be able to fully participate. We highly recommend creating one (free) to have the most optimal Hangouts on Air experience. After you register be sure to supply your google account information once the question box comes up. If you do not see this please email me ([masked]) and include your google account information.\u00a0</p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#topics-covered\"&gt;</a></p> <p><br/><b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/3/2/6/600_442069958.jpeg\" /></p> <p>Kranthi Reddy is a developer focusing in data science and machine learning. She's an open-source enthusiast and passionate about computer science. When she is not working she likes to experiment with molecular gastronomy, explore new places and learn new technologies.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Isn't it nice to only worry about getting somewhere quiet with your computer? :)</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees a single seat in this Hangout on Air session. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225425768/", 
+            "fee": {
+                "accepts": "cash", 
+                "amount": 15, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "225425768", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intermediate HTML/CSS (Virtual)", 
+            "rsvp_limit": 99, 
+            "status": "upcoming", 
+            "time": 1444777200000, 
+            "updated": 1442512202000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Virtual (Google Hangouts)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23694109, 
+                "lat": 38.875359000000003, 
+                "lon": -76.994972000000004, 
+                "name": "Virtual (Google Hangouts)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1441653193000, 
@@ -1360,7 +1406,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 
