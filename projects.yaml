@@ -1,6 +1,6 @@
-- activity: [6, 3, 0, 8, 0, 7, 12, 27, 37, 13, 32, 38, 7, 1, 10, 20, 1, 34, 20, 29,
-    81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6, 3, 2, 2, 1, 5, 0, 8, 0, 0, 0, 10, 6,
-    2, 8, 0, 41, 40, 2, 0, 2]
+- activity: [9, 0, 0, 8, 2, 12, 6, 26, 37, 19, 31, 33, 8, 0, 14, 17, 2, 34, 20, 32,
+    95, 31, 15, 28, 0, 2, 0, 1, 11, 4, 7, 7, 2, 2, 2, 3, 3, 0, 8, 0, 0, 0, 10, 6,
+    10, 0, 0, 60, 23, 0, 0, 2]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -20,7 +20,7 @@
     thumbnailUrl: https://codefordc.github.io/districthousing/img/district-housing-logo-small.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 744,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 747,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 133,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
@@ -90,22 +90,23 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Ruby, 195715]
-  - [HTML, 74893]
-  - [CSS, 16102]
-  - [CoffeeScript, 6976]
+  - [Java, 1908503]
+  - [Ruby, 195771]
+  - [HTML, 87943]
+  - [CSS, 49846]
+  - [JavaScript, 26140]
+  - [CoffeeScript, 7895]
   - [Puppet, 5537]
-  - [JavaScript, 788]
   - [Shell, 118]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
-  main_language: Ruby
+  main_language: Java
   name: District Housing Application Assistant
   open_issues: 61
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-10T14:40:49Z'
-  size: 22623
-  updated_at: '2015-08-20T00:22:16Z'
+  pushed_at: '2015-09-17T04:08:57Z'
+  size: 22551
+  updated_at: '2015-09-17T04:08:58Z'
   watchers: 24
 - activity: [0, 4, 2, 0, 6, 0, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0,
     1, 1, 3, 0, 8, 0, 3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

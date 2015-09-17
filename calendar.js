@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1427389147000, 
@@ -117,124 +117,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1441828259000, 
-            "description": "<p>We're a group of women working to learn and develop our Python programming skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. Folks of all skill levels are welcome!</p> <p><br/>**<br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity. All other study group nights will cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>**</p> <p>This Women Who Code DC event is intended to be open for all women; we are emphatically trans* friendly.</p> <p>**</p> <p>Notes: Please bring a laptop!<br/>Parking: There's\u00a0a Parking Lot called GG1 on Paint Branch Drive that's about a 2-3 minute walk from the engineering building. Park in any parking lot with signs using Black lettering, but avoid the ones with signs whose letters are Red or Yellow.<br/>(<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=zFYfhqDqD-7k.keoW0aCNpWqM\">map</a>)\u00a0<br/>If you have any problems getting there, you can contact Morgan Davis at &lt;a&gt;248-<br/>[masked]&lt;/a&gt;.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225237634/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Jeong H. Kim Engineering Bldg. Room 1105 Look for signs!", 
-            "id": "225237634", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Study Group: With an intro to data science tools!", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1442442600000, 
-            "updated": 1442416369000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Jeong H. Kim Engineering Bldg.", 
-                "city": "College Park, MD 20742", 
-                "country": "us", 
-                "id": 24096069, 
-                "lat": 38.991058000000002, 
-                "lon": -76.938109999999995, 
-                "name": "University of Maryland", 
-                "repinned": false, 
-                "state": "MD"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1438791539000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/224426071/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "dnsnklytmbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1442442600000, 
-            "updated": 1441653160000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1440079801000, 
-            "description": "<p>For our September meetup we're honored to welcome <b>Dr. Hadley Wickham</b> (@hadleywickham), the author of several highly used packages in R, including dplyr, tidyr, stringr, devtools and ggplot2.\u00a0</p> <p><b>Abstract:</b><br/>A fluent interface lets you easily express yourself in code. Over time a fluent interface retreats to your subconcious. You don't need to bring it to mind; the code just flows out of your fingers. I strive for this fluency in all the packages I write, and while I don't always succeed, I think I've learned some valuable lessons along the way.</p> <p>In this talk, I'll discuss three guidelines that make it easier to develop fluent interfaces:</p> <p>* __Pure functions__. A pure function only interacts with the world through its inputs and outputs; it has no side-effects. Pure functions make great building blocks because they're are easy to reason about and can be easily composed.</p> <p>* __Predictable interfaces__. It's easier to learn a function if its consistent, because you can learn the behaviour of a whole group of functions at once. I'll highlight the benefits of predictability with some of my favourite R \"WAT\"s (including `c()`, `sapply()` and `sample()`).</p> <p>* __Pipes__. Pure predictable functions are nice in isolation but are most powerful in combination. The pipe, `%&gt;%`, is particularly in important when combining many functions because it turns function composition on its head so you can read it from left-to-right. I'll show you how this has helped me build dplyr, rvest, ggvis, lowliner, stringr and more.</p> <p>This talk will help you make best use of my recent packages, and teach you how to apply the same principles to make your own code easier to use.</p> <p><b>Speaker Information: </b><br/>Hadley is Chief Scientist at RStudio and Adjunct Professor of Statistics at Rice University. He is interested in building better tools for data science. His work includes R packages for data analysis (ggplot2, plyr, reshape2); packages that make R less frustrating (lubridate for dates, stringr for strings, httr for accessing web APIs); and that make it easier to do good software development in R (roxygen2, testthat, devtools, lineprof, staticdocs). He is also a writer, educator, and frequent contributor to conferences promoting more accessible and more effective data analysis.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/224763637/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "We're at the School on Int'l affairs on E Street, 2nd floor.", 
-            "id": "224763637", 
-            "maybe_rsvp_count": 0, 
-            "name": "Hadley Wickham: Pure, predictable, pipeable: creating fluent interfaces with R", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1442442600000, 
-            "updated": 1441156461000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1957 E St NW - Room 213", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23736024, 
-                "lat": 38.896275000000003, 
-                "lon": -77.044205000000005, 
-                "name": "GWU Elliot School of Int'l Affairs", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 487
-        }, 
-        {
             "created": 1439936511000, 
             "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\" /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology Institute</a>\u00a0for a Telecom Data Hackathon.</p> <p>The passing of strong Net Neutrality rules in February was historic for the Internet, but gathering, structuring, and sharing telecom data is crucial to better policy-making and effective regulation. If you're a data cruncher, designer, lawyer, policy-maker, or simply an Internet Lover, join us to #TelecomHack!</p> <p><b>Be sure to RSVP to this meetup so we can plan accordingly.</b></p> <p>What will we hack on?</p> <p>* FCC Notice &amp; Comment</p> <p>* Broadband Mapping\u00a0</p> <p>* Broadband Disclosure Label\u00a0Design Challenge</p> <p>* #PolicyHack\u00a0Software-Defined Radio</p> <p>*\u00a0Ex parte scraping\u00a0</p> <p>* Citation Analyzer</p> <p>* \u2728Your Idea\u2728</p> <p>Start adding\u00a0your ideas to the\u00a0<a href=\"https://hackpad.com/Telecom-Data-Hackathon-egktPcpW5lv\">Telecom-Hackpad</a>.</p> <p>If you're generally interested in legal hacking, but not in telecom data, please attend! We're happy to facilitate collaboration between lawyers and coders.</p> <p>For more information or to sponsor the hackathon, see: \u00a0<a href=\"https://telecomhack.splashthat.com/\"><a href=\"https://telecomhack.splashthat.com/\" class=\"linkified\">https://telecomhack.splashthat.com/</a></a></p> <p><br/>* * * * * * * *</p> <p>Follow along on twitter with the hashtag #TelecomHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/224725896/", 
@@ -310,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1440681237000, 
@@ -504,7 +386,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1440102483000, 
@@ -626,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1439487723000, 
@@ -741,6 +623,45 @@ calendar({
             "yes_rsvp_count": 36
         }, 
         {
+            "created": 1442459161000, 
+            "description": "<p>For our September Meetup, we're presenting the work of five (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes.</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location TBA)</p> <p><br/><b>Location:</b></p> <p>We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/225413582/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "225413582", 
+            "maybe_rsvp_count": 0, 
+            "name": "Lightning Talks! (IV)", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1443565800000, 
+            "updated": 1442459182000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2231 Crystal Dr #1000", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24025555, 
+                "lat": 38.853779000000003, 
+                "lon": -77.048766999999998, 
+                "name": "1776 Crystal CIty", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
             "created": 1442409352000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem! \u00a0</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.\u00a0</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed! \u00a0</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225393647/", 
@@ -806,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1441653193000, 
@@ -1062,7 +983,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1326383071000, 
@@ -1102,7 +1023,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1440425244000, 
@@ -1180,7 +1101,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 38, 
             "yes_rsvp_count": 1
         }, 
         {

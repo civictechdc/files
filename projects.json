@@ -1,43 +1,43 @@
 [
     {
         "activity": [
-            6, 
-            3, 
+            9, 
+            0, 
             0, 
             8, 
-            0, 
-            7, 
+            2, 
             12, 
-            27, 
+            6, 
+            26, 
             37, 
-            13, 
-            32, 
-            38, 
-            7, 
-            1, 
-            10, 
-            20, 
-            1, 
+            19, 
+            31, 
+            33, 
+            8, 
+            0, 
+            14, 
+            17, 
+            2, 
             34, 
             20, 
-            29, 
-            81, 
-            50, 
+            32, 
+            95, 
+            31, 
             15, 
             28, 
             0, 
             2, 
             0, 
-            0, 
-            11, 
-            5, 
-            7, 
-            6, 
-            3, 
-            2, 
-            2, 
             1, 
-            5, 
+            11, 
+            4, 
+            7, 
+            7, 
+            2, 
+            2, 
+            2, 
+            3, 
+            3, 
             0, 
             8, 
             0, 
@@ -45,12 +45,12 @@
             0, 
             10, 
             6, 
-            2, 
-            8, 
+            10, 
             0, 
-            41, 
-            40, 
-            2, 
+            0, 
+            60, 
+            23, 
+            0, 
             0, 
             2
         ], 
@@ -92,7 +92,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 744, 
+                "contributions": 747, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -276,28 +276,32 @@
         "id": 10896437, 
         "languages": [
             [
+                "Java", 
+                1908503
+            ], 
+            [
                 "Ruby", 
-                195715
+                195771
             ], 
             [
                 "HTML", 
-                74893
+                87943
             ], 
             [
                 "CSS", 
-                16102
+                49846
+            ], 
+            [
+                "JavaScript", 
+                26140
             ], 
             [
                 "CoffeeScript", 
-                6976
+                7895
             ], 
             [
                 "Puppet", 
                 5537
-            ], 
-            [
-                "JavaScript", 
-                788
             ], 
             [
                 "Shell", 
@@ -310,7 +314,7 @@
             "name": "MIT License", 
             "url": "https://api.github.com/licenses/mit"
         }, 
-        "main_language": "Ruby", 
+        "main_language": "Java", 
         "name": "District Housing Application Assistant", 
         "open_issues": 61, 
         "owner": {
@@ -319,9 +323,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-09-10T14:40:49Z", 
-        "size": 22623, 
-        "updated_at": "2015-08-20T00:22:16Z", 
+        "pushed_at": "2015-09-17T04:08:57Z", 
+        "size": 22551, 
+        "updated_at": "2015-09-17T04:08:58Z", 
         "watchers": 24
     }, 
     {
