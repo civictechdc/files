@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1427389147000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -153,7 +153,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -183,7 +183,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 75
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -213,7 +213,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1441902223000
   description: "<p>This September, Lindsay Brown will walk us through her <a href=\"\
     https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\"\
@@ -348,7 +348,36 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 20
+- created: 1442586108000
+  description: "<p>Interested in sharpening your coding interview skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
+    \ The schedule will be as follows:</p> <p>6:30 -\_Arrival/Food\_</p> <p>7:00 -\
+    \ 8:15 - \_Again, we'll spend all of the meetup working on questions in groups\
+    \ or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination\
+    \ of whiteboarding and coding on the computer so please bring a computer. You\
+    \ can code in the language of your choice!</p> <p>This event is intended to be\
+    \ exclusively open for women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225445130/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '225445130'
+  maybe_rsvp_count: 0
+  name: Algorithms and Interview Prep Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1442874600000
+  updated: 1442586108000
+  utc_offset: -14400000
+  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
+    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
+      Technologies, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 12
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -413,7 +442,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 69
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -492,7 +521,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 6
   yes_rsvp_count: 80
 - created: 1442352338000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
@@ -717,7 +746,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 115
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -791,7 +820,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1096,7 +1125,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 109
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1251,7 +1280,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 40
+  waitlist_count: 42
   yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
@@ -1365,7 +1394,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1750,7 +1779,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1959,7 +1988,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
