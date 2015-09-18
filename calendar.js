@@ -469,7 +469,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -583,7 +583,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1438041748000, 
@@ -659,7 +659,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1442409352000, 
@@ -727,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441653193000, 
@@ -983,7 +983,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1326383071000, 
@@ -1250,7 +1250,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1441653193000, 
