@@ -153,7 +153,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 45
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -213,7 +213,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 43
 - created: 1441902223000
   description: "<p>This September, Lindsay Brown will walk us through her <a href=\"\
     https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\"\
@@ -348,7 +348,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -459,7 +459,7 @@ other:
   rsvp_limit: 11
   status: upcoming
   time: 1442961000000
-  updated: 1440102989000
+  updated: 1442574533000
   utc_offset: -14400000
   venue: {address_1: '8121 Georgia Ave, Suite 600', city: Silver Spring, country: us,
     id: 19179062, lat: 38.991073999999998, lon: -77.026122999999998, name: Creative
@@ -492,7 +492,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 80
 - created: 1442352338000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
@@ -531,7 +531,7 @@ other:
     lat: 38.932063999999997, lon: -77.028289999999998, name: The Coupe, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -693,9 +693,9 @@ other:
     \ Presentations</p> <p>8:30pm\_-- Post presentation conversations and adjourn\
     \ for Data Drinks (location <i>TBA</i>)</p> <p><b>Sponsors:</b></p> <p>This event\
     \ is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\_<a href=\"http://bit.ly/12YljkP\"\
-    >Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\_<a href=\"http://datamininglab.com/\"\
-    >Elder Research</a>,\_<a href=\"http://www.novetta.com/\">Novetta Solutions</a>,\
-    \ and\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>, <a href=\"http://www.deeplearninganalytics.com/category/news/\"\
+    >Deep Learning Analytics</a>,\_<a href=\"http://datamininglab.com/\">Elder Research</a>,\_\
+    <a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
     >Booz Allen Hamilton</a>.\_(Would your organization like to sponsor too? Please\
     \ get in touch!)\_</p>"
   duration: 7200000
@@ -710,14 +710,14 @@ other:
   rsvp_limit: 500
   status: upcoming
   time: 1443565800000
-  updated: 1442507045000
+  updated: 1442536025000
   utc_offset: -14400000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24025555,
     lat: 38.853779000000003, lon: -77.048766999999998, name: 1776 Crystal CIty, repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 101
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -791,7 +791,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1096,7 +1096,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 108
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1251,7 +1251,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 39
+  waitlist_count: 40
   yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
@@ -1432,7 +1432,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1750,7 +1750,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -2330,7 +2330,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

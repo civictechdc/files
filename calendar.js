@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1440421299000, 
@@ -232,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1441902223000, 
@@ -347,7 +347,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1441578117000, 
@@ -417,7 +417,7 @@ calendar({
             "rsvp_limit": 11, 
             "status": "upcoming", 
             "time": 1442961000000, 
-            "updated": 1440102989000, 
+            "updated": 1442574533000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "8121 Georgia Ave, Suite 600", 
@@ -469,7 +469,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -508,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1439487723000, 
@@ -624,7 +624,7 @@ calendar({
         }, 
         {
             "created": 1442459161000, 
-            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes.</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location <i>TBA</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes.</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location <i>TBA</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>, <a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/225413582/", 
             "group": {
@@ -644,7 +644,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1442507045000, 
+            "updated": 1442536025000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -659,7 +659,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1442409352000, 
@@ -727,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
@@ -983,7 +983,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1326383071000, 
@@ -1101,7 +1101,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 39, 
+            "waitlist_count": 40, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1250,7 +1250,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1441653193000, 
@@ -1507,7 +1507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1441653193000, 
@@ -2036,7 +2036,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 
