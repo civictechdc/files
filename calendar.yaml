@@ -116,77 +116,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 9
 other:
-- created: 1439936511000
-  description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/f/b/7/600_441644983.jpeg\"\
-    \ /></p> <p>Join us and the <a href=\"https://www.newamerica.org/oti/\">Open Technology\
-    \ Institute</a>\_for a Telecom Data Hackathon.</p> <p>The passing of strong Net\
-    \ Neutrality rules in February was historic for the Internet, but gathering, structuring,\
-    \ and sharing telecom data is crucial to better policy-making and effective regulation.\
-    \ If you're a data cruncher, designer, lawyer, policy-maker, or simply an Internet\
-    \ Lover, join us to #TelecomHack!</p> <p><b>Be sure to RSVP to this meetup so\
-    \ we can plan accordingly.</b></p> <p>What will we hack on?</p> <p>* FCC Notice\
-    \ &amp; Comment</p> <p>* Broadband Mapping\_</p> <p>* Broadband Disclosure Label\_\
-    Design Challenge</p> <p>* #PolicyHack\_Software-Defined Radio</p> <p>*\_Ex parte\
-    \ scraping\_</p> <p>* Citation Analyzer</p> <p>* \u2728Your Idea\u2728</p> <p>Start\
-    \ adding\_your ideas to the\_<a href=\"https://hackpad.com/Telecom-Data-Hackathon-egktPcpW5lv\"\
-    >Telecom-Hackpad</a>.</p> <p>If you're generally interested in legal hacking,\
-    \ but not in telecom data, please attend! We're happy to facilitate collaboration\
-    \ between lawyers and coders.</p> <p>For more information or to sponsor the hackathon,\
-    \ see: \_<a href=\"https://telecomhack.splashthat.com/\"><a href=\"https://telecomhack.splashthat.com/\"\
-    \ class=\"linkified\">https://telecomhack.splashthat.com/</a></a></p> <p><br/>*\
-    \ * * * * * * *</p> <p>Follow along on twitter with the hashtag #TelecomHack or\
-    \ at\_<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a></p>"
-  event_url: http://www.meetup.com/DCLegalHackers/events/224725896/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '224725896'
-  maybe_rsvp_count: 0
-  name: 'Telecom Data Hackathon #TelecomHack #LegalHack'
-  status: upcoming
-  time: 1442667600000
-  updated: 1441775147000
-  utc_offset: -14400000
-  venue: {address_1: '1899 L Street NW ', address_2: Suite 400, city: Washington,
-    country: us, id: 1330329, lat: 38.903917, lon: -77.043056000000007, name: New
-      America Foundation, repinned: false, state: DC, zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 51
-- created: 1440421299000
-  description: "<p>Update: Here's the link to the Hangout!</p> <p><a href=\"https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g\"\
-    ><a href=\"https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g\" class=\"\
-    linkified\">https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g</a></a></p>\
-    \ <p>It's time to get comfortable with git!</p> <p>Today, git is the go-to for\
-    \ versioning. If you want to go code in the open source community, chances are\
-    \ good that you're going to have to learn about git.</p> <p>In this class, we're\
-    \ going to go over:</p> <p>\u2022 What exactly IS git?</p> <p><br/>\u2022 Installing\
-    \ it</p> <p><br/>\u2022 Creating repositories</p> <p><br/>\u2022 Branching, merging,\
-    \ rebasing, tagging</p> <p><br/>\u2022 Fixing merges</p> <p><br/>\u2022 Working\
-    \ with Github</p> <p><br/>\u2022 Getting information out of git</p> <p><br/>\u2022\
-    \ Tricks and tips</p> <p><br/>In order to participate in this class, you'll need\
-    \ a GitHub account and a computer with admin rights. We'll be playing around with\
-    \ a repo on my account, so you won't need to do anything but sign up!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/dc-pyladies/events/224846829/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  how_to_find_us: The link will be sent out either the day before, or the day of.
-  id: '224846829'
-  maybe_rsvp_count: 0
-  name: Let's learn Git in your PJs!
-  status: upcoming
-  time: 1442669400000
-  updated: 1442660922000
-  utc_offset: -14400000
-  venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
-    lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 79
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -380,7 +309,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -749,7 +678,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 120
+  yes_rsvp_count: 123
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1666,7 +1595,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
