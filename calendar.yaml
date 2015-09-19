@@ -153,7 +153,7 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1440421299000
   description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
     \ go-to for versioning. If you want to go code in the open source community, chances\
@@ -183,7 +183,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 77
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -213,7 +213,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 48
 - created: 1441902223000
   description: "<p>This September, Lindsay Brown will walk us through her <a href=\"\
     https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\"\
@@ -294,11 +294,11 @@ other:
   name: Next Step tutorial sessions/project
   status: upcoming
   time: 1442874600000
-  updated: 1442435248000
+  updated: 1442603391000
   utc_offset: -14400000
-  venue: {address_1: Chinatown, city: Washington, country: us, id: 24094465, lat: 38.900855999999997,
-    lon: -77.022864999999996, name: Probably MLK Library or maybe Optoro, repinned: false,
-    state: DC}
+  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
+    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
+      Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 11
@@ -348,7 +348,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1442586108000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -377,7 +377,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -746,7 +746,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 117
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
