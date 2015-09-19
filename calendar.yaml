@@ -153,15 +153,18 @@ other:
       America Foundation, repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 51
 - created: 1440421299000
-  description: "<p>It's time to get comfortable with git!</p> <p>Today, git is the\
-    \ go-to for versioning. If you want to go code in the open source community, chances\
-    \ are good that you're going to have to learn about git.</p> <p>In this class,\
-    \ we're going to go over:</p> <p>\u2022 What exactly IS git?</p> <p><br/>\u2022\
-    \ Installing it</p> <p><br/>\u2022 Creating repositories</p> <p><br/>\u2022 Branching,\
-    \ merging, rebasing, tagging</p> <p><br/>\u2022 Fixing merges</p> <p><br/>\u2022\
-    \ Working with Github</p> <p><br/>\u2022 Getting information out of git</p> <p><br/>\u2022\
+  description: "<p>Update: Here's the link to the Hangout!</p> <p><a href=\"https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g\"\
+    ><a href=\"https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g\" class=\"\
+    linkified\">https://plus.google.com/events/cl49r25dgpofcbm59n9cihtei6g</a></a></p>\
+    \ <p>It's time to get comfortable with git!</p> <p>Today, git is the go-to for\
+    \ versioning. If you want to go code in the open source community, chances are\
+    \ good that you're going to have to learn about git.</p> <p>In this class, we're\
+    \ going to go over:</p> <p>\u2022 What exactly IS git?</p> <p><br/>\u2022 Installing\
+    \ it</p> <p><br/>\u2022 Creating repositories</p> <p><br/>\u2022 Branching, merging,\
+    \ rebasing, tagging</p> <p><br/>\u2022 Fixing merges</p> <p><br/>\u2022 Working\
+    \ with Github</p> <p><br/>\u2022 Getting information out of git</p> <p><br/>\u2022\
     \ Tricks and tips</p> <p><br/>In order to participate in this class, you'll need\
     \ a GitHub account and a computer with admin rights. We'll be playing around with\
     \ a repo on my account, so you won't need to do anything but sign up!</p>"
@@ -176,14 +179,14 @@ other:
   name: Let's learn Git in your PJs!
   status: upcoming
   time: 1442669400000
-  updated: 1440680912000
+  updated: 1442660922000
   utc_offset: -14400000
   venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
     lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 79
 - created: 1440681237000
   description: "<p>Portfolios aren't just for designers! It's becoming more and more\
     \ common for potential employers to check out your personal site and Github account\
@@ -377,7 +380,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -442,7 +445,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 68
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -746,7 +749,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 120
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -820,7 +823,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -907,7 +910,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1394,7 +1397,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
