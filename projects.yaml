@@ -108,8 +108,8 @@
   size: 22551
   updated_at: '2015-09-17T04:08:58Z'
   watchers: 24
-- activity: [3, 3, 0, 0, 6, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0,
-    1, 4, 0, 2, 6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [3, 3, 0, 4, 2, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1,
+    0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -285,8 +285,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [8, 3, 3, 12, 8, 7, 9, 11, 11, 3, 1, 8, 1, 4, 2, 0, 10, 0, 0, 5, 2, 3,
-    6, 8, 6, 0, 11, 1, 1, 0, 4, 1, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0, 0,
+- activity: [8, 2, 8, 13, 2, 10, 11, 8, 12, 0, 1, 9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7,
+    4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -374,8 +374,8 @@
   size: 17624
   updated_at: '2015-08-26T00:23:22Z'
   watchers: 19
-- activity: [7, 6, 6, 4, 10, 7, 6, 6, 6, 4, 6, 7, 6, 2, 5, 0, 0, 0, 0, 0, 0, 0, 3,
-    1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 6, 6, 5, 10, 7, 5, 6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -424,8 +424,8 @@
   size: 2410
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     categories:
@@ -480,8 +480,8 @@
   size: 2915
   updated_at: '2015-09-14T15:52:09Z'
   watchers: 6
-- activity: [1, 9, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 13, 8,
-    4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0,
+- activity: [9, 1, 5, 3, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 1, 9, 20, 1,
+    4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -538,8 +538,8 @@
   size: 32804
   updated_at: '2015-09-03T14:34:03Z'
   watchers: 26
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
-    1, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8,
+    0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -807,7 +807,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 10, 81, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 16, 75, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -854,8 +854,8 @@
   size: 1004
   updated_at: '2015-05-09T20:16:06Z'
   watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 29, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 25, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json: null
   contributors:
@@ -885,8 +885,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 11,
-    2, 5, 0, 0, 0, 0, 0, 0, 26, 39, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 5,
+    0, 5, 0, 0, 0, 0, 0, 0, 45, 20, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: ''
@@ -934,8 +934,8 @@
   size: 565
   updated_at: '2015-08-15T01:57:41Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 38,
-    66, 16, 52, 45, 6, 2, 1, 0, 6, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 32,
+    70, 16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0,
     0, 0, 0, 4]
   civic_json:
     bornAt: Code for DC
@@ -979,8 +979,8 @@
   size: 4205
   updated_at: '2015-08-11T21:00:15Z'
   watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30,
-    10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20,
+    0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Open Data Day 2015, Code for DC
@@ -1103,6 +1103,20 @@
   forks: 28
   help_wanted:
   - assignee: null
+    body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
+      \ for us to do?"
+    comments: 0
+    created_at: '2015-09-21T01:47:17Z'
+    issue: Look into automatic eligibility checker that uses PHP
+    issue_url: https://github.com/codefordc/clean-slate/issues/165
+    labels:
+    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
+    - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
+    - {color: cc317c, name: question, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/question'}
+    project: Conviction Expungement
+    project_url: https://github.com/codefordc/clean-slate
+    updated_at: '2015-09-21T01:47:38Z'
+  - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
       \ site and host on your github pages. We will then use the link of your github\
@@ -1169,7 +1183,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 11
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-09-16T21:07:16Z'

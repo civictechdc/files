@@ -147,7 +147,7 @@ other:
     zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1438616874000
   description: "<p>Quiz for ALL attendees:</p> <p>Please send your responses to [masked]\
     \ before noon on Sunday, Sept. 20 so I can look through them before we meet on\
@@ -277,7 +277,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1441578117000
   description: "<p>Data Science is not just about Web analytics and academic papers.\
     \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
@@ -342,7 +342,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -460,7 +460,7 @@ other:
     lat: 38.932063999999997, lon: -77.028289999999998, name: The Coupe, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -646,7 +646,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 133
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1025,7 +1025,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1180,7 +1180,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 42
+  waitlist_count: 43
   yes_rsvp_count: 1
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
