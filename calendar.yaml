@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1427389147000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -120,15 +120,16 @@ other:
   description: "<p>This September, Lindsay Brown will walk us through her <a href=\"\
     https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\"\
     >exploreMapPy project</a>, which puts DOT data for 52 states and territories in\
-    \ an interactive map. The project uses Python and JavaScript and makes use of\
-    \ svg, json, and other cool tools.\_It doesn't use a mapping API; rather, the\
-    \ map is comprised of 52 SVG shapes.\_ Lindsay will cover topics like her design\
-    \ approach and how she tested the JS.</p> <p>Lindsay Brown is a Web Development\
-    \ Specialist, looking to grow beyond her current SharePoint environment at her\
-    \ day job. She's interested in pursuing work that involves functional JavaScript,\
-    \ Python, and data visualization.</p> <p>********</p> <p>We start gathering at\
-    \ 6:30, and order pizza for around then. Intros start at 7, and then our talk.\
-    \ See you soon!</p>"
+    \ an interactive map\_published on\_<a href=\"http://www.ntpep.org/\"><a href=\"\
+    http://www.ntpep.org\" class=\"linkified\">http://www.ntpep.org</a>\_</a>. The\
+    \ project uses Python and JavaScript and makes use of svg, json, and other cool\
+    \ tools.\_It doesn't use a mapping API; rather, the map is comprised of 52 SVG\
+    \ shapes.\_ Lindsay will cover topics like her design approach and how she tested\
+    \ the JS.</p> <p>Lindsay Brown is a Web Development Specialist, looking to grow\
+    \ beyond her current SharePoint environment at her day job. She's interested in\
+    \ pursuing work that involves functional JavaScript, Python, and data visualization.</p>\
+    \ <p>********</p> <p>We start gathering at 6:30, and order pizza for around then.\
+    \ Intros start at 7, and then our talk. See you soon!</p>"
   duration: 10800000
   event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/225259705/
   group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -140,14 +141,14 @@ other:
   name: Interactive Maps With Python And JavaScript
   status: upcoming
   time: 1442874600000
-  updated: 1442504607000
+  updated: 1442843919000
   utc_offset: -14400000
   venue: {address_1: 1818 N St NW, city: Washington, country: us, id: 311792, lat: 38.907229999999998,
     lon: -77.042150000000007, name: Sunlight Foundation, repinned: false, state: DC,
     zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 26
 - created: 1438616874000
   description: "<p>Quiz for ALL attendees:</p> <p>Please send your responses to [masked]\
     \ before noon on Sunday, Sept. 20 so I can look through them before we meet on\
@@ -342,7 +343,7 @@ other:
       Stuff, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 74
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -375,6 +376,7 @@ other:
     \ don't offer refunds or credits; \_Instead your class fee will go toward our\
     \ chapter fund which we will use to establish a scholarship fund going forward.\
     \ \_ That said, please do reach out and let us know if you have extenuating circumstances.</p>"
+  duration: 7200000
   event_url: http://www.meetup.com/Girl-Develop-It-DC/events/224772008/
   fee: {accepts: cash, amount: 90, currency: USD, description: per person, label: Price,
     required: '1'}
@@ -388,7 +390,7 @@ other:
   rsvp_limit: 11
   status: upcoming
   time: 1442961000000
-  updated: 1442574533000
+  updated: 1442840297000
   utc_offset: -14400000
   venue: {address_1: '8121 Georgia Ave, Suite 600', city: Silver Spring, country: us,
     id: 19179062, lat: 38.991073999999998, lon: -77.026122999999998, name: Creative
@@ -421,8 +423,8 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
-  yes_rsvp_count: 80
+  waitlist_count: 2
+  yes_rsvp_count: 79
 - created: 1442352338000
   description: "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops\
     \ for a fun, informal way to learn, code and work on projects with other members\
@@ -541,66 +543,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
-- created: 1438041748000
-  description: "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
-    >Registration is through Eventbrite</a></b></p> <p>Speed Networking between people\
-    \ who run digital projects for associations &amp; nonprofits - and the digital\
-    \ experts who can help!\_</p> <p>Make connections, talk shop, find help for your\
-    \ projects (or projects to work on) and get to know each other over drinks and\
-    \ appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What\
-    \ is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several\
-    \ people in a short time period - you'll mingle (M), interact (I) and exchange\
-    \ information (X).\_All with\_food and drink!</p> <p>Before the event, you'll\
-    \ provide information about yourself, your organization/company and what you either\
-    \ can provide (if you are a freelancer/agency) or what you need (if you are with\
-    \ an association or nonprofit). We'll use this to pre-match you during the speed\
-    \ portion.\_</p> <p><b>Mingle:\_</b>When you arrive, we'll have a short structured\
-    \ networking portion where we organize tables based on topic and you can self-select\
-    \ which table to join. After the Speed MIX portion, you can return to those tables\
-    \ or talk with the people you've met.</p> <p><b>Interact:</b>\_Speed MIX - You'll\
-    \ meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information\
-    \ you provide.\_</p> <p>If you are with a association or nonprofit, you'll talk\
-    \ with freelancers and agency staff.\_If you are a freelancer or work for a digital\
-    \ agency, you'll talk with people at that run digital projects.\_</p> <p><b>eXchange:\_\
-    </b>More networking! Exchange information with the people you've met - and reach\
-    \ out when you are ready.\_</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30\
-    \ - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30\
-    \ - Networking (structured and unstructured)</p> <p>Note that while we will try\
-    \ to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place\
-    \ in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused\
-    \ on associations as well as cause organizations,\_think tanks, foundations and\
-    \ similar nonprofits. We'll match you with experts based on topic areas - website\
-    \ design, web tech, user experience, digital strategy, digital marketing, etc.</p>\
-    \ <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk\
-    \ up your product or want a recruiting table, please reach out! When we send out\
-    \ a follow-up message, we can include information about your company. For more\
-    \ information, contact\_<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>OUR\
-    \ SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\"\
-    \ /></p> <p><b><br/></b></p> <p><a href=\"http://www.teksystems.com/\"><b>TEKsystems</b></a></p>\
-    \ <p><br/>Creative Staffing Services for Digital Marketing, Web and Enterprise\
-    \ IT</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\"\
-    \ /></p> <p><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a></p>\
-    \ <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\"\
-    \ /></p> <p>\n\n\n<a href=\"http://www.sutter-group.com/\">The Sutter Group</a></p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/224220483/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '224220483'
-  maybe_rsvp_count: 0
-  name: 'Speed MIX: Associations & Nonprofits + Digital Experts and Agencies'
-  status: upcoming
-  time: 1443479400000
-  updated: 1441716938000
-  utc_offset: -14400000
-  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
-    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
-      Hub, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 10
 - created: 1442459161000
   description: "<p>For our September Meetup, we're presenting the work of six (at\
     \ least!) data scientists from our community.\_These lightning talks will include\
@@ -646,7 +589,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 137
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -772,6 +715,30 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1442848784000
+  description: "<p>Are you a professional developer, designer, sysadmin, or working\
+    \ in a field somehow related to code? Come brunch with others like you!\_</p>\
+    \ <p>\n\n\nThe estimated cost for the brunch is $10, but the final cost will be\
+    \ whatever you owe the restaurant for your order, which you will pay directly\
+    \ to them. (We will not be taking any payments from you).</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225510220/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '225510220'
+  maybe_rsvp_count: 0
+  name: Professional Networking Brunch
+  rsvp_limit: 20
+  status: upcoming
+  time: 1443974400000
+  updated: 1442849615000
+  utc_offset: -14400000
+  venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
+    id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 9
 - created: 1441890236000
   description: "<p>Django Girls\_is a non-profit organization that organizes free,\
     \ one-day workshops to teach women who have never programmed before how to build\
@@ -807,7 +774,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -889,61 +856,69 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
-- created: 1440292935000
-  description: "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\"\
-    >Eventbrite</a>. \_The date for this event will change once we have results from\
-    \ the <a href=\"https://www.surveymonkey.com/r/QNQGKZC\">survey</a>.</b></p> <p>Come\
-    \ to the geekier side of the web world. \_Meet developers, programmers and data\
-    \ gurus - along with the people who manage web projects, wrangle web systems and\
-    \ otherwise run websites.</p> <p>You don't have to be a hard-core geek to join\
-    \ us. \_But you should have a good understanding of how websites work. \_If you've\
-    \ tweaked code, you're meant to be here!</p> <p>We have lots to talk about. \_\
-    To make sure we get a good mix, we're inviting a host of web tech experts to mix\
-    \ and mingle with you, including:\_<br/>- Web CMS\_<br/>- Ruby and other web frameworks\_\
-    <br/>- Mobile development and administration\_<br/>- Web project management\_\
-    <br/>- Website management\_<br/>- APIs and integrating with Facebook/Google/Etc</p>\
-    \ <p>Registration include appetizers and drinks.</p> <p><b>Other Registration\
-    \ Details:</b></p> <p>- Looking to sell your product or company or recruit? Be\
-    \ sure you use the proper registration type. You'll be able to include a link\
-    \ to jobs or a product page in a follow-up message.</p> <p>- If your title doesn't\
-    \ let us know how techie you are - include that info!\_</p> <p>- If you register\
-    \ in the web techie or web manager/technical PM roles, be sure to include details\
-    \ about your organization and position. \_If you aren't sure you qualify, feel\
-    \ free to contact us.</p> <p>- If you are a techie looking for a job or consulting\
-    \ gig, we'll have flags for your nametag.</p> <p><b>How Does It Work?</b></p>\
-    \ <p>You'll have a chance to network and mingle with several people in a couple\
-    \ different ways. You'll mingle (M), interact (I) and exchange information (X).\_\
-    </p> <p>Before the event, you'll provide information about yourself and what you\
-    \ are interested in. We'll use this to pre-match you during the speed portion.</p>\
-    \ <p><b><i>Mingle</i></b>: When you arrive, we'll have a short structured networking\
-    \ portion where we organize tables based on topic and you can self-select which\
-    \ table to join. After the Speed portion, you can return to those tables if you'd\
-    \ like.</p> <p><b><i>Interact</i></b>: Speed MIX - You'll meet 4-6 people, in\
-    \ sessions of 10 minutes each. We'll match you based on information you provide.</p>\
-    \ <p><b><i>eXchange</i></b>: More networking! Exchange information with the people\
-    \ you've met.</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured\
-    \ Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking\
-    \ (structured and unstructured)</p> <p><b>Sponsorship</b></p> <p>If you want to\
-    \ highlight your product, skills or have a recruiting table, please reach out\
-    \ to\_<a href=\"mailto:[masked]\">[masked]</a>\_for more information.\_</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/224818222/
+- created: 1438041748000
+  description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
+    >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
+    \ <p>Speed Networking between people who run digital projects for associations\
+    \ &amp; nonprofits - and the digital experts who can help!\_</p> <p>Make connections,\
+    \ talk shop, find help for your projects (or projects to work on) and get to know\
+    \ each other over drinks and appetizers. No sales pitches - just an opportunity\
+    \ to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity\
+    \ to network with several people in a short time period - you'll mingle (M), interact\
+    \ (I) and exchange information (X).\_All with\_food and drink!</p> <p>Before the\
+    \ event, you'll provide information about yourself, your organization/company\
+    \ and what you either can provide (if you are a freelancer/agency) or what you\
+    \ need (if you are with an association or nonprofit). We'll use this to pre-match\
+    \ you during the speed portion.\_</p> <p><b>Mingle:\_</b>When you arrive, we'll\
+    \ have a short structured networking portion where we organize tables based on\
+    \ topic and you can self-select which table to join. After the Speed MIX portion,\
+    \ you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\_\
+    Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match\
+    \ you based on information you provide.\_</p> <p>If you are with a association\
+    \ or nonprofit, you'll talk with freelancers and agency staff.\_If you are a freelancer\
+    \ or work for a digital agency, you'll talk with people at that run digital projects.\_\
+    </p> <p><b>eXchange:\_</b>More networking! Exchange information with the people\
+    \ you've met - and reach out when you are ready.\_</p> <p><b>==Schedule==</b></p>\
+    \ <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00\
+    \ - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note\
+    \ that while we will try to accommodate late arrivals, you must arrive by 6:50\
+    \ to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p>\
+    \ <p>This event is focused on associations as well as cause organizations,\_think\
+    \ tanks, foundations and similar nonprofits. We'll match you with experts based\
+    \ on topic areas - website design, web tech, user experience, digital strategy,\
+    \ digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to\
+    \ highlight your agency, talk up your product or want a recruiting table, please\
+    \ reach out! When we send out a follow-up message, we can include information\
+    \ about your company. For more information, contact\_<a href=\"mailto:[masked]\"\
+    >[masked]</a>.</p> <p><b>OUR SPONSORS</b></p> <p><b><a href=\"http://www.teksystems.com/\"\
+    >TEKsystems</a>\_<br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\"\
+    \ /></p> <p>Creative Staffing Services for Digital Marketing, Web and Enterprise\
+    \ IT</p> <p>\n\n\n<b><a href=\"http://www.brightfind.com\">Brightfind</a></b></p>\
+    \ <p><img src=\"http://photos4.meetupstatic.com/photos/event/6/c/1/9/600_442227673.jpeg\"\
+    \ /></p> <p>Brightfind is a specialized digital design and web development agency.</p>\
+    \ <p>\n\n\n\n<b><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a>\_\
+    </b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\"\
+    \ /></p> <p><b><a href=\"http://www.sutter-group.com/\">The Sutter Group</a>\_\
+    </b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\"\
+    \ /></p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/224220483/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
   headcount: 0
-  id: '224818222'
+  id: '224220483'
   maybe_rsvp_count: 0
-  name: 'Speed MIX: Web Techies and Managers (Date TBD)'
+  name: 'Speed MIX: Associations, Nonprofits & Digital Experts'
   status: upcoming
-  time: 1444084200000
-  updated: 1441717010000
+  time: 1444255200000
+  updated: 1442848735000
   utc_offset: -14400000
-  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
-    lat: 38.904854, lon: -77.034003999999996, name: General Assembly @ 1776 (8th Floor),
-    repinned: false, state: DC}
+  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
+    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
+      Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 43
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1563,7 +1538,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -1643,25 +1618,30 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1441688777000
-  description: "<p>In the world of nonprofit marketing there is a tendency to create\
-    \ content as though the audience is us. As though the folks reading our blogs\
-    \ and following our accounts have the same nuanced understanding of a given issue\
-    \ as those working full time on it. This can severely limit your audience. Non-profits\
-    \ can avoid this common pitfall and make content that is compelling to a wider\
-    \ audience by borrowing some basic research methods and formal work processes\
-    \ from the field of advertising account planning. Those methods and work processes\
-    \ will be the focus of this talk.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brad Perry,\
-    \ Director of Strategy, Create Digital</b></p> <p>After briefly attempting to\
-    \ become a journalist, I detoured to a graduate degree in social psychology and\
-    \ a career in gender-based violence prevention and communications at a non-profit.\
-    \ Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding\
-    \ on the Interwebz. I am currently Director of Strategy at Create Digital where\
-    \ I've helped develop several award-winning digital campaigns, including the Play\
-    \ Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign\
-    \ 2014\" from the Online Media &amp; Marketing Association. I am a husband, a\
-    \ proud papa, and currently serve on the national board of the non-profit organization,\
-    \ Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as\
-    \ a Woman\" video.\_</p>"
+  description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
+    >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
+    \ to create content as though the audience is us. As though the folks reading\
+    \ our blogs and following our accounts have the same nuanced understanding of\
+    \ a given issue as those working full time on it. This can severely limit your\
+    \ audience. Non-profits can avoid this common pitfall and make content that is\
+    \ compelling to a wider audience by borrowing some basic research methods and\
+    \ formal work processes from the field of advertising account planning. Those\
+    \ methods and work processes will be the focus of this talk.</p> <p><b>SPEAKERS</b></p>\
+    \ <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for\
+    \ Organ Sharing)</b></p> <p>Bio coming</p> <p><br/><b>Brad Perry, Director of\
+    \ Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist,\
+    \ I detoured to a graduate degree in social psychology and a career in gender-based\
+    \ violence prevention and communications at a non-profit. Eventually, I ended\
+    \ up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz.\
+    \ I am currently Director of Strategy at Create Digital where I've helped develop\
+    \ several award-winning digital campaigns, including the Play Like A Girl campaign\
+    \ for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online\
+    \ Media &amp; Marketing Association. I am a husband, a proud papa, and currently\
+    \ serve on the national board of the non-profit organization, Hollaback! - the\
+    \ non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\_\
+    </p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create\
+    \ Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\"\
+    \ /></p>"
   event_url: http://www.meetup.com/webcontentmavens/events/225197304/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1669,17 +1649,17 @@ other:
   headcount: 0
   id: '225197304'
   maybe_rsvp_count: 0
-  name: 'Making Your Messages Count: Developing Nonprofit Content That Resonates'
+  name: 'Making Your Messages Count: Developing Content That Resonates'
   status: upcoming
   time: 1445986800000
-  updated: 1441688777000
+  updated: 1442851039000
   utc_offset: -14400000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1754,7 +1734,7 @@ other:
   status: upcoming
   time: 1446507000000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -1800,7 +1780,7 @@ other:
   status: upcoming
   time: 1446645600000
   updated: 1440088166000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1445 New York Ave Nw, city: Washington, country: US, id: 23819537,
     lat: 38.899033000000003, lon: -77.032982000000004, name: 'LivingSocial, Inc',
     repinned: false}
@@ -1850,7 +1830,7 @@ other:
   status: upcoming
   time: 1446679800000
   updated: 1441653193000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -1882,7 +1862,7 @@ other:
   status: upcoming
   time: 1446679800000
   updated: 1438355226000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
@@ -1904,7 +1884,7 @@ other:
   status: upcoming
   time: 1446681600000
   updated: 1326383071000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
@@ -1951,7 +1931,7 @@ other:
   status: upcoming
   time: 1446764400000
   updated: 1441299586000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1515 N Courthouse Rd, city: Arlington, country: US, id: 22030482,
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
@@ -1984,7 +1964,7 @@ other:
   status: upcoming
   time: 1447111800000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2034,7 +2014,7 @@ other:
   status: upcoming
   time: 1447284600000
   updated: 1441653193000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -2065,7 +2045,7 @@ other:
   status: upcoming
   time: 1447716600000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2104,7 +2084,7 @@ other:
   status: upcoming
   time: 1447718400000
   updated: 1422815587000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
@@ -2153,7 +2133,7 @@ other:
   status: upcoming
   time: 1447889400000
   updated: 1441653193000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -2184,7 +2164,7 @@ other:
   status: upcoming
   time: 1448321400000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2218,7 +2198,7 @@ other:
   status: upcoming
   time: 1448926200000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2253,7 +2233,7 @@ other:
   status: upcoming
   time: 1449099000000
   updated: 1441708434000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
@@ -2275,7 +2255,7 @@ other:
   status: upcoming
   time: 1449100800000
   updated: 1326383071000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
@@ -2309,7 +2289,7 @@ other:
   status: upcoming
   time: 1449531000000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2351,7 +2331,7 @@ other:
   status: upcoming
   time: 1449619200000
   updated: 1422815617000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
@@ -2384,7 +2364,7 @@ other:
   status: upcoming
   time: 1450135800000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2418,7 +2398,7 @@ other:
   status: upcoming
   time: 1450740600000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2452,7 +2432,7 @@ other:
   status: upcoming
   time: 1451345400000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2486,7 +2466,7 @@ other:
   status: upcoming
   time: 1451950200000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2508,7 +2488,7 @@ other:
   status: upcoming
   time: 1452123000000
   updated: 1417881835000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -2527,7 +2507,7 @@ other:
   status: upcoming
   time: 1452124800000
   updated: 1326383071000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
@@ -2561,7 +2541,7 @@ other:
   status: upcoming
   time: 1452555000000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2595,7 +2575,7 @@ other:
   status: upcoming
   time: 1453159800000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2629,7 +2609,7 @@ other:
   status: upcoming
   time: 1453764600000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2663,7 +2643,7 @@ other:
   status: upcoming
   time: 1454369400000
   updated: 1439487723000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
     lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
     state: DC}
@@ -2685,7 +2665,7 @@ other:
   status: upcoming
   time: 1454542200000
   updated: 1433340893000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -2704,7 +2684,7 @@ other:
   status: upcoming
   time: 1454544000000
   updated: 1326383071000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
@@ -2726,7 +2706,7 @@ other:
   status: upcoming
   time: 1456961400000
   updated: 1417881835000
-  utc_offset: -14400000
+  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -2745,7 +2725,7 @@ other:
   status: upcoming
   time: 1456963200000
   updated: 1326383071000
-  utc_offset: -14400000
+  utc_offset: -18000000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}

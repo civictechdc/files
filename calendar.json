@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1427389147000, 
@@ -118,7 +118,7 @@
     "other": [
         {
             "created": 1441902223000, 
-            "description": "<p>This September, Lindsay Brown will walk us through her <a href=\"https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\">exploreMapPy project</a>, which puts DOT data for 52 states and territories in an interactive map. The project uses Python and JavaScript and makes use of svg, json, and other cool tools.\u00a0It doesn't use a mapping API; rather, the map is comprised of 52 SVG shapes.\u00a0 Lindsay will cover topics like her design approach and how she tested the JS.</p> <p>Lindsay Brown is a Web Development Specialist, looking to grow beyond her current SharePoint environment at her day job. She's interested in pursuing work that involves functional JavaScript, Python, and data visualization.</p> <p>********</p> <p>We start gathering at 6:30, and order pizza for around then. Intros start at 7, and then our talk. See you soon!</p>", 
+            "description": "<p>This September, Lindsay Brown will walk us through her <a href=\"https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\">exploreMapPy project</a>, which puts DOT data for 52 states and territories in an interactive map\u00a0published on\u00a0<a href=\"http://www.ntpep.org/\"><a href=\"http://www.ntpep.org\" class=\"linkified\">http://www.ntpep.org</a>\u00a0</a>. The project uses Python and JavaScript and makes use of svg, json, and other cool tools.\u00a0It doesn't use a mapping API; rather, the map is comprised of 52 SVG shapes.\u00a0 Lindsay will cover topics like her design approach and how she tested the JS.</p> <p>Lindsay Brown is a Web Development Specialist, looking to grow beyond her current SharePoint environment at her day job. She's interested in pursuing work that involves functional JavaScript, Python, and data visualization.</p> <p>********</p> <p>We start gathering at 6:30, and order pizza for around then. Intros start at 7, and then our talk. See you soon!</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/225259705/", 
             "group": {
@@ -137,7 +137,7 @@
             "name": "Interactive Maps With Python And JavaScript", 
             "status": "upcoming", 
             "time": 1442874600000, 
-            "updated": 1442504607000, 
+            "updated": 1442843919000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1818 N St NW", 
@@ -153,7 +153,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1438616874000, 
@@ -307,11 +307,12 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1440102483000, 
             "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Sept 22, 24, 29 and Oct 1;[masked]p).\u00a0</b></p> <p>\n\n\n\n<b>Introduction to HTML/CSS:</b></p> <p><br/>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>\n\n\nWe will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p><b><br/></b></p> <p><b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Tuesday, September 22 6:30p-8:30p</p> <p>Class 2, Introduction to CSS: Thursday, September 24 6:30p-8:30p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Tuesday, September 29 6:30p-8:30p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday,\u00a0October 1 6:30p-8:30p</p> <p>\n\n\n<b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/0/7/e/600_441109278.jpeg\" /></p> <p>Ashley Holtz is a programmer and consultant in Washington, DC focusing on security and forensics. She is extremely passionate about closing the gender gap in technical fields. When she's not working, Ashley serves as the Outreach Director for DC Web Women where she teaches women and children about programming and online safety. You can learn more about her work, sign up to volunteer, or request a presentation for your school/group here:\u00a0<a href=\"http://dcwebwomen.org/community-outreach\"><a href=\"http://dcwebwomen.org/community-outreach\" class=\"linkified\">http://dcwebwomen.org/community-outreach</a></a>.\u00a0</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Creative Colony is conveniently located at 8121 Georgia Avenue, Suite 600, Silver Spring, MD 20910 - a few blocks from the Silver Spring metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224772008/", 
             "fee": {
                 "accepts": "cash", 
@@ -338,7 +339,7 @@
             "rsvp_limit": 11, 
             "status": "upcoming", 
             "time": 1442961000000, 
-            "updated": 1442574533000, 
+            "updated": 1442840297000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "8121 Georgia Ave, Suite 600", 
@@ -390,8 +391,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
-            "yes_rsvp_count": 80
+            "waitlist_count": 2, 
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1442352338000, 
@@ -504,44 +505,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1438041748000, 
-            "description": "<p><b><a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>OUR SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p><b><br/></b></p> <p><a href=\"http://www.teksystems.com/\"><b>TEKsystems</b></a></p> <p><br/>Creative Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\" /></p> <p><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p> <p>\n\n\n<a href=\"http://www.sutter-group.com/\">The Sutter Group</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "224220483", 
-            "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Associations & Nonprofits + Digital Experts and Agencies", 
-            "status": "upcoming", 
-            "time": 1443479400000, 
-            "updated": 1441716938000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1442459161000, 
@@ -580,7 +544,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1442409352000, 
@@ -689,6 +653,44 @@
             "yes_rsvp_count": 6
         }, 
         {
+            "created": 1442848784000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>\n\n\nThe estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225510220/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "225510220", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1443974400000, 
+            "updated": 1442849615000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "400 8th St NW, Washington, DC 20004", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23631792, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Teaism Penn Quarter", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
+        }, 
+        {
             "created": 1441890236000, 
             "description": "<p>Django Girls\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
             "duration": 14400000, 
@@ -727,7 +729,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1439487723000, 
@@ -805,9 +807,9 @@
             "yes_rsvp_count": 6
         }, 
         {
-            "created": 1440292935000, 
-            "description": "<p><b>Registration is through <a href=\"https://www.eventbrite.com/e/speed-mix-web-techies-unite-tickets-18273038149\">Eventbrite</a>. \u00a0The date for this event will change once we have results from the <a href=\"https://www.surveymonkey.com/r/QNQGKZC\">survey</a>.</b></p> <p>Come to the geekier side of the web world. \u00a0Meet developers, programmers and data gurus - along with the people who manage web projects, wrangle web systems and otherwise run websites.</p> <p>You don't have to be a hard-core geek to join us. \u00a0But you should have a good understanding of how websites work. \u00a0If you've tweaked code, you're meant to be here!</p> <p>We have lots to talk about. \u00a0To make sure we get a good mix, we're inviting a host of web tech experts to mix and mingle with you, including:\u00a0<br/>- Web CMS\u00a0<br/>- Ruby and other web frameworks\u00a0<br/>- Mobile development and administration\u00a0<br/>- Web project management\u00a0<br/>- Website management\u00a0<br/>- APIs and integrating with Facebook/Google/Etc</p> <p>Registration include appetizers and drinks.</p> <p><b>Other Registration Details:</b></p> <p>- Looking to sell your product or company or recruit? Be sure you use the proper registration type. You'll be able to include a link to jobs or a product page in a follow-up message.</p> <p>- If your title doesn't let us know how techie you are - include that info!\u00a0</p> <p>- If you register in the web techie or web manager/technical PM roles, be sure to include details about your organization and position. \u00a0If you aren't sure you qualify, feel free to contact us.</p> <p>- If you are a techie looking for a job or consulting gig, we'll have flags for your nametag.</p> <p><b>How Does It Work?</b></p> <p>You'll have a chance to network and mingle with several people in a couple different ways. You'll mingle (M), interact (I) and exchange information (X).\u00a0</p> <p>Before the event, you'll provide information about yourself and what you are interested in. We'll use this to pre-match you during the speed portion.</p> <p><b><i>Mingle</i></b>: When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed portion, you can return to those tables if you'd like.</p> <p><b><i>Interact</i></b>: Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.</p> <p><b><i>eXchange</i></b>: More networking! Exchange information with the people you've met.</p> <p><b>Schedule</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p><b>Sponsorship</b></p> <p>If you want to highlight your product, skills or have a recruiting table, please reach out to\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0for more information.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/224818222/", 
+            "created": 1438041748000, 
+            "description": "<p><b>-\u00a0<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>OUR SPONSORS</b></p> <p><b><a href=\"http://www.teksystems.com/\">TEKsystems</a>\u00a0<br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p>Creative Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p>\n\n\n<b><a href=\"http://www.brightfind.com\">Brightfind</a></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/6/c/1/9/600_442227673.jpeg\" /></p> <p>Brightfind is a specialized digital design and web development agency.</p> <p>\n\n\n\n<b><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\" /></p> <p><b><a href=\"http://www.sutter-group.com/\">The Sutter Group</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
             "group": {
                 "created": 1189804715000, 
                 "group_lat": 38.919998168945312, 
@@ -819,27 +821,27 @@
                 "who": "People interested in CMS"
             }, 
             "headcount": 0, 
-            "id": "224818222", 
+            "id": "224220483", 
             "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Web Techies and Managers (Date TBD)", 
+            "name": "Speed MIX: Associations, Nonprofits & Digital Experts", 
             "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1441717010000, 
+            "time": 1444255200000, 
+            "updated": 1442848735000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1441653193000, 
@@ -1327,7 +1329,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
@@ -1395,7 +1397,7 @@
         }, 
         {
             "created": 1441688777000, 
-            "description": "<p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p>", 
+            "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Bio coming</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
             "group": {
                 "created": 1189804715000, 
@@ -1410,10 +1412,10 @@
             "headcount": 0, 
             "id": "225197304", 
             "maybe_rsvp_count": 0, 
-            "name": "Making Your Messages Count: Developing Nonprofit Content That Resonates", 
+            "name": "Making Your Messages Count: Developing Content That Resonates", 
             "status": "upcoming", 
             "time": 1445986800000, 
-            "updated": 1441688777000, 
+            "updated": 1442851039000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1428,7 +1430,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1441653193000, 
@@ -1477,7 +1479,7 @@
             "status": "upcoming", 
             "time": 1446507000000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -1516,7 +1518,7 @@
             "status": "upcoming", 
             "time": 1446645600000, 
             "updated": 1440088166000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave Nw", 
                 "city": "Washington", 
@@ -1552,7 +1554,7 @@
             "status": "upcoming", 
             "time": 1446679800000, 
             "updated": 1441653193000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -1579,7 +1581,7 @@
             "status": "upcoming", 
             "time": 1446679800000, 
             "updated": 1438355226000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
                 "city": "Washington", 
@@ -1618,7 +1620,7 @@
             "status": "upcoming", 
             "time": 1446681600000, 
             "updated": 1326383071000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
                 "city": "Washington", 
@@ -1667,7 +1669,7 @@
             "status": "upcoming", 
             "time": 1446764400000, 
             "updated": 1441299586000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1515 N Courthouse Rd", 
                 "city": "Arlington", 
@@ -1703,7 +1705,7 @@
             "status": "upcoming", 
             "time": 1447111800000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -1740,7 +1742,7 @@
             "status": "upcoming", 
             "time": 1447284600000, 
             "updated": 1441653193000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -1766,7 +1768,7 @@
             "status": "upcoming", 
             "time": 1447716600000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -1804,7 +1806,7 @@
             "status": "upcoming", 
             "time": 1447718400000, 
             "updated": 1422815587000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
                 "city": "Washington", 
@@ -1841,7 +1843,7 @@
             "status": "upcoming", 
             "time": 1447889400000, 
             "updated": 1441653193000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -1867,7 +1869,7 @@
             "status": "upcoming", 
             "time": 1448321400000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -1904,7 +1906,7 @@
             "status": "upcoming", 
             "time": 1448926200000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -1942,7 +1944,7 @@
             "status": "upcoming", 
             "time": 1449099000000, 
             "updated": 1441708434000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
                 "city": "Washington", 
@@ -1981,7 +1983,7 @@
             "status": "upcoming", 
             "time": 1449100800000, 
             "updated": 1326383071000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
                 "city": "Washington", 
@@ -2020,7 +2022,7 @@
             "status": "upcoming", 
             "time": 1449531000000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2058,7 +2060,7 @@
             "status": "upcoming", 
             "time": 1449619200000, 
             "updated": 1422815617000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
                 "city": "Washington", 
@@ -2095,7 +2097,7 @@
             "status": "upcoming", 
             "time": 1450135800000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2132,7 +2134,7 @@
             "status": "upcoming", 
             "time": 1450740600000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2169,7 +2171,7 @@
             "status": "upcoming", 
             "time": 1451345400000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2206,7 +2208,7 @@
             "status": "upcoming", 
             "time": 1451950200000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2244,7 +2246,7 @@
             "status": "upcoming", 
             "time": 1452123000000, 
             "updated": 1417881835000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -2271,7 +2273,7 @@
             "status": "upcoming", 
             "time": 1452124800000, 
             "updated": 1326383071000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
                 "city": "Washington", 
@@ -2310,7 +2312,7 @@
             "status": "upcoming", 
             "time": 1452555000000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2347,7 +2349,7 @@
             "status": "upcoming", 
             "time": 1453159800000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2384,7 +2386,7 @@
             "status": "upcoming", 
             "time": 1453764600000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2421,7 +2423,7 @@
             "status": "upcoming", 
             "time": 1454369400000, 
             "updated": 1439487723000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "chinatown or metro center", 
                 "city": "Washington", 
@@ -2459,7 +2461,7 @@
             "status": "upcoming", 
             "time": 1454542200000, 
             "updated": 1433340893000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -2486,7 +2488,7 @@
             "status": "upcoming", 
             "time": 1454544000000, 
             "updated": 1326383071000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
                 "city": "Washington", 
@@ -2526,7 +2528,7 @@
             "status": "upcoming", 
             "time": 1456961400000, 
             "updated": 1417881835000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -2553,7 +2555,7 @@
             "status": "upcoming", 
             "time": 1456963200000, 
             "updated": 1326383071000, 
-            "utc_offset": -14400000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1610 U St NW", 
                 "city": "Washington", 
