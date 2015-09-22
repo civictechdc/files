@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1427389147000, 
@@ -74,7 +74,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1427389174000, 
@@ -112,7 +112,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }
     ], 
     "other": [
@@ -181,10 +181,10 @@
             "id": "225100092", 
             "maybe_rsvp_count": 0, 
             "name": "Intro to QGIS", 
-            "rsvp_limit": 80, 
+            "rsvp_limit": 78, 
             "status": "upcoming", 
             "time": 1442961000000, 
-            "updated": 1442329094000, 
+            "updated": 1442935523000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -198,8 +198,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 80
+            "waitlist_count": 3, 
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1442352338000, 
@@ -312,7 +312,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1442459161000, 
@@ -370,15 +370,15 @@
             "headcount": 0, 
             "id": "225393647", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
+            "name": "Android - Droidcon NYC Review", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1442409352000, 
+            "updated": 1442937492000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1442445854000, 
@@ -419,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1441653193000, 
@@ -494,12 +494,12 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1441890236000, 
-            "description": "<p>Django Girls\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
+            "description": "<p><a href=\"https://djangogirls.org\">Django Girls</a>\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
             "duration": 14400000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/225255813/", 
             "group": {
@@ -520,7 +520,7 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1443978000000, 
-            "updated": 1441890236000, 
+            "updated": 1442930228000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G St NW # 400", 
@@ -536,7 +536,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1439487723000, 
@@ -1237,7 +1237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
