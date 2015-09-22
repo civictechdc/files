@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1427389147000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -116,234 +116,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 9
 other:
-- created: 1441902223000
-  description: "<p>This September, Lindsay Brown will walk us through her <a href=\"\
-    https://github.com/LindsayBrown81/exploreMapPy/tree/c6627bd31194c9b70fb0cd38ecc49c2d0813f239\"\
-    >exploreMapPy project</a>, which puts DOT data for 52 states and territories in\
-    \ an interactive map\_published on\_<a href=\"http://www.ntpep.org/\"><a href=\"\
-    http://www.ntpep.org\" class=\"linkified\">http://www.ntpep.org</a>\_</a>. The\
-    \ project uses Python and JavaScript and makes use of svg, json, and other cool\
-    \ tools.\_It doesn't use a mapping API; rather, the map is comprised of 52 SVG\
-    \ shapes.\_ Lindsay will cover topics like her design approach and how she tested\
-    \ the JS.</p> <p>Lindsay Brown is a Web Development Specialist, looking to grow\
-    \ beyond her current SharePoint environment at her day job. She's interested in\
-    \ pursuing work that involves functional JavaScript, Python, and data visualization.</p>\
-    \ <p>********</p> <p>We start gathering at 6:30, and order pizza for around then.\
-    \ Intros start at 7, and then our talk. See you soon!</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Ladies-Who-Code-Washington-DC/events/225259705/
-  group: {created: 1378482158000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 10135982, join_mode: open, name: Ladies Who Code (Washington DC), urlname: Ladies-Who-Code-Washington-DC,
-    who: Ladies Who Code}
-  headcount: 0
-  id: '225259705'
-  maybe_rsvp_count: 0
-  name: Interactive Maps With Python And JavaScript
-  status: upcoming
-  time: 1442874600000
-  updated: 1442843919000
-  utc_offset: -14400000
-  venue: {address_1: 1818 N St NW, city: Washington, country: us, id: 311792, lat: 38.907229999999998,
-    lon: -77.042150000000007, name: Sunlight Foundation, repinned: false, state: DC,
-    zip: '20036'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 24
-- created: 1438616874000
-  description: "<p>Quiz for ALL attendees:</p> <p>Please send your responses to [masked]\
-    \ before noon on Sunday, Sept. 20 so I can look through them before we meet on\
-    \ Monday. Thanks!</p> <p>Note: Potential mentees with the highest skill level\
-    \ will be matched with mentors who have the highest skill level. Which means that\
-    \ potential mentors with the best skill set will get the more advanced mentees.\
-    \ Thus it is in your best interest to show off your current skills so you can\
-    \ work with others who are best positioned to challenge you. Refer to <a href=\"\
-    http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"\
-    \ class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\
-    \ and use tutorials, google, etc. to help you figure out the answers.\_<br/>1.\
-    \ What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You\
-    \ may draw on paper &amp; submit as a photo)<br/>2. Which file/view is the users'\
-    \ home page? What information do authors get to display on their home page? Where\
-    \ is this information stored in the CrowdPublish.TV database?<br/>3. What pages/views\
-    \ do authors get in their web site when they sign up for CrowdPublish.TV?<br/>4.\
-    \ What are the default views for all Rails apps?<br/>5. What are the routes that\
-    \ were added to the CrowdPublish.TV app so the non-default/extra views for user\
-    \ pages could be displayed?<br/>6. What are the methods that were added to the\
-    \ CrowdPublish.TV app so the non-default/extra user views/pages could be displayed?\
-    \ What file are they in?<br/>7. Where is the method to add_bank_account to users?\
-    \ What gem does it use?<br/>8. Fork a copy of the crowdpublishtv github repo (url\
-    \ above) into your github account. Make a minor change that does not affect functionality\
-    \ (such as add a dummy file to the root directory) and request that the CrowdPublishTV\
-    \ admin pull your changes.\_\_<br/>9. Summarize your Ruby &amp; Rails skill level/what\
-    \ you know in your own words.</p> <p>This event is for women. Thus it will be\
-    \ lead by women, women will set the topic of discussion,\_women will learn from\
-    \ other women, and women's voices will dominate.\_While men will not be discouraged\
-    \ from attending, the purpose of male attendance will be to support women's leadership\
-    \ in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p>\
-    \ <p><br/>...</p> <p>RailsGirls has organized several sessions to help get newbies\
-    \ set up with Rails. But what comes next? If you're interested in working on something\
-    \ to improve your skills or interested in helping others on a regular basis, you\
-    \ should come.\_</p> <p>There's something useful in it for all levels of Ruby\
-    \ on Rails users, so I'm excited to figure out how we can all help each other.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/railsgirlsdc/events/224375754/
-  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
-    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
-      (and Guys)}
-  headcount: 0
-  id: kvjxjlytmbcc
-  maybe_rsvp_count: 0
-  name: Next Step tutorial sessions/project
-  status: upcoming
-  time: 1442874600000
-  updated: 1442783528000
-  utc_offset: -14400000
-  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
-    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
-      Commons', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 10
-- created: 1427088126000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting.\_</p> <p>There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptops</b></p> <p>In order to maximize your\
-    \ benefits from FEHN, please bring your laptop. Extra computers will not be available\
-    \ at the event.\_Even if you have never coded before, you will be coding at FEHN!</p>\
-    \ <p><b>Meetup Agenda\_</b></p> <p>Every study group will have the following format:</p>\
-    \ <p><br/>\u2022\_6:30pm - Setup</p> <p>\u2022\_6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022\_6:50 - 8:00pm - Code!</p> <p>\u2022\_8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022\_8:15 - 8:30pm -\
-    \ Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our\
-    \ Github page -\_<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First\
-    \ Timer's Guide:\_<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\"\
-    \ class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022\
-    \ HTML Study Guide:\_<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022\
-    \ JavaScript Study Guide:\_<a href=\"http://bit.ly/js-study-guide\"><a href=\"\
-    http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p>\
-    \ <p><br/><b>Building Access</b></p> <p>Certain building management companies\
-    \ require Meetup hosts to let people in and do not encourage them being contacted.\
-    \ Please respect the policy. In case the location requires access to the building,\
-    \ contact the group lead if information is provided or drop a comment on the Meetup\
-    \ page. We'll come and get you.</p> <p><b>Welcome\_</b></p> <p>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223779214/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rlzgglytmbcc
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  status: upcoming
-  time: 1442874600000
-  updated: 1441755095000
-  utc_offset: -14400000
-  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
-    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 23
-- created: 1442586108000
-  description: "<p>Interested in sharpening your coding interview skills and learning\
-    \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
-    \ The schedule will be as follows:</p> <p>6:30 -\_Arrival/Food\_</p> <p>7:00 -\
-    \ 8:15 - \_Again, we'll spend all of the meetup working on questions in groups\
-    \ or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination\
-    \ of whiteboarding and coding on the computer so please bring a computer. You\
-    \ can code in the language of your choice!</p> <p>This event is intended to be\
-    \ exclusively open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225445130/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '225445130'
-  maybe_rsvp_count: 0
-  name: Algorithms and Interview Prep Meetup
-  rsvp_limit: 50
-  status: upcoming
-  time: 1442874600000
-  updated: 1442586108000
-  utc_offset: -14400000
-  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
-    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
-      Technologies, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 20
-- created: 1441578117000
-  description: "<p>Data Science is not just about Web analytics and academic papers.\
-    \ Come hear about how Data Science can be used for your own hobbies!\_</p> <p><b>Agenda</b></p>\
-    \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p>\
-    \ <p>7:00 PM -- <i>Building a Magic: The Gathering card game recommendation engine\
-    \ - Don Miner</i></p> <p>8:30 PM -- Post event drinks</p> <p><b>Location</b></p>\
-    \ <p><a href=\"http://gamesandstuffonline.com/\">Games and Stuff</a>\_opened its\
-    \ doors in 2000, intent on providing game enthusiasts in central Maryland with\
-    \ a place to immerse themselves in their hobby.\_</p> <p>7385 Baltimore Annapolis\
-    \ Blvd, Glen Burnie, MD 21061</p> <p><b>Talks</b></p> <p><b>Building a Magic:\
-    \ The Gathering card game recommendation engine and using data science on data\
-    \ about hobbies<br/></b></p> <p>In this talk, Don will give an overview of\_<a\
-    \ href=\"http://edhrec.com/\">edhrec.com</a>, a service that provides recommendations\
-    \ for a specific style of play in the Magic: The Gathering trading card game called\
-    \ Commander. The service takes user-created \"decks\", saves them in a database,\
-    \ and then provides recommendations on what other cards that user should be using\
-    \ in their deck. The website has been around for about a year and is visited by\
-    \ over 50,000 players a month as of September 2015.</p> <p>The talk is geared\
-    \ towards people that don't know anything about Magic or Commander, however, and\
-    \ most of the time will be spent discussing:<br/>the methods and approaches used,\
-    \ specifically recommendation engines and the common problems when using them\
-    \ in practice lessons learned about human factor of having a data-driven service\
-    \ that targets a passionate hobbyist population that doesn't know much about data\
-    \ science or even computer science the virtues of spending time on analyzing data\
-    \ for seemingly \"toy\" domains</p> <p><br/><b>Speakers</b></p> <p><a href=\"\
-    http://twitter.com/donaldpminer\">Donald Miner</a> is founder of the data science\
-    \ firm Miner &amp; Kasch and specializes in Hadoop enterprise architecture and\
-    \ applying machine learning to real-world business problems. Donald is author\
-    \ of the O\u2019Reilly book MapReduce Design Patterns and the upcoming O'Reilly\
-    \ book Enterprise Hadoop. He has architected and implemented dozens of mission-critical\
-    \ and large-scale Hadoop systems within the U.S. Government and Fortune 500 companies.\
-    \ He has applied machine learning techniques to analyze data across several verticals,\
-    \ including financial, retail, telecommunications, health care, government intelligence,\
-    \ and entertainment. His PhD is from the University of Maryland, Baltimore County,\
-    \ where he focused on machine learning and multi-agent systems. He lives in Maryland\
-    \ with his wife and two young sons.</p> <p><br/><b>Company</b></p> <p><a href=\"\
-    http://minerkasch.com/\">Miner &amp; Kasch</a> is a Big Data platform architecture\
-    \ and data science consulting firm based in Baltimore, MD. Our consultants have\
-    \ industry-leading expertise across health care, finance, retail, government,\
-    \ energy, and entertainment. Miner &amp; Kasch platform architects provide customers\
-    \ full-stack expertise in technologies across the Big Data ecosystem, including\
-    \ Hadoop, Spark, HBase, Accumulo, Cassandrau, and MPP Databases. Miner &amp; Kasch\
-    \ \_data scientists provide insight into the most difficult questions customers\
-    \ encounter using cutting-edge machine learning, statistics, and data analysis\
-    \ tools.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Science-MD/events/225168626/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '225168626'
-  maybe_rsvp_count: 0
-  name: Data Science for Hobbies
-  rsvp_limit: 125
-  status: upcoming
-  time: 1442874600000
-  updated: 1441578134000
-  utc_offset: -14400000
-  venue: {address_1: 7385 Baltimore Annapolis Blvd, city: Glen Burnie, country: us,
-    id: 24076390, lat: 39.173656000000001, lon: -76.631714000000002, name: Games and
-      Stuff, repinned: false, state: MD}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 71
 - created: 1440102483000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -462,7 +234,7 @@ other:
     lat: 38.932063999999997, lon: -77.028289999999998, name: The Coupe, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1439487723000
   description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
     \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
@@ -543,7 +315,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1442459161000
   description: "<p>For our September Meetup, we're presenting the work of six (at\
     \ least!) data scientists from our community.\_These lightning talks will include\
@@ -738,7 +510,7 @@ other:
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 18
 - created: 1441890236000
   description: "<p>Django Girls\_is a non-profit organization that organizes free,\
     \ one-day workshops to teach women who have never programmed before how to build\
@@ -2691,6 +2463,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1439487723000
+  description: "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at\
+    \ White Apron Sandwich shop or MLK library. I'm still checking places out. Both\
+    \ are open past 8:30 for those who wish to stay later. If everyone would rather\
+    \ have an earlier meeting time, I'm OK with that.\_</p> <p>Because of Labor Day\
+    \ &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\_</p> <p>This event\
+    \ is for women. Thus it will be lead by women, women will set the topic of discussion,\_\
+    women will learn from other women, and women's voices will dominate.\_While men\
+    \ will not be discouraged from attending, the purpose of male attendance will\
+    \ be to support women's leadership in Ruby on Rails web development. Cliff Clavens\
+    \ will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several\
+    \ sessions to help get newbies set up with Rails. But what comes next? If you're\
+    \ interested in working on something to improve your skills or interested in helping\
+    \ others on a regular basis, you should come.\_</p> <p>There's something useful\
+    \ in it for all levels of Ruby on Rails users, so I'm excited to figure out how\
+    \ we can all help each other.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdblb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Girls
+      (and Guys)}
+  headcount: 0
+  id: kvjxjlyvdblb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1454974200000
+  updated: 1439487723000
+  utc_offset: -18000000
+  venue: {address_1: chinatown or metro center, city: Washington, country: us, id: 24008990,
+    lat: 0, lon: 0, name: Probably MLK library or a nearby coffee shop, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
