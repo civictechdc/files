@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427389174000, 
@@ -79,6 +79,45 @@ calendar({
     ], 
     "other": [
         {
+            "created": 1443021414000, 
+            "description": "<p><b>Please only RSVP if you're certain you will be able to participate for the entire duration of the event (9/25, 6p - 9/27, 830p). </b>There are two tickets available, if you are one of the first two people to register, upon RSVP'ing you'll be give a link to purchase the tickets and a discount code.</p> <p>\n\n\n\nThis event costs $99/pp, but Startup Weekend DC is offering GDI DC two free tickets. If you are certain you will be able to make the entire event, RSVP and you will be shown a discount code. Please go to the <a href=\"https://www.eventbrite.com/e/startup-weekend-dc-flip-the-ratio-men-welcome-tickets-17449944253\">registration page</a>\u00a0and enter your discount code to claim the discount within 24 hours.\u00a0</p> <p>\n\n\n<b>About \"Flipping the Ratio\":\u00a0</b></p> <p><br/>So you maybe curious what is the business about \"flipping the ratio\". \u00a0In essence, this is a typical Startup Weekend but we added a twist where we will try to flip the 70/30 gender ratio of participants that you may see at a startup event.\u00a0</p> <p>For morel event details, please visit the\u00a0<a href=\"http://www.up.co/communities/usa/washington-dc/\">DC page</a>.\u00a0</p> <p>\n\n\n\n<b>About Startup Weekend:\u00a0</b></p> <p>Startup Weekends are 54-hour events designed to provide superior experiential education for technical and non-technical entrepreneurs.\u00a0Beginning with Friday night pitches and continuing through brainstorming, business plan development, and basic prototype creation, Startup Weekends culminate in Sunday night demos and presentations.\u00a0Participants create working startups during the event and are able to collaborate with like-minded individuals outside of their daily networks.\u00a0All teams hear talks by industry leaders and receive valuable feedback from local entrepreneurials.\u00a0The weekend is centered around action, innovation, and education. \u00a0Whether you are looking for feedback on a idea, a co-founder, specific skill sets, or a team to help you execute, Startup Weekends are the perfect environment in which to test your idea and take the first steps towards launching your own startup.</p>", 
+            "duration": 181800000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225560070/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "225560070", 
+            "maybe_rsvp_count": 0, 
+            "name": "Startup Weekend DC: Flip the Ratio! (Free Ticket)", 
+            "rsvp_limit": 2, 
+            "status": "upcoming", 
+            "time": 1443218400000, 
+            "updated": 1443021414000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2231 Crystal Dr #1000", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24025555, 
+                "lat": 38.853779000000003, 
+                "lon": -77.048766999999998, 
+                "name": "1776 Crystal CIty", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 2, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1442352338000, 
             "description": "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>We'll be in the back part of the bar, at a big communal table. The Coupe's full menu will be available to order from the bartender.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p>RSVP at\u00a0<a href=\"https://nvite.com/dcfemtech/cc2e\" class=\"linkified\">https://nvite.com/dcfemtech/cc2e</a></p>", 
             "duration": 10800000, 
@@ -117,43 +156,6 @@ calendar({
             "yes_rsvp_count": 28
         }, 
         {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/225546981/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytmblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1443479400000, 
-            "updated": 1439487723000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -189,7 +191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1442459161000, 
@@ -228,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 144
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1442409352000, 
@@ -255,7 +257,81 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225546981/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytmblc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1443652200000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225562203/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytmbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1443652200000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1442445854000, 
@@ -296,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1441653193000, 
@@ -334,7 +410,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1443012478000, 
+            "description": "<p>Are you considering learning how to code, but don't know where to start? Do you have an idea for a web application or an app, but aren't sure which is the best platform to build it in? Are you a Product Manager that wants to better communicate with engineers on your team? Or do you simply want to learn what the differences are between Python, Ruby,\u00a0HTML,\u00a0CSS, Java, Javascript, and the seemingly endless number of terms you hear when people talk about programming?</p> <p>This meetup will introduce you to many common terms that might otherwise look like alphabet soup when you first start out. We will start from the ground up to explain what each language is useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners trying to decide which coding \"path\" to take. It is also useful for developers who\u00a0to expand their\u00a0high-level understanding of new languages!</p> <p>This talk was an absolute hit when we first presented it in D.C. We expect that you\u2019ll be just as engaged, invigorated, and ready to hit the ground running with code as our last audience!'</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225557263/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "225557263", 
+            "maybe_rsvp_count": 0, 
+            "name": "The Language of Langauges", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1443738600000, 
+            "updated": 1443014081000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW, 1st Floor Conference Room", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21483092, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1442848784000, 
@@ -371,7 +485,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -414,43 +528,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 1, 
             "yes_rsvp_count": 40
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/225549071/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytnbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1439487723000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1427088126000, 
@@ -553,6 +630,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 43
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225562206/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytnbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1444257000000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1442950567000, 
@@ -685,7 +799,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1440425244000, 
@@ -764,43 +878,6 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 45, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbqb/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytnbqb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1444689000000, 
-            "updated": 1439487723000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -942,6 +1019,43 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbsb/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytnbsb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1444861800000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1442950567000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1031,44 +1145,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbzb/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytnbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1445293800000, 
-            "updated": 1439487723000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1427088126000, 
@@ -1123,6 +1200,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbcc/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytnbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1445466600000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1442950567000, 
@@ -1219,43 +1333,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbjc/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytnbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1445898600000, 
-            "updated": 1439487723000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1281,33 +1358,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rsmxklytnbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1445985000000, 
-            "updated": 1442950360000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1441688777000, 
@@ -1348,8 +1398,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbdb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnblc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1358,24 +1408,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytpbdb", 
+            "id": "kvjxjlytnblc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1446507000000, 
-            "updated": 1439487723000, 
-            "utc_offset": -18000000, 
+            "time": 1446071400000, 
+            "updated": 1443022245000, 
+            "utc_offset": -14400000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1420,6 +1470,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 7, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbgb/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytpbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1446679800000, 
+            "updated": 1443022245000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
@@ -1548,8 +1635,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbmb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbpb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1558,61 +1645,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytpbmb", 
+            "id": "kvjxjlytpbpb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1447111800000, 
-            "updated": 1439487723000, 
+            "time": 1447284600000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbvb/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytpbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1447716600000, 
-            "updated": 1439487723000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1660,8 +1710,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbfc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbxb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1670,24 +1720,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytpbfc", 
+            "id": "kvjxjlytpbxb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1448321400000, 
-            "updated": 1439487723000, 
+            "time": 1447889400000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1697,8 +1747,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbnc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbhc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1707,24 +1757,61 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytpbnc", 
+            "id": "kvjxjlytpbhc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1448926200000, 
-            "updated": 1439487723000, 
+            "time": 1448494200000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbdb/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlytqbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1449099000000, 
+            "updated": 1443022245000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1812,43 +1899,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbkb/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytqbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1449531000000, 
-            "updated": 1439487723000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1422815617000, 
             "description": "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231803/", 
@@ -1888,8 +1938,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbsb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbmb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1898,24 +1948,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytqbsb", 
+            "id": "kvjxjlytqbmb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1450135800000, 
-            "updated": 1439487723000, 
+            "time": 1449703800000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1925,8 +1975,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbcc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbvb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1935,24 +1985,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytqbcc", 
+            "id": "kvjxjlytqbvb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1450740600000, 
-            "updated": 1439487723000, 
+            "time": 1450308600000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1962,8 +2012,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqblc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbfc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1972,24 +2022,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlytqblc", 
+            "id": "kvjxjlytqbfc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1451345400000, 
-            "updated": 1439487723000, 
+            "time": 1450913400000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1999,8 +2049,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbgb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbnc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -2009,24 +2059,61 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlyvcbgb", 
+            "id": "kvjxjlytqbnc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1451950200000, 
-            "updated": 1439487723000, 
+            "time": 1451518200000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbjb/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "grown Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlyvcbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1452123000000, 
+            "updated": 1443022245000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -2103,8 +2190,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbpb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbrb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -2113,24 +2200,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlyvcbpb", 
+            "id": "kvjxjlyvcbrb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1452555000000, 
-            "updated": 1439487723000, 
+            "time": 1452727800000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -2140,8 +2227,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbxb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbbc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -2150,24 +2237,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlyvcbxb", 
+            "id": "kvjxjlyvcbbc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1453159800000, 
-            "updated": 1439487723000, 
+            "time": 1453332600000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -2177,8 +2264,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbhc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbkc/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -2187,24 +2274,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlyvcbhc", 
+            "id": "kvjxjlyvcbkc", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1453764600000, 
-            "updated": 1439487723000, 
+            "time": 1453937400000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -2214,8 +2301,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbcb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbfb/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -2224,24 +2311,24 @@ calendar({
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
+                "who": "grown Women"
             }, 
             "headcount": 0, 
-            "id": "kvjxjlyvdbcb", 
+            "id": "kvjxjlyvdbfb", 
             "maybe_rsvp_count": 0, 
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
-            "time": 1454369400000, 
-            "updated": 1439487723000, 
+            "time": 1454542200000, 
+            "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "chinatown or metro center", 
+                "address_1": "1203 19th St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -2315,43 +2402,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdblb/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Girls (and Guys)"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlyvdblb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1454974200000, 
-            "updated": 1439487723000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "chinatown or metro center", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24008990, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Probably MLK library or a nearby coffee shop", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
