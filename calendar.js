@@ -1,44 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "created": 1427389123000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n<b>Notes:\u00a0</b></p> <p>\u2022\u00a0Text Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p><b><br/>If you are new to Code for DC\u2026\u00a0</b></p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/221419512/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "221419512", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1442961000000, 
-            "updated": 1442382026000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 49
-        }, 
-        {
             "created": 1427389147000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking. Project teams break out to work. \u00a0New participants can join teams, circulate, or seek out the Co-Captains for orientation (Justin, Matt, or Leah).</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:15 - 9:30\u00a0Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\u00a0Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\u00a0</p> <p>\u2022\u00a0Text Matt 202-330-1154 or Justin at 301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf you are new to Code for DC\u2026\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t)\u00a0</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\u00a0Review the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\u00a0<a href=\"https://github.com/codefordc/getting-started\"><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\">https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\u00a0Start working on a project with someone or bring your own project</p> <p><br/>\u2022\u00a0Introduce yourself to others</p> <p>\u2022\u00a0If you had a good time join Google Group and Meetup</p>", 
             "duration": 10800000, 
@@ -116,91 +78,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1440102483000, 
-            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Sept 22, 24, 29 and Oct 1;[masked]p).\u00a0</b></p> <p>\n\n\n\n<b>Introduction to HTML/CSS:</b></p> <p><br/>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>\n\n\nWe will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p><b><br/></b></p> <p><b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Tuesday, September 22 6:30p-8:30p</p> <p>Class 2, Introduction to CSS: Thursday, September 24 6:30p-8:30p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Tuesday, September 29 6:30p-8:30p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday,\u00a0October 1 6:30p-8:30p</p> <p>\n\n\n<b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/0/7/e/600_441109278.jpeg\" /></p> <p>Ashley Holtz is a programmer and consultant in Washington, DC focusing on security and forensics. She is extremely passionate about closing the gender gap in technical fields. When she's not working, Ashley serves as the Outreach Director for DC Web Women where she teaches women and children about programming and online safety. You can learn more about her work, sign up to volunteer, or request a presentation for your school/group here:\u00a0<a href=\"http://dcwebwomen.org/community-outreach\"><a href=\"http://dcwebwomen.org/community-outreach\" class=\"linkified\">http://dcwebwomen.org/community-outreach</a></a>.\u00a0</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Creative Colony is conveniently located at 8121 Georgia Avenue, Suite 600, Silver Spring, MD 20910 - a few blocks from the Silver Spring metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/224772008/", 
-            "fee": {
-                "accepts": "cash", 
-                "amount": 90, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "224772008", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to HTML/CSS", 
-            "rsvp_limit": 11, 
-            "status": "upcoming", 
-            "time": 1442961000000, 
-            "updated": 1442840297000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "8121 Georgia Ave, Suite 600", 
-                "city": "Silver Spring", 
-                "country": "us", 
-                "id": 19179062, 
-                "lat": 38.991073999999998, 
-                "lon": -77.026122999999998, 
-                "name": "Creative Colony", 
-                "repinned": false, 
-                "state": "MD"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
-        }, 
-        {
-            "created": 1441308071000, 
-            "description": "<p>This month we'll be learning how to use QGIS, an open source GIS software. In order to make the meetup roll smoother, please have QGIS installed on your laptop before you arrive! Instructions can be found here:</p> <p>1.\u00a0Head to the official\u00a0<a href=\"http://qgis.com/\">QGIS homepage</a>\u00a0and follow the directions for your respective operating system.</p> <p>2.\u00a0Grab an installer from\u00a0<a href=\"http://boundlessgeo.com/solutions/solutions-software/qgis/qgis-download/\">Boundless</a>. Note that registration is required for this option but they e-mail the install right to you!</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/225100092/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "225100092", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to QGIS", 
-            "rsvp_limit": 78, 
-            "status": "upcoming", 
-            "time": 1442961000000, 
-            "updated": 1442935523000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 3, 
-            "yes_rsvp_count": 72
-        }, 
         {
             "created": 1442352338000, 
             "description": "<p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Feel free to come early or stay later. These events are held at public coffee shops, so good seats are on a first come first serve basis. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>We'll be in the back part of the bar, at a big communal table. The Coupe's full menu will be available to order from the bartender.</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p> <p>RSVP at\u00a0<a href=\"https://nvite.com/dcfemtech/cc2e\" class=\"linkified\">https://nvite.com/dcfemtech/cc2e</a></p>", 
@@ -351,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1442409352000, 
@@ -419,7 +296,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1441653193000, 
@@ -494,7 +371,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -541,7 +418,7 @@ calendar({
         {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbhb/", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225549071/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -573,7 +450,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1427088126000, 
@@ -611,7 +488,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1442950341000, 
@@ -1154,7 +1031,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1439487723000, 
