@@ -101,7 +101,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 61
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-09-17T04:08:57Z'
@@ -669,7 +669,7 @@
     2, 2, 1]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 26,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 29,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
@@ -685,19 +685,19 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 36640]
-  - [CSS, 272]
-  - [HTML, 234]
+  - [JavaScript, 40148]
+  - [CSS, 6918]
+  - [HTML, 311]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-09-16T22:13:23Z'
+  pushed_at: '2015-09-22T23:22:14Z'
   size: 27067
-  updated_at: '2015-09-10T00:01:09Z'
-  watchers: 11
+  updated_at: '2015-09-22T23:43:42Z'
+  watchers: 12
 - activity: [2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]

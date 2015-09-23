@@ -316,7 +316,7 @@ projects([
         }, 
         "main_language": "Java", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 61, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -2078,7 +2078,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 26, 
+                "contributions": 29, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2107,15 +2107,15 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                36640
+                40148
             ], 
             [
                 "CSS", 
-                272
+                6918
             ], 
             [
                 "HTML", 
-                234
+                311
             ]
         ], 
         "license": null, 
@@ -2128,10 +2128,10 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-09-16T22:13:23Z", 
+        "pushed_at": "2015-09-22T23:22:14Z", 
         "size": 27067, 
-        "updated_at": "2015-09-10T00:01:09Z", 
-        "watchers": 11
+        "updated_at": "2015-09-22T23:43:42Z", 
+        "watchers": 12
     }, 
     {
         "activity": [

@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1427389147000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }
     ], 
     "other": [
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441308071000, 
@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 3, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1442352338000, 
@@ -237,12 +237,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytmblc/", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225546981/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -312,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1442459161000, 
@@ -368,13 +368,13 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "225393647", 
+            "id": "nsmxklytmbmc", 
             "maybe_rsvp_count": 0, 
             "name": "Android - Droidcon NYC Review", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1442937492000, 
+            "updated": 1442950279000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -535,7 +535,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -614,6 +614,33 @@ calendar({
             "yes_rsvp_count": 7
         }, 
         {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbjb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1444170600000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1438041748000, 
             "description": "<p><b>-\u00a0<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>OUR SPONSORS</b></p> <p><b><a href=\"http://www.teksystems.com/\">TEKsystems</a>\u00a0<br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p>Creative Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p>\n\n\n<b><a href=\"http://www.brightfind.com\">Brightfind</a></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/6/c/1/9/600_442227673.jpeg\" /></p> <p>Brightfind is a specialized digital design and web development agency.</p> <p>\n\n\n\n<b><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\" /></p> <p><b><a href=\"http://www.sutter-group.com/\">The Sutter Group</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
@@ -649,6 +676,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 43
+        }, 
+        {
+            "created": 1442950567000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jtmxklytnbkb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jtmxklytnbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1444257000000, 
+            "updated": 1442950567000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1441653193000, 
@@ -831,7 +886,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 45, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -934,7 +989,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
+        }, 
+        {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbrb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1444775400000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1442512202000, 
@@ -983,6 +1065,34 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1442950567000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jtmxklytnbsb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jtmxklytnbsb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1444861800000, 
+            "updated": 1442950567000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1441653193000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytnbsb/", 
@@ -1007,6 +1117,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1442946028000, 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0</p> <p><br/>This event is possible thanks to generous support from our sponsors. Thank you to <a href=\"http://www.1776.vc/\">1776</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for the space, the <a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a> for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a> will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.</p> <p><br/>1776 is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. There are two <a href=\"http://www.capitalbikeshare.com/\">bikeshare</a> stations nearby, as well as\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "225539297", 
+            "maybe_rsvp_count": 0, 
+            "name": "CaBi Hack Night IV", 
+            "rsvp_limit": 120, 
+            "status": "upcoming", 
+            "time": 1445292000000, 
+            "updated": 1442960818000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2231 Crystal Dr #1000", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24108017, 
+                "lat": 38.853779000000003, 
+                "lon": -77.048766999999998, 
+                "name": "1776", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1439487723000, 
@@ -1071,6 +1219,61 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445380200000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1442950567000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jtmxklytnbcc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jtmxklytnbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1445466600000, 
+            "updated": 1442950567000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1441653193000, 
@@ -1203,6 +1406,33 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1441688777000, 
             "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Bio coming</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
@@ -1238,32 +1468,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytnblc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytnblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1446071400000, 
-            "updated": 1441653193000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 
@@ -1339,32 +1543,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 7, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbgb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytpbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1446679800000, 
-            "updated": 1441653193000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
@@ -1529,32 +1707,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbpb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytpbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1447284600000, 
-            "updated": 1441653193000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
             "created": 1439487723000, 
             "description": "<p>We'll meet on Monday evenings probably from 6:30-8:30 either at White Apron Sandwich shop or MLK library. I'm still checking places out. Both are open past 8:30 for those who wish to stay later. If everyone would rather have an earlier meeting time, I'm OK with that.\u00a0</p> <p>Because of Labor Day &amp; I'm out of town on Sept. 14, we'll start on Sept. 21.\u00a0</p> <p>This event is for women. Thus it will be lead by women, women will set the topic of discussion,\u00a0women will learn from other women, and women's voices will dominate.\u00a0While men will not be discouraged from attending, the purpose of male attendance will be to support women's leadership in Ruby on Rails web development. Cliff Clavens will not be tolerated :D</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come.\u00a0</p> <p>There's something useful in it for all levels of Ruby on Rails users, so I'm excited to figure out how we can all help each other.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbvb/", 
@@ -1628,32 +1780,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbxb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytpbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1447889400000, 
-            "updated": 1441653193000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1439487723000, 
