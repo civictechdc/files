@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427389174000, 
@@ -74,7 +74,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }
     ], 
     "other": [
@@ -114,7 +114,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1427088126000, 
@@ -191,7 +191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1442459161000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 175
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1442409352000, 
@@ -335,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1441653193000, 
@@ -411,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1442848784000, 
@@ -448,7 +448,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -489,7 +489,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -528,7 +528,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1442950341000, 
@@ -592,7 +592,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1439487723000, 
@@ -657,7 +657,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1441653193000, 
@@ -722,7 +722,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1326383071000, 
@@ -936,6 +936,44 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1443103496000, 
+            "description": "<p>In celebration of Ada Lovelace Day (<a href=\"http://findingada.com/\" class=\"linkified\">http://findingada.com/</a>), join us for the first ever Women Who Code DC Book Club! We will be discussing The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer. <a href=\"http://sydneypadua.com/2dgoggles/the-book/\" class=\"linkified\">http://sydneypadua.com/2dgoggles/the-book/</a>. Join us for a great discussion and celebration of Ada Lovelace! (with some surprises in store)</p> <p>Book Description : This AWESOME graphic novel follows the story of Ada Lovelace (whose writings contained the first ever appearance of general computing theory) and Charles Babbage (eccentric inventor of the Difference Engine, an enormous clockwork calculating machine that would have been the first computer, if he had ever finished it.) But what if things had been different? The Thrilling Adventures of Lovelace and Babbage presents a delightful alternate reality in which Lovelace and Babbage do build the Difference Engine and use it to create runaway economic models, battle the scourge of spelling errors, explore the wider realms of mathematics and, of course, fight crime.</p> <p>\n\n\n**This event is a part of DC Fem Tech's Tour de Code: A month long celebration of coding and tech events. For more information on other Tour de Code events, check out their site: <a href=\"http://dcfemtech.github.io/tourdecode.html\" class=\"linkified\">http://dcfemtech.github.io/tourdecode.html</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225583511/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "225583511", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ada Lovelace Day Book Club: The Thrilling Adventures of Lovelace and Babbage", 
+            "status": "upcoming", 
+            "time": 1444775400000, 
+            "updated": 1443103619000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24112015, 
+                "lat": 38.898646999999997, 
+                "lon": -77.024628000000007, 
+                "name": "Martin Luther King, Jr. Memorial Library- Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
+        }, 
+        {
             "created": 1442512202000, 
             "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Oct 13 and Oct 15; 7-9p). \u00a0</b></p> <p><b><br/></b></p> <p><b>About the Course:<br/></b></p> <p>Through the course of this two-part class, you'll get a thorough introduction to HTML5 and CSS3 to build on your previous knowledge. You'll get hands-on experience working with HTML5 features like semantic elements and forms, and you'll learn new CSS3 properties and abilities including transformations and transitions. Finally, we'll dig into responsive design and browser compatibility.</p> <p><br/>You'll leave with readily-applicable skills and we'll be available to answer any questions you may have along the way!</p> <p>To get the most out of this class, you should have a working knowledge of basic HTML and CSS. You may have taken Intro to HTML through Girl Develop It, or maybe you have built a site for fun.</p> <p><b><i><br/></i></b></p> <p><b><i>Why Hangouts &amp; Full Disclosure:<br/></i></b></p> <p><i>Many of our students find it hard to make classes because of traffic, late working hours, etc. We wanted to explore an alternative, virtual classes, and see if it may be a fit for GDI DC.\u00a0</i></p> <p><i><b>Here are the perks: </b>you can join the meetups from anywhere, lower class rates (our cost savings roll right down to you) and the videos are available for reference after each class.\u00a0</i></p> <p><i>Please note that there may be some issues while we're ironing out the details and figuring things out. However, we hope you'll enjoy the sessions!</i></p> <p><br/><b><i><br/></i></b></p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#prerequisites\"&gt;&lt;/a&gt; <b>Prerequisites:</b></p> <p>Introduction to HTML/CSS or basic HTML/CSS experience.</p> <p>\n\n\n<a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#tech-requirements\">&lt;/a&gt; <b>Tech Requirements:</b></p> <p>A modern browser: either Chrome with the \"Web Developer\" extension or Firefox with Firebug installed.A text editor. We recommend Sublime Text 2 (free; available for both Mac and PC).</p> <p>If you do not have a Google account you may not be able to fully participate. We highly recommend creating one (free) to have the most optimal Hangouts on Air experience. After you register be sure to supply your google account information once the question box comes up. If you do not see this please email me ([masked]) and include your google account information.\u00a0</p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#topics-covered\"&gt;</a></p> <p><br/><b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/3/2/6/600_442069958.jpeg\" /></p> <p>Kranthi Reddy is a developer focusing in data science and machine learning. She's an open-source enthusiast and passionate about computer science. When she is not working she likes to experiment with molecular gastronomy, explore new places and learn new technologies.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Isn't it nice to only worry about getting somewhere quiet with your computer? :)</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees a single seat in this Hangout on Air session. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225425768/", 
@@ -1108,7 +1146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1427088126000, 
@@ -1296,33 +1334,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779229/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytnbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1445898600000, 
-            "updated": 1432846440000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1441688777000, 
             "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
@@ -1357,7 +1368,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1439487723000, 
@@ -1508,7 +1519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1326383071000, 
@@ -1594,7 +1605,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
