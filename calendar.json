@@ -153,7 +153,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1427088126000, 
@@ -191,11 +191,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1442459161000, 
-            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes. This is a great way to see a cross section of the data science work being done in the broader DC area!</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (location <i>TBA</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes. This is a great way to see a cross section of the data science work being done in the broader DC area!</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (<i><a href=\"http://highlinerxr.com/\">Highline RxR</a>,\u00a02010-A Crystal Dr</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/225413582/", 
             "group": {
@@ -215,7 +215,7 @@
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1443057583000, 
+            "updated": 1443141429000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -230,7 +230,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 199
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1442409352000, 
@@ -335,7 +335,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1441653193000, 
@@ -411,7 +411,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1442848784000, 
@@ -448,7 +448,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -528,7 +528,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1442950341000, 
@@ -547,15 +547,15 @@
             "headcount": 0, 
             "id": "rsmxklytnbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
+            "name": "Android - Beginner's Night", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444170600000, 
-            "updated": 1442950360000, 
+            "updated": 1443142238000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1438041748000, 
@@ -657,7 +657,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441653193000, 
@@ -868,7 +868,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1422815542000, 
@@ -1112,7 +1112,7 @@
         }, 
         {
             "created": 1442946028000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0</p> <p><br/>This event is possible thanks to generous support from our sponsors. Thank you to <a href=\"http://www.1776.vc/\">1776</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for the space, the <a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a> for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a> will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.</p> <p><br/>1776 is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. There are two <a href=\"http://www.capitalbikeshare.com/\">bikeshare</a> stations nearby, as well as\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0</p> <p><br/>This event is possible thanks to generous support from our sponsors. Thank you to <a href=\"http://www.1776.vc/\">1776</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for the space, the <a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a> for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a> will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.</p> <p><br/>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
             "group": {
                 "created": 1384372275000, 
@@ -1131,7 +1131,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1445292000000, 
-            "updated": 1442960818000, 
+            "updated": 1443152306000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -1368,7 +1368,44 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
+        }, 
+        {
+            "created": 1443151352000, 
+            "description": "<p>Meteorology is a field that has always used massive amounts of data and statistical analysis in trying to predict future outcomes. The techniques used were data science before data science even existed. But Data Science MD has not yet had a meteorology speaker. That all changes this October. Come out and see what is sure to be an electric presentation.</p> <p>Agenda</p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Data Science: A Climate Modeler\u2019s Perspective</p> <p>9:00 PM -- Post event drinks at\u00a0<a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p>Location</p> <p>Join us at the new home of Ad.com!\u00a0</p> <p>3700 O'Donnell Street</p> <p>Baltimore, MD \u00a021224</p> <p>Parking</p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p> <p>Talks</p> <p>Data Science: A Climate Modeler\u2019s Perspective</p> <p>Climate Change is arguably the most important global issue of our times. Multiple scholarly analyses of the historical record have shown how the climate is already changing and impacting virtually almost all parts of our blue planet, whereas massively parallel General Circulation Model simulations paint a vivid picture of what lies ahead in the coming decades through the end of the century. These simulations derive their basis from various disciplines including physics, chemistry, ecology, statistics, engineering, and even economics. Data Science is the invisible thread that connects these interdisciplinary strands into a unified model. The objective of this presentation is to provide a brief overview of the methods, both statistical and dynamical, used in the speaker's specialization of high-resolution climate simulations. It concludes with a case study drawn from the speaker's recent research.</p> <p>Speaker</p> <p><a href=\"https://www.linkedin.com/in/pracherla9\">Pavan Racherla</a>\u00a0has a Ph.D. in Engineering &amp; Public Policy from Carnegie Mellon University (2007), wherein his thesis was on \u201cThe Sensitivity of Ozone and Particulate Matter Concentrations to Climate Change at Various Spatiotemporal Scales.\u201d He worked thereafter as a Postdoctoral and Associate Research Scientist at NASA Goddard Institute for Space Studies [masked]). He is currently \u00a0Principal Researcher at a nonprofit organization called NextClimate. His research has been highlighted in prestigious academic journals like Science as well as popular media outlets like Discovery News.</p> <p><br/>Post Event Drinks</p> <p><a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p> <p>1028 South Conkling Street, Baltimore\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/225602822/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "225602822", 
+            "maybe_rsvp_count": 0, 
+            "name": "Weathering the Data Storm", 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1443152469000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3700 O'Donnell Street ", 
+                "city": "Baltimore", 
+                "country": "us", 
+                "id": 23668500, 
+                "lat": 39.280602000000002, 
+                "lon": -76.565917999999996, 
+                "name": "AOL / Advertising.com", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1439487723000, 
