@@ -162,7 +162,7 @@ other:
     lat: 38.932063999999997, lon: -77.028289999999998, name: The Coupe, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -209,7 +209,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1442459161000
   description: "<p>For our September Meetup, we're presenting the work of six (at\
     \ least!) data scientists from our community.\_These lightning talks will include\
@@ -256,7 +256,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 190
+  yes_rsvp_count: 199
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -380,7 +380,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -490,7 +490,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -575,7 +575,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -601,7 +601,7 @@ other:
     \ exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This\
     \ Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\"\
     >Slack</a> group to talk about all things Android.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbjb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225593372/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -616,7 +616,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -679,7 +679,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -1157,7 +1157,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 13
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1258,7 +1258,7 @@ other:
     \ (such as add a dummy file to the root directory) and request that the CrowdPublishTV\
     \ admin pull your changes.\_<br/>9. Summarize your Ruby &amp; Rails skill level/what\
     \ you know in your own words.</p>"
-  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbsb/
+  event_url: http://www.meetup.com/railsgirlsdc/events/225595053/
   group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
     id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: grown
       Women}
@@ -1402,7 +1402,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1702,7 +1702,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\

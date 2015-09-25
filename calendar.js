@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1427088126000, 
@@ -191,7 +191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1442459161000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 190
+            "yes_rsvp_count": 199
         }, 
         {
             "created": 1442409352000, 
@@ -335,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1441653193000, 
@@ -448,7 +448,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -528,12 +528,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1442950341000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbjb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225593372/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -555,7 +555,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1438041748000, 
@@ -592,7 +592,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1439487723000, 
@@ -971,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1442512202000, 
@@ -1022,7 +1022,7 @@ calendar({
         {
             "created": 1439487723000, 
             "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbsb/", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225595053/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1146,7 +1146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1427088126000, 
@@ -1368,7 +1368,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1439487723000, 
