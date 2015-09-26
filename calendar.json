@@ -191,7 +191,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1442459161000, 
@@ -230,7 +230,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 203
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1442409352000, 
@@ -257,7 +257,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1439487723000, 
@@ -411,7 +411,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1442848784000, 
@@ -448,7 +448,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -971,7 +971,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1442512202000, 
@@ -1017,7 +1017,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1439487723000, 
@@ -1159,7 +1159,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1427088126000, 
@@ -1319,6 +1319,45 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1443214684000, 
+            "description": "<p>Seven teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning health, economics, the environment, and more. Learn from their experience deploying a financial model as an interactive web app on Heroku, displaying rare mineral data using Shiny, and correlating Starbucks locations with business opportunities across time(series) and space(ial analytics)... plus much more! Enjoy brunch on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner!\u00a0</p> <p>\n\n<b>Agenda:</b></p> <p>11:00 am\u00a0-- Brunch and mingling</p> <p>11:30 am\u00a0-- Presentations!</p> <p>1:00pm\u00a0-- Go out for post-event mimosas at Tonic!</p> <p>\n\n\n<b>About our teams:</b></p> <p><br/><i>In partnership with the Department of Labor:</i></p> <p><b>The Redline -\u00a0</b>(Felicia, Wat, Ian, Wayne) is using OSHA data to operationalize their data related to workplace injuries.</p> <p><br/><b>Data Bandits -\u00a0</b>(Sasan, Dilip, Ed, Hari) is providing a way to use your personal spending habits to generate a personal Consumer Price Index.</p> <p><br/><b>CanIMakeIt -\u00a0</b>(Mason, Nathan, Max) is providing housing recommendations and predicting economic success based on various financial factors in different DC neighborhoods.</p> <p>\n\n<i>In partnership with the U. S. Geological Survey:</i></p> <p><br/><b>Mineralytics -\u00a0</b>(Johanna, Qi, Tridib, Adam) is using USGS data to contrast worldwide rare mineral consumption rate and consumer electronics production.</p> <p>\n\n<i>In partnership with the Department of Commerce:</i></p> <p><br/><b>Gentrifuge -\u00a0</b>(Saran, Thomas, David, Karpura) is building a model that predicts gentrification in a geographical area.</p> <p><br/><b>EMU -\u00a0</b>(Sudhir, Erich, Erica, Harish) is utilizing Census financial data and Starbucks location points to predict a market's ripeness for big-box retailers.</p> <p><br/><b>The Censusables -\u00a0</b>(Alexis, Russel, Abishek, Jim) is investigating Census and Yelp data to identify diffrent types of business activity by geographical area.</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/225617694/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "225617694", 
+            "maybe_rsvp_count": 0, 
+            "name": "DDL Data Brunch and Project Pitchfest 2", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1445698800000, 
+            "updated": 1443214684000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24114830, 
+                "lat": 38.896228999999998, 
+                "lon": -77.043960999999996, 
+                "name": "GWU Elliott School of International Affairs, Room 113", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 24
+        }, 
+        {
             "created": 1442174254000, 
             "description": "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\u00a0project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By this point, you should have the following...\u00a0</p> <p><br/>\u2022\u00a0Understand the current code</p> <p>\u2022\u00a0Have it running on your local computer with settings_local.py and\u00a0preferably\u00a0Postgres</p> <p>\u2022 Work through the <a href=\"https://devcenter.heroku.com/articles/getting-started-with-python#introduction\">Heroku tutorial</a>\u00a0</p> <p>\u2022 Have an official url / title! (Let's do this via Slack)</p> <p><br/>During this check-in, we will talk about how to get to our MVP and what our MVP is.\u00a0</p> <p>\n\n\n\n<a href=\"https://github.com/PyLadiesDC/job-translations\">Job Translations</a>:\u00a0</p> <p>More info coming</p>", 
             "duration": 10800000, 
@@ -1430,7 +1469,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1439487723000, 
@@ -1581,7 +1620,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 

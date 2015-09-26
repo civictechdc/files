@@ -209,7 +209,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1442459161000
   description: "<p>For our September Meetup, we're presenting the work of six (at\
     \ least!) data scientists from our community.\_These lightning talks will include\
@@ -257,7 +257,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 203
+  yes_rsvp_count: 208
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -298,7 +298,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -468,7 +468,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - created: 1442848784000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
     \ in a field somehow related to code? Come brunch with others like you!\_</p>\
@@ -491,7 +491,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 9
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -1158,7 +1158,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1225,7 +1225,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -1408,7 +1408,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1624,6 +1624,54 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1443214684000
+  description: "<p>Seven teams of DC data scientists have come together for a three\
+    \ month incubator to turn theory into practice on projects spanning health, economics,\
+    \ the environment, and more. Learn from their experience deploying a financial\
+    \ model as an interactive web app on Heroku, displaying rare mineral data using\
+    \ Shiny, and correlating Starbucks locations with business opportunities across\
+    \ time(series) and space(ial analytics)... plus much more! Enjoy brunch on us\
+    \ as we are taken from concept to production on eight data products, and then\
+    \ join the judges by voting for the winner!\_</p> <p>\n\n<b>Agenda:</b></p> <p>11:00\
+    \ am\_-- Brunch and mingling</p> <p>11:30 am\_-- Presentations!</p> <p>1:00pm\_\
+    -- Go out for post-event mimosas at Tonic!</p> <p>\n\n\n<b>About our teams:</b></p>\
+    \ <p><br/><i>In partnership with the Department of Labor:</i></p> <p><b>The Redline\
+    \ -\_</b>(Felicia, Wat, Ian, Wayne) is using OSHA data to operationalize their\
+    \ data related to workplace injuries.</p> <p><br/><b>Data Bandits -\_</b>(Sasan,\
+    \ Dilip, Ed, Hari) is providing a way to use your personal spending habits to\
+    \ generate a personal Consumer Price Index.</p> <p><br/><b>CanIMakeIt -\_</b>(Mason,\
+    \ Nathan, Max) is providing housing recommendations and predicting economic success\
+    \ based on various financial factors in different DC neighborhoods.</p> <p>\n\n\
+    <i>In partnership with the U. S. Geological Survey:</i></p> <p><br/><b>Mineralytics\
+    \ -\_</b>(Johanna, Qi, Tridib, Adam) is using USGS data to contrast worldwide\
+    \ rare mineral consumption rate and consumer electronics production.</p> <p>\n\
+    \n<i>In partnership with the Department of Commerce:</i></p> <p><br/><b>Gentrifuge\
+    \ -\_</b>(Saran, Thomas, David, Karpura) is building a model that predicts gentrification\
+    \ in a geographical area.</p> <p><br/><b>EMU -\_</b>(Sudhir, Erich, Erica, Harish)\
+    \ is utilizing Census financial data and Starbucks location points to predict\
+    \ a market's ripeness for big-box retailers.</p> <p><br/><b>The Censusables -\_\
+    </b>(Alexis, Russel, Abishek, Jim) is investigating Census and Yelp data to identify\
+    \ diffrent types of business activity by geographical area.</p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Business-DC/events/225617694/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  id: '225617694'
+  maybe_rsvp_count: 0
+  name: DDL Data Brunch and Project Pitchfest 2
+  rsvp_limit: 200
+  status: upcoming
+  time: 1445698800000
+  updated: 1443214684000
+  utc_offset: -14400000
+  venue: {address_1: 1957 E Street NW, city: Washington, country: us, id: 24114830,
+    lat: 38.896228999999998, lon: -77.043960999999996, name: 'GWU Elliott School of
+      International Affairs, Room 113', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 24
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1768,7 +1816,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 37
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -1949,7 +1997,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
