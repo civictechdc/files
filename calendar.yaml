@@ -257,7 +257,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 209
+  yes_rsvp_count: 211
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -432,7 +432,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1443012478000
   description: "<p>Are you considering learning how to code, but don't know where\
     \ to start? Do you have an idea for a web application or an app, but aren't sure\
@@ -1671,7 +1671,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1816,7 +1816,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -1997,7 +1997,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
