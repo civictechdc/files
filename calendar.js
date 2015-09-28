@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 40
         }, 
         {
             "announced": false, 
@@ -108,19 +108,19 @@ calendar({
                 "city": "Washington", 
                 "country": "us", 
                 "id": 23263162, 
-                "lat": 38.905338, 
-                "lon": -77.039008999999993, 
+                "lat": 38.905340000000002, 
+                "lon": -77.039010000000005, 
                 "name": "Socrata Office (2nd Floor)", 
-                "repinned": false, 
+                "repinned": true, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1442459161000, 
-            "description": "<p>For our September Meetup, we're presenting the work of six (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes. This is a great way to see a cross section of the data science work being done in the broader DC area!</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (<i><a href=\"http://highlinerxr.com/\">Highline RxR</a>,\u00a02010-A Crystal Dr</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our September Meetup, we're presenting the work of seven (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes. This is a great way to see a cross section of the data science work being done in the broader DC area!</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 Dennis McDonald -\u00a0Big Data Project Management</p> <p><br/>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (<i><a href=\"http://highlinerxr.com/\">Highline RxR</a>,\u00a02010-A Crystal Dr</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/225413582/", 
             "group": {
@@ -140,7 +140,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1443565800000, 
-            "updated": 1443141429000, 
+            "updated": 1443461049000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 225
+            "yes_rsvp_count": 234
         }, 
         {
             "created": 1442409352000, 
@@ -260,7 +260,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1441653193000, 
@@ -336,7 +336,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1442848784000, 
@@ -414,7 +414,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -453,7 +453,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1442950341000, 
@@ -480,7 +480,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1438041748000, 
@@ -582,7 +582,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1441653193000, 
@@ -608,7 +608,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -647,7 +647,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 135
         }, 
         {
             "created": 1326383071000, 
@@ -687,7 +687,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1440425244000, 
@@ -793,7 +793,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1422815542000, 
@@ -831,7 +831,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1442950341000, 
@@ -896,7 +896,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1442512202000, 
@@ -1050,7 +1050,7 @@ calendar({
         }, 
         {
             "created": 1442946028000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0\u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app.\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0\u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
             "group": {
                 "created": 1384372275000, 
@@ -1069,7 +1069,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1445292000000, 
-            "updated": 1443415025000, 
+            "updated": 1443448602000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -1084,7 +1084,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1427088126000, 
@@ -1280,7 +1280,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
+        }, 
+        {
+            "created": 1443454116000, 
+            "description": "<p>Seven teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning health, economics, the environment, and more. Learn from their experience deploying a financial model as an interactive web app on Heroku, displaying rare mineral data using Shiny, and correlating Starbucks locations with business opportunities across time(series) and space(ial analytics)... plus much more! Enjoy brunch on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! Agenda:</p> <p>11:00 am -- Brunch and mingling</p> <p>11:30 am -- Presentations!</p> <p>1:00pm -- Go out for post-event mimosas at Tonic!</p> <p>About our teams:</p> <p><br/>In partnership with the Department of Labor:</p> <p>The Redline (Felicia, Wat, Ian, Wayne) is using OSHA data to operationalize their data related to workplace injuries.</p> <p>Data Bandits (Sasan, Dilip, Ed, Hari) is providing a way to use your personal spending habits to generate a personal Consumer Price Index.</p> <p>CanIMakeIt (Mason, Nathan, Max) is providing housing recommendations and predicting economic success based on various financial factors in different DC neighborhoods.</p> <p><br/>In partnership with the U. S. Geological Survey:</p> <p>Mineralytics (Johanna, Qi, Tridib, Adam) is using USGS data to contrast worldwide rare mineral consumption rate and consumer electronics production.</p> <p><br/>In partnership with the Department of Commerce:</p> <p>Gentrifuge (Saran, Thomas, David, Karpura) is building a model that predicts gentrification in a geographical area.</p> <p>EMU (Sudhir, Erich, Erica, Harish) is utilizing Census financial data and Starbucks location points to predict a market's ripeness for big-box retailers.</p> <p>The Censusables (Alexis, Russel, Abishek, Jim) is investigating Census and Yelp data to identify diffrent types of business activity by geographical area.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/225674093/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "225674093", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Brunch and Project Pitchfest 2", 
+            "status": "upcoming", 
+            "time": 1445698800000, 
+            "updated": 1443454116000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E St - Room 113", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 22874212, 
+                "lat": 38.896275000000003, 
+                "lon": -77.044205000000005, 
+                "name": "GWU - Eliott School of Int'l Affairs", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1442174254000, 
@@ -1384,7 +1422,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1443151352000, 
@@ -1421,7 +1459,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1439487723000, 
@@ -1572,7 +1610,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1326383071000, 
