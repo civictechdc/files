@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 36
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -79,53 +79,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 14
 other:
-- created: 1443021414000
-  description: "<p><b>Please only RSVP if you're certain you will be able to participate\
-    \ for the entire duration of the event (9/25, 6p - 9/27, 830p). </b>There are\
-    \ two tickets available, if you are one of the first two people to register, upon\
-    \ RSVP'ing you'll be give a link to purchase the tickets and a discount code.</p>\
-    \ <p>\n\n\n\nThis event costs $99/pp, but Startup Weekend DC is offering GDI DC\
-    \ two free tickets. If you are certain you will be able to make the entire event,\
-    \ RSVP and you will be shown a discount code. Please go to the <a href=\"https://www.eventbrite.com/e/startup-weekend-dc-flip-the-ratio-men-welcome-tickets-17449944253\"\
-    >registration page</a>\_and enter your discount code to claim the discount within\
-    \ 24 hours.\_</p> <p>\n\n\n<b>About \"Flipping the Ratio\":\_</b></p> <p><br/>So\
-    \ you maybe curious what is the business about \"flipping the ratio\". \_In essence,\
-    \ this is a typical Startup Weekend but we added a twist where we will try to\
-    \ flip the 70/30 gender ratio of participants that you may see at a startup event.\_\
-    </p> <p>For morel event details, please visit the\_<a href=\"http://www.up.co/communities/usa/washington-dc/\"\
-    >DC page</a>.\_</p> <p>\n\n\n\n<b>About Startup Weekend:\_</b></p> <p>Startup\
-    \ Weekends are 54-hour events designed to provide superior experiential education\
-    \ for technical and non-technical entrepreneurs.\_Beginning with Friday night\
-    \ pitches and continuing through brainstorming, business plan development, and\
-    \ basic prototype creation, Startup Weekends culminate in Sunday night demos and\
-    \ presentations.\_Participants create working startups during the event and are\
-    \ able to collaborate with like-minded individuals outside of their daily networks.\_\
-    All teams hear talks by industry leaders and receive valuable feedback from local\
-    \ entrepreneurials.\_The weekend is centered around action, innovation, and education.\
-    \ \_Whether you are looking for feedback on a idea, a co-founder, specific skill\
-    \ sets, or a team to help you execute, Startup Weekends are the perfect environment\
-    \ in which to test your idea and take the first steps towards launching your own\
-    \ startup.</p>"
-  duration: 181800000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/225560070/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '225560070'
-  maybe_rsvp_count: 0
-  name: 'Startup Weekend DC: Flip the Ratio! (Free Ticket)'
-  rsvp_limit: 2
-  status: upcoming
-  time: 1443218400000
-  updated: 1443021414000
-  utc_offset: -14400000
-  venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24025555,
-    lat: 38.853779000000003, lon: -77.048766999999998, name: 1776 Crystal CIty, repinned: false,
-    state: VA}
-  visibility: public
-  waitlist_count: 4
-  yes_rsvp_count: 2
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -172,7 +125,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 26
 - created: 1442459161000
   description: "<p>For our September Meetup, we're presenting the work of six (at\
     \ least!) data scientists from our community.\_These lightning talks will include\
@@ -220,7 +173,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 221
+  yes_rsvp_count: 225
 - created: 1442409352000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -344,7 +297,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -395,7 +348,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1443012478000
   description: "<p>Are you considering learning how to code, but don't know where\
     \ to start? Do you have an idea for a web application or an app, but aren't sure\
@@ -454,7 +407,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 11
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -491,7 +444,7 @@ other:
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 40
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -722,7 +675,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1121,7 +1074,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1267,7 +1220,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1327,14 +1280,14 @@ other:
     >II</a>\_and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\"\
     >III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to\
     \ see it!</p> <p>Doors open at 6:00;\_presentations start at 6:30. Note we are\
-    \ at 1776's Crystal City location, in Arlington, VA.\_</p> <p><br/>This event\
-    \ is possible thanks to generous support from our sponsors. Thank you to <a href=\"\
-    http://www.1776.vc/\">1776</a> and <a href=\"http://mobilitylab.org/\">Mobility\
-    \ Lab</a> for the space, the <a href=\"http://www.crystalcity.org/\">Crystal City\
-    \ Business Improvement District</a> for the beverages, and Mobility Lab for the\
-    \ food and help with organizing.</p> <p>If you have a cool CaBi project and would\
-    \ like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
+    \ at 1776's Crystal City location, in Arlington, VA.\_\_</p> <p>If you have a\
+    \ cool CaBi project and would like to join the show &amp; tell, please contact\
+    \ <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>.\
+    \ So far our\_speakers are:</p> <p>\u2022\_<a href=\"http://www.zugaldia.net/\"\
+    >Antonio Zugaldia</a>\_will show how he made his\_<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\"\
+    >Capital Bikeshare for Wear</a>\_app.\_</p> <p>\u2022\_<a href=\"http://www.mattficke.com/\"\
+    >Matthew Ficke</a>\_will show his app that predicts the\_likelihood\_of finding\_\
+    a full or empty station.\_</p> <p>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
     >Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>,\
     \ sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\"\
     >his study</a> of how long you should wait at empty/full bikeshare stations.\_\
@@ -1342,17 +1295,18 @@ other:
     \ Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital\
     \ Bikeshare.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/azarstweets\">Mike\
     \ Azar</a> will show how he made bike\_W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\"\
-    >a star</a>.</p> <p>\u2022\_<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\
-    \ will show his app that predicts the\_likelihood\_of finding\_a full or empty\
-    \ station.</p> <p><br/>\u2022\_<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\
-    \ will show how he made his\_<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\"\
-    >Capital Bikeshare for Wear</a> app.</p> <p><br/>1776CC has two\_<a href=\"http://www.capitalbikeshare.com/\"\
+    >a star</a>.</p> <p>1776CC has two\_<a href=\"http://www.capitalbikeshare.com/\"\
     >bikeshare</a>\_stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\"\
     >Crystal City Metro station</a> on the Yellow and Blue lines. The building has\_\
     underground parking (park in the green zone);\_free if you enter the garage after\
     \ 4pm. The neighborhood has more\_<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\"\
-    >free parking</a>.</p> <p>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\"\
+    >free parking</a>.</p> <p>This event is possible thanks to generous support from\
+    \ our sponsors. Thank you to\_<a href=\"http://www.1776.vc/\">1776</a>\_and\_\
+    <a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for the space, the\_<a href=\"\
+    http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\_\
+    for the beverages, and Mobility Lab for the food and help with organizing.</p>\
+    \ <p>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\"\
     >#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\"\
     \ /></p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/225539297/
@@ -1366,14 +1320,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1445292000000
-  updated: 1443387482000
+  updated: 1443415025000
   utc_offset: -14400000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
     lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -2255,7 +2209,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
