@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "announced": false, 
@@ -81,44 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779218/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytmblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1443479400000, 
-            "updated": 1441755113000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1150 17th Street NW, Ste 200", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23263162, 
-                "lat": 38.905340000000002, 
-                "lon": -77.039010000000005, 
-                "name": "Socrata Office (2nd Floor)", 
-                "repinned": true, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
             "created": 1442459161000, 
             "description": "<p>For our September Meetup, we're presenting the work of seven (at least!) data scientists from our community.\u00a0These lightning talks will include highlights of work presented at recent or upcoming academic conferences, demos of tools and techniques that people are excited about, and more, each in less than 10 minutes. This is a great way to see a cross section of the data science work being done in the broader DC area!</p> <p>NOTE:\u00a0We are meeting at 1776's offices in Crystal City, VA this month. Two blocks from the Crystal City Metro stop, and plenty of parking! Virginia members, it's your turn to not have to cross the river!</p> <p><b>Tentative Speaker/Affiliation/Topic list:</b></p> <p>\u2022\u00a0David Harkness - National Geographic - Moneyball for news headlines</p> <p>\u2022\u00a0Travis Hoppe - Postdoc, NIH - Making an AI that creates popular Reddit posts.</p> <p>\u2022\u00a0Steve Bogart - Grant St Group - 'SankeyMatic'</p> <p><br/>\u2022\u00a0Robert Dempsey - ARPC - Creating your 1st predictive model in Python</p> <p>\u2022\u00a0Dalila Benachenhou - GWU - Cooking small world networks</p> <p>\u2022\u00a0David Trossman - NASA Goddard SFC - Using an inverse method to calculate oceanic mixing\u00a0</p> <p>\u2022 Dennis McDonald -\u00a0Big Data Project Management</p> <p><br/>\u2022 <i>Your Name Here</i>! Get in touch if you'd like to speak, either this time or at a future Lightning Talks event!</p> <p><br/><b>Agenda:</b></p> <p>6:30pm\u00a0-- Networking, Empenadas, and Refreshments</p> <p>7:00pm\u00a0-- Introduction</p> <p>7:15pm\u00a0-- Presentations</p> <p>8:30pm\u00a0-- Post presentation conversations and adjourn for Data Drinks (<i><a href=\"http://highlinerxr.com/\">Highline RxR</a>,\u00a02010-A Crystal Dr</i>)</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.1776.vc/\">1776</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://www.deeplearninganalytics.com/category/news/\">Deep Learning Analytics</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
@@ -155,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 240
+            "yes_rsvp_count": 248
         }, 
         {
             "created": 1442409352000, 
@@ -260,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1441653193000, 
@@ -298,7 +260,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1443012478000, 
@@ -336,7 +298,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1442848784000, 
@@ -373,7 +335,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -453,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1442950341000, 
@@ -472,11 +434,11 @@ calendar({
             "headcount": 0, 
             "id": "rsmxklytnbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android - Beginner's Night", 
+            "name": "Android - First Timer's Night", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444170600000, 
-            "updated": 1443142238000, 
+            "updated": 1443521949000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -582,11 +544,12 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225481179/", 
             "group": {
                 "created": 1395616294000, 
@@ -601,14 +564,25 @@ calendar({
             "headcount": 0, 
             "id": "gnsnklytnbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
+            "name": "Ruby on Rails First Timer's Night", 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1441653193000, 
+            "updated": 1443488546000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1417881835000, 
@@ -647,7 +621,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 136
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1326383071000, 
@@ -687,7 +661,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1440425244000, 
@@ -765,7 +739,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
+            "waitlist_count": 48, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1291,7 +1265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1443454116000, 
@@ -1329,7 +1303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1442174254000, 
@@ -1410,6 +1384,33 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1441688777000, 
             "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
@@ -1481,7 +1482,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1439487723000, 
