@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }
     ], 
     "other": [
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1442459161000, 
@@ -155,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 234
+            "yes_rsvp_count": 240
         }, 
         {
             "created": 1442409352000, 
@@ -196,7 +196,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytmblc", 
@@ -260,7 +260,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1441653193000, 
@@ -336,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1442848784000, 
@@ -414,7 +414,7 @@
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -435,10 +435,10 @@
             "headcount": 0, 
             "id": "rlzgglytnbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
+            "name": "First Timer's Front End Hack Night", 
             "status": "upcoming", 
             "time": 1444084200000, 
-            "updated": 1443201487000, 
+            "updated": 1443482979000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "641 S St NW, First Floor", 
@@ -453,7 +453,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1442950341000, 
@@ -517,7 +517,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1439487723000, 
@@ -531,7 +531,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytnbkb", 
@@ -647,7 +647,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1326383071000, 
@@ -687,7 +687,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1440425244000, 
@@ -793,7 +793,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1422815542000, 
@@ -831,7 +831,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1442950341000, 
@@ -903,7 +903,7 @@
             "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Oct 13 and Oct 15; 7-9p). \u00a0</b></p> <p><b><br/></b></p> <p><b>About the Course:<br/></b></p> <p>Through the course of this two-part class, you'll get a thorough introduction to HTML5 and CSS3 to build on your previous knowledge. You'll get hands-on experience working with HTML5 features like semantic elements and forms, and you'll learn new CSS3 properties and abilities including transformations and transitions. Finally, we'll dig into responsive design and browser compatibility.</p> <p><br/>You'll leave with readily-applicable skills and we'll be available to answer any questions you may have along the way!</p> <p>To get the most out of this class, you should have a working knowledge of basic HTML and CSS. You may have taken Intro to HTML through Girl Develop It, or maybe you have built a site for fun.</p> <p><b><i><br/></i></b></p> <p><b><i>Why Hangouts &amp; Full Disclosure:<br/></i></b></p> <p><i>Many of our students find it hard to make classes because of traffic, late working hours, etc. We wanted to explore an alternative, virtual classes, and see if it may be a fit for GDI DC.\u00a0</i></p> <p><i><b>Here are the perks: </b>you can join the meetups from anywhere, lower class rates (our cost savings roll right down to you) and the videos are available for reference after each class.\u00a0</i></p> <p><i>Please note that there may be some issues while we're ironing out the details and figuring things out. However, we hope you'll enjoy the sessions!</i></p> <p><br/><b><i><br/></i></b></p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#prerequisites\"&gt;&lt;/a&gt; <b>Prerequisites:</b></p> <p>Introduction to HTML/CSS or basic HTML/CSS experience.</p> <p>\n\n\n<a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#tech-requirements\">&lt;/a&gt; <b>Tech Requirements:</b></p> <p>A modern browser: either Chrome with the \"Web Developer\" extension or Firefox with Firebug installed.A text editor. We recommend Sublime Text 2 (free; available for both Mac and PC).</p> <p>If you do not have a Google account you may not be able to fully participate. We highly recommend creating one (free) to have the most optimal Hangouts on Air experience. After you register be sure to supply your google account information once the question box comes up. If you do not see this please email me ([masked]) and include your google account information.\u00a0</p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#topics-covered\"&gt;</a></p> <p><br/><b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/3/2/6/600_442069958.jpeg\" /></p> <p>Kranthi Reddy is a developer focusing in data science and machine learning. She's an open-source enthusiast and passionate about computer science. When she is not working she likes to experiment with molecular gastronomy, explore new places and learn new technologies.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Isn't it nice to only worry about getting somewhere quiet with your computer? :)</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees a single seat in this Hangout on Air session. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225425768/", 
             "fee": {
-                "accepts": "cash", 
+                "accepts": "wepay", 
                 "amount": 15, 
                 "currency": "USD", 
                 "description": "per person", 
@@ -956,7 +956,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytnbsb", 
@@ -1046,7 +1046,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1442946028000, 
@@ -1084,7 +1084,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1427088126000, 
@@ -1107,11 +1107,22 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1445293800000, 
-            "updated": 1432846440000, 
+            "updated": 1443483482000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1442950341000, 
@@ -1152,7 +1163,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytnbcc", 
@@ -1280,7 +1291,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1443454116000, 
@@ -1318,7 +1329,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1442174254000, 
@@ -1381,8 +1392,19 @@
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1445898600000, 
-            "updated": 1432846440000, 
+            "updated": 1443483504000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
@@ -1459,7 +1481,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1439487723000, 
@@ -1473,7 +1495,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytnblc", 
@@ -1548,7 +1570,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytpbgb", 
@@ -1658,7 +1680,7 @@
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225096237/", 
             "fee": {
-                "accepts": "cash", 
+                "accepts": "wepay", 
                 "amount": 24, 
                 "currency": "USD", 
                 "description": "per person", 
@@ -1710,7 +1732,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytpbpb", 
@@ -1785,7 +1807,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytpbxb", 
@@ -1859,7 +1881,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytpbhc", 
@@ -1896,7 +1918,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytqbdb", 
@@ -2050,7 +2072,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytqbmb", 
@@ -2087,7 +2109,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytqbvb", 
@@ -2124,7 +2146,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytqbfc", 
@@ -2161,7 +2183,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlytqbnc", 
@@ -2198,7 +2220,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvcbjb", 
@@ -2302,7 +2324,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvcbrb", 
@@ -2339,7 +2361,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvcbbc", 
@@ -2376,7 +2398,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvcbkc", 
@@ -2413,7 +2435,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvdbfb", 
@@ -2517,7 +2539,7 @@
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
                 "urlname": "railsgirlsdc", 
-                "who": "grown Women"
+                "who": "Rails Women"
             }, 
             "headcount": 0, 
             "id": "kvjxjlyvdbnb", 
