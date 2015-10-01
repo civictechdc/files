@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "announced": false, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1442848784000, 
@@ -153,7 +153,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -234,7 +234,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1427088126000, 
@@ -272,11 +272,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1443669296000, 
-            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Jeff Farley, Ben Morris - STSI, Inc. \u00a0<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225744446/", 
             "group": {
                 "created": 1347647025000, 
@@ -294,7 +294,7 @@
             "name": "DC API User Group - October Edition", 
             "status": "upcoming", 
             "time": 1444168800000, 
-            "updated": 1443669296000, 
+            "updated": 1443715282000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -309,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1442950341000, 
@@ -359,11 +359,11 @@
             "name": "Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)", 
             "status": "upcoming", 
             "time": 1444233600000, 
-            "updated": 1443681285000, 
+            "updated": 1443712682000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1438041748000, 
@@ -400,7 +400,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1439487723000, 
@@ -503,7 +503,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1417881835000, 
@@ -582,7 +582,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1440425244000, 
@@ -741,7 +741,7 @@
         }, 
         {
             "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>This night we will have a Tech Talk entitled : Static Code Analysis: For When Smart People Make Dumb Mistakes.</p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225577908/", 
             "group": {
                 "created": 1395616294000, 
@@ -756,11 +756,11 @@
             "headcount": 0, 
             "id": "rsmxklytnbrb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
+            "name": "Tech Talk - Static Code Analysis: For When Smart People Make Dumb Mistakes", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444775400000, 
-            "updated": 1442950360000, 
+            "updated": 1443712218000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -951,7 +951,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1441653193000, 
@@ -994,7 +994,7 @@
         }, 
         {
             "created": 1442946028000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Got a cool CaBi project? We'd love to see it!</p> <p>Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA.\u00a0\u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
             "group": {
                 "created": 1384372275000, 
@@ -1013,7 +1013,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1445292000000, 
-            "updated": 1443567759000, 
+            "updated": 1443712953000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -1028,7 +1028,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1427088126000, 
@@ -1273,7 +1273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1442174254000, 
@@ -1397,10 +1397,10 @@
             "headcount": 0, 
             "id": "225197304", 
             "maybe_rsvp_count": 0, 
-            "name": "Making Your Messages Count: Developing Content That Resonates", 
+            "name": "Make Your Messages Count: Developing Content That Resonates", 
             "status": "upcoming", 
             "time": 1445985000000, 
-            "updated": 1443061650000, 
+            "updated": 1443718983000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1452,7 +1452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1439487723000, 
@@ -1790,7 +1790,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1422815587000, 
