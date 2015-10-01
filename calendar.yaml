@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -79,141 +79,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 18
 other:
-- created: 1439487723000
-  description: "<p>We will be collaborating on these events with Women Who Code. Their\
-    \ rule is Women Only.\_If men are interested in getting involved in this project,\
-    \ you're still welcome to learn &amp; contribute. Send a message to [masked] to\
-    \ find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized\
-    \ several sessions to help get newbies set up with Rails. But what comes next?\
-    \ If you're interested in working on something to improve your skills or interested\
-    \ in helping others on a regular basis, you should come. \_There's something useful\
-    \ in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through\
-    \ this quiz, already, you should do so before attending:</p> <p>Note: Potential\
-    \ mentees with the highest skill level will be matched with mentors who have the\
-    \ highest skill level. Which means that potential mentors with the best skill\
-    \ set will get the more advanced mentees. Thus it is in your best interest to\
-    \ show off your current skills so you can work with others who are best positioned\
-    \ to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"\
-    ><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\"\
-    >http://github.com/crowdpublishtv/crowdpublishtv</a></a>\_and use tutorials, google,\
-    \ etc. to help you figure out the answers.\_</p> <p><br/>1. What is the design\
-    \ of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper\
-    \ &amp; submit as a photo)\_<br/>2. Which file/view is the users' home page? What\
-    \ information do authors get to display on their home page? Where is this information\
-    \ stored in the CrowdPublish.TV database?\_<br/>3. What pages/views do authors\
-    \ get in their web site when they sign up for CrowdPublish.TV?\_<br/>4. What are\
-    \ the default views for all Rails apps?\_<br/>5. What are the routes that were\
-    \ added to the CrowdPublish.TV app so the non-default/extra views for user pages\
-    \ could be displayed?\_<br/>6. What are the methods that were added to the CrowdPublish.TV\
-    \ app so the non-default/extra user views/pages could be displayed? What file\
-    \ are they in?\_<br/>7. Where is the method to add_bank_account to users? What\
-    \ gem does it use?\_<br/>8. Fork a copy of the crowdpublishtv github repo (url\
-    \ above) into your github account. Make a minor change that does not affect functionality\
-    \ (such as add a dummy file to the root directory) and request that the CrowdPublishTV\
-    \ admin pull your changes.\_<br/>9. Summarize your Ruby &amp; Rails skill level/what\
-    \ you know in your own words.</p>"
-  event_url: http://www.meetup.com/railsgirlsdc/events/225546981/
-  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
-    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Rails
-      Women}
-  headcount: 0
-  id: kvjxjlytmblc
-  maybe_rsvp_count: 0
-  name: Next Step tutorial sessions/project
-  status: upcoming
-  time: 1443652200000
-  updated: 1443022245000
-  utc_offset: -14400000
-  venue: {address_1: 1203 19th St NW, city: Washington, country: us, id: 24110019,
-    lat: 38.905971999999998, lon: -77.043205, name: Canvas, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
-- created: 1442445854000
-  description: <p>We're a group of women who want to learn and develop our Python
-    scripting skills. Some of us are professional developers and data scientists,
-    others are hobbyists, and some are just beginning. The study group is intended
-    for everyone who wishes to learn more about the Python programming language. Folks
-    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
-    Wednesday of every month, which caters especially for absolute beginners and people
-    with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
-    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
-    for women; we are trans* friendly.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225407076/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: OPOWER is near Courthouse Metro, We're on the 7th floor
-  id: '225407076'
-  maybe_rsvp_count: 0
-  name: Python Study Group
-  rsvp_limit: 50
-  status: upcoming
-  time: 1443652200000
-  updated: 1443559786000
-  utc_offset: -14400000
-  venue: {address_1: 1515 N Courthouse Road, city: Arlington, country: us, id: 1555993,
-    lat: 38.891196999999998, lon: -77.083740000000006, name: OPOWER, repinned: false,
-    state: VA, zip: '22201'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 20
-- created: 1441653193000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills? Come to our weekly ROR study group! We welcome women with\
-    \ all levels of experience. You will be able to ask your fellow coders questions\
-    \ and help each other work through issues. We encourage any advanced ROR devs\
-    \ to come and help others! There's always at least one mentor present to help\
-    \ you with best practices or guide you through if you are stuck with a nasty problem!</p>\
-    \ <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm -\
-    \ Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who\
-    \ are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial.\
-    \ For those who have some experience already but are looking for projects, we\
-    \ recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and\
-    \ work on something else if you like.</p> <p><b>Contact policy at buildings that\
-    \ need access</b></p> <p>Certain building managements requires meetup hosts to\
-    \ let people in and do not encourage them being contacted. Please respect the\
-    \ policy, in case the location requires access to the building contact the group\
-    \ lead if information is provided, or drop a comment on the meetup page. We'll\
-    \ come and get you.\_</p> <p><b>Want to be a Ruby on Rails Study Group leader?</b></p>\
-    \ <p>If you are passionate about learning ROR with fellow awesome women and want\
-    \ to help us, come on out! Drop us a message or email us and let us know that\
-    \ you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p><b>Request to join our Slack channel\
-    \ for communication:</b></p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"\
-    http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225378306/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: gnsnklytmbnc
-  maybe_rsvp_count: 0
-  name: Ruby on Rails Study Group
-  status: upcoming
-  time: 1443652200000
-  updated: 1443537176000
-  utc_offset: -14400000
-  venue: {address_1: 1203 19th St NW, city: Washington, country: us, id: 24009011,
-    lat: 38.905864999999999, lon: -77.043396000000001, name: Canvas, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 12
 - created: 1443012478000
   description: "<p>Are you considering learning how to code, but don't know where\
     \ to start? Do you have an idea for a web application or an app, but aren't sure\
@@ -272,7 +137,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 19
+  waitlist_count: 20
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -386,7 +251,37 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
+- created: 1443669296000
+  description: "<p>Fall is in the air! \_And what goes great with delightfully cool\
+    \ weather? \_APIs. \_</p> <p>More than ever before, come enjoy great conversation\
+    \ with your fellow API meetup-ers\_on the outdoor roof decks at Chief. \_</p>\
+    \ <p>Whether you're an experienced veteran or just beginning to learn more about\
+    \ APIs, this meetup is for you. We've got a great lineup forming, so go ahead\
+    \ and mark your calendar for the first Tuesday of the month! See you soon. :)</p>\
+    \ <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions\
+    \ and Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore -\
+    \ CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>*\
+    \ TBA</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
+    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/225744446/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '225744446'
+  maybe_rsvp_count: 0
+  name: DC API User Group - October Edition
+  status: upcoming
+  time: 1444168800000
+  updated: 1443669296000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -427,22 +322,22 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1443654333000
   description: "<p>Meet\_Laura Ferguson<b>,\_</b>badass female founder and CTO of\_\
     <a href=\"http://create.io/\">Create.io</a>. She will be participating in our\
     \ first ever Ask Me Anything (AMA) on slack.\_</p> <p><b>About Laura and Create.io</b></p>\
     \ <p>\u2022\_Create.io is a 3D data aggregation and visualization platform used\
-    \ to help professionals sift through lots of data to determine if they should\
-    \ develop a new property or choose to redevelop existing properties they already\
-    \ own.</p> <p>\u2022\_Create.io uses AngularJS and Jade/HTML5 to build the front\
-    \ end experience and Angular provides all of the MVC wiring that\u2019s used to\
-    \ feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\
+    \ to help real-estate professionals sift through lots of data to determine if\
+    \ they should develop a new property or choose to redevelop existing properties\
+    \ they already own.</p> <p>\u2022\_Create.io uses AngularJS and Jade/HTML5 to\
+    \ build the front end experience and Angular provides all of the MVC wiring that\u2019\
+    s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\
     \_Laura is an expert Java developer and GUI designer and specilizes in Express,\
     \ Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku,\
-    \ Github and AWS.</p> <p><b>Event Details</b> Members will get a chance to ask\
-    \ her anything related to:</p> <p><i>\u200BCareer Development</i>:\_advice to\
-    \ beginners on coding,\_daily work tactics,\_long term career development</p>\
+    \ Github and AWS.</p> <p><b>Event Details</b></p> <p>Members will get a chance\
+    \ to ask her anything related to:</p> <p><i>\u200BCareer Development</i>:\_advice\
+    \ to beginners on coding,\_daily work tactics,\_long term career development</p>\
     \ <p><i>\u200BSoftware Development:</i>\_web development (Java, Node.js, Angular),\
     \ mobile development (Android, Cordova)</p> <p><i>\u200BStarting a company</i>:\_\
     obstacles encountered in starting a company,\_on dealing with unconscious bias\
@@ -450,14 +345,15 @@ other:
     revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our\
     \ Slack channel:\_<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama\
-    \ channel</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off\
-    \ the event you can start asking your questions<br/>Thursday @ 12:00PM: We will\
-    \ remind members to ask their final questions by 9:00PM<br/>Friday 2:00PM EST:\
-    \ End of the AMA</p> <p>During this period Laura will answer your questions at\
-    \ her convenience and you can come in and post your questions at your convenience\
-    \ too.</p> <p><br/><b>This event is for everyone: beginners, professional developers\
-    \ and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\"\
-    >slack</a>.</b></p>"
+    \ channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/279bZ\" class=\"linkified\"\
+    >http://ctt.ec/279bZ</a>) and show support!</p> <p><b>Schedule</b></p> <p>Wednesday\
+    \ @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday\
+    \ @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday\
+    \ @ 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your\
+    \ questions. Members are welcome to post questions at any point during the AMA\
+    \ from Wednesday to Thursday 9:00pm EST.\_</p> <p><br/><b>This event is for everyone:\
+    \ beginners, professional developers and entrepreneurs. Come join us on <a href=\"\
+    https://womenwhocodedc.slack.com\">slack</a>.</b></p>"
   duration: 180000000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/225738347/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -469,11 +365,11 @@ other:
   name: Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)
   status: upcoming
   time: 1444233600000
-  updated: 1443656084000
+  updated: 1443681285000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 8
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -665,7 +561,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -903,7 +799,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1422815542000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -938,7 +834,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1073,7 +969,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1640,7 +1536,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1718,6 +1614,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1442950341000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
+    \ experience and provide you with recommended resources to work through as a group.\
+    \ \_You will be able to ask your fellow coders questions and help each other work\
+    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
+    \ to come and help others! \_There will also be at least one mentor present to\
+    \ help you with best practices or guide you if you are stuck with a problem!</p>\
+    \ <p><b>Building Access</b></p> <p>The management in certain buildings requires\
+    \ meetup hosts to let people in instead of relying on their security staff. \_\
+    \ Please respect the policy in case the location requires access to the building.\
+    \ \_To gain access, contact the group lead if information is provided or drop\
+    \ a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be\
+    \ exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This\
+    \ Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\"\
+    >Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: rsmxklytnbkc
+  maybe_rsvp_count: 0
+  name: Android - Hack Night
+  rsvp_limit: 30
+  status: upcoming
+  time: 1445985000000
+  updated: 1442950360000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1441688777000
   description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
     >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
@@ -1883,6 +1820,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1442950567000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/jtmxklytnblc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: jtmxklytnblc
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1446071400000
+  updated: 1442950567000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -2156,7 +2122,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 36
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -3064,6 +3030,56 @@ other:
   name: Next Step tutorial sessions/project
   status: upcoming
   time: 1455147000000
+  updated: 1443022245000
+  utc_offset: -18000000
+  venue: {address_1: 1203 19th St NW, city: Washington, country: us, id: 24110019,
+    lat: 38.905971999999998, lon: -77.043205, name: Canvas, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1439487723000
+  description: "<p>We will be collaborating on these events with Women Who Code. Their\
+    \ rule is Women Only.\_If men are interested in getting involved in this project,\
+    \ you're still welcome to learn &amp; contribute. Send a message to [masked] to\
+    \ find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized\
+    \ several sessions to help get newbies set up with Rails. But what comes next?\
+    \ If you're interested in working on something to improve your skills or interested\
+    \ in helping others on a regular basis, you should come. \_There's something useful\
+    \ in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through\
+    \ this quiz, already, you should do so before attending:</p> <p>Note: Potential\
+    \ mentees with the highest skill level will be matched with mentors who have the\
+    \ highest skill level. Which means that potential mentors with the best skill\
+    \ set will get the more advanced mentees. Thus it is in your best interest to\
+    \ show off your current skills so you can work with others who are best positioned\
+    \ to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"\
+    ><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\"\
+    >http://github.com/crowdpublishtv/crowdpublishtv</a></a>\_and use tutorials, google,\
+    \ etc. to help you figure out the answers.\_</p> <p><br/>1. What is the design\
+    \ of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper\
+    \ &amp; submit as a photo)\_<br/>2. Which file/view is the users' home page? What\
+    \ information do authors get to display on their home page? Where is this information\
+    \ stored in the CrowdPublish.TV database?\_<br/>3. What pages/views do authors\
+    \ get in their web site when they sign up for CrowdPublish.TV?\_<br/>4. What are\
+    \ the default views for all Rails apps?\_<br/>5. What are the routes that were\
+    \ added to the CrowdPublish.TV app so the non-default/extra views for user pages\
+    \ could be displayed?\_<br/>6. What are the methods that were added to the CrowdPublish.TV\
+    \ app so the non-default/extra user views/pages could be displayed? What file\
+    \ are they in?\_<br/>7. Where is the method to add_bank_account to users? What\
+    \ gem does it use?\_<br/>8. Fork a copy of the crowdpublishtv github repo (url\
+    \ above) into your github account. Make a minor change that does not affect functionality\
+    \ (such as add a dummy file to the root directory) and request that the CrowdPublishTV\
+    \ admin pull your changes.\_<br/>9. Summarize your Ruby &amp; Rails skill level/what\
+    \ you know in your own words.</p>"
+  event_url: http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbwb/
+  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.050003051757812,
+    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Rails
+      Women}
+  headcount: 0
+  id: kvjxjlyvdbwb
+  maybe_rsvp_count: 0
+  name: Next Step tutorial sessions/project
+  status: upcoming
+  time: 1455751800000
   updated: 1443022245000
   utc_offset: -18000000
   venue: {address_1: 1203 19th St NW, city: Washington, country: us, id: 24110019,

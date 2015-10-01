@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": false, 
@@ -80,122 +80,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/225546981/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytmblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1443652200000, 
-            "updated": 1443022245000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1442445854000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225407076/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "OPOWER is near Courthouse Metro, We're on the 7th floor", 
-            "id": "225407076", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Study Group", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1443652200000, 
-            "updated": 1443559786000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1515 N Courthouse Road", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 1555993, 
-                "lat": 38.891196999999998, 
-                "lon": -77.083740000000006, 
-                "name": "OPOWER", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22201"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 20
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR study group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p><b>Meetup Agenda</b></p> <p>Every study group will have the following format:</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Looking for something to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Ruby on Rails Study Group leader?</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p><b>Request to join our Slack channel for communication:</b></p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225378306/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytmbnc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Study Group", 
-            "status": "upcoming", 
-            "time": 1443652200000, 
-            "updated": 1443537176000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24009011, 
-                "lat": 38.905864999999999, 
-                "lon": -77.043396000000001, 
-                "name": "Canvas", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
         {
             "created": 1443012478000, 
             "description": "<p>Are you considering learning how to code, but don't know where to start? Do you have an idea for a web application or an app, but aren't sure which is the best platform to build it in? Are you a Product Manager that wants to better communicate with engineers on your team? Or do you simply want to learn what the differences are between Python, Ruby,\u00a0HTML,\u00a0CSS, Java, Javascript, and the seemingly endless number of terms you hear when people talk about programming?</p> <p>This meetup will introduce you to many common terms that might otherwise look like alphabet soup when you first start out. We will start from the ground up to explain what each language is useful for, and what makes them different from each other.</p> <p>This event is perfect for beginners trying to decide which coding \"path\" to take. It is also useful for developers who\u00a0to expand their\u00a0high-level understanding of new languages!</p> <p>This talk was an absolute hit when we first presented it in D.C. We expect that you\u2019ll be just as engaged, invigorated, and ready to hit the ground running with code as our last audience!'</p> <p>This event is intended to be exclusively open for people who identify as women - we are\u00a0transgender friendly.\u00a0</p>", 
@@ -269,7 +153,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -388,7 +272,44 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
+        }, 
+        {
+            "created": 1443669296000, 
+            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225744446/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "225744446", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - October Edition", 
+            "status": "upcoming", 
+            "time": 1444168800000, 
+            "updated": 1443669296000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1442950341000, 
@@ -415,11 +336,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1443654333000, 
-            "description": "<p>Meet\u00a0Laura Ferguson<b>,\u00a0</b>badass female founder and CTO of\u00a0<a href=\"http://create.io/\">Create.io</a>. She will be participating in our first ever Ask Me Anything (AMA) on slack.\u00a0</p> <p><b>About Laura and Create.io</b></p> <p>\u2022\u00a0Create.io is a 3D data aggregation and visualization platform used to help professionals sift through lots of data to determine if they should develop a new property or choose to redevelop existing properties they already own.</p> <p>\u2022\u00a0Create.io uses AngularJS and Jade/HTML5 to build the front end experience and Angular provides all of the MVC wiring that\u2019s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\u00a0Laura is an expert Java developer and GUI designer and specilizes in Express, Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku, Github and AWS.</p> <p><b>Event Details</b> Members will get a chance to ask her anything related to:</p> <p><i>\u200bCareer Development</i>:\u00a0advice to beginners on coding,\u00a0daily work tactics,\u00a0long term career development</p> <p><i>\u200bSoftware Development:</i>\u00a0web development (Java, Node.js, Angular), mobile development (Android, Cordova)</p> <p><i>\u200bStarting a company</i>:\u00a0obstacles encountered in starting a company,\u00a0on dealing with unconscious bias as a woman in the startup world,\u00a0on being a CTO,\u00a0fundraising,\u00a0customer acquisition,\u00a0revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama channel</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions at her convenience and you can come in and post your questions at your convenience too.</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
+            "description": "<p>Meet\u00a0Laura Ferguson<b>,\u00a0</b>badass female founder and CTO of\u00a0<a href=\"http://create.io/\">Create.io</a>. She will be participating in our first ever Ask Me Anything (AMA) on slack.\u00a0</p> <p><b>About Laura and Create.io</b></p> <p>\u2022\u00a0Create.io is a 3D data aggregation and visualization platform used to help real-estate professionals sift through lots of data to determine if they should develop a new property or choose to redevelop existing properties they already own.</p> <p>\u2022\u00a0Create.io uses AngularJS and Jade/HTML5 to build the front end experience and Angular provides all of the MVC wiring that\u2019s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\u00a0Laura is an expert Java developer and GUI designer and specilizes in Express, Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku, Github and AWS.</p> <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200bCareer Development</i>:\u00a0advice to beginners on coding,\u00a0daily work tactics,\u00a0long term career development</p> <p><i>\u200bSoftware Development:</i>\u00a0web development (Java, Node.js, Angular), mobile development (Android, Cordova)</p> <p><i>\u200bStarting a company</i>:\u00a0obstacles encountered in starting a company,\u00a0on dealing with unconscious bias as a woman in the startup world,\u00a0on being a CTO,\u00a0fundraising,\u00a0customer acquisition,\u00a0revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/279bZ\" class=\"linkified\">http://ctt.ec/279bZ</a>) and show support!</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions. Members are welcome to post questions at any point during the AMA from Wednesday to Thursday 9:00pm EST.\u00a0</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
             "duration": 180000000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225738347/", 
             "group": {
@@ -438,11 +359,11 @@ calendar({
             "name": "Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)", 
             "status": "upcoming", 
             "time": 1444233600000, 
-            "updated": 1443656084000, 
+            "updated": 1443681285000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1438041748000, 
@@ -582,7 +503,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1417881835000, 
@@ -778,7 +699,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1422815542000, 
@@ -816,7 +737,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1442950341000, 
@@ -919,7 +840,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1442512202000, 
@@ -1352,7 +1273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1442174254000, 
@@ -1431,6 +1352,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1442950341000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rsmxklytnbkc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android - Hack Night", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1445985000000, 
+            "updated": 1442950360000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1441688777000, 
@@ -1542,6 +1490,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1442950567000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jtmxklytnblc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jtmxklytnblc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1446071400000, 
+            "updated": 1442950567000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1440087572000, 
@@ -1814,7 +1790,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1422815587000, 
@@ -2618,6 +2594,43 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1455147000000, 
+            "updated": 1443022245000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbwb/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlyvdbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1455751800000, 
             "updated": 1443022245000, 
             "utc_offset": -18000000, 
             "venue": {
