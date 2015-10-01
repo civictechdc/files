@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 45
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -77,7 +77,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 other:
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
@@ -161,7 +161,7 @@ other:
     state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 20
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -249,7 +249,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 88
 - created: 1442848784000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
     \ in a field somehow related to code? Come brunch with others like you!\_</p>\
@@ -272,7 +272,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 18
+  waitlist_count: 19
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -386,7 +386,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -423,11 +423,57 @@ other:
   rsvp_limit: 30
   status: upcoming
   time: 1444170600000
-  updated: 1443521949000
+  updated: 1443643512000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
+- created: 1443654333000
+  description: "<p>Meet\_Laura Ferguson<b>,\_</b>badass female founder and CTO of\_\
+    <a href=\"http://create.io/\">Create.io</a>. She will be participating in our\
+    \ first ever Ask Me Anything (AMA) on slack.\_</p> <p><b>About Laura and Create.io</b></p>\
+    \ <p>\u2022\_Create.io is a 3D data aggregation and visualization platform used\
+    \ to help professionals sift through lots of data to determine if they should\
+    \ develop a new property or choose to redevelop existing properties they already\
+    \ own.</p> <p>\u2022\_Create.io uses AngularJS and Jade/HTML5 to build the front\
+    \ end experience and Angular provides all of the MVC wiring that\u2019s used to\
+    \ feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\
+    \_Laura is an expert Java developer and GUI designer and specilizes in Express,\
+    \ Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku,\
+    \ Github and AWS.</p> <p><b>Event Details</b> Members will get a chance to ask\
+    \ her anything related to:</p> <p><i>\u200BCareer Development</i>:\_advice to\
+    \ beginners on coding,\_daily work tactics,\_long term career development</p>\
+    \ <p><i>\u200BSoftware Development:</i>\_web development (Java, Node.js, Angular),\
+    \ mobile development (Android, Cordova)</p> <p><i>\u200BStarting a company</i>:\_\
+    obstacles encountered in starting a company,\_on dealing with unconscious bias\
+    \ as a woman in the startup world,\_on being a CTO,\_fundraising,\_customer acquisition,\_\
+    revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our\
+    \ Slack channel:\_<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
+    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama\
+    \ channel</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off\
+    \ the event you can start asking your questions<br/>Thursday @ 12:00PM: We will\
+    \ remind members to ask their final questions by 9:00PM<br/>Friday 2:00PM EST:\
+    \ End of the AMA</p> <p>During this period Laura will answer your questions at\
+    \ her convenience and you can come in and post your questions at your convenience\
+    \ too.</p> <p><br/><b>This event is for everyone: beginners, professional developers\
+    \ and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\"\
+    >slack</a>.</b></p>"
+  duration: 180000000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225738347/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '225738347'
+  maybe_rsvp_count: 0
+  name: Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)
+  status: upcoming
+  time: 1444233600000
+  updated: 1443656084000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -569,7 +615,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -619,7 +665,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -654,7 +700,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 146
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -676,7 +722,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1440425244000
   description: "<p>Continuum Analytics develops Anaconda, the leading modern open\
     \ source analytics platform powered by Python. Continuum\u2019s Python\xAD based\
@@ -1027,7 +1073,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1330,7 +1376,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1672,47 +1718,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
-- created: 1442950341000
-  description: "<p>Interested in learning how to build Android apps with an awesome\
-    \ group of women? \_Looking to build your first app or build on existing skills?\
-    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
-    \ of Android experience (including none), but coding experience *is*preferred\
-    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
-    \ bring your laptop to this event as computers will not be provided.***</b></p>\
-    \ <p><b>Meetup Format</b></p> <p>We will set up stations according to level of\
-    \ experience and provide you with recommended resources to work through as a group.\
-    \ \_You will be able to ask your fellow coders questions and help each other work\
-    \ through issues. \_We encourage any advanced Android developers and enthusiasts\
-    \ to come and help others! \_There will also be at least one mentor present to\
-    \ help you with best practices or guide you if you are stuck with a problem!</p>\
-    \ <p><b>Building Access</b></p> <p>The management in certain buildings requires\
-    \ meetup hosts to let people in instead of relying on their security staff. \_\
-    \ Please respect the policy in case the location requires access to the building.\
-    \ \_To gain access, contact the group lead if information is provided or drop\
-    \ a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p>\
-    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
-    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
-    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
-    \ welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be\
-    \ exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This\
-    \ Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\"\
-    >Slack</a> group to talk about all things Android.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rsmxklytnbkc
-  maybe_rsvp_count: 0
-  name: Android - Hack Night
-  rsvp_limit: 30
-  status: upcoming
-  time: 1445985000000
-  updated: 1442950360000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1441688777000
   description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
     >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
@@ -1827,7 +1832,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -2127,6 +2132,31 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1443649777000
+  description: "<p>We are very excited to have the DHS come to Data Innovation DC\
+    \ to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\_\
+    </p> <p>Risk Assessment\_</p> <p>Big Data Mission Deployments\_</p> <p>Big Data\
+    \ Laboratory\_</p> <p>Arctic Data Analytics\_</p> <p>Big Data Security</p> <p>Innovation\
+    \ for Disaster Response\_</p> <p>Issues in Terrorism Analytics\_</p> <p>Smart\
+    \ Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>"
+  event_url: http://www.meetup.com/Data-Business-DC/events/225736800/
+  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
+    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
+    who: Data-preneurs}
+  headcount: 0
+  id: '225736800'
+  maybe_rsvp_count: 0
+  name: Department of Homeland Security and Data!
+  status: upcoming
+  time: 1447369200000
+  updated: 1443649824000
+  utc_offset: -18000000
+  venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
+    lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
+      School of Continuing Studies, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 28
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

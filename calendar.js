@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 45
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }
     ], 
     "other": [
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1441653193000, 
@@ -232,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1442848784000, 
@@ -269,7 +269,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -388,7 +388,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1442950341000, 
@@ -411,11 +411,38 @@ calendar({
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444170600000, 
-            "updated": 1443521949000, 
+            "updated": 1443643512000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
+        }, 
+        {
+            "created": 1443654333000, 
+            "description": "<p>Meet\u00a0Laura Ferguson<b>,\u00a0</b>badass female founder and CTO of\u00a0<a href=\"http://create.io/\">Create.io</a>. She will be participating in our first ever Ask Me Anything (AMA) on slack.\u00a0</p> <p><b>About Laura and Create.io</b></p> <p>\u2022\u00a0Create.io is a 3D data aggregation and visualization platform used to help professionals sift through lots of data to determine if they should develop a new property or choose to redevelop existing properties they already own.</p> <p>\u2022\u00a0Create.io uses AngularJS and Jade/HTML5 to build the front end experience and Angular provides all of the MVC wiring that\u2019s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\u00a0Laura is an expert Java developer and GUI designer and specilizes in Express, Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku, Github and AWS.</p> <p><b>Event Details</b> Members will get a chance to ask her anything related to:</p> <p><i>\u200bCareer Development</i>:\u00a0advice to beginners on coding,\u00a0daily work tactics,\u00a0long term career development</p> <p><i>\u200bSoftware Development:</i>\u00a0web development (Java, Node.js, Angular), mobile development (Android, Cordova)</p> <p><i>\u200bStarting a company</i>:\u00a0obstacles encountered in starting a company,\u00a0on dealing with unconscious bias as a woman in the startup world,\u00a0on being a CTO,\u00a0fundraising,\u00a0customer acquisition,\u00a0revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama channel</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions at her convenience and you can come in and post your questions at your convenience too.</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
+            "duration": 180000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225738347/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "225738347", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)", 
+            "status": "upcoming", 
+            "time": 1444233600000, 
+            "updated": 1443656084000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1438041748000, 
@@ -517,7 +544,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1441653193000, 
@@ -555,7 +582,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
@@ -594,7 +621,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 146
         }, 
         {
             "created": 1326383071000, 
@@ -634,7 +661,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1440425244000, 
@@ -892,7 +919,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1442512202000, 
@@ -1118,7 +1145,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1442950341000, 
@@ -1406,33 +1433,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rsmxklytnbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1445985000000, 
-            "updated": 1442950360000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1441688777000, 
             "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
@@ -1504,7 +1504,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1439487723000, 
@@ -1779,6 +1779,42 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1443649777000, 
+            "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\u00a0</p> <p>Risk Assessment\u00a0</p> <p>Big Data Mission Deployments\u00a0</p> <p>Big Data Laboratory\u00a0</p> <p>Arctic Data Analytics\u00a0</p> <p>Big Data Security</p> <p>Innovation for Disaster Response\u00a0</p> <p>Issues in Terrorism Analytics\u00a0</p> <p>Smart Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>", 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/225736800/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "225736800", 
+            "maybe_rsvp_count": 0, 
+            "name": "Department of Homeland Security and Data!", 
+            "status": "upcoming", 
+            "time": 1447369200000, 
+            "updated": 1443649824000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "640 Massachusetts Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 20556562, 
+                "lat": 38.901859000000002, 
+                "lon": -77.020995999999997, 
+                "name": "Georgetown University School of Continuing Studies", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1422815587000, 
