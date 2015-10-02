@@ -82,7 +82,7 @@ calendar({
     "other": [
         {
             "created": 1442848784000, 
-            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>\n\n\nThe estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p>", 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>\n\n\nThe estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Old Town Alexandria:</p> <p>Metro accessible - A short walk from the Braddock Road Metro station (Blue/Yellow lines)\u00a0.</p> <p>If driving, we DON'T recommend parking in the lot between Teaism and Trader Joes because that is only free for the first hour and a half \u2013 after that they charge. \u00a0There are two completely free and unlimited lots on the side streets \u2013 check out this map for parking <a href=\"https://www.teaism.com/restaurant-map-42.html\"><a href=\"https://www.teaism.com/restaurant-map-42.html\" class=\"linkified\">https://www.teaism.com/restaurant-map-42.html</a></a>.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225510220/", 
             "group": {
                 "created": 1395616294000, 
@@ -101,21 +101,22 @@ calendar({
             "rsvp_limit": 20, 
             "status": "upcoming", 
             "time": 1443974400000, 
-            "updated": 1442849615000, 
+            "updated": 1443801113000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "400 8th St NW, Washington, DC 20004", 
-                "city": "Washington", 
+                "address_1": "682 N St Asaph Street", 
+                "city": "Alexandria", 
                 "country": "us", 
-                "id": 23631792, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Teaism Penn Quarter", 
+                "id": 13927112, 
+                "lat": 38.811400999999996, 
+                "lon": -77.044455999999997, 
+                "name": "Teaism Old Town Alexandria", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "VA", 
+                "zip": "22314"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -234,7 +235,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1443669296000, 
@@ -362,7 +363,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1439487723000, 
@@ -399,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1442950567000, 
@@ -439,7 +440,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1441653193000, 
@@ -516,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 160
         }, 
         {
             "created": 1326383071000, 
@@ -556,7 +557,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1440425244000, 
@@ -634,7 +635,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 50, 
+            "waitlist_count": 51, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -815,7 +816,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1443539332000, 
@@ -1041,7 +1042,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1427088126000, 
@@ -1248,7 +1249,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1443454116000, 
@@ -1395,7 +1396,7 @@ calendar({
         }, 
         {
             "created": 1441688777000, 
-            "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
+            "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/b/f/7/1/600_442609009.jpeg\" /></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/f/7/8/600_442609016.jpeg\" /></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
             "group": {
                 "created": 1189804715000, 
@@ -1413,7 +1414,7 @@ calendar({
             "name": "Make Your Messages Count: Developing Content That Resonates", 
             "status": "upcoming", 
             "time": 1445985000000, 
-            "updated": 1443718983000, 
+            "updated": 1443796429000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1571,6 +1572,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1443808609000, 
+            "description": "<p>For our October Data Science DC Meetup, we're talking about the World Series. No, not that World Series* -- time-series data about the world! Long-time DSDC attendee Lee De Cola will be showing how to think about, analyze, and forecast important world-wide metrics that have been collected for over 50 years. Expect to learn about rigorous ways to analyze temporal data. And maybe there'll be baseball puns.</p> <p>* Anybody want to talk about post-Moneyball sports analytics sometime? Get in touch!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>This presentation will use statistical and visualization features of R to explore yearly time series that characterize key global changes since 1950, a period sometimes called the Great Acceleration. Linear regression supplemented with autocorrelation diagnostics can provide most of the key descriptive information about these data, while nonlinear estimation and exponential smoothing can be used to provide forecasts. However, forecasting \u2013 in the sense of providing point predictions of future values \u2013 should be used descriptively and as providing warnings. Widespread understanding of these data is of surpassing importance to the future welfare of life on Earth.</p> <p>Participants who would like to follow along are welcome to bring computers loaded with R and to download <i>in advance</i>\u00a0(WiFi will not be available) the data used for this presentation at\u00a0<a href=\"http://ldecola.net/projects/global/\">ldecola.net/projects/global/</a> .\u00a0</p> <p><b>Bio:</b></p> <p><a href=\"http://ldecola.net/\">Lee De Cola</a> runs\u00a0<b>DATA to Insight</b>\u00a0a data visualization consulting and training enterprise. For 21 years he was a research scientist at the U.S. Geological Survey in Reston Virginia, where he used GIS and applied statistics to understand landscape dynamics and the health of regions and their inhabitants. Lee has published on land cover analysis, spatial epidemiology, urban systems complexity, fractals in geography, and urbanization in Africa. He has taught at a number of local institutions of higher education as well as in Nigeria, Vermont, West Virginia, and California. Lee volunteers at local public schools, and enjoys playing the clarinet, kayaking, and sailing. Follow him on Twitter <a href=\"https://twitter.com/ldecola\">@ldecola</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/225782557/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "225782557", 
+            "maybe_rsvp_count": 0, 
+            "name": "Six World Series: Time Series Analysis and Forecasting", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1446157800000, 
+            "updated": 1443808609000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E Street", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23619989, 
+                "lat": 38.896275000000003, 
+                "lon": -77.044205000000005, 
+                "name": "GWU, Elliot School, Room 113", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
             "created": 1440087572000, 
             "description": "<p><b>Please only RSVP if you're certain you will be able to make all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\u00a0</b></p> <p>\n\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1000/pp for three days, but Elixir Mastery is offering GDI DC three free tickets. If you are certain you will be able to make all three days, RSVP and you will be shown a discount code. Please go to the <a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>\u00a0and enter your discount code to claim the discount within 48 hours. If the code is not claimed in that time frame we will need to pass it along to another GDI DC member.\u00a0</p> <p>\n\n\n\n<b>About Elixir</b></p> <p><br/>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p><br/>More information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p><br/><b><br/></b></p> <p><b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://www.elixirmastery.com/\">event registration page</a>. We have scholarships for the first three members that RSVP, making the course free of charge.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0If you are unable to RSVP it is because the three scholarships have been claimed.</p>", 
             "duration": 201600000, 
@@ -1682,7 +1721,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1443771376000, 
@@ -1867,7 +1906,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1422815587000, 
