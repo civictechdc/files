@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -114,7 +114,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 75
 - created: 1442848784000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
     \ in a field somehow related to code? Come brunch with others like you!\_</p>\
@@ -137,7 +137,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 22
   yes_rsvp_count: 20
 - created: 1441890236000
   description: "<p><a href=\"https://djangogirls.org\">Django Girls</a>\_is a non-profit\
@@ -204,7 +204,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 15
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -282,7 +282,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -319,7 +319,7 @@ other:
   rsvp_limit: 30
   status: upcoming
   time: 1444170600000
-  updated: 1443643512000
+  updated: 1443729677000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -370,7 +370,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -433,7 +433,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -508,11 +508,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1444257000000
-  updated: 1442950567000
+  updated: 1443729596000
   utc_offset: -14400000
+  venue: {address_1: 901 G Street Northwest, city: 'Washington ', country: us, id: 15656002,
+    lat: 38.898727000000001, lon: -77.024780000000007, name: Martin Luther King Library,
+    repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -597,7 +600,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 146
+  yes_rsvp_count: 150
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -752,8 +755,47 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 49
+  waitlist_count: 50
   yes_rsvp_count: 1
+- created: 1443714231000
+  description: "<p>In conjunction w/ <a href=\"http://www.meetup.com/WomenDataScientistsDC\"\
+    >Women Data Scientists DC</a>...<br/><b>Intro to Python's Pandas</b></p> <p>Pandas\
+    \ is a powerful and flexible Python library that provides data structures and\
+    \ operations for processing and analyzing tabular datasets. Come learn how Pandas\
+    \ can help you explore, transform, combine, and slice-and-dice medium-sized datasets\
+    \ with ease. Along the way, we will touch on the basics of functional programming,\
+    \ making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p>\
+    \ <p>Comfortable with the basics of Python (or a similar language like Ruby)</p>\
+    \ <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p>\
+    \ <p>Installs (please have these installed before class):</p> <p>* python 2.7<br/>*\
+    \ pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>*\
+    \ (super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201C\
+    ipython[notebook]\u201D matplotlib`</p> <p>**Virtual install party**\_<br/>Thursday,\
+    \ 10/8 before the meetup at 7-9pm.<br/>Google hangouts link will be posted about\
+    \ 15 minutes before we start.</p> <p><br/>Speaker:\_Clara Bennett, Software Engineer\_\
+    <a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building\
+    \ APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations\
+    \ to customers. She uses Pandas to develop extract-transform-load processes for\
+    \ health plan data, as well as for her personal tabular data needs, because Excel\
+    \ is terrible.</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/dc-pyladies/events/225754035/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  id: '225754035'
+  maybe_rsvp_count: 0
+  name: Intro to Pandas
+  rsvp_limit: 20
+  status: upcoming
+  time: 1444543200000
+  updated: 1443727324000
+  utc_offset: -14400000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 24126063, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 7
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1223,7 +1265,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 76
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1534,7 +1576,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -2120,7 +2162,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 44
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
