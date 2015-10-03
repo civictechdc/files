@@ -98,10 +98,10 @@ calendar({
             "id": "225510220", 
             "maybe_rsvp_count": 0, 
             "name": "Professional Networking Brunch", 
-            "rsvp_limit": 20, 
+            "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1443974400000, 
-            "updated": 1443801113000, 
+            "updated": 1443820909000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "682 N St Asaph Street", 
@@ -116,8 +116,8 @@ calendar({
                 "zip": "22314"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
-            "yes_rsvp_count": 20
+            "waitlist_count": 13, 
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1441890236000, 
@@ -235,7 +235,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1443669296000, 
@@ -272,7 +272,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1442950341000, 
@@ -326,7 +326,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1438041748000, 
@@ -478,7 +478,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1417881835000, 
@@ -517,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 160
+            "yes_rsvp_count": 165
         }, 
         {
             "created": 1326383071000, 
@@ -557,7 +557,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1440425244000, 
@@ -640,7 +640,7 @@ calendar({
         }, 
         {
             "created": 1443714231000, 
-            "description": "<p>In conjunction w/ <a href=\"http://www.meetup.com/WomenDataScientistsDC\">Women Data Scientists DC</a>...<br/><b>Intro to Python's Pandas</b></p> <p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p>Installs (please have these installed before class):</p> <p>* python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p>**Virtual install party**\u00a0<br/>Thursday, 10/8 before the meetup at 7-9pm.<br/>Google hangouts link will be posted about 15 minutes before we start.</p> <p><br/>Speaker:\u00a0Clara Bennett, Software Engineer\u00a0<a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p>", 
+            "description": "<p>In conjunction w/ <a href=\"http://www.meetup.com/WomenDataScientistsDC\">Women Data Scientists DC</a>...<br/><b>Intro to Python's Pandas</b></p> <p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p>Installs (please have these installed before class):</p> <p>* python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p>**Virtual install party**\u00a0<br/>Thursday, 10/8 before the meetup at 7-9pm.<br/>Google hangouts link will be posted about 15 minutes before we start.</p> <p><br/>Speaker:\u00a0Clara Bennett, Software Engineer\u00a0<a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p>Space provided by:\u00a0<a href=\"http://datasociety.co/\">Data Society</a></p> <p>Data Society makes data science accessible to everyone through intuitive, practical, and affordable online courses and bootcamps that teach professionals a new skill set in a matter of hours. They are dedicated to increasing data literacy and eliminating barriers\u00a0to entry to the field, especially for women, minorities, and low-income communities. Free trial memberships are now available for you to start building your skills up today!\u00a0</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/225754035/", 
             "group": {
@@ -657,10 +657,9 @@ calendar({
             "id": "225754035", 
             "maybe_rsvp_count": 0, 
             "name": "Intro to Pandas", 
-            "rsvp_limit": 20, 
             "status": "upcoming", 
-            "time": 1444543200000, 
-            "updated": 1443727324000, 
+            "time": 1444586400000, 
+            "updated": 1443810932000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "718 7th St NW", 
@@ -675,7 +674,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1427088126000, 
@@ -713,7 +712,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1422815542000, 
@@ -854,7 +853,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1442512202000, 
@@ -1042,7 +1041,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1427088126000, 
@@ -1080,7 +1079,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1442950341000, 
@@ -1466,7 +1465,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1439487723000, 
@@ -1607,7 +1606,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1440087572000, 
@@ -1721,7 +1720,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1443771376000, 
@@ -2131,7 +2130,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1443771281000, 
