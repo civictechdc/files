@@ -116,12 +116,12 @@ calendar({
                 "zip": "22314"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 25
         }, 
         {
             "created": 1441890236000, 
-            "description": "<p><a href=\"https://djangogirls.org\">Django Girls</a>\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
+            "description": "<p>Update: Sick as hell, so I'm going to have to reschedule this.</p> <p><a href=\"https://djangogirls.org\">Django Girls</a>\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
             "duration": 14400000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/225255813/", 
             "group": {
@@ -138,11 +138,11 @@ calendar({
             "how_to_find_us": "We'll be in the Dream Lab! It's in the big glass area to your right as you come in.", 
             "id": "225255813", 
             "maybe_rsvp_count": 0, 
-            "name": "DjangoGirls Workshop!", 
+            "name": "(Cancelled) DjangoGirls Workshop!", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1443978000000, 
-            "updated": 1442930228000, 
+            "updated": 1443884938000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G St NW # 400", 
@@ -157,7 +157,7 @@ calendar({
                 "zip": "20001"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -235,7 +235,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1443669296000, 
@@ -272,7 +272,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1442950341000, 
@@ -326,7 +326,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1438041748000, 
@@ -363,7 +363,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1439487723000, 
@@ -440,7 +440,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1441653193000, 
@@ -517,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 165
+            "yes_rsvp_count": 167
         }, 
         {
             "created": 1326383071000, 
@@ -674,7 +674,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1427088126000, 
@@ -750,7 +750,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1442950341000, 
@@ -1248,7 +1248,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1443454116000, 
@@ -1465,7 +1465,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1439487723000, 
@@ -1606,7 +1606,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1440087572000, 
@@ -1905,7 +1905,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1422815587000, 
