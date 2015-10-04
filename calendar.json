@@ -101,7 +101,7 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1443974400000, 
-            "updated": 1443820909000, 
+            "updated": 1443921398000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "682 N St Asaph Street", 
@@ -182,7 +182,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444084200000, 
-            "updated": 1443533255000, 
+            "updated": 1443921331000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1025 Thomas Jefferson Street, NW", 
@@ -197,7 +197,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427088126000, 
@@ -235,7 +235,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1443669296000, 
@@ -272,7 +272,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1442950341000, 
@@ -322,7 +322,7 @@
             "name": "Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)", 
             "status": "upcoming", 
             "time": 1444233600000, 
-            "updated": 1443712682000, 
+            "updated": 1443921581000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -363,7 +363,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1439487723000, 
@@ -424,7 +424,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1443729596000, 
+            "updated": 1443921555000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G Street Northwest", 
@@ -463,7 +463,7 @@
             "name": "Ruby on Rails First Timer's Night", 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1443488546000, 
+            "updated": 1443921524000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -517,7 +517,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 167
+            "yes_rsvp_count": 168
         }, 
         {
             "created": 1326383071000, 
@@ -777,7 +777,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1443103496000, 
@@ -800,7 +800,7 @@
             "name": "Ada Lovelace Day Book Club: The Thrilling Adventures of Lovelace and Babbage", 
             "status": "upcoming", 
             "time": 1444775400000, 
-            "updated": 1443103619000, 
+            "updated": 1443921499000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G Street NW", 
@@ -1286,7 +1286,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1442174254000, 
@@ -1526,8 +1526,20 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1446071400000, 
-            "updated": 1442950567000, 
+            "updated": 1443921555000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G Street Northwest", 
+                "city": "Washington ", 
+                "country": "us", 
+                "id": 15656002, 
+                "lat": 38.898727000000001, 
+                "lon": -77.024780000000007, 
+                "name": "Martin Luther King Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
@@ -1606,7 +1618,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1440087572000, 
@@ -1720,7 +1732,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1443771376000, 
@@ -1905,7 +1917,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1422815587000, 
