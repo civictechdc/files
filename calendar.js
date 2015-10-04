@@ -116,7 +116,7 @@ calendar({
                 "zip": "22314"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -197,7 +197,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1427088126000, 
@@ -769,11 +769,11 @@ calendar({
             "headcount": 0, 
             "id": "rsmxklytnbrb", 
             "maybe_rsvp_count": 0, 
-            "name": "Tech Talk - Static Code Analysis: For When Smart People Make Dumb Mistakes", 
+            "name": "Android Talk - \"Static Code Analysis: For When Smart People Make Dumb Mistakes\"", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444775400000, 
-            "updated": 1443712218000, 
+            "updated": 1443914957000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -853,7 +853,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1442512202000, 
@@ -899,7 +899,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1439487723000, 
@@ -1248,7 +1248,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1443454116000, 

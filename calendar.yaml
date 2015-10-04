@@ -110,7 +110,7 @@ other:
     lat: 38.811400999999996, lon: -77.044455999999997, name: Teaism Old Town Alexandria,
     repinned: false, state: VA, zip: '22314'}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 8
   yes_rsvp_count: 25
 - created: 1441890236000
   description: "<p>Update: Sick as hell, so I'm going to have to reschedule this.</p>\
@@ -177,7 +177,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -884,11 +884,11 @@ other:
   headcount: 0
   id: rsmxklytnbrb
   maybe_rsvp_count: 0
-  name: 'Tech Talk - Static Code Analysis: For When Smart People Make Dumb Mistakes'
+  name: 'Android Talk - "Static Code Analysis: For When Smart People Make Dumb Mistakes"'
   rsvp_limit: 30
   status: upcoming
   time: 1444775400000
-  updated: 1443712218000
+  updated: 1443914957000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -986,7 +986,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1053,7 +1053,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\
@@ -1509,7 +1509,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
