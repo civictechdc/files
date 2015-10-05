@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "announced": false, 
@@ -81,86 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1442848784000, 
-            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>\n\n\nThe estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Old Town Alexandria:</p> <p>Metro accessible - A short walk from the Braddock Road Metro station (Blue/Yellow lines)\u00a0.</p> <p>If driving, we DON'T recommend parking in the lot between Teaism and Trader Joes because that is only free for the first hour and a half \u2013 after that they charge. \u00a0There are two completely free and unlimited lots on the side streets \u2013 check out this map for parking <a href=\"https://www.teaism.com/restaurant-map-42.html\"><a href=\"https://www.teaism.com/restaurant-map-42.html\" class=\"linkified\">https://www.teaism.com/restaurant-map-42.html</a></a>.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225510220/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "225510220", 
-            "maybe_rsvp_count": 0, 
-            "name": "Professional Networking Brunch", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1443974400000, 
-            "updated": 1443921398000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "682 N St Asaph Street", 
-                "city": "Alexandria", 
-                "country": "us", 
-                "id": 13927112, 
-                "lat": 38.811400999999996, 
-                "lon": -77.044455999999997, 
-                "name": "Teaism Old Town Alexandria", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22314"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 6, 
-            "yes_rsvp_count": 25
-        }, 
-        {
-            "created": 1441890236000, 
-            "description": "<p>Update: Sick as hell, so I'm going to have to reschedule this.</p> <p><a href=\"https://djangogirls.org\">Django Girls</a>\u00a0is a non-profit organization that organizes free, one-day workshops to teach women who have never programmed before how to build their first web application using Python, Django, HTML and CSS.</p> <p>You don\u2019t need to have any programming experience - All you need to do is bring your laptop and your motivation to learn. You will work at your own pace in groups of 4. Coaches will walk you through the Django Girls tutorial (<a href=\"http://tutorial.djangogirls.org/\"><a href=\"http://tutorial.djangogirls.org\" class=\"linkified\">http://tutorial.djangogirls.org</a></a>)</p> <p>Want to be a coach? This is also where you sign up! Anyone with even a basic understanding of Django can coach (and if you fall a bit short, now and then, there will be old hands nearby to help out).</p> <p>In order to participate in this class, you'll need a laptop that you have admin rights to. If you can't install software onto your laptop, fret not! You can also complete this tutorial with Cloud 9.</p> <p>Because space is limited, please only sign up if you know you can attend.</p>", 
-            "duration": 14400000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/225255813/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "We'll be in the Dream Lab! It's in the big glass area to your right as you come in.", 
-            "id": "225255813", 
-            "maybe_rsvp_count": 0, 
-            "name": "(Cancelled) DjangoGirls Workshop!", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1443978000000, 
-            "updated": 1443884938000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1443533255000, 
             "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>7:00 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. You can code in the language of your choice!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -197,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1427088126000, 
@@ -235,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1443669296000, 
@@ -272,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1442950341000, 
@@ -299,7 +219,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1443654333000, 
@@ -420,11 +340,11 @@ calendar({
             "headcount": 0, 
             "id": "jtmxklytnbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python - Hack Night(Beginner's Night)", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1443921555000, 
+            "updated": 1443992632000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G Street Northwest", 
@@ -440,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1441653193000, 
@@ -517,7 +437,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 170
+            "yes_rsvp_count": 172
         }, 
         {
             "created": 1326383071000, 
@@ -674,7 +594,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1427088126000, 
@@ -1041,7 +961,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1427088126000, 
@@ -1248,7 +1168,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1443454116000, 
@@ -1286,7 +1206,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1442174254000, 
@@ -1465,7 +1385,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1439487723000, 
@@ -1618,7 +1538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1440087572000, 
@@ -1696,6 +1616,44 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1441653193000, 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbgb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gnsnklytpbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1446679800000, 
+            "updated": 1443921524000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p>The Cloud, Mobile and Web Applications are producing semi-structured data at an unprecedented rate. IT professionals continue to struggle capturing, transforming, and analyzing these complex data structures mixed with traditional relational style datasets using conventional MPP and/or Hadoop infrastructures. \u00a0Public cloud infrastructures such as Amazon and Azure provide almost unlimited resources and scalability to handle both structured and semi-structured data (XML, JSON, AVRO) at Petabyte scale. \u00a0These new capabilities coupled with traditional data management access methods such as SQL allow organizations and businesses new opportunities to leverage analytics at an unprecedented scale while greatly simplifying data pipeline architectures and providing an alternative to the \"data lake\".</p> <p><br/>Please join DWDC and Snowflake Computing for a discussion of these topics and a demonstration of this game changing technology. The demonstration will focus on analyzing structured and semistructured together using a commercially available cloud based platform and standards based SQL language to provide insights on large petabytes scale data sets.\u00a0</p>", 
             "duration": 9000000, 
@@ -1732,7 +1690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1443771376000, 
@@ -1917,7 +1875,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1422815587000, 
