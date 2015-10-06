@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "announced": false, 
@@ -82,7 +82,7 @@ calendar({
     "other": [
         {
             "created": 1443669296000, 
-            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Jeff Farley, Ben Morris - STSI, Inc. \u00a0<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Jeff Farley, Ben Morris - STSI, Inc. \u00a0<br/>* Bill Huckabee</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225744446/", 
             "group": {
                 "created": 1347647025000, 
@@ -100,7 +100,7 @@ calendar({
             "name": "DC API User Group - October Edition", 
             "status": "upcoming", 
             "time": 1444168800000, 
-            "updated": 1443715282000, 
+            "updated": 1444143633000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -115,7 +115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1442950341000, 
@@ -142,7 +142,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1443654333000, 
@@ -169,7 +169,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1438041748000, 
@@ -206,11 +206,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/225562206/", 
             "group": {
                 "created": 1402595052000, 
@@ -228,16 +229,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1444257000000, 
-            "updated": 1443022245000, 
+            "updated": 1444152950000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1203 19th St NW", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -283,7 +284,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1441653193000, 
@@ -321,7 +322,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1417881835000, 
@@ -360,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 184
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1326383071000, 
@@ -400,7 +401,43 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
+        }, 
+        {
+            "created": 1444141912000, 
+            "description": "<p>[<i>Information cross-posted from DC Android (DCA), the new Android meetup in DC. My apologies if you got this twice.</i>]</p> <p>We're really excited to announce that our inaugural happy hour is happening <b>this Thursday</b>! RSVP here:\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/225064525/\"><a href=\"http://www.meetup.com/DCAndroid/events/225064525/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/225064525/</a></a></p> <p><b>When</b>: Thursday (October 8) at 6.30pm--but don't be too late, the fine folks from IDEAA will be covering the first round. <i>We're free as in free beer!</i></p> <p><b>Where</b>: Science Club @[masked]th St NW, Washington, DC</p> <p><b>How</b>: Science Club is a short walk from a few metro stations: Dupont Circle south entrance (5 minutes), Farragut North (6 minutes), and Foggy Bottom/GWU (12 minutes).</p> <p><b>Event Sponsor</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/6/c/b/600_442766315.jpeg\" /></p> <p>\u2022\u00a0The <a href=\"http://www.bigandroidbbq.com/\">BABBQ is coming up</a> in a few weeks in Dallas on October 22-23.</p> <p>\u2022\u00a0The next FREE DC Code Kitchen will be on Saturday, 9 April, 2016 at the United States Patent and Trademark Office, just off the King Metro Station in Alexandria, VA. <a href=\"http://ideaa.io/\">Stay tuned</a> for more details!</p> <p><b>We Want You!</b></p> <p>We're preparing a few more meetups before the end of the year. If you're interested in presenting/sponsoring, please fill out this form: <a href=\"http://goo.gl/forms/hB4z2MC057\"><a href=\"http://goo.gl/forms/hB4z2MC057\" class=\"linkified\">http://goo.gl/forms/hB4z2MC057</a></a></p> <p>See you soon!</p> <p>-- The DC Android (DCA) team.</p>", 
+            "event_url": "http://www.meetup.com/gdg-dc/events/225870450/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "225870450", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC Android (DCA): Inaugural Happy Hour", 
+            "status": "upcoming", 
+            "time": 1444343400000, 
+            "updated": 1444141912000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1136 19th St Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 24066359, 
+                "lat": 38.904845999999999, 
+                "lon": -77.043457000000004, 
+                "name": "Science Club", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1440425244000, 
@@ -555,7 +592,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1422815542000, 
@@ -620,7 +657,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1443103496000, 
@@ -658,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1443539332000, 
@@ -696,7 +733,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1442512202000, 
@@ -746,7 +783,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/225595053/", 
             "group": {
                 "created": 1402595052000, 
@@ -764,18 +802,17 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1444861800000, 
-            "updated": 1443022245000, 
+            "updated": 1444153172000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1203 19th St NW", 
+                "address_1": "1445 New York Ave Nw Ste 200", 
                 "city": "Washington", 
-                "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
-                "repinned": false, 
-                "state": "DC"
+                "country": "US", 
+                "id": 23972349, 
+                "lat": 38.899033000000003, 
+                "lon": -77.032982000000004, 
+                "name": "LivingSocial, Inc", 
+                "repinned": false
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -807,7 +844,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441653193000, 
@@ -884,7 +921,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1427088126000, 
@@ -922,7 +959,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1442950341000, 
@@ -953,8 +990,9 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnbcc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225874408/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -971,16 +1009,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1445466600000, 
-            "updated": 1443022245000, 
+            "updated": 1444153280000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1203 19th St NW", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1312,8 +1350,9 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytnblc/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225874495/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1330,7 +1369,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1446071400000, 
-            "updated": 1443022245000, 
+            "updated": 1444153346000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -1461,7 +1500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 158
+            "yes_rsvp_count": 163
         }, 
         {
             "created": 1440087572000, 
@@ -1503,8 +1542,8 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbgb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225874575/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1521,16 +1560,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1446679800000, 
-            "updated": 1443022245000, 
+            "updated": 1444153422000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1203 19th St NW", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1728,9 +1767,48 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1444139505000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>The estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p> <p>If driving, street parking on Sundays is usually free! There are also several garages within a couple blocks.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225869646/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "225869646", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1447002000000, 
+            "updated": 1444139505000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "400 8th St NW, Washington, DC 20004", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23631792, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Teaism Penn Quarter", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbpb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225874649/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1747,16 +1825,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1443022245000, 
+            "updated": 1444153505000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1203 19th St NW", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1878,8 +1956,9 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbxb/", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/225874693/", 
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
@@ -1896,45 +1975,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1447889400000, 
-            "updated": 1443022245000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1203 19th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24110019, 
-                "lat": 38.905971999999998, 
-                "lon": -77.043205, 
-                "name": "Canvas", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbxb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytpbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1447889400000, 
-            "updated": 1443921524000, 
+            "updated": 1444153542000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -1949,7 +1990,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1443061952000, 
@@ -1986,11 +2027,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytpbhc/", 
             "group": {
                 "created": 1402595052000, 
@@ -2008,7 +2049,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1448494200000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2027,7 +2068,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbdb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2045,7 +2086,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1449099000000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2207,7 +2248,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbmb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2225,7 +2266,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1449703800000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2244,7 +2285,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbvb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2262,7 +2303,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1450308600000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2281,7 +2322,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbfc/", 
             "group": {
                 "created": 1402595052000, 
@@ -2299,7 +2340,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1450913400000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2318,7 +2359,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlytqbnc/", 
             "group": {
                 "created": 1402595052000, 
@@ -2336,7 +2377,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1451518200000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2355,7 +2396,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbjb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2373,7 +2414,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1452123000000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2432,7 +2473,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbrb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2450,7 +2491,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1452727800000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2508,7 +2549,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbbc/", 
             "group": {
                 "created": 1402595052000, 
@@ -2526,7 +2567,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1453332600000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2545,7 +2586,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvcbkc/", 
             "group": {
                 "created": 1402595052000, 
@@ -2563,7 +2604,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1453937400000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2582,7 +2623,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbfb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2600,7 +2641,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1454542200000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2686,7 +2727,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbnb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2704,7 +2745,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
@@ -2723,7 +2764,7 @@ calendar({
         }, 
         {
             "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbwb/", 
             "group": {
                 "created": 1402595052000, 
@@ -2741,7 +2782,7 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1455751800000, 
-            "updated": 1443022245000, 
+            "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW", 
