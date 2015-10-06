@@ -96,13 +96,14 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Call 5743237240 if the door is locked outside.", 
             "id": "225697995", 
             "maybe_rsvp_count": 0, 
             "name": "Algorithms and Interview Prep Meetup", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444084200000, 
-            "updated": 1443921331000, 
+            "updated": 1444083458000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1025 Thomas Jefferson Street, NW", 
@@ -155,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1443669296000, 
@@ -192,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1442950341000, 
@@ -219,7 +220,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1443654333000, 
@@ -246,7 +247,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1438041748000, 
@@ -283,7 +284,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1439487723000, 
@@ -360,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1441653193000, 
@@ -477,7 +478,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1440425244000, 
@@ -555,7 +556,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 52, 
+            "waitlist_count": 53, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -594,7 +595,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427088126000, 
@@ -773,7 +774,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1442512202000, 
@@ -1206,7 +1207,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1442174254000, 
@@ -1538,7 +1539,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 154
         }, 
         {
             "created": 1440087572000, 
@@ -2100,7 +2101,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1443771281000, 
