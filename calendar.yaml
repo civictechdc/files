@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 53
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -79,83 +79,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 18
 other:
-- created: 1443533255000
-  description: "<p>Interested in sharpening your coding interview skills and learning\
-    \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
-    \ The schedule will be as follows:</p> <p>6:30 -\_Arrival/Food\_</p> <p>7:00 -\
-    \ 8:15 - We'll spend the meetup working on questions in groups or individually\
-    \ and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding\
-    \ and coding on the computer so please bring a computer. You can code in the language\
-    \ of your choice!</p> <p>This event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225697995/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Call 5743237240 if the door is locked outside.
-  id: '225697995'
-  maybe_rsvp_count: 0
-  name: Algorithms and Interview Prep Meetup
-  rsvp_limit: 50
-  status: upcoming
-  time: 1444084200000
-  updated: 1444083458000
-  utc_offset: -14400000
-  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
-    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
-      Technologies, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 22
-- created: 1427088126000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting.\_</p> <p>There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptops</b></p> <p>In order to maximize your\
-    \ benefits from FEHN, please bring your laptop. Extra computers will not be available\
-    \ at the event.\_Even if you have never coded before, you will be coding at FEHN!</p>\
-    \ <p><b>Meetup Agenda\_</b></p> <p>Every study group will have the following format:</p>\
-    \ <p><br/>\u2022\_6:30pm - Setup</p> <p>\u2022\_6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022\_6:50 - 8:00pm - Code!</p> <p>\u2022\_8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022\_8:15 - 8:30pm -\
-    \ Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our\
-    \ Github page -\_<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First\
-    \ Timer's Guide:\_<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\"\
-    \ class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022\
-    \ HTML Study Guide:\_<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022\
-    \ JavaScript Study Guide:\_<a href=\"http://bit.ly/js-study-guide\"><a href=\"\
-    http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p>\
-    \ <p><br/><b>Building Access</b></p> <p>Certain building management companies\
-    \ require Meetup hosts to let people in and do not encourage them being contacted.\
-    \ Please respect the policy. In case the location requires access to the building,\
-    \ contact the group lead if information is provided or drop a comment on the Meetup\
-    \ page. We'll come and get you.</p> <p><b>Welcome\_</b></p> <p>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223779220/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rlzgglytnbhb
-  maybe_rsvp_count: 0
-  name: First Timer's Front End Hack Night
-  status: upcoming
-  time: 1444084200000
-  updated: 1443482979000
-  utc_offset: -14400000
-  venue: {address_1: '641 S St NW, First Floor', city: Washington, country: us, id: 23929782,
-    lat: 38.914551000000003, lon: -77.021095000000003, name: iStrategy Labs, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 40
 - created: 1443669296000
   description: "<p>Fall is in the air! \_And what goes great with delightfully cool\
     \ weather? \_APIs. \_</p> <p>More than ever before, come enjoy great conversation\
@@ -186,7 +109,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 62
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -274,7 +197,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 26
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -419,7 +342,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -469,7 +392,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -504,7 +427,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 181
+  yes_rsvp_count: 184
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -526,7 +449,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1440425244000
   description: "<p>Continuum Analytics develops Anaconda, the leading modern open\
     \ source analytics platform powered by Python. Continuum\u2019s Python\xAD based\
@@ -704,7 +627,7 @@ other:
     lon: -77.022223999999994, name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -917,7 +840,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 82
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1645,7 +1568,15 @@ other:
     \ viral \"10 Hours of Walking in NYC as a Woman\" video.\_</p> <p><b>SPONSOR</b></p>\
     \ <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make\
     \ Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\"\
-    \ /></p>"
+    \ /></p> <p><i><b>Our Sustaining Sponsor</b></i></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
+    \ /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\_is the global leader\
+    \ in customer experience management software that lets marketers own the experience\
+    \ of every customer or prospect that engages with their brand. The company delivers\
+    \ highly relevant content and personalized digital experiences that delight audiences,\
+    \ build loyalty and drive revenue.\_</p> <p>More than 3,500 of the world\u2019\
+    s leading brands and organizations trust Sitecore to help them deliver the meaningful\
+    \ interactions that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
+    >www.sitecore.com</a>\_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/225197304/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1656,14 +1587,14 @@ other:
   name: 'Make Your Messages Count: Developing Content That Resonates'
   status: upcoming
   time: 1445985000000
-  updated: 1443796429000
+  updated: 1444091920000
   utc_offset: -14400000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -1911,7 +1842,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 154
+  yes_rsvp_count: 158
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -2228,6 +2159,56 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1441653193000
+  description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
+    \ Looking to build your first web app, learn more about coding, or build on existing\
+    \ skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR) Study Group.\
+    \ This event is intended for those new to programming and/or ROR (but we welcome\
+    \ people of all levels to attend and help out)! The agenda will include a lecture\
+    \ that covers Ruby and Rails and an installfest to help you set up Rails on your\
+    \ own computer.</p> <p>This event is intended to be exclusively open for people\
+    \ who identify as women - we are transgender friendly.</p> <p>Please bring a laptop\
+    \ to the event so you can participate in\_the installfest!</p> <p>Check out our\
+    \ ROR guide for more info about what we will be covering on Wednesday:\_<a href=\"\
+    http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"\
+    linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p>\
+    \ <p>The building locks its doors at 6pm, but there will be someone at the door\
+    \ to let you in.\_ If not please comment here or on Slack (if you're signed up\
+    \ for it, see resource link below if not) and someone will come get you. \_There\
+    \ should also be a sign on the door with contact information for one of the leads.</p>\
+    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm -\
+    \ Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby\
+    \ and Rails\_</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following\
+    \ the\_<a href=\"http://installrails.com/\">InstallRails</a>\_guide.\_</p> <p>\u2022\
+    \ 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
+    \ class=\"linkified\">http://installrails.com/</a></a>\_</p> <p>&lt;a href=\"\
+    http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbpb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gnsnklytpbpb
+  maybe_rsvp_count: 0
+  name: Ruby on Rails First Timer's Night
+  status: upcoming
+  time: 1447284600000
+  updated: 1443921524000
+  utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
     \ to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\_\
@@ -2341,6 +2322,56 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1441653193000
+  description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
+    \ Looking to build your first web app, learn more about coding, or build on existing\
+    \ skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR) Study Group.\
+    \ This event is intended for those new to programming and/or ROR (but we welcome\
+    \ people of all levels to attend and help out)! The agenda will include a lecture\
+    \ that covers Ruby and Rails and an installfest to help you set up Rails on your\
+    \ own computer.</p> <p>This event is intended to be exclusively open for people\
+    \ who identify as women - we are transgender friendly.</p> <p>Please bring a laptop\
+    \ to the event so you can participate in\_the installfest!</p> <p>Check out our\
+    \ ROR guide for more info about what we will be covering on Wednesday:\_<a href=\"\
+    http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"\
+    linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p>\
+    \ <p>The building locks its doors at 6pm, but there will be someone at the door\
+    \ to let you in.\_ If not please comment here or on Slack (if you're signed up\
+    \ for it, see resource link below if not) and someone will come get you. \_There\
+    \ should also be a sign on the door with contact information for one of the leads.</p>\
+    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm -\
+    \ Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby\
+    \ and Rails\_</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following\
+    \ the\_<a href=\"http://installrails.com/\">InstallRails</a>\_guide.\_</p> <p>\u2022\
+    \ 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
+    \ class=\"linkified\">http://installrails.com/</a></a>\_</p> <p>&lt;a href=\"\
+    http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbxb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gnsnklytpbxb
+  maybe_rsvp_count: 0
+  name: Ruby on Rails First Timer's Night
+  status: upcoming
+  time: 1447889400000
+  updated: 1443921524000
+  utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -2362,10 +2393,20 @@ other:
     \ begins.\_</p> <p>All this happens before we pass anything off to designers and\
     \ in concert with\_presentations and workshop with designers, product owners and\
     \ others across the organization to ensure they understand the Content-First approach,\
-    \ and can incorporate humanity into everything they do.\_</p> <p><b>Speakers</b></p>\
-    \ <p><b>Cory Jurentkoff</b><br/>Manager, Content Strategy, Digital Innovation\
-    \ &amp; Design<br/>Capital One</p> <p>Other Capital One speakers will be announced\
-    \ as they are confirmed.</p>"
+    \ and can incorporate humanity into everything they do.\_</p> <p><b>SPEAKERS</b></p>\
+    \ <p><b>Sarah Goelitz<br/></b>UX Content Strategist, Capital One</p> <p><b>Michaela\
+    \ Hackner\_</b><br/>Senior Manager UX Content Strategy, Capital One</p> <p><b>Cory\
+    \ Jurentkoff\_<br/></b>Manager, Content Strategy, Digital Innovation &amp; Design\_\
+    <br/>Capital One</p> <p>==================================</p> <p><b><i>Our Sustaining\
+    \ Sponsor</i></b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
+    \ /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\_is the global leader\
+    \ in customer experience management software that lets marketers own the experience\
+    \ of every customer or prospect that engages with their brand. The company delivers\
+    \ highly relevant content and personalized digital experiences that delight audiences,\
+    \ build loyalty and drive revenue.\_</p> <p>More than 3,500 of the world\u2019\
+    s leading brands and organizations trust Sitecore to help them deliver the meaningful\
+    \ interactions that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
+    >www.sitecore.com</a>\_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/225576123/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -2376,14 +2417,14 @@ other:
   name: The Content-First Approach
   status: upcoming
   time: 1447891200000
-  updated: 1443080346000
+  updated: 1444091894000
   utc_offset: -18000000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 16
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. Their\
     \ rule is Women Only.\_If men are interested in getting involved in this project,\

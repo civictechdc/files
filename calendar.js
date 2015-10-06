@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "announced": false, 
@@ -81,84 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1443533255000, 
-            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>7:00 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. You can code in the language of your choice!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225697995/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Call 5743237240 if the door is locked outside.", 
-            "id": "225697995", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms and Interview Prep Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1444083458000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 22
-        }, 
-        {
-            "created": 1427088126000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/223779220/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rlzgglytnbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "First Timer's Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1444084200000, 
-            "updated": 1443482979000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW, First Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23929782, 
-                "lat": 38.914551000000003, 
-                "lon": -77.021095000000003, 
-                "name": "iStrategy Labs", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1443669296000, 
             "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Jeff Farley, Ben Morris - STSI, Inc. \u00a0<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225744446/", 
@@ -193,7 +115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1442950341000, 
@@ -247,7 +169,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1438041748000, 
@@ -361,7 +283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1441653193000, 
@@ -399,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1417881835000, 
@@ -438,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 181
+            "yes_rsvp_count": 184
         }, 
         {
             "created": 1326383071000, 
@@ -478,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1440425244000, 
@@ -595,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1427088126000, 
@@ -774,7 +696,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1442512202000, 
@@ -1316,7 +1238,7 @@ calendar({
         }, 
         {
             "created": 1441688777000, 
-            "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/b/f/7/1/600_442609009.jpeg\" /></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/f/7/8/600_442609016.jpeg\" /></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p>", 
+            "description": "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\">Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency to create content as though the audience is us. As though the folks reading our blogs and following our accounts have the same nuanced understanding of a given issue as those working full time on it. This can severely limit your audience. Non-profits can avoid this common pitfall and make content that is compelling to a wider audience by borrowing some basic research methods and formal work processes from the field of advertising account planning. Those methods and work processes will be the focus of this talk.</p> <p>We begin at 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p> <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications at UNOS (United Network for Organ Sharing)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/b/f/7/1/600_442609009.jpeg\" /></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications. Pressendo leads a comprehensive communications department including media and external relations, member relations, reputation and image building, brand management, web services and social media, design services and internal communications. He works with leadership to produce a communications strategy for the organization and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining UNOS, Pressendo was most recently the Vice President of Communications for The Federal Reserve National IT, the largest entity within the Federal Reserve System. Previously he led marketing and fundraising efforts at ChildFund International during its rebranding from Christian Children\u2019s Fund and branding and marketing at the Make-A-Wish Foundation of America. He also held leadership positions with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo earned his Bachelors of Science in organizational communications from Arizona State University. He also holds a certificate in Spanish and bilingual multicultural studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad Perry, Director of Strategy, Create Digital</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/f/7/8/600_442609016.jpeg\" /></p> <p>After briefly attempting to become a journalist, I detoured to a graduate degree in social psychology and a career in gender-based violence prevention and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter to pursue a fascination with branding on the Interwebz. I am currently Director of Strategy at Create Digital where I've helped develop several award-winning digital campaigns, including the Play Like A Girl campaign for Verizon FiOS which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing Association. I am a husband, a proud papa, and currently serve on the national board of the non-profit organization, Hollaback! - the non-profit behind the viral \"10 Hours of Walking in NYC as a Woman\" video.\u00a0</p> <p><b>SPONSOR</b></p> <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\" /></p> <p><i><b>Our Sustaining Sponsor</b></i></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225197304/", 
             "group": {
                 "created": 1189804715000, 
@@ -1334,7 +1256,7 @@ calendar({
             "name": "Make Your Messages Count: Developing Content That Resonates", 
             "status": "upcoming", 
             "time": 1445985000000, 
-            "updated": 1443796429000, 
+            "updated": 1444091920000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1349,7 +1271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1443151352000, 
@@ -1539,7 +1461,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 154
+            "yes_rsvp_count": 158
         }, 
         {
             "created": 1440087572000, 
@@ -1843,6 +1765,44 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1441653193000, 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbpb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gnsnklytpbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1447284600000, 
+            "updated": 1443921524000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1443649777000, 
             "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\u00a0</p> <p>Risk Assessment\u00a0</p> <p>Big Data Mission Deployments\u00a0</p> <p>Big Data Laboratory\u00a0</p> <p>Arctic Data Analytics\u00a0</p> <p>Big Data Security</p> <p>Innovation for Disaster Response\u00a0</p> <p>Issues in Terrorism Analytics\u00a0</p> <p>Smart Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/225736800/", 
@@ -1954,8 +1914,46 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1441653193000, 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gnsnklytpbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1447889400000, 
+            "updated": 1443921524000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1443061952000, 
-            "description": "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\">Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering Content-First Approach to building products, tools and websites.\u00a0</p> <p><b>Content-First Approach at\u00a0Capital One</b></p> <p>Content-First begins by\u00a0designing a conversation FIRST before any User Experience or creative is even considered.\u00a0</p> <p><br/><i><b>Bottom-line:\u00a0</b></i></p> <p>Users are HUMAN, so naturally we should speak their language.\u00a0</p> <p><i><b>Overview:\u00a0</b></i></p> <p>At Capital One, we design conversations with customers and prospects using natural language that's contextually relevant and use-case specific - wherever and however our audience connects with us.\u00a0</p> <p><i><b>The Process:\u00a0</b></i></p> <p>With the Content-First Approach, we begin with creating the conversation for a product, working with designers, product managers and other stakeholders who 'own' the project. This happens literally in a Word or Google Doc. That's the 'platform' for content design. Lo-fi, inexpensive and quick testing that mitigates rounds and rounds of UX testing.\u00a0</p> <p>We then conduct content testing with customers and prospects using a variety of methods and tools, which I think the group would find interesting and helpful. The objective? To see what WORDS resonate (and fail) BEFORE UX begins.\u00a0</p> <p>All this happens before we pass anything off to designers and in concert with\u00a0presentations and workshop with designers, product owners and others across the organization to ensure they understand the Content-First approach, and can incorporate humanity into everything they do.\u00a0</p> <p><b>Speakers</b></p> <p><b>Cory Jurentkoff</b><br/>Manager, Content Strategy, Digital Innovation &amp; Design<br/>Capital One</p> <p>Other Capital One speakers will be announced as they are confirmed.</p>", 
+            "description": "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\">Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering Content-First Approach to building products, tools and websites.\u00a0</p> <p><b>Content-First Approach at\u00a0Capital One</b></p> <p>Content-First begins by\u00a0designing a conversation FIRST before any User Experience or creative is even considered.\u00a0</p> <p><br/><i><b>Bottom-line:\u00a0</b></i></p> <p>Users are HUMAN, so naturally we should speak their language.\u00a0</p> <p><i><b>Overview:\u00a0</b></i></p> <p>At Capital One, we design conversations with customers and prospects using natural language that's contextually relevant and use-case specific - wherever and however our audience connects with us.\u00a0</p> <p><i><b>The Process:\u00a0</b></i></p> <p>With the Content-First Approach, we begin with creating the conversation for a product, working with designers, product managers and other stakeholders who 'own' the project. This happens literally in a Word or Google Doc. That's the 'platform' for content design. Lo-fi, inexpensive and quick testing that mitigates rounds and rounds of UX testing.\u00a0</p> <p>We then conduct content testing with customers and prospects using a variety of methods and tools, which I think the group would find interesting and helpful. The objective? To see what WORDS resonate (and fail) BEFORE UX begins.\u00a0</p> <p>All this happens before we pass anything off to designers and in concert with\u00a0presentations and workshop with designers, product owners and others across the organization to ensure they understand the Content-First approach, and can incorporate humanity into everything they do.\u00a0</p> <p><b>SPEAKERS</b></p> <p><b>Sarah Goelitz<br/></b>UX Content Strategist, Capital One</p> <p><b>Michaela Hackner\u00a0</b><br/>Senior Manager UX Content Strategy, Capital One</p> <p><b>Cory Jurentkoff\u00a0<br/></b>Manager, Content Strategy, Digital Innovation &amp; Design\u00a0<br/>Capital One</p> <p>==================================</p> <p><b><i>Our Sustaining Sponsor</i></b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\" /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\u00a0is the global leader in customer experience management software that lets marketers own the experience of every customer or prospect that engages with their brand. The company delivers highly relevant content and personalized digital experiences that delight audiences, build loyalty and drive revenue.\u00a0</p> <p>More than 3,500 of the world\u2019s leading brands and organizations trust Sitecore to help them deliver the meaningful interactions that win customers for life. Learn more at\u00a0<a href=\"http://www.sitecore.com/\">www.sitecore.com</a>\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/225576123/", 
             "group": {
                 "created": 1189804715000, 
@@ -1973,7 +1971,7 @@ calendar({
             "name": "The Content-First Approach", 
             "status": "upcoming", 
             "time": 1447891200000, 
-            "updated": 1443080346000, 
+            "updated": 1444091894000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -1988,7 +1986,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1439487723000, 
