@@ -109,7 +109,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 66
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -150,7 +150,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1443654333000
   description: "<p>Meet\_Laura Ferguson<b>,\_</b>badass female founder and CTO of\_\
     <a href=\"http://create.io/\">Create.io</a>. She will be participating in our\
@@ -197,7 +197,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1438041748000
   description: "<p><b>-\_<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\"\
     >Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p>\
@@ -344,7 +344,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -429,11 +429,17 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 190
+  yes_rsvp_count: 193
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>October's GeoDC is all about #maps \u2013 using social data to\
+    \ create and improve maps. This is also our final GeoDC at Stetsons! It's been\
+    \ an amazing five year run, and we'll miss our friends at Stetsons. We'll announce\
+    \ our next location at Wednesday's meetup. See you there!</p> <p>Daniel Dufour\
+    \ will demo First Draft, his new tool for extracting geodata from online content\
+    \ for building contextual maps automatically. Why do your own mapping when you\
+    \ can teach a computer to do it for you?</p> <p>Aaron Lidman will describe how\
+    \ Mapbox uses anonymized social media data to improve OpenStreetMap and prioritize\
+    \ data improvements, including map tracing and satellite imagery tasking.</p>"
   event_url: http://www.meetup.com/Geo-DC/events/221052556/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -441,17 +447,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcytnbkb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: '#Maps: social media and mapping'
   status: upcoming
   time: 1444258800000
-  updated: 1326383071000
+  updated: 1444155796000
   utc_offset: -14400000
   venue: {address_1: 1610 U St NW, city: Washington, country: us, id: 794012, lat: 38.916775999999999,
     lon: -77.037339000000003, name: Stetson's Famous Bar & Restaurant, phone: (202)
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 57
 - created: 1444141912000
   description: "<p>[<i>Information cross-posted from DC Android (DCA), the new Android\
     \ meetup in DC. My apologies if you got this twice.</i>]</p> <p>We're really excited\
@@ -491,7 +497,7 @@ other:
     lat: 38.904845999999999, lon: -77.043457000000004, name: Science Club, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 4
 - created: 1440425244000
   description: "<p>Continuum Analytics develops Anaconda, the leading modern open\
     \ source analytics platform powered by Python. Continuum\u2019s Python\xAD based\
@@ -661,9 +667,10 @@ other:
   id: '225754035'
   maybe_rsvp_count: 0
   name: Intro to Pandas
+  rsvp_limit: 15
   status: upcoming
   time: 1444586400000
-  updated: 1443810932000
+  updated: 1444155621000
   utc_offset: -14400000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 24126063, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork, repinned: false, state: DC}
@@ -1030,7 +1037,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1141,7 +1148,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 95
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1409,7 +1416,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 58
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -1788,13 +1795,12 @@ other:
     \ and help each other work through issues. We encourage any advanced ROR devs\
     \ to come and help others! There's always at least one mentor present to help\
     \ you with best practices or guide you through if you are stuck with a nasty problem!</p>\
-    \ <p>Meetup Agenda</p> <p>Every study group will have the following format:</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm -\
-    \ Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new\
-    \ to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For\
-    \ those who have some experience already but are looking for projects, we recommend\
+    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start coding</p> <p>\u2022\
+    \ 7:00pm - Quick introductions</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk -\
+    \ a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap\
+    \ Up</p> <p>Looking for something to work on?</p> <p>For those who are new to\
+    \ coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those\
+    \ who have some experience already but are looking for projects, we recommend\
     \ Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on\
     \ something else if you like.</p> <p>Contact policy at buildings that need access</p>\
     \ <p>Certain building managements requires meetup hosts to let people in and do\
@@ -1818,19 +1824,21 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: We'll be around the ping pong table, accessed via the 3R button
+    in the elevator.
   id: gnsnklytnblc
   maybe_rsvp_count: 0
-  name: Ruby on Rails Study Group
+  name: Ruby on Rails Hack Night
   status: upcoming
   time: 1446071400000
-  updated: 1443537100000
+  updated: 1444156831000
   utc_offset: -14400000
   venue: {address_1: 1203 19th St NW, city: Washington, country: us, id: 24009011,
     lat: 38.905864999999999, lon: -77.043396000000001, name: Canvas, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 4
 - created: 1443808609000
   description: "<p>For our October Data Science DC Meetup, we're talking about the\
     \ World Series. No, not that World Series* -- time-series data about the world!\
@@ -1889,7 +1897,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 163
+  yes_rsvp_count: 169
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -1934,7 +1942,7 @@ other:
     lat: 38.899033000000003, lon: -77.032982000000004, name: 'LivingSocial, Inc',
     repinned: false}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 8
   yes_rsvp_count: 3
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
@@ -2036,7 +2044,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -2457,7 +2465,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
