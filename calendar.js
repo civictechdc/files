@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 57
         }, 
         {
             "announced": false, 
@@ -142,7 +142,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1439487723000, 
@@ -220,7 +220,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1441653193000, 
@@ -258,7 +258,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1417881835000, 
@@ -297,7 +297,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 191
+            "yes_rsvp_count": 189
         }, 
         {
             "created": 1326383071000, 
@@ -337,7 +337,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1444141912000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1440425244000, 
@@ -451,7 +451,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 53, 
+            "waitlist_count": 54, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -490,7 +490,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 19
         }, 
         {
@@ -594,7 +594,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1443103496000, 
@@ -632,7 +632,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1443539332000, 
@@ -1104,7 +1104,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1442174254000, 
@@ -1283,7 +1283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1439487723000, 
@@ -1438,7 +1438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 179
         }, 
         {
             "created": 1440087572000, 
@@ -1590,7 +1590,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1443771376000, 
@@ -1656,7 +1656,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1441299586000, 
@@ -2182,7 +2182,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1422815617000, 
@@ -2445,7 +2445,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1439487723000, 
@@ -2502,10 +2502,10 @@ calendar({
             "headcount": 0, 
             "id": "hffzclyvcbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "Black Hat Data Wrangling", 
             "status": "upcoming", 
             "time": 1452727800000, 
-            "updated": 1443565691000, 
+            "updated": 1444222727000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 

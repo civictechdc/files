@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 57
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -188,7 +188,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -272,7 +272,7 @@ other:
     repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 32
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -322,7 +322,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1417881835000
   description: <p>The <a href="https://github.com/hadley/dplyr">dplyr</a> package
     for R provides a unified domain-specific language for tabular data. A powerful
@@ -357,7 +357,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 191
+  yes_rsvp_count: 189
 - created: 1326383071000
   description: "<p>October's GeoDC is all about #maps \u2013 using social data to\
     \ create and improve maps. This is also our final GeoDC at Stetsons! It's been\
@@ -385,7 +385,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 61
 - created: 1444141912000
   description: "<p>[<i>Information cross-posted from DC Android (DCA), the new Android\
     \ meetup in DC. My apologies if you got this twice.</i>]</p> <p>We're really excited\
@@ -425,7 +425,7 @@ other:
     lat: 38.904845999999999, lon: -77.043457000000004, name: Science Club, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1440425244000
   description: "<p>Continuum Analytics develops Anaconda, the leading modern open\
     \ source analytics platform powered by Python. Continuum\u2019s Python\xAD based\
@@ -558,7 +558,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 53
+  waitlist_count: 54
   yes_rsvp_count: 1
 - created: 1443714231000
   description: "<p>In conjunction w/ <a href=\"http://www.meetup.com/WomenDataScientistsDC\"\
@@ -603,7 +603,7 @@ other:
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 24126063, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 2
   yes_rsvp_count: 19
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -723,7 +723,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1443103496000
   description: '<p>In celebration of Ada Lovelace Day (<a href="http://findingada.com/"
     class="linkified">http://findingada.com/</a>), join us for the first ever Women
@@ -764,7 +764,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 30
 - created: 1443539332000
   description: "<p>Deep Learning is now the performance leader across an increasing\
     \ range of artificial intelligence problems, especially for perceptual tasks such\
@@ -1389,7 +1389,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1631,7 +1631,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 61
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -1825,7 +1825,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 179
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -2007,7 +2007,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -2046,7 +2046,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -2617,7 +2617,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -2930,7 +2930,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -2992,10 +2992,10 @@ other:
   headcount: 0
   id: hffzclyvcbjb
   maybe_rsvp_count: 0
-  name: January Meetup
+  name: Black Hat Data Wrangling
   status: upcoming
   time: 1452727800000
-  updated: 1443565691000
+  updated: 1444222727000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
