@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": false, 
@@ -81,70 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1443669296000, 
-            "description": "<p>Fall is in the air! \u00a0And what goes great with delightfully cool weather? \u00a0APIs. \u00a0</p> <p>More than ever before, come enjoy great conversation with your fellow API meetup-ers\u00a0on the outdoor roof decks at Chief. \u00a0</p> <p>Whether you're an experienced veteran or just beginning to learn more about APIs, this meetup is for you. We've got a great lineup forming, so go ahead and mark your calendar for the first Tuesday of the month! See you soon. :)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Moore - CA Technologies<br/>* Marty Burns - National Institute of Standards and Technology<br/>* Jeff Farley, Ben Morris - STSI, Inc. \u00a0<br/>* Bill Huckabee</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225744446/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "225744446", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - October Edition", 
-            "status": "upcoming", 
-            "time": 1444168800000, 
-            "updated": 1444143633000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 66
-        }, 
-        {
-            "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225593372/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rsmxklytnbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android - First Timer's Night", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1444170600000, 
-            "updated": 1443729677000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 18
-        }, 
-        {
             "created": 1443654333000, 
             "description": "<p>Meet\u00a0Laura Ferguson<b>,\u00a0</b>badass female founder and CTO of\u00a0<a href=\"http://create.io/\">Create.io</a>. She will be participating in our first ever Ask Me Anything (AMA) on slack.\u00a0</p> <p><b>About Laura and Create.io</b></p> <p>\u2022\u00a0Create.io is a 3D data aggregation and visualization platform used to help real-estate professionals sift through lots of data to determine if they should develop a new property or choose to redevelop existing properties they already own.</p> <p>\u2022\u00a0Create.io uses AngularJS and Jade/HTML5 to build the front end experience and Angular provides all of the MVC wiring that\u2019s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\u00a0Laura is an expert Java developer and GUI designer and specilizes in Express, Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku, Github and AWS.</p> <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200bCareer Development</i>:\u00a0advice to beginners on coding,\u00a0daily work tactics,\u00a0long term career development</p> <p><i>\u200bSoftware Development:</i>\u00a0web development (Java, Node.js, Angular), mobile development (Android, Cordova)</p> <p><i>\u200bStarting a company</i>:\u00a0obstacles encountered in starting a company,\u00a0on dealing with unconscious bias as a woman in the startup world,\u00a0on being a CTO,\u00a0fundraising,\u00a0customer acquisition,\u00a0revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/279bZ\" class=\"linkified\">http://ctt.ec/279bZ</a>) and show support!</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions. Members are welcome to post questions at any point during the AMA from Wednesday to Thursday 9:00pm EST.\u00a0</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
             "duration": 180000000, 
@@ -169,7 +105,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1438041748000, 
@@ -206,7 +142,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1439487723000, 
@@ -361,7 +297,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 193
+            "yes_rsvp_count": 191
         }, 
         {
             "created": 1326383071000, 
@@ -401,7 +337,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1444141912000, 
@@ -593,7 +529,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1422815542000, 
@@ -1347,7 +1283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1439487723000, 
@@ -1464,7 +1400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1443808609000, 
@@ -1502,7 +1438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 169
+            "yes_rsvp_count": 172
         }, 
         {
             "created": 1440087572000, 
@@ -1804,7 +1740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
@@ -1993,6 +1929,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1441653193000, 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gnsnklytpbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gnsnklytpbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1447889400000, 
+            "updated": 1443921524000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1443061952000, 
