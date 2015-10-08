@@ -504,7 +504,7 @@
     thumbnailUrl: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 339,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 340,
     link: 'https://github.com/LeeMendelowitz', name: LeeMendelowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14930?v=3', contributions: 1,
     link: 'https://github.com/adunkman', name: adunkman}
@@ -521,7 +521,7 @@
   html_url: https://github.com/LeeMendelowitz/DCMetroMetrics
   id: 12226830
   languages:
-  - [Python, 337254]
+  - [Python, 337320]
   - [HTML, 237356]
   - [JavaScript, 152127]
   - [Smarty, 113701]
@@ -531,11 +531,11 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: Python
   name: Metro Metrics
-  open_issues: 12
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2015-08-12T20:00:52Z'
-  size: 32804
+  pushed_at: '2015-10-08T01:08:46Z'
+  size: 32809
   updated_at: '2015-10-04T00:07:44Z'
   watchers: 27
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1,
@@ -669,7 +669,7 @@
     2, 2, 1]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 32,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 33,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
@@ -685,7 +685,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 43315]
+  - [JavaScript, 43427]
   - [CSS, 7627]
   - [HTML, 728]
   license: null
@@ -694,7 +694,7 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-05T23:56:05Z'
+  pushed_at: '2015-10-08T11:56:14Z'
   size: 27353
   updated_at: '2015-10-01T22:07:06Z'
   watchers: 13

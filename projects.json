@@ -1547,7 +1547,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 339, 
+                "contributions": 340, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
             }, 
@@ -1576,7 +1576,7 @@
         "languages": [
             [
                 "Python", 
-                337254
+                337320
             ], 
             [
                 "HTML", 
@@ -1611,15 +1611,15 @@
         }, 
         "main_language": "Python", 
         "name": "Metro Metrics", 
-        "open_issues": 12, 
+        "open_issues": 13, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2424933?v=3", 
             "name": "LeeMendelowitz", 
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2015-08-12T20:00:52Z", 
-        "size": 32804, 
+        "pushed_at": "2015-10-08T01:08:46Z", 
+        "size": 32809, 
         "updated_at": "2015-10-04T00:07:44Z", 
         "watchers": 27
     }, 
@@ -2078,7 +2078,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 32, 
+                "contributions": 33, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2107,7 +2107,7 @@
         "languages": [
             [
                 "JavaScript", 
-                43315
+                43427
             ], 
             [
                 "CSS", 
@@ -2128,7 +2128,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-10-05T23:56:05Z", 
+        "pushed_at": "2015-10-08T11:56:14Z", 
         "size": 27353, 
         "updated_at": "2015-10-01T22:07:06Z", 
         "watchers": 13

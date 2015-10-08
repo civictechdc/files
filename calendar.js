@@ -108,238 +108,6 @@ calendar({
             "yes_rsvp_count": 29
         }, 
         {
-            "created": 1438041748000, 
-            "description": "<p><b>-\u00a0<a href=\"http://www.eventbrite.com/e/speed-mix-associations-digital-agencies-and-freelancers-tickets-17927036248\">Registration is through Eventbrite</a></b></p> <p><b>- Please note the new date.</b></p> <p>Speed Networking between people who run digital projects for associations &amp; nonprofits - and the digital experts who can help!\u00a0</p> <p>Make connections, talk shop, find help for your projects (or projects to work on) and get to know each other over drinks and appetizers. No sales pitches - just an opportunity to meet.</p> <p><b>==What is Speed MIX?==</b></p> <p>Speed MIX is an opportunity to network with several people in a short time period - you'll mingle (M), interact (I) and exchange information (X).\u00a0All with\u00a0food and drink!</p> <p>Before the event, you'll provide information about yourself, your organization/company and what you either can provide (if you are a freelancer/agency) or what you need (if you are with an association or nonprofit). We'll use this to pre-match you during the speed portion.\u00a0</p> <p><b>Mingle:\u00a0</b>When you arrive, we'll have a short structured networking portion where we organize tables based on topic and you can self-select which table to join. After the Speed MIX portion, you can return to those tables or talk with the people you've met.</p> <p><b>Interact:</b>\u00a0Speed MIX - You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p>If you are with a association or nonprofit, you'll talk with freelancers and agency staff.\u00a0If you are a freelancer or work for a digital agency, you'll talk with people at that run digital projects.\u00a0</p> <p><b>eXchange:\u00a0</b>More networking! Exchange information with the people you've met - and reach out when you are ready.\u00a0</p> <p><b>==Schedule==</b></p> <p>6:00 - Check-in<br/>6:30 - Structured Networking with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking (structured and unstructured)</p> <p>Note that while we will try to accommodate late arrivals, you must arrive by 6:50 to be guaranteed a place in the speed portion.</p> <p><b>==Focus Areas==</b></p> <p>This event is focused on associations as well as cause organizations,\u00a0think tanks, foundations and similar nonprofits. We'll match you with experts based on topic areas - website design, web tech, user experience, digital strategy, digital marketing, etc.</p> <p><b>==Sponsorship==</b></p> <p>If you want to highlight your agency, talk up your product or want a recruiting table, please reach out! When we send out a follow-up message, we can include information about your company. For more information, contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>OUR SPONSORS</b></p> <p><b><a href=\"http://www.teksystems.com/\">TEKsystems</a>\u00a0<br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/5/c/a/600_434841962.jpeg\" /></p> <p>Creative Staffing Services for Digital Marketing, Web and Enterprise IT</p> <p>\n\n\n<b><a href=\"http://www.brightfind.com\">Brightfind</a></b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/6/c/1/9/600_442227673.jpeg\" /></p> <p>Brightfind is a specialized digital design and web development agency.</p> <p>\n\n\n\n<b><a href=\"http://www.fireflypartners.com/\">Firefly Partners</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/3/7/d/600_441765949.jpeg\" /></p> <p><b><a href=\"http://www.sutter-group.com/\">The Sutter Group</a>\u00a0</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/b/4/6/f/600_441766191.jpeg\" /></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/224220483/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "224220483", 
-            "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Associations, Nonprofits & Digital Experts", 
-            "status": "upcoming", 
-            "time": 1444255200000, 
-            "updated": 1442848735000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 67
-        }, 
-        {
-            "created": 1439487723000, 
-            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/225562206/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "id": "kvjxjlytnbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Next Step tutorial sessions/project", 
-            "status": "upcoming", 
-            "time": 1444257000000, 
-            "updated": 1444152950000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1442950567000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225571002/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jtmxklytnbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1444257000000, 
-            "updated": 1443992632000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G Street Northwest", 
-                "city": "Washington ", 
-                "country": "us", 
-                "id": 15656002, 
-                "lat": 38.898727000000001, 
-                "lon": -77.024780000000007, 
-                "name": "Martin Luther King Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
-            "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225481179/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gnsnklytnbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1444257000000, 
-            "updated": 1443921524000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p>The <a href=\"https://github.com/hadley/dplyr\">dplyr</a> package for R provides a unified domain-specific language for tabular data. A powerful feature is that it supports multiple sources of tabular data, including data.frames, data.tables, and several dialects of relational database. But data.frames are not databases! How can this work? In this talk, I will dive into the details of how high-level dplyr verbs get translated into SQL, and walk through tips and tricks, optimizations, and gotchas.</p> <p><b>Our Instructor - Harlan Harris</b></p> <p>Data Scientist with experience and skills in Statistics and Statistical Programming, Machine Learning, Enterprise Software, Operations Research, Analytical Marketing, Enterprise Analytics, Higher Education, Cognitive Psychology, Cognitive Modeling, Linguistics/Psycholinguistics, Artificial Intelligence, and more. Harlan applies statistical, mathematical, computational, and scientific methods to understanding how things, processes, and people work. He's also deeply involved in the data science professional community, and help organize professional events and services in the DC area.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/219100070/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclytnbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Deep Dive Into Dplyr And Databases", 
-            "status": "upcoming", 
-            "time": 1444257000000, 
-            "updated": 1437070409000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 184
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>October's GeoDC is all about #maps \u2013 using social data to create and improve maps. This is also our final GeoDC at Stetsons! It's been an amazing five year run, and we'll miss our friends at Stetsons. We'll announce our next location at Wednesday's meetup. See you there!</p> <p>Daniel Dufour will demo First Draft, his new tool for extracting geodata from online content for building contextual maps automatically. Why do your own mapping when you can teach a computer to do it for you?</p> <p>Aaron Lidman will describe how Mapbox uses anonymized social media data to improve OpenStreetMap and prioritize data improvements, including map tracing and satellite imagery tasking.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/221052556/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcytnbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "#Maps: social media and mapping", 
-            "status": "upcoming", 
-            "time": 1444258800000, 
-            "updated": 1444155796000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1610 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 64
-        }, 
-        {
             "created": 1444141912000, 
             "description": "<p>[<i>Information cross-posted from DC Android (DCA), the new Android meetup in DC. My apologies if you got this twice.</i>]</p> <p>We're really excited to announce that our inaugural happy hour is happening <b>this Thursday</b>! RSVP here:\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/225064525/\"><a href=\"http://www.meetup.com/DCAndroid/events/225064525/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/225064525/</a></a></p> <p><b>When</b>: Thursday (October 8) at 6.30pm--but don't be too late, the fine folks from IDEAA will be covering the first round. <i>We're free as in free beer!</i></p> <p><b>Where</b>: Science Club @[masked]th St NW, Washington, DC</p> <p><b>How</b>: Science Club is a short walk from a few metro stations: Dupont Circle south entrance (5 minutes), Farragut North (6 minutes), and Foggy Bottom/GWU (12 minutes).</p> <p><b>Event Sponsor</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/6/c/b/600_442766315.jpeg\" /></p> <p>\u2022\u00a0The <a href=\"http://www.bigandroidbbq.com/\">BABBQ is coming up</a> in a few weeks in Dallas on October 22-23.</p> <p>\u2022\u00a0The next FREE DC Code Kitchen will be on Saturday, 9 April, 2016 at the United States Patent and Trademark Office, just off the King Metro Station in Alexandria, VA. <a href=\"http://ideaa.io/\">Stay tuned</a> for more details!</p> <p><b>We Want You!</b></p> <p>We're preparing a few more meetups before the end of the year. If you're interested in presenting/sponsoring, please fill out this form: <a href=\"http://goo.gl/forms/hB4z2MC057\"><a href=\"http://goo.gl/forms/hB4z2MC057\" class=\"linkified\">http://goo.gl/forms/hB4z2MC057</a></a></p> <p>See you soon!</p> <p>-- The DC Android (DCA) team.</p>", 
             "event_url": "http://www.meetup.com/gdg-dc/events/225870450/", 
@@ -490,7 +258,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 19
         }, 
         {
@@ -529,7 +297,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1422815542000, 
@@ -567,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1442950341000, 
@@ -594,7 +362,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1443103496000, 
@@ -632,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1443539332000, 
@@ -670,7 +438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1442512202000, 
@@ -858,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1427088126000, 
@@ -896,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1442950341000, 
@@ -1438,7 +1206,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 180
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1440087572000, 
@@ -1551,7 +1319,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1417881835000, 
@@ -2758,6 +2526,43 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1455751800000, 
+            "updated": 1444152868000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24110019, 
+                "lat": 38.905971999999998, 
+                "lon": -77.043205, 
+                "name": "Canvas", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1439487723000, 
+            "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/kvjxjlyvdbgc/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.050003051757812, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "id": "kvjxjlyvdbgc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Next Step tutorial sessions/project", 
+            "status": "upcoming", 
+            "time": 1456356600000, 
             "updated": 1444152868000, 
             "utc_offset": -18000000, 
             "venue": {
