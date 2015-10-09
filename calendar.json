@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 61
         }, 
         {
             "announced": false, 
@@ -106,42 +106,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 29
-        }, 
-        {
-            "created": 1444141912000, 
-            "description": "<p>[<i>Information cross-posted from DC Android (DCA), the new Android meetup in DC. My apologies if you got this twice.</i>]</p> <p>We're really excited to announce that our inaugural happy hour is happening <b>this Thursday</b>! RSVP here:\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/225064525/\"><a href=\"http://www.meetup.com/DCAndroid/events/225064525/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/225064525/</a></a></p> <p><b>When</b>: Thursday (October 8) at 6.30pm--but don't be too late, the fine folks from IDEAA will be covering the first round. <i>We're free as in free beer!</i></p> <p><b>Where</b>: Science Club @[masked]th St NW, Washington, DC</p> <p><b>How</b>: Science Club is a short walk from a few metro stations: Dupont Circle south entrance (5 minutes), Farragut North (6 minutes), and Foggy Bottom/GWU (12 minutes).</p> <p><b>Event Sponsor</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/6/c/b/600_442766315.jpeg\" /></p> <p>\u2022\u00a0The <a href=\"http://www.bigandroidbbq.com/\">BABBQ is coming up</a> in a few weeks in Dallas on October 22-23.</p> <p>\u2022\u00a0The next FREE DC Code Kitchen will be on Saturday, 9 April, 2016 at the United States Patent and Trademark Office, just off the King Metro Station in Alexandria, VA. <a href=\"http://ideaa.io/\">Stay tuned</a> for more details!</p> <p><b>We Want You!</b></p> <p>We're preparing a few more meetups before the end of the year. If you're interested in presenting/sponsoring, please fill out this form: <a href=\"http://goo.gl/forms/hB4z2MC057\"><a href=\"http://goo.gl/forms/hB4z2MC057\" class=\"linkified\">http://goo.gl/forms/hB4z2MC057</a></a></p> <p>See you soon!</p> <p>-- The DC Android (DCA) team.</p>", 
-            "event_url": "http://www.meetup.com/gdg-dc/events/225870450/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "id": "225870450", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC Android (DCA): Inaugural Happy Hour", 
-            "status": "upcoming", 
-            "time": 1444343400000, 
-            "updated": 1444141912000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1136 19th St Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 24066359, 
-                "lat": 38.904845999999999, 
-                "lon": -77.043457000000004, 
-                "name": "Science Club", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
         }, 
         {
             "created": 1440425244000, 
@@ -259,7 +223,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 4, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1427088126000, 
@@ -297,7 +261,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1422815542000, 
@@ -335,7 +299,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1442950341000, 
@@ -438,7 +402,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1442512202000, 
@@ -549,7 +513,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1441653193000, 
@@ -588,7 +552,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1442946028000, 
@@ -626,7 +590,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1427088126000, 
@@ -664,7 +628,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1442950341000, 
@@ -729,7 +693,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1439487723000, 
@@ -1244,7 +1208,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 187
+            "yes_rsvp_count": 188
         }, 
         {
             "created": 1440087572000, 
@@ -1396,7 +1360,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1443771376000, 
@@ -1658,7 +1622,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1422815587000, 
@@ -2327,7 +2291,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1439487723000, 
@@ -2622,7 +2586,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvfbdb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934610/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2636,10 +2600,10 @@
             "headcount": 0, 
             "id": "hffzclyvfbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "March Meetup", 
             "status": "upcoming", 
             "time": 1456961400000, 
-            "updated": 1417881835000, 
+            "updated": 1444350389000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2689,7 +2653,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvgbjb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934654/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2703,10 +2667,10 @@
             "headcount": 0, 
             "id": "hffzclyvgbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "April Meetup", 
             "status": "upcoming", 
             "time": 1459981800000, 
-            "updated": 1417881835000, 
+            "updated": 1444350412000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2756,7 +2720,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvhbgb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934703/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2770,10 +2734,10 @@
             "headcount": 0, 
             "id": "hffzclyvhbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "May Meetup", 
             "status": "upcoming", 
             "time": 1462401000000, 
-            "updated": 1417881835000, 
+            "updated": 1444350442000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2823,7 +2787,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvjbcb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934754/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2837,10 +2801,10 @@
             "headcount": 0, 
             "id": "hffzclyvjbcb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "June Meetup", 
             "status": "upcoming", 
             "time": 1464820200000, 
-            "updated": 1417881835000, 
+            "updated": 1444350464000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2890,7 +2854,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvkbjb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934786/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2904,10 +2868,10 @@
             "headcount": 0, 
             "id": "hffzclyvkbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "July Meetup", 
             "status": "upcoming", 
             "time": 1467844200000, 
-            "updated": 1417881835000, 
+            "updated": 1444350480000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2957,7 +2921,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvlbfb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -2971,10 +2935,10 @@
             "headcount": 0, 
             "id": "hffzclyvlbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "August Meetup", 
             "status": "upcoming", 
             "time": 1470263400000, 
-            "updated": 1417881835000, 
+            "updated": 1444350500000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -3024,7 +2988,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvmbkb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -3038,10 +3002,10 @@
             "headcount": 0, 
             "id": "hffzclyvmbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "September Meetup", 
             "status": "upcoming", 
             "time": 1473287400000, 
-            "updated": 1417881835000, 
+            "updated": 1444350516000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -3091,7 +3055,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvnbhb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934884/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -3105,10 +3069,10 @@
             "headcount": 0, 
             "id": "hffzclyvnbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "October Meetup", 
             "status": "upcoming", 
             "time": 1475706600000, 
-            "updated": 1417881835000, 
+            "updated": 1444350530000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
