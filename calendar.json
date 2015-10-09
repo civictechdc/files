@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }
     ], 
     "other": [
@@ -141,7 +141,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1440425244000, 
@@ -297,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1422815542000, 
@@ -335,7 +335,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1442950341000, 
@@ -400,7 +400,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1443539332000, 
@@ -438,7 +438,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1442512202000, 
@@ -484,7 +484,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1439487723000, 
@@ -494,7 +494,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -549,7 +549,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1441653193000, 
@@ -588,7 +588,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1442946028000, 
@@ -694,6 +694,44 @@
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1444346540000, 
+            "description": "<p>For this Maptime, we'll be going back to the basics of cartography by looking at maps scattered throughout Wikipedia and ones that have been cataloged by the FixWikiMaps Project (@fixwikimaps). We'll also be talking more about what the FixWikiMaps Project is, how it was started, and how you can get involved!</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/225933055/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "225933055", 
+            "maybe_rsvp_count": 0, 
+            "name": "Cartographic Basics: A look at the maps of Wikipedia and the FixWikiMaps Project", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1445380200000, 
+            "updated": 1444346540000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "900 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21261802, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "MLK Library Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
+        }, 
+        {
             "created": 1439487723000, 
             "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "duration": 7200000, 
@@ -701,7 +739,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -767,7 +805,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1442950567000, 
@@ -872,7 +910,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1442174254000, 
@@ -1014,7 +1052,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1443151352000, 
@@ -1051,7 +1089,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1439487723000, 
@@ -1061,7 +1099,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1129,7 +1167,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1441653193000, 
@@ -1206,7 +1244,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 184
+            "yes_rsvp_count": 187
         }, 
         {
             "created": 1440087572000, 
@@ -1253,7 +1291,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1319,7 +1357,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417881835000, 
@@ -1358,7 +1396,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1443771376000, 
@@ -1424,7 +1462,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1441299586000, 
@@ -1518,7 +1556,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1668,7 +1706,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1780,7 +1818,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1817,7 +1855,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -1997,7 +2035,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2034,7 +2072,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2071,7 +2109,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2108,7 +2146,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2145,7 +2183,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2222,7 +2260,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2298,7 +2336,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2335,7 +2373,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2372,7 +2410,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2476,7 +2514,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2513,7 +2551,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
@@ -2550,7 +2588,7 @@
             "group": {
                 "created": 1402595052000, 
                 "group_lat": 38.900001525878906, 
-                "group_lon": -77.050003051757812, 
+                "group_lon": -77.290000915527344, 
                 "id": 15046892, 
                 "join_mode": "open", 
                 "name": "Rails Girls DC", 
