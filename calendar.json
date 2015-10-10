@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "announced": false, 
@@ -80,33 +80,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1443654333000, 
-            "description": "<p>Meet\u00a0Laura Ferguson<b>,\u00a0</b>badass female founder and CTO of\u00a0<a href=\"http://create.io/\">Create.io</a>. She will be participating in our first ever Ask Me Anything (AMA) on slack.\u00a0</p> <p><b>About Laura and Create.io</b></p> <p>\u2022\u00a0Create.io is a 3D data aggregation and visualization platform used to help real-estate professionals sift through lots of data to determine if they should develop a new property or choose to redevelop existing properties they already own.</p> <p>\u2022\u00a0Create.io uses AngularJS and Jade/HTML5 to build the front end experience and Angular provides all of the MVC wiring that\u2019s used to feed Python processed data to the application\u2019s UI layer.</p> <p>\u2022\u00a0Laura is an expert Java developer and GUI designer and specilizes in Express, Angular, Node, Javascript, JSON, JAVA XML, XSLT, Java Swing, Spring, Heroku, Github and AWS.</p> <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200bCareer Development</i>:\u00a0advice to beginners on coding,\u00a0daily work tactics,\u00a0long term career development</p> <p><i>\u200bSoftware Development:</i>\u00a0web development (Java, Node.js, Angular), mobile development (Android, Cordova)</p> <p><i>\u200bStarting a company</i>:\u00a0obstacles encountered in starting a company,\u00a0on dealing with unconscious bias as a woman in the startup world,\u00a0on being a CTO,\u00a0fundraising,\u00a0customer acquisition,\u00a0revenue models</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the #ama channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/279bZ\" class=\"linkified\">http://ctt.ec/279bZ</a>) and show support!</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions. Members are welcome to post questions at any point during the AMA from Wednesday to Thursday 9:00pm EST.\u00a0</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
-            "duration": 180000000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225738347/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "225738347", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ask Me Anything! with Laura Ferguson (CTO & Founder at Create.io)", 
-            "status": "upcoming", 
-            "time": 1444233600000, 
-            "updated": 1443921581000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 29
-        }, 
         {
             "created": 1440425244000, 
             "description": "<p>Continuum Analytics develops Anaconda, the leading modern open source analytics platform powered by Python. Continuum\u2019s Python\u00ad based platform and consulting services empower organizations to analyze, manage and visualize big data \u00ad turning massive datasets into actionable insights and business value. Built on proven open\u00adsource technology and easily integrated within existing\u00a0IT\u00a0environments, Anaconda allows organizations to make critical business decisions based on their data quickly, easily, inexpensively, and with flexibility. Without having to worry about how to access their data, organizations can free up resources to solve actual problems. Continuum\u2019s founders and developers have created or contribute to some of the most popular data science technologies, including NumPy, SciPy, Pandas, IPython, and many others. To learn more about the Anaconda platform, training and consulting services, visit\u00a0</p> <p><a href=\"http://www.continuum.io/\">continuum.io</a></p> <p>.</p> <p><i><b>You must RSVP through Event Brite at the link below to sign up for this event. </b></i>Please do NOT RSVP if you are not going to attend.</p> <p><b><br/></b></p> <p><b>About the Event</b></p> <p>Data science is a rapidly evolving field. On the supply-side, educators and vocational training organizations are developing programs to meet burgeoning demand, but with very different ideas of what skills data scientists need. On the demand-side, employers are still learning about how to hire, retain and manage data scientists. This conference brings together educators, employers, as well as professional and aspiring data scientists to talk about the present and future of data science education.</p> <p><b>Conference Logistics</b></p> <p>Date:\u00a0Saturday, October 10th, 2015</p> <p>Time:\u00a011am - 2pm</p> <p>Location:\u00a0George Washington University Funger Hall Room 108</p> <p>Tickets:</p> <p><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\"><a href=\"https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255\" class=\"linkified\">https://www.eventbrite.com/e/the-state-of-data-science-education-tickets-18179460255</a></a></p> <p><b><br/></b></p> <p><b>Panels &amp; Speakers</b></p> <p><b>Panel - Data Science Educators</b></p> <p>Academics, vocational programs, incubators and specialized recruiting firms will talk about the state of data science education and where it is going.</p> <p>\u2022\u00a0<a href=\"http://www.rhsmith.umd.edu/directory/william-rand\">Bill Rand</a> - Assistant Professor &amp; Director,\u00a0<a href=\"http://www.rhsmith.umd.edu/centers-excellence/complexity-business\">Center for Complexity in Business</a> at the Robert H. Smith School of Business, University of Maryland</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/jakeklamka\">Jake Klamka</a> - CEO and founder of\u00a0<a href=\"http://insightdatascience.com/\">Insight Data Science</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/edwinschmierer\">Edwin Schmierer</a> - Associate Dean of the Center for Continuing &amp; Professional Education at Georgetown University -\u00a0<a href=\"http://scs.georgetown.edu/programs/375/data-analytics/\">Data Science Certificate Program</a></p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/tonyojeda\">Tony Ojeda</a> - CEO and founder of\u00a0<a href=\"http://www.districtdatalabs.com/\">Data District Labs</a></p> <p>\u2022\u00a0<a href=\"http://home.gwu.edu/~apanasovich/\">Tatiyana Apanasovich</a> - Co-Director of the\u00a0<a href=\"https://datasci.columbian.gwu.edu/\">GW Data Science Program</a> and an Associate Professor in the Department of Statistics</p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/seanpatrickmurphy1\">Sean Patrick Murphy</a>, co-founder,\u00a0<a href=\"http://www.meetup.com/data-business-dc/\">Data Innovation DC</a></p> <p><b>Panel - Date Science Employers</b></p> <p>Employers from government, large established companies and start-ups will discuss the challenges in identifying and using data science talent.</p> <p>\u2022\u00a0<a href=\"https://sites.google.com/site/gideonmann/\">Gideon Mann</a> - Head of Data Science at Bloomberg</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> - Lead Associate, Data Scientist at Booz Allen Hamilton</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/bamuller\">Brian Muller</a> - Director of Data Science at Vox Media</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/pub/amanda-traud/14/579/442\">Amanda Traud</a> - Data Scientist at <a href=\"http://www.l-3nss.com/index.php?option=com_content&amp;view=article&amp;id=43&amp;Itemid=203\">L-3 Global Solutions</a></p> <p>Moderator:</p> <p><a href=\"https://www.linkedin.com/in/pzwang\">Peter Wang</a>, President and Co-founder of\u00a0<a href=\"http://continuum.io/\">Continuum Analytics</a></p> <p><b>Keynote Speaker</b></p> <p><a href=\"https://en.wikipedia.org/wiki/DJ_Patil\">DJ Patil</a>, Chief Data Scientist of the United States Office of Science and Technology Policy</p> <p><b>Audience</b></p> <p>We expect a broad-based audience of data scientists, educators and employers. This event will be of interest to aspiring and professional data scientists who want to learn about the data science landscape from the perspective of both educators and employers.</p> <p>Data science educators will hear from a variety of educators on the challenges and future of data science education, as well as from industry about the skills they are looking for in recent graduates.</p> <p>Data science employers will hear from leading organizations about the challenges and best practices in hiring, as well as from educational institutions about how they are rising to meet the needs of industry.</p> <p><b>Speaker &amp; Sponsor Opportunities</b></p> <p>The State of Data Science Education event will be the first event bringing together educators and employers to talk about the present and future of data science education. Given the ever-increasing need for data scientists, this will be an exciting opportunity to be part of the conversation and get exposure for your insights. Please contact us at [masked] if you\u2019re interesting in participating as a panelist, speaker or sponsor.</p> <p>\n\n\n<b>SPONSORS</b></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/1/2/e/600_441997166.jpeg\" /></p> <p>\n\n\nContinuum Analytics develops Anaconda, the leading modern open source analytics platform powered by Python. Continuum\u2019s Python\u00ad based platform and consulting services empower organizations to analyze, manage and visualize big data \u00ad turning massive datasets into actionable insights and business value. Built on proven open\u00adsource technology and easily integrated within existing\u00a0IT\u00a0environments, Anaconda allows organizations to make critical business decisions based on their data quickly, easily, inexpensively, and with flexibility. Without having to worry about how to access their data, organizations can free up resources to solve actual problems. Continuum\u2019s founders and developers have created or contribute to some of the most popular data science technologies, including NumPy, SciPy, Pandas, IPython, and many others. To learn more about the Anaconda platform, training and consulting services, visit\u00a0<a href=\"http://www.continuum.io/\">continuum.io</a>.</p>", 
@@ -299,7 +272,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1442950341000, 
@@ -693,7 +666,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1439487723000, 
@@ -1208,7 +1181,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 193
+            "yes_rsvp_count": 194
         }, 
         {
             "created": 1444411198000, 
@@ -1245,7 +1218,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1440087572000, 
