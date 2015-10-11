@@ -424,7 +424,7 @@
   size: 2410
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -694,7 +694,7 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-11T04:17:31Z'
+  pushed_at: '2015-10-11T17:17:10Z'
   size: 27353
   updated_at: '2015-10-01T22:07:06Z'
   watchers: 13
