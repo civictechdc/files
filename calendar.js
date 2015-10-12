@@ -154,7 +154,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1442950341000, 
@@ -181,7 +181,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1443103496000, 
@@ -219,7 +219,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1443539332000, 
@@ -257,7 +257,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1442512202000, 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1441653193000, 
@@ -403,23 +403,22 @@ calendar({
             "name": "Ruby on Rails: Getting Value out of Conferences (ft. RailsConf 2015)", 
             "status": "upcoming", 
             "time": 1444861800000, 
-            "updated": 1444514507000, 
+            "updated": 1444671329000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1445 New York Ave NW,", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1442946028000, 
@@ -457,7 +456,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1427088126000, 
@@ -522,7 +521,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1444346540000, 
@@ -560,7 +559,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1439487723000, 
@@ -636,7 +635,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1442950567000, 
@@ -664,7 +663,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1443214684000, 
@@ -703,7 +702,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1443454116000, 
@@ -741,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1442174254000, 
@@ -824,7 +823,7 @@ calendar({
         {
             "created": 1442950341000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226005450/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -846,7 +845,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1441688777000, 
@@ -883,7 +882,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1443151352000, 
@@ -920,7 +919,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1439487723000, 
@@ -997,7 +996,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1441653193000, 
@@ -1074,7 +1073,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 207
+            "yes_rsvp_count": 212
         }, 
         {
             "created": 1444411198000, 
@@ -1263,7 +1262,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1443771376000, 
@@ -1526,7 +1525,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1422815587000, 

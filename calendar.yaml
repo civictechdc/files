@@ -160,7 +160,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -197,7 +197,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1443103496000
   description: '<p>In celebration of Ada Lovelace Day (<a href="http://findingada.com/"
     class="linkified">http://findingada.com/</a>), join us for the first ever Women
@@ -238,7 +238,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1443539332000
   description: "<p>Deep Learning is now the performance leader across an increasing\
     \ range of artificial intelligence problems, especially for perceptual tasks such\
@@ -291,7 +291,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 120
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -442,7 +442,7 @@ other:
     state: VA, zip: '22314'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -486,14 +486,14 @@ other:
   name: 'Ruby on Rails: Getting Value out of Conferences (ft. RailsConf 2015)'
   status: upcoming
   time: 1444861800000
-  updated: 1444514507000
+  updated: 1444671329000
   utc_offset: -14400000
-  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
-    lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
-    state: DC, zip: '20005'}
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -553,7 +553,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -641,7 +641,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1444346540000
   description: <p>For this Maptime, we'll be going back to the basics of cartography
     by looking at maps scattered throughout Wikipedia and ones that have been cataloged
@@ -665,7 +665,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -767,7 +767,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -796,7 +796,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
     \ month incubator to turn theory into practice on projects spanning health, economics,\
@@ -844,7 +844,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -889,7 +889,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 72
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -992,7 +992,7 @@ other:
     \ exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This\
     \ Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\"\
     >Slack</a> group to talk about all things Android.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rsmxklytnbkc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226005450/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1007,7 +1007,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1441688777000
   description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
     >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
@@ -1075,7 +1075,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -1131,7 +1131,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -1214,7 +1214,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1325,7 +1325,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 207
+  yes_rsvp_count: 212
 - created: 1444411198000
   description: "<p>Could fall weather be any better? \_I believe there's a clear answer\
     \ right now and that's nope. \_</p> <p>So go ahead and mark your calendars for\
@@ -1535,7 +1535,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 81
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1779,7 +1779,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
