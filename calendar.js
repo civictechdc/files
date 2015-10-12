@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "announced": false, 
@@ -81,45 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1443714231000, 
-            "description": "<p>In conjunction w/ <a href=\"http://www.meetup.com/WomenDataScientistsDC\">Women Data Scientists DC</a>...<br/><b>Intro to Python's Pandas</b></p> <p>Pandas is a powerful and flexible Python library that provides data structures and operations for processing and analyzing tabular datasets. Come learn how Pandas can help you explore, transform, combine, and slice-and-dice medium-sized datasets with ease. Along the way, we will touch on the basics of functional programming, making plots, and integrating Pandas with other Python data libraries.</p> <p><br/>Prereqs:</p> <p>Comfortable with the basics of Python (or a similar language like Ruby)</p> <p>Familiar with tabular data format (e.g. you can read an Excel spreadsheet)</p> <p>Installs (please have these installed before class):</p> <p>* python 2.7<br/>* pandas<br/>* ipython with notebook dependencies<br/>* (optional) matplotlib<br/>* (super optional) virtualenv, virtualenvwrapper</p> <p>`pip install pandas \u201cipython[notebook]\u201d matplotlib`</p> <p><b>Install party</b><br/>Before the meetup at 11:30 to 1:45pm at\u00a0Bakers &amp; Baristas on 7th -- limited space available.\u00a0</p> <p><br/>Speaker:\u00a0Clara Bennett, Software Engineer\u00a0<a href=\"https://twitter.com/picwell\">@Picwell</a></p> <p>Clara works on building APIs and data pipelines in order to serve Picwell\u2019s health insurance recommendations to customers. She uses Pandas to develop extract-transform-load processes for health plan data, as well as for her personal tabular data needs, because Excel is terrible.</p> <p>Space provided by:\u00a0<a href=\"http://datasociety.co/\">Data Society</a></p> <p>Data Society makes data science accessible to everyone through intuitive, practical, and affordable online courses and bootcamps that teach professionals a new skill set in a matter of hours. They are dedicated to increasing data literacy and eliminating barriers\u00a0to entry to the field, especially for women, minorities, and low-income communities. Free trial memberships are now available for you to start building your skills up today!\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/225754035/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "225754035", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Pandas", 
-            "rsvp_limit": 15, 
-            "status": "upcoming", 
-            "time": 1444586400000, 
-            "updated": 1444503545000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24126063, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -155,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1422815542000, 
@@ -193,7 +154,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1442950341000, 
@@ -296,7 +257,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1442512202000, 
@@ -403,11 +364,23 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444861800000, 
-            "updated": 1444514623000, 
+            "updated": 1444587588000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2000 Duke Street", 
+                "city": "Alexandria", 
+                "country": "us", 
+                "id": 1623000, 
+                "lat": 38.804245000000002, 
+                "lon": -77.063682999999997, 
+                "name": "The Motley Fool", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22314"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1441653193000, 
@@ -587,7 +560,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1439487723000, 
@@ -691,7 +664,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1443214684000, 
@@ -730,7 +703,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1443454116000, 
@@ -1009,23 +982,22 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1446071400000, 
-            "updated": 1443921555000, 
+            "updated": 1444587837000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "901 G Street Northwest", 
-                "city": "Washington ", 
+                "address_1": "1155 F Street NW Suite 475", 
+                "city": "Washington", 
                 "country": "us", 
-                "id": 15656002, 
-                "lat": 38.898727000000001, 
-                "lon": -77.024780000000007, 
-                "name": "Martin Luther King Library", 
+                "id": 24145195, 
+                "lat": 38.897540999999997, 
+                "lon": -77.027450999999999, 
+                "name": "Fiscal Note", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
@@ -1102,7 +1074,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 199
+            "yes_rsvp_count": 204
         }, 
         {
             "created": 1444411198000, 
@@ -1139,7 +1111,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1440087572000, 
@@ -1291,7 +1263,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1443771376000, 
@@ -1357,7 +1329,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441299586000, 
@@ -1923,7 +1895,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1439487723000, 
