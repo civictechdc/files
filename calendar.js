@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }
     ], 
     "other": [
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1422815542000, 
@@ -181,7 +181,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1443103496000, 
@@ -257,7 +257,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1442512202000, 
@@ -303,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1439487723000, 
@@ -380,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1441653193000, 
@@ -421,6 +421,45 @@ calendar({
             "yes_rsvp_count": 12
         }, 
         {
+            "created": 1444679373000, 
+            "description": "<p>Join us for a special Code &amp; Coffee, as part of\u00a0<a href=\"http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance. This is important. : ) You can only access our office through the alley behind 14th, not from out front. The best way to get to us is to go to the corner of 14th and R, walk west on R and then north up the alley. You'll see our sign from R St and we're in a blue garage with glass doors.</p> <p>We have bike parking inside!</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226012948/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "1714 14th St NW, Washington, DC, Washington, DC", 
+            "id": "226012948", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code & Coffee @ Mapbox Garage", 
+            "status": "upcoming", 
+            "time": 1445191200000, 
+            "updated": 1444679373000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1714 14th St NW, Washington, DC", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24037811, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Mapbox Garage", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 14
+        }, 
+        {
             "created": 1442946028000, 
             "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
@@ -456,7 +495,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1427088126000, 
@@ -494,7 +533,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1442950341000, 
@@ -521,7 +560,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1444346540000, 
@@ -559,7 +598,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1439487723000, 
@@ -740,7 +779,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1442174254000, 
@@ -1073,7 +1112,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 212
+            "yes_rsvp_count": 214
+        }, 
+        {
+            "created": 1444672805000, 
+            "description": "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\">Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\">GWT</a> compiler to enable Java developers to build complex desktop-like user interfaces that run in the browser. In GXT 4.0, the core widgets have been updated to include touch functionality such as draggable borders, tree expand / collapse, LiveGrid scrolling, and long press to hover. In addition, you can add new gesture recognizers such as pinch and rotate to your apps. In this presentation, we\u2019ll look at the ins and outs of JavaScript touch event handling for GWT developers, touch support in GXT 4.0 widgets, how to eliminate the 300ms click delay in mobile browsers, and how to work with GXT\u2019s new gesture recognizers. In addition, we\u2019ll discuss some of the lessons learned by the GXT team while building GXT 4.0 and demo some debugging strategies for GWT apps on touch devices.</p> <p><b>Speaker Bio:</b></p> <p>David Chandler is the Developer Advocate for GXT with <a href=\"https://www.sencha.com/\">Sencha</a>, Inc. Formerly a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at <a href=\"http://turbomanage.wordpress.com\">turbomanage.wordpress.com</a>. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then<b>.<br/></b></p> <p><b>Sponsors:</b></p> <p><b><a href=\"https://www.sencha.com/\">Sencha</a>\u00a0</b></p> <p><b><a href=\"http://www.uberoffices.com/dc/tysons-corner/\">UberOffices</a></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/226009742/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "GWT, Java, Sencha. Mobile, Responsive, Google Web Toolkit, UI, AdWords, Wallet", 
+            "id": "226009742", 
+            "maybe_rsvp_count": 0, 
+            "name": "Taking Your GWT apps to Tablets with GXT 4.0", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1446507000000, 
+            "updated": 1444673039000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1751 Pinnacle Dr", 
+                "city": "Mclean", 
+                "country": "us", 
+                "id": 20646792, 
+                "lat": 38.920937000000002, 
+                "lon": -77.229149000000007, 
+                "name": "Uber Offices Tysons, Suite #600", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1444411198000, 
@@ -1262,7 +1341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1443771376000, 
@@ -1525,7 +1604,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1422815587000, 
@@ -2195,7 +2274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1439487723000, 

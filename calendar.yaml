@@ -37,7 +37,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 68
 - announced: false
   created: 1427389174000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -77,7 +77,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 other:
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -125,7 +125,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1422815542000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -197,7 +197,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1443103496000
   description: '<p>In celebration of Ada Lovelace Day (<a href="http://findingada.com/"
     class="linkified">http://findingada.com/</a>), join us for the first ever Women
@@ -291,7 +291,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 120
+  yes_rsvp_count: 125
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -358,7 +358,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -442,7 +442,7 @@ other:
     state: VA, zip: '22314'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -494,6 +494,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 12
+- created: 1444679373000
+  description: "<p>Join us for a special Code &amp; Coffee, as part of\_<a href=\"\
+    http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p>\
+    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
+    \ informal way to learn, code and work on projects with other members in the community.\
+    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
+    \ open to all women or those who support women and minorities in tech. Beginners\
+    \ welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors,\
+    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
+    \ bring their own projects or meet people who are working on similar projects\
+    \ to collaborate together. If you're a beginner we recommend some online tutorials\
+    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
+    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
+    \ <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance.\
+    \ This is important. : ) You can only access our office through the alley behind\
+    \ 14th, not from out front. The best way to get to us is to go to the corner of\
+    \ 14th and R, walk west on R and then north up the alley. You'll see our sign\
+    \ from R St and we're in a blue garage with glass doors.</p> <p>We have bike parking\
+    \ inside!</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
+    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out\
+    \ their individual pages for resources and more events throughout the month!</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226012948/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  how_to_find_us: 1714 14th St NW, Washington, DC, Washington, DC
+  id: '226012948'
+  maybe_rsvp_count: 0
+  name: Code & Coffee @ Mapbox Garage
+  status: upcoming
+  time: 1445191200000
+  updated: 1444679373000
+  utc_offset: -14400000
+  venue: {address_1: '1714 14th St NW, Washington, DC', city: Washington, country: us,
+    id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 14
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -553,7 +593,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -600,7 +640,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -641,7 +681,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1444346540000
   description: <p>For this Maptime, we'll be going back to the basics of cartography
     by looking at maps scattered throughout Wikipedia and ones that have been cataloged
@@ -665,7 +705,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 35
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -889,7 +929,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 74
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1325,7 +1365,53 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 212
+  yes_rsvp_count: 214
+- created: 1444672805000
+  description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
+    >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
+    >GWT</a> compiler to enable Java developers to build complex desktop-like user\
+    \ interfaces that run in the browser. In GXT 4.0, the core widgets have been updated\
+    \ to include touch functionality such as draggable borders, tree expand / collapse,\
+    \ LiveGrid scrolling, and long press to hover. In addition, you can add new gesture\
+    \ recognizers such as pinch and rotate to your apps. In this presentation, we\u2019\
+    ll look at the ins and outs of JavaScript touch event handling for GWT developers,\
+    \ touch support in GXT 4.0 widgets, how to eliminate the 300ms click delay in\
+    \ mobile browsers, and how to work with GXT\u2019s new gesture recognizers. In\
+    \ addition, we\u2019ll discuss some of the lessons learned by the GXT team while\
+    \ building GXT 4.0 and demo some debugging strategies for GWT apps on touch devices.</p>\
+    \ <p><b>Speaker Bio:</b></p> <p>David Chandler is the Developer Advocate for GXT\
+    \ with <a href=\"https://www.sencha.com/\">Sencha</a>, Inc. Formerly a Developer\
+    \ Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and\
+    \ Android communities through blogging, open source projects, and conference speaking.\
+    \ He actively contributes to open source projects (github: turbomanage) and blogs\
+    \ about Java Web and mobile development at <a href=\"http://turbomanage.wordpress.com\"\
+    >turbomanage.wordpress.com</a>. Chandler lives in Colorado with his family and\
+    \ enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and\
+    \ teaching math and Java to high school students every now and then<b>.<br/></b></p>\
+    \ <p><b>Sponsors:</b></p> <p><b><a href=\"https://www.sencha.com/\">Sencha</a>\_\
+    </b></p> <p><b><a href=\"http://www.uberoffices.com/dc/tysons-corner/\">UberOffices</a></b></p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/gdg-dc/events/226009742/
+  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
+    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
+    urlname: gdg-dc, who: Google Techies and Users}
+  headcount: 0
+  how_to_find_us: GWT, Java, Sencha. Mobile, Responsive, Google Web Toolkit, UI, AdWords,
+    Wallet
+  id: '226009742'
+  maybe_rsvp_count: 0
+  name: Taking Your GWT apps to Tablets with GXT 4.0
+  rsvp_limit: 100
+  status: upcoming
+  time: 1446507000000
+  updated: 1444673039000
+  utc_offset: -18000000
+  venue: {address_1: 1751 Pinnacle Dr, city: Mclean, country: us, id: 20646792, lat: 38.920937000000002,
+    lon: -77.229149000000007, name: 'Uber Offices Tysons, Suite #600', repinned: false,
+    state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 9
 - created: 1444411198000
   description: "<p>Could fall weather be any better? \_I believe there's a clear answer\
     \ right now and that's nope. \_</p> <p>So go ahead and mark your calendars for\
@@ -1535,7 +1621,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1779,7 +1865,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -2532,7 +2618,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
