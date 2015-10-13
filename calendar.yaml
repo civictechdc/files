@@ -77,55 +77,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 other:
-- created: 1427088126000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting.\_</p> <p>There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptops</b></p> <p>In order to maximize your\
-    \ benefits from FEHN, please bring your laptop. Extra computers will not be available\
-    \ at the event.\_Even if you have never coded before, you will be coding at FEHN!</p>\
-    \ <p><b>Meetup Agenda\_</b></p> <p>Every study group will have the following format:</p>\
-    \ <p><br/>\u2022\_6:30pm - Setup</p> <p>\u2022\_6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022\_6:50 - 8:00pm - Code!</p> <p>\u2022\_8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022\_8:15 - 8:30pm -\
-    \ Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our\
-    \ Github page -\_<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First\
-    \ Timer's Guide:\_<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\"\
-    \ class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022\
-    \ HTML Study Guide:\_<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022\
-    \ JavaScript Study Guide:\_<a href=\"http://bit.ly/js-study-guide\"><a href=\"\
-    http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p>\
-    \ <p><br/><b>Building Access</b></p> <p>Certain building management companies\
-    \ require Meetup hosts to let people in and do not encourage them being contacted.\
-    \ Please respect the policy. In case the location requires access to the building,\
-    \ contact the group lead if information is provided or drop a comment on the Meetup\
-    \ page. We'll come and get you.</p> <p><b>Welcome\_</b></p> <p>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223779223/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rlzgglytnbqb
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  status: upcoming
-  time: 1444689000000
-  updated: 1444513242000
-  utc_offset: -14400000
-  venue: {address_1: '700 6th Street, NW, #410', city: Washington, country: us, id: 23283742,
-    lat: 38.898994000000002, lon: -77.020294000000007, name: Social Tables, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 41
 - created: 1422815542000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -238,7 +191,7 @@ other:
       Jr. Memorial Library- Dream Lab', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 27
 - created: 1443539332000
   description: "<p>Deep Learning is now the performance leader across an increasing\
     \ range of artificial intelligence problems, especially for perceptual tasks such\
@@ -291,7 +244,7 @@ other:
     lon: -77.069725000000005, name: 2231 Crystal Dr, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 127
 - created: 1442512202000
   description: "<p><b>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -358,7 +311,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
@@ -442,7 +395,7 @@ other:
     state: VA, zip: '22314'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -497,6 +450,8 @@ other:
 - created: 1444679373000
   description: "<p>Join us for a special Code &amp; Coffee, as part of\_<a href=\"\
     http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p>\
+    \ <p><br/>Please RSVP here:\_<a href=\"https://nvite.com/tourdecode/acc8\"><a\
+    \ href=\"https://nvite.com/tourdecode/acc8\" class=\"linkified\">https://nvite.com/tourdecode/acc8</a></a></p>\
     \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
     \ informal way to learn, code and work on projects with other members in the community.\
     \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
@@ -527,13 +482,13 @@ other:
   name: Code & Coffee @ Mapbox Garage
   status: upcoming
   time: 1445191200000
-  updated: 1444679373000
+  updated: 1444698469000
   utc_offset: -14400000
   venue: {address_1: '1714 14th St NW, Washington, DC', city: Washington, country: us,
     id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 19
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -800,10 +755,10 @@ other:
   name: 'Ruby on Rails: Focus on Fundamentals'
   status: upcoming
   time: 1445466600000
-  updated: 1444241647000
+  updated: 1444699491000
   utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+  venue: {address_1: '1445 New York Ave NW, 1st Floor Conference Room', city: Washington,
+    country: us, id: 21483092, lat: 0, lon: 0, name: Living Social, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
@@ -929,7 +884,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -1115,7 +1070,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -1365,7 +1320,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 214
+  yes_rsvp_count: 218
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -1411,7 +1366,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1444411198000
   description: "<p>Could fall weather be any better? \_I believe there's a clear answer\
     \ right now and that's nope. \_</p> <p>So go ahead and mark your calendars for\
@@ -1439,7 +1394,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 46
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -1660,7 +1615,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -1706,7 +1661,7 @@ other:
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
     \ in a field somehow related to code? Come brunch with others like you!\_</p>\
@@ -2031,7 +1986,7 @@ other:
     \ and can incorporate humanity into everything they do.\_</p> <p><b>SPEAKERS</b></p>\
     \ <p><b>Sarah Goelitz<br/></b>UX Content Strategist, Capital One</p> <p><b>Michaela\
     \ Hackner\_</b><br/>Senior Manager UX Content Strategy, Capital One</p> <p><b>Cory\
-    \ Jurentkoff\_<br/></b>Manager, Content Strategy, Digital Innovation &amp; Design\_\
+    \ Jurentkuff\_<br/></b>Manager, Content Strategy, Digital Innovation &amp; Design\_\
     <br/>Capital One</p> <p>==================================</p> <p><b><i>Our Sustaining\
     \ Sponsor</i></b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
     \ /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\_is the global leader\
@@ -2052,14 +2007,14 @@ other:
   name: The Content-First Approach
   status: upcoming
   time: 1447891200000
-  updated: 1444091894000
+  updated: 1444696233000
   utc_offset: -18000000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1439487723000
   description: "<p>We will be collaborating on these events with Women Who Code. LOCATION\
     \ CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women\
