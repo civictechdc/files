@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 70
         }, 
         {
             "announced": false, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1442950341000, 
@@ -139,11 +139,11 @@
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1444775400000, 
-            "updated": 1443914957000, 
+            "updated": 1444749808000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1443103496000, 
@@ -181,7 +181,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1443539332000, 
@@ -265,7 +265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1439487723000, 
@@ -342,7 +342,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1441653193000, 
@@ -419,11 +419,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1442946028000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0Harley Cooper of <a href=\"http://www.foursquareitp.com/\">Foursquare</a> will show how she analyzed data and made maps for the\u00a0<a href=\"http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\">CaBi Development Plan</a>.</p> <p><br/>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
             "group": {
                 "created": 1384372275000, 
@@ -442,7 +442,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1445292000000, 
-            "updated": 1443712953000, 
+            "updated": 1444750767000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -457,7 +457,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1427088126000, 
@@ -495,7 +495,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1442950341000, 
@@ -560,7 +560,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1439487723000, 
@@ -703,7 +703,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1443454116000, 
@@ -741,7 +741,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1442174254000, 
@@ -883,7 +883,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1443151352000, 
@@ -920,7 +920,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1439487723000, 
@@ -1114,7 +1114,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1444411198000, 
@@ -1151,7 +1151,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1440087572000, 
@@ -1264,7 +1264,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1417881835000, 
@@ -1303,7 +1303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1443771376000, 
@@ -1718,7 +1718,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1439487723000, 
