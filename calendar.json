@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 73
         }, 
         {
             "announced": false, 
@@ -81,193 +81,6 @@
     ], 
     "other": [
         {
-            "created": 1422815542000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in October! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231785/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231785", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 25: Percival's Pernicious Parsnips", 
-            "status": "upcoming", 
-            "time": 1444775400000, 
-            "updated": 1442350580000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 42
-        }, 
-        {
-            "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>This night we will have a Tech Talk entitled : Static Code Analysis: For When Smart People Make Dumb Mistakes.</p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225577908/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rsmxklytnbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Talk - \"Static Code Analysis: For When Smart People Make Dumb Mistakes\"", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1444775400000, 
-            "updated": 1444749808000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1443103496000, 
-            "description": "<p>In celebration of Ada Lovelace Day (<a href=\"http://findingada.com/\" class=\"linkified\">http://findingada.com/</a>), join us for the first ever Women Who Code DC Book Club! We will be discussing The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer. <a href=\"http://sydneypadua.com/2dgoggles/the-book/\" class=\"linkified\">http://sydneypadua.com/2dgoggles/the-book/</a>. Join us for a great discussion and celebration of Ada Lovelace! (with some surprises in store)</p> <p>Book Description : This AWESOME graphic novel follows the story of Ada Lovelace (whose writings contained the first ever appearance of general computing theory) and Charles Babbage (eccentric inventor of the Difference Engine, an enormous clockwork calculating machine that would have been the first computer, if he had ever finished it.) But what if things had been different? The Thrilling Adventures of Lovelace and Babbage presents a delightful alternate reality in which Lovelace and Babbage do build the Difference Engine and use it to create runaway economic models, battle the scourge of spelling errors, explore the wider realms of mathematics and, of course, fight crime.</p> <p>\n\n\n**This event is a part of DC Fem Tech's Tour de Code: A month long celebration of coding and tech events. For more information on other Tour de Code events, check out their site: <a href=\"http://dcfemtech.github.io/tourdecode.html\" class=\"linkified\">http://dcfemtech.github.io/tourdecode.html</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225583511/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "225583511", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ada Lovelace Day Book Club: The Thrilling Adventures of Lovelace and Babbage", 
-            "status": "upcoming", 
-            "time": 1444775400000, 
-            "updated": 1443921499000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24112015, 
-                "lat": 38.898646999999997, 
-                "lon": -77.024628000000007, 
-                "name": "Martin Luther King, Jr. Memorial Library- Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 24
-        }, 
-        {
-            "created": 1443539332000, 
-            "description": "<p>Deep Learning is now the performance leader across an increasing range of artificial intelligence problems, especially for perceptual tasks such as vision, text or speech applications. This talk will discuss some recent successes in Deep Learning, demonstrate the optimization process using DIGITS - a new open source package for deep learning from NVIDIA - and some demos of real-world applications of deep neural networks built using open-source deep learning tools.\u00a0</p> <p><br/>Jon Barker is an Arlington, VA based Solution Architect with NVIDIA. \u00a0Jon helps customers and partners to develop applications of GPU accelerated machine learning and data analytics to defense and national security problems. \u00a0Currently Jon is particularly focused on applications of the rapidly developing field of Deep Learning. \u00a0Prior to joining NVIDIA Jon spent almost a decade as a government research scientist within the UK Ministry of Defence and the US Department of Defense R&amp;D communities.\u00a0 Whilst in government service Jon lead R&amp;D projects in sensor data fusion, big data analytics and machine learning for multi-modal sensor data to support military situational awareness and aid decision making. \u00a0Jon has a PhD and BSc in Pure Mathematics from the University of Southampton, UK.\u00a0</p> <p>Agenda:</p> <p>\u2022\u00a06:30 - Doors open, networking</p> <p>\u2022\u00a07ish - Introductions &amp; Announcements</p> <p>\u2022\u00a07:15 \u00a0- Presentation</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:45 - Data Drinks (Secret Location TBA)</p> <p><br/>SPECIAL ANNOUNCEMENT</p> <p>We are pleased to announce a Data Community DC special event: The State of Data Science Education.\u00a0</p> <p>With the rush to leverage data for insights, educators and companies are rapidly evolving, but they face a number of questions and challenges.\u00a0</p> <p>What skills should data scientists have?\u00a0<br/>How do companies evaluate talent?\u00a0<br/>Are data scientists creating value?\u00a0<br/>Is data science education meeting the needs of companies?<br/>What's the future of data science education?\u00a0</p> <p>We've assembled a fantastic set of panelists from universities, vocational programs and companies to discuss these questions and many more.\u00a0</p> <p>In addition, we are excited to have DJ Patil, the Chief Data Scientist of the United States, provide the closing keynote.\u00a0</p> <p>The event is scheduled for Saturday, October 10th and tickets are limited.\u00a0</p> <p>For more information on speakers and tickets, please visit the event page:\u00a0<a href=\"http://bit.ly/data-ed-2015\"><a href=\"http://bit.ly/data-ed-2015\" class=\"linkified\">http://bit.ly/data-ed-2015</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/225700017/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "225700017", 
-            "maybe_rsvp_count": 0, 
-            "name": "Deep Learning Optimization", 
-            "status": "upcoming", 
-            "time": 1444775400000, 
-            "updated": 1443540269000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "#1000", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24121504, 
-                "lat": 38.853619999999999, 
-                "lon": -77.049040000000005, 
-                "name": "2231 Crystal Dr", 
-                "repinned": true, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 131
-        }, 
-        {
-            "created": 1442512202000, 
-            "description": "<p><b>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (Oct 13 and Oct 15; 7-9p). \u00a0</b></p> <p><b><br/></b></p> <p><b>About the Course:<br/></b></p> <p>Through the course of this two-part class, you'll get a thorough introduction to HTML5 and CSS3 to build on your previous knowledge. You'll get hands-on experience working with HTML5 features like semantic elements and forms, and you'll learn new CSS3 properties and abilities including transformations and transitions. Finally, we'll dig into responsive design and browser compatibility.</p> <p><br/>You'll leave with readily-applicable skills and we'll be available to answer any questions you may have along the way!</p> <p>To get the most out of this class, you should have a working knowledge of basic HTML and CSS. You may have taken Intro to HTML through Girl Develop It, or maybe you have built a site for fun.</p> <p><b><i><br/></i></b></p> <p><b><i>Why Hangouts &amp; Full Disclosure:<br/></i></b></p> <p><i>Many of our students find it hard to make classes because of traffic, late working hours, etc. We wanted to explore an alternative, virtual classes, and see if it may be a fit for GDI DC.\u00a0</i></p> <p><i><b>Here are the perks: </b>you can join the meetups from anywhere, lower class rates (our cost savings roll right down to you) and the videos are available for reference after each class.\u00a0</i></p> <p><i>Please note that there may be some issues while we're ironing out the details and figuring things out. However, we hope you'll enjoy the sessions!</i></p> <p><br/><b><i><br/></i></b></p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#prerequisites\"&gt;&lt;/a&gt; <b>Prerequisites:</b></p> <p>Introduction to HTML/CSS or basic HTML/CSS experience.</p> <p>\n\n\n<a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#tech-requirements\">&lt;/a&gt; <b>Tech Requirements:</b></p> <p>A modern browser: either Chrome with the \"Web Developer\" extension or Firefox with Firebug installed.A text editor. We recommend Sublime Text 2 (free; available for both Mac and PC).</p> <p>If you do not have a Google account you may not be able to fully participate. We highly recommend creating one (free) to have the most optimal Hangouts on Air experience. After you register be sure to supply your google account information once the question box comes up. If you do not see this please email me ([masked]) and include your google account information.\u00a0</p> <p>&lt;a href=\"https://github.com/gdirdu/gdi-rdu-intermediate-htmlcss#topics-covered\"&gt;</a></p> <p><br/><b>About the Instructor:</b></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/3/2/6/600_442069958.jpeg\" /></p> <p>Kranthi Reddy is a developer focusing in data science and machine learning. She's an open-source enthusiast and passionate about computer science. When she is not working she likes to experiment with molecular gastronomy, explore new places and learn new technologies.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>Isn't it nice to only worry about getting somewhere quiet with your computer? :)</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees a single seat in this Hangout on Air session. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/225425768/", 
-            "fee": {
-                "accepts": "wepay", 
-                "amount": 15, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "225425768", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intermediate HTML/CSS (Virtual)", 
-            "rsvp_limit": 99, 
-            "status": "upcoming", 
-            "time": 1444777200000, 
-            "updated": 1442512202000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Virtual (Google Hangouts)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23694109, 
-                "lat": 38.875359000000003, 
-                "lon": -76.994972000000004, 
-                "name": "Virtual (Google Hangouts)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1439487723000, 
             "description": "<p>We will be collaborating on these events with Women Who Code. LOCATION CHANGES EVERY WEEK - check back for upcoming locations. Their rule is Women Only.\u00a0If men are interested in getting involved in this project, you're still welcome to learn &amp; contribute. Send a message to [masked] to find out how you can get involved.</p> <p>...</p> <p>RailsGirls has organized several sessions to help get newbies set up with Rails. But what comes next? If you're interested in working on something to improve your skills or interested in helping others on a regular basis, you should come. \u00a0There's something useful in it for all levels of Ruby on Rails users.</p> <p>If you haven't looked through this quiz, already, you should do so before attending:</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to<a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0and use tutorials, google, etc. to help you figure out the answers.\u00a0</p> <p><br/>1. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0<br/>2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0<br/>3. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0<br/>4. What are the default views for all Rails apps?\u00a0<br/>5. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0<br/>6. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0<br/>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0<br/>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0<br/>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "duration": 7200000, 
@@ -306,7 +119,7 @@
         }, 
         {
             "created": 1442950567000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>We also will have a presentation from\u00a0Ren C'deBaca today as she will present PyGames. She will speak about the following:\u00a0</p> <p>\u2022\u00a0An introduction to Game Development with Pygame\u00a0</p> <p>\u2022\u00a0What is Pygame\u00a0</p> <p>\u2022\u00a0Some quick examples of Existing Pygames\u00a0</p> <p>\u2022\u00a0The Anatomy of a Game\u00a0</p> <p>\u2022 Resources for Starting your next Game Development Project \u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225577924/", 
             "group": {
@@ -326,7 +139,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1444861800000, 
-            "updated": 1444587588000, 
+            "updated": 1444809835000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2000 Duke Street", 
@@ -419,7 +232,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1442946028000, 
@@ -457,7 +270,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1427088126000, 
@@ -920,7 +733,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1439487723000, 
@@ -1114,7 +927,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1444411198000, 
@@ -1264,7 +1077,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
@@ -1303,7 +1116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1443771376000, 
@@ -1369,7 +1182,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1441299586000, 
