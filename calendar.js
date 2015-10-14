@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "announced": false, 
@@ -101,17 +101,18 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1444861800000, 
-            "updated": 1444153172000, 
+            "updated": 1444834998000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1445 New York Ave Nw Ste 200", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
-                "country": "US", 
-                "id": 23972349, 
-                "lat": 38.899033000000003, 
-                "lon": -77.032982000000004, 
-                "name": "LivingSocial, Inc", 
-                "repinned": false
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -232,7 +233,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1442946028000, 
@@ -270,7 +271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1427088126000, 
@@ -339,7 +340,7 @@ calendar({
         }, 
         {
             "created": 1444346540000, 
-            "description": "<p>For this Maptime, we'll be going back to the basics of cartography by looking at maps scattered throughout Wikipedia and ones that have been cataloged by the FixWikiMaps Project (@fixwikimaps). We'll also be talking more about what the FixWikiMaps Project is, how it was started, and how you can get involved!</p>", 
+            "description": "<p>For this Maptime, we'll be going back to the basics of cartography by looking at maps scattered throughout Wikipedia and ones that have been cataloged by the FixWikiMaps Project (@fixwikimaps). We'll also be talking more about what the FixWikiMaps Project is, how it was started, and how you can get involved!</p> <p>As always, beginners are super encouraged. Be sure to bring a laptop!</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/225933055/", 
             "group": {
                 "created": 1399208438000, 
@@ -358,7 +359,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1445380200000, 
-            "updated": 1444346540000, 
+            "updated": 1444838736000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -396,16 +397,16 @@ calendar({
             "name": "Next Step tutorial sessions/project", 
             "status": "upcoming", 
             "time": 1445466600000, 
-            "updated": 1444153280000, 
+            "updated": 1444835086000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
+                "address_1": "1445 New York Ave NW 1st floor conference room", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
+                "id": 24151234, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "Living Social", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -516,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1443454116000, 
@@ -554,7 +555,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1442174254000, 
@@ -733,7 +734,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1439487723000, 
@@ -887,7 +888,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 221
+            "yes_rsvp_count": 224
         }, 
         {
             "created": 1444672805000, 
@@ -1116,7 +1117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1443771376000, 
@@ -1379,7 +1380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1422815587000, 
@@ -1531,7 +1532,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1439487723000, 
