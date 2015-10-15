@@ -67,9 +67,10 @@ calendar({
             "id": "226063851", 
             "maybe_rsvp_count": 0, 
             "name": "Intermediate HTML/CSS Overflow", 
+            "rsvp_limit": 3, 
             "status": "upcoming", 
             "time": 1444950000000, 
-            "updated": 1444856378000, 
+            "updated": 1444928643000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Virtual (Google Hangouts)", 
@@ -84,7 +85,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1444679373000, 
@@ -123,7 +124,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1442946028000, 
@@ -199,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1442950341000, 
@@ -218,11 +219,11 @@ calendar({
             "headcount": 0, 
             "id": "rsmxklytnbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
+            "name": "Android - Study Group", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1445380200000, 
-            "updated": 1442950360000, 
+            "updated": 1444913578000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -340,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1442950567000, 
@@ -379,7 +380,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1443214684000, 
@@ -418,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1443454116000, 
@@ -456,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1442174254000, 
@@ -538,7 +539,7 @@ calendar({
         }, 
         {
             "created": 1442950341000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p>We will set up stations according to level of experience and provide you with recommended resources to work through as a group. \u00a0You will be able to ask your fellow coders questions and help each other work through issues. \u00a0We encourage any advanced Android developers and enthusiasts to come and help others! \u00a0There will also be at least one mentor present to help you with best practices or guide you if you are stuck with a problem!</p> <p><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p><b>This night we will be joining DC android's meetup, please RSVP to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"><a href=\"http://www.meetup.com/DCAndroid/events/225802229/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/225802229/</a></a></b></p> <p><b>\"\"Fast Paced Introduction to Android Internals\". \u00a0The presentation will cover:\u00a0</b></p> <p>- Getting source<br/>- Build system<br/>- Source folder structure<br/>- Zygote/system server<br/>- Bootup process<br/>- Integration with recovery img<br/>- AOSP integration with baseband<br/>- Framework internals<br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226005450/", 
             "group": {
                 "created": 1395616294000, 
@@ -553,11 +554,11 @@ calendar({
             "headcount": 0, 
             "id": "rsmxklytnbkc", 
             "maybe_rsvp_count": 0, 
-            "name": "Android - Hack Night", 
+            "name": "Android - Joint Meetup with DC Android", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1445985000000, 
-            "updated": 1442950360000, 
+            "updated": 1444914063000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -789,7 +790,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 225
+            "yes_rsvp_count": 230
         }, 
         {
             "created": 1444672805000, 
@@ -866,7 +867,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1440087572000, 
@@ -1018,7 +1019,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1443771376000, 
