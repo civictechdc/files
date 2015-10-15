@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 74
         }, 
         {
             "announced": false, 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1441653193000, 
@@ -194,7 +194,52 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
+        }, 
+        {
+            "created": 1444856378000, 
+            "description": "<p>This is to sign-up if you want the video from the first class and to attend the second Intermediate HTML/CSS course.\u00a0</p> <p>Class details are here -\u00a0<a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\"><a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\" class=\"linkified\">http://www.meetup.com/Girl-Develop-It-DC/events/225425768/</a></a></p>", 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/226063851/", 
+            "fee": {
+                "accepts": "wepay", 
+                "amount": 15, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "226063851", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intermediate HTML/CSS Overflow", 
+            "status": "upcoming", 
+            "time": 1444950000000, 
+            "updated": 1444856378000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Virtual (Google Hangouts)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23694109, 
+                "lat": 38.875359000000003, 
+                "lon": -76.994972000000004, 
+                "name": "Virtual (Google Hangouts)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1444679373000, 
@@ -233,7 +278,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1442946028000, 
@@ -271,7 +316,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1427088126000, 
@@ -309,7 +354,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1442950341000, 
@@ -374,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1439487723000, 
@@ -517,7 +562,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1443454116000, 
@@ -660,7 +705,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1441688777000, 
@@ -734,7 +779,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1439487723000, 
@@ -1078,7 +1123,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1417881835000, 
@@ -1117,7 +1162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1443771376000, 
@@ -1267,7 +1312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1439487723000, 
@@ -1380,7 +1425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1422815587000, 
@@ -1645,7 +1690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1443771281000, 
