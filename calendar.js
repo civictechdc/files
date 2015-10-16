@@ -37,56 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }
     ], 
     "other": [
-        {
-            "created": 1444856378000, 
-            "description": "<p>This is to sign-up if you want the video from the first class and to attend the second Intermediate HTML/CSS course.\u00a0</p> <p>Class details are here -\u00a0<a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\"><a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\" class=\"linkified\">http://www.meetup.com/Girl-Develop-It-DC/events/225425768/</a></a></p>", 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/226063851/", 
-            "fee": {
-                "accepts": "wepay", 
-                "amount": 15, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "226063851", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intermediate HTML/CSS Overflow", 
-            "rsvp_limit": 3, 
-            "status": "upcoming", 
-            "time": 1444950000000, 
-            "updated": 1444928643000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Virtual (Google Hangouts)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23694109, 
-                "lat": 38.875359000000003, 
-                "lon": -76.994972000000004, 
-                "name": "Virtual (Google Hangouts)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 3
-        }, 
         {
             "created": 1444679373000, 
             "description": "<p>Join us for a special Code &amp; Coffee, as part of\u00a0<a href=\"http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p> <p><br/>Please RSVP here:\u00a0<a href=\"https://nvite.com/tourdecode/acc8\"><a href=\"https://nvite.com/tourdecode/acc8\" class=\"linkified\">https://nvite.com/tourdecode/acc8</a></a></p> <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun, informal way to learn, code and work on projects with other members in the community. From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are open to all women or those who support women and minorities in tech. Beginners welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors, no agenda, no lesson plan. These events are very informal so ladies will usually bring their own projects or meet people who are working on similar projects to collaborate together. If you're a beginner we recommend some online tutorials like Code Academy or General Assembly Dash. The hope is that you will find ladies who are learning similar coding languages and projects to work with or ask questions.</p> <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance. This is important. : ) You can only access our office through the alley behind 14th, not from out front. The best way to get to us is to go to the corner of 14th and R, walk west on R and then north up the alley. You'll see our sign from R St and we're in a blue garage with glass doors.</p> <p>We have bike parking inside!</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC, @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out their individual pages for resources and more events throughout the month!</p>", 
@@ -128,7 +82,7 @@ calendar({
         }, 
         {
             "created": 1442946028000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.zugaldia.net/\">Antonio Zugaldia</a>\u00a0will show how he made his\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\">Capital Bikeshare for Wear</a>\u00a0app (Android\u00a0smartwatches).\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital Bikeshare.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0Harley Cooper of <a href=\"http://www.foursquareitp.com/\">Foursquare</a> will show how she analyzed data and made maps for the\u00a0<a href=\"http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\">CaBi Development Plan</a>.</p> <p><br/>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read about CaBiHackNight\u00a0<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\">I</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\">II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\">III</a> to get an idea of how it works. Doors open at 6:00;\u00a0presentations start at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \u00a0</p> <p>If you have a cool CaBi project and would like to join the show &amp; tell, please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. So far our\u00a0speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\u00a0will show his app that predicts the\u00a0likelihood\u00a0of finding\u00a0a full or empty station.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed between bike stations.</p> <p><br/>\u2022\u00a0<a href=\"http://nicostaple.com/\">Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\">\u00a0CaBi app</a>\u00a0that shows dock statuses.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/MattCaywood\">Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>, sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\">his study</a> of how long you should wait at empty/full bikeshare stations.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/malyndacf\">Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system into <a href=\"https://chrome.google.com/webstore/detail/cabibrags/gofalhmhcjkjibbjekigfakdfjiamfnl\">CaBiBrags</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/azarstweets\">Mike Azar</a> will show how he made bike\u00a0W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\">a star</a>.</p> <p>\u2022\u00a0Harley Cooper of <a href=\"http://www.foursquareitp.com/\">Foursquare</a> will show how she analyzed data and made maps for the\u00a0<a href=\"http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\">CaBi Development Plan</a>.</p> <p><br/>1776CC has two\u00a0<a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\u00a0stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro station</a> on the Yellow and Blue lines. The building has\u00a0underground parking (park in the green zone);\u00a0free if you enter the garage after 4pm. The neighborhood has more\u00a0<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\">free parking</a>.</p> <p>This event is possible thanks to generous support from our sponsors. Thank you to\u00a0<a href=\"http://www.1776.vc/\">1776</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for the space, the\u00a0<a href=\"http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\u00a0for the beverages, and Mobility Lab for the food and help with organizing.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/225539297/", 
             "group": {
                 "created": 1384372275000, 
@@ -147,7 +101,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1445292000000, 
-            "updated": 1444750767000, 
+            "updated": 1444966082000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -200,7 +154,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1442950341000, 
@@ -227,7 +181,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1444346540000, 
@@ -380,7 +334,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1443214684000, 
@@ -457,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1442174254000, 

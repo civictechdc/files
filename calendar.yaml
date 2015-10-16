@@ -38,35 +38,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 other:
-- created: 1444856378000
-  description: "<p>This is to sign-up if you want the video from the first class and\
-    \ to attend the second Intermediate HTML/CSS course.\_</p> <p>Class details are\
-    \ here -\_<a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\"\
-    ><a href=\"http://www.meetup.com/Girl-Develop-It-DC/events/225425768/\" class=\"\
-    linkified\">http://www.meetup.com/Girl-Develop-It-DC/events/225425768/</a></a></p>"
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/226063851/
-  fee: {accepts: wepay, amount: 15, currency: USD, description: per person, label: Price,
-    required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '226063851'
-  maybe_rsvp_count: 0
-  name: Intermediate HTML/CSS Overflow
-  rsvp_limit: 3
-  status: upcoming
-  time: 1444950000000
-  updated: 1444928643000
-  utc_offset: -14400000
-  venue: {address_1: Virtual (Google Hangouts), city: Washington, country: us, id: 23694109,
-    lat: 38.875359000000003, lon: -76.994972000000004, name: Virtual (Google Hangouts),
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 3
 - created: 1444679373000
   description: "<p>Join us for a special Code &amp; Coffee, as part of\_<a href=\"\
     http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p>\
@@ -119,23 +92,21 @@ other:
     \ at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \_</p>\
     \ <p>If you have a cool CaBi project and would like to join the show &amp; tell,\
     \ please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"http://www.zugaldia.net/\"\
-    >Antonio Zugaldia</a>\_will show how he made his\_<a href=\"https://play.google.com/store/apps/details?id=com.zugaldia.capitalbikeshare\"\
-    >Capital Bikeshare for Wear</a>\_app (Android\_smartwatches).\_</p> <p>\u2022\_\
-    <a href=\"http://www.mattficke.com/\">Matthew Ficke</a>\_will show his app that\
-    \ predicts the\_likelihood\_of finding\_a full or empty station.\_</p> <p>\u2022\
-    \_<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a> will show us\
-    \ a way to calculate the amount of rebalancing needed between bike stations.</p>\
-    \ <p><br/>\u2022\_<a href=\"http://nicostaple.com/\">Nico Staple</a> will show\
-    \ how he made a<a href=\"http://cabi.nicostaple.com/\">\_CaBi app</a>\_that shows\
-    \ dock statuses.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
+    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"http://www.mattficke.com/\"\
+    >Matthew Ficke</a>\_will show his app that predicts the\_likelihood\_of finding\_\
+    a full or empty station.\_</p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory/\"\
+    >Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed\
+    \ between bike stations.</p> <p><br/>\u2022\_<a href=\"http://nicostaple.com/\"\
+    >Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\"\
+    >\_CaBi app</a>\_that shows dock statuses.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
     >Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>,\
     \ sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\"\
     >his study</a> of how long you should wait at empty/full bikeshare stations.\_\
     </p> <p><br/>\u2022\_<a href=\"https://twitter.com/malyndacf\">Malynda Chizek\
-    \ Frouard </a>will show how she adapted Chicago's DivvyBrags system for Capital\
-    \ Bikeshare.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/azarstweets\">Mike\
-    \ Azar</a> will show how he made bike\_W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\"\
+    \ Frouard </a>will show how she adapted Chicago's DivvyBrags system into <a href=\"\
+    https://chrome.google.com/webstore/detail/cabibrags/gofalhmhcjkjibbjekigfakdfjiamfnl\"\
+    >CaBiBrags</a>.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/azarstweets\"\
+    >Mike Azar</a> will show how he made bike\_W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\"\
     >a star</a>.</p> <p>\u2022\_Harley Cooper of <a href=\"http://www.foursquareitp.com/\"\
     >Foursquare</a> will show how she analyzed data and made maps for the\_<a href=\"\
     http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\"\
@@ -164,7 +135,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1445292000000
-  updated: 1444750767000
+  updated: 1444966082000
   utc_offset: -14400000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
     lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
@@ -218,7 +189,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -259,7 +230,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1444346540000
   description: <p>For this Maptime, we'll be going back to the basics of cartography
     by looking at maps scattered throughout Wikipedia and ones that have been cataloged
@@ -419,7 +390,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
     \ month incubator to turn theory into practice on projects spanning health, economics,\
@@ -512,7 +483,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 85
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\

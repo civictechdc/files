@@ -1460,11 +1460,11 @@
             0, 
             1, 
             0, 
-            0, 
             1, 
             0, 
-            2, 
-            1, 
+            0, 
+            3, 
+            0, 
             0, 
             8, 
             0, 
@@ -1473,8 +1473,8 @@
             0, 
             0, 
             10, 
-            9, 
-            12, 
+            13, 
+            8, 
             4, 
             0, 
             3, 
@@ -1506,8 +1506,8 @@
             0, 
             0, 
             0, 
-            0, 
-            1
+            1, 
+            0
         ], 
         "civic_json": {
             "bornAt": "Lee's apartment", 
@@ -3399,7 +3399,7 @@
             {
                 "assignee": null, 
                 "body": "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible for us to do?", 
-                "comments": 13, 
+                "comments": 14, 
                 "created_at": "2015-09-21T01:47:17Z", 
                 "issue": "Look into automatic eligibility checker that uses PHP", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/165", 
@@ -3422,7 +3422,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-10-15T23:49:28Z"
+                "updated_at": "2015-10-16T00:26:32Z"
             }, 
             {
                 "assignee": null, 
