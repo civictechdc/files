@@ -81,7 +81,7 @@ other:
     id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -219,7 +219,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -468,7 +468,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -945,7 +945,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 238
+  yes_rsvp_count: 240
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -1325,7 +1325,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 38
+  waitlist_count: 40
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -1486,6 +1486,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 67
+- created: 1445046087000
+  description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
+    \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
+    \ Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\"\
+    \ class=\"linkified\">https://www.ncwit.org/</a>).</p> <p>At this event, we will\
+    \ also be joined by panel members Lilibeth Gangas,\_Innovation Strategist at Booz\
+    \ Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media\
+    \ at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"\
+    http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p>\
+    \ <p><br/>The purpose of this event is to highlight the importance of mentoring\
+    \ for women in technology and give women an opportunity to share their own experiences\
+    \ of mentoring and being mentored, as well as to ask questions about the process.</p>\
+    \ <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent\
+    \ months focused on aspects of mentoring, with an aim to facilitate the continuing\
+    \ professional development of women within our organization and in the tech community\
+    \ at large.</p> <p><br/>Keynote Speaker:</p> <p>Lucy Sanders, CEO and Founder\
+    \ of the National Center for Women and Information Technology (NCWiT)</p> <p>Panel\
+    \ Members:</p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p>\
+    \ <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's\
+    \ Media Center (WMC) and Founder of Digital Sisters (DS)</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226117092/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '226117092'
+  maybe_rsvp_count: 0
+  name: Mentoring Program Launch
+  rsvp_limit: 100
+  status: upcoming
+  time: 1447624800000
+  updated: 1445049347000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th Street, NW Suite 200. ', city: Washington, country: us,
+    id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
+      Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
