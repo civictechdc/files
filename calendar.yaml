@@ -81,7 +81,7 @@ other:
     id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -189,7 +189,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 17
 - created: 1445003539000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -219,7 +219,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -285,7 +285,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -335,7 +335,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1442950567000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -416,7 +416,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 82
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -461,7 +461,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 97
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -916,7 +916,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -1047,7 +1047,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 100
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1203,7 +1203,7 @@ other:
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1319,7 +1319,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
