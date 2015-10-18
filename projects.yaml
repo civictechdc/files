@@ -108,8 +108,8 @@
   size: 23105
   updated_at: '2015-10-15T13:27:02Z'
   watchers: 26
-- activity: [6, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0, 1, 4, 0, 2,
-    6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [5, 2, 2, 5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 3, 5, 0, 1, 4, 0, 8,
+    0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -666,9 +666,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 6,
-    0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2,
-    2, 2, 1]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 4, 2,
+    0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 4, 2, 3,
+    1, 2, 1]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 34,
@@ -809,7 +809,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 10, 81, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+- activity: [0, 16, 75, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -887,8 +887,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 11, 2, 5, 0, 0,
-    0, 0, 0, 0, 26, 39, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 11, 2, 5, 0, 0,
+    0, 0, 0, 0, 43, 22, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 7, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
     bornAt: ''
@@ -936,8 +936,8 @@
   size: 565
   updated_at: '2015-09-28T21:11:59Z'
   watchers: 7
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 38, 66, 16, 52,
-    45, 6, 2, 1, 0, 6, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 4,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 32, 70, 16, 64,
+    33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -981,7 +981,7 @@
   size: 4204
   updated_at: '2015-08-11T21:00:15Z'
   watchers: 14
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 10, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 24, 2, 1, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1245,8 +1245,8 @@
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 95, 57, 7, 4, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -1340,18 +1340,17 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 17, 15, 4, 0, 0, 0,
-    0, 0, 0, 1]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 23, 12, 1, 0, 0, 0,
+    0, 0, 0, 5]
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 53,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 57,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   contributors_count: 1
   created_at: '2015-07-29T18:49:22Z'
   default_branch: gh-pages
-  description: Batch geocode locations in DC (street addresses, blocks, intersections,
-    place names, AIDs) and get other relevant info (e.g. Ward, ANC, residence type,
-    etc.)
+  description: 'Batch process locations in DC to get relevant geographic info: geo-coordinates,
+    ward, ANC, residence type, etc. Uses the DC Master Address Repository.'
   forks: 0
   help_wanted: []
   homepage: http://emanuelfeld.github.io/mardc
@@ -1359,7 +1358,7 @@
   id: 39910468
   languages:
   - [JavaScript, 10662]
-  - [HTML, 8898]
+  - [HTML, 9617]
   - [CSS, 5318]
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
@@ -1367,9 +1366,9 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-10-17T17:59:02Z'
+  pushed_at: '2015-10-17T19:28:25Z'
   size: 404
-  updated_at: '2015-10-17T17:12:26Z'
+  updated_at: '2015-10-17T18:47:50Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0,
