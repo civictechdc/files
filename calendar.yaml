@@ -40,48 +40,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 25
 other:
-- created: 1444679373000
-  description: "<p>Join us for a special Code &amp; Coffee, as part of\_<a href=\"\
-    http://dcfemtech.github.io/tourdecode.html\">DCFemTech's Tour de Code</a>!</p>\
-    \ <p><br/>Please RSVP here:\_<a href=\"https://nvite.com/tourdecode/acc8\"><a\
-    \ href=\"https://nvite.com/tourdecode/acc8\" class=\"linkified\">https://nvite.com/tourdecode/acc8</a></a></p>\
-    \ <p>Code &amp; Coffees are hosted bi-weekly. BYO-Projects and laptops for a fun,\
-    \ informal way to learn, code and work on projects with other members in the community.\
-    \ From Ruby on Rails to Javascript to CodeAcademy and HTML/CSS, these events are\
-    \ open to all women or those who support women and minorities in tech. Beginners\
-    \ welcome!</p> <p>Code &amp; Coffees are not coding workshops. No instructors,\
-    \ no agenda, no lesson plan. These events are very informal so ladies will usually\
-    \ bring their own projects or meet people who are working on similar projects\
-    \ to collaborate together. If you're a beginner we recommend some online tutorials\
-    \ like Code Academy or General Assembly Dash. The hope is that you will find ladies\
-    \ who are learning similar coding languages and projects to work with or ask questions.</p>\
-    \ <p>Finding the building: The Mapbox Garage is at[masked]th St. Rear Entrance.\
-    \ This is important. : ) You can only access our office through the alley behind\
-    \ 14th, not from out front. The best way to get to us is to go to the corner of\
-    \ 14th and R, walk west on R and then north up the alley. You'll see our sign\
-    \ from R St and we're in a blue garage with glass doors.</p> <p>We have bike parking\
-    \ inside!</p> <p>Code &amp; Coffees are sponsored by @DCfemtech, @WomenWhoCodeDC,\
-    \ @LadiesWhoCode DC, @RailsGirlsDC, @GirlDevelopItDC and @PyLadiesDC. Check out\
-    \ their individual pages for resources and more events throughout the month!</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226012948/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: 1714 14th St NW, Washington, DC, Washington, DC
-  id: '226012948'
-  maybe_rsvp_count: 0
-  name: Code & Coffee @ Mapbox Garage
-  status: upcoming
-  time: 1445191200000
-  updated: 1444698469000
-  utc_offset: -14400000
-  venue: {address_1: '1714 14th St NW, Washington, DC', city: Washington, country: us,
-    id: 24037811, lat: 0, lon: 0, name: Mapbox Garage, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 44
 - created: 1442946028000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
@@ -92,26 +50,28 @@ other:
     \ at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \_</p>\
     \ <p>If you have a cool CaBi project and would like to join the show &amp; tell,\
     \ please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"http://www.mattficke.com/\"\
-    >Matthew Ficke</a>\_will show his app that predicts the\_likelihood\_of finding\_\
-    a full or empty station.\_</p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory/\"\
-    >Anna Petrone</a> will show us a way to calculate the amount of rebalancing needed\
-    \ between bike stations.</p> <p><br/>\u2022\_<a href=\"http://nicostaple.com/\"\
-    >Nico Staple</a> will show how he made a<a href=\"http://cabi.nicostaple.com/\"\
-    >\_CaBi app</a>\_that shows dock statuses.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
-    >Matt Caywood</a> of <a href=\"http://transitscreen.com/\">TransitScreen</a>,\
-    \ sharing <a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\"\
-    >his study</a> of how long you should wait at empty/full bikeshare stations.\_\
-    </p> <p><br/>\u2022\_<a href=\"https://twitter.com/malyndacf\">Malynda Chizek\
-    \ Frouard </a>will show how she adapted Chicago's DivvyBrags system into <a href=\"\
-    https://chrome.google.com/webstore/detail/cabibrags/gofalhmhcjkjibbjekigfakdfjiamfnl\"\
+    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
+    >Matt Caywood</a>\_of\_<a href=\"http://transitscreen.com/\">TransitScreen</a>,\
+    \ sharing\_<a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\"\
+    >his study</a>\_of how long you should wait at empty/full bikeshare stations.\_\
+    </p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a>\_\
+    will show us a way to calculate the amount of rebalancing needed between bike\
+    \ stations.\_</p> <p><br/>\u2022\_<a href=\"http://www.mattficke.com/\">Matthew\
+    \ Ficke</a>\_will show his app that predicts the\_likelihood\_of finding\_a full\
+    \ or empty station.\_</p> <p>\u2022\_<a href=\"http://nicostaple.com/\">Nico Staple</a>\
+    \ will show how he made a<a href=\"http://cabi.nicostaple.com/\">\_CaBi app</a>\_\
+    that shows dock statuses.\_</p> <p>\u2022\_<a href=\"https://twitter.com/malyndacf\"\
+    >Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system\
+    \ into <a href=\"https://chrome.google.com/webstore/detail/cabibrags/gofalhmhcjkjibbjekigfakdfjiamfnl\"\
     >CaBiBrags</a>.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/azarstweets\"\
     >Mike Azar</a> will show how he made bike\_W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\"\
     >a star</a>.</p> <p>\u2022\_Harley Cooper will show how <a href=\"http://www.foursquareitp.com/\"\
     >Foursquare ITP</a>\_used CaBi trip data to develop a policy framework and expansion\
     \ plan in the\_<a href=\"http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\"\
-    >CaBi Development Plan</a>.\_</p> <p><br/>1776CC has two\_<a href=\"http://www.capitalbikeshare.com/\"\
-    >bikeshare</a>\_stations nearby, and is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\"\
+    >CaBi Development Plan</a>.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/mvs202\"\
+    >Michael Schade</a> will show how he animated CaBi data.</p> <p>1776CC has two\_\
+    <a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\_stations nearby, and\
+    \ is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\"\
     >Crystal City Metro station</a> on the Yellow and Blue lines. The building has\_\
     underground parking (park in the green zone);\_free if you enter the garage after\
     \ 4pm. The neighborhood has more\_<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\"\
@@ -135,14 +95,14 @@ other:
   rsvp_limit: 150
   status: upcoming
   time: 1445292000000
-  updated: 1445009184000
+  updated: 1445208133000
   utc_offset: -14400000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
     lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 126
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -189,7 +149,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1445003539000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -219,7 +179,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -285,7 +245,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -335,7 +295,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1442950567000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -416,7 +376,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 86
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -461,7 +421,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 103
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -699,7 +659,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -783,7 +743,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 3
 - created: 1443808609000
   description: "<p>For our October Data Science DC Meetup, we're talking about the\
     \ World Series. No, not that World Series* -- time-series data about the world!\
@@ -842,7 +802,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 244
+  yes_rsvp_count: 246
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -1047,7 +1007,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 101
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1086,7 +1046,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -1171,7 +1131,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 42
+  waitlist_count: 43
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -1279,7 +1239,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -1461,7 +1421,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
