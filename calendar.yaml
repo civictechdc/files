@@ -102,7 +102,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 127
+  yes_rsvp_count: 130
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -149,7 +149,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 - created: 1445003539000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -179,7 +179,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 22
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -244,7 +244,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 2
   yes_rsvp_count: 50
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -295,7 +295,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1442950567000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -328,7 +328,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 25
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
     \ month incubator to turn theory into practice on projects spanning health, economics,\
@@ -376,7 +376,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 89
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -421,7 +421,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 105
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -498,7 +498,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1442950341000
   description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
     \ to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"\
@@ -535,7 +535,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1441688777000
   description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
     >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
@@ -603,7 +603,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -659,7 +659,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1007,7 +1007,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 100
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1131,7 +1131,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 45
+  waitlist_count: 48
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -1163,7 +1163,7 @@ other:
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1244,22 +1244,32 @@ other:
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
     \ Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\"\
-    \ class=\"linkified\">https://www.ncwit.org/</a>).</p> <p>At this event, we will\
-    \ also be joined by panel members Lilibeth Gangas,\_Innovation Strategist at Booz\
-    \ Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media\
-    \ at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"\
-    http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p>\
-    \ <p><br/>The purpose of this event is to highlight the importance of mentoring\
-    \ for women in technology and give women an opportunity to share their own experiences\
-    \ of mentoring and being mentored, as well as to ask questions about the process.</p>\
-    \ <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent\
-    \ months focused on aspects of mentoring, with an aim to facilitate the continuing\
-    \ professional development of women within our organization and in the tech community\
-    \ at large.</p> <p><br/>Keynote Speaker:</p> <p>Lucy Sanders, CEO and Founder\
-    \ of the National Center for Women and Information Technology (NCWiT)</p> <p>Panel\
-    \ Members:</p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p>\
+    \ class=\"linkified\">https://www.ncwit.org/</a>).\_ You can read more about the\
+    \ plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"\
+    ><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"\
+    \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p>\
+    \ <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\_\
+    Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of\
+    \ Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of\
+    \ Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\"\
+    >http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is\
+    \ to highlight the importance of mentoring for women in technology and give women\
+    \ an opportunity to share their own experiences of mentoring and being mentored,\
+    \ as well as to ask questions about the process.</p> <p>This is our \"kickoff\"\
+    \ event and we will be having follow-up events in subsequent months focused on\
+    \ aspects of mentoring, with an aim to facilitate the continuing professional\
+    \ development of women within our organization and in the tech community at large.</p>\
+    \ <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the\
+    \ National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel\
+    \ Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p>\
     \ <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's\
-    \ Media Center (WMC) and Founder of Digital Sisters (DS)</p>"
+    \ Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for\
+    \ the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Networking</p> <p>5:15-5:30\
+    \ p.m.--Introductions</p> <p>5:30-6:00 p.m.--Keynote address by Lucy Sanders</p>\
+    \ <p>6:00-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00\
+    \ p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people\
+    \ of all genders, as we recognize that it requires an integrated tech community\
+    \ to provide a supportive mentoring environment.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226117092/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1272,14 +1282,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1447624800000
-  updated: 1445086708000
+  updated: 1445262087000
   utc_offset: -18000000
   venue: {address_1: '419 7th Street, NW Suite 200. ', city: Washington, country: us,
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 46
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\

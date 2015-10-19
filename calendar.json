@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1427088126000, 
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1445003539000, 
@@ -155,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1442950341000, 
@@ -219,7 +219,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -258,7 +258,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1442950567000, 
@@ -297,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1443214684000, 
@@ -336,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1443454116000, 
@@ -374,7 +374,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1442174254000, 
@@ -452,7 +452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1442950341000, 
@@ -479,7 +479,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441688777000, 
@@ -516,7 +516,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1443151352000, 
@@ -553,7 +553,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1442950567000, 
@@ -861,7 +861,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1443771376000, 
@@ -1012,7 +1012,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 45, 
+            "waitlist_count": 48, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -1051,7 +1051,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1441653193000, 
@@ -1130,7 +1130,7 @@
         }, 
         {
             "created": 1445046087000, 
-            "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).</p> <p>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/>Keynote Speaker:</p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p>Panel Members:</p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p>", 
+            "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Networking</p> <p>5:15-5:30 p.m.--Introductions</p> <p>5:30-6:00 p.m.--Keynote address by Lucy Sanders</p> <p>6:00-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226117092/", 
             "group": {
@@ -1150,7 +1150,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1447624800000, 
-            "updated": 1445086708000, 
+            "updated": 1445262087000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th Street, NW Suite 200. ", 
@@ -1165,7 +1165,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1422815587000, 
