@@ -38,7 +38,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 other:
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -105,7 +105,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 54
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -188,7 +188,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 34
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
     \ month incubator to turn theory into practice on projects spanning health, economics,\
@@ -236,7 +236,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -281,7 +281,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 109
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -519,7 +519,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 82
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -662,7 +662,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 252
+  yes_rsvp_count: 255
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -783,6 +783,49 @@ other:
   visibility: public
   waitlist_count: 8
   yes_rsvp_count: 3
+- created: 1445264010000
+  description: "<p>WWC would like to introduce *Stephanie Lampkin*, genius founder\
+    \ of 'Blendoor' on a mission to bring diversity into tech.</p> <p><b>About Stephanie\
+    \ and Blendoor</b></p> <p>\u2022\_Blendoor is a mobile job matching app that helps\
+    \ connect tech companies to qualified women, veteran and underrepresented minority\
+    \ candidates.</p> <p>\u2022\_Blendoor uses MEAN stack w/Ionic Framework &amp;\
+    \ Cordova.</p> <p>\u2022 Stephanie\_previously founded Hoowenware, was selected\
+    \ to attend the first-ever Demo Day held at the White House in August and she\
+    \ recently won Tech Cocktail's Startup of the Year!</p> <p><b>Event Details</b></p>\
+    \ <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200B\
+    </i>Diversity in Tech:\_unconscious bias in\_recruitment, gender\_imbalance,\_\
+    minority imbalance</p> <p>Starting a company: fundraising, hiring and/or finding\
+    \ the right people to work with, customer acquisition, revenue models, on being\
+    \ a founder and a CTO, obstacles encountered in starting a company, on dealing\
+    \ with unconscious bias as a woman in the startup world</p> <p>Software Development:\
+    \ learning to code, mobile development (Ionic Framework)</p> <p><b>How do I sign\
+    \ up?</b></p> <p>1). Request to join our Slack channel:\_<a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>2). Join the #ama channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/t476q\"\
+    \ class=\"linkified\">http://ctt.ec/t476q</a>) and show support!</p> <p><b>Schedule</b></p>\
+    \ <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking\
+    \ your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final\
+    \ questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this\
+    \ period Laura will answer your questions. Members are welcome to post questions\
+    \ at any point during the AMA from Wednesday to Thursday 9:00pm EST.\_</p> <p><br/><b>This\
+    \ event is for everyone: beginners, professional developers and entrepreneurs.\
+    \ Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>"
+  duration: 180000000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226160835/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '226160835'
+  maybe_rsvp_count: 0
+  name: Ask Me Anything! with Stephanie Lampkin (Founder of Blendoor)
+  status: upcoming
+  time: 1446656400000
+  updated: 1445346423000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 12
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -867,7 +910,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1099,7 +1142,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -1129,7 +1172,8 @@ other:
     \ <p>6:00-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00\
     \ p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people\
     \ of all genders, as we recognize that it requires an integrated tech community\
-    \ to provide a supportive mentoring environment.</p>"
+    \ to provide a supportive mentoring environment.\_ In other words, men are welcome\
+    \ to attend!</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226117092/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1142,14 +1186,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1447624800000
-  updated: 1445262087000
+  updated: 1445352007000
   utc_offset: -18000000
   venue: {address_1: '419 7th Street, NW Suite 200. ', city: Washington, country: us,
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 61
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1187,7 +1231,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1326,7 +1370,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/

@@ -3394,12 +3394,12 @@
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 29, 
+        "forks": 28, 
         "help_wanted": [
             {
                 "assignee": null, 
                 "body": "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible for us to do?", 
-                "comments": 16, 
+                "comments": 18, 
                 "created_at": "2015-09-21T01:47:17Z", 
                 "issue": "Look into automatic eligibility checker that uses PHP", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/165", 
@@ -3422,7 +3422,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-10-19T20:04:16Z"
+                "updated_at": "2015-10-20T16:21:11Z"
             }, 
             {
                 "assignee": null, 
