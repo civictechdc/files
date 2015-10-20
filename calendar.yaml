@@ -40,146 +40,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 28
 other:
-- created: 1442946028000
-  description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
-    \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. Read\
-    \ about CaBiHackNight\_<a href=\"http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/\"\
-    >I</a>\_and\_<a href=\"http://mobilitylab.org/2014/08/11/cabi-hack-night-2-brings-out-nerds-who-love-bikesharing/\"\
-    >II</a>\_and <a href=\"http://www.meetup.com/Transportation-Techies/events/200661602/\"\
-    >III</a> to get an idea of how it works. Doors open at 6:00;\_presentations start\
-    \ at 6:30. Note we are at 1776's Crystal City location, in Arlington, VA. \_</p>\
-    \ <p>If you have a cool CaBi project and would like to join the show &amp; tell,\
-    \ please contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>. So far our\_speakers are:</p> <p>\u2022\_<a href=\"https://twitter.com/MattCaywood\"\
-    >Matt Caywood</a>\_of\_<a href=\"http://transitscreen.com/\">TransitScreen</a>,\
-    \ sharing\_<a href=\"http://greatergreaterwashington.org/post/27555/empty-bikeshare-stations-dont-always-mean-long-waits/\"\
-    >his study</a>\_of how long you should wait at empty/full bikeshare stations.\_\
-    </p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory/\">Anna Petrone</a>\_\
-    will show us a way to calculate the amount of rebalancing needed between bike\
-    \ stations.\_</p> <p><br/>\u2022\_<a href=\"http://www.mattficke.com/\">Matthew\
-    \ Ficke</a>\_will show his app that predicts the\_likelihood\_of finding\_a full\
-    \ or empty station.\_</p> <p>\u2022\_<a href=\"http://nicostaple.com/\">Nico Staple</a>\
-    \ will show how he made a<a href=\"http://cabi.nicostaple.com/\">\_CaBi app</a>\_\
-    that shows dock statuses.\_</p> <p>\u2022\_<a href=\"https://twitter.com/malyndacf\"\
-    >Malynda Chizek Frouard </a>will show how she adapted Chicago's DivvyBrags system\
-    \ into <a href=\"https://chrome.google.com/webstore/detail/cabibrags/gofalhmhcjkjibbjekigfakdfjiamfnl\"\
-    >CaBiBrags</a>.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/azarstweets\"\
-    >Mike Azar</a> will show how he made bike\_W20167 <a href=\"https://www.washingtonpost.com/express/wp/2015/04/30/meet-capital-bikeshares-hardest-working-bike/\"\
-    >a star</a>.</p> <p>\u2022\_Harley Cooper will show how <a href=\"http://www.foursquareitp.com/\"\
-    >Foursquare ITP</a>\_used CaBi trip data to develop a policy framework and expansion\
-    \ plan in the\_<a href=\"http://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Draft%20DDOT%20Bikeshare%20Development%20FINAL%20reduced.pdf\"\
-    >CaBi Development Plan</a>.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/mvs202\"\
-    >Michael Schade</a> will show how he animated CaBi data.</p> <p>1776CC has two\_\
-    <a href=\"http://www.capitalbikeshare.com/\">bikeshare</a>\_stations nearby, and\
-    \ is close to the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\"\
-    >Crystal City Metro station</a> on the Yellow and Blue lines. The building has\_\
-    underground parking (park in the green zone);\_free if you enter the garage after\
-    \ 4pm. The neighborhood has more\_<a href=\"http://www.crystalcity.org/accessible/car/parking/free-parking\"\
-    >free parking</a>.</p> <p>This event is possible thanks to generous support from\
-    \ our sponsors. Thank you to\_<a href=\"http://www.1776.vc/\">1776</a>\_and\_\
-    <a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for the space, the\_<a href=\"\
-    http://www.crystalcity.org/\">Crystal City Business Improvement District</a>\_\
-    for the beverages, and Mobility Lab for the food and help with organizing.</p>\
-    \ <p>As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
-    for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\"\
-    >#cabihacknight</a>.</p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/3/3/d/2/600_442273266.jpeg\"\
-    \ /></p>"
-  event_url: http://www.meetup.com/Transportation-Techies/events/225539297/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  id: '225539297'
-  maybe_rsvp_count: 0
-  name: CaBi Hack Night IV
-  rsvp_limit: 150
-  status: upcoming
-  time: 1445292000000
-  updated: 1445208133000
-  utc_offset: -14400000
-  venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
-    lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
-    state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 126
-- created: 1427088126000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting.\_</p> <p>There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptops</b></p> <p>In order to maximize your\
-    \ benefits from FEHN, please bring your laptop. Extra computers will not be available\
-    \ at the event.\_Even if you have never coded before, you will be coding at FEHN!</p>\
-    \ <p><b>Meetup Agenda\_</b></p> <p>Every study group will have the following format:</p>\
-    \ <p><br/>\u2022\_6:30pm - Setup</p> <p>\u2022\_6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022\_6:50 - 8:00pm - Code!</p> <p>\u2022\_8:00 - 8:15pm - Lightning Talk\
-    \ - a quick presentation or talk (if scheduled)</p> <p>\u2022\_8:15 - 8:30pm -\
-    \ Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our\
-    \ Github page -\_<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First\
-    \ Timer's Guide:\_<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\"\
-    \ class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022\
-    \ HTML Study Guide:\_<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022\
-    \ JavaScript Study Guide:\_<a href=\"http://bit.ly/js-study-guide\"><a href=\"\
-    http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p>\
-    \ <p><br/><b>Building Access</b></p> <p>Certain building management companies\
-    \ require Meetup hosts to let people in and do not encourage them being contacted.\
-    \ Please respect the policy. In case the location requires access to the building,\
-    \ contact the group lead if information is provided or drop a comment on the Meetup\
-    \ page. We'll come and get you.</p> <p><b>Welcome\_</b></p> <p>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/223779227/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rlzgglytnbzb
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  status: upcoming
-  time: 1445293800000
-  updated: 1443483482000
-  utc_offset: -14400000
-  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
-    lat: 38.903422999999997, lon: -77.021598999999995, name: ECMC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 22
-- created: 1445003539000
-  description: "<p>Interested in sharpening your coding interview skills and learning\
-    \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
-    \ The schedule will be as follows:</p> <p>6:30 -\_Arrival/Food\_</p> <p>7:00 -\
-    \ 8:15 - We'll spend the meetup working on questions in groups or individually\
-    \ and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding\
-    \ and coding on the computer so please bring a computer. You can code in the language\
-    \ of your choice!</p> <p>This event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226104074/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Call (574) 323-7240 if the door is locked outside.
-  id: '226104074'
-  maybe_rsvp_count: 0
-  name: Algorithms and Interview Prep Meetup
-  rsvp_limit: 50
-  status: upcoming
-  time: 1445293800000
-  updated: 1445003539000
-  utc_offset: -14400000
-  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
-    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
-      Technologies, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 23
 - created: 1442950341000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -220,7 +80,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1444346540000
   description: <p>For this Maptime, we'll be going back to the basics of cartography
     by looking at maps scattered throughout Wikipedia and ones that have been cataloged
@@ -245,7 +105,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -295,7 +155,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1442950567000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -328,7 +188,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
     \ month incubator to turn theory into practice on projects spanning health, economics,\
@@ -376,7 +236,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 94
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -421,7 +281,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 108
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -451,7 +311,7 @@ other:
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -498,7 +358,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 9
 - created: 1442950341000
   description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
     \ to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"\
@@ -535,7 +395,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1441688777000
   description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
     >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
@@ -659,7 +519,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -802,7 +662,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 248
+  yes_rsvp_count: 252
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -876,7 +736,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 52
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -972,7 +832,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -1131,7 +991,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 48
+  waitlist_count: 49
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -1239,7 +1099,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -1289,7 +1149,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
