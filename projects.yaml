@@ -191,7 +191,7 @@
   size: 73373
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -285,9 +285,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [2, 10, 11, 8, 12, 0, 1, 9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7, 4, 9, 3, 2,
-    9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0,
-    2, 0, 0, 3]
+- activity: [2, 10, 13, 8, 10, 0, 1, 9, 4, 0, 2, 0, 10, 0, 0, 6, 1, 7, 6, 7, 3, 2,
+    9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2, 5, 1, 0, 0, 0, 0, 0, 0, 0,
+    2, 0, 0, 4]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -305,7 +305,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 168,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 169,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -361,7 +361,7 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [HTML, 141486]
+  - [HTML, 141504]
   - [JavaScript, 28711]
   - [CSS, 26899]
   - [Ruby, 3301]
@@ -372,7 +372,7 @@
   open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-15T16:44:51Z'
+  pushed_at: '2015-10-19T18:58:59Z'
   size: 17963
   updated_at: '2015-08-26T00:23:22Z'
   watchers: 19
@@ -1107,7 +1107,7 @@
   - assignee: null
     body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
       \ for us to do?"
-    comments: 15
+    comments: 16
     created_at: '2015-09-21T01:47:17Z'
     issue: Look into automatic eligibility checker that uses PHP
     issue_url: https://github.com/codefordc/clean-slate/issues/165
@@ -1117,7 +1117,7 @@
     - {color: cc317c, name: question, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/question'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-16T15:03:19Z'
+    updated_at: '2015-10-19T20:04:16Z'
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
@@ -1189,7 +1189,7 @@
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-10-15T00:19:14Z'
-  size: 10689
+  size: 10525
   updated_at: '2015-10-15T01:40:38Z'
   watchers: 12
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 2, 19, 0, 7,

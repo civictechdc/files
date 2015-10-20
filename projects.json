@@ -598,8 +598,8 @@
             0, 
             0, 
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -882,14 +882,14 @@
         "activity": [
             2, 
             10, 
-            11, 
+            13, 
             8, 
-            12, 
+            10, 
             0, 
             1, 
             9, 
-            0, 
             4, 
+            0, 
             2, 
             0, 
             10, 
@@ -898,28 +898,28 @@
             6, 
             1, 
             7, 
-            4, 
-            9, 
-            3, 
-            2, 
-            9, 
-            1, 
-            1, 
-            0, 
-            4, 
-            3, 
-            5, 
-            1, 
-            0, 
-            2, 
-            0, 
-            0, 
-            5, 
-            1, 
-            10, 
-            10, 
-            1, 
+            6, 
             7, 
+            3, 
+            2, 
+            9, 
+            1, 
+            1, 
+            0, 
+            4, 
+            3, 
+            6, 
+            0, 
+            0, 
+            2, 
+            0, 
+            0, 
+            5, 
+            1, 
+            10, 
+            11, 
+            2, 
+            5, 
             1, 
             0, 
             0, 
@@ -931,7 +931,7 @@
             2, 
             0, 
             0, 
-            3
+            4
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -963,7 +963,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 168, 
+                "contributions": 169, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1100,7 +1100,7 @@
         "languages": [
             [
                 "HTML", 
-                141486
+                141504
             ], 
             [
                 "JavaScript", 
@@ -1134,7 +1134,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-10-15T16:44:51Z", 
+        "pushed_at": "2015-10-19T18:58:59Z", 
         "size": 17963, 
         "updated_at": "2015-08-26T00:23:22Z", 
         "watchers": 19
@@ -3399,7 +3399,7 @@
             {
                 "assignee": null, 
                 "body": "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible for us to do?", 
-                "comments": 15, 
+                "comments": 16, 
                 "created_at": "2015-09-21T01:47:17Z", 
                 "issue": "Look into automatic eligibility checker that uses PHP", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/165", 
@@ -3422,7 +3422,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-10-16T15:03:19Z"
+                "updated_at": "2015-10-19T20:04:16Z"
             }, 
             {
                 "assignee": null, 
@@ -3560,7 +3560,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-10-15T00:19:14Z", 
-        "size": 10689, 
+        "size": 10525, 
         "updated_at": "2015-10-15T01:40:38Z", 
         "watchers": 12
     }, 
