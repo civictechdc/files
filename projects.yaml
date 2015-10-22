@@ -285,9 +285,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [2, 10, 13, 14, 4, 0, 1, 9, 4, 0, 2, 1, 9, 0, 0, 6, 1, 7, 8, 7, 1, 2,
-    9, 1, 1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2,
-    0, 0, 0, 5]
+- activity: [2, 14, 7, 14, 4, 1, 0, 9, 4, 1, 1, 1, 9, 0, 2, 4, 1, 8, 8, 6, 1, 9, 2,
+    2, 0, 2, 3, 2, 6, 0, 2, 0, 0, 5, 0, 1, 20, 1, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+    0, 0, 5]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -666,9 +666,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 5, 1,
-    0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 6, 2, 1, 2, 2, 4, 1,
-    2, 2, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 1,
+    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2, 2,
+    1, 2, 0]
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 34,
@@ -936,8 +936,8 @@
   size: 565
   updated_at: '2015-09-28T21:11:59Z'
   watchers: 7
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 51, 44, 16, 83,
-    6, 2, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 61, 30, 18, 80,
+    7, 1, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4,
     0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
@@ -1107,7 +1107,7 @@
   - assignee: null
     body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
       \ for us to do?"
-    comments: 20
+    comments: 21
     created_at: '2015-09-21T01:47:17Z'
     issue: Look into automatic eligibility checker that uses PHP
     issue_url: https://github.com/codefordc/clean-slate/issues/165
@@ -1117,7 +1117,7 @@
     - {color: cc317c, name: question, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/question'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-21T21:27:07Z'
+    updated_at: '2015-10-22T02:36:59Z'
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
