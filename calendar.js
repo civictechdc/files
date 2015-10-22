@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1443454116000, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1442174254000, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1442950341000, 
@@ -258,7 +258,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1443151352000, 
@@ -295,7 +295,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1442950567000, 
@@ -334,7 +334,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1441653193000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1443808609000, 
@@ -411,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 271
+            "yes_rsvp_count": 273
         }, 
         {
             "created": 1444672805000, 
@@ -488,7 +488,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1440087572000, 
@@ -553,7 +553,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1441653193000, 
@@ -576,7 +576,7 @@ calendar({
             "name": "Ruby on Rails First Timer's Night", 
             "status": "upcoming", 
             "time": 1446679800000, 
-            "updated": 1443921524000, 
+            "updated": 1445524027000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -591,7 +591,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1417881835000, 
@@ -656,7 +656,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
@@ -843,7 +843,7 @@ calendar({
             "name": "Ruby on Rails Hack Night", 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1445469750000, 
+            "updated": 1445524004000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -859,7 +859,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1443649777000, 
@@ -934,7 +934,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1422815587000, 
@@ -992,10 +992,10 @@ calendar({
             "headcount": 0, 
             "id": "gnsnklytpbxb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Getting Value out of Conferences (ft. RailsConf 2015)", 
+            "name": "Ruby on Rails", 
             "status": "upcoming", 
             "time": 1447889400000, 
-            "updated": 1444514507000, 
+            "updated": 1445523950000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -1011,7 +1011,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1443061952000, 
@@ -1048,7 +1048,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1417881835000, 

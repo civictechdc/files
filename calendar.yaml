@@ -38,7 +38,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 other:
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
@@ -87,7 +87,7 @@ other:
       International Affairs, Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -132,7 +132,7 @@ other:
       Int'l Affairs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 112
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -209,7 +209,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1442950341000
   description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
     \ to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"\
@@ -314,7 +314,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -370,7 +370,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 100
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -402,7 +402,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -454,7 +454,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1443808609000
   description: "<p>For our October Data Science DC Meetup, we're talking about the\
     \ World Series. No, not that World Series* -- time-series data about the world!\
@@ -513,7 +513,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 271
+  yes_rsvp_count: 273
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -587,7 +587,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -676,7 +676,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -719,14 +719,14 @@ other:
   name: Ruby on Rails First Timer's Night
   status: upcoming
   time: 1446679800000
-  updated: 1443921524000
+  updated: 1445524027000
   utc_offset: -18000000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -778,7 +778,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -961,14 +961,14 @@ other:
   name: Ruby on Rails Hack Night
   status: upcoming
   time: 1447284600000
-  updated: 1445469750000
+  updated: 1445524004000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
     \ to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\_\
@@ -1044,7 +1044,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1123,17 +1123,17 @@ other:
   headcount: 0
   id: gnsnklytpbxb
   maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Getting Value out of Conferences (ft. RailsConf 2015)'
+  name: Ruby on Rails
   status: upcoming
   time: 1447889400000
-  updated: 1444514507000
+  updated: 1445523950000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -1186,7 +1186,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
