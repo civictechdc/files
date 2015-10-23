@@ -63,22 +63,22 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1445698800000, 
-            "updated": 1443214684000, 
+            "updated": 1445616881000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1957 E Street NW", 
+                "address_1": "2201 G St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24114830, 
-                "lat": 38.896228999999998, 
-                "lon": -77.043960999999996, 
-                "name": "GWU Elliott School of International Affairs, Room 113", 
+                "id": 24168466, 
+                "lat": 38.898605000000003, 
+                "lon": -77.049567999999994, 
+                "name": "Duques Hall (GW School of Business), Room 651 ", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1443454116000, 
@@ -101,22 +101,22 @@ calendar({
             "name": "Data Brunch and Project Pitchfest 2", 
             "status": "upcoming", 
             "time": 1445698800000, 
-            "updated": 1443454116000, 
+            "updated": 1445619062000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1957 E St - Room 113", 
+                "address_1": "2201 G St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 22874212, 
-                "lat": 38.896275000000003, 
-                "lon": -77.044205000000005, 
-                "name": "GWU - Eliott School of Int'l Affairs", 
+                "id": 24168541, 
+                "lat": 38.898605000000003, 
+                "lon": -77.049567999999994, 
+                "name": "Duques Hall Room 651", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1442174254000, 
@@ -296,7 +296,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1442950567000, 
@@ -412,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 280
+            "yes_rsvp_count": 278
         }, 
         {
             "created": 1444672805000, 
@@ -489,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1440087572000, 
@@ -631,7 +631,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1443771376000, 
@@ -1053,7 +1053,7 @@ calendar({
         }, 
         {
             "created": 1445546860000, 
-            "description": "<p>We are currently looking for speakers who have a traffic-related app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. We are also in search of a venue.</p> <p>Currently we have:</p> <p>\u2022\u00a0Jacob Mason of <a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a> will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0Rakesh Nune has a project that uses\u00a0social\u00a0media data for traffic incident detection and management.</p>", 
+            "description": "<p>We are currently looking for speakers who have a traffic-related app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. We are also in search of a venue.</p> <p>Currently we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a> will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
             "group": {
                 "created": 1384372275000, 
@@ -1072,11 +1072,11 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1448319600000, 
-            "updated": 1445547287000, 
+            "updated": 1445621559000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 

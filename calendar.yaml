@@ -80,14 +80,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1445698800000
-  updated: 1443214684000
+  updated: 1445616881000
   utc_offset: -14400000
-  venue: {address_1: 1957 E Street NW, city: Washington, country: us, id: 24114830,
-    lat: 38.896228999999998, lon: -77.043960999999996, name: 'GWU Elliott School of
-      International Affairs, Room 113', repinned: false, state: DC}
+  venue: {address_1: 2201 G St NW, city: Washington, country: us, id: 24168466, lat: 38.898605000000003,
+    lon: -77.049567999999994, name: 'Duques Hall (GW School of Business), Room 651 ',
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 99
 - created: 1443454116000
   description: <p>Seven teams of DC data scientists have come together for a three
     month incubator to turn theory into practice on projects spanning health, economics,
@@ -125,14 +125,13 @@ other:
   name: Data Brunch and Project Pitchfest 2
   status: upcoming
   time: 1445698800000
-  updated: 1443454116000
+  updated: 1445619062000
   utc_offset: -14400000
-  venue: {address_1: 1957 E St - Room 113, city: Washington, country: us, id: 22874212,
-    lat: 38.896275000000003, lon: -77.044205000000005, name: GWU - Eliott School of
-      Int'l Affairs, repinned: false, state: DC}
+  venue: {address_1: 2201 G St NW, city: Washington, country: us, id: 24168541, lat: 38.898605000000003,
+    lon: -77.049567999999994, name: Duques Hall Room 651, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 120
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -370,7 +369,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 101
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -513,7 +512,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 280
+  yes_rsvp_count: 278
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -587,7 +586,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -761,7 +760,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -1191,11 +1190,18 @@ other:
   description: "<p>We are currently looking for speakers who have a traffic-related\
     \ app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
     >Michael</a> if you have a project you'd like to share. We are also in search\
-    \ of a venue.</p> <p>Currently we have:</p> <p>\u2022\_Jacob Mason of <a href=\"\
-    https://www.itdp.org/who-we-are/contact-us/\">ITDB</a> will show how he made maps\
-    \ of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\"\
-    >GGW</a>.</p> <p>\u2022\_Rakesh Nune has a project that uses\_social\_media data\
-    \ for traffic incident detection and management.</p>"
+    \ of a venue.</p> <p>Currently we have:</p> <p>\u2022\_<a href=\"https://twitter.com/Mason_Transport\"\
+    >Jacob Mason</a> of <a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>\
+    \ will show how he made maps of local traffic violations, as seen in <a href=\"\
+    http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\"\
+    >GGW</a>.</p> <p>\u2022\_<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a>\
+    \ of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media\
+    \ data for early traffic incident detection and management.</p> <p><br/>\u2022\
+    \_Brian Zito,\_Ashley Peter, and\_Seth\_Clark created\_Eyes Ahead, an app that\
+    \ discourages texting and driving by creating accountability.</p> <p><br/>\u2022\
+    \_Anthony Gallo of\_<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will\
+    \ discuss traffic simulation for the <a href=\"http://outside.transform66.org/\"\
+    >I-66 Outside the Beltway Express Lanes project</a>.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/226241616/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1207,11 +1213,11 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1445547287000
+  updated: 1445621559000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
