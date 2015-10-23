@@ -38,7 +38,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 other:
 - created: 1443214684000
   description: "<p>Seven teams of DC data scientists have come together for a three\
@@ -402,7 +402,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -513,7 +513,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 273
+  yes_rsvp_count: 277
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -587,7 +587,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -726,7 +726,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -846,7 +846,7 @@ other:
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1444922278000
   description: "<p><b>One-Day Training</b>: CP100A -\_Google Cloud Platform Fundamentals\
     \ - Training</p> <p><b>Date</b>: Friday, November 6th</p> <p><b>Location</b>:\
@@ -1186,7 +1186,32 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
+- created: 1445546860000
+  description: "<p>We are currently looking for speakers who have a traffic-related\
+    \ app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a> if you have a project you'd like to share. We are also in search\
+    \ of a venue.</p> <p>Currently we have:</p> <p>\u2022\_Jacob Mason of <a href=\"\
+    https://www.itdp.org/who-we-are/contact-us/\">ITDB</a> will show how he made maps\
+    \ of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\"\
+    >GGW</a>.</p> <p>\u2022\_Rakesh Nune has a project that uses\_social\_media data\
+    \ for traffic incident detection and management.</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/226241616/
+  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '226241616'
+  maybe_rsvp_count: 0
+  name: Playing with Traffic
+  rsvp_limit: 100
+  status: upcoming
+  time: 1448319600000
+  updated: 1445547287000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\

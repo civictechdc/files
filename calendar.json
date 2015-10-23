@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }
     ], 
     "other": [
@@ -334,7 +334,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1441653193000, 
@@ -411,7 +411,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 273
+            "yes_rsvp_count": 277
         }, 
         {
             "created": 1444672805000, 
@@ -488,7 +488,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1440087572000, 
@@ -591,7 +591,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1417881835000, 
@@ -742,7 +742,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1444922278000, 
@@ -1048,7 +1048,34 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
+        }, 
+        {
+            "created": 1445546860000, 
+            "description": "<p>We are currently looking for speakers who have a traffic-related app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. We are also in search of a venue.</p> <p>Currently we have:</p> <p>\u2022\u00a0Jacob Mason of <a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a> will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0Rakesh Nune has a project that uses\u00a0social\u00a0media data for traffic incident detection and management.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "226241616", 
+            "maybe_rsvp_count": 0, 
+            "name": "Playing with Traffic", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1448319600000, 
+            "updated": 1445547287000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1417881835000, 
