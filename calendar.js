@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1443454116000, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1442174254000, 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1427088126000, 
@@ -179,18 +179,19 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1445898600000, 
-            "updated": 1443483504000, 
+            "updated": 1445566148000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1150 17th Street NW, Ste 200", 
+                "address_1": "1211 Connecticut Avenue Northwest #250", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23263162, 
-                "lat": 38.905338, 
-                "lon": -77.039008999999993, 
-                "name": "Socrata Office (2nd Floor)", 
+                "id": 11024172, 
+                "lat": 38.906216000000001, 
+                "lon": -77.041213999999997, 
+                "name": "RepEquity Inc.", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "DC", 
+                "zip": "20036"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -411,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 277
+            "yes_rsvp_count": 280
         }, 
         {
             "created": 1444672805000, 
@@ -553,7 +554,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1441653193000, 
@@ -895,7 +896,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1445046087000, 

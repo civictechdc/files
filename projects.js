@@ -597,8 +597,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             1, 
             0, 
             0, 
@@ -880,30 +880,30 @@ projects([
     }, 
     {
         "activity": [
+            3, 
+            13, 
+            10, 
+            11, 
+            4, 
+            1, 
+            1, 
+            8, 
+            4, 
+            1, 
+            1, 
+            9, 
+            1, 
+            0, 
+            4, 
             2, 
-            14, 
+            1, 
+            8, 
+            8, 
             7, 
-            14, 
-            4, 
-            1, 
             0, 
-            9, 
-            4, 
+            11, 
             1, 
             1, 
-            1, 
-            9, 
-            0, 
-            2, 
-            4, 
-            1, 
-            8, 
-            8, 
-            6, 
-            1, 
-            9, 
-            2, 
-            2, 
             0, 
             2, 
             3, 
@@ -914,12 +914,12 @@ projects([
             0, 
             0, 
             5, 
-            0, 
             1, 
+            0, 
             20, 
             1, 
-            2, 
-            6, 
+            7, 
+            1, 
             0, 
             0, 
             0, 
@@ -930,8 +930,8 @@ projects([
             2, 
             0, 
             0, 
-            0, 
-            5
+            3, 
+            2
         ], 
         "civic_json": {
             "bornAt": "Code for DC", 
@@ -963,7 +963,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 170, 
+                "contributions": 173, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1069,46 +1069,22 @@ projects([
         "default_branch": "master", 
         "description": "The current Code for DC website", 
         "forks": 33, 
-        "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "", 
-                "comments": 0, 
-                "created_at": "2014-08-27T22:22:43Z", 
-                "issue": "Projects page: graph doesn't resize with window", 
-                "issue_url": "https://github.com/codefordc/codefordc-2.0/issues/88", 
-                "labels": [
-                    {
-                        "color": "fc2929", 
-                        "name": "bug", 
-                        "url": "https://api.github.com/repos/codefordc/codefordc-2.0/labels/bug"
-                    }, 
-                    {
-                        "color": "009800", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/codefordc-2.0/labels/help%20wanted"
-                    }
-                ], 
-                "project": "Code for DC Website", 
-                "project_url": "https://github.com/codefordc/codefordc-2.0", 
-                "updated_at": "2014-09-12T11:42:59Z"
-            }
-        ], 
+        "help_wanted": [], 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc-2.0", 
         "id": 11922700, 
         "languages": [
             [
                 "HTML", 
-                141513
+                143675
             ], 
             [
                 "JavaScript", 
-                28711
+                16189
             ], 
             [
                 "CSS", 
-                26899
+                13566
             ], 
             [
                 "Ruby", 
@@ -1127,14 +1103,14 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 12, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-10-20T03:12:17Z", 
+        "pushed_at": "2015-10-23T04:49:48Z", 
         "size": 18548, 
         "updated_at": "2015-08-26T00:23:22Z", 
         "watchers": 19
@@ -1459,11 +1435,11 @@ projects([
             0, 
             1, 
             0, 
-            0, 
             1, 
             0, 
-            2, 
-            1, 
+            0, 
+            3, 
+            0, 
             0, 
             8, 
             0, 
@@ -1472,8 +1448,8 @@ projects([
             0, 
             0, 
             10, 
-            9, 
-            12, 
+            13, 
+            8, 
             4, 
             0, 
             3, 
@@ -1505,8 +1481,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0
         ], 
         "civic_json": {
@@ -2042,14 +2018,14 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
-            2, 
-            2, 
+            0, 
+            4, 
             0, 
             0, 
-            5, 
-            1, 
+            0, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2076,8 +2052,8 @@ projects([
             2, 
             2, 
             2, 
-            1, 
             2, 
+            1, 
             0
         ], 
         "civic_json": null, 
