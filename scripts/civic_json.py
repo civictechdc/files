@@ -1,4 +1,4 @@
-import json, yaml, requests, os, time, operator, jsonschema, subprocess
+import json, yaml, requests, os, time, operator, jsonschema
 from jsonschema import validate
 
 path = os.path.dirname(os.path.realpath(__file__))
@@ -15,12 +15,6 @@ output = []
 # Load civic.json schema from Code for DC site
 schema = requests.get("http://codefordc.org/resources/schema.json").json()
 
-# Load existing access results
-# access = {}
-# access_tasks = requests.get("https://accessfordc-worker.herokuapp.com/tasks").json()
-# for i in access_tasks:
-#    access[i["url"]] = i["id"]
-
 # Begin building
 for project in tracked:
     for key, value in project.items():
@@ -36,7 +30,7 @@ for project in tracked:
     r = requests.get(url, headers = headers).json()
     data = {
         'id': r['id'],
-        'name': r['name'],
+        'short_name': r['name'],
         'description': r['description'],
         'homepage': r['homepage'],
         'html_url': r['html_url'],
@@ -118,10 +112,6 @@ for project in tracked:
     except ValueError:
         civic = None
     data['civic_json'] = civic
-
-    # Get accessibility results
-    # TODO: call to Continua11y here
-
 
     # Oh yeah, the project's name
     data['name'] = name
