@@ -131,7 +131,7 @@ other:
     lon: -77.049567999999994, name: Duques Hall Room 651, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 121
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -401,7 +401,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -512,7 +512,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 283
+  yes_rsvp_count: 317
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -1187,13 +1187,15 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 34
 - created: 1445546860000
-  description: "<p>We are currently looking for speakers who have a traffic-related\
-    \ app, hack, or data visualization. Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a> if you have a project you'd like to share. We are also in search\
-    \ of a venue.</p> <p>Currently we have:</p> <p>\u2022\_<a href=\"https://twitter.com/Mason_Transport\"\
-    >Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\_\
-    <a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how\
-    \ he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\"\
+  description: "<p>Calling all coders with a passion for traffic, and studying and\
+    \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
+    apps &amp; maps. We don't yet have a venue, but RSVP and you'll be notified when\
+    \ a location is selected.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a> if you have a project you'd like to share. So far our presenters\
+    \ are:</p> <p>\u2022\_<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a>\
+    \ of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\_<a href=\"https://www.itdp.org/who-we-are/contact-us/\"\
+    >ITDB</a>) will show how he made maps of local traffic violations, as seen in\
+    \ <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\"\
     >GGW</a>.</p> <p>\u2022\_<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a>\
     \ of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media\
     \ data for early traffic incident detection and management.</p> <p><br/>\u2022\
@@ -1217,11 +1219,11 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1445630321000
+  updated: 1445647992000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
