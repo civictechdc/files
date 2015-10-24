@@ -193,7 +193,7 @@
   size: 73373
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -289,9 +289,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [3, 13, 10, 11, 4, 1, 1, 8, 4, 1, 1, 9, 1, 0, 4, 2, 1, 8, 8, 7, 0, 11,
-    1, 1, 0, 2, 3, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2,
-    0, 0, 3, 2]
+- activity: [7, 9, 11, 11, 3, 1, 8, 1, 4, 2, 0, 10, 0, 0, 5, 2, 3, 6, 8, 6, 0, 11,
+    1, 1, 0, 4, 1, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2,
+    0, 0, 3, 6]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -478,7 +478,7 @@
   updated_at: '2015-09-14T15:52:09Z'
   watchers: 6
 - activity: [0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 13, 8, 4, 0, 3, 0, 0,
-    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -666,7 +666,7 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 6, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2, 2,
+    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 4, 2, 2, 2,
     2, 1, 0]
   civic_json: null
   contributors:
@@ -1112,7 +1112,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 28
+  forks: 29
   help_wanted:
   - assignee: null
     body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\

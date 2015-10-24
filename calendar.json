@@ -78,45 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
-        }, 
-        {
-            "created": 1443454116000, 
-            "description": "<p>Seven teams of DC data scientists have come together for a three month incubator to turn theory into practice on projects spanning health, economics, the environment, and more. Learn from their experience deploying a financial model as an interactive web app on Heroku, displaying rare mineral data using Shiny, and correlating Starbucks locations with business opportunities across time(series) and space(ial analytics)... plus much more! Enjoy brunch on us as we are taken from concept to production on eight data products, and then join the judges by voting for the winner! Agenda:</p> <p>11:00 am -- Brunch and mingling</p> <p>11:30 am -- Presentations!</p> <p>1:00pm -- Go out for post-event mimosas at Tonic!</p> <p>About our teams:</p> <p><br/>In partnership with the Department of Labor:</p> <p>The Redline (Felicia, Wat, Ian, Wayne) is using OSHA data to operationalize their data related to workplace injuries.</p> <p>Data Bandits (Sasan, Dilip, Ed, Hari) is providing a way to use your personal spending habits to generate a personal Consumer Price Index.</p> <p>CanIMakeIt (Mason, Nathan, Max) is providing housing recommendations and predicting economic success based on various financial factors in different DC neighborhoods.</p> <p><br/>In partnership with the U. S. Geological Survey:</p> <p>Mineralytics (Johanna, Qi, Tridib, Adam) is using USGS data to contrast worldwide rare mineral consumption rate and consumer electronics production.</p> <p><br/>In partnership with the Department of Commerce:</p> <p>Gentrifuge (Saran, Thomas, David, Karpura) is building a model that predicts gentrification in a geographical area.</p> <p>EMU (Sudhir, Erich, Erica, Harish) is utilizing Census financial data and Starbucks location points to predict a market's ripeness for big-box retailers.</p> <p>The Censusables (Alexis, Russel, Abishek, Jim) is investigating Census and Yelp data to identify diffrent types of business activity by geographical area.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/225674093/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "225674093", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data Brunch and Project Pitchfest 2", 
-            "status": "upcoming", 
-            "time": 1445698800000, 
-            "updated": 1445619062000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24168541, 
-                "lat": 38.898605000000003, 
-                "lon": -77.049567999999994, 
-                "name": "Duques Hall Room 651", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1442174254000, 
@@ -156,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1427088126000, 
@@ -195,7 +157,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1442950341000, 
@@ -335,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1441653193000, 
@@ -412,7 +374,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 317
+            "yes_rsvp_count": 331
         }, 
         {
             "created": 1444672805000, 
@@ -896,11 +858,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1445046087000, 
-            "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Networking</p> <p>5:15-5:30 p.m.--Introductions</p> <p>5:30-6:00 p.m.--Keynote address by Lucy Sanders</p> <p>6:00-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.\u00a0 In other words, men are welcome to attend!</p>", 
+            "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Networking</p> <p>5:15-5:45 p.m.--Introductions and Keynote Address by Lucy Sanders</p> <p>5:45-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.\u00a0 In other words, men are welcome to attend!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226117092/", 
             "group": {
@@ -920,7 +882,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1447624800000, 
-            "updated": 1445451378000, 
+            "updated": 1445704711000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th Street, NW Suite 200. ", 
@@ -935,7 +897,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1422815587000, 
@@ -1076,7 +1038,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1417881835000, 
@@ -1115,7 +1077,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1443771281000, 
