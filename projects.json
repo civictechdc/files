@@ -1,36 +1,36 @@
 [
     {
         "activity": [
-            14, 
-            7, 
-            29, 
-            33, 
-            18, 
-            31, 
+            16, 
+            11, 
+            23, 
             39, 
+            16, 
+            30, 
+            36, 
             1, 
             0, 
             14, 
             17, 
-            11, 
-            29, 
-            21, 
-            34, 
-            99, 
-            23, 
-            25, 
-            15, 
-            0, 
-            2, 
-            0, 
-            1, 
             12, 
-            5, 
-            5, 
-            7, 
-            2, 
+            38, 
+            20, 
+            33, 
+            92, 
+            22, 
+            37, 
             3, 
+            0, 
+            2, 
+            0, 
+            2, 
+            11, 
+            10, 
+            6, 
             1, 
+            2, 
+            4, 
+            0, 
             3, 
             3, 
             2, 
@@ -42,9 +42,9 @@
             6, 
             10, 
             0, 
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -324,6 +324,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-09-17T04:08:57Z", 
+        "short_name": "districthousing", 
         "size": 23105, 
         "updated_at": "2015-10-15T13:27:02Z", 
         "watchers": 26
@@ -574,6 +575,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-05-27T00:06:37Z", 
+        "short_name": "ancfinder", 
         "size": 73373, 
         "updated_at": "2015-07-07T18:47:09Z", 
         "watchers": 31
@@ -722,6 +724,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-03-06T14:56:59Z", 
+        "short_name": "bikeshare-odds", 
         "size": 1980, 
         "updated_at": "2015-09-25T22:28:35Z", 
         "watchers": 10
@@ -874,6 +877,7 @@
             "url": "https://github.com/HarlanH"
         }, 
         "pushed_at": "2015-09-08T00:44:08Z", 
+        "short_name": "code-for-dc-edu", 
         "size": 40005, 
         "updated_at": "2014-12-19T15:40:35Z", 
         "watchers": 18
@@ -963,7 +967,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 173, 
+                "contributions": 174, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1076,7 +1080,7 @@
         "languages": [
             [
                 "HTML", 
-                143675
+                143639
             ], 
             [
                 "JavaScript", 
@@ -1110,7 +1114,8 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-10-23T04:49:48Z", 
+        "pushed_at": "2015-10-23T19:38:25Z", 
+        "short_name": "codefordc-2.0", 
         "size": 18548, 
         "updated_at": "2015-08-26T00:23:22Z", 
         "watchers": 19
@@ -1257,6 +1262,7 @@
             "url": "https://github.com/ajschumacher"
         }, 
         "pushed_at": "2015-02-28T22:05:02Z", 
+        "short_name": "dc_mayor_schedule", 
         "size": 2410, 
         "updated_at": "2015-05-19T23:32:02Z", 
         "watchers": 5
@@ -1426,6 +1432,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-03-01T16:01:32Z", 
+        "short_name": "open211", 
         "size": 2915, 
         "updated_at": "2015-09-14T15:52:09Z", 
         "watchers": 6
@@ -1601,6 +1608,7 @@
             "url": "https://github.com/LeeMendelowitz"
         }, 
         "pushed_at": "2015-10-08T13:30:21Z", 
+        "short_name": "DCMetroMetrics", 
         "size": 32815, 
         "updated_at": "2015-10-04T00:07:44Z", 
         "watchers": 27
@@ -1774,6 +1782,7 @@
             "url": "https://github.com/rrbaker"
         }, 
         "pushed_at": "2015-03-29T19:25:03Z", 
+        "short_name": "dctreemap", 
         "size": 5418, 
         "updated_at": "2015-05-19T23:30:58Z", 
         "watchers": 3
@@ -1897,6 +1906,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2014-08-19T01:15:25Z", 
+        "short_name": "ERDA", 
         "size": 105864, 
         "updated_at": "2014-10-16T14:27:14Z", 
         "watchers": 4
@@ -1997,6 +2007,7 @@
             "url": "https://github.com/shiftyp"
         }, 
         "pushed_at": "2015-07-29T02:02:37Z", 
+        "short_name": "dc_community_gardens_visualization", 
         "size": 576, 
         "updated_at": "2014-07-13T21:57:21Z", 
         "watchers": 0
@@ -2111,6 +2122,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-10-14T20:11:45Z", 
+        "short_name": "dc-campaign-finance-watch", 
         "size": 27385, 
         "updated_at": "2015-10-01T22:07:06Z", 
         "watchers": 13
@@ -2261,6 +2273,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-03-06T15:08:06Z", 
+        "short_name": "dc-handguns", 
         "size": 8464, 
         "updated_at": "2015-05-19T23:31:26Z", 
         "watchers": 5
@@ -2367,6 +2380,7 @@
             "url": "https://github.com/drewbo"
         }, 
         "pushed_at": "2014-09-25T18:56:39Z", 
+        "short_name": "dc-budget-treemap", 
         "size": 725, 
         "updated_at": "2015-03-02T22:29:25Z", 
         "watchers": 1
@@ -2461,6 +2475,7 @@
             "url": "https://github.com/drewbo"
         }, 
         "pushed_at": "2014-10-29T15:14:54Z", 
+        "short_name": "dc-juvenile", 
         "size": 1420, 
         "updated_at": "2015-05-19T23:32:07Z", 
         "watchers": 2
@@ -2607,6 +2622,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-08-03T22:52:00Z", 
+        "short_name": "open-election-map", 
         "size": 1004, 
         "updated_at": "2015-05-09T20:16:06Z", 
         "watchers": 14
@@ -2713,6 +2729,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-05-10T22:41:39Z", 
+        "short_name": "at-risk", 
         "size": 732, 
         "updated_at": "2015-07-09T21:26:46Z", 
         "watchers": 2
@@ -2861,6 +2878,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-08-16T01:11:36Z", 
+        "short_name": "geocoder", 
         "size": 565, 
         "updated_at": "2015-09-28T21:11:59Z", 
         "watchers": 7
@@ -3001,6 +3019,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-09-18T22:35:53Z", 
+        "short_name": "booksfordc", 
         "size": 4204, 
         "updated_at": "2015-08-11T21:00:15Z", 
         "watchers": 14
@@ -3163,6 +3182,7 @@
             "url": "https://github.com/cmgiven"
         }, 
         "pushed_at": "2015-03-11T23:14:10Z", 
+        "short_name": "dcps-facilities", 
         "size": 1259, 
         "updated_at": "2015-05-19T23:31:16Z", 
         "watchers": 1
@@ -3381,7 +3401,7 @@
             {
                 "assignee": null, 
                 "body": "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible for us to do?", 
-                "comments": 21, 
+                "comments": 22, 
                 "created_at": "2015-09-21T01:47:17Z", 
                 "issue": "Look into automatic eligibility checker that uses PHP", 
                 "issue_url": "https://github.com/codefordc/clean-slate/issues/165", 
@@ -3404,7 +3424,7 @@
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-10-22T02:36:59Z"
+                "updated_at": "2015-10-23T18:21:29Z"
             }, 
             {
                 "assignee": null, 
@@ -3542,6 +3562,7 @@
             "url": "https://github.com/codefordc"
         }, 
         "pushed_at": "2015-10-15T00:19:14Z", 
+        "short_name": "clean-slate", 
         "size": 10525, 
         "updated_at": "2015-10-15T01:40:38Z", 
         "watchers": 12
@@ -3690,6 +3711,7 @@
             "url": "https://github.com/rebeccamills"
         }, 
         "pushed_at": "2015-04-08T23:59:56Z", 
+        "short_name": "whatsamata", 
         "size": 3924, 
         "updated_at": "2015-05-19T23:30:44Z", 
         "watchers": 1
@@ -3839,6 +3861,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-07-20T13:05:18Z", 
+        "short_name": "tree-map", 
         "size": 21676, 
         "updated_at": "2015-05-19T23:20:37Z", 
         "watchers": 3
@@ -3956,6 +3979,7 @@
             "url": "https://github.com/tech-meetup-website"
         }, 
         "pushed_at": "2015-08-25T23:26:01Z", 
+        "short_name": "tech-meetup-website", 
         "size": 106, 
         "updated_at": "2015-09-24T12:48:10Z", 
         "watchers": 2
@@ -4063,6 +4087,7 @@
             "url": "https://github.com/emanuelfeld"
         }, 
         "pushed_at": "2015-10-17T19:28:25Z", 
+        "short_name": "mardc", 
         "size": 428, 
         "updated_at": "2015-10-17T18:47:50Z", 
         "watchers": 3
@@ -4152,6 +4177,7 @@
             "url": "https://github.com/openelections"
         }, 
         "pushed_at": "2015-08-31T00:14:44Z", 
+        "short_name": "openelections-data-dc", 
         "size": 106, 
         "updated_at": "2015-08-24T01:27:32Z", 
         "watchers": 0
