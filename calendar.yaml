@@ -38,56 +38,8 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 48
 other:
-- created: 1443214684000
-  description: "<p>Seven teams of DC data scientists have come together for a three\
-    \ month incubator to turn theory into practice on projects spanning health, economics,\
-    \ the environment, and more. Learn from their experience deploying a financial\
-    \ model as an interactive web app on Heroku, displaying rare mineral data using\
-    \ Shiny, and correlating Starbucks locations with business opportunities across\
-    \ time(series) and space(ial analytics)... plus much more! Enjoy brunch on us\
-    \ as we are taken from concept to production on eight data products, and then\
-    \ join the judges by voting for the winner!\_</p> <p>\n\n<b>Agenda:</b></p> <p>11:00\
-    \ am\_-- Brunch and mingling</p> <p>11:30 am\_-- Presentations!</p> <p>1:00pm\_\
-    -- Go out for post-event mimosas at Tonic!</p> <p>\n\n\n<b>About our teams:</b></p>\
-    \ <p><br/><i>In partnership with the Department of Labor:</i></p> <p><b>The Redline\
-    \ -\_</b>(Felicia, Wat, Ian, Wayne) is using OSHA data to operationalize their\
-    \ data related to workplace injuries.</p> <p><br/><b>Data Bandits -\_</b>(Sasan,\
-    \ Dilip, Ed, Hari) is providing a way to use your personal spending habits to\
-    \ generate a personal Consumer Price Index.</p> <p><br/><b>CanIMakeIt -\_</b>(Mason,\
-    \ Nathan, Max) is providing housing recommendations and predicting economic success\
-    \ based on various financial factors in different DC neighborhoods.</p> <p>\n\n\
-    <i>In partnership with the U. S. Geological Survey:</i></p> <p><br/><b>Mineralytics\
-    \ -\_</b>(Johanna, Qi, Tridib, Adam) is using USGS data to contrast worldwide\
-    \ rare mineral consumption rate and consumer electronics production.</p> <p>\n\
-    \n<i>In partnership with the Department of Commerce:</i></p> <p><br/><b>Gentrifuge\
-    \ -\_</b>(Saran, Thomas, David, Karpura) is building a model that predicts gentrification\
-    \ in a geographical area.</p> <p><br/><b>EMU -\_</b>(Sudhir, Erich, Erica, Harish)\
-    \ is utilizing Census financial data and Starbucks location points to predict\
-    \ a market's ripeness for big-box retailers.</p> <p><br/><b>The Censusables -\_\
-    </b>(Alexis, Russel, Abishek, Jim) is investigating Census and Yelp data to identify\
-    \ diffrent types of business activity by geographical area.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Business-DC/events/225617694/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '225617694'
-  maybe_rsvp_count: 0
-  name: DDL Data Brunch and Project Pitchfest 2
-  rsvp_limit: 200
-  status: upcoming
-  time: 1445698800000
-  updated: 1445616881000
-  utc_offset: -14400000
-  venue: {address_1: 2201 G St NW, city: Washington, country: us, id: 24168466, lat: 38.898605000000003,
-    lon: -77.049567999999994, name: 'Duques Hall (GW School of Business), Room 651 ',
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 104
 - created: 1442174254000
   description: "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\_\
     project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By\
@@ -116,7 +68,7 @@ other:
     lat: 38.898448999999999, lon: -77.024704, name: 'DC Public Library:Martin Luther
       King Jr. Memorial Library', repinned: false, state: DC, zip: '20001'}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 8
 - created: 1427088126000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -164,7 +116,7 @@ other:
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1442950341000
   description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
     \ to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"\
@@ -468,7 +420,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 331
+  yes_rsvp_count: 342
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -755,7 +707,7 @@ other:
       667-6295, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -1178,7 +1130,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
