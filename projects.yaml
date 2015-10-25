@@ -477,8 +477,8 @@
   size: 2915
   updated_at: '2015-09-14T15:52:09Z'
   watchers: 6
-- activity: [0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 13, 8, 4, 0, 3, 0, 0,
-    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 1, 0, 1, 0, 0, 3, 0, 0, 8, 0, 0, 0, 0, 0, 10, 15, 6, 4, 2, 1, 0, 0,
+    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0]
   civic_json:
     bornAt: Lee's apartment
@@ -665,8 +665,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 6, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 4, 2, 2, 2,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 4, 2, 0,
+    0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 4, 2, 3, 1,
     2, 1, 0]
   civic_json: null
   contributors:
@@ -1127,7 +1127,7 @@
     - {color: cc317c, name: question, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/question'}
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-23T18:21:29Z'
+    updated_at: '2015-10-25T14:10:23Z'
   - assignee: null
     body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
       \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
