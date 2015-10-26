@@ -1,6 +1,6 @@
-- activity: [16, 11, 29, 33, 18, 32, 32, 1, 6, 8, 17, 15, 35, 20, 46, 82, 19, 37,
-    3, 0, 2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11,
-    0, 2, 3, 0, 0, 0, 0, 0]
+- activity: [16, 22, 23, 28, 19, 51, 12, 1, 9, 10, 12, 23, 27, 23, 69, 58, 17, 40,
+    0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54,
+    10, 0, 2, 3, 0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -536,7 +536,7 @@
   size: 32865
   updated_at: '2015-10-04T00:07:44Z'
   watchers: 27
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 5, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1112,7 +1112,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 29
+  forks: 28
   help_wanted:
   - assignee: null
     body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
@@ -1195,10 +1195,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 12
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-15T00:19:14Z'
+  pushed_at: '2015-10-26T11:20:10Z'
   short_name: clean-slate
   size: 10525
   updated_at: '2015-10-15T01:40:38Z'
