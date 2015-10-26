@@ -37,50 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }
     ], 
     "other": [
-        {
-            "created": 1442174254000, 
-            "description": "<p><a href=\"https://github.com/PyLadiesDC/opportunities\">Opportunities\u00a0project</a>:</p> <p>Let's do a check-in for the opportunities project.</p> <p>By this point, you should have the following...\u00a0</p> <p><br/>\u2022\u00a0Understand the current code</p> <p>\u2022\u00a0Have it running on your local computer with settings_local.py and\u00a0preferably\u00a0Postgres</p> <p>\u2022 Work through the <a href=\"https://devcenter.heroku.com/articles/getting-started-with-python#introduction\">Heroku tutorial</a>\u00a0</p> <p>\u2022 Have an official url / title! (Let's do this via Slack)</p> <p><br/>During this check-in, we will talk about how to get to our MVP and what our MVP is.\u00a0</p> <p>\n\n\n\n<a href=\"https://github.com/PyLadiesDC/job-translations\">Job Translations</a>:\u00a0</p> <p>More info coming</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/225329309/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "225329309", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code a project together - check-in", 
-            "rsvp_limit": 8, 
-            "status": "upcoming", 
-            "time": 1445794200000, 
-            "updated": 1442174782000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW # 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4367692, 
-                "lat": 38.898448999999999, 
-                "lon": -77.024704, 
-                "name": "DC Public Library:Martin Luther King Jr. Memorial Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 5
-        }, 
         {
             "created": 1427088126000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting.\u00a0</p> <p>There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptops</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event.\u00a0Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Meetup Agenda\u00a0</b></p> <p>Every study group will have the following format:</p> <p><br/>\u2022\u00a06:30pm - Setup</p> <p>\u2022\u00a06:40 - 6:50pm - Quick introductions</p> <p>\u2022\u00a06:50 - 8:00pm - Code!</p> <p>\u2022\u00a08:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\u00a08:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a></p> <p><br/>\u2022 HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a></p> <p><br/>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a></p> <p><br/><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -335,7 +295,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 344
+            "yes_rsvp_count": 346
         }, 
         {
             "created": 1444672805000, 
@@ -375,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1444411198000, 
@@ -412,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1440087572000, 
@@ -554,7 +514,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1443771376000, 
@@ -705,7 +665,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 53, 
+            "waitlist_count": 55, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -743,8 +703,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1445469750000, 
@@ -858,7 +818,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1422815587000, 
@@ -999,7 +959,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1417881835000, 
