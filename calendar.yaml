@@ -1,206 +1,5 @@
-codefordc:
-- announced: true
-  created: 1427389174000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking. Project teams break out to work. \_New participants\
-    \ can join teams, circulate, or seek out the Co-Captains for orientation (Justin,\
-    \ Matt, or Leah).</p> <p>~7:30\_Food delivered.\_</p> <p>9:15 - 9:30\_Everyone\
-    \ reconvenes and shares reactions to and progress made over the last two hours.\
-    \ Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:30\_\
-    Sometimes an after party (Happy Hour)</p> <p>\n\n\nNotes:\_</p> <p>\u2022\_Text\
-    \ Matt 202-330-1154 or Justin at 301-538-5812\_for entry if no one is at the door.</p>\
-    \ <p>\u2022\_Bring cash for food and drink! Pay what you can.</p> <p>\n\n\nIf\
-    \ you are new to Code for DC\u2026\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t)\_</p> <p>\u2022 Take a look at\_<a href=\"\
-    http://codefordc.org/projects\">our active projects</a></p> <p>\u2022\_Review\
-    \ the <a href=\"http://codefordc.org/codeofconduct.html\">Code for DC Code of\
-    \ Conduct</a></p> <p>\u2022 Check out our Getting Started Guide\_<a href=\"https://github.com/codefordc/getting-started\"\
-    ><a href=\"https://github.com/codefordc/getting-started\" class=\"linkified\"\
-    >https://github.com/codefordc/getting-started</a></a></p> <p>\u2022\_Start working\
-    \ on a project with someone or bring your own project</p> <p><br/>\u2022\_Introduce\
-    \ yourself to others</p> <p>\u2022\_If you had a good time join Google Group and\
-    \ Meetup</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Code-for-DC/events/221419529/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '221419529'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1445985000000
-  updated: 1427389174000
-  utc_offset: -14400000
-  venue: {address_1: '419 7th St NW, Second Floor', city: Washington, country: us,
-    id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 58
+codefordc: []
 other:
-- created: 1442950341000
-  description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
-    \ to both meetups: <a href=\"http://www.meetup.com/DCAndroid/events/225802229/\"\
-    ><a href=\"http://www.meetup.com/DCAndroid/events/225802229/\" class=\"linkified\"\
-    >http://www.meetup.com/DCAndroid/events/225802229/</a></a></b></p> <p><b>\"\"\
-    Fast Paced Introduction to Android Internals\". \_The presentation will cover:\_\
-    </b></p> <p>- Getting source<br/>- Build system<br/>- Source folder structure<br/>-\
-    \ Zygote/system server<br/>- Bootup process<br/>- Integration with recovery img<br/>-\
-    \ AOSP integration with baseband<br/>- Framework internals<br/><b>Building Access</b></p>\
-    \ <p>The management in certain buildings requires meetup hosts to let people in\
-    \ instead of relying on their security staff. \_ Please respect the policy in\
-    \ case the location requires access to the building. \_To gain access, contact\
-    \ the group lead if information is provided or drop a comment on the meetup page.\
-    \ We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out\
-    \ our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
-    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
-    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
-    \ welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be\
-    \ exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This\
-    \ Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\"\
-    >Slack</a> group to talk about all things Android.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226005450/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: rsmxklytnbkc
-  maybe_rsvp_count: 0
-  name: Android - Joint Meetup with DC Android
-  rsvp_limit: 30
-  status: upcoming
-  time: 1445985000000
-  updated: 1444914063000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 9
-- created: 1441688777000
-  description: "<p><b>NOTE: Registration is through <a href=\"http://www.eventbrite.com/e/making-your-messages-count-developing-nonprofit-content-that-resonates-tickets-18506758212\"\
-    >Eventbrite</a></b></p> <p>In the world of nonprofit marketing there is a tendency\
-    \ to create content as though the audience is us. As though the folks reading\
-    \ our blogs and following our accounts have the same nuanced understanding of\
-    \ a given issue as those working full time on it. This can severely limit your\
-    \ audience. Non-profits can avoid this common pitfall and make content that is\
-    \ compelling to a wider audience by borrowing some basic research methods and\
-    \ formal work processes from the field of advertising account planning. Those\
-    \ methods and work processes will be the focus of this talk.</p> <p>We begin at\
-    \ 6:30 with networking, drinks and appetizers. Presentations start at 7pm.</p>\
-    \ <p><br/><b>SPEAKERS</b></p> <p><b>Mike Pressendo, Director of Communications\
-    \ at UNOS (United Network for Organ Sharing)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/b/f/7/1/600_442609009.jpeg\"\
-    \ /></p> <p>Mike Pressendo joined UNOS in 2014 as Director of Communications.\
-    \ Pressendo leads a comprehensive communications department including media and\
-    \ external relations, member relations, reputation and image building, brand management,\
-    \ web services and social media, design services and internal communications.\
-    \ He works with leadership to produce a communications strategy for the organization\
-    \ and orchestrate the plan for sharing UNOS\u2019 lifesaving message. Before joining\
-    \ UNOS, Pressendo was most recently the Vice President of Communications for The\
-    \ Federal Reserve National IT, the largest entity within the Federal Reserve System.\
-    \ Previously he led marketing and fundraising efforts at ChildFund International\
-    \ during its rebranding from Christian Children\u2019s Fund and branding and marketing\
-    \ at the Make-A-Wish Foundation of America. He also held leadership positions\
-    \ with Aetna, Adcom Communications and Gordon C. James Public Relations. Pressendo\
-    \ earned his Bachelors of Science in organizational communications from Arizona\
-    \ State University. He also holds a certificate in Spanish and bilingual multicultural\
-    \ studies from Universidad Internacional in Cuernavaca, Mexico.</p> <p><br/><b>Brad\
-    \ Perry, Director of Strategy, Create Digital</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/f/7/8/600_442609016.jpeg\"\
-    \ /></p> <p>After briefly attempting to become a journalist, I detoured to a graduate\
-    \ degree in social psychology and a career in gender-based violence prevention\
-    \ and communications at a non-profit. Eventually, I ended up at the VCU Brandcenter\
-    \ to pursue a fascination with branding on the Interwebz. I am currently Director\
-    \ of Strategy at Create Digital where I've helped develop several award-winning\
-    \ digital campaigns, including the Play Like A Girl campaign for Verizon FiOS\
-    \ which won \"Best Social Media Campaign 2014\" from the Online Media &amp; Marketing\
-    \ Association. I am a husband, a proud papa, and currently serve on the national\
-    \ board of the non-profit organization, Hollaback! - the non-profit behind the\
-    \ viral \"10 Hours of Walking in NYC as a Woman\" video.\_</p> <p><b>SPONSOR</b></p>\
-    \ <p><b><a href=\"http://www.createdigital.com\">Create Digital</a>:</b> Make\
-    \ Digital Human Again</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/0/a/8/600_442228840.jpeg\"\
-    \ /></p> <p><i><b>Our Sustaining Sponsor</b></i></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/138911562/sitecorelogo4meetup.jpg\"\
-    \ /></p> <p><a href=\"http://www.sitecore.com/\">Sitecore</a>\_is the global leader\
-    \ in customer experience management software that lets marketers own the experience\
-    \ of every customer or prospect that engages with their brand. The company delivers\
-    \ highly relevant content and personalized digital experiences that delight audiences,\
-    \ build loyalty and drive revenue.\_</p> <p>More than 3,500 of the world\u2019\
-    s leading brands and organizations trust Sitecore to help them deliver the meaningful\
-    \ interactions that win customers for life. Learn more at\_<a href=\"http://www.sitecore.com/\"\
-    >www.sitecore.com</a>\_</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/225197304/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '225197304'
-  maybe_rsvp_count: 0
-  name: 'Make Your Messages Count: Developing Content That Resonates'
-  status: upcoming
-  time: 1445985000000
-  updated: 1444091920000
-  utc_offset: -14400000
-  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
-    id: 19625362, lat: 38.904330999999999, lon: -77.033278999999993, name: OpenGov
-      Hub, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 51
-- created: 1443151352000
-  description: "<p>Meteorology is a field that has always used massive amounts of\
-    \ data and statistical analysis in trying to predict future outcomes. The techniques\
-    \ used were data science before data science even existed. But Data Science MD\
-    \ has not yet had a meteorology speaker. That all changes this October. Come out\
-    \ and see what is sure to be an electric presentation.</p> <p>Agenda</p> <p>6:30\
-    \ PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00\
-    \ PM -- Data Science: A Climate Modeler\u2019s Perspective</p> <p>9:00 PM -- Post\
-    \ event drinks at\_<a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p>\
-    \ <p>Location</p> <p>Join us at the new home of Ad.com!\_</p> <p>3700 O'Donnell\
-    \ Street</p> <p>Baltimore, MD \_21224</p> <p>Parking</p> <p>Park in any open street\
-    \ spots as well as the triangle lot that is outlined in purple. Do not park in\
-    \ spots marked handicap, no parking, or for specific companies. The X marks the\
-    \ spot of the meetup. We are directly behind the Natty Boh tower on the campus\
-    \ (the building with the big white roof).\_</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\"\
-    \ /></p> <p>Talks</p> <p>Data Science: A Climate Modeler\u2019s Perspective</p>\
-    \ <p>Climate Change is arguably the most important global issue of our times.\
-    \ Multiple scholarly analyses of the historical record have shown how the climate\
-    \ is already changing and impacting virtually almost all parts of our blue planet,\
-    \ whereas massively parallel General Circulation Model simulations paint a vivid\
-    \ picture of what lies ahead in the coming decades through the end of the century.\
-    \ These simulations derive their basis from various disciplines including physics,\
-    \ chemistry, ecology, statistics, engineering, and even economics. Data Science\
-    \ is the invisible thread that connects these interdisciplinary strands into a\
-    \ unified model. The objective of this presentation is to provide a brief overview\
-    \ of the methods, both statistical and dynamical, used in the speaker's specialization\
-    \ of high-resolution climate simulations. It concludes with a case study drawn\
-    \ from the speaker's recent research.</p> <p>Speaker</p> <p><a href=\"https://www.linkedin.com/in/pracherla9\"\
-    >Pavan Racherla</a>\_has a Ph.D. in Engineering &amp; Public Policy from Carnegie\
-    \ Mellon University (2007), wherein his thesis was on \u201CThe Sensitivity of\
-    \ Ozone and Particulate Matter Concentrations to Climate Change at Various Spatiotemporal\
-    \ Scales.\u201D He worked thereafter as a Postdoctoral and Associate Research\
-    \ Scientist at NASA Goddard Institute for Space Studies [masked]). He is currently\
-    \ \_Principal Researcher at a nonprofit organization called NextClimate. His research\
-    \ has been highlighted in prestigious academic journals like Science as well as\
-    \ popular media outlets like Discovery News.</p> <p><br/>Post Event Drinks</p>\
-    \ <p><a href=\"http://www.ofloveandregret.com/\">Of Love &amp; Regret</a></p>\
-    \ <p>1028 South Conkling Street, Baltimore\_</p>"
-  event_url: http://www.meetup.com/Data-Science-MD/events/225602822/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '225602822'
-  maybe_rsvp_count: 0
-  name: Weathering the Data Storm
-  status: upcoming
-  time: 1445985000000
-  updated: 1443152469000
-  utc_offset: -14400000
-  venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
-    lat: 39.280602000000002, lon: -76.565917999999996, name: AOL / Advertising.com,
-    repinned: false, state: MD}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 108
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -232,7 +31,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1443808609000
   description: "<p>For our October Data Science DC Meetup, we're talking about the\
     \ World Series. No, not that World Series* -- time-series data about the world!\
@@ -291,7 +90,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 390
+  yes_rsvp_count: 391
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -337,7 +136,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 23
 - created: 1444411198000
   description: "<p>Could fall weather be any better? \_I believe there's a clear answer\
     \ right now and that's nope. \_</p> <p>So go ahead and mark your calendars for\
@@ -365,7 +164,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -504,7 +303,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -516,11 +315,19 @@ other:
     \ data management access methods such as SQL allow organizations and businesses\
     \ new opportunities to leverage analytics at an unprecedented scale while greatly\
     \ simplifying data pipeline architectures and providing an alternative to the\
-    \ \"data lake\".</p> <p><br/>Please join DWDC and Snowflake Computing for a discussion\
+    \ \"data lake\".</p> <p>\n\nPlease join DWDC and Snowflake Computing for a discussion\
     \ of these topics and a demonstration of this game changing technology. The demonstration\
     \ will focus on analyzing structured and semistructured together using a commercially\
     \ available cloud based platform and standards based SQL language to provide insights\
-    \ on large petabytes scale data sets.\_</p>"
+    \ on large petabytes scale data sets.</p> <p>\n\n\n<b>Our Speaker: Kevin Bair</b></p>\
+    \ <p>Kevin Bair is a Solution Architect with extensive experience working with\
+    \ both federal and large commercial organizations over the last 25 years. He has\
+    \ a background in application development, database and content management, virtualization,\
+    \ and operational analytics. His career includes 15 years working for IBM Software\
+    \ Group, ITIL certification, and development of a patent related to Big\_Data\_\
+    on a virtualized network. Kevin is currently a Solution Architect at\_Snowflake\_\
+    Computing helping clients and business partners develop enterprise class solutions\
+    \ on AWS using\_Snowflake's Cloud-based Elastic\_Data\_Warehouse.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100071/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -532,14 +339,14 @@ other:
   name: Analyzing Semi-Structured Data At Volume In The Cloud
   status: upcoming
   time: 1446679800000
-  updated: 1438355226000
+  updated: 1446033454000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 112
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -624,7 +431,7 @@ other:
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1444922278000
   description: "<p><b>One-Day Training</b>: CP100A -\_Google Cloud Platform Fundamentals\
     \ - Training</p> <p><b>Date</b>: Friday, November 6th</p> <p><b>Location</b>:\
@@ -663,7 +470,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 56
+  waitlist_count: 57
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -694,7 +501,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 25
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -771,7 +578,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -821,7 +628,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 84
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -860,6 +667,90 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 19
+- created: 1445992584000
+  description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
+    \ talk about machine learning algorithms and how they can be socially responsible,\
+    \ or not. Mike Williams from Fast Forward Labs in NYC will be talking about how\
+    \ supervised learning algorithms can amplify existing inequality, and Prof. Lisa\
+    \ Singh from Georgetown will present her research on the digital trails we leave\
+    \ on the web. Much of the Big Data revolution is our new ability to analyze extensive,\
+    \ detailed data generated by people and their behavior -- these presentations\
+    \ will provide you with insights into what you can do better to leverage this\
+    \ data in a responsible way.</p> <p>NOTE: The venue for this event is still being\
+    \ confirmed, but we expect to post it momentarily. It'll almost certainly be downtown,\
+    \ near the White House.</p> <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking,\
+    \ Empanadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction, Announcements</p>\
+    \ <p>\u2022\_7:15pm -- Presentations and Discussion</p> <p>\u2022\_8:30pm -- Data\
+    \ Drinks (<i>TBA</i>)</p> <p><b>Presentations:</b></p> <p><i>Mike Williams:</i></p>\
+    \ <p>This talk will use the example of sentiment analysis to show that supervised\
+    \ machine learning has the potential to amplify the voices of the most privileged\
+    \ people in society. A sentiment analysis algorithm is considered \u2018table\
+    \ stakes\u2019 for any serious text analytics platform in social media, finance,\
+    \ or security. As an example of supervised machine learning, I\u2019ll show how\
+    \ these systems are trained. But I'll also show that they have the unavoidable\
+    \ property that they are better at spotting unsubtle expressions of extreme emotion.\
+    \ Such crude expressions are used by a particularly privileged group of authors:\
+    \ men. In this way, brands that depend on sentiment analysis to 'learn what people\
+    \ think' inevitably pay more attention to men. But the problem doesn't stop with\
+    \ sentiment analysis: at every step of any model building process, we make choices\
+    \ that can introduce bias, enhance privilege, or break the law! I'll review these\
+    \ pitfalls, talk about how you can recognise them in your own work, and touch\
+    \ on some new academic work that aims to mitigate these harms.\_</p> <p>Mike Williams\
+    \ is a research engineer at <a href=\"http://www.fastforwardlabs.com/\">Fast Forward\
+    \ Labs</a>, which helps organizations accelerate their data science and machine\
+    \ intelligence capabilities by profiling near future technologies from academia\
+    \ and elsewhere, producing reports on their development and prototypes demonstrating\
+    \ their application. He has a PhD in astrophysics from Oxford, and did postdocs\
+    \ at the Max Planck Institute in Munich and at Columbia University. Follow Mike\
+    \ on Twitter <a href=\"https://twitter.com/williamsmj_\">@williamsmj_</a>.</p>\
+    \ <p><br/><i>Lisa Singh:</i></p> <p>Helping Users Understand Their Web Footprint</p>\
+    \ <p>With the growth of online social networks and social media sites, the increase\
+    \ in dynamic web content, and the popularity of digital communication, more and\
+    \ more public information about individuals is available on the Internet. This\
+    \ talk will present a\_novel information exposure detection framework that generates\
+    \ and analyzes the web footprints users leave across the social web. Our approach\
+    \ uses probabilistic operators, free text attribute extraction, and a population-based\
+    \ inference engine to generate the web footprints.\_Using a web footprint, the\
+    \ framework then quantifies a user\u2019s level of information exposure relative\
+    \ to others and makes suggestions on which attributes to remove or hide.\_ After\
+    \ presenting the framework, I will show an evaluation that quantifies information\
+    \ exposure on\_ public profiles from\_Google+, LinkedIn, FourSquare, and Twitter.\_\
+    Finally, the talk will conclude with a brief discussion about data privacy and\
+    \ ethics.</p> <p>Dr. <a href=\"http://people.cs.georgetown.edu/~singh/\">Lisa\
+    \ Singh</a> is the Graduate Director and an Associate Professor in the Department\
+    \ of Computer Science at Georgetown University.\_Her research interests are in\
+    \ data science, data mining, and databases. She currently has funding from NSF\
+    \ to study privacy on the web (adversarial inference), dolphin social structures\
+    \ with the Shark Bay Dolphin Research project (graph databases, visual analytics\
+    \ and social mining) and forced migration with the Institute for the Study of\
+    \ International Migration, LLNL, York University and others (text mining, graph\
+    \ mining, event detection).\_Dr. Singh received her B.S.E. degree from Duke University\
+    \ and her M.S. and Ph.D. degrees from Northwestern University.\_She has served\
+    \ on many organizing and program committees, including KDD, ICDM, ICDE, and SIGMOD,\
+    \ and is currently involved in different organizations related to women in computing\
+    \ and computational thinking education for K-12.</p> <p><b>Sponsors:</b></p> <p>This\
+    \ event is sponsored by <a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\_\
+    <a href=\"https://hired.com/\">Hired</a>,\_<a href=\"http://datamininglab.com/\"\
+    >Elder Research</a>,\_and\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Booz Allen Hamilton</a>.\_(Would your organization like to sponsor too? Please\
+    \ get in touch!)\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-DC/events/226358392/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '226358392'
+  maybe_rsvp_count: 0
+  name: Socially Responsible Algorithms for Data Science
+  rsvp_limit: 350
+  status: upcoming
+  time: 1447803000000
+  updated: 1445992644000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -962,7 +853,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
