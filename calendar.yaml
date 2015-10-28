@@ -38,7 +38,7 @@ codefordc:
     id: 20407722, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 58
 other:
 - created: 1442950341000
   description: "<p><b>This night we will be joining DC android's meetup, please RSVP\
@@ -144,7 +144,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 51
 - created: 1443151352000
   description: "<p>Meteorology is a field that has always used massive amounts of\
     \ data and statistical analysis in trying to predict future outcomes. The techniques\
@@ -200,7 +200,7 @@ other:
     repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 108
 - created: 1442950567000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -291,7 +291,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 384
+  yes_rsvp_count: 390
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -365,7 +365,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 65
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -771,7 +771,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -821,7 +821,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -859,7 +859,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -903,11 +903,10 @@ other:
   name: Ruby on Rails
   status: upcoming
   time: 1447889400000
-  updated: 1445523950000
+  updated: 1445980927000
   utc_offset: -18000000
-  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
-    lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
-    state: DC, zip: '20005'}
+  venue: {address_1: TBD, city: Washington, country: us, id: 24176154, lat: 38.907192000000002,
+    lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
@@ -983,9 +982,12 @@ other:
     \ discuss traffic simulation for the <a href=\"http://outside.transform66.org/\"\
     >I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\_<a href=\"\
     https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\_<a href=\"http://www.driversiti.com/\"\
-    >Driversiti</a> uses mobile devices to detect\_driver behavior.</p> <p>As always,\
-    \ stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for\
-    \ updates.\_</p>"
+    >Driversiti</a> uses mobile devices to detect\_driver behavior.</p> <p>\u2022\_\
+    <a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\_<a href=\"http://www.cattlab.umd.edu/\"\
+    >CATT Lab</a>\_will share how their \"Virtual Weigh Station\" app helps the\_\
+    <a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division\
+    \ discover\_illegally heavy loads.</p> <p><br/>As always, stay tuned to\_<a href=\"\
+    https://twitter.com/techiesdc\">@techiesdc</a>\_for updates.\_</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/226241616/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -997,11 +999,11 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1445647992000
+  updated: 1445981498000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 35
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\

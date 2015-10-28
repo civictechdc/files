@@ -185,10 +185,10 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Python
   name: ANC Finder
-  open_issues: 39
+  open_issues: 40
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-05-27T00:06:37Z'
+  pushed_at: '2015-10-27T23:46:02Z'
   short_name: ancfinder
   size: 73373
   updated_at: '2015-07-07T18:47:09Z'
@@ -309,7 +309,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 174,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 175,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -353,7 +353,7 @@
   html_url: https://github.com/codefordc/codefordc-2.0
   id: 11922700
   languages:
-  - [HTML, 143639]
+  - [HTML, 143594]
   - [JavaScript, 16189]
   - [CSS, 13566]
   - [Ruby, 3301]
@@ -364,7 +364,7 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-23T19:38:25Z'
+  pushed_at: '2015-10-27T20:59:10Z'
   short_name: codefordc-2.0
   size: 18548
   updated_at: '2015-08-26T00:23:22Z'
@@ -534,8 +534,8 @@
   pushed_at: '2015-10-25T21:04:54Z'
   short_name: DCMetroMetrics
   size: 32865
-  updated_at: '2015-10-04T00:07:44Z'
-  watchers: 27
+  updated_at: '2015-10-27T21:38:25Z'
+  watchers: 28
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 0, 5, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -698,8 +698,8 @@
   pushed_at: '2015-10-14T20:11:45Z'
   short_name: dc-campaign-finance-watch
   size: 27385
-  updated_at: '2015-10-01T22:07:06Z'
-  watchers: 13
+  updated_at: '2015-10-27T21:39:21Z'
+  watchers: 14
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1112,7 +1112,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 28
+  forks: 29
   help_wanted:
   - assignee: null
     body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
@@ -1195,10 +1195,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 12
+  open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-10-26T12:31:54Z'
+  pushed_at: '2015-10-27T22:04:10Z'
   short_name: clean-slate
   size: 10522
   updated_at: '2015-10-15T01:40:38Z'

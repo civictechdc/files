@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 58
         }
     ], 
     "other": [
@@ -103,7 +103,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1443151352000, 
@@ -140,7 +140,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1442950567000, 
@@ -217,7 +217,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 384
+            "yes_rsvp_count": 390
         }, 
         {
             "created": 1444672805000, 
@@ -294,7 +294,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1440087572000, 
@@ -701,7 +701,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1445046087000, 
@@ -740,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1422815587000, 
@@ -778,7 +778,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1441653193000, 
@@ -801,19 +801,18 @@ calendar({
             "name": "Ruby on Rails", 
             "status": "upcoming", 
             "time": 1447889400000, 
-            "updated": 1445523950000, 
+            "updated": 1445980927000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1445 New York Ave NW,", 
+                "address_1": "TBD", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
+                "id": 24176154, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "TBD", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -858,7 +857,7 @@ calendar({
         }, 
         {
             "created": 1445546860000, 
-            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps. We don't yet have a venue, but RSVP and you'll be notified when a location is selected.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps. We don't yet have a venue, but RSVP and you'll be notified when a location is selected.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
             "group": {
                 "created": 1384372275000, 
@@ -877,11 +876,11 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1448319600000, 
-            "updated": 1445647992000, 
+            "updated": 1445981498000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1417881835000, 
