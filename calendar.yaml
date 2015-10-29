@@ -1,38 +1,81 @@
-codefordc: []
-other:
-- created: 1442950567000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will\
-    \ be food at this event!</p> <p><b>Note:</b> \_please call[masked] to be let into\
-    \ the building.\_</p> <p>This Women Who Code DC event is intended to be exclusively\
-    \ open for women; we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225834831/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
+codefordc:
+- announced: true
+  created: 1445376463000
+  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
+    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>7:15 - 9:15\_Hacking! Project teams break out to work. \_If you are new,\
+    \ join the new member orientation.</p> <p>~7:30\_Food delivered.\_</p> <p>9:00\
+    \ - 9:15 Everyone reconvenes and shares reactions to and progress made over the\
+    \ last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p>\
+    \ <p>9:15 We head out to happy hour (Hill Country)</p> <p><b>Notes</b>:\_</p>\
+    \ <p>\u2022 The building is wheelchair-accessible through the District Architecture\
+    \ Center, located next door at 421 7th St. NW.</p> <p><br/>\u2022\_Text Justin\
+    \ at\_301-538-5812\_for entry if no one is at the door.</p> <p>\u2022\_Bring cash\
+    \ for food and drink! Pay what you can.</p> <p><b>If you are new to Code for DC</b>:</p>\
+    \ <p>\u2022\_Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022\
+    \ Take a look at\_<a href=\"http://codefordc.org/projects\">our projects</a>.</p>\
+    \ <p>\u2022\_Review the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\"\
+    >Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to <a href=\"http://codefordc.org/contact.html\"\
+    >contact us</a> with any questions.</p> <p><br/>\u2022\_If you had a good time,\
+    \ join <a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google\
+    \ Group</a> and Meetup.</p>"
+  duration: 9900000
+  event_url: http://www.meetup.com/Code-for-DC/events/226193868/
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
   headcount: 0
-  id: jtmxklytnblc
+  id: '226193868'
   maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
+  name: Civic Hacknight
   status: upcoming
-  time: 1446071400000
-  updated: 1446065387000
-  utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
+  time: 1447111800000
+  updated: 1446094759000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
+    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 4
+- announced: false
+  created: 1445376953000
+  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
+    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>7:15 - 9:15\_Hacking! Project teams break out to work. \_If you are new,\
+    \ join the new member orientation.</p> <p>~7:30\_Food delivered.\_</p> <p>9:00\
+    \ - 9:15 Everyone reconvenes and shares reactions to and progress made over the\
+    \ last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p>\
+    \ <p>9:15 We head out to happy hour.</p> <p>Notes:\_</p> <p>\u2022 The building\
+    \ is wheelchair-accessible through the District Architecture Center, located next\
+    \ door at 421 7th St. NW.</p> <p>\u2022\_Text Justin at\_301-538-5812\_for entry\
+    \ if no one is at the door.</p> <p>\u2022\_Bring cash for food and drink! Pay\
+    \ what you can.</p> <p>If you are new to Code for DC:</p> <p>\u2022\_Bring a laptop\
+    \ if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\_\
+    <a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\_Review\
+    \ the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for\
+    \ DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\_<a href=\"http://codefordc.org/contact.html\"\
+    >contact us</a>\_with any questions.</p> <p>\u2022\_If you had a good time, join\_\
+    <a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>\_\
+    and Meetup.</p>"
+  duration: 9900000
+  event_url: http://www.meetup.com/Code-for-DC/events/226194054/
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
+  headcount: 0
+  id: '226194054'
+  maybe_rsvp_count: 0
+  name: Civic Hacknight
+  status: upcoming
+  time: 1447716600000
+  updated: 1446094798000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
+    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
+other:
 - created: 1443808609000
   description: "<p>For our October Data Science DC Meetup, we're talking about the\
     \ World Series. No, not that World Series* -- time-series data about the world!\
@@ -91,7 +134,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 414
+  yes_rsvp_count: 422
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -165,7 +208,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 74
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -213,25 +256,25 @@ other:
   waitlist_count: 9
   yes_rsvp_count: 3
 - created: 1445264010000
-  description: "<p>WWC would like to introduce *Stephanie Lampkin*, genius founder\
-    \ of 'Blendoor' on a mission to bring diversity into tech.</p> <p><b>About Stephanie\
-    \ and Blendoor</b></p> <p>\u2022\_Blendoor is a mobile job matching app that helps\
-    \ connect tech companies to qualified women, veteran and underrepresented minority\
-    \ candidates.</p> <p>\u2022\_Blendoor uses MEAN stack w/Ionic Framework &amp;\
-    \ Cordova.</p> <p>\u2022 Stephanie\_previously founded Hoowenware, was selected\
-    \ to attend the first-ever Demo Day held at the White House in August and she\
-    \ recently won Tech Cocktail's Startup of the Year!</p> <p><b>Event Details</b></p>\
-    \ <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200B\
-    </i>Diversity in Tech:\_unconscious bias in\_recruitment, gender\_imbalance,\_\
-    minority imbalance</p> <p>Starting a company: fundraising, hiring and/or finding\
-    \ the right people to work with, customer acquisition, revenue models, on being\
-    \ a founder and a CTO, obstacles encountered in starting a company, on dealing\
-    \ with unconscious bias as a woman in the startup world</p> <p>Software Development:\
-    \ learning to code, mobile development (Ionic Framework)</p> <p><b>How do I sign\
-    \ up?</b></p> <p>1). Request to join our Slack channel:\_<a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>2). Join the #ama channel</p> <p>3) Click to tweet (<a href=\"http://ctt.ec/t476q\"\
-    \ class=\"linkified\">http://ctt.ec/t476q</a>) and show support!</p> <p><b>Schedule</b></p>\
+  description: "<p>How do I sign up?</p> <p>1). Request to join our Slack channel:\_\
+    <a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"\
+    linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the <a href=\"https://womenwhocodedc.slack.com/archives/ama\"\
+    >#ama </a>channel</p> <p>3) <a href=\"http://ctt.ec/fvcZt\">Click to tweet</a><a\
+    \ href=\"http://ctt.ec/fvcZt\">\_</a>and show support!</p> <p>WWC would like to\
+    \ introduce *Stephanie Lampkin*, genius founder of 'Blendoor' on a mission to\
+    \ bring diversity into tech.</p> <p><b>About Stephanie and Blendoor</b></p> <p>\u2022\
+    \_Blendoor is a mobile job matching app that helps connect tech companies to qualified\
+    \ women, veteran and underrepresented minority candidates.</p> <p>\u2022\_Blendoor\
+    \ uses MEAN stack w/Ionic Framework &amp; Cordova.</p> <p>\u2022 Stephanie\_previously\
+    \ founded Hoowenware, was selected to attend the first-ever Demo Day held at the\
+    \ White House in August and she recently won Tech Cocktail's Startup of the Year!</p>\
+    \ <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything\
+    \ related to:</p> <p><i>\u200B</i>Diversity in Tech:\_unconscious bias in\_recruitment,\
+    \ gender\_imbalance,\_minority imbalance</p> <p>Starting a company: fundraising,\
+    \ hiring and/or finding the right people to work with, customer acquisition, revenue\
+    \ models, on being a founder and a CTO, obstacles encountered in starting a company,\
+    \ on dealing with unconscious bias as a woman in the startup world</p> <p>Software\
+    \ Development: learning to code, mobile development (Ionic Framework)</p> <p><b>Schedule</b></p>\
     \ <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking\
     \ your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final\
     \ questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this\
@@ -250,7 +293,7 @@ other:
   name: Ask Me Anything! with Stephanie Lampkin (Founder of Blendoor)
   status: upcoming
   time: 1446656400000
-  updated: 1445346423000
+  updated: 1446084667000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -304,7 +347,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -347,7 +390,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 115
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -579,7 +622,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 89
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -609,7 +652,10 @@ other:
     \ and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Refreshments and\
     \ Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize\
     \ that it requires an integrated tech community to provide a supportive mentoring\
-    \ environment.\_ In other words, men are welcome to attend!</p>"
+    \ environment.\_ In other words, men are welcome to attend!</p> <p><b>Sponsors:</b></p>\
+    \ <p>A special thank you to <a href=\"http://www.infernored.com\">InfernoRed</a>\
+    \ for sponsoring the food for our event! And thank you also to <a href=\"http://washington.impacthub.net/\"\
+    >Impact Hub DC</a> for hosting this event.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226117092/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -622,14 +668,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1447624800000
-  updated: 1445704711000
+  updated: 1446087096000
   utc_offset: -18000000
   venue: {address_1: '419 7th Street, NW Suite 200. ', city: Washington, country: us,
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 90
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -751,7 +797,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 16
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -854,7 +900,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
