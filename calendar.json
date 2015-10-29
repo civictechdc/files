@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": false, 
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 422
+            "yes_rsvp_count": 424
         }, 
         {
             "created": 1444672805000, 
@@ -193,7 +193,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1440087572000, 
@@ -258,7 +258,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1441653193000, 
@@ -296,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1417881835000, 
@@ -486,7 +486,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 57, 
+            "waitlist_count": 58, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -524,7 +524,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -603,6 +603,44 @@
             "yes_rsvp_count": 89
         }, 
         {
+            "created": 1446126902000, 
+            "description": "<p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps. Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p>Agenda:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Presentation</p> <p>\u2022 7:55 - Q&amp;A \u2022 8:20 - Data Drinks (Super Secret Location TBA)</p> <p>SPECIAL ANNOUNCEMENT</p> <p>This is a slightly shorter presentation than normal, so if you have a 15 minute talk you would like to give, please feel free to contact any of the DVDC organizers.\u00a0</p> <p>In addition, Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226395373/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "id": "226395373", 
+            "maybe_rsvp_count": 0, 
+            "name": "Time Maps", 
+            "status": "upcoming", 
+            "time": 1447371000000, 
+            "updated": 1446126955000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1500 Wilson Blvd, 4th floor", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24179360, 
+                "lat": 38.894489, 
+                "lon": -77.074332999999996, 
+                "name": "FI Consulting", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 65
+        }, 
+        {
             "created": 1445046087000, 
             "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Networking</p> <p>5:15-5:45 p.m.--Introductions and Keynote Address by Lucy Sanders</p> <p>5:45-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Refreshments and Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.\u00a0 In other words, men are welcome to attend!</p> <p><b>Sponsors:</b></p> <p>A special thank you to <a href=\"http://www.infernored.com\">InfernoRed</a> for sponsoring the food for our event! And thank you also to <a href=\"http://washington.impacthub.net/\">Impact Hub DC</a> for hosting this event.</p>", 
             "duration": 7200000, 
@@ -677,7 +715,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1445992584000, 
@@ -705,7 +743,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1441653193000, 
