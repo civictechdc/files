@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": false, 
@@ -81,6 +81,44 @@ calendar({
     ], 
     "other": [
         {
+            "created": 1446215925000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226420106/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "znwvllytpbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1446507000000, 
+            "updated": 1446217107000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "700 6th Street, NW, #410", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23283742, 
+                "lat": 38.898994000000002, 
+                "lon": -77.020294000000007, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
+        }, 
+        {
             "created": 1444672805000, 
             "description": "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\">Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\">GWT</a> compiler to enable Java developers to build complex desktop-like user interfaces that run in the browser. In GXT 4.0, the core widgets have been updated to include touch functionality such as draggable borders, tree expand / collapse, LiveGrid scrolling, and long press to hover. In addition, you can add new gesture recognizers such as pinch and rotate to your apps. In this presentation, we\u2019ll look at the ins and outs of JavaScript touch event handling for GWT developers, touch support in GXT 4.0 widgets, how to eliminate the 300ms click delay in mobile browsers, and how to work with GXT\u2019s new gesture recognizers. In addition, we\u2019ll discuss some of the lessons learned by the GXT team while building GXT 4.0 and demo some debugging strategies for GWT apps on touch devices.</p> <p><b>Speaker Bio:</b></p> <p>David Chandler is the Developer Advocate for GXT with <a href=\"https://www.sencha.com/\">Sencha</a>, Inc. Formerly a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at <a href=\"http://turbomanage.wordpress.com\">turbomanage.wordpress.com</a>. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then<b>.<br/></b></p> <p><b>Sponsors:</b></p> <p><b><a href=\"https://www.sencha.com/\">Sencha</a>\u00a0</b></p> <p><b><a href=\"http://www.uberoffices.com/dc/tysons-corner/\">UberOffices</a></b></p>", 
             "duration": 7200000, 
@@ -118,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1444411198000, 
@@ -155,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1440087572000, 
@@ -197,7 +235,7 @@ calendar({
         }, 
         {
             "created": 1445264010000, 
-            "description": "<p>How do I sign up?</p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the <a href=\"https://womenwhocodedc.slack.com/archives/ama\">#ama </a>channel</p> <p>3) <a href=\"http://ctt.ec/fvcZt\">Click to tweet</a><a href=\"http://ctt.ec/fvcZt\">\u00a0</a>and show support!</p> <p>WWC would like to introduce *Stephanie Lampkin*, genius founder of 'Blendoor' on a mission to bring diversity into tech.</p> <p><b>About Stephanie and Blendoor</b></p> <p>\u2022\u00a0Blendoor is a mobile job matching app that helps connect tech companies to qualified women, veteran and underrepresented minority candidates.</p> <p>\u2022\u00a0Blendoor uses MEAN stack w/Ionic Framework &amp; Cordova.</p> <p>\u2022 Stephanie\u00a0previously founded Hoowenware, was selected to attend the first-ever Demo Day held at the White House in August and she recently won Tech Cocktail's Startup of the Year!</p> <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200b</i>Diversity in Tech:\u00a0unconscious bias in\u00a0recruitment, gender\u00a0imbalance,\u00a0minority imbalance</p> <p>Starting a company: fundraising, hiring and/or finding the right people to work with, customer acquisition, revenue models, on being a founder and a CTO, obstacles encountered in starting a company, on dealing with unconscious bias as a woman in the startup world</p> <p>Software Development: learning to code, mobile development (Ionic Framework)</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this period Laura will answer your questions. Members are welcome to post questions at any point during the AMA from Wednesday to Thursday 9:00pm EST.\u00a0</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
+            "description": "<p>WWC DC would like to introduce <b>Stephanie Lampkin</b>, genius founder of <a href=\"http://www.blendoor.com\">Blendoor</a> on a mission to bring diversity into tech.</p> <p><br/><b>About Stephanie and Blendoor</b></p> <p>\u2022\u00a0<a href=\"http://www.huffingtonpost.com/ellevate/stephanie-lampkin-launche_b_8077956.html\">Stephanie</a> is a woman who can do it all, literally. She has a BS in Engineering from Standford and an MBA from MIT. She previously founded Hoowenware, was selected to attend the first-ever Demo Day held at the White House in August and she recently won Tech Cocktail's Startup of the Year!\u00a0<b><br/></b></p> <p>\u2022\u00a0Blendoor is a mobile job matching app that helps connect tech companies to qualified women, veteran and underrepresented minority candidates.</p> <p>\u2022\u00a0Blendoor uses MEAN stack w/Ionic Framework &amp; Cordova.</p> <p><b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p><i>\u200b</i>Diversity in Tech:\u00a0unconscious bias in\u00a0recruitment, gender\u00a0imbalance,\u00a0minority imbalance</p> <p>Starting a company: fundraising, hiring and/or finding the right people to work with, customer acquisition, revenue models, on being a founder and a CTO, obstacles encountered in starting a company, on dealing with unconscious bias as a woman in the startup world</p> <p>Software Development: learning to code, mobile development (Ionic Framework)</p> <p><b>How do I sign up?</b></p> <p>1). Request to join our Slack channel:\u00a0<a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>2). Join the\u00a0<a href=\"https://womenwhocodedc.slack.com/archives/ama\">#ama\u00a0</a>channel</p> <p>3)\u00a0<a href=\"http://ctt.ec/fvcZt\">Click to tweet</a><a href=\"http://ctt.ec/fvcZt\">\u00a0</a>and show support!</p> <p><b>Schedule</b></p> <p>Wednesday @ 12:00PM: We will kick off the event and you can start asking your questions<br/>Thursday @ 12:00PM: We will remind members to ask their final questions by 9:00PM<br/>Friday @ 2:00PM EST: End of the AMA</p> <p>During this period Stephanie will answer your questions. Members are welcome to post questions at any point during the AMA from Wednesday to Thursday 9:00pm EST.\u00a0</p> <p><br/><b>This event is for everyone: beginners, professional developers and entrepreneurs. Come join us on <a href=\"https://womenwhocodedc.slack.com\">slack</a>.</b></p>", 
             "duration": 180000000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226160835/", 
             "group": {
@@ -216,11 +254,50 @@ calendar({
             "name": "Ask Me Anything! with Stephanie Lampkin (Founder of Blendoor)", 
             "status": "upcoming", 
             "time": 1446656400000, 
-            "updated": 1446084667000, 
+            "updated": 1446214090000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 23
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226421360/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllytpbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1446679800000, 
+            "updated": 1446219544000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1441653193000, 
@@ -297,7 +374,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1443771376000, 
@@ -323,11 +400,11 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>For our first meetup in our new space at Local 16, we're talking about boundaries: literal, metaphorical, agreed, and disputed.</p> <p>Elizabeth Lyon will show off her work mapping the boundary between this world and the next in a local cemetery.</p> <p>Matt Irwin will talk about international boundary disputes and how to resolve them, sharing details from Lebanon and Israel's competing maritime claims.</p> <p>Other speakers TBA!</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052557/", 
             "group": {
                 "created": 1307975249000, 
@@ -343,27 +420,25 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytpbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "November GeoDC: Boundaries", 
             "status": "upcoming", 
             "time": 1446681600000, 
-            "updated": 1326383071000, 
+            "updated": 1446214283000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1441299586000, 
@@ -448,7 +523,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 58, 
+            "waitlist_count": 59, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -490,6 +565,43 @@ calendar({
             "yes_rsvp_count": 25
         }, 
         {
+            "created": 1446216408000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226421222/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "znwvllytpbmb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1447111800000, 
+            "updated": 1446222043000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "641 S St NW, First Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23929782, 
+                "lat": 38.914551000000003, 
+                "lon": -77.021095000000003, 
+                "name": "iStrategy Labs", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1445469750000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on getting value out of attending conferences, featuring a flashback to RailsConf 2015</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
@@ -529,6 +641,34 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226423485/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllytpbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1447284600000, 
+            "updated": 1446220149000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1443649777000, 
             "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\u00a0</p> <p>Risk Assessment\u00a0</p> <p>Big Data Mission Deployments\u00a0</p> <p>Big Data Laboratory\u00a0</p> <p>Arctic Data Analytics\u00a0</p> <p>Big Data Security</p> <p>Innovation for Disaster Response\u00a0</p> <p>Issues in Terrorism Analytics\u00a0</p> <p>Smart Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/225736800/", 
@@ -562,7 +702,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1446126902000, 
@@ -600,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1445046087000, 
@@ -642,6 +782,43 @@ calendar({
             "yes_rsvp_count": 91
         }, 
         {
+            "created": 1446216408000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226421224/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "znwvllytpbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1447716600000, 
+            "updated": 1446222090000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1422815587000, 
             "description": "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231793/", 
@@ -677,7 +854,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1445992584000, 
@@ -705,7 +882,35 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 150
+            "yes_rsvp_count": 165
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytpbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllytpbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1447889400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1441653193000, 
@@ -780,7 +985,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1445546860000, 
@@ -807,7 +1012,110 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
+        }, 
+        {
+            "created": 1446216408000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226422247/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "znwvllytpbfc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1448321400000, 
+            "updated": 1446222174000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1150 17th Street NW, Ste 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23263162, 
+                "lat": 38.905338, 
+                "lon": -77.039008999999993, 
+                "name": "Socrata Office (2nd Floor)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446216408000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226422324/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "znwvllytpbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "status": "upcoming", 
+            "time": 1448926200000, 
+            "updated": 1446222205000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1211 Connecticut Avenue Northwest #250", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 11024172, 
+                "lat": 38.906216000000001, 
+                "lon": -77.041213999999997, 
+                "name": "RepEquity Inc.", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20036"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226424099/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllytqbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1449099000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -846,7 +1154,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1443771281000, 
@@ -895,20 +1203,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1449100800000, 
-            "updated": 1326383071000, 
+            "updated": 1446214011000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -953,6 +1259,90 @@ calendar({
             "yes_rsvp_count": 9
         }, 
         {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllytqbmb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllytqbmb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1449703800000, 
+            "updated": 1446220149000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytqbvb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllytqbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1450308600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvcbjb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvcbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1452123000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052561/", 
@@ -973,24 +1363,50 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1452124800000, 
-            "updated": 1326383071000, 
+            "updated": 1446214011000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvcbrb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvcbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1452727800000, 
+            "updated": 1446220149000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1443565691000, 
@@ -1030,6 +1446,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvcbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvcbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1453332600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
@@ -1079,20 +1523,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1454544000000, 
-            "updated": 1326383071000, 
+            "updated": 1446214011000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1146,20 +1588,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1456963200000, 
-            "updated": 1326383071000, 
+            "updated": 1446214011000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1213,20 +1653,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1459983600000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1280,20 +1718,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1462402800000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1347,20 +1783,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1464822000000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1414,20 +1848,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1467846000000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1481,20 +1913,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1470265200000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1548,20 +1978,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1473289200000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1615,20 +2043,18 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1475708400000, 
-            "updated": 1326383071000, 
+            "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1610 U St NW", 
+                "address_1": "1602 U St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 794012, 
-                "lat": 38.916775999999999, 
-                "lon": -77.037339000000003, 
-                "name": "Stetson's Famous Bar & Restaurant", 
-                "phone": "(202) 667-6295", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
