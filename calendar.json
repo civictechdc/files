@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "announced": false, 
@@ -81,44 +81,6 @@
     ], 
     "other": [
         {
-            "created": 1443808609000, 
-            "description": "<p>For our October Data Science DC Meetup, we're talking about the World Series. No, not that World Series* -- time-series data about the world! Long-time DSDC attendee Lee De Cola will be showing how to think about, analyze, and forecast important world-wide metrics that have been collected for over 50 years. Expect to learn about rigorous ways to analyze temporal data. And maybe there'll be baseball puns.</p> <p>* Anybody want to talk about post-Moneyball sports analytics sometime? Get in touch!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>Tonic,\u00a02036 G St NW</i>)</p> <p><b>Abstract:</b></p> <p>This presentation will use statistical and visualization features of R to explore yearly time series that characterize key global changes since 1950, a period sometimes called the Great Acceleration. Linear regression supplemented with autocorrelation diagnostics can provide most of the key descriptive information about these data, while nonlinear estimation and exponential smoothing can be used to provide forecasts. However, forecasting \u2013 in the sense of providing point predictions of future values \u2013 should be used descriptively and as providing warnings. Widespread understanding of these data is of surpassing importance to the future welfare of life on Earth.</p> <p>Participants who would like to follow along are welcome to bring computers loaded with R and to download <i>in advance</i>\u00a0(WiFi will not be available) the data used for this presentation at\u00a0<a href=\"http://ldecola.net/projects/global/\">ldecola.net/projects/global/</a> .\u00a0</p> <p><b>Bio:</b></p> <p><a href=\"http://ldecola.net/\">Lee De Cola</a> runs\u00a0<b>DATA to Insight</b>\u00a0a data visualization consulting and training enterprise. For 21 years he was a research scientist at the U.S. Geological Survey in Reston Virginia, where he used GIS and applied statistics to understand landscape dynamics and the health of regions and their inhabitants. Lee has published on land cover analysis, spatial epidemiology, urban systems complexity, fractals in geography, and urbanization in Africa. He has taught at a number of local institutions of higher education as well as in Nigeria, Vermont, West Virginia, and California. Lee volunteers at local public schools, and enjoys playing the clarinet, kayaking, and sailing. Follow him on Twitter <a href=\"https://twitter.com/ldecola\">@ldecola</a>.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the\u00a0<a href=\"http://business.gwu.edu/about-us/departments/decision-sciences/\">GWU Department of Decision Sciences</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0<a href=\"http://www.novetta.com/\">Novetta Solutions</a>, and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/225782557/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "225782557", 
-            "maybe_rsvp_count": 0, 
-            "name": "Six World Series: Time Series Analysis and Forecasting", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1446157800000, 
-            "updated": 1443808609000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1957 E Street", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23619989, 
-                "lat": 38.896275000000003, 
-                "lon": -77.044205000000005, 
-                "name": "GWU, Elliot School, Room 113", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 416
-        }, 
-        {
             "created": 1444672805000, 
             "description": "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\">Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\">GWT</a> compiler to enable Java developers to build complex desktop-like user interfaces that run in the browser. In GXT 4.0, the core widgets have been updated to include touch functionality such as draggable borders, tree expand / collapse, LiveGrid scrolling, and long press to hover. In addition, you can add new gesture recognizers such as pinch and rotate to your apps. In this presentation, we\u2019ll look at the ins and outs of JavaScript touch event handling for GWT developers, touch support in GXT 4.0 widgets, how to eliminate the 300ms click delay in mobile browsers, and how to work with GXT\u2019s new gesture recognizers. In addition, we\u2019ll discuss some of the lessons learned by the GXT team while building GXT 4.0 and demo some debugging strategies for GWT apps on touch devices.</p> <p><b>Speaker Bio:</b></p> <p>David Chandler is the Developer Advocate for GXT with <a href=\"https://www.sencha.com/\">Sencha</a>, Inc. Formerly a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at <a href=\"http://turbomanage.wordpress.com\">turbomanage.wordpress.com</a>. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then<b>.<br/></b></p> <p><b>Sponsors:</b></p> <p><b><a href=\"https://www.sencha.com/\">Sencha</a>\u00a0</b></p> <p><b><a href=\"http://www.uberoffices.com/dc/tysons-corner/\">UberOffices</a></b></p>", 
             "duration": 7200000, 
@@ -160,7 +122,7 @@
         }, 
         {
             "created": 1444411198000, 
-            "description": "<p>Could fall weather be any better? \u00a0I believe there's a clear answer right now and that's nope. \u00a0</p> <p>So go ahead and mark your calendars for the first Tuesday of November! \u00a0We've got a solid lineup of presenters with a couple more to be announced soon. \u00a0See you then! \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Irakli Nadareishvili - API Academy<br/>* Mike Bland - 18F\u00a0<br/>* David Berlind - ProgrammableWeb<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Could fall weather be any better? \u00a0I believe there's a clear answer right now and that's nope. \u00a0</p> <p>So go ahead and mark your calendars for the first Tuesday of November! \u00a0We've got a solid lineup of presenters with a couple more to be announced soon. \u00a0See you then! \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Bland - 18F\u00a0<br/>*\u00a0Irakli Nadareishvili - API Academy<br/>* Lisa\u00a0Gelobter - US Digital Service<br/>* David Berlind - ProgrammableWeb</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225950187/", 
             "group": {
                 "created": 1347647025000, 
@@ -178,7 +140,7 @@
             "name": "DC API User Group - November Edition", 
             "status": "upcoming", 
             "time": 1446591600000, 
-            "updated": 1444411198000, 
+            "updated": 1446169832000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -193,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1440087572000, 
@@ -335,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1443771376000, 
@@ -361,7 +323,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -401,7 +363,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1441299586000, 
@@ -638,7 +600,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1445046087000, 
@@ -715,7 +677,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1445992584000, 
@@ -743,7 +705,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 150
         }, 
         {
             "created": 1441653193000, 
@@ -845,7 +807,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1417881835000, 

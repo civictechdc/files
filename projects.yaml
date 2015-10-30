@@ -192,7 +192,7 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-10-28T00:17:32Z'
   short_name: ancfinder
-  size: 73373
+  size: 73253
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0,
@@ -368,7 +368,7 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-10-28T22:40:06Z'
   short_name: codefordc-2.0
-  size: 18548
+  size: 18584
   updated_at: '2015-08-26T00:23:22Z'
   watchers: 19
 - activity: [6, 6, 6, 6, 4, 7, 6, 4, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
@@ -538,7 +538,7 @@
   size: 32865
   updated_at: '2015-10-27T21:38:25Z'
   watchers: 28
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 0, 1, 0, 5, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -946,9 +946,9 @@
   size: 565
   updated_at: '2015-09-28T21:11:59Z'
   watchers: 7
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 61, 30, 18, 80, 7,
-    1, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0,
-    0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 56, 65, 17, 47, 51,
+    6, 1, 1, 1, 6, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4,
+    0, 0, 0, 0, 0]
   civic_json:
     bornAt: Code for DC
     categories:
@@ -1205,9 +1205,9 @@
   size: 10522
   updated_at: '2015-10-28T00:50:28Z'
   watchers: 13
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 21, 0, 7, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 8, 21, 0, 7, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0]
   civic_json:
     bornAt: Web Development Immersive 4, General Assembly
     categories:
