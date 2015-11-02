@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "announced": false, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1444672805000, 
@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1440087572000, 
@@ -258,7 +258,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446219481000, 
@@ -297,7 +297,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1441653193000, 
@@ -335,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1417881835000, 
@@ -374,7 +374,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 131
         }, 
         {
             "created": 1443771376000, 
@@ -400,7 +400,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
@@ -438,7 +438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1441299586000, 
@@ -484,7 +484,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1444922278000, 
@@ -523,7 +523,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 58, 
+            "waitlist_count": 60, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -561,7 +561,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -666,7 +666,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1443649777000, 
@@ -702,11 +702,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1446126902000, 
-            "description": "<p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps. Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p>Agenda:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Presentation</p> <p>\u2022 7:55 - Q&amp;A \u2022 8:20 - Data Drinks (Super Secret Location TBA)</p> <p>SPECIAL ANNOUNCEMENT</p> <p>This is a slightly shorter presentation than normal, so if you have a 15 minute talk you would like to give, please feel free to contact any of the DVDC organizers.\u00a0</p> <p>In addition, Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
+            "description": "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/c/c/2/600_443779650.jpeg\" /></p> <p>Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p><b><a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">FOLLOW THAT BUS!</a></b></p> <p>Transit agencies are swimming in data.\u00a0 At Metro, we perform surveys, we create schedules, we operate thousands of transit vehicles, and we provide over one million transit trips per day.\u00a0 Our trains, buses and riders together generate tens of millions of data points every day.\u00a0 Metro\u2019s Applied Planning Intelligence group is tasked with helping turn all those ones and zeroes into <a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">publicly consumable information</a> that result in policy recommendations, and data visualization plays a large part in that effort.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/e/0/600_443779936.jpeg\" /></p> <p>Michael Eichler is an engineer, urban planner and recovering IT professional who specializes in transforming data into information used to inform operations and planning policy decisions.\u00a0 He is originally from Schenectady NY, raised in Delaware and educated in Washington DC and Berkeley, California.\u00a0 He currently works as Strategic Planning Advisor at Washington Metropolitan Area Transit Authority (WMATA) in the Office of Planning.</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Time Maps</p> <p>\u2022 7:45 - Follow that Bus!</p> <p><br/>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226395373/", 
             "group": {
@@ -722,10 +722,10 @@ calendar({
             "headcount": 0, 
             "id": "226395373", 
             "maybe_rsvp_count": 0, 
-            "name": "Time Maps", 
+            "name": "Time Maps & Elusive Buses", 
             "status": "upcoming", 
             "time": 1447371000000, 
-            "updated": 1446126955000, 
+            "updated": 1446482533000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1500 Wilson Blvd, 4th floor", 
@@ -740,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1445046087000, 
@@ -854,7 +854,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1445992584000, 
@@ -893,13 +893,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 187
+            "yes_rsvp_count": 192
         }, 
         {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytpbxb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486776/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1023,7 +1023,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1446216408000, 
@@ -1229,7 +1229,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1422815617000, 
@@ -1273,7 +1273,7 @@ calendar({
             "created": 1446220149000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllytqbmb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486787/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1301,7 +1301,7 @@ calendar({
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytqbvb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486785/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1389,13 +1389,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220149000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvcbrb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486804/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1462,7 +1462,7 @@ calendar({
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvcbbc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486808/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1549,7 +1549,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 

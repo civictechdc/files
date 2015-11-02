@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - announced: false
   created: 1445376953000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -119,7 +119,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 26
 - created: 1444672805000
   description: "<p><b>Abstract:</b></p> <p><a href=\"https://www.sencha.com/products/gxt/#overview\"\
     >Sencha GXT</a> builds on the open source <a href=\"http://www.gwtproject.org/\"\
@@ -193,7 +193,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
 - created: 1440087572000
   description: "<p><b>Please only RSVP if you're certain you will be able to make\
     \ all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\_</b></p> <p>\n\n\
@@ -286,7 +286,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -318,7 +318,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1441653193000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -368,7 +368,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 46
 - created: 1417881835000
   description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
     \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
@@ -411,7 +411,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 126
+  yes_rsvp_count: 131
 - created: 1443771376000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
@@ -428,7 +428,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1326383071000
   description: '<p>For our first meetup in our new space at Local 16, we''re talking
     about boundaries: literal, metaphorical, agreed, and disputed.</p> <p>Elizabeth
@@ -452,7 +452,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 41
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -498,7 +498,7 @@ other:
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1444922278000
   description: "<p><b>One-Day Training</b>: CP100A -\_Google Cloud Platform Fundamentals\
     \ - Training</p> <p><b>Date</b>: Friday, November 6th</p> <p><b>Location</b>:\
@@ -537,7 +537,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 58
+  waitlist_count: 60
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -568,7 +568,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 10
   yes_rsvp_count: 25
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -692,7 +692,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
     \ to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\_\
@@ -717,27 +717,42 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1446126902000
-  description: "<p>Discrete events are everywhere and we have common and standard\
-    \ ways of visualizing that data in time series, histograms, and even spiral graphs.\
-    \ DVDC and Max Watson are happy to introduce Time Maps. Time is usually thought\
-    \ of as a continuous flow of events, but we can visualize time as relative to\
-    \ discrete events. By assigning xy coordinates before the event and after the\
-    \ event, respectively, patterns emerge, insights can more easily be drawn, and\
-    \ conclusions easily reached. When do people interact on social media most? What\
-    \ does social activity for different personalities look like? How does rock n'\
-    \ roll compare to yoga? These questions become discernible at a glance using Time\
-    \ Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and\
-    \ Data Scientist at L-3 Global Communications. Max's work with Time Maps derives\
-    \ from his experience with product development and effectively communicating advanced\
-    \ analytics.</p> <p>Agenda:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022\
-    \ 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Presentation</p>\
-    \ <p>\u2022 7:55 - Q&amp;A \u2022 8:20 - Data Drinks (Super Secret Location TBA)</p>\
-    \ <p>SPECIAL ANNOUNCEMENT</p> <p>This is a slightly shorter presentation than\
-    \ normal, so if you have a 15 minute talk you would like to give, please feel\
-    \ free to contact any of the DVDC organizers.\_</p> <p>In addition, Data Community\
-    \ DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\"\
+  description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
+    \ common and standard ways of visualizing that data in time series, histograms,\
+    \ and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps.</p>\
+    \ <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/c/c/2/600_443779650.jpeg\"\
+    \ /></p> <p>Time is usually thought of as a continuous flow of events, but we\
+    \ can visualize time as relative to discrete events. By assigning xy coordinates\
+    \ before the event and after the event, respectively, patterns emerge, insights\
+    \ can more easily be drawn, and conclusions easily reached. When do people interact\
+    \ on social media most? What does social activity for different personalities\
+    \ look like? How does rock n' roll compare to yoga? These questions become discernible\
+    \ at a glance using Time Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral\
+    \ fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work\
+    \ with Time Maps derives from his experience with product development and effectively\
+    \ communicating advanced analytics.</p> <p><b><a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\"\
+    >FOLLOW THAT BUS!</a></b></p> <p>Transit agencies are swimming in data.\_ At Metro,\
+    \ we perform surveys, we create schedules, we operate thousands of transit vehicles,\
+    \ and we provide over one million transit trips per day.\_ Our trains, buses and\
+    \ riders together generate tens of millions of data points every day.\_ Metro\u2019\
+    s Applied Planning Intelligence group is tasked with helping turn all those ones\
+    \ and zeroes into <a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\"\
+    >publicly consumable information</a> that result in policy recommendations, and\
+    \ data visualization plays a large part in that effort.</p> <p><br/><img src=\"\
+    http://photos1.meetupstatic.com/photos/event/4/d/e/0/600_443779936.jpeg\" /></p>\
+    \ <p>Michael Eichler is an engineer, urban planner and recovering IT professional\
+    \ who specializes in transforming data into information used to inform operations\
+    \ and planning policy decisions.\_ He is originally from Schenectady NY, raised\
+    \ in Delaware and educated in Washington DC and Berkeley, California.\_ He currently\
+    \ works as Strategic Planning Advisor at Washington Metropolitan Area Transit\
+    \ Authority (WMATA) in the Office of Planning.</p> <p><br/><b>AGENDA</b>:</p>\
+    \ <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp;\
+    \ Announcements</p> <p>\u2022 7:15 - Time Maps</p> <p>\u2022 7:45 - Follow that\
+    \ Bus!</p> <p><br/>\u2022 8:15 - Q&amp;A\_</p> <p>\u2022\_8:30 - Data Drinks (Super\
+    \ Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\_</p> <p>Data\
+    \ Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\"\
     >Women Data Scientists DC</a> as its newest Program!\_</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Data-Visualization-DC/events/226395373/
@@ -747,17 +762,17 @@ other:
   headcount: 0
   id: '226395373'
   maybe_rsvp_count: 0
-  name: Time Maps
+  name: Time Maps & Elusive Buses
   status: upcoming
   time: 1447371000000
-  updated: 1446126955000
+  updated: 1446482533000
   utc_offset: -18000000
   venue: {address_1: '1500 Wilson Blvd, 4th floor', city: Arlington, country: us,
     id: 24179360, lat: 38.894489, lon: -77.074332999999996, name: FI Consulting, repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 121
+  yes_rsvp_count: 145
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -891,7 +906,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -978,7 +993,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 187
+  yes_rsvp_count: 192
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -992,7 +1007,7 @@ other:
     \ This Women Who Code DC event is intended to be exclusively open for women; we\
     \ are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytpbxb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486776/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1151,7 +1166,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1339,7 +1354,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -1394,7 +1409,7 @@ other:
     </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllytqbmb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486787/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1423,7 +1438,7 @@ other:
     \ This Women Who Code DC event is intended to be exclusively open for women; we\
     \ are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllytqbvb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486785/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1488,7 +1503,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1502,7 +1517,7 @@ other:
     </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvcbrb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486804/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1553,7 +1568,7 @@ other:
     \ This Women Who Code DC event is intended to be exclusively open for women; we\
     \ are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvcbbc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486808/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1608,7 +1623,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
