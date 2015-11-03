@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }
     ], 
     "other": [
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1440087572000, 
@@ -180,7 +180,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1446219481000, 
@@ -219,7 +219,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1441653193000, 
@@ -257,7 +257,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1417881835000, 
@@ -296,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1326383071000, 
@@ -334,7 +334,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1441299586000, 
@@ -495,7 +495,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1445469750000, 
@@ -625,11 +625,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1446126902000, 
-            "description": "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/c/c/2/600_443779650.jpeg\" /></p> <p>Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p><b><a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">FOLLOW THAT BUS!</a></b></p> <p>Transit agencies are swimming in data.\u00a0 At Metro, we perform surveys, we create schedules, we operate thousands of transit vehicles, and we provide over one million transit trips per day.\u00a0 Our trains, buses and riders together generate tens of millions of data points every day.\u00a0 Metro\u2019s Applied Planning Intelligence group is tasked with helping turn all those ones and zeroes into <a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">publicly consumable information</a> that result in policy recommendations, and data visualization plays a large part in that effort.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/e/0/600_443779936.jpeg\" /></p> <p>Michael Eichler is an engineer, urban planner and recovering IT professional who specializes in transforming data into information used to inform operations and planning policy decisions.\u00a0 He is originally from Schenectady NY, raised in Delaware and educated in Washington DC and Berkeley, California.\u00a0 He currently works as Strategic Planning Advisor at Washington Metropolitan Area Transit Authority (WMATA) in the Office of Planning.</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Time Maps</p> <p>\u2022 7:45 - Follow that Bus!</p> <p><br/>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
+            "description": "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/3/2/600_443822098.jpeg\" /></p> <p>Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p><br/>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p><b><a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">FOLLOW THAT BUS!</a></b></p> <p>Transit agencies are swimming in data.\u00a0 At Metro, we perform surveys, we create schedules, we operate thousands of transit vehicles, and we provide over one million transit trips per day.\u00a0 Our trains, buses and riders together generate tens of millions of data points every day.\u00a0 Metro\u2019s Applied Planning Intelligence group is tasked with helping turn all those ones and zeroes into <a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">publicly consumable information</a> that result in policy recommendations, and data visualization plays a large part in that effort.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/e/0/600_443779936.jpeg\" /></p> <p>Michael Eichler is an engineer, urban planner and recovering IT professional who specializes in transforming data into information used to inform operations and planning policy decisions.\u00a0 He is originally from Schenectady NY, raised in Delaware and educated in Washington DC and Berkeley, California.\u00a0 He currently works as Strategic Planning Advisor at Washington Metropolitan Area Transit Authority (WMATA) in the Office of Planning.</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Time Maps</p> <p>\u2022 7:45 - Follow that Bus!</p> <p><br/>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226395373/", 
             "group": {
@@ -648,7 +648,7 @@
             "name": "Time Maps & Elusive Buses", 
             "status": "upcoming", 
             "time": 1447371000000, 
-            "updated": 1446482533000, 
+            "updated": 1446564969000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1500 Wilson Blvd, 4th floor", 
@@ -663,7 +663,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 152
         }, 
         {
             "created": 1445046087000, 
@@ -702,7 +702,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1446216408000, 
@@ -816,7 +816,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 206
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1446220217000, 
@@ -919,7 +919,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1445546860000, 
