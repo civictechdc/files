@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": false, 
@@ -80,43 +80,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1444411198000, 
-            "description": "<p>Could fall weather be any better? \u00a0I believe there's a clear answer right now and that's nope. \u00a0</p> <p>So go ahead and mark your calendars for the first Tuesday of November! \u00a0We've got a solid lineup of presenters with a couple more to be announced soon. \u00a0See you then! \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Mike Bland - 18F\u00a0<br/>*\u00a0Irakli Nadareishvili - API Academy<br/>* Lisa\u00a0Gelobter - US Digital Service<br/>* David Berlind - ProgrammableWeb</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/225950187/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "225950187", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - November Edition", 
-            "status": "upcoming", 
-            "time": 1446591600000, 
-            "updated": 1446169832000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 127
-        }, 
         {
             "created": 1440087572000, 
             "description": "<p><b>Please only RSVP if you're certain you will be able to make all three days of the series (11/4, 11/5 and 11/6; 9a-5p).\u00a0</b></p> <p>\n\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1000/pp for three days, but Elixir Mastery is offering GDI DC three free tickets. If you are certain you will be able to make all three days, RSVP and you will be shown a discount code. Please go to the <a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>\u00a0and enter your discount code to claim the discount within 48 hours. If the code is not claimed in that time frame we will need to pass it along to another GDI DC member.\u00a0</p> <p>\n\n\n\n<b>About Elixir</b></p> <p><br/>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p><br/>More information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p><br/><b><br/></b></p> <p><b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"http://www.elixirmastery.com/\">event registration page</a>. We have scholarships for the first three members that RSVP, making the course free of charge.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0If you are unable to RSVP it is because the three scholarships have been claimed.</p>", 
@@ -180,7 +143,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1446219481000, 
@@ -219,7 +182,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1441653193000, 
@@ -257,7 +220,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1417881835000, 
@@ -296,7 +259,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1326383071000, 
@@ -419,7 +382,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 62, 
+            "waitlist_count": 63, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -457,7 +420,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -495,7 +458,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1445469750000, 
@@ -625,7 +588,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1446126902000, 
@@ -663,7 +626,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 153
+            "yes_rsvp_count": 154
         }, 
         {
             "created": 1445046087000, 
@@ -702,7 +665,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1446216408000, 
@@ -816,7 +779,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 209
+            "yes_rsvp_count": 211
         }, 
         {
             "created": 1446220217000, 
@@ -919,7 +882,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1445546860000, 
@@ -1049,7 +1012,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
