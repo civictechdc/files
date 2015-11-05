@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - announced: false
   created: 1445376953000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -169,155 +169,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 34
-- created: 1446219481000
-  description: <p>We're a group of women who want to learn and develop our Python
-    scripting skills. Some of us are professional developers and data scientists,
-    others are hobbyists, and some are just beginning. The study group is intended
-    for everyone who wishes to learn more about the Python programming language. Folks
-    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
-    Wednesday of every month, which caters especially for absolute beginners and people
-    with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
-    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
-    for women; we are trans* friendly.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226421360/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: jzwvllytpbgb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night(Beginner's Night)
-  rsvp_limit: 50
-  status: upcoming
-  time: 1446679800000
-  updated: 1446219544000
-  utc_offset: -18000000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 23
-- created: 1441653193000
-  description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
-    \ Looking to build your first web app, learn more about coding, or build on existing\
-    \ skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR) Study Group.\
-    \ This event is intended for those new to programming and/or ROR (but we welcome\
-    \ people of all levels to attend and help out)! The agenda will include a lecture\
-    \ that covers Ruby and Rails and an installfest to help you set up Rails on your\
-    \ own computer.</p> <p>This event is intended to be exclusively open for people\
-    \ who identify as women - we are transgender friendly.</p> <p>Please bring a laptop\
-    \ to the event so you can participate in\_the installfest!</p> <p>Check out our\
-    \ ROR guide for more info about what we will be covering on Wednesday:\_<a href=\"\
-    http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"\
-    linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p>\
-    \ <p>The building locks its doors at 6pm, but there will be someone at the door\
-    \ to let you in.\_ If not please comment here or on Slack (if you're signed up\
-    \ for it, see resource link below if not) and someone will come get you. \_There\
-    \ should also be a sign on the door with contact information for one of the leads.</p>\
-    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm -\
-    \ Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby\
-    \ and Rails\_</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following\
-    \ the\_<a href=\"http://installrails.com/\">InstallRails</a>\_guide.\_</p> <p>\u2022\
-    \ 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that\
-    \ members have been following along, feel free to suggest if you have more to\
-    \ add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p> <p>&lt;a href=\"\
-    http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/225834853/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: gnsnklytpbgb
-  maybe_rsvp_count: 0
-  name: Ruby on Rails First Timer's Night
-  status: upcoming
-  time: 1446679800000
-  updated: 1445524027000
-  utc_offset: -18000000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 39
-- created: 1417881835000
-  description: "<p>The Cloud, Mobile and Web Applications are producing semi-structured\
-    \ data at an unprecedented rate. IT professionals continue to struggle capturing,\
-    \ transforming, and analyzing these complex data structures mixed with traditional\
-    \ relational style datasets using conventional MPP and/or Hadoop infrastructures.\
-    \ \_Public cloud infrastructures such as Amazon and Azure provide almost unlimited\
-    \ resources and scalability to handle both structured and semi-structured data\
-    \ (XML, JSON, AVRO) at Petabyte scale. \_These new capabilities coupled with traditional\
-    \ data management access methods such as SQL allow organizations and businesses\
-    \ new opportunities to leverage analytics at an unprecedented scale while greatly\
-    \ simplifying data pipeline architectures and providing an alternative to the\
-    \ \"data lake\".</p> <p>\n\nPlease join DWDC and Snowflake Computing for a discussion\
-    \ of these topics and a demonstration of this game changing technology. The demonstration\
-    \ will focus on analyzing structured and semistructured together using a commercially\
-    \ available cloud based platform and standards based SQL language to provide insights\
-    \ on large petabytes scale data sets.</p> <p>\n\n\n<b>Our Speaker: Kevin Bair</b></p>\
-    \ <p>Kevin Bair is a Solution Architect with extensive experience working with\
-    \ both federal and large commercial organizations over the last 25 years. He has\
-    \ a background in application development, database and content management, virtualization,\
-    \ and operational analytics. His career includes 15 years working for IBM Software\
-    \ Group, ITIL certification, and development of a patent related to Big\_Data\_\
-    on a virtualized network. Kevin is currently a Solution Architect at\_Snowflake\_\
-    Computing helping clients and business partners develop enterprise class solutions\
-    \ on AWS using\_Snowflake's Cloud-based Elastic\_Data\_Warehouse.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/219100071/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclytpbgb
-  maybe_rsvp_count: 0
-  name: Analyzing Semi-Structured Data At Volume In The Cloud
-  status: upcoming
-  time: 1446679800000
-  updated: 1446033454000
-  utc_offset: -18000000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
-    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
-    state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 126
-- created: 1326383071000
-  description: '<p>For our first meetup in our new space at Local 16, we''re talking
-    about boundaries: literal, metaphorical, agreed, and disputed.</p> <p>Elizabeth
-    Lyon will show off her work mapping the boundary between this world and the next
-    in a local cemetery.</p> <p>Matt Irwin will talk about international boundary
-    disputes and how to resolve them, sharing details from Lebanon and Israel''s competing
-    maritime claims.</p> <p>Other speakers TBA!</p>'
-  event_url: http://www.meetup.com/Geo-DC/events/221052557/
-  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
-    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
-  headcount: 0
-  how_to_find_us: Upstairs bar
-  id: dlcllcytpbgb
-  maybe_rsvp_count: 0
-  name: 'November GeoDC: Boundaries'
-  status: upcoming
-  time: 1446681600000
-  updated: 1446214283000
-  utc_offset: -18000000
-  venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
-    lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 58
 - created: 1441299586000
   description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
     \ (UX) is defined as how someone feels about using a product, system, or service.\
@@ -402,7 +253,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 66
+  waitlist_count: 68
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -433,7 +284,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 12
   yes_rsvp_count: 25
 - created: 1446672900000
   description: "<p>Interested in sharpening your coding interview skills and learning\
@@ -464,7 +315,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -507,7 +358,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -558,19 +409,23 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
     \ others are hobbyists, and some are just beginning. The study group is intended\
     \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
+    \ Folks of all skill levels are welcome!\_</p> <p>----------------------------------------------------------------</p>\
+    \ <p><br/>This evening we will be having a short presentation from our very own\
+    \ <b>Barbara Donato</b> titled \"<i>My Experience with Coursera.</i>\" She will\
+    \ talk about starting from not knowing anything about\_ Python to using Coursera\
+    \ to build a full game in Python for her final project.</p> <p>---------------------------------------------------------------</p>\
+    \ <p><br/>We host beginners night on the first Wednesday of every month, which\
+    \ caters especially for absolute beginners and people with basic familiarity.<br/>All\
+    \ other study group nights will generally cover more advanced topics and work\
+    \ on projects more in depth, according to everyone's interests.</p> <p>(Please\
+    \ bring a laptop!)\_</p> <p><b>Note:</b> This Women Who Code DC event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226423485/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -583,7 +438,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1447284600000
-  updated: 1446220149000
+  updated: 1446686598000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -686,7 +541,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 161
+  yes_rsvp_count: 167
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -738,7 +593,7 @@ other:
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 100
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
@@ -789,7 +644,7 @@ other:
       or find us online, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -870,7 +725,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -957,7 +812,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 216
+  yes_rsvp_count: 221
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1245,7 +1100,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -1280,7 +1135,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -1548,6 +1403,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1446219481000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486812/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: jzwvllyvdbfb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night(Beginner's Night)
+  rsvp_limit: 50
+  status: upcoming
+  time: 1454542200000
+  updated: 1446219481000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1588,6 +1472,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1446220149000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
+    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
+    \ we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486814/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: bcxvllyvdbnb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1455147000000
+  updated: 1446220149000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
