@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "announced": false, 
@@ -189,7 +189,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1444922278000, 
@@ -266,7 +266,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -367,7 +367,7 @@ calendar({
             "name": "Ruby on Rails Hack Night", 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1445524004000, 
+            "updated": 1446759336000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -383,7 +383,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220149000, 
@@ -411,7 +411,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1443771376000, 
@@ -442,7 +442,7 @@ calendar({
         }, 
         {
             "created": 1443649777000, 
-            "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\u00a0</p> <p>Risk Assessment\u00a0</p> <p>Big Data Mission Deployments\u00a0</p> <p>Big Data Laboratory\u00a0</p> <p>Arctic Data Analytics\u00a0</p> <p>Big Data Security</p> <p>Innovation for Disaster Response\u00a0</p> <p>Issues in Terrorism Analytics\u00a0</p> <p>Smart Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>", 
+            "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p> <p>Topic: DHS S&amp;T HSARPA Data Analytics Engine</p> <p>Many business processes can benefit from the leverage of corporate data sources to create efficiencies\u00a0and improve missions and operations. \u00a0The DHS Data Analytics Engine examines cross cutting\u00a0technologies for automating computational analytics across S&amp;T programs and the homeland security\u00a0enterprise. \u00a0This lightening talk will provide an overview of the S&amp;T strategic goals, major program areas,\u00a0and engine construct.\u00a0</p> <p><br/><b>Chris Featherston</b></p> <p>Topic: \u00a0 Alaska/Arctic Situational Awareness Project (A/ASAP)\u00a0</p> <p>DHS has an interest in understanding national infrastructure assets and navigation issues in the Arctic\u00a0region. \u00a0The By examining, correlating, and developing analytic predictive tools, it is purposed that DHS\u00a0can identify trends and datasets that can be tracked, measured and provide a timetable for\u00a0infrastructure and asset management, movement, or protection. \u00a0The overall objective for this topic\u00a0area is developing a predictive analytic capability using observable and historical sensor modeling of\u00a0climate change in Alaska Arctic areas.\u00a0</p> <p><br/><b>Alexandria Phounsavath\u00a0</b></p> <p>Topic: Risk Assessment\u00a0</p> <p>How can DHS use data to respond to risk? \u00a0The most familiar application of data analytics for risk\u00a0assessment may be passenger screening at airports. \u00a0TSA screens approximately 1.8 million passengers a\u00a0day at 448 airports. \u00a0Additionally, it prescreens 2 million passengers before they arrive at the airport. \u00a0This discussion focuses on specific efforts at DHS\u2019s Science and Technology Directorate (S&amp;T) that will\u00a0further enhance the use of data for risk-based screening in aviation.</p> <p><br/><b>Linda Vasta</b></p> <p>Topic: Wearable Technologies\u2019 Analytics</p> <p>In support of one of S&amp;T\u2019s Visionary Goals: \u201cResponder of the Future: Protected, Connected, and Fully\u00a0Aware\u201d, the Data Analytics Engine is exploring how data generated from sensors in wearable\u00a0technologies can inform the first responder and emergency management community. \u00a0A key step in this\u00a0process is obtaining \u201ccustomer input\u201d from this community. \u00a0The talk will briefly discuss the\u00a0methodology and process that will be used to obtain this critical input. \u00a0</p> <p><br/><b>Chuck Lewis</b></p> <p>Topic: Big Data Laboratory\u00a0</p> <p>HSARPA DA-E maintains and operates a state-of-the-art data analytics laboratory to support mission-relevant evaluations of emerging technologies, rapid experimentation, and strategic R&amp;D efforts. The\u00a0lab infrastructure complies with privacy authorities and maintains security accreditation, allowing DA-E\u00a0to use operational data to help DHS identify enterprise data analytics architectures and solutions. \u00a0</p> <p><br/><b>Aaron Mannes</b></p> <p>Topic: Big Data and Terrorism Analytics: Finding Haystacks</p> <p>Big data is a powerful tool for counter-terror. The ability to combine and analyze a range of social, cyber,\u00a0and physical data can be leveraged to find terrorists, predict attacks, and understand their networks. Big\u00a0data can find broad trends \u2013 the haystacks. But it is not an all-purpose panacea. When big data tools are\u00a0used to find needles they may find too many, raising a host of legal and privacy concerns.</p> <p><br/><b>Daniel Marasco</b></p> <p>Topic: Smart Cities</p> <p>Availability of new digital devices and enhanced connectivity has caused a shift in the way we develop\u00a0urban environments. \u201cSmart\u201d cities leverage new technologies to solve new and old urban issues. In the\u00a0past, cities were developed with static infrastructure, rigid in their operation and expansion. Smart cities\u00a0can use data from vast sensor networks to make decisions, rapidly adapting and optimizing urban\u00a0infrastructure and systems for ever-changing conditions. Smart city sensors can improve energy\u00a0efficiency, optimize the pedestrian and vehicle traffic, evaluate principles of urban planning, and provide\u00a0situational awareness and guidance in emergencies. However, information and communication\u00a0infrastructure must be intelligent, resilient and adaptable to maximize impact. With proper\u00a0development, smart cities will be more sustainable, secure, and livable than their more traditional\u00a0counterparts.</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/225736800/", 
             "group": {
                 "created": 1339111847000, 
@@ -460,7 +460,7 @@ calendar({
             "name": "Department of Homeland Security and Data!", 
             "status": "upcoming", 
             "time": 1447369200000, 
-            "updated": 1443649824000, 
+            "updated": 1446753409000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -474,7 +474,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1446126902000, 
@@ -550,7 +550,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -626,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1422815587000, 
@@ -664,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1445992584000, 
@@ -703,7 +703,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 223
+            "yes_rsvp_count": 229
         }, 
         {
             "created": 1446220217000, 
@@ -735,7 +735,7 @@ calendar({
         }, 
         {
             "created": 1441653193000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on getting value out of attending conferences, featuring a flashback to RailsConf 2015</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>With Ruby <i>blocks</i>, you can group a set of instructions together so that they can be passed around your app.\u00a0Any code surrounded by curly braces is a block, like this:</p> <p><b>2.times { print \"Marty, you look so familiar to me. Do I know your mother?\" }\u00a0</b></p> <p>The curly braces can also be traded for the words <b>do</b> and <b>end</b>, which works well if your block is longer than one line, like this:</p> <p><b>loop do\u00a0</b> <b>print \"We would like to invite you to no longer live with us.\"\u00a0<br/></b><b>print \"At first I did not know it was your diary, I thought it was a very sad handwritten book.\"<br/>print \"You smell like pine needles and you have a face like sunshine.\"\u00a0</b></p> <p><b>end</b></p> <p><br/>An\u00a0<i>iterator</i> is simply a method that can invoke a block of code repeatedly.\u00a0</p> <p>In this lesson, we'll examine lots of of examples of blocks and iterators because, as Hartl's Rails Tutorial reminds us, \"Unless you already have a substantial programming background, there is no shortcut to understanding blocks; you just have to see them a lot, and eventually you\u2019ll get used to them.\"</p> <p>\n\n\nMeetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on blocks and iterators</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\nLooking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226196300/", 
             "group": {
@@ -749,12 +749,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "gnsnklytpbxb", 
+            "id": "xvxzllytpbxb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails: Iterators and Blocks", 
             "status": "upcoming", 
             "time": 1447889400000, 
-            "updated": 1445980927000, 
+            "updated": 1446762694000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "TBD", 
@@ -769,7 +769,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1443061952000, 
@@ -810,7 +810,7 @@ calendar({
         }, 
         {
             "created": 1445546860000, 
-            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps. We don't yet have a venue, but RSVP and you'll be notified when a location is selected.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
             "group": {
                 "created": 1384372275000, 
@@ -823,14 +823,27 @@ calendar({
                 "who": "Techies"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Entrance is on Oak St; take elevators to 11th St", 
             "id": "226241616", 
             "maybe_rsvp_count": 0, 
             "name": "Playing with Traffic", 
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1448319600000, 
-            "updated": 1445981498000, 
+            "updated": 1446771466000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1501 Wilson Blvd, Suite 1100", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 16609032, 
+                "lat": 38.895149000000004, 
+                "lon": -77.074043000000003, 
+                "name": "Mobility Lab", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22209"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 46
@@ -975,7 +988,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1443771281000, 
@@ -1105,7 +1118,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1446220217000, 

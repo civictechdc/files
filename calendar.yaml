@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - announced: false
   created: 1445376953000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -214,7 +214,7 @@ other:
     lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1444922278000
   description: "<p><b>One-Day Training</b>: CP100A -\_Google Cloud Platform Fundamentals\
     \ - Training</p> <p><b>Date</b>: Friday, November 6th</p> <p><b>Location</b>:\
@@ -284,7 +284,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 11
   yes_rsvp_count: 25
 - created: 1446672900000
   description: "<p>Interested in sharpening your coding interview skills and learning\
@@ -402,14 +402,14 @@ other:
   name: Ruby on Rails Hack Night
   status: upcoming
   time: 1447284600000
-  updated: 1445524004000
+  updated: 1446759336000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -442,7 +442,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1443771376000
   description: <p>Come see some of the latest and greatest legal hacking projects
     in DC!</p> <p>Stay tuned for a full speakers list.</p>
@@ -464,11 +464,62 @@ other:
   yes_rsvp_count: 14
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
-    \ to offer a series of lightning talks including:</p> <p>HSARPA and DAE Overview\_\
-    </p> <p>Risk Assessment\_</p> <p>Big Data Mission Deployments\_</p> <p>Big Data\
-    \ Laboratory\_</p> <p>Arctic Data Analytics\_</p> <p>Big Data Security</p> <p>Innovation\
-    \ for Disaster Response\_</p> <p>Issues in Terrorism Analytics\_</p> <p>Smart\
-    \ Secure Cities</p> <p>\n\n\nMore details and a speaker list soon!</p>"
+    \ to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p>\
+    \ <p>Topic: DHS S&amp;T HSARPA Data Analytics Engine</p> <p>Many business processes\
+    \ can benefit from the leverage of corporate data sources to create efficiencies\_\
+    and improve missions and operations. \_The DHS Data Analytics Engine examines\
+    \ cross cutting\_technologies for automating computational analytics across S&amp;T\
+    \ programs and the homeland security\_enterprise. \_This lightening talk will\
+    \ provide an overview of the S&amp;T strategic goals, major program areas,\_and\
+    \ engine construct.\_</p> <p><br/><b>Chris Featherston</b></p> <p>Topic: \_ Alaska/Arctic\
+    \ Situational Awareness Project (A/ASAP)\_</p> <p>DHS has an interest in understanding\
+    \ national infrastructure assets and navigation issues in the Arctic\_region.\
+    \ \_The By examining, correlating, and developing analytic predictive tools, it\
+    \ is purposed that DHS\_can identify trends and datasets that can be tracked,\
+    \ measured and provide a timetable for\_infrastructure and asset management, movement,\
+    \ or protection. \_The overall objective for this topic\_area is developing a\
+    \ predictive analytic capability using observable and historical sensor modeling\
+    \ of\_climate change in Alaska Arctic areas.\_</p> <p><br/><b>Alexandria Phounsavath\_\
+    </b></p> <p>Topic: Risk Assessment\_</p> <p>How can DHS use data to respond to\
+    \ risk? \_The most familiar application of data analytics for risk\_assessment\
+    \ may be passenger screening at airports. \_TSA screens approximately 1.8 million\
+    \ passengers a\_day at 448 airports. \_Additionally, it prescreens 2 million passengers\
+    \ before they arrive at the airport. \_This discussion focuses on specific efforts\
+    \ at DHS\u2019s Science and Technology Directorate (S&amp;T) that will\_further\
+    \ enhance the use of data for risk-based screening in aviation.</p> <p><br/><b>Linda\
+    \ Vasta</b></p> <p>Topic: Wearable Technologies\u2019 Analytics</p> <p>In support\
+    \ of one of S&amp;T\u2019s Visionary Goals: \u201CResponder of the Future: Protected,\
+    \ Connected, and Fully\_Aware\u201D, the Data Analytics Engine is exploring how\
+    \ data generated from sensors in wearable\_technologies can inform the first responder\
+    \ and emergency management community. \_A key step in this\_process is obtaining\
+    \ \u201Ccustomer input\u201D from this community. \_The talk will briefly discuss\
+    \ the\_methodology and process that will be used to obtain this critical input.\
+    \ \_</p> <p><br/><b>Chuck Lewis</b></p> <p>Topic: Big Data Laboratory\_</p> <p>HSARPA\
+    \ DA-E maintains and operates a state-of-the-art data analytics laboratory to\
+    \ support mission-relevant evaluations of emerging technologies, rapid experimentation,\
+    \ and strategic R&amp;D efforts. The\_lab infrastructure complies with privacy\
+    \ authorities and maintains security accreditation, allowing DA-E\_to use operational\
+    \ data to help DHS identify enterprise data analytics architectures and solutions.\
+    \ \_</p> <p><br/><b>Aaron Mannes</b></p> <p>Topic: Big Data and Terrorism Analytics:\
+    \ Finding Haystacks</p> <p>Big data is a powerful tool for counter-terror. The\
+    \ ability to combine and analyze a range of social, cyber,\_and physical data\
+    \ can be leveraged to find terrorists, predict attacks, and understand their networks.\
+    \ Big\_data can find broad trends \u2013 the haystacks. But it is not an all-purpose\
+    \ panacea. When big data tools are\_used to find needles they may find too many,\
+    \ raising a host of legal and privacy concerns.</p> <p><br/><b>Daniel Marasco</b></p>\
+    \ <p>Topic: Smart Cities</p> <p>Availability of new digital devices and enhanced\
+    \ connectivity has caused a shift in the way we develop\_urban environments. \u201C\
+    Smart\u201D cities leverage new technologies to solve new and old urban issues.\
+    \ In the\_past, cities were developed with static infrastructure, rigid in their\
+    \ operation and expansion. Smart cities\_can use data from vast sensor networks\
+    \ to make decisions, rapidly adapting and optimizing urban\_infrastructure and\
+    \ systems for ever-changing conditions. Smart city sensors can improve energy\_\
+    efficiency, optimize the pedestrian and vehicle traffic, evaluate principles of\
+    \ urban planning, and provide\_situational awareness and guidance in emergencies.\
+    \ However, information and communication\_infrastructure must be intelligent,\
+    \ resilient and adaptable to maximize impact. With proper\_development, smart\
+    \ cities will be more sustainable, secure, and livable than their more traditional\_\
+    counterparts.</p>"
   event_url: http://www.meetup.com/Data-Business-DC/events/225736800/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
@@ -479,14 +530,14 @@ other:
   name: Department of Homeland Security and Data!
   status: upcoming
   time: 1447369200000
-  updated: 1443649824000
+  updated: 1446753409000
   utc_offset: -18000000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -593,7 +644,7 @@ other:
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 9
   yes_rsvp_count: 100
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
@@ -687,7 +738,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -725,7 +776,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -812,7 +863,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 223
+  yes_rsvp_count: 229
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -843,21 +894,28 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1441653193000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills? Come to our weekly ROR group! We welcome women with all\
-    \ levels of experience. You will be able to ask your fellow coders questions and\
-    \ help each other work through issues. We encourage any advanced ROR devs to come\
-    \ and help others! There's always at least one mentor present to help you with\
-    \ best practices or guide you through if you are stuck with a nasty problem!</p>\
-    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start working</p> <p>\u2022\
-    \ 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on getting value out\
-    \ of attending conferences, featuring a flashback to RailsConf 2015</p> <p>\u2022\
-    \ 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For\
-    \ those who are new to coding or new to Rails, we recommend Michael Hartl's Rails\
-    \ Tutorial. For those who have some experience already but are looking for projects,\
-    \ we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come\
-    \ and work on something else if you like.</p> <p>Contact policy at buildings that\
+  description: "<p>With Ruby <i>blocks</i>, you can group a set of instructions together\
+    \ so that they can be passed around your app.\_Any code surrounded by curly braces\
+    \ is a block, like this:</p> <p><b>2.times { print \"Marty, you look so familiar\
+    \ to me. Do I know your mother?\" }\_</b></p> <p>The curly braces can also be\
+    \ traded for the words <b>do</b> and <b>end</b>, which works well if your block\
+    \ is longer than one line, like this:</p> <p><b>loop do\_</b> <b>print \"We would\
+    \ like to invite you to no longer live with us.\"\_<br/></b><b>print \"At first\
+    \ I did not know it was your diary, I thought it was a very sad handwritten book.\"\
+    <br/>print \"You smell like pine needles and you have a face like sunshine.\"\_\
+    </b></p> <p><b>end</b></p> <p><br/>An\_<i>iterator</i> is simply a method that\
+    \ can invoke a block of code repeatedly.\_</p> <p>In this lesson, we'll examine\
+    \ lots of of examples of blocks and iterators because, as Hartl's Rails Tutorial\
+    \ reminds us, \"Unless you already have a substantial programming background,\
+    \ there is no shortcut to understanding blocks; you just have to see them a lot,\
+    \ and eventually you\u2019ll get used to them.\"</p> <p>\n\n\nMeetup Agenda</p>\
+    \ <p>\u2022\_6:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p>\
+    \ <p>\u2022 7:15pm - Talk on blocks and iterators</p> <p>\u2022 8:15 - 8:30pm\
+    \ - Wrap Up</p> <p>\n\n\nLooking for something to work on?</p> <p>For those who\
+    \ are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial.\
+    \ For those who have some experience already but are looking for projects, we\
+    \ recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and\
+    \ work on something else if you like.</p> <p>Contact policy at buildings that\
     \ need access</p> <p>Certain building managements requires meetup hosts to let\
     \ people in and do not encourage them being contacted. Please respect the policy,\
     \ in case the location requires access to the building contact the group lead\
@@ -880,18 +938,18 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: gnsnklytpbxb
+  id: xvxzllytpbxb
   maybe_rsvp_count: 0
-  name: Ruby on Rails
+  name: 'Ruby on Rails: Iterators and Blocks'
   status: upcoming
   time: 1447889400000
-  updated: 1445980927000
+  updated: 1446762694000
   utc_offset: -18000000
   venue: {address_1: TBD, city: Washington, country: us, id: 24176154, lat: 38.907192000000002,
     lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -948,8 +1006,7 @@ other:
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
-    apps &amp; maps. We don't yet have a venue, but RSVP and you'll be notified when\
-    \ a location is selected.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    apps &amp; maps.\_</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
     >Michael</a> if you have a project you'd like to share. So far our presenters\
     \ are:</p> <p>\u2022\_<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a>\
     \ of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\_<a href=\"https://www.itdp.org/who-we-are/contact-us/\"\
@@ -975,14 +1032,18 @@ other:
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
+  how_to_find_us: Entrance is on Oak St; take elevators to 11th St
   id: '226241616'
   maybe_rsvp_count: 0
   name: Playing with Traffic
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1445981498000
+  updated: 1446771466000
   utc_offset: -18000000
+  venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
+    id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
+      Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 46
@@ -1135,7 +1196,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 71
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -1243,7 +1304,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
