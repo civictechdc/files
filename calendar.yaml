@@ -169,52 +169,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 34
-- created: 1441299586000
-  description: "<p><b>Introduction to UX:\_</b></p> <p><br/>At its core, User Experience\
-    \ (UX) is defined as how someone feels about using a product, system, or service.\
-    \ Regardless of what we\u2019re designing -- a website, an Android app, or a toaster--we\
-    \ all strive to make our designs useful, easy to use, and enjoyable to use. But\
-    \ how exactly do we make something useful, easy to use, and enjoyable? How do\
-    \ we know if the target audience is having a good or bad experience? This class\
-    \ will arm you with the essential tips to find those answers.</p> <p>\n\n\n<b>About\
-    \ the Instructor:\_</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/5/a/9/600_441594697.jpeg\"\
-    \ /></p> <p>Jenny is a UX designer with background in UI design, web development,\
-    \ and painting.\_</p> <p>Fascinated with Human-Computer Interaction, how it affects\
-    \ our daily lives, and how interacting with, and building, technology could improve\
-    \ our lives; Jenny's\_passion is\_making software usable, and bridging the gap\
-    \ between clients and users with developers and technology.</p> <p>Jenny is currently\
-    \ consulting\_with agencies, startups and small businesses on awesome digital\
-    \ projects. She\_also writes about UX at\_<a href=\"http://www.uxjenny.com/\"\
-    >www.uxjenny.com</a>.</p> <p><br/><b>Getting there:\_</b></p> <p>Opower is conveniently\
-    \ located at 1515 N Courthouse Rd, Arlington, VA 22201 - one block away from the\
-    \ Courthouse metro stop\_(on the orange and silver line).\_</p> <p>\n\n\n<b>Refund\
-    \ Policy:\_</b></p> <p>Your payment guarantees your seat in the course. If something\
-    \ changes after registration and you cannot attend the course, your seat is yours\
-    \ to sell or give to someone else - just please let us know who! \_As a rule we\
-    \ don't offer refunds or credits; \_Instead your class fee will go toward our\
-    \ chapter fund which we will use to establish a scholarship fund going forward.\
-    \ \_ That said, please do reach out and let us know if you have extenuating circumstances.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/225096237/
-  fee: {accepts: wepay, amount: 24, currency: USD, description: per person, label: Price,
-    required: '1'}
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '225096237'
-  maybe_rsvp_count: 0
-  name: Intro to UX
-  rsvp_limit: 19
-  status: upcoming
-  time: 1446764400000
-  updated: 1441299586000
-  utc_offset: -18000000
-  venue: {address_1: 1515 N Courthouse Rd, city: Arlington, country: US, id: 22030482,
-    lat: 38.891154999999998, lon: -77.083893000000003, name: Opower Inc, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 16
 - created: 1444922278000
   description: "<p><b>One-Day Training</b>: CP100A -\_Google Cloud Platform Fundamentals\
     \ - Training</p> <p><b>Date</b>: Friday, November 6th</p> <p><b>Location</b>:\
@@ -253,7 +207,7 @@ other:
     lat: 38.898457000000001, lon: -77.010300000000001, name: Google DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 68
+  waitlist_count: 69
   yes_rsvp_count: 2
 - created: 1444139505000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -461,7 +415,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
     \ to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p>\
@@ -592,7 +546,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 167
+  yes_rsvp_count: 169
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -644,7 +598,7 @@ other:
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 10
   yes_rsvp_count: 100
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
@@ -776,7 +730,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -1039,14 +993,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1446771466000
+  updated: 1446774647000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 65
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1196,7 +1150,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
