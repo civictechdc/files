@@ -1130,13 +1130,13 @@ projects([
         "activity": [
             6, 
             6, 
-            5, 
-            5, 
+            4, 
+            6, 
             7, 
             6, 
-            3, 
-            4, 
-            1, 
+            2, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -2630,8 +2630,8 @@ projects([
         "pushed_at": "2015-08-03T22:52:00Z", 
         "short_name": "open-election-map", 
         "size": 1004, 
-        "updated_at": "2015-05-09T20:16:06Z", 
-        "watchers": 14
+        "updated_at": "2015-11-07T11:28:49Z", 
+        "watchers": 15
     }, 
     {
         "activity": [
@@ -3027,8 +3027,8 @@ projects([
         "pushed_at": "2015-09-18T22:35:53Z", 
         "short_name": "booksfordc", 
         "size": 4204, 
-        "updated_at": "2015-08-11T21:00:15Z", 
-        "watchers": 14
+        "updated_at": "2015-11-07T11:26:18Z", 
+        "watchers": 15
     }, 
     {
         "activity": [

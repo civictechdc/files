@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - announced: false
   created: 1445376953000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -105,7 +105,7 @@ other:
   venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
     id: 23631792, lat: 0, lon: 0, name: Teaism Penn Quarter, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 11
   yes_rsvp_count: 25
 - created: 1446672900000
   description: "<p>Interested in sharpening your coding interview skills and learning\
@@ -218,7 +218,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -397,7 +397,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 115
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -452,7 +452,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 174
+  yes_rsvp_count: 182
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -1056,7 +1056,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 78
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
