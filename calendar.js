@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 45
         }, 
         {
             "announced": false, 
@@ -81,44 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1444139505000, 
-            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>The estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p> <p>If driving, street parking on Sundays is usually free! There are also several garages within a couple blocks.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/225869646/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "225869646", 
-            "maybe_rsvp_count": 0, 
-            "name": "Professional Networking Brunch", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1447002000000, 
-            "updated": 1444139505000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "400 8th St NW, Washington, DC 20004", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23631792, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Teaism Penn Quarter", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 25
-        }, 
-        {
             "created": 1446672900000, 
             "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Food\u00a0</p> <p>7:00 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. You can code in the language of your choice!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -156,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446216408000, 
@@ -197,7 +159,7 @@ calendar({
         }, 
         {
             "created": 1446824845000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will be going over some basics of using GIT. Before the meetup we recommend you sign up for an account at: <a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a> if you do not have one already. </b></i></p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will be going over some basics of using GIT. Before the meetup we recommend you sign up for an account at: <a href=\"https://github.com/\"><a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></a> if you do not have one already. </b></i></p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>Installation instructions can be found here (<a href=\"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\" class=\"linkified\">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a>). We will also be available to help in person at the meetup.</p> <p><b>All Women Welcome</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226590876/", 
             "group": {
                 "created": 1395616294000, 
@@ -216,7 +178,7 @@ calendar({
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1447198200000, 
-            "updated": 1446824845000, 
+            "updated": 1447011173000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -287,7 +249,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1443771376000, 
@@ -361,7 +323,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1446126902000, 
@@ -399,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 187
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1445046087000, 
@@ -423,7 +385,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1447624800000, 
-            "updated": 1446087096000, 
+            "updated": 1447028679000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th Street, NW Suite 200. ", 
@@ -437,7 +399,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -590,7 +552,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 240
+            "yes_rsvp_count": 242
         }, 
         {
             "created": 1446220217000, 
@@ -1005,7 +967,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220217000, 
@@ -1312,6 +1274,34 @@ calendar({
             "status": "upcoming", 
             "time": 1455147000000, 
             "updated": 1446220149000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486818/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvdbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1455751800000, 
+            "updated": 1446220217000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
