@@ -107,8 +107,8 @@
   pushed_at: '2015-09-17T04:08:57Z'
   short_name: districthousing
   size: 23105
-  updated_at: '2015-11-04T21:05:44Z'
-  watchers: 27
+  updated_at: '2015-11-09T18:26:53Z'
+  watchers: 28
 - activity: [5, 0, 1, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4,
     0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 3, 0]
@@ -371,7 +371,7 @@
   size: 18584
   updated_at: '2015-08-26T00:23:22Z'
   watchers: 19
-- activity: [6, 6, 4, 6, 7, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -422,7 +422,7 @@
   size: 2410
   updated_at: '2015-05-19T23:32:02Z'
   watchers: 5
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1117,36 +1117,6 @@
   forks: 30
   help_wanted:
   - assignee: null
-    body: "https://github.com/mhollander/Expungement-Generator.\r\n\r\nIs this possible\
-      \ for us to do?"
-    comments: 22
-    created_at: '2015-09-21T01:47:17Z'
-    issue: Look into automatic eligibility checker that uses PHP
-    issue_url: https://github.com/codefordc/clean-slate/issues/165
-    labels:
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
-    - {color: cc317c, name: question, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/question'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-25T14:10:23Z'
-  - assignee: null
-    body: "Step 1: Create a banner/button  four our site that reads \"espanol\" that\
-      \ is show on the first 3 pages of the site. \r\nStep 2: Fork the cleanslate\
-      \ site and host on your github pages. We will then use the link of your github\
-      \ pages to be used as the link references as \"espanol\"."
-    comments: 9
-    created_at: '2015-07-31T00:10:04Z'
-    issue: Add an internalization feature so that site can be used in espanol.
-    issue_url: https://github.com/codefordc/clean-slate/issues/106
-    labels:
-    - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/enhancement'}
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: 006b75, name: 'Priority #2', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-23T16:33:04Z'
-  - assignee: null
     body: '@John Leszczynski'
     comments: 7
     created_at: '2015-07-09T19:08:42Z'
@@ -1159,34 +1129,6 @@
     project: Conviction Expungement
     project_url: https://github.com/codefordc/clean-slate
     updated_at: '2015-10-28T10:47:14Z'
-  - assignee: null
-    body: 'Anyone willing to Add in popup legal glossary using this: http://openadvocate.org/readclearly/?
-      ReadClearly identifies complex legal terms on your website and displays a plain
-      language explanation.'
-    comments: 14
-    created_at: '2015-07-09T18:59:39Z'
-    issue: 'Simplify our definitions. Many words on the site are not defined simply. '
-    issue_url: https://github.com/codefordc/clean-slate/issues/85
-    labels:
-    - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/enhancement'}
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: 5319e7, name: 'Priority #1', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-09-12T02:30:23Z'
-  - assignee: null
-    body: '@cweems Would you happen to have some bandwith before thursday to see if
-      the Email responses button is possible? '
-    comments: 3
-    created_at: '2015-06-02T02:15:22Z'
-    issue: 'Allow for email feature. '
-    issue_url: https://github.com/codefordc/clean-slate/issues/62
-    labels:
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted'}
-    - {color: 006b75, name: 'Priority #2', url: 'https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232'}
-    project: Conviction Expungement
-    project_url: https://github.com/codefordc/clean-slate
-    updated_at: '2015-10-28T10:47:20Z'
   homepage: https://codefordc.github.io/clean-slate
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
@@ -1197,7 +1139,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 14
+  open_issues: 8
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-11-02T01:18:31Z'
