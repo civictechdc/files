@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": false, 
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1446216408000, 
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1446824845000, 
@@ -287,7 +287,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1443649777000, 
@@ -323,7 +323,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1446126902000, 
@@ -361,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 190
+            "yes_rsvp_count": 192
         }, 
         {
             "created": 1445046087000, 
@@ -399,7 +399,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -513,7 +513,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1445992584000, 
@@ -552,7 +552,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 242
+            "yes_rsvp_count": 247
         }, 
         {
             "created": 1446220217000, 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1446216408000, 
@@ -837,7 +837,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1443771281000, 
