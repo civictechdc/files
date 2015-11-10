@@ -79,7 +79,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 20
 - created: 1443771376000
   description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of more\
     \ than twenty legal hacking, technology, or innovation groups around the country.\
@@ -92,8 +92,10 @@ other:
     >Telecom Data Hackathon</a>.\_</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food,\
     \ drinks, and networking\_</p> <p>7:00-7:15 Introductions and announcements\_\
     </p> <p>7:15-8:00\_Presentations and discussion</p> <p><b>Presentations</b></p>\
-    \ <p><b>\u2022 Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p>\
-    \ <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\"\
+    \ <p><b>\u2022 Briane Knight presenting on <a href=\"http://codefordc.github.io/clean-slate/\"\
+    >Clean Slate</a></b></p> <p><b>\u2022\_Joshua Tauberer presenting on <a href=\"\
+    http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting\
+    \ on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\"\
     >Citation Analyzer Footnotes</a></b></p> <p><b>\u2022 David Greisen presenting\
     \ on DC Council's budding <a href=\"https://github.com/DCCouncil/dc-code-prototype-tools\"\
     >Codification Workflow</a><br/></b></p> <p>\u2022 More TBD!\_</p> <p><br/>Want\
@@ -112,14 +114,14 @@ other:
   name: Legal Hack Demo Night
   status: upcoming
   time: 1447284600000
-  updated: 1447118776000
+  updated: 1447180146000
   utc_offset: -18000000
   venue: {address_1: 1990 K Street NW, city: Washington, country: us, id: 23884018,
     lat: 38.901294999999998, lon: -77.044640000000001, name: Cove K St, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 30
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -129,23 +131,22 @@ other:
     \ and help others! There's always at least one mentor present to help you with\
     \ best practices or guide you through if you are stuck with a nasty problem!</p>\
     \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start working</p> <p>\u2022\
-    \ 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on getting value out\
-    \ of attending conferences, featuring a flashback to RailsConf 2015</p> <p>\u2022\
-    \ 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For\
-    \ those who are new to coding or new to Rails, we recommend Michael Hartl's Rails\
-    \ Tutorial. For those who have some experience already but are looking for projects,\
-    \ we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come\
-    \ and work on something else if you like.</p> <p>Contact policy at buildings that\
-    \ need access</p> <p>Certain building managements requires meetup hosts to let\
-    \ people in and do not encourage them being contacted. Please respect the policy,\
-    \ in case the location requires access to the building contact the group lead\
-    \ if information is provided, or drop a comment on the meetup page. We'll come\
-    \ and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate\
-    \ about learning ROR with fellow awesome women and want to help us, come on out!\
-    \ Drop us a message or email us and let us know that you are interested in helping\
-    \ us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources\
-    \ that members have been following along, feel free to suggest if you have more\
-    \ to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on the Gravatar gem</p>\
+    \ <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p>\
+    \ <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's\
+    \ Rails Tutorial. For those who have some experience already but are looking for\
+    \ projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome\
+    \ to come and work on something else if you like.</p> <p>Contact policy at buildings\
+    \ that need access</p> <p>Certain building managements requires meetup hosts to\
+    \ let people in and do not encourage them being contacted. Please respect the\
+    \ policy, in case the location requires access to the building contact the group\
+    \ lead if information is provided, or drop a comment on the meetup page. We'll\
+    \ come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p>\
+    \ <p>If you are passionate about learning ROR with fellow awesome women and want\
+    \ to help us, come on out! Drop us a message or email us and let us know that\
+    \ you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p>\
+    \ <p>These are the resources that members have been following along, feel free\
+    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>This event is intended to be exclusively open for people who identify as\
@@ -160,17 +161,17 @@ other:
   headcount: 0
   id: gnsnklytpbpb
   maybe_rsvp_count: 0
-  name: 'Ruby on Rail: Using the Gravatar Gem'
+  name: 'Ruby on Rails: Using the Gravatar Gem'
   status: upcoming
   time: 1447284600000
-  updated: 1447101736000
+  updated: 1447171115000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -279,7 +280,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 139
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -334,7 +335,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 203
+  yes_rsvp_count: 204
 - created: 1447027052000
   description: "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on\
     \ Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted\
@@ -363,7 +364,7 @@ other:
     country: us, id: 24181607, lat: 39.235610999999999, lon: -76.829384000000005,
     name: ' Maryland Center for Entrepreneurship', repinned: false, state: MD}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 2
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
@@ -417,7 +418,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 124
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 7:00.\
@@ -510,7 +511,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -548,7 +549,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 38
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -635,7 +636,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 262
+  yes_rsvp_count: 267
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -775,7 +776,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1446846509000
   description: "<p>I said a hip, hop, the hippy to the hippy/To the hip hip hop, you\
     \ don't stop.\u2009.\u2009.\u2009.</p> <p><br/>If you were a fan of hip-hop/rap\
@@ -826,7 +827,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 24
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -841,8 +842,10 @@ other:
     \ data for early traffic incident detection and management.</p> <p><br/>\u2022\
     \_Brian Zito,\_Ashley Peter, and\_Seth\_Clark created\_Eyes Ahead, an app that\
     \ discourages texting and driving by creating accountability.</p> <p><br/>\u2022\
-    \_Anthony Gallo of\_<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will\
-    \ discuss traffic simulation for the <a href=\"http://outside.transform66.org/\"\
+    \_Will Kasper will show how\_<a href=\"http://www.skycomp.com/\">Skycomp</a>\_\
+    gets\_speed, route and travel-time data \u200Efrom time-lapse aerial photography.</p>\
+    \ <p><br/>\u2022\_Anthony Gallo of\_<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a>\
+    \ will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\"\
     >I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\_<a href=\"\
     https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\_<a href=\"http://www.driversiti.com/\"\
     >Driversiti</a> uses mobile devices to detect\_driver behavior.</p> <p>\u2022\_\
@@ -863,14 +866,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1448319600000
-  updated: 1446774647000
+  updated: 1447171410000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 89
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1020,7 +1023,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 88
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
