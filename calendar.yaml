@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 46
 - announced: false
   created: 1445376953000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 other:
 - created: 1446672900000
   description: "<p>Interested in sharpening your coding interview skills and learning\
@@ -148,7 +148,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 15
 - created: 1446824845000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -190,7 +190,45 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
+- created: 1443771376000
+  description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of more\
+    \ than twenty legal hacking, technology, or innovation groups around the country.\
+    \ A legal hacker is someone who cares about the intersection of law and technology\
+    \ and seeks to improve legal practice through technology while simultaneously\
+    \ using legal skills to promote technological innovation and exploration.</p>\
+    \ <p>Join us November 11, 2015 at 6:30 pm to see follow up demos from the DC Legal\
+    \ Hackers\_<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\"\
+    >Citation Hackathon</a>\_and the\_<a href=\"http://telecomhack.splashthat.com/\"\
+    >Telecom Data Hackathon</a>.\_</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food,\
+    \ drinks, and networking\_</p> <p>7:00-7:15 Introductions and announcements\_\
+    </p> <p>7:15-8:00\_Presentations and discussion</p> <p><b>Presentations</b></p>\
+    \ <p><b>\u2022 Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p>\
+    \ <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\"\
+    >Citation Analyzer Footnotes</a></b></p> <p>\u2022 More TBD!\_</p> <p><br/>Want\
+    \ to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\_\
+    </p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or\
+    \ at\_<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\_\
+    </p>"
+  duration: 5400000
+  event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  id: '225773463'
+  maybe_rsvp_count: 0
+  name: Legal Hack Demo Night
+  status: upcoming
+  time: 1447284600000
+  updated: 1447108353000
+  utc_offset: -18000000
+  venue: {address_1: 1990 K Street NW, city: Washington, country: us, id: 23884018,
+    lat: 38.901294999999998, lon: -77.044640000000001, name: Cove K St, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 21
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -231,10 +269,10 @@ other:
   headcount: 0
   id: gnsnklytpbpb
   maybe_rsvp_count: 0
-  name: Ruby on Rails Hack Night
+  name: 'Ruby on Rail: Using the Gravatar Gem'
   status: upcoming
   time: 1447284600000
-  updated: 1446759336000
+  updated: 1447101736000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
@@ -272,27 +310,6 @@ other:
   time: 1447284600000
   updated: 1446686598000
   utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 17
-- created: 1443771376000
-  description: <p>Come see some of the latest and greatest legal hacking projects
-    in DC!</p> <p>Stay tuned for a full speakers list.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '225773463'
-  maybe_rsvp_count: 0
-  name: Legal Hack Demo Night
-  status: upcoming
-  time: 1447286400000
-  updated: 1446927788000
-  utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 19
@@ -371,7 +388,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 135
+  yes_rsvp_count: 136
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -426,7 +443,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 199
+  yes_rsvp_count: 200
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -478,7 +495,7 @@ other:
     id: 21987722, lat: 38.895415999999997, lon: -77.021552999999997, name: Impact
       Hub DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 18
+  waitlist_count: 20
   yes_rsvp_count: 100
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
@@ -697,7 +714,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 259
+  yes_rsvp_count: 262
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -784,7 +801,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -881,7 +898,7 @@ other:
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 85
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\

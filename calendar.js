@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }
     ], 
     "other": [
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446824845000, 
@@ -182,7 +182,45 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
+        }, 
+        {
+            "created": 1443771376000, 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of more than twenty legal hacking, technology, or innovation groups around the country. A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us November 11, 2015 at 6:30 pm to see follow up demos from the DC Legal Hackers\u00a0<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\">Citation Hackathon</a>\u00a0and the\u00a0<a href=\"http://telecomhack.splashthat.com/\">Telecom Data Hackathon</a>.\u00a0</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food, drinks, and networking\u00a0</p> <p>7:00-7:15 Introductions and announcements\u00a0</p> <p>7:15-8:00\u00a0Presentations and discussion</p> <p><b>Presentations</b></p> <p><b>\u2022 Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\">Citation Analyzer Footnotes</a></b></p> <p>\u2022 More TBD!\u00a0</p> <p><br/>Want to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\u00a0</p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\u00a0</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773463/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "225773463", 
+            "maybe_rsvp_count": 0, 
+            "name": "Legal Hack Demo Night", 
+            "status": "upcoming", 
+            "time": 1447284600000, 
+            "updated": 1447108353000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1990 K Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23884018, 
+                "lat": 38.901294999999998, 
+                "lon": -77.044640000000001, 
+                "name": "Cove K St", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1445469750000, 
@@ -202,10 +240,10 @@ calendar({
             "headcount": 0, 
             "id": "gnsnklytpbpb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Hack Night", 
+            "name": "Ruby on Rail: Using the Gravatar Gem", 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1446759336000, 
+            "updated": 1447101736000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -249,44 +287,6 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
-        }, 
-        {
-            "created": 1443771376000, 
-            "description": "<p>Come see some of the latest and greatest legal hacking projects in DC!</p> <p>Stay tuned for a full speakers list.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773463/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "225773463", 
-            "maybe_rsvp_count": 0, 
-            "name": "Legal Hack Demo Night", 
-            "status": "upcoming", 
-            "time": 1447286400000, 
-            "updated": 1446927788000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
             "yes_rsvp_count": 19
         }, 
         {
@@ -323,7 +323,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1446126902000, 
@@ -361,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 199
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1445046087000, 
@@ -399,7 +399,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -552,7 +552,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 259
+            "yes_rsvp_count": 262
         }, 
         {
             "created": 1446220217000, 
@@ -618,7 +618,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1443061952000, 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1446216408000, 

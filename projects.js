@@ -2098,7 +2098,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "master", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 11, 
+        "forks": 12, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
@@ -2114,7 +2114,7 @@ projects([
             ], 
             [
                 "HTML", 
-                728
+                5815
             ]
         ], 
         "license": null, 
@@ -2127,9 +2127,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-10-14T20:11:45Z", 
+        "pushed_at": "2015-11-10T00:55:00Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 27385, 
+        "size": 27415, 
         "updated_at": "2015-10-28T01:25:42Z", 
         "watchers": 15
     }, 
@@ -3406,6 +3406,57 @@ projects([
         "help_wanted": [
             {
                 "assignee": null, 
+                "body": "Small content changes needed for the entire current code base (as opposed to the new code base specifically that creates a flow for legal clinics). \r\n\r\n1) Edit this page: https://www.cleanslatedc.com/#/eligibility/614\r\n-change \"charge disp\" date to charge disposition date. Only make this change within the question (as opposed to altering the helper text highlighted in blue). \r\n*double check to make sure that there are not other instances in the site to edit as well.\r\n2) Provide a link/button for those who find out they are not eligible for Actual innocence. Edit this page: https://www.cleanslatedc.com/#/eligibility/ineligibleAI. Change the helper text to recommend they hit \"restart\" and try to seal the crime under another category (i.e. conviction or non-conviction). \r\n3) Fix ineligible misdemeanors page:  https://www.cleanslatedc.com/#/eligibility/621. The helper text is acting wonking \r\n4) Edit this page: https://www.cleanslatedc.com/#/eligibility/621a . \r\nReplace \"Someone you know\" with \"someone you are related to by blood or marriage).\r\nInclude the following information in the helper text: \"Examples of someone related by blood or marriage are: wife/husband, daughter/son, nephew/neice, aunt/uncle, and an other step  family members.\" ", 
+                "comments": 0, 
+                "created_at": "2015-11-09T20:05:54Z", 
+                "issue": "4 quick edits to current code based for Clean-Slate (do this before creating code base for legal clinics) ", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/172", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "5319e7", 
+                        "name": "Priority #1", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-11-09T20:09:02Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "Once an individual selects they are a legal clinic, we need to add an introductory page/landing page. We have already recorded the video. This issue can be worked on after @jmezetin has submitted his redesign that creates a separate path for the legal clinic and seperate path for the public. ", 
+                "comments": 1, 
+                "created_at": "2015-11-09T19:13:27Z", 
+                "issue": "Once an individual selects they are a legal clinic, we need to add an introductory page/landing page. We have already recorded the video ", 
+                "issue_url": "https://github.com/codefordc/clean-slate/issues/171", 
+                "labels": [
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "5319e7", 
+                        "name": "Priority #1", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
+                    }, 
+                    {
+                        "color": "006b75", 
+                        "name": "Priority #2", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232"
+                    }
+                ], 
+                "project": "Conviction Expungement", 
+                "project_url": "https://github.com/codefordc/clean-slate", 
+                "updated_at": "2015-11-09T20:14:56Z"
+            }, 
+            {
+                "assignee": null, 
                 "body": "@John Leszczynski", 
                 "comments": 7, 
                 "created_at": "2015-07-09T19:08:42Z", 
@@ -3453,7 +3504,7 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 8, 
+        "open_issues": 12, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
