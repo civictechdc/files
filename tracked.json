@@ -76,6 +76,9 @@
     },
     {
         "Open Elections Data": "https://github.com/openelections/openelections-data-dc"
+    },
+    {
+        "LegiTrack DC": "https://github.com/jkoul/LegiTrackDC"
     }
 ],
 "meetups": [
