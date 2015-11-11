@@ -371,7 +371,7 @@
   size: 18584
   updated_at: '2015-08-26T00:23:22Z'
   watchers: 19
-- activity: [6, 6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 6, 4, 7, 6, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   civic_json:
@@ -1077,11 +1077,11 @@
     thumbnailUrl: ''
     type: Web app
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 98,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 99,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 97,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 43,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5722831?v=3', contributions: 65,
     link: 'https://github.com/jmezetin', name: jmezetin}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1573454?v=3', contributions: 35,
     link: 'https://github.com/RyanGladstone', name: RyanGladstone}
@@ -1180,8 +1180,8 @@
   html_url: https://github.com/codefordc/clean-slate
   id: 28992747
   languages:
-  - [HTML, 26305]
-  - [JavaScript, 13008]
+  - [HTML, 64873]
+  - [JavaScript, 61309]
   - [CSS, 3906]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
@@ -1189,7 +1189,7 @@
   open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-02T01:18:31Z'
+  pushed_at: '2015-11-10T22:19:59Z'
   short_name: clean-slate
   size: 10681
   updated_at: '2015-10-28T00:50:28Z'

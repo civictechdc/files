@@ -1135,7 +1135,7 @@
             6, 
             5, 
             3, 
-            4, 
+            3, 
             0, 
             0, 
             0, 
@@ -3303,7 +3303,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 98, 
+                "contributions": 99, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3315,7 +3315,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5722831?v=3", 
-                "contributions": 43, 
+                "contributions": 65, 
                 "link": "https://github.com/jmezetin", 
                 "name": "jmezetin"
             }, 
@@ -3491,11 +3491,11 @@
         "languages": [
             [
                 "HTML", 
-                26305
+                64873
             ], 
             [
                 "JavaScript", 
-                13008
+                61309
             ], 
             [
                 "CSS", 
@@ -3517,7 +3517,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-11-02T01:18:31Z", 
+        "pushed_at": "2015-11-10T22:19:59Z", 
         "short_name": "clean-slate", 
         "size": 10681, 
         "updated_at": "2015-10-28T00:50:28Z", 
