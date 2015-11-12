@@ -37,127 +37,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }
     ], 
     "other": [
-        {
-            "created": 1443771376000, 
-            "description": "<p>\u2022 Briane Knight presenting on\u00a0<a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></p> <p>DC Legal Hackers is the DC Chapter of a growing movement of more than twenty legal hacking, technology, or innovation groups around the country. A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us November 11, 2015 at 6:30 pm to see legal hacking demos, including follow up projects from the DC Legal Hackers\u00a0<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\">Citation Hackathon</a>\u00a0and the\u00a0<a href=\"http://telecomhack.splashthat.com/\">Telecom Data Hackathon</a>.\u00a0</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food, drinks, and networking\u00a0</p> <p>7:00-7:15 Introductions and announcements\u00a0</p> <p>7:15-8:00\u00a0Presentations and discussion</p> <p><b>Presentations</b></p> <p><b>\u2022\u00a0Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\">Citation Analyzer Footnotes</a></b></p> <p><b>\u2022 David Greisen presenting on DC Council's budding <a href=\"https://github.com/DCCouncil/dc-code-prototype-tools\">Codification Workflow</a>\u00a0</b></p> <p><b>\u2022 Briane Knight presenting on\u00a0<a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></b></p> <p><br/>More TBD!\u00a0</p> <p><br/>Want to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\u00a0</p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\u00a0</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773463/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "225773463", 
-            "maybe_rsvp_count": 0, 
-            "name": "Legal Hack Demo Night", 
-            "status": "upcoming", 
-            "time": 1447284600000, 
-            "updated": 1447286905000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1990 K Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23884018, 
-                "lat": 38.901294999999998, 
-                "lon": -77.044640000000001, 
-                "name": "Cove K St", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 38
-        }, 
-        {
-            "created": 1445469750000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk on the Gravatar gem</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226220265/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "We'll be in the board room, through the open kitchen space away from the elevator, past the shuffleboard table.", 
-            "id": "gnsnklytpbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Using the Gravatar Gem", 
-            "status": "upcoming", 
-            "time": 1447284600000, 
-            "updated": 1447183128000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 11
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p>----------------------------------------------------------------</p> <p><br/><b>We will have our meetup via on Python Slack with any questions or projects that you are working on. We will still meet at 6:30pm to 8:30pm. Please join us at\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python\"><a href=\"https://womenwhocodedc.slack.com/messages/python\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python</a></a> or\u00a0<a href=\"https://womenwhocodedc.slack.com\"><a href=\"https://womenwhocodedc.slack.com\" class=\"linkified\">https://womenwhocodedc.slack.com</a></a> and select #python</b></p> <p><b>If you are not already part of WWC Slack: </b>Private message Anissa J. your email or go here bit.ly/join-slack-dc-wwc (the link sends us your info and then we send the invite. PMing Anissa is more direct)</p> <p><br/>---------------------------------------------------------------</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.<br/>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226423485/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllytpbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1447284600000, 
-            "updated": 1447284774000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Women Who Code Slack Channel #python", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24202886, 
-                "lat": 38.907192000000002, 
-                "lon": -77.036873, 
-                "name": "Virtual-Python Slack Channel", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
-        }, 
         {
             "created": 1443649777000, 
             "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p> <p><b>Topic: DHS S&amp;T HSARPA Data Analytics Engine</b></p> <p>Many business processes can benefit from the leverage of corporate data sources to create efficiencies and improve missions and operations.\u00a0 The DHS Data Analytics Engine examines cross cutting technologies for automating computational analytics across S&amp;T programs and the homeland security enterprise.\u00a0 This lightening talk will provide an overview of the S&amp;T strategic goals, major program areas, and engine construct.</p> <p><b>Chuck Lewis</b></p> <p><b>Topic: Big Data Laboratory </b></p> <p>HSARPA DA-E maintains and operates a state-of-the-art data analytics laboratory to support mission-relevant evaluations of emerging technologies, rapid experimentation, and strategic R&amp;D efforts. The lab infrastructure complies with privacy authorities and maintains security accreditation, allowing DA-E to use operational data to help DHS identify enterprise data analytics architectures and solutions. \u00a0</p> <p><b>James Younger</b></p> <p><b>Topic: Big Data Security</b></p> <p>This talk will focus on the challenges surrounding securing Big Data systems.\u00a0 Hear how traditional security models are adapted to areas of Big Data security, where new approaches are being used and how Big Data itself is being utilized to provide more efficient and effective security operations.</p> <p><b>Shane Cullen</b></p> <p><b>Topic: Big Data Analytics for DHS Components</b></p> <p>DHS S&amp;T is assisting agencies with the development and fielding of advanced analytic systems. This lightning talk will focus on the system architectures and management methodologies that have resulted in successful analytic deployments.</p> <p><b>Aaron Mannes</b></p> <p><b>Topic: Big Data and Terrorism Analytics: Finding Haystacks</b></p> <p>Big data is a powerful tool for counter-terror. The ability to combine and analyze a range of social, cyber, and physical data can be leveraged to find terrorists, predict attacks, and understand their networks. Big data can find broad trends \u2013 the haystacks. But it is not an all-purpose panacea. When big data tools are used to find needles they may find too many, raising a host of legal and privacy concerns.</p> <p><b>Alexandria Phounsavath </b></p> <p><b>Topic: Risk Assessment </b></p> <p>How can DHS use data to respond to risk?\u00a0 The most familiar application of data analytics for risk assessment may be passenger screening at airports.\u00a0 TSA screens approximately 1.8 million passengers a day at 448 airports.\u00a0 Additionally, it prescreens 2 million passengers before they arrive at the airport.\u00a0 This discussion focuses on specific efforts at DHS\u2019s Science and Technology Directorate (S&amp;T) that will further enhance the use of data for risk-based screening in aviation.</p> <p><b>Chris Featherston</b></p> <p><b>Topic:\u00a0 Alaska/Arctic Situational Awareness Project (A/ASAP) </b></p> <p>DHS has an interest in understanding national infrastructure assets and navigation issues in the Arctic region.\u00a0 The By examining, correlating, and developing analytic predictive tools, it is purposed that DHS can identify trends and datasets that can be tracked, measured and provide a timetable for infrastructure and asset management, movement, or protection.\u00a0 The overall objective for this topic area is developing a predictive analytic capability using observable and historical sensor modeling of climate change in Alaska Arctic areas.</p> <p><b>Linda Vasta</b></p> <p><b>Topic: Wearable Technologies\u2019 Analytics</b></p> <p>In support of one of S&amp;T\u2019s Visionary Goals: \u201cResponder of the Future: Protected, Connected, and Fully Aware\u201d, the Data Analytics Engine is exploring how data generated from sensors in wearable technologies can inform the first responder and emergency management community.\u00a0 A key step in this process is obtaining \u201ccustomer input\u201d from this community.\u00a0 The talk will briefly discuss the methodology and process that will be used to obtain this critical input.\u00a0</p> <p><b>Daniel Marasco</b></p> <p><b>Topic: Smart Cities</b></p> <p>Availability of new digital devices and enhanced connectivity has caused a shift in the way we develop urban environments. \u201cSmart\u201d cities leverage new technologies to solve new and old urban issues. In the past, cities were developed with static infrastructure, rigid in their operation and expansion. Smart cities can use data from vast sensor networks to make decisions, rapidly adapting and optimizing urban infrastructure and systems for ever-changing conditions. Smart city sensors can improve energy efficiency, optimize the pedestrian and vehicle traffic, evaluate principles of urban planning, and provide situational awareness and guidance in emergencies. However, information and communication infrastructure must be intelligent, resilient and adaptable to maximize impact. With proper development, smart cities will be more sustainable, secure, and livable than their more traditional counterparts.</p>", 
@@ -230,7 +113,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 200
+            "yes_rsvp_count": 198
         }, 
         {
             "created": 1447027052000, 
@@ -309,7 +192,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1444328178000, 
@@ -384,7 +267,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1422815587000, 
@@ -461,7 +344,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 286
+            "yes_rsvp_count": 330
         }, 
         {
             "created": 1446220217000, 
@@ -824,7 +707,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1443771281000, 
@@ -1346,6 +1229,62 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486818/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvdbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1455751800000, 
+            "updated": 1446220217000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvfbdb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvfbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1456961400000, 
+            "updated": 1446219481000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
