@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 other:
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
@@ -121,7 +121,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 158
+  yes_rsvp_count: 159
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -176,7 +176,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 198
+  yes_rsvp_count: 199
 - created: 1447027052000
   description: "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on\
     \ Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted\
@@ -259,7 +259,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 157
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 7:00.\
@@ -477,7 +477,45 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 330
+  yes_rsvp_count: 350
+- created: 1447341955000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_ <b>***Please\
+    \ bring your laptop to this event as computers will not be provided.***</b></p>\
+    \ <p><b>Meetup Format</b></p> <p><i><b>This week we will be going through a tutorial\
+    \ of building a static To Do app. Please make sure that you have Android Studio\
+    \ installed and working on your laptop before you arrive!\_</b></i></p> <p><br/><b>Building\
+    \ Access</b></p> <p>The management in certain buildings requires meetup hosts\
+    \ to let people in instead of relying on their security staff. \_ Please respect\
+    \ the policy in case the location requires access to the building. \_To gain access,\
+    \ contact the group lead if information is provided or drop a comment on the meetup\
+    \ page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check\
+    \ out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed!</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come\
+    \ This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"\
+    http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226726465/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '226726465'
+  maybe_rsvp_count: 0
+  name: Android - Build a static To Do app!
+  rsvp_limit: 30
+  status: upcoming
+  time: 1447803000000
+  updated: 1447342126000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 10
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -509,7 +547,7 @@ other:
     state: VA, zip: '22314'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 6
 - created: 1441653193000
   description: "<p>With Ruby <i>blocks</i>, you can group a set of instructions together\
     \ so that they can be passed around your app.\_Any code surrounded by curly braces\
@@ -567,7 +605,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -671,7 +709,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 46
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -760,32 +798,35 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446216408000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting. There's always at least one mentor or leader present\
-    \ to help you with best practices or to guide you through if you are stuck with\
-    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
-    \ please bring your laptop. Extra computers will not be available at the event.\
-    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
-    \ Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p>\
-    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm -\
-    \ Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or\
-    \ talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p>\
-    \ <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
-    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
-    >http://bit.ly/first-timers-guide</a>\_</p> <p>\u2022\_HTML Study Guide: <a href=\"\
-    http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\_\
-    </p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain\
-    \ building management companies require Meetup hosts to let people in and do not\
-    \ encourage them being contacted. Please respect the policy. In case the location\
-    \ requires access to the building, contact the group lead if information is provided\
-    \ or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome\
-    \ This event is intended to be exclusively open for women; we are trans* friendly.</p>"
+  description: "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be\
+    \ doing an Introduction to SASS presentation. If you have any specific questions.\
+    \ Feel free to post them in the comments section. Thanks.</p> <p>Front End Hack\
+    \ Night (FEHN) is a study group where women can come together and help each other\
+    \ learn and understand web development. We welcome devs of all levels and encourage\
+    \ those with more experience to help out those that are just starting. There's\
+    \ always at least one mentor or leader present to help you with best practices\
+    \ or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In\
+    \ order to maximize your benefits from FEHN, please bring your laptop. Extra computers\
+    \ will not be available at the event. Even if you have never coded before, you\
+    \ will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the\
+    \ following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick\
+    \ introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm\
+    \ - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022\
+    \ 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please\
+    \ visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"\
+    linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide:\
+    \ <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\_\
+    </p> <p>\u2022\_HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"\
+    linkified\">http://bit.ly/html-study-guide</a>\_</p> <p>\u2022 JavaScript Study\
+    \ Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\
+    \ Building Access</p> <p>Certain building management companies require Meetup\
+    \ hosts to let people in and do not encourage them being contacted. Please respect\
+    \ the policy. In case the location requires access to the building, contact the\
+    \ group lead if information is provided or drop a comment on the Meetup page.\
+    \ We'll come and get you.</p> <p>Welcome This event is intended to be exclusively\
+    \ open for women; we are trans* friendly.</p>"
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226422324/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -793,17 +834,17 @@ other:
   headcount: 0
   id: znwvllytpbnc
   maybe_rsvp_count: 0
-  name: Front End Hack Night
+  name: Front End Hack Night - Intro to SASS
   status: upcoming
   time: 1448926200000
-  updated: 1446222205000
+  updated: 1447352162000
   utc_offset: -18000000
   venue: {address_1: '1211 Connecticut Avenue Northwest #250', city: Washington, country: us,
     id: 11024172, lat: 38.906216000000001, lon: -77.041213999999997, name: RepEquity
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 11
 - created: 1446760302000
   description: "<p>Meetup Agenda</p> <p><br/>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk (if scheduled)</p>\
@@ -872,7 +913,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -907,7 +948,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 91
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -987,42 +1028,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 10
-- created: 1447185710000
-  description: "<p>Meetup Agenda</p> <p><br/>\u2022\_6:30pm - Setup and start working</p>\
-    \ <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk (if scheduled)</p>\
-    \ <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p>\
-    \ <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's\
-    \ Rails Tutorial. For those who have some experience already but are looking for\
-    \ projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome\
-    \ to come and work on something else if you like.</p> <p>Contact policy at buildings\
-    \ that need access</p> <p>Certain building managements requires meetup hosts to\
-    \ let people in and do not encourage them being contacted. Please respect the\
-    \ policy, in case the location requires access to the building contact the group\
-    \ lead if information is provided, or drop a comment on the meetup page. We'll\
-    \ come and get you.\_</p> <p>Want to be a Ruby on Rails Study Group leader?</p>\
-    \ <p>If you are passionate about learning ROR with fellow awesome women and want\
-    \ to help us, come on out! Drop us a message or email us and let us know that\
-    \ you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    >&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a\
-    \ href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/hsgdmlytqbmb/
+- created: 1447342129000
+  description: "<p>For this meetup we're going to get a group together and go to one\
+    \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
+    \ network and connect with other people in the DC tech community. \_Not everyone\
+    \ considers networking and/or going to parties alone to be fun, so what better\
+    \ than to go with a group of women who will support you? \_Whether people want\
+    \ to meet up beforehand on their own or meet WWC-ers at the party, we will open\
+    \ a Slack channel closer to the event to connect Women Who Code DC folks who will\
+    \ be there. \_If you haven't joined yet, request to join our Slack group for communication:</p>\
+    \ <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\"\
+    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize\
+    \ that as this is a ticketed event, it might not be within everyone's financial\
+    \ ability to go. \_We will pass on whatever promotional codes we can.</p> <p>The\
+    \ plan:</p> <p>Buy a ticket from the link below, which also has location information.\
+    \ \_Early-bird pricing is available until December 1. Bring business cards or\
+    \ contact info to exchange as you network (if desired) Meet up at the venue Connect\
+    \ on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    &gt;Buy Ticket(s)</a></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226726536/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
   id: hsgdmlytqbmb
   maybe_rsvp_count: 0
-  name: Ruby on Rails
+  name: Ruby on Rails at Tech the Halls
   status: upcoming
   time: 1449703800000
-  updated: 1447185710000
+  updated: 1447342325000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -1125,46 +1160,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
-- created: 1447185710000
-  description: "<p>Meetup Agenda</p> <p><br/>\u2022\_6:30pm - Setup and start working</p>\
-    \ <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk (if scheduled)</p>\
-    \ <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p>\
-    \ <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's\
-    \ Rails Tutorial. For those who have some experience already but are looking for\
-    \ projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome\
-    \ to come and work on something else if you like.</p> <p>Contact policy at buildings\
-    \ that need access</p> <p>Certain building managements requires meetup hosts to\
-    \ let people in and do not encourage them being contacted. Please respect the\
-    \ policy, in case the location requires access to the building contact the group\
-    \ lead if information is provided, or drop a comment on the meetup page. We'll\
-    \ come and get you.\_</p> <p>Want to be a Ruby on Rails Study Group leader?</p>\
-    \ <p>If you are passionate about learning ROR with fellow awesome women and want\
-    \ to help us, come on out! Drop us a message or email us and let us know that\
-    \ you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    >&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a\
-    \ href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/hsgdmlytqbnc/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: hsgdmlytqbnc
-  maybe_rsvp_count: 0
-  name: Ruby on Rails
-  status: upcoming
-  time: 1451518200000
-  updated: 1447185710000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
