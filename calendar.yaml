@@ -36,13 +36,14 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 20
 other:
 - created: 1443771376000
-  description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of more\
-    \ than twenty legal hacking, technology, or innovation groups around the country.\
-    \ A legal hacker is someone who cares about the intersection of law and technology\
-    \ and seeks to improve legal practice through technology while simultaneously\
+  description: "<p>\u2022 Briane Knight presenting on\_<a href=\"http://codefordc.github.io/clean-slate/\"\
+    >Clean Slate</a></p> <p>DC Legal Hackers is the DC Chapter of a growing movement\
+    \ of more than twenty legal hacking, technology, or innovation groups around the\
+    \ country. A legal hacker is someone who cares about the intersection of law and\
+    \ technology and seeks to improve legal practice through technology while simultaneously\
     \ using legal skills to promote technological innovation and exploration.</p>\
     \ <p>Join us November 11, 2015 at 6:30 pm to see legal hacking demos, including\
     \ follow up projects from the DC Legal Hackers\_<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\"\
@@ -50,19 +51,16 @@ other:
     >Telecom Data Hackathon</a>.\_</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food,\
     \ drinks, and networking\_</p> <p>7:00-7:15 Introductions and announcements\_\
     </p> <p>7:15-8:00\_Presentations and discussion</p> <p><b>Presentations</b></p>\
-    \ <p><b>\u2022 Briane Knight presenting on <a href=\"http://codefordc.github.io/clean-slate/\"\
-    >Clean Slate</a></b></p> <p><b>\u2022\_Joshua Tauberer presenting on <a href=\"\
-    http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting\
-    \ on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\"\
-    >Citation Analyzer Footnotes</a></b></p> <p><b>\u2022\_Anders Pedersen preseting\
-    \ on Natural Resource Governance Institute's <a href=\"http://www.resourcecontracts.org/\"\
-    >ResourceContracts.org</a></b></p> <p><br/><b>\u2022 David Greisen presenting\
+    \ <p><b>\u2022\_Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p>\
+    \ <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\"\
+    >Citation Analyzer Footnotes</a></b></p> <p><b>\u2022 David Greisen presenting\
     \ on DC Council's budding <a href=\"https://github.com/DCCouncil/dc-code-prototype-tools\"\
-    >Codification Workflow</a><br/></b></p> <p>\u2022 More TBD!\_</p> <p><br/>Want\
-    \ to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\_\
-    </p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or\
-    \ at\_<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\_\
-    </p>"
+    >Codification Workflow</a>\_</b></p> <p><b>\u2022 Briane Knight presenting on\_\
+    <a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></b></p> <p><br/>More\
+    \ TBD!\_</p> <p><br/>Want to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\"\
+    >@dclegalhackers</a>!\_</p> <p><i>--</i></p> <p>Follow along on twitter with the\
+    \ hashtag #LegalHack or at\_<a href=\"http://www.twitter.com/DCLegalHackers\"\
+    >www.twitter.com/DCLegalHackers</a>.\_</p>"
   duration: 5400000
   event_url: http://www.meetup.com/DCLegalHackers/events/225773463/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -74,14 +72,14 @@ other:
   name: Legal Hack Demo Night
   status: upcoming
   time: 1447284600000
-  updated: 1447207444000
+  updated: 1447286905000
   utc_offset: -18000000
   venue: {address_1: 1990 K Street NW, city: Washington, country: us, id: 23884018,
     lat: 38.901294999999998, lon: -77.044640000000001, name: Cove K St, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1445469750000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -133,7 +131,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -146,7 +144,9 @@ other:
     \ href=\"https://womenwhocodedc.slack.com/messages/python\" class=\"linkified\"\
     >https://womenwhocodedc.slack.com/messages/python</a></a> or\_<a href=\"https://womenwhocodedc.slack.com\"\
     ><a href=\"https://womenwhocodedc.slack.com\" class=\"linkified\">https://womenwhocodedc.slack.com</a></a>\
-    \ and select #python</b></p> <p>---------------------------------------------------------------</p>\
+    \ and select #python</b></p> <p><b>If you are not already part of WWC Slack: </b>Private\
+    \ message Anissa J. your email or go here bit.ly/join-slack-dc-wwc (the link sends\
+    \ us your info and then we send the invite. PMing Anissa is more direct)</p> <p><br/>---------------------------------------------------------------</p>\
     \ <p><br/>We host beginners night on the first Wednesday of every month, which\
     \ caters especially for absolute beginners and people with basic familiarity.<br/>All\
     \ other study group nights will generally cover more advanced topics and work\
@@ -165,14 +165,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1447284600000
-  updated: 1447202328000
+  updated: 1447284774000
   utc_offset: -18000000
   venue: {address_1: 'Women Who Code Slack Channel #python', city: Washington, country: us,
     id: 24202886, lat: 38.907192000000002, lon: -77.036873, name: Virtual-Python Slack
       Channel, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
     \ to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p>\
@@ -256,7 +256,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 155
+  yes_rsvp_count: 158
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -311,7 +311,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 205
+  yes_rsvp_count: 200
 - created: 1447027052000
   description: "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on\
     \ Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted\
@@ -394,7 +394,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 132
+  yes_rsvp_count: 134
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 7:00.\
@@ -434,10 +434,10 @@ other:
   headcount: 0
   id: '225927082'
   maybe_rsvp_count: 0
-  name: Rails Tutorial/Class in Vienna & online once a week
+  name: Rails Tutorial/Class in Vienna & online on Mon. evenings
   status: upcoming
   time: 1447716600000
-  updated: 1446665203000
+  updated: 1447288501000
   utc_offset: -18000000
   venue: {address_1: Near Nottoway Park, city: Vienna, country: us, id: 24149860,
     lat: 38.884383999999997, lon: -77.274947999999995, name: A mile from Vienna metro
@@ -487,7 +487,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -612,7 +612,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 278
+  yes_rsvp_count: 286
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -637,8 +637,11 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1447889400000
-  updated: 1446220217000
+  updated: 1447275504000
   utc_offset: -18000000
+  venue: {address_1: 2000 Duke Street, city: Alexandria, country: us, id: 1623000,
+    lat: 38.804245000000002, lon: -77.063682999999997, name: The Motley Fool, repinned: false,
+    state: VA, zip: '22314'}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -803,7 +806,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\

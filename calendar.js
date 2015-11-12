@@ -37,13 +37,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }
     ], 
     "other": [
         {
             "created": 1443771376000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of more than twenty legal hacking, technology, or innovation groups around the country. A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us November 11, 2015 at 6:30 pm to see legal hacking demos, including follow up projects from the DC Legal Hackers\u00a0<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\">Citation Hackathon</a>\u00a0and the\u00a0<a href=\"http://telecomhack.splashthat.com/\">Telecom Data Hackathon</a>.\u00a0</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food, drinks, and networking\u00a0</p> <p>7:00-7:15 Introductions and announcements\u00a0</p> <p>7:15-8:00\u00a0Presentations and discussion</p> <p><b>Presentations</b></p> <p><b>\u2022 Briane Knight presenting on <a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></b></p> <p><b>\u2022\u00a0Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\">Citation Analyzer Footnotes</a></b></p> <p><b>\u2022\u00a0Anders Pedersen preseting on Natural Resource Governance Institute's <a href=\"http://www.resourcecontracts.org/\">ResourceContracts.org</a></b></p> <p><br/><b>\u2022 David Greisen presenting on DC Council's budding <a href=\"https://github.com/DCCouncil/dc-code-prototype-tools\">Codification Workflow</a><br/></b></p> <p>\u2022 More TBD!\u00a0</p> <p><br/>Want to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\u00a0</p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\u00a0</p>", 
+            "description": "<p>\u2022 Briane Knight presenting on\u00a0<a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></p> <p>DC Legal Hackers is the DC Chapter of a growing movement of more than twenty legal hacking, technology, or innovation groups around the country. A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>Join us November 11, 2015 at 6:30 pm to see legal hacking demos, including follow up projects from the DC Legal Hackers\u00a0<a href=\"https://storify.com/richards1000/legal-citation-hackathon-13-september-2014\">Citation Hackathon</a>\u00a0and the\u00a0<a href=\"http://telecomhack.splashthat.com/\">Telecom Data Hackathon</a>.\u00a0</p> <p><b>Schedule</b></p> <p><br/>6:30-7:00 Food, drinks, and networking\u00a0</p> <p>7:00-7:15 Introductions and announcements\u00a0</p> <p>7:15-8:00\u00a0Presentations and discussion</p> <p><b>Presentations</b></p> <p><b>\u2022\u00a0Joshua Tauberer presenting on <a href=\"http://uslaw.link\">uslaw.link</a></b></p> <p><b>\u2022 Wendy Knox Everett presenting on <a href=\"https://github.com/wendyck/dumb-python-stuff/blob/master/wordfootnotes.py\">Citation Analyzer Footnotes</a></b></p> <p><b>\u2022 David Greisen presenting on DC Council's budding <a href=\"https://github.com/DCCouncil/dc-code-prototype-tools\">Codification Workflow</a>\u00a0</b></p> <p><b>\u2022 Briane Knight presenting on\u00a0<a href=\"http://codefordc.github.io/clean-slate/\">Clean Slate</a></b></p> <p><br/>More TBD!\u00a0</p> <p><br/>Want to demo? Get in touch <a href=\"https://twitter.com/dclegalhackers\">@dclegalhackers</a>!\u00a0</p> <p><i>--</i></p> <p>Follow along on twitter with the hashtag #LegalHack or at\u00a0<a href=\"http://www.twitter.com/DCLegalHackers\">www.twitter.com/DCLegalHackers</a>.\u00a0</p>", 
             "duration": 5400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/225773463/", 
             "group": {
@@ -62,7 +62,7 @@ calendar({
             "name": "Legal Hack Demo Night", 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1447207444000, 
+            "updated": 1447286905000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1990 K Street NW", 
@@ -77,7 +77,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1445469750000, 
@@ -117,11 +117,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p>----------------------------------------------------------------</p> <p><br/><b>We will have our meetup via on Python Slack with any questions or projects that you are working on. We will still meet at 6:30pm to 8:30pm. Please join us at\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python\"><a href=\"https://womenwhocodedc.slack.com/messages/python\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python</a></a> or\u00a0<a href=\"https://womenwhocodedc.slack.com\"><a href=\"https://womenwhocodedc.slack.com\" class=\"linkified\">https://womenwhocodedc.slack.com</a></a> and select #python</b></p> <p>---------------------------------------------------------------</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.<br/>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!\u00a0</p> <p>----------------------------------------------------------------</p> <p><br/><b>We will have our meetup via on Python Slack with any questions or projects that you are working on. We will still meet at 6:30pm to 8:30pm. Please join us at\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python\"><a href=\"https://womenwhocodedc.slack.com/messages/python\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python</a></a> or\u00a0<a href=\"https://womenwhocodedc.slack.com\"><a href=\"https://womenwhocodedc.slack.com\" class=\"linkified\">https://womenwhocodedc.slack.com</a></a> and select #python</b></p> <p><b>If you are not already part of WWC Slack: </b>Private message Anissa J. your email or go here bit.ly/join-slack-dc-wwc (the link sends us your info and then we send the invite. PMing Anissa is more direct)</p> <p><br/>---------------------------------------------------------------</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.<br/>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226423485/", 
             "group": {
@@ -141,7 +141,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1447284600000, 
-            "updated": 1447202328000, 
+            "updated": 1447284774000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Women Who Code Slack Channel #python", 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1443649777000, 
@@ -192,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 155
+            "yes_rsvp_count": 158
         }, 
         {
             "created": 1446126902000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 205
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1447027052000, 
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1444328178000, 
@@ -329,10 +329,10 @@ calendar({
             "headcount": 0, 
             "id": "225927082", 
             "maybe_rsvp_count": 0, 
-            "name": "Rails Tutorial/Class in Vienna & online once a week", 
+            "name": "Rails Tutorial/Class in Vienna & online on Mon. evenings", 
             "status": "upcoming", 
             "time": 1447716600000, 
-            "updated": 1446665203000, 
+            "updated": 1447288501000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Near Nottoway Park", 
@@ -384,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1422815587000, 
@@ -461,7 +461,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 278
+            "yes_rsvp_count": 286
         }, 
         {
             "created": 1446220217000, 
@@ -485,8 +485,20 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1447889400000, 
-            "updated": 1446220217000, 
+            "updated": 1447275504000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2000 Duke Street", 
+                "city": "Alexandria", 
+                "country": "us", 
+                "id": 1623000, 
+                "lat": 38.804245000000002, 
+                "lon": -77.063682999999997, 
+                "name": "The Motley Fool", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22314"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
@@ -603,7 +615,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1445546860000, 
