@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }
     ], 
     "other": [
@@ -118,11 +118,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 163
+            "yes_rsvp_count": 166
         }, 
         {
             "created": 1444328178000, 
-            "description": "<p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 7:00. We'll stay online until 8:00.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here right before the online part starts at 7:00.\u00a0</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and use tutorials, google, etc. to help you figure out the answers. REVIEW THE README on that page for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked].</p> <p><br/>\u00a01. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>\u00a02. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>\u00a03. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>\u00a04. What are the default views for all Rails apps?\u00a0</p> <p>\u00a05. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>\u00a06. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0</p> <p>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
+            "description": "<p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 7:00. We'll stay online until 8:00.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here by 6:45 so we can start the online part at 7:00.\u00a0</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and use tutorials, google, etc. to help you figure out the answers. REVIEW THE README on that page for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked].</p> <p><br/>\u00a01. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>\u00a02. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>\u00a03. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>\u00a04. What are the default views for all Rails apps?\u00a0</p> <p>\u00a05. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>\u00a06. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0</p> <p>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/225927082/", 
             "group": {
@@ -141,7 +141,7 @@
             "name": "Rails Tutorial/Class in Vienna & online on Mon. evenings", 
             "status": "upcoming", 
             "time": 1447716600000, 
-            "updated": 1447288501000, 
+            "updated": 1447433328000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Near Nottoway Park", 
@@ -156,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446216408000, 
@@ -269,7 +269,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -297,7 +297,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220217000, 
@@ -337,7 +337,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1441653193000, 
@@ -412,7 +412,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1446846509000, 
@@ -451,7 +451,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1445546860000, 
@@ -529,6 +529,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1447431577000, 
+            "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p> <p>In honour of the geo-est month of the year (GeoWeek, GIS Day, and more!), Maptime is hosting a project night where you can bring your latest map fascinations to share. Come with a project you've been working on or an idea for something new, and meet people with a wide variety of knowledge for some co-learning and collaborating. There will be a list of tutorials you can work through if you want to learn something new on your own or with other Maptimers. Please bring a laptop!\u00a0</p> <p>Stay for the whole thing or drop in for a little bit. We'll have pizza!\u00a0</p> <p>Thanks to Esri for the space and to CartoDB for the food.\u00a0</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/226752131/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Check in with security and head up to the 9th floor", 
+            "id": "226752131", 
+            "maybe_rsvp_count": 0, 
+            "name": "Project Night!", 
+            "status": "upcoming", 
+            "time": 1448406000000, 
+            "updated": 1447431748000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1001 19th St N, Suite 910", 
+                "city": "Rosslyn", 
+                "country": "us", 
+                "id": 24207670, 
+                "lat": 38.897274000000003, 
+                "lon": -77.069305, 
+                "name": "Esri R&D Center", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446216408000, 
@@ -660,7 +699,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1443771281000, 
@@ -875,6 +914,33 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1447431964000, 
+            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226752382/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "226752382", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: First Timer's Night!", 
+            "status": "upcoming", 
+            "time": 1452123000000, 
+            "updated": 1447431964000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1446219481000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1005,7 +1071,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220217000, 
@@ -1183,34 +1249,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvfbdb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvfbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1456961400000, 
-            "updated": 1446219481000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
