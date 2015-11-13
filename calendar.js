@@ -37,84 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }
     ], 
     "other": [
-        {
-            "created": 1443649777000, 
-            "description": "<p>We are very excited to have the DHS come to Data Innovation DC to offer a series of lightning talks including:</p> <p>\n\n\n\n<b>Stephen Dennis</b></p> <p><b>Topic: DHS S&amp;T HSARPA Data Analytics Engine</b></p> <p>Many business processes can benefit from the leverage of corporate data sources to create efficiencies and improve missions and operations.\u00a0 The DHS Data Analytics Engine examines cross cutting technologies for automating computational analytics across S&amp;T programs and the homeland security enterprise.\u00a0 This lightening talk will provide an overview of the S&amp;T strategic goals, major program areas, and engine construct.</p> <p><b>Chuck Lewis</b></p> <p><b>Topic: Big Data Laboratory </b></p> <p>HSARPA DA-E maintains and operates a state-of-the-art data analytics laboratory to support mission-relevant evaluations of emerging technologies, rapid experimentation, and strategic R&amp;D efforts. The lab infrastructure complies with privacy authorities and maintains security accreditation, allowing DA-E to use operational data to help DHS identify enterprise data analytics architectures and solutions. \u00a0</p> <p><b>James Younger</b></p> <p><b>Topic: Big Data Security</b></p> <p>This talk will focus on the challenges surrounding securing Big Data systems.\u00a0 Hear how traditional security models are adapted to areas of Big Data security, where new approaches are being used and how Big Data itself is being utilized to provide more efficient and effective security operations.</p> <p><b>Shane Cullen</b></p> <p><b>Topic: Big Data Analytics for DHS Components</b></p> <p>DHS S&amp;T is assisting agencies with the development and fielding of advanced analytic systems. This lightning talk will focus on the system architectures and management methodologies that have resulted in successful analytic deployments.</p> <p><b>Aaron Mannes</b></p> <p><b>Topic: Big Data and Terrorism Analytics: Finding Haystacks</b></p> <p>Big data is a powerful tool for counter-terror. The ability to combine and analyze a range of social, cyber, and physical data can be leveraged to find terrorists, predict attacks, and understand their networks. Big data can find broad trends \u2013 the haystacks. But it is not an all-purpose panacea. When big data tools are used to find needles they may find too many, raising a host of legal and privacy concerns.</p> <p><b>Alexandria Phounsavath </b></p> <p><b>Topic: Risk Assessment </b></p> <p>How can DHS use data to respond to risk?\u00a0 The most familiar application of data analytics for risk assessment may be passenger screening at airports.\u00a0 TSA screens approximately 1.8 million passengers a day at 448 airports.\u00a0 Additionally, it prescreens 2 million passengers before they arrive at the airport.\u00a0 This discussion focuses on specific efforts at DHS\u2019s Science and Technology Directorate (S&amp;T) that will further enhance the use of data for risk-based screening in aviation.</p> <p><b>Chris Featherston</b></p> <p><b>Topic:\u00a0 Alaska/Arctic Situational Awareness Project (A/ASAP) </b></p> <p>DHS has an interest in understanding national infrastructure assets and navigation issues in the Arctic region.\u00a0 The By examining, correlating, and developing analytic predictive tools, it is purposed that DHS can identify trends and datasets that can be tracked, measured and provide a timetable for infrastructure and asset management, movement, or protection.\u00a0 The overall objective for this topic area is developing a predictive analytic capability using observable and historical sensor modeling of climate change in Alaska Arctic areas.</p> <p><b>Linda Vasta</b></p> <p><b>Topic: Wearable Technologies\u2019 Analytics</b></p> <p>In support of one of S&amp;T\u2019s Visionary Goals: \u201cResponder of the Future: Protected, Connected, and Fully Aware\u201d, the Data Analytics Engine is exploring how data generated from sensors in wearable technologies can inform the first responder and emergency management community.\u00a0 A key step in this process is obtaining \u201ccustomer input\u201d from this community.\u00a0 The talk will briefly discuss the methodology and process that will be used to obtain this critical input.\u00a0</p> <p><b>Daniel Marasco</b></p> <p><b>Topic: Smart Cities</b></p> <p>Availability of new digital devices and enhanced connectivity has caused a shift in the way we develop urban environments. \u201cSmart\u201d cities leverage new technologies to solve new and old urban issues. In the past, cities were developed with static infrastructure, rigid in their operation and expansion. Smart cities can use data from vast sensor networks to make decisions, rapidly adapting and optimizing urban infrastructure and systems for ever-changing conditions. Smart city sensors can improve energy efficiency, optimize the pedestrian and vehicle traffic, evaluate principles of urban planning, and provide situational awareness and guidance in emergencies. However, information and communication infrastructure must be intelligent, resilient and adaptable to maximize impact. With proper development, smart cities will be more sustainable, secure, and livable than their more traditional counterparts.</p>", 
-            "event_url": "http://www.meetup.com/Data-Business-DC/events/225736800/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Business-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "225736800", 
-            "maybe_rsvp_count": 0, 
-            "name": "Department of Homeland Security and Data!", 
-            "status": "upcoming", 
-            "time": 1447369200000, 
-            "updated": 1447196094000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 152
-        }, 
-        {
-            "created": 1446126902000, 
-            "description": "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have common and standard ways of visualizing that data in time series, histograms, and even spiral graphs. DVDC and Max Watson are happy to introduce Time Maps.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/3/2/600_443822098.jpeg\" /></p> <p>Time is usually thought of as a continuous flow of events, but we can visualize time as relative to discrete events. By assigning xy coordinates before the event and after the event, respectively, patterns emerge, insights can more easily be drawn, and conclusions easily reached. When do people interact on social media most? What does social activity for different personalities look like? How does rock n' roll compare to yoga? These questions become discernible at a glance using Time Maps.</p> <p><br/>Max Watson is a PhD Physicist, postdoctoral fellow at NIST, and Data Scientist at L-3 Global Communications. Max's work with Time Maps derives from his experience with product development and effectively communicating advanced analytics.</p> <p><b><a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">FOLLOW THAT BUS!</a></b></p> <p>Transit agencies are swimming in data.\u00a0 At Metro, we perform surveys, we create schedules, we operate thousands of transit vehicles, and we provide over one million transit trips per day.\u00a0 Our trains, buses and riders together generate tens of millions of data points every day.\u00a0 Metro\u2019s Applied Planning Intelligence group is tasked with helping turn all those ones and zeroes into <a href=\"https://public.tableau.com/profile/planitmetro#!/vizhome/MetrobusExplorer/MetrobusExplorerAlpha\">publicly consumable information</a> that result in policy recommendations, and data visualization plays a large part in that effort.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/e/0/600_443779936.jpeg\" /></p> <p>Michael Eichler is an engineer, urban planner and recovering IT professional who specializes in transforming data into information used to inform operations and planning policy decisions.\u00a0 He is originally from Schenectady NY, raised in Delaware and educated in Washington DC and Berkeley, California.\u00a0 He currently works as Strategic Planning Advisor at Washington Metropolitan Area Transit Authority (WMATA) in the Office of Planning.</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Time Maps</p> <p>\u2022 7:45 - Follow that Bus!</p> <p><br/>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226395373/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "226395373", 
-            "maybe_rsvp_count": 0, 
-            "name": "Time Maps & Elusive Buses", 
-            "status": "upcoming", 
-            "time": 1447371000000, 
-            "updated": 1446564969000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1500 Wilson Blvd, 4th floor", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24179360, 
-                "lat": 38.894489, 
-                "lon": -77.074332999999996, 
-                "name": "FI Consulting", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 197
-        }, 
         {
             "created": 1447027052000, 
             "description": "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted price. Please use GDGDC as promotional code and register at\u00a0</p> <p><a href=\"https://goo.gl/yaIUzB\"><a href=\"https://goo.gl/yaIUzB\" class=\"linkified\">https://goo.gl/yaIUzB</a></a></p> <p><br/><b>Location</b>: Maryland Center for Entrepreneurship,\u00a09250 Bendix Rd North\u00a0Columbia, MD 21045</p> <p><b>Date</b>:\u00a0Friday, November 13, 2015 from 2:00 PM to 8:00 PM (EST)</p> <p>See you there.</p>", 
@@ -152,7 +78,7 @@ calendar({
                 "state": "MD"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -192,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 159
+            "yes_rsvp_count": 163
         }, 
         {
             "created": 1444328178000, 
@@ -267,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1422815587000, 
@@ -343,7 +269,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -371,7 +297,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446220217000, 
@@ -486,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1446846509000, 
@@ -525,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1445546860000, 
@@ -565,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1446216408000, 
@@ -640,7 +566,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1446760302000, 
@@ -1079,7 +1005,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446220217000, 
