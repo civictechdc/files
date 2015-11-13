@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 other:
 - created: 1443649777000
   description: "<p>We are very excited to have the DHS come to Data Innovation DC\
@@ -121,7 +121,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 159
+  yes_rsvp_count: 152
 - created: 1446126902000
   description: "<p><b>TIME MAPS</b></p> <p>Discrete events are everywhere and we have\
     \ common and standard ways of visualizing that data in time series, histograms,\
@@ -176,7 +176,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 199
+  yes_rsvp_count: 197
 - created: 1447027052000
   description: "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on\
     \ Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted\
@@ -259,7 +259,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 157
+  yes_rsvp_count: 159
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 7:00.\
@@ -352,7 +352,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -390,7 +390,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -476,7 +476,7 @@ other:
     lat: 38.904136999999999, lon: -77.037430000000001, name: Pew Research, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 4
   yes_rsvp_count: 350
 - created: 1447341955000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -605,7 +605,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -658,7 +658,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1446846509000
   description: "<p>I said a hip, hop, the hippy to the hippy/To the hip hip hop, you\
     \ don't stop.\u2009.\u2009.\u2009.</p> <p><br/>If you were a fan of hip-hop/rap\
@@ -798,7 +798,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1446216408000
   description: "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be\
     \ doing an Introduction to SASS presentation. If you have any specific questions.\
@@ -844,7 +844,7 @@ other:
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 17
 - created: 1446760302000
   description: "<p>Meetup Agenda</p> <p><br/>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk (if scheduled)</p>\
