@@ -36,38 +36,8 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 other:
-- created: 1447027052000
-  description: "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on\
-    \ Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted\
-    \ price. Please use GDGDC as promotional code and register at\_</p> <p><a href=\"\
-    https://goo.gl/yaIUzB\"><a href=\"https://goo.gl/yaIUzB\" class=\"linkified\"\
-    >https://goo.gl/yaIUzB</a></a></p> <p><br/><b>Location</b>: Maryland Center for\
-    \ Entrepreneurship,\_9250 Bendix Rd North\_Columbia, MD 21045</p> <p><b>Date</b>:\_\
-    Friday, November 13, 2015 from 2:00 PM to 8:00 PM (EST)</p> <p>See you there.</p>"
-  duration: 21600000
-  event_url: http://www.meetup.com/gdg-dc/events/226639873/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
-    urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  how_to_find_us: DevFest, Google, Women In Tech, Google Cloud Platform, Mobile, Android,
-    Maps
-  id: '226639873'
-  maybe_rsvp_count: 0
-  name: 'Partner Event: DevFestMD - Columbia, MD Nov 13, 2015'
-  rsvp_limit: 2
-  status: upcoming
-  time: 1447441200000
-  updated: 1447121254000
-  utc_offset: -18000000
-  venue: {address_1: '9250 Bendix Road North Columbia, MD 21045', city: Baltimore,
-    country: us, id: 24181607, lat: 39.235610999999999, lon: -76.829384000000005,
-    name: ' Maryland Center for Entrepreneurship', repinned: false, state: MD}
-  visibility: public
-  waitlist_count: 10
-  yes_rsvp_count: 2
 - created: 1445046087000
   description: "<p>Women Who Code DC is pleased to announce our official Mentoring\
     \ Program Launch and to welcome Lucy Sanders, CEO and Founder of the National\
@@ -121,7 +91,7 @@ other:
       Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 169
+  yes_rsvp_count: 168
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 7:00.\
@@ -338,7 +308,7 @@ other:
     lat: 38.904136999999999, lon: -77.037430000000001, name: Pew Research, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 19
   yes_rsvp_count: 350
 - created: 1447341955000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -571,7 +541,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 55
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -693,7 +663,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1446216408000
   description: "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be\
     \ doing an Introduction to SASS presentation. If you have any specific questions.\
@@ -739,7 +709,7 @@ other:
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1446760302000
   description: "<p>Meetup Agenda</p> <p><br/>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Talk (if scheduled)</p>\
@@ -808,7 +778,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -843,7 +813,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/

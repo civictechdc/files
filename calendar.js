@@ -37,50 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }
     ], 
     "other": [
-        {
-            "created": 1447027052000, 
-            "description": "<p>Friends,</p> <p>Fellow GDG-Baltimore is having their DevFest on Friday, Nov 13. GDGDC members have a 50% discount code of already deeply discounted price. Please use GDGDC as promotional code and register at\u00a0</p> <p><a href=\"https://goo.gl/yaIUzB\"><a href=\"https://goo.gl/yaIUzB\" class=\"linkified\">https://goo.gl/yaIUzB</a></a></p> <p><br/><b>Location</b>: Maryland Center for Entrepreneurship,\u00a09250 Bendix Rd North\u00a0Columbia, MD 21045</p> <p><b>Date</b>:\u00a0Friday, November 13, 2015 from 2:00 PM to 8:00 PM (EST)</p> <p>See you there.</p>", 
-            "duration": 21600000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/226639873/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "DevFest, Google, Women In Tech, Google Cloud Platform, Mobile, Android, Maps", 
-            "id": "226639873", 
-            "maybe_rsvp_count": 0, 
-            "name": "Partner Event: DevFestMD - Columbia, MD Nov 13, 2015", 
-            "rsvp_limit": 2, 
-            "status": "upcoming", 
-            "time": 1447441200000, 
-            "updated": 1447121254000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "9250 Bendix Road North Columbia, MD 21045", 
-                "city": "Baltimore", 
-                "country": "us", 
-                "id": 24181607, 
-                "lat": 39.235610999999999, 
-                "lon": -76.829384000000005, 
-                "name": " Maryland Center for Entrepreneurship", 
-                "repinned": false, 
-                "state": "MD"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 10, 
-            "yes_rsvp_count": 2
-        }, 
         {
             "created": 1445046087000, 
             "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Food/Refreshments</p> <p><br/>5:15-5:45 p.m.--Introductions and Keynote Address by Lucy Sanders</p> <p>5:45-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.\u00a0 In other words, men are welcome to attend!</p> <p><b>Sponsors:</b></p> <p>A special thank you to <a href=\"http://www.infernored.com\">InfernoRed</a> and <a href=\"http://theironyard.com/locations/washington-dc/\">Iron Yard DC</a> for sponsoring the food for our event! And thank you also to <a href=\"http://washington.impacthub.net/\">Impact Hub DC</a> for hosting this event.</p>", 
@@ -118,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 169
+            "yes_rsvp_count": 168
         }, 
         {
             "created": 1444328178000, 
@@ -269,7 +229,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -451,7 +411,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1445546860000, 
@@ -567,7 +527,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1446216408000, 
@@ -605,7 +565,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446760302000, 
@@ -660,7 +620,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1417881835000, 
@@ -699,7 +659,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1443771281000, 
