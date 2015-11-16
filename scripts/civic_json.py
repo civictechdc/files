@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 import json, yaml, requests, os, time, operator, jsonschema
 from jsonschema import validate
 
@@ -115,7 +117,24 @@ for project in tracked:
 
     # Oh yeah, the project's name
     data['name'] = name
+
+    # Continuous integration
+    ci = {}
+    try:
+        ci['travis'] = (requests.get('https://api.travis-ci.org/'+data['owner']['name']+'/'+data['short_name']+'.svg').status_code == 200)
+        ci['continua11y'] = (requests.get('https://continua11y.herokuapp.com/'+data['owner']['name']+'/'+data['short_name']+'.svg').status_code == 200)
+        ci['codeclimate'] = (requests.get('https://codeclimate.com/github/'+data['owner']['name']+'/'+data['short_name']+'/badges/gpa.svg').status_code == 200)
+        ci['coverage'] = (requests.get('https://codeclimate.com/github/'+data['owner']['name']+'/'+data['short_name']+'/badges/coverage.svg').status_code == 200)
+    except requests.exceptions.ConnectionError:
+        # Code Climate often times out, so wait and try again
+        time.sleep(10)
+        ci['travis'] = (requests.get('https://api.travis-ci.org/'+data['owner']['name']+'/'+data['short_name']+'.svg').status_code == 200)
+        ci['continua11y'] = (requests.get('https://continua11y.herokuapp.com/'+data['owner']['name']+'/'+data['short_name']+'.svg').status_code == 200)
+        ci['codeclimate'] = (requests.get('https://codeclimate.com/github/'+data['owner']['name']+'/'+data['short_name']+'/badges/gpa.svg').status_code == 200)
+        ci['coverage'] = (requests.get('https://codeclimate.com/github/'+data['owner']['name']+'/'+data['short_name']+'/badges/coverage.svg').status_code == 200)
+    data['ci'] = ci
     output.append(data)
+
 
 # Write the JSON, JSONP, and YAML files
 
