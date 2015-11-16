@@ -37,49 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 34
         }
     ], 
     "other": [
-        {
-            "created": 1445046087000, 
-            "description": "<p>Women Who Code DC is pleased to announce our official Mentoring Program Launch and to welcome Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (<a href=\"https://www.ncwit.org/\" class=\"linkified\">https://www.ncwit.org/</a>).\u00a0 You can read more about the plans for our mentoring program here: <a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\"><a href=\"https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC/women-who-code-dc-launching-mentoring-program-75ddcd2bdf31</a></a>.</p> <p><br/>At this event, we will also be joined by panel members Lilibeth Gangas,\u00a0Innovation Strategist at Booz Allen Hamilton; and Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and founder of Digital Sisters (<a href=\"http://www.digital-sistas.org\" class=\"linkified\">http://www.digital-sistas.org</a>).</p> <p><br/>The purpose of this event is to highlight the importance of mentoring for women in technology and give women an opportunity to share their own experiences of mentoring and being mentored, as well as to ask questions about the process.</p> <p>This is our \"kickoff\" event and we will be having follow-up events in subsequent months focused on aspects of mentoring, with an aim to facilitate the continuing professional development of women within our organization and in the tech community at large.</p> <p><br/><b>Keynote Speaker:</b></p> <p>Lucy Sanders, CEO and Founder of the National Center for Women and Information Technology (NCWiT)</p> <p><b>Panel Members:</b></p> <p>Lilibeth Gangas, Innovation Strategist at Booz Allen Hamilton</p> <p>Shireen Mitchell, Director of Web &amp; Interactive Media at the Women's Media Center (WMC) and Founder of Digital Sisters (DS)</p> <p><b>Schedule for the Evening:</b></p> <p>5:00-5:15 p.m.--Check-in and Food/Refreshments</p> <p><br/>5:15-5:45 p.m.--Introductions and Keynote Address by Lucy Sanders</p> <p>5:45-6:45 p.m.--Question and Answer Session with Panel Members</p> <p>6:45-7:00 p.m.--Networking</p> <p>NOTE: This event is open to people of all genders, as we recognize that it requires an integrated tech community to provide a supportive mentoring environment.\u00a0 In other words, men are welcome to attend!</p> <p><b>Sponsors:</b></p> <p>A special thank you to <a href=\"http://www.infernored.com\">InfernoRed</a> and <a href=\"http://theironyard.com/locations/washington-dc/\">Iron Yard DC</a> for sponsoring the food for our event! And thank you also to <a href=\"http://washington.impacthub.net/\">Impact Hub DC</a> for hosting this event.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226117092/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "226117092", 
-            "maybe_rsvp_count": 0, 
-            "name": "Mentoring Program Launch", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1447624800000, 
-            "updated": 1447458720000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th Street, NW Suite 200. ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21987722, 
-                "lat": 38.895415999999997, 
-                "lon": -77.021552999999997, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 171
-        }, 
         {
             "created": 1444328178000, 
             "description": "<p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 7:00. We'll stay online until 8:00.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here by 6:45 so we can start the online part at 7:00.\u00a0</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and use tutorials, google, etc. to help you figure out the answers. REVIEW THE README on that page for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked].</p> <p><br/>\u00a01. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>\u00a02. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>\u00a03. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>\u00a04. What are the default views for all Rails apps?\u00a0</p> <p>\u00a05. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>\u00a06. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0</p> <p>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
@@ -116,7 +77,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1446216408000, 
@@ -138,7 +99,7 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1447716600000, 
-            "updated": 1446222090000, 
+            "updated": 1447614161000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1015 7th Street NW.", 
@@ -191,7 +152,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1445992584000, 
@@ -229,7 +190,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 22, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -257,7 +218,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446220217000, 
@@ -297,7 +258,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1441653193000, 
@@ -372,7 +333,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1446846509000, 
@@ -411,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1445546860000, 
@@ -451,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1446216408000, 
@@ -473,7 +434,7 @@ calendar({
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1448321400000, 
-            "updated": 1446222174000, 
+            "updated": 1447614192000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -488,7 +449,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1447431577000, 
@@ -549,7 +510,7 @@ calendar({
             "name": "Front End Hack Night - Intro to SASS", 
             "status": "upcoming", 
             "time": 1448926200000, 
-            "updated": 1447352162000, 
+            "updated": 1447614227000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1211 Connecticut Avenue Northwest #250", 
@@ -565,7 +526,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1446760302000, 
@@ -659,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1443771281000, 
@@ -1209,6 +1170,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvfbdb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvfbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1456961400000, 
+            "updated": 1446219481000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
