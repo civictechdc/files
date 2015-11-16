@@ -1,47 +1,47 @@
 projects([
     {
         "activity": [
-            33, 
-            18, 
-            32, 
-            32, 
-            1, 
-            6, 
-            8, 
-            17, 
-            15, 
-            35, 
-            20, 
-            46, 
-            82, 
+            28, 
             19, 
-            37, 
-            3, 
+            51, 
+            12, 
+            1, 
+            9, 
+            10, 
+            12, 
+            23, 
+            27, 
+            23, 
+            69, 
+            58, 
+            17, 
+            40, 
             0, 
-            2, 
+            1, 
+            1, 
             0, 
             11, 
-            4, 
-            8, 
+            5, 
+            7, 
             6, 
             3, 
             0, 
             4, 
             0, 
-            3, 
-            3, 
+            5, 
+            1, 
             4, 
             4, 
             0, 
             0, 
-            8, 
-            2, 
+            9, 
             7, 
+            1, 
             9, 
             0, 
-            9, 
-            63, 
-            11, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -54,6 +54,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -384,6 +390,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -641,6 +653,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -790,6 +808,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -943,6 +967,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": true, 
+            "continua11y": true, 
+            "coverage": true, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -1130,8 +1160,8 @@ projects([
         "activity": [
             6, 
             4, 
-            6, 
             7, 
+            6, 
             5, 
             3, 
             4, 
@@ -1181,6 +1211,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -1289,8 +1325,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            3, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -1328,6 +1364,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "categories": [
                 {
@@ -1498,6 +1540,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": false
+        }, 
         "civic_json": {
             "bornAt": "Lee's apartment", 
             "categories": [
@@ -1635,12 +1683,12 @@ projects([
             0, 
             0, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             1, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -1674,6 +1722,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -1848,6 +1902,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -1972,6 +2032,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -2073,6 +2139,12 @@ projects([
             0, 
             2
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -2194,6 +2266,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -2345,6 +2423,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -2452,6 +2536,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -2547,6 +2637,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -2650,10 +2746,9 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            18, 
-            29, 
-            0, 
+            7, 
+            15, 
+            25, 
             0, 
             0, 
             0, 
@@ -2692,8 +2787,15 @@ projects([
             0, 
             0, 
             0, 
+            0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -2761,9 +2863,9 @@ projects([
             0, 
             0, 
             4, 
-            2, 
-            11, 
-            2, 
+            10, 
+            5, 
+            0, 
             5, 
             0, 
             0, 
@@ -2771,8 +2873,8 @@ projects([
             0, 
             0, 
             0, 
-            43, 
-            22, 
+            45, 
+            20, 
             1, 
             0, 
             0, 
@@ -2786,8 +2888,8 @@ projects([
             0, 
             2, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -2801,6 +2903,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "", 
             "categories": [
@@ -2950,6 +3058,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -3091,6 +3205,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Open Data Day 2015, Code for DC", 
             "categories": [
@@ -3254,6 +3374,12 @@ projects([
             1, 
             13
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Reentry Hackathon", 
             "categories": [
@@ -3578,6 +3704,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": false
+        }, 
         "civic_json": {
             "bornAt": "Web Development Immersive 4, General Assembly", 
             "categories": [
@@ -3727,6 +3859,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [
@@ -3877,6 +4015,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": false
+        }, 
         "civic_json": {
             "bornAt": "Code for DC", 
             "categories": [], 
@@ -3995,6 +4139,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -4103,6 +4253,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
         "civic_json": null, 
         "contributors": [
             {
@@ -4193,6 +4349,12 @@ projects([
             0, 
             0
         ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": false
+        }, 
         "civic_json": null, 
         "contributors": [
             {
