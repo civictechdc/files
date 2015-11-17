@@ -1,6 +1,6 @@
-- activity: [28, 19, 51, 12, 1, 9, 10, 12, 23, 27, 23, 69, 58, 17, 40, 0, 1, 1, 0,
-    11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0, 2, 3,
-    0, 0, 0, 0, 0, 0, 0, 0]
+- activity: [19, 27, 45, 8, 1, 9, 15, 7, 34, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11,
+    5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0,
+    0, 0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -298,7 +298,7 @@
 - activity: [12, 0, 1, 9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4,
     3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6,
     2, 0, 1]
-  ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
+  ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
     categories:
@@ -308,7 +308,7 @@
     contact: {email: '', name: '', twitter: '@CodeforDC'}
     geography: DC
     governmentPartner: {}
-    moreInfo: ''
+    moreInfo: https://github.com/codefordc/codefordc.github.com
     needs:
     - {need: Meetup integration}
     politicalEntity: {}
@@ -316,7 +316,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 179,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 180,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -357,7 +357,7 @@
   forks: 34
   help_wanted: []
   homepage: http://www.codefordc.org
-  html_url: https://github.com/codefordc/codefordc-2.0
+  html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
   - [HTML, 144214]
@@ -371,12 +371,12 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-17T04:12:18Z'
-  short_name: codefordc-2.0
-  size: 17413
-  updated_at: '2015-08-26T00:23:22Z'
+  pushed_at: '2015-11-17T18:00:11Z'
+  short_name: codefordc.github.com
+  size: 17412
+  updated_at: '2015-11-17T17:35:04Z'
   watchers: 19
-- activity: [6, 4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 4, 7, 6, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -546,7 +546,7 @@
   size: 32865
   updated_at: '2015-10-27T21:38:25Z'
   watchers: 28
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 5, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 0, 5, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -913,8 +913,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 5, 0, 5, 0, 0, 0, 0, 0, 0,
-    45, 20, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0,
+    57, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
