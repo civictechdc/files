@@ -1,45 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1445376953000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible through the District Architecture Center, located next door at 421 7th St. NW.</p> <p>\u2022\u00a0Text Justin at\u00a0301-538-5812\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>\u00a0and Meetup.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/226194054/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "226194054", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1447716600000, 
-            "updated": 1446094798000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
             "announced": false, 
             "created": 1447715097000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
@@ -120,121 +81,8 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1444328178000, 
-            "description": "<p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 7:00. We'll stay online until 8:00.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here by 6:45 so we can start the online part at 7:00.\u00a0</p> <p>Note: Potential mentees with the highest skill level will be matched with mentors who have the highest skill level. Which means that potential mentors with the best skill set will get the more advanced mentees. Thus it is in your best interest to show off your current skills so you can work with others who are best positioned to challenge you. Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and use tutorials, google, etc. to help you figure out the answers. REVIEW THE README on that page for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked].</p> <p><br/>\u00a01. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>\u00a02. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>\u00a03. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>\u00a04. What are the default views for all Rails apps?\u00a0</p> <p>\u00a05. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>\u00a06. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>7. Where is the method to add_bank_account to users? What gem does it use?\u00a0</p> <p>8. Fork a copy of the crowdpublishtv github repo (url above) into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>9. Summarize your Ruby &amp; Rails skill level/what you know in your own words.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/225927082/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.290000915527344, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "id": "225927082", 
-            "maybe_rsvp_count": 0, 
-            "name": "Rails Tutorial/Class in Vienna & online on Mon. evenings", 
-            "status": "upcoming", 
-            "time": 1447716600000, 
-            "updated": 1447433328000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Near Nottoway Park", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 24149860, 
-                "lat": 38.884383999999997, 
-                "lon": -77.274947999999995, 
-                "name": "A mile from Vienna metro or find us online", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
-        }, 
-        {
-            "created": 1446216408000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226421224/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "znwvllytpbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "status": "upcoming", 
-            "time": 1447716600000, 
-            "updated": 1447614161000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1422815587000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231793/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231793", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 26: The Curious Camaraderie of Code", 
-            "status": "upcoming", 
-            "time": 1447718400000, 
-            "updated": 1422815587000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 62
-        }, 
-        {
             "created": 1445992584000, 
-            "description": "<p>For our November Data Science DC, we're thrilled to have to speakers talk about machine learning algorithms and how they can be socially responsible, or not. Mike Williams from Fast Forward Labs in NYC will be talking about how supervised learning algorithms can amplify existing inequality, and Prof. Lisa Singh from Georgetown will present her research on the digital trails we leave on the web. Much of the Big Data revolution is our new ability to analyze extensive, detailed data generated by people and their behavior -- these presentations will provide you with insights into what you can do better to leverage this data in a responsible way.</p> <p>NOTE: We'll be at Pew Research this month! Thank to them for hosting!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Presentations:</b></p> <p><i>Mike Williams:</i></p> <p>This talk will use the example of sentiment analysis to show that supervised machine learning has the potential to amplify the voices of the most privileged people in society. A sentiment analysis algorithm is considered \u2018table stakes\u2019 for any serious text analytics platform in social media, finance, or security. As an example of supervised machine learning, I\u2019ll show how these systems are trained. But I'll also show that they have the unavoidable property that they are better at spotting unsubtle expressions of extreme emotion. Such crude expressions are used by a particularly privileged group of authors: men. In this way, brands that depend on sentiment analysis to 'learn what people think' inevitably pay more attention to men. But the problem doesn't stop with sentiment analysis: at every step of any model building process, we make choices that can introduce bias, enhance privilege, or break the law! I'll review these pitfalls, talk about how you can recognise them in your own work, and touch on some new academic work that aims to mitigate these harms.\u00a0</p> <p>Mike Williams is a research engineer at <a href=\"http://www.fastforwardlabs.com/\">Fast Forward Labs</a>, which helps organizations accelerate their data science and machine intelligence capabilities by profiling near future technologies from academia and elsewhere, producing reports on their development and prototypes demonstrating their application. He has a PhD in astrophysics from Oxford, and did postdocs at the Max Planck Institute in Munich and at Columbia University. Follow Mike on Twitter <a href=\"https://twitter.com/williamsmj_\">@williamsmj_</a>.</p> <p><br/><i>Lisa Singh:</i></p> <p>Helping Users Understand Their Web Footprint</p> <p>With the growth of online social networks and social media sites, the increase in dynamic web content, and the popularity of digital communication, more and more public information about individuals is available on the Internet. This talk will present a\u00a0novel information exposure detection framework that generates and analyzes the web footprints users leave across the social web. Our approach uses probabilistic operators, free text attribute extraction, and a population-based inference engine to generate the web footprints.\u00a0Using a web footprint, the framework then quantifies a user\u2019s level of information exposure relative to others and makes suggestions on which attributes to remove or hide.\u00a0 After presenting the framework, I will show an evaluation that quantifies information exposure on\u00a0 public profiles from\u00a0Google+, LinkedIn, FourSquare, and Twitter.\u00a0Finally, the talk will conclude with a brief discussion about data privacy and ethics.</p> <p>Dr. <a href=\"http://people.cs.georgetown.edu/~singh/\">Lisa Singh</a> is the Graduate Director and an Associate Professor in the Department of Computer Science at Georgetown University.\u00a0Her research interests are in data science, data mining, and databases. She currently has funding from NSF to study privacy on the web (adversarial inference), dolphin social structures with the Shark Bay Dolphin Research project (graph databases, visual analytics and social mining) and forced migration with the Institute for the Study of International Migration, LLNL, York University and others (text mining, graph mining, event detection).\u00a0Dr. Singh received her B.S.E. degree from Duke University and her M.S. and Ph.D. degrees from Northwestern University.\u00a0She has served on many organizing and program committees, including KDD, ICDM, ICDE, and SIGMOD, and is currently involved in different organizations related to women in computing and computational thinking education for K-12.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.pewresearch.org/\">Pew Research</a>, <a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our November Data Science DC, we're thrilled to have to speakers talk about machine learning algorithms and how they can be socially responsible, or not. Mike Williams from Fast Forward Labs in NYC will be talking about how supervised learning algorithms can amplify existing inequality, and Prof. Lisa Singh from Georgetown will present her research on the digital trails we leave on the web. Much of the Big Data revolution is our new ability to analyze extensive, detailed data generated by people and their behavior -- these presentations will provide you with insights into what you can do better to leverage this data in a responsible way.</p> <p>NOTE: We'll be at Pew Research this month! Thank to them for hosting!</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (<i>TBA</i>)</p> <p><b>Presentations:</b></p> <p><i>Mike Williams:</i></p> <p>This talk will use the example of sentiment analysis to show that supervised machine learning has the potential to amplify the voices of the most privileged people in society. A sentiment analysis algorithm is considered \u2018table stakes\u2019 for any serious text analytics platform in social media, finance, or security. As an example of supervised machine learning, I\u2019ll show how these systems are trained. But I'll also show that they have the unavoidable property that they are better at spotting unsubtle expressions of extreme emotion. Such crude expressions are used by a particularly privileged group of authors: men. In this way, brands that depend on sentiment analysis to 'learn what people think' inevitably pay more attention to men. But the problem doesn't stop with sentiment analysis: at every step of any model building process, we make choices that can introduce bias, enhance privilege, or break the law! I'll review these pitfalls, talk about how you can recognise them in your own work, and touch on some new academic work that aims to mitigate these harms.\u00a0</p> <p>Mike Williams is a research engineer at <a href=\"http://www.fastforwardlabs.com/\">Fast Forward Labs</a>, which helps organizations accelerate their data science and machine intelligence capabilities by profiling near future technologies from academia and elsewhere, producing reports on their development and prototypes demonstrating their application. He has a PhD in astrophysics from Oxford, and did postdocs at the Max Planck Institute in Munich and at Columbia University. Follow Mike on Twitter <a href=\"https://twitter.com/mikepqr\">@mikepqr</a>.</p> <p><br/><i>Lisa Singh:</i></p> <p>Helping Users Understand Their Web Footprint</p> <p>With the growth of online social networks and social media sites, the increase in dynamic web content, and the popularity of digital communication, more and more public information about individuals is available on the Internet. This talk will present a\u00a0novel information exposure detection framework that generates and analyzes the web footprints users leave across the social web. Our approach uses probabilistic operators, free text attribute extraction, and a population-based inference engine to generate the web footprints.\u00a0Using a web footprint, the framework then quantifies a user\u2019s level of information exposure relative to others and makes suggestions on which attributes to remove or hide.\u00a0 After presenting the framework, I will show an evaluation that quantifies information exposure on\u00a0 public profiles from\u00a0Google+, LinkedIn, FourSquare, and Twitter.\u00a0Finally, the talk will conclude with a brief discussion about data privacy and ethics.</p> <p>Dr. <a href=\"http://people.cs.georgetown.edu/~singh/\">Lisa Singh</a> is the Graduate Director and an Associate Professor in the Department of Computer Science at Georgetown University.\u00a0Her research interests are in data science, data mining, and databases. She currently has funding from NSF to study privacy on the web (adversarial inference), dolphin social structures with the Shark Bay Dolphin Research project (graph databases, visual analytics and social mining) and forced migration with the Institute for the Study of International Migration, LLNL, York University and others (text mining, graph mining, event detection).\u00a0Dr. Singh received her B.S.E. degree from Duke University and her M.S. and Ph.D. degrees from Northwestern University.\u00a0She has served on many organizing and program committees, including KDD, ICDM, ICDE, and SIGMOD, and is currently involved in different organizations related to women in computing and computational thinking education for K-12.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by <a href=\"http://www.pewresearch.org/\">Pew Research</a>, <a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"https://hired.com/\">Hired</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>,\u00a0and\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/226358392/", 
             "group": {
@@ -254,7 +102,7 @@ calendar({
             "rsvp_limit": 350, 
             "status": "upcoming", 
             "time": 1447803000000, 
-            "updated": 1446423102000, 
+            "updated": 1447722846000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1615 L Street, 8th floor", 
@@ -268,7 +116,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 45, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -296,7 +144,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1446220217000, 
@@ -336,7 +184,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1441653193000, 
@@ -800,7 +648,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1447342129000, 
@@ -1339,6 +1187,34 @@ calendar({
             "time": 1457566200000, 
             "updated": 1446220149000, 
             "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvfbvb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvfbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1458167400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2

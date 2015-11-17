@@ -102,7 +102,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 63
+  open_issues: 60
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-11-10T02:01:36Z'
@@ -316,7 +316,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 178,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 179,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -371,7 +371,7 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-16T20:59:52Z'
+  pushed_at: '2015-11-17T04:12:18Z'
   short_name: codefordc-2.0
   size: 17413
   updated_at: '2015-08-26T00:23:22Z'
@@ -1137,7 +1137,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 30
+  forks: 31
   help_wanted:
   - assignee: null
     body: "Small content changes needed for the entire current code base (as opposed\

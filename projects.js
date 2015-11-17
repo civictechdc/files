@@ -322,7 +322,7 @@ projects([
         }, 
         "main_language": "Java", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 60, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1003,7 +1003,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 178, 
+                "contributions": 179, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1150,7 +1150,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-11-16T20:59:52Z", 
+        "pushed_at": "2015-11-17T04:12:18Z", 
         "short_name": "codefordc-2.0", 
         "size": 17413, 
         "updated_at": "2015-08-26T00:23:22Z", 
@@ -3534,7 +3534,7 @@ projects([
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 30, 
+        "forks": 31, 
         "help_wanted": [
             {
                 "assignee": null, 
