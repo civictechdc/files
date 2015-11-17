@@ -36,7 +36,83 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
+- announced: false
+  created: 1447715097000
+  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
+    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>7:15 - 9:15\_Hacking! Project teams break out to work. \_If you are new,\
+    \ join the new member orientation.</p> <p>~7:30\_Food delivered.\_</p> <p>9:00\
+    \ - 9:15 Everyone reconvenes and shares reactions to and progress made over the\
+    \ last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p>\
+    \ <p>9:15 We head out to happy hour.</p> <p>Notes:\_</p> <p>\u2022 The building\
+    \ is wheelchair-accessible with advance notice. Please use the contact form below\
+    \ to let us know.</p> <p>\u2022\_Text\_202-791-4101\_for entry if no one is at\
+    \ the door.</p> <p>\u2022\_Bring cash for food and drink! Pay what you can.</p>\
+    \ <p>If you are new to Code for DC:\_</p> <p>\u2022\_Bring a laptop if you can\
+    \ (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\_<a href=\"http://codefordc.org/projects\"\
+    >our projects</a>.</p> <p>\u2022\_Review the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\"\
+    >Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\_<a href=\"http://codefordc.org/contact.html\"\
+    >contact us</a>\_with any questions, concerns, etc.</p> <p>\u2022\_If you had\
+    \ a good time, join\_<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\"\
+    >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
+    \ Meetup to stay in the loop.</p>"
+  duration: 9900000
+  event_url: http://www.meetup.com/Code-for-DC/events/226822835/
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
+  headcount: 0
+  id: '226822835'
+  maybe_rsvp_count: 0
+  name: Civic Hacknight
+  status: upcoming
+  time: 1449531000000
+  updated: 1447715097000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
+    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
+- announced: false
+  created: 1447715153000
+  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
+    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
+    \ <p>7:15 - 9:15\_Hacking! Project teams break out to work. \_If you are new,\
+    \ join the new member orientation.</p> <p>~7:30\_Food delivered.\_</p> <p>9:00\
+    \ - 9:15 Everyone reconvenes and shares reactions to and progress made over the\
+    \ last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p>\
+    \ <p>9:15 We head out to happy hour.</p> <p>Notes:\_</p> <p>\u2022 The building\
+    \ is wheelchair-accessible with advance notice. Please use the contact form below\
+    \ to let us know.</p> <p>\u2022\_Text\_202-791-4101\_for entry if no one is at\
+    \ the door.</p> <p>\u2022\_Bring cash for food and drink! Pay what you can.</p>\
+    \ <p>If you are new to Code for DC:\_</p> <p>\u2022\_Bring a laptop if you can\
+    \ (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\_<a href=\"http://codefordc.org/projects\"\
+    >our projects</a>.</p> <p>\u2022\_Review the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\"\
+    >Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\_<a href=\"http://codefordc.org/contact.html\"\
+    >contact us</a>\_with any questions, concerns, etc.</p> <p>\u2022\_If you had\
+    \ a good time, join\_<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\"\
+    >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
+    \ Meetup to stay in the loop.</p>"
+  duration: 9900000
+  event_url: http://www.meetup.com/Code-for-DC/events/226822859/
+  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
+      Hackers}
+  headcount: 0
+  id: '226822859'
+  maybe_rsvp_count: 0
+  name: Civic Hacknight
+  status: upcoming
+  time: 1450740600000
+  updated: 1447715153000
+  utc_offset: -18000000
+  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
+    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 other:
 - created: 1444328178000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
@@ -130,7 +206,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 14
 - created: 1422815587000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in November! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -168,7 +244,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 62
 - created: 1445992584000
   description: "<p>For our November Data Science DC, we're thrilled to have to speakers\
     \ talk about machine learning algorithms and how they can be socially responsible,\
@@ -254,7 +330,7 @@ other:
     lat: 38.904136999999999, lon: -77.037430000000001, name: Pew Research, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 28
+  waitlist_count: 44
   yes_rsvp_count: 350
 - created: 1447341955000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -293,7 +369,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -301,11 +377,13 @@ other:
     \ for everyone who wishes to learn more about the Python programming language.\
     \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
     \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
-    \ This Women Who Code DC event is intended to be exclusively open for women; we\
-    \ are trans* friendly.</p>"
+    \ and people with basic familiarity.\_</p> <p><b>This week we will have a brief\
+    \ talk by Barbara Donato on her experience with Coursera following Violet Cullors\
+    \ on Introduction to Python which will focus on while statements,loops, and breaks</b></p>\
+    \ <p>\_\_<br/>All other study group nights will generally cover more advanced\
+    \ topics and work on projects more in depth, according to everyone's interests.</p>\
+    \ <p>(Please bring a laptop!)\_</p> <p><b>Note:</b> This Women Who Code DC event\
+    \ is intended to be exclusively open for women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226486776/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -318,7 +396,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1447889400000
-  updated: 1447275504000
+  updated: 1447722175000
   utc_offset: -18000000
   venue: {address_1: 2000 Duke Street, city: Alexandria, country: us, id: 1623000,
     lat: 38.804245000000002, lon: -77.063682999999997, name: The Motley Fool, repinned: false,
@@ -383,7 +461,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1443061952000
   description: "<p><b>Reminder: Registration is through <a href=\"http://wcm-contentfirst.eventbrite.com\"\
     >Eventbrite</a></b></p> <p>Join us as we learn about Capital One's pioneering\
@@ -487,7 +565,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -901,7 +979,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 3
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1005,7 +1083,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
