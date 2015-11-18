@@ -116,7 +116,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 27, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 350
         }, 
         {
@@ -259,7 +259,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1446846509000, 
@@ -298,7 +298,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1445546860000, 
@@ -338,7 +338,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1446216408000, 
@@ -375,7 +375,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1447784078000, 
@@ -413,7 +413,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1447431577000, 
@@ -452,7 +452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1446216408000, 
@@ -490,7 +490,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1446760302000, 
@@ -545,7 +545,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1417881835000, 
@@ -744,32 +744,42 @@
             "yes_rsvp_count": 3
         }, 
         {
-            "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486785/", 
+            "created": 1447726616000, 
+            "description": "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts of the information age and the explosion of computing power. However, we don't need computers to experience the data all around us, our world is a constant source of streaming information, a first hand experience we capture with our memories! For artists this begs the question, how else could we capture our experiences? Memory is not a video recording of the world around us, so perhaps there is another creative, external, approach. Data Viz is happy to introduce Catherine Madden.</p> <p><a href=\"https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large\" class=\"linkified\">https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large</a></p> <p>Catherine Madden has captured several DVDC events, some of which are shown here. She will be\u00a0walking through her evolution as a designer, sharing her best practices for data storytelling, and will go into depth about her favorite data stories. We are excited to hear how she discovered that drawing conversations and data has the power to make groups of people more focused, coherent, and productive.\u00a0</p> <p><b>Catherine Madden</b></p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/a/2/6/600_444258982.jpeg\" /></p> <p>Catherine Madden is a designer and visual thinker who has worked out of Washington, DC for the past eight years. She developed a specialty in data visualization and visual facilitation while working at Deloitte Consulting, as the lead designer for the Analytics Visualization Studio. In October, Catherine founded\u00a0<a href=\"http://www.catherinemadden.com/\">a company</a>\u00a0that provides visualization services and workshops for clients who have great ideas, but need help communicating them inside and outside their organization. Catherine recently partnered with FiftyThree and Skillshare to publish a\u00a0<a href=\"http://skl.sh/fiftythree\">free online class</a>\u00a0about drawing data, and you may have seen her sketchnotes on the Data Viz DC Blog or on\u00a0<a href=\"https://twitter.com/catmule/media\">Twitter</a>.\u00a0</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Visual Thinking</p> <p>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p> <p><b>OTHER KUHL CATHERINE MADDEN STUFF</b></p> <p><img src=\"https://pbs.twimg.com/media/By6DUCDIQAABFyp.jpg\" /></p> <p><img src=\"https://pbs.twimg.com/media/CN8K8QMWwAA-GsR.jpg\" /></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226826728/", 
             "group": {
-                "created": 1395616294000, 
+                "created": 1359639162000, 
                 "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
                 "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
             }, 
             "headcount": 0, 
-            "id": "gcxvllytqbvb", 
+            "id": "226826728", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
+            "name": "Visual Thinking & Story Telling", 
             "status": "upcoming", 
-            "time": 1450308600000, 
-            "updated": 1446220217000, 
+            "time": 1449790200000, 
+            "updated": 1447789985000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1447431964000, 
@@ -824,7 +834,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 
@@ -1256,6 +1266,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvgbjb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvgbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1459981800000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
