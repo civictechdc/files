@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1446846509000, 
@@ -232,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1445546860000, 
@@ -271,7 +271,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -309,7 +309,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
+        }, 
+        {
+            "created": 1447860654000, 
+            "description": "<p>Interested in sharpening your coding interview skills and learning more about algorithms? Come to our bi-weekly algorithms and interview prep meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Dinner</p> <p>6:45 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226859762/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call 7039814542 if the door is locked outside.", 
+            "id": "226859762", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms and Interview Prep Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1448321400000, 
+            "updated": 1447860654000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1447784078000, 
@@ -386,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1446216408000, 
@@ -479,7 +519,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1417881835000, 
@@ -518,7 +558,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1443771281000, 
@@ -582,7 +622,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1422815617000, 
@@ -620,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1447342129000, 
@@ -713,7 +753,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1447431964000, 
@@ -806,7 +846,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220149000, 
@@ -1293,34 +1333,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvgbrb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvgbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1460586600000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
