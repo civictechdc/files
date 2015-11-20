@@ -968,9 +968,9 @@
             5
         ], 
         "ci": {
-            "codeclimate": true, 
+            "codeclimate": false, 
             "continua11y": false, 
-            "coverage": true, 
+            "coverage": false, 
             "travis": true
         }, 
         "civic_json": {
@@ -2205,9 +2205,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-11-10T00:55:00Z", 
+        "pushed_at": "2015-11-20T13:16:05Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 27415, 
+        "size": 27174, 
         "updated_at": "2015-10-28T01:25:42Z", 
         "watchers": 15
     }, 
@@ -3165,8 +3165,8 @@
             0, 
             0, 
             0, 
-            28, 
-            12, 
+            30, 
+            10, 
             1, 
             0, 
             0, 

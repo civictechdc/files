@@ -82,7 +82,7 @@
     "other": [
         {
             "created": 1445546860000, 
-            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Will Kasper will show how\u00a0<a href=\"http://www.skycomp.com/\">Skycomp</a>\u00a0gets\u00a0speed, route and travel-time data \u200efrom time-lapse aerial photography.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.\u00a0</p> <p>\u2022\u00a0Will Kasper will show how\u00a0<a href=\"http://www.skycomp.com/\">Skycomp</a>\u00a0gets\u00a0speed, route and travel-time data \u200efrom time-lapse aerial photography.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.\u00a0</p> <p>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.\u00a0</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
             "group": {
                 "created": 1384372275000, 
@@ -102,7 +102,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1448319600000, 
-            "updated": 1447171410000, 
+            "updated": 1448033418000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -117,7 +117,7 @@
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -199,7 +199,7 @@
         }, 
         {
             "created": 1447784078000, 
-            "description": "<p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 6:45. We'll stay online until 8:30. If there are more than 5 people, we'll split into peer or mentor pairs from 8:00-8:30.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here by 6:45.\u00a0</p> <p>HOMEWORK TO SUBMIT BY SATURDAY NOV. 21:</p> <p>Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and google to help you figure out the answers. REVIEW THE README on the github repository for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked] by Saturday afternoon.</p> <p><br/>1. Fork a copy of the crowdpublishtv github repo into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>2. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>3. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>4. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>5. What are the default views for all Rails apps?\u00a0</p> <p>6. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>7. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>8. Where is the method to add_bank_account to users? What gem does it use?</p> <p>9. Read the first 11 pages of the tutorial found at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a> &amp; do the exercise on page 11.\u00a0\u00a0</p>", 
+            "description": "<p>I've also created a facebook group for the Mon. evening study sessions\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a> - I've noticed that for other weekly meetups, the facebook participation is better than the meetup participation. So feel free to invite friends to join the facebook group.</p> <p>I discovered that the hangouts link is persistent, so you can always find us at the same link on Mon. evenings\u00a0<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></p> <p>Let me know if you're going to come to the in-person portion &amp; I'll message you with the address. People may arrive between 6:30 &amp; 6:45. We'll stay online until 8:30. If there are more than 5 people, we'll split into peer or mentor pairs from 8:00-8:30.</p> <p>I'll do this in conjunction with Google Hangouts so that some people can join us remotely. I'll post the link here by 6:45.\u00a0</p> <p>HOMEWORK TO SUBMIT BY SATURDAY NOV. 21:</p> <p>Refer to <a href=\"http://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"http://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">http://github.com/crowdpublishtv/crowdpublishtv</a></a> and google to help you figure out the answers. REVIEW THE README on the github repository for instructions on how to get CrowdPublishTV code working on your local machine.</p> <p>Send your responses to [masked] by Saturday afternoon.</p> <p><br/>1. Fork a copy of the crowdpublishtv github repo into your github account. Make a minor change that does not affect functionality (such as add a dummy file to the root directory) and request that the CrowdPublishTV admin pull your changes.\u00a0</p> <p>2. What is the design of the CrowdPublish.TV database? Submit as a jpg or png (You may draw on paper &amp; submit as a photo)\u00a0</p> <p>3. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the CrowdPublish.TV database?\u00a0</p> <p>4. What pages/views do authors get in their web site when they sign up for CrowdPublish.TV?\u00a0</p> <p>5. What are the default views for all Rails apps?\u00a0</p> <p>6. What are the routes that were added to the CrowdPublish.TV app so the non-default/extra views for user pages could be displayed?\u00a0</p> <p>7. What are the methods that were added to the CrowdPublish.TV app so the non-default/extra user views/pages could be displayed? What file are they in?\u00a0</p> <p>8. Where is the method to add_bank_account to users? What gem does it use?</p> <p>9. Read the first 11 pages of the tutorial found at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a> &amp; do the exercise on page 11.\u00a0\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/railsgirlsdc/events/226839037/", 
             "group": {
@@ -215,10 +215,10 @@
             "headcount": 0, 
             "id": "226839037", 
             "maybe_rsvp_count": 0, 
-            "name": "Rails Tutorial/Class in Vienna & online on Mon. evenings", 
+            "name": "Google hangouts Rails Tutorial/Class on Mon. evenings", 
             "status": "upcoming", 
             "time": 1448322300000, 
-            "updated": 1447784210000, 
+            "updated": 1448039631000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Near Nottoway Park", 
@@ -310,7 +310,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1446760302000, 
@@ -517,7 +517,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1447342129000, 
@@ -610,7 +610,45 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 153
+            "yes_rsvp_count": 158
+        }, 
+        {
+            "created": 1448043482000, 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers starting at 7:00.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.</p> <p><i>Note there is a chance event will be moved to Thursday, Dec 17. Stay tuned!</i></p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at Transportation Techies Show What Can Be Done With Bike Data and D.C. Using Data to Envision Bike Lanes of the Future.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/226911922/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "226911922", 
+            "maybe_rsvp_count": 0, 
+            "name": "Bike Hack Night IV", 
+            "status": "upcoming", 
+            "time": 1450306800000, 
+            "updated": 1448044209000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2231 Crystal Dr #1000", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24108017, 
+                "lat": 38.853779000000003, 
+                "lon": -77.048766999999998, 
+                "name": "1776", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1447431964000, 

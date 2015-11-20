@@ -298,7 +298,7 @@
 - activity: [4, 1, 0, 9, 4, 1, 1, 1, 9, 0, 2, 4, 1, 8, 8, 6, 1, 9, 2, 2, 0, 2, 3,
     2, 6, 0, 2, 0, 0, 5, 0, 1, 20, 1, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 6,
     0, 0, 5]
-  ci: {codeclimate: true, continua11y: false, coverage: true, travis: true}
+  ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
     categories:
@@ -711,9 +711,9 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-10T00:55:00Z'
+  pushed_at: '2015-11-20T13:16:05Z'
   short_name: dc-campaign-finance-watch
-  size: 27415
+  size: 27174
   updated_at: '2015-10-28T01:25:42Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
@@ -1013,7 +1013,7 @@
   size: 4204
   updated_at: '2015-11-07T11:26:18Z'
   watchers: 15
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 12, 1, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 10, 1, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
