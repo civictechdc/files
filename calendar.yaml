@@ -126,7 +126,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -171,7 +171,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 12
   yes_rsvp_count: 100
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -215,7 +215,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1447860654000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -245,7 +245,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1447784078000
   description: "<p>Let me know if you're going to come to the in-person portion &amp;\
     \ I'll message you with the address. People may arrive between 6:30 &amp; 6:45.\
@@ -422,7 +422,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -451,7 +451,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -486,7 +486,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 108
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -524,30 +524,24 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
-    \ signups are here:</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"\
-    http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\"\
-    >http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\nThe format is informal, engaging, and friendly: presenters have 5 minutes\
-    \ to show off their hack (it goes faster than you\u2019d expect) and then the\
-    \ audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\
-    \ The hacks that people present are anything from how to train your dog to text\
-    \ you when it needs a walk to [something more serious... like blenders made out\
-    \ of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches,\
-    \ no dull work projects, no deckware!</p> <p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\nIf you\u2019re interested in presenting, complete this short form\
-    \ to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
-    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee you at the meetup! We'll start close to seven.\
-    \ There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for\
-    \ hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>"
+    \ signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal,\
+    \ engaging, and friendly: presenters have 5 minutes to show off their hack (it\
+    \ goes faster than you\u2019d expect) and then the audience has 5 minutes to ask\
+    \ questions, make jokes, and suggest ideas and feedback. The hacks that people\
+    \ present are anything from how to train your dog to text you when it needs a\
+    \ walk to [something more serious... like blenders made out of artichokes]. Show\
+    \ us what you\u2019ve got! But remember: no startup pitches, no dull work projects,\
+    \ no deckware!</p> <p>If you\u2019re interested in presenting, complete this short\
+    \ form to let us know:\_<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
+    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the\
+    \ meetup! We'll start close to 6:30. There may be a couple beers. It's going to\
+    \ be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you!\
+    \ We love hacks! &lt;3</p>"
   event_url: http://www.meetup.com/DC-Hack-and-Tell/events/220231803/
   group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
@@ -558,14 +552,14 @@ other:
   maybe_rsvp_count: 0
   name: 'Round 27: Hyperion Christmas Carols'
   status: upcoming
-  time: 1449619200000
-  updated: 1422815617000
+  time: 1449617400000
+  updated: 1447966864000
   utc_offset: -18000000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 27
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -628,7 +622,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1447726616000
   description: "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts\
     \ of the information age and the explosion of computing power. However, we don't\
@@ -681,7 +675,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 148
+  yes_rsvp_count: 150
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
