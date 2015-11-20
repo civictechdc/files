@@ -76,57 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1446846509000
-  description: "<p>I said a hip, hop, the hippy to the hippy/To the hip hip hop, you\
-    \ don't stop.\u2009.\u2009.\u2009.</p> <p><br/>If you were a fan of hip-hop/rap\
-    \ at any point, you are likely familiar with \"Rapper's Delight\" by the Sugar\
-    \ Hill Gang. What you might not be familiar with is how data science can intersect\
-    \ with hip-hop. Maybe this is because the two do not intersect, but maybe they\
-    \ do? (Spoiler alert - THEY DO!)</p> <p>Agenda\_</p> <p>6:30 PM -- Networking\
-    \ &amp; Food\_</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM --<i>Rapalytics\
-    \ -- </i>Abhay Kashyap</p> <p>9:00 PM -- Sippin' on Gin and Juice at Green Turtle</p>\
-    \ <p><b>Rapalytics</b></p> <p>Rapalytics deals with the Natural Language Processing\
-    \ of Rap Lyrics and visualization of the core features of Rap music composition.\
-    \ The project is ongoing and currently has over 10,000 songs from over 150 artists.\
-    \ The extracted features include popularity, vocabulary size, rhyme density, similes,\
-    \ profanity and word density. You can browse the extracted analytics and compare\
-    \ different artists at &lt;a&gt;<a href=\"http://rapalytics.com.&lt;/a&gt\" class=\"\
-    linkified\">http://rapalytics.com.&lt;/a&gt</a>;</p> <p><b>Speaker</b></p> <p>Abhay\
-    \ is a 5th year PhD student at the University of Maryland, Baltimore County under\
-    \ the guidance of Dr. Tim Finin. He is also the course instructor for the undergraduate\
-    \ course \u201CIntroduction to Artificial Intelligence\u201D. Abhay has been working\
-    \ in the area of text analysis for the past four years during which he extensively\
-    \ worked with word embeddings, text similarity and language models. His PhD thesis\
-    \ titled \u201CLyrics augmented Multi-Modal Music Recommendation\u201D aims to\
-    \ build algorithms to model lyrical content of song lyrics and effectively combine\
-    \ them with acoustic and collaborative data. Abhay interned at WalmartLabs the\
-    \ past two summers where he worked on product recommendations.</p> <p><br/>Looking\
-    \ for a few articles to whet your appetite?</p> <p>Vox:\_<a href=\"http://www.vox.com/2015/6/30/8863473/dr-dre-cursing\"\
-    ><a href=\"http://www.vox.com/2015/6/30/8863473/dr-dre-cursing\" class=\"linkified\"\
-    >http://www.vox.com/2015/6/30/8863473/dr-dre-cursing</a></a>\_<br/>Metro:\_<a\
-    \ href=\"http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/\"\
-    ><a href=\"http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/\"\
-    \ class=\"linkified\">http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/</a></a>\_\
-    </p>"
-  event_url: http://www.meetup.com/Data-Science-MD/events/226598421/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '226598421'
-  maybe_rsvp_count: 0
-  name: Lose Yourself in Rapalytics
-  rsvp_limit: 150
-  status: upcoming
-  time: 1447975800000
-  updated: 1447129300000
-  utc_offset: -18000000
-  venue: {address_1: '8890 McGaw Rd #230', city: Columbia, country: us, id: 23832486,
-    lat: 39.209999000000003, lon: -76.879997000000003, name: Loyola Columbia, repinned: false,
-    state: MD, zip: '21044'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 70
 - created: 1445546860000
   description: "<p>Calling all coders with a passion for traffic, and studying and\
     \ visualizing how we use our roads. This event is a show &amp; tell of traffic-related\_\
@@ -171,7 +120,7 @@ other:
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 13
   yes_rsvp_count: 100
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -215,7 +164,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1447860654000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -486,7 +435,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 109
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -524,7 +473,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -559,7 +508,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -675,7 +624,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 150
+  yes_rsvp_count: 153
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\

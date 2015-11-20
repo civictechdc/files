@@ -81,45 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1446846509000, 
-            "description": "<p>I said a hip, hop, the hippy to the hippy/To the hip hip hop, you don't stop.\u2009.\u2009.\u2009.</p> <p><br/>If you were a fan of hip-hop/rap at any point, you are likely familiar with \"Rapper's Delight\" by the Sugar Hill Gang. What you might not be familiar with is how data science can intersect with hip-hop. Maybe this is because the two do not intersect, but maybe they do? (Spoiler alert - THEY DO!)</p> <p>Agenda\u00a0</p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM --<i>Rapalytics -- </i>Abhay Kashyap</p> <p>9:00 PM -- Sippin' on Gin and Juice at Green Turtle</p> <p><b>Rapalytics</b></p> <p>Rapalytics deals with the Natural Language Processing of Rap Lyrics and visualization of the core features of Rap music composition. The project is ongoing and currently has over 10,000 songs from over 150 artists. The extracted features include popularity, vocabulary size, rhyme density, similes, profanity and word density. You can browse the extracted analytics and compare different artists at &lt;a&gt;<a href=\"http://rapalytics.com.&lt;/a&gt\" class=\"linkified\">http://rapalytics.com.&lt;/a&gt</a>;</p> <p><b>Speaker</b></p> <p>Abhay is a 5th year PhD student at the University of Maryland, Baltimore County under the guidance of Dr. Tim Finin. He is also the course instructor for the undergraduate course \u201cIntroduction to Artificial Intelligence\u201d. Abhay has been working in the area of text analysis for the past four years during which he extensively worked with word embeddings, text similarity and language models. His PhD thesis titled \u201cLyrics augmented Multi-Modal Music Recommendation\u201d aims to build algorithms to model lyrical content of song lyrics and effectively combine them with acoustic and collaborative data. Abhay interned at WalmartLabs the past two summers where he worked on product recommendations.</p> <p><br/>Looking for a few articles to whet your appetite?</p> <p>Vox:\u00a0<a href=\"http://www.vox.com/2015/6/30/8863473/dr-dre-cursing\"><a href=\"http://www.vox.com/2015/6/30/8863473/dr-dre-cursing\" class=\"linkified\">http://www.vox.com/2015/6/30/8863473/dr-dre-cursing</a></a>\u00a0<br/>Metro:\u00a0<a href=\"http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/\"><a href=\"http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/\" class=\"linkified\">http://metro.co.uk/2015/07/02/whos-the-most-potty-mouthed-rapper-in-the-world-apparently-its-dr-dre-5275234/</a></a>\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/226598421/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "226598421", 
-            "maybe_rsvp_count": 0, 
-            "name": "Lose Yourself in Rapalytics", 
-            "rsvp_limit": 150, 
-            "status": "upcoming", 
-            "time": 1447975800000, 
-            "updated": 1447129300000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "8890 McGaw Rd #230", 
-                "city": "Columbia", 
-                "country": "us", 
-                "id": 23832486, 
-                "lat": 39.209999000000003, 
-                "lon": -76.879997000000003, 
-                "name": "Loyola Columbia", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21044"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 70
-        }, 
-        {
             "created": 1445546860000, 
             "description": "<p>Calling all coders with a passion for traffic, and studying and visualizing how we use our roads. This event is a show &amp; tell of traffic-related\u00a0apps &amp; maps.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have a project you'd like to share. So far our presenters are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Mason_Transport\">Jacob Mason</a> of <a href=\"http://allwalksdc.org/\">All Walks DC</a> (and\u00a0<a href=\"https://www.itdp.org/who-we-are/contact-us/\">ITDB</a>) will show how he made maps of local traffic violations, as seen in <a href=\"http://greatergreaterwashington.org/post/27732/when-governments-make-road-data-public-anyone-can-help-make-roads-safer/\">GGW</a>.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/nunerakesh\">Rakesh Nune</a> of <a href=\"http://ddot.dc.gov/\">DDOT</a> has a program that uses social media data for early traffic incident detection and management.</p> <p><br/>\u2022\u00a0Brian Zito,\u00a0Ashley Peter, and\u00a0Seth\u00a0Clark created\u00a0Eyes Ahead, an app that discourages texting and driving by creating accountability.</p> <p><br/>\u2022\u00a0Will Kasper will show how\u00a0<a href=\"http://www.skycomp.com/\">Skycomp</a>\u00a0gets\u00a0speed, route and travel-time data \u200efrom time-lapse aerial photography.</p> <p><br/>\u2022\u00a0Anthony Gallo of\u00a0<a href=\"http://www.kimley-horn.com/\">Kimley-Horn</a> will discuss traffic simulation for the <a href=\"http://outside.transform66.org/\">I-66 Outside the Beltway Express Lanes project</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/jayroo5245\">Jared Sheehan</a> will show how\u00a0<a href=\"http://www.driversiti.com/\">Driversiti</a> uses mobile devices to detect\u00a0driver behavior.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/baronnik\">Nikola Ivanov</a> of\u00a0<a href=\"http://www.cattlab.umd.edu/\">CATT Lab</a>\u00a0will share how their \"Virtual Weigh Station\" app helps the\u00a0<a href=\"http://www.roads.maryland.gov/\">MD SHA</a> Freight Enforcement Division discover\u00a0illegally heavy loads.</p> <p><br/>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226241616/", 
@@ -156,7 +117,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -194,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1447860654000, 
@@ -454,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1443771281000, 
@@ -518,7 +479,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1422815617000, 
@@ -556,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1447342129000, 
@@ -649,7 +610,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 150
+            "yes_rsvp_count": 153
         }, 
         {
             "created": 1447431964000, 
