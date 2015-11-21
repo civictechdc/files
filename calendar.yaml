@@ -283,7 +283,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1446216408000
   description: "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be\
     \ doing an Introduction to SASS presentation. If you have any specific questions.\
@@ -516,7 +516,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -632,7 +632,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 158
+  yes_rsvp_count: 162
 - created: 1448043482000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -642,9 +642,14 @@ other:
     \ Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
     >Michael</a>. Our speakers thus far are:</p> <p>\u2022\_Matt Fowle built a sound\
     \ system for his bike using Chromecast\_audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\
-    \_Rob McPherson will show how\_<a href=\"http://baasbikes.com/\">Baas Bikes</a>\_\
-    uses software to be awesome.</p> <p>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
-    >Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
+    \_Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\_will\
+    \ show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\"\
+    >DC bike accidents</a>\_and <a href=\"http://www.datalensdc.com/rise-of-biking.html\"\
+    >bike counts</a>.</p> <p><br/>\u2022\_Rob McPherson will show how\_<a href=\"\
+    http://baasbikes.com/\">Baas Bikes</a>\_uses software to be awesome.</p> <p>\u2022\
+    \_Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a\
+    \ href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike\
+    \ Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
     >Bike Hack Night II</a>\_and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\"\
     >Bike Hack Night III</a> to see what was presented at previous events. Read summaries\
     \ at Transportation Techies Show What Can Be Done With Bike Data and D.C. Using\
@@ -667,14 +672,14 @@ other:
   name: Bike Hack Night IV
   status: upcoming
   time: 1450306800000
-  updated: 1448044209000
+  updated: 1448060240000
   utc_offset: -18000000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
     lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 10
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
