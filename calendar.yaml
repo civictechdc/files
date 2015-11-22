@@ -329,7 +329,7 @@ other:
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1446760302000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -381,17 +381,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 9
 - created: 1446219481000
-  description: <p>We're a group of women who want to learn and develop our Python
-    scripting skills. Some of us are professional developers and data scientists,
-    others are hobbyists, and some are just beginning. The study group is intended
-    for everyone who wishes to learn more about the Python programming language. Folks
-    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
-    Wednesday of every month, which caters especially for absolute beginners and people
-    with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
-    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
-    for women; we are trans* friendly.</p>
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.\_</p> <p><b>We will have a presentation on\
+    \ Introduction to Python and perform an install of Python as well.\_</b>\_\_</p>\
+    \ <p>All other study group nights will generally cover more advanced topics and\
+    \ work on projects more in depth, according to everyone's interests.</p> <p>(Please\
+    \ bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women\
+    \ Who Code DC event is intended to be exclusively open for women; we are trans*\
+    \ friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226424099/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -404,11 +406,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1449099000000
-  updated: 1446219481000
+  updated: 1448144292000
   utc_offset: -18000000
+  venue: {address_1: 1155 F Street NW Suite 475, city: Washington, country: us, id: 24145195,
+    lat: 38.897540999999997, lon: -77.027450999999999, name: Fiscal Note, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 30
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -516,7 +521,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
