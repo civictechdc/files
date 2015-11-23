@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": true, 
@@ -99,10 +99,10 @@ calendar({
             "id": "226241616", 
             "maybe_rsvp_count": 0, 
             "name": "Playing with Traffic", 
-            "rsvp_limit": 108, 
+            "rsvp_limit": 110, 
             "status": "upcoming", 
             "time": 1448319600000, 
-            "updated": 1448257625000, 
+            "updated": 1448299556000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1501 Wilson Blvd, Suite 1100", 
@@ -117,8 +117,8 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
-            "yes_rsvp_count": 108
+            "waitlist_count": 4, 
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1446216408000, 
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1447860654000, 
@@ -195,7 +195,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1447784078000, 
@@ -255,9 +255,10 @@ calendar({
             "id": "226752131", 
             "maybe_rsvp_count": 0, 
             "name": "Project Night!", 
+            "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1448406000000, 
-            "updated": 1447431748000, 
+            "updated": 1448296284000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1001 19th St N, Suite 910", 
@@ -272,7 +273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1446216408000, 
@@ -310,7 +311,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1446760302000, 
@@ -387,7 +388,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1417881835000, 
@@ -426,7 +427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1443771281000, 
@@ -528,7 +529,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1447342129000, 
@@ -586,6 +587,44 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1448297888000, 
+            "description": "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Register</a> by December 1st for Early Bird Pricing. Use the code\u00a0WCMTTH15 for 15% off.</p> <p>It's that time of year again!</p> <p>DC's BIGGEST MEGA Tech Holiday Party -Tech The Halls 2015 - Presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>!</p> <p><b>NOTE:\u00a0<a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Registration is via Eventbrite</a></b></p> <p>Mark your calendars for,\u00a0Wednesday, December 9th\u00a0for the 4th annual\u00a0Tech The Halls 2015 Holiday Party\u00a0as we come together and celebrate all that is the DC tech community!</p> <p>Tech organizations such as\u00a0DCWW, UXPA-DC, STC WDC, Web Content Mavens, Reaching Latinos Online, Color of Tech, Digital District, Code For Progress and DMV Startup\u00a0along with technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech The Halls brings together entrepreneurs, startup founders, designers, developers, marketers and strategists to network and discuss tech trends.</p> <p>There will be an\u00a0open bar, unlimited food, and music\u00a0by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</p> <p>Hashtag:\u00a0#techthehalls15</p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>Interested in sponsoring Tech The Halls 2015?\u00a0Go\u00a0<a href=\"https://www.eventbrite.com/e/sponsor-tech-the-halls-2015-tickets-18917845786\">here</a>\u00a0to see how to sponsor or contact us at\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>Many thanks to our sponsors!</b></p> <p><b><a href=\"http://www.adobe.com/\">Adobe</a></b></p> <p><b><a href=\"http://www.agencychief.com/\">CHIEF\u00a0</a><br/></b></p> <p><b><a href=\"https://www.capitalone.com/\">Capital One</a></b></p> <p><b>TTH TRANSPORTATION PARTNER</b></p> <p>\u00a0Ride to Tech the Halls and back with DC shared ride startup\u00a0</p> <p><a href=\"http://split.us/\">Split</a></p> <p>\u00a0- just download the app and register with promo code\u00a0TTH15\u00a0for free ride credit.\u00a0\u00a0Split's super affordable, sustainable shared rides are powered by a dynamic technology that instantly combines overlapping rides and makes life a little easier for DC dwellers.\u00a0\u00a0#ridelocal #letssplit</p> <p><br/>How to Split:Download the app at\u00a0<a href=\"http://split.us/\">split.us</a>, and register with promo code\u00a0TTH15.Request a ride on-demand.Walk to your pickup point, usually within a block or so. You might share with someone along the way!Arrive at your dropoff point, and walk to your destination nearby!\u00a0</p> <p><b><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Register for Tech the Halls</a></b></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/226970279/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "226970279", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech The Halls 2015 - Presented by Adobe", 
+            "status": "upcoming", 
+            "time": 1449703800000, 
+            "updated": 1448297959000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1301 K St NW, Washington", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 16389972, 
+                "lat": 38.902926999999998, 
+                "lon": -77.030563000000001, 
+                "name": "Capitale", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
+        }, 
+        {
             "created": 1447726616000, 
             "description": "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts of the information age and the explosion of computing power. However, we don't need computers to experience the data all around us, our world is a constant source of streaming information, a first hand experience we capture with our memories! For artists this begs the question, how else could we capture our experiences? Memory is not a video recording of the world around us, so perhaps there is another creative, external, approach. Data Viz is happy to introduce Catherine Madden.</p> <p><a href=\"https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large\" class=\"linkified\">https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large</a></p> <p>Catherine Madden has captured several DVDC events, some of which are shown here. She will be\u00a0walking through her evolution as a designer, sharing her best practices for data storytelling, and will go into depth about her favorite data stories. We are excited to hear how she discovered that drawing conversations and data has the power to make groups of people more focused, coherent, and productive.\u00a0</p> <p><b>Catherine Madden</b></p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/a/2/6/600_444258982.jpeg\" /></p> <p>Catherine Madden is a designer and visual thinker who has worked out of Washington, DC for the past eight years. She developed a specialty in data visualization and visual facilitation while working at Deloitte Consulting, as the lead designer for the Analytics Visualization Studio. In October, Catherine founded\u00a0<a href=\"http://www.catherinemadden.com/\">a company</a>\u00a0that provides visualization services and workshops for clients who have great ideas, but need help communicating them inside and outside their organization. Catherine recently partnered with FiftyThree and Skillshare to publish a\u00a0<a href=\"http://skl.sh/fiftythree\">free online class</a>\u00a0about drawing data, and you may have seen her sketchnotes on the Data Viz DC Blog or on\u00a0<a href=\"https://twitter.com/catmule/media\">Twitter</a>.\u00a0</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Visual Thinking</p> <p>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p> <p><b>OTHER KUHL CATHERINE MADDEN STUFF</b></p> <p><img src=\"https://pbs.twimg.com/media/By6DUCDIQAABFyp.jpg\" /></p> <p><img src=\"https://pbs.twimg.com/media/CN8K8QMWwAA-GsR.jpg\" /></p>", 
             "duration": 8100000, 
@@ -621,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 174
         }, 
         {
             "created": 1448043482000, 
@@ -660,7 +699,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1447431964000, 

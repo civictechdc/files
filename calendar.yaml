@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 25
 - announced: true
   created: 1447715153000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -111,17 +111,17 @@ other:
   id: '226241616'
   maybe_rsvp_count: 0
   name: Playing with Traffic
-  rsvp_limit: 108
+  rsvp_limit: 110
   status: upcoming
   time: 1448319600000
-  updated: 1448257625000
+  updated: 1448299556000
   utc_offset: -18000000
   venue: {address_1: '1501 Wilson Blvd, Suite 1100', city: Arlington, country: us,
     id: 16609032, lat: 38.895149000000004, lon: -77.074043000000003, name: Mobility
       Lab, repinned: false, state: VA, zip: '22209'}
   visibility: public
-  waitlist_count: 7
-  yes_rsvp_count: 108
+  waitlist_count: 4
+  yes_rsvp_count: 110
 - created: 1446216408000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -164,7 +164,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1447860654000
   description: "<p>Interested in sharpening your coding interview skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms and interview prep meetup!\
@@ -194,7 +194,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1447784078000
   description: "<p>I've also created a facebook group for the Mon. evening study sessions\_\
     <a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -274,16 +274,17 @@ other:
   id: '226752131'
   maybe_rsvp_count: 0
   name: Project Night!
+  rsvp_limit: 50
   status: upcoming
   time: 1448406000000
-  updated: 1447431748000
+  updated: 1448296284000
   utc_offset: -18000000
   venue: {address_1: '1001 19th St N, Suite 910', city: Rosslyn, country: us, id: 24207670,
     lat: 38.897274000000003, lon: -77.069305, name: Esri R&D Center, repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1446216408000
   description: "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be\
     \ doing an Introduction to SASS presentation. If you have any specific questions.\
@@ -329,7 +330,7 @@ other:
       Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1446760302000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -413,7 +414,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -448,7 +449,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 116
 - created: 1443771281000
   description: <p>More TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
@@ -521,7 +522,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -585,6 +586,62 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1448297888000
+  description: "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    >Register</a> by December 1st for Early Bird Pricing. Use the code\_WCMTTH15 for\
+    \ 15% off.</p> <p>It's that time of year again!</p> <p>DC's BIGGEST MEGA Tech\
+    \ Holiday Party -Tech The Halls 2015 - Presented by\_<a href=\"http://www.adobe.com/\"\
+    >Adobe</a>!</p> <p><b>NOTE:\_<a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    >Registration is via Eventbrite</a></b></p> <p>Mark your calendars for,\_Wednesday,\
+    \ December 9th\_for the 4th annual\_Tech The Halls 2015 Holiday Party\_as we come\
+    \ together and celebrate all that is the DC tech community!</p> <p>Tech organizations\
+    \ such as\_DCWW, UXPA-DC, STC WDC, Web Content Mavens, Reaching Latinos Online,\
+    \ Color of Tech, Digital District, Code For Progress and DMV Startup\_along with\
+    \ technologists from all over the DC-Metro area will meet, share ideas and network.</p>\
+    \ <p>Held at the chic\_<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\_\
+    in downtown Washington, DC, Tech The Halls brings together entrepreneurs, startup\
+    \ founders, designers, developers, marketers and strategists to network and discuss\
+    \ tech trends.</p> <p>There will be an\_open bar, unlimited food, and music\_\
+    by\_<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p>Attendees\
+    \ will receive a holiday tech-themed gift bag (quantities limited), and a chance\
+    \ to win tech/non-tech prizes including a very special grand prize!</p> <p>Hashtag:\_\
+    #techthehalls15</p> <p>General event questions? Please contact\_<a href=\"mailto:[masked]\"\
+    >[masked]</a>.</p> <p>Interested in sponsoring Tech The Halls 2015?\_Go\_<a href=\"\
+    https://www.eventbrite.com/e/sponsor-tech-the-halls-2015-tickets-18917845786\"\
+    >here</a>\_to see how to sponsor or contact us at\_<a href=\"mailto:[masked]\"\
+    >[masked]</a>.</p> <p><b>Many thanks to our sponsors!</b></p> <p><b><a href=\"\
+    http://www.adobe.com/\">Adobe</a></b></p> <p><b><a href=\"http://www.agencychief.com/\"\
+    >CHIEF\_</a><br/></b></p> <p><b><a href=\"https://www.capitalone.com/\">Capital\
+    \ One</a></b></p> <p><b>TTH TRANSPORTATION PARTNER</b></p> <p>\_Ride to Tech the\
+    \ Halls and back with DC shared ride startup\_</p> <p><a href=\"http://split.us/\"\
+    >Split</a></p> <p>\_- just download the app and register with promo code\_TTH15\_\
+    for free ride credit.\_\_Split's super affordable, sustainable shared rides are\
+    \ powered by a dynamic technology that instantly combines overlapping rides and\
+    \ makes life a little easier for DC dwellers.\_\_#ridelocal #letssplit</p> <p><br/>How\
+    \ to Split:Download the app at\_<a href=\"http://split.us/\">split.us</a>, and\
+    \ register with promo code\_TTH15.Request a ride on-demand.Walk to your pickup\
+    \ point, usually within a block or so. You might share with someone along the\
+    \ way!Arrive at your dropoff point, and walk to your destination nearby!\_</p>\
+    \ <p><b><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    >Register for Tech the Halls</a></b></p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/226970279/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '226970279'
+  maybe_rsvp_count: 0
+  name: Tech The Halls 2015 - Presented by Adobe
+  status: upcoming
+  time: 1449703800000
+  updated: 1448297959000
+  utc_offset: -18000000
+  venue: {address_1: '1301 K St NW, Washington', city: Washington, country: us, id: 16389972,
+    lat: 38.902926999999998, lon: -77.030563000000001, name: Capitale, repinned: false,
+    state: DC, zip: '20005'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 7
 - created: 1447726616000
   description: "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts\
     \ of the information age and the explosion of computing power. However, we don't\
@@ -637,7 +694,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 174
 - created: 1448043482000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers\
@@ -687,7 +744,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
