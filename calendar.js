@@ -1,7 +1,7 @@
 calendar({
     "codefordc": [
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1447715097000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -37,10 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 13
         }, 
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1447715153000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }
     ], 
     "other": [
@@ -117,7 +117,7 @@ calendar({
                 "zip": "22209"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 107
         }, 
         {
@@ -195,7 +195,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1447784078000, 
@@ -233,7 +233,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1447431577000, 
@@ -348,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446219481000, 
@@ -426,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1443771281000, 
@@ -490,7 +490,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422815617000, 
@@ -621,11 +621,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 167
+            "yes_rsvp_count": 169
         }, 
         {
             "created": 1448043482000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers starting at 7:00.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at Transportation Techies Show What Can Be Done With Bike Data and D.C. Using Data to Envision Bike Lanes of the Future.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers starting at 7:00.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at Transportation Techies Show What Can Be Done With Bike Data and D.C. Using Data to Envision Bike Lanes of the Future.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226911922/", 
             "group": {
@@ -642,9 +642,10 @@ calendar({
             "id": "226911922", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night IV", 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1450306800000, 
-            "updated": 1448217529000, 
+            "updated": 1448233425000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -659,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1447431964000, 
