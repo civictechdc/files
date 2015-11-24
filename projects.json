@@ -969,7 +969,7 @@
         ], 
         "ci": {
             "codeclimate": true, 
-            "continua11y": false, 
+            "continua11y": true, 
             "coverage": true, 
             "travis": true
         }, 
@@ -1143,16 +1143,16 @@
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 10, 
+        "open_issues": 11, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-11-17T21:02:08Z", 
+        "pushed_at": "2015-11-23T22:01:11Z", 
         "short_name": "codefordc.github.com", 
-        "size": 17412, 
+        "size": 17415, 
         "updated_at": "2015-11-17T17:35:04Z", 
         "watchers": 19
     }, 
@@ -4123,8 +4123,8 @@
             0, 
             16, 
             0, 
-            23, 
-            12, 
+            27, 
+            8, 
             1, 
             0, 
             0, 
@@ -4390,7 +4390,7 @@
         "license": null, 
         "main_language": "CSS", 
         "name": "LegiTrack DC", 
-        "open_issues": 3, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/12779671?v=3", 
             "name": "jkoul", 

@@ -298,7 +298,7 @@
 - activity: [0, 1, 9, 0, 4, 2, 0, 10, 0, 0, 6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3,
     5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2,
     0, 1, 4]
-  ci: {codeclimate: true, continua11y: false, coverage: true, travis: true}
+  ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json:
     bornAt: Code for DC
     categories:
@@ -368,12 +368,12 @@
   license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 10
+  open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-17T21:02:08Z'
+  pushed_at: '2015-11-23T22:01:11Z'
   short_name: codefordc.github.com
-  size: 17412
+  size: 17415
   updated_at: '2015-11-17T17:35:04Z'
   watchers: 19
 - activity: [4, 7, 6, 5, 3, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1369,8 +1369,8 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 23, 12, 1, 0, 0, 0, 0, 0, 0, 5, 0,
-    0, 0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1454,7 +1454,7 @@
   license: null
   main_language: CSS
   name: LegiTrack DC
-  open_issues: 3
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/12779671?v=3', name: jkoul,
     type: User, url: 'https://github.com/jkoul'}
   pushed_at: '2015-11-18T16:16:42Z'
