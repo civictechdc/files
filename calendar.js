@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }
     ], 
     "other": [
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1446216408000, 
@@ -160,7 +160,7 @@ calendar({
         }, 
         {
             "created": 1448340706000, 
-            "description": "<p>Well - it's winter. \u00a0And though it gets colder, the warmth and cheer of APIs only grows. \u00a0</p> <p>So let's get together, friends, next week at Chief! \u00a0We've got a great lineup of presenters, with plenty to eat and drink. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Aaron Berkowitz -\u00a0PBS KIDS<br/>*\u00a0David Berlind -\u00a0ProgrammableWeb<br/>* Gray Achiu - Patent and Trademark Office</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Well - it's winter. \u00a0And though it gets colder, the warmth and cheer of APIs only grows. \u00a0</p> <p>So let's get together, friends, next week at Chief! \u00a0We've got a great lineup of presenters, with plenty to eat and drink. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Aaron Berkowitz -\u00a0PBS KIDS<br/>*\u00a0David Berlind -\u00a0ProgrammableWeb<br/>* Alan Marco - Patent and Trademark Office</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/226984950/", 
             "group": {
                 "created": 1347647025000, 
@@ -178,7 +178,7 @@ calendar({
             "name": "DC API User Group - December Edition", 
             "status": "upcoming", 
             "time": 1449010800000, 
-            "updated": 1448340706000, 
+            "updated": 1448386089000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1446760302000, 
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1443771281000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1448305716000, 
@@ -410,7 +410,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1422815617000, 
@@ -541,7 +541,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1447726616000, 
@@ -579,7 +579,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 179
+            "yes_rsvp_count": 180
         }, 
         {
             "created": 1448313893000, 
@@ -619,7 +619,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1448305716000, 
@@ -660,7 +660,7 @@ calendar({
         }, 
         {
             "created": 1448043482000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for snacks and beer, with speakers starting at 7:00.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226911922/", 
             "group": {
@@ -680,7 +680,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1450306800000, 
-            "updated": 1448257834000, 
+            "updated": 1448389269000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1447431964000, 
