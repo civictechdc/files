@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "announced": true, 
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1446216408000, 
@@ -270,7 +270,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1417881835000, 
@@ -309,33 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
-        }, 
-        {
-            "created": 1443771281000, 
-            "description": "<p>More TBD</p>", 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "225773453", 
-            "maybe_rsvp_count": 0, 
-            "name": "Le Hackie Awards and Holiday Party #2", 
-            "status": "upcoming", 
-            "time": 1449100800000, 
-            "updated": 1443771323000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1326383071000, 
@@ -410,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1422815617000, 
@@ -619,7 +593,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1448305716000, 
@@ -659,6 +633,32 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1448412227000, 
+            "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/227002194/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "227002194", 
+            "maybe_rsvp_count": 0, 
+            "name": "TBD! ", 
+            "status": "upcoming", 
+            "time": 1450222200000, 
+            "updated": 1448412227000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1448043482000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.\u00a0Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses software to be awesome.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a cool bike project.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
             "duration": 10800000, 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1447431964000, 
@@ -751,6 +751,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1443771281000, 
+            "description": "<p>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW for food, entertainment, and celebration. Space is limited, so RSVP today!</p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "225773453", 
+            "maybe_rsvp_count": 0, 
+            "name": "Le Hackie Awards #2", 
+            "status": "upcoming", 
+            "time": 1452124800000, 
+            "updated": 1448398651000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "14 4618 14st NW DC Loft Level", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24154023, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "The Loft ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
