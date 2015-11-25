@@ -1,6 +1,6 @@
-- activity: [27, 45, 8, 1, 9, 15, 7, 34, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5,
-    7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0,
-    0, 0, 0, 0, 0, 0, 1]
+- activity: [32, 38, 7, 1, 10, 20, 1, 34, 20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11,
+    5, 7, 6, 3, 2, 2, 1, 5, 0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0,
+    0, 0, 0, 0, 0, 0, 0, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -295,9 +295,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [0, 1, 9, 4, 0, 2, 0, 10, 0, 0, 6, 1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3,
-    6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2, 5, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2,
-    0, 2, 3]
+- activity: [0, 1, 9, 4, 0, 2, 1, 9, 0, 0, 6, 1, 7, 8, 7, 1, 2, 9, 1, 1, 2, 2, 3,
+    6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 5, 1,
+    0, 5, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -478,7 +478,7 @@
   license: null
   main_language: CSS
   name: Open 211
-  open_issues: 2
+  open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-03-01T16:01:32Z'

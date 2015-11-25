@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "announced": true, 
@@ -81,46 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1447431577000, 
-            "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p> <p>In honour of the geo-est month of the year (GeoWeek, GIS Day, and more!), Maptime is hosting a project night where you can bring your latest map fascinations to share. Come with a project you've been working on or an idea for something new, and meet people with a wide variety of knowledge for some co-learning and collaborating. There will be a list of tutorials you can work through if you want to learn something new on your own or with other Maptimers. Please bring a laptop!\u00a0</p> <p>Stay for the whole thing or drop in for a little bit. We'll have pizza!\u00a0</p> <p>Thanks to Esri for the space and to CartoDB for the food.\u00a0</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/226752131/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Check in with security and head up to the 9th floor", 
-            "id": "226752131", 
-            "maybe_rsvp_count": 0, 
-            "name": "Project Night!", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1448406000000, 
-            "updated": 1448296284000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1001 19th St N, Suite 910", 
-                "city": "Rosslyn", 
-                "country": "us", 
-                "id": 24207670, 
-                "lat": 38.897274000000003, 
-                "lon": -77.069305, 
-                "name": "Esri R&D Center", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 45
-        }, 
-        {
             "created": 1446216408000, 
             "description": "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be doing an Introduction to SASS presentation. If you have any specific questions. Feel free to post them in the comments section. Thanks.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226422324/", 
@@ -156,7 +116,44 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 48
+        }, 
+        {
+            "created": 1448417751000, 
+            "description": "<p>Feel free to invite others to the event &amp; facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv</a>. This is a weekly event.</p> <p>You can meet in Vienna or hang out online <a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></p> <p>Here's the agenda for this week:<br/>6:45-7:00 Introduce ourselves<br/>7:00-7:20 Ed D. will discuss github workflow<br/>7:20-7:40 Kevin will discuss examples of Pry<br/>7:40-8:10 Lisa will go through the rest of the quiz &amp; pp 1-11 of tutorial<br/>8:10-8:30 Questions, issues, action items for next week</p> <p>HOMEWORK TO SUBMIT BY SATURDAY NOV. 28:<br/>1. Watch Josh Cheek at <a href=\"http://pryrepl.org\" class=\"linkified\">http://pryrepl.org</a> - scroll down half the page.<br/>2. Fork <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a> to your github account &amp; clone to your local machine. Install pry gem.<br/>3. Finish the quiz in the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a> send answers to [masked]<br/>4. Skim pages 1-11 of tutorial &amp; do the Users Model test exercise on page 11. <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></p> <p>Don't forget you can chat with each other on <a href=\"http://railsgirlsdc.slack.com\" class=\"linkified\">http://railsgirlsdc.slack.com</a> to arrange pair programming, ask questions, problem-solve, etc. You can also post info or questions in the facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/227005106/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.290000915527344, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "id": "227005106", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Google Hangouts class/tutorial", 
+            "status": "upcoming", 
+            "time": 1448927100000, 
+            "updated": 1448417751000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Near Nottoway Park", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 24149860, 
+                "lat": 38.884383999999997, 
+                "lon": -77.274947999999995, 
+                "name": "A mile from Vienna metro or find us online", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1448340706000, 
@@ -193,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1446760302000, 
@@ -384,7 +381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1422815617000, 
@@ -695,7 +692,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1447431964000, 
@@ -787,7 +784,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
