@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1448417751000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1446760302000, 
@@ -267,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1417881835000, 
@@ -306,7 +306,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 139
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1326383071000, 
@@ -381,7 +381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1422815617000, 
@@ -474,7 +474,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1448297888000, 
@@ -550,7 +550,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 185
+            "yes_rsvp_count": 186
         }, 
         {
             "created": 1448313893000, 
@@ -719,7 +719,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1446219481000, 
@@ -890,6 +890,43 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1448482603000, 
+            "description": "<p><b>Note:\u00a0</b>Registration is through\u00a0<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\">Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world. \u00a0</p> <p>Meet front and back-end developers, UX designers, user experience specialists, information architects and content strategists - along with the people who manage web projects, wrangle web systems and otherwise run websites.</p> <p>There are 2 main parts to the event:<br/>- Phase 1: Informal networking at topic tables with drinks and appetizers<br/>- Phase 2: Speed networking (where we match you with profession and interest areas)<br/>- Then more networking...</p> <p>\u00a0Registration includes appetizers and drinks.\u00a0</p> <p><b>== Important Registration Information ==</b></p> <p>\u2022\u00a0When <a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\">registering</a>, please be accurate with your registration type. It will be awkward during the speed mix part since you'll be matched based on that information. \u00a0</p> <p>\u2022\u00a0This event is set up to have a balance between 3 main professions. If you don't see yours here, watch for the next one!</p> <p>\u2022\u00a0Prices go up after December 17th.</p> <p><b>== How Does It Work? ==</b></p> <p><b><i>Mingle:\u00a0</i></b>We begin with structured networking at Topic Tables. You can self-select which table to join or just mingle by the food and drink.\u00a0\u00a0Interact:\u00a0Speed</p> <p><b><i>MIX :\u00a0</i></b>You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p><b><i>eXchange:\u00a0</i></b>More networking! Exchange information with the people you've met.\u00a0</p> <p><b>== Schedule ==</b></p> <p>5:45 - Check-In opens<br/>6:00 - Structured Networking\u00a0with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking continued\u00a0</p> <p><b>== Sponsorship ==</b></p> <p>If you want to highlight your product, skills or have a recruiting table, please reach out to\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0for more information. \u00a0</p> <p><b>== Other Registration Details ==</b></p> <p>\u2022\u00a0Looking to sell your product or company or recruit? Be sure you use the proper registration type. You'll be able to include a link to jobs or a product page in a follow-up message.</p> <p>\u2022\u00a0If your title doesn't let us know how techie you are - include that info!\u00a0</p> <p>\u2022\u00a0If you are a looking for a job or consulting gig, we'll have flags for your nametag.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/227019754/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "227019754", 
+            "maybe_rsvp_count": 0, 
+            "name": "Speed MIX: Developers, UX & Web Managers", 
+            "status": "upcoming", 
+            "time": 1453244400000, 
+            "updated": 1448483661000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1446220217000, 
