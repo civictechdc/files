@@ -541,9 +541,9 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2015-11-27T16:29:04Z'
+  pushed_at: '2015-11-27T21:38:19Z'
   short_name: DCMetroMetrics
-  size: 32308
+  size: 32313
   updated_at: '2015-10-27T21:38:25Z'
   watchers: 28
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5, 0, 0, 0, 0, 0,
@@ -678,8 +678,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 1, 0, 0, 0, 0, 0,
-    2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2, 2, 1, 2, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0,
+    2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 4, 2, 2, 2, 2, 1, 0, 0, 0,
     2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -711,9 +711,9 @@
   open_issues: 13
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-20T13:16:05Z'
+  pushed_at: '2015-11-27T20:22:50Z'
   short_name: dc-campaign-finance-watch
-  size: 27174
+  size: 27281
   updated_at: '2015-10-28T01:25:42Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,

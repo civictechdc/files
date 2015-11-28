@@ -189,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1446760302000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -310,9 +310,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 155
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>This month it's back to one of our favorite topics - and a gift\
+    \ that keeps on giving: Data!\_</p> <p><br/>Join us upstairs in our new fantastic\
+    \ location at Local 16 to hear from:</p> <p>\u2022 Matt McNabb of <a href=\"https://www.firstmilegeo.com/\"\
+    >FirstMileGeo</a>. While FirstMileGeo has a data analytics platform, they also\
+    \ recently launched a global data collection survey service.</p> <p><br/>\u2022\
+    \ Kalev Leetaru founder of <a href=\"http://www.gdeltproject.org/#intro\">GDELT</a>.\
+    \ The\_GDELT Project monitors the world's broadcast, print, and web news from\
+    \ nearly every corner of every country in over 100 languages and identifies the\
+    \ people, locations, organizations, counts, themes, sources, emotions, counts,\
+    \ quotes and events driving our global society every second of every day, creating\
+    \ a free open platform for computing on the entire world.</p> <p>If you have a\
+    \ great data source that you make available or know all the ins and outs of -\
+    \ there is still room for a presentation!\_</p>"
   event_url: http://www.meetup.com/Geo-DC/events/221052559/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -320,16 +330,16 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcytqbdb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'GeoDC December: The Gift of Data!'
   status: upcoming
   time: 1449100800000
-  updated: 1446214011000
+  updated: 1448662290000
   utc_offset: -18000000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\

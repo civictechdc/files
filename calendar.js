@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1446760302000, 
@@ -310,7 +310,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>This month it's back to one of our favorite topics - and a gift that keeps on giving: Data!\u00a0</p> <p><br/>Join us upstairs in our new fantastic location at Local 16 to hear from:</p> <p>\u2022 Matt McNabb of <a href=\"https://www.firstmilegeo.com/\">FirstMileGeo</a>. While FirstMileGeo has a data analytics platform, they also recently launched a global data collection survey service.</p> <p><br/>\u2022 Kalev Leetaru founder of <a href=\"http://www.gdeltproject.org/#intro\">GDELT</a>. The\u00a0GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, counts, themes, sources, emotions, counts, quotes and events driving our global society every second of every day, creating a free open platform for computing on the entire world.</p> <p>If you have a great data source that you make available or know all the ins and outs of - there is still room for a presentation!\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052559/", 
             "group": {
                 "created": 1307975249000, 
@@ -326,10 +326,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcytqbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC December: The Gift of Data!", 
             "status": "upcoming", 
             "time": 1449100800000, 
-            "updated": 1446214011000, 
+            "updated": 1448662290000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1448305716000, 
