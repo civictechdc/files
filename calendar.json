@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }
     ], 
     "other": [
@@ -116,7 +116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1448417751000, 
@@ -344,7 +344,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1448305716000, 
@@ -474,7 +474,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1448297888000, 
@@ -550,7 +550,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 198
+            "yes_rsvp_count": 199
         }, 
         {
             "created": 1448313893000, 
@@ -627,7 +627,48 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1448551697000, 
+            "description": "<p>Please join us December 15th to celebrate the holidays and discuss data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a member looking for a new opportunity please contact us at <a href=\"mailto:[masked]\">[masked]</a> prior to event so we can help coordinate introductions.</p> <p><img src=\"http://www.annapolis.com/wp-content/uploads/2014/05/Rams-Head-Logo-Annapolis-MD.png\" /></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/227035046/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "227035046", 
+            "maybe_rsvp_count": 0, 
+            "name": "Holiday Happy Hour", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1450216800000, 
+            "updated": 1448738701000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "8600 Foundry St.", 
+                "city": "Savage", 
+                "country": "us", 
+                "id": 833499, 
+                "lat": 39.135663000000001, 
+                "lon": -76.825102000000001, 
+                "name": "Rams Head Tavern", 
+                "phone": "(301)604-3454", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "20763"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1448412227000, 

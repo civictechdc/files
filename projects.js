@@ -4263,7 +4263,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2214?v=3", 
-                "contributions": 6, 
+                "contributions": 8, 
                 "link": "https://github.com/dwillis", 
                 "name": "dwillis"
             }
@@ -4288,9 +4288,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/openelections"
         }, 
-        "pushed_at": "2015-08-31T00:14:44Z", 
+        "pushed_at": "2015-11-28T21:50:02Z", 
         "short_name": "openelections-data-dc", 
-        "size": 106, 
+        "size": 4, 
         "updated_at": "2015-08-24T01:27:32Z", 
         "watchers": 0
     }, 
