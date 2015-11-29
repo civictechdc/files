@@ -189,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1446760302000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -273,7 +273,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -589,7 +589,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 199
+  yes_rsvp_count: 200
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -696,7 +696,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 12
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating
