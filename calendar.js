@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "announced": true, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1448417751000, 
@@ -153,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1448340706000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1446760302000, 
@@ -267,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1417881835000, 
@@ -306,7 +306,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 159
+            "yes_rsvp_count": 167
         }, 
         {
             "created": 1326383071000, 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1448305716000, 
@@ -381,7 +381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1422815617000, 
@@ -419,7 +419,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
+        }, 
+        {
+            "created": 1448903390000, 
+            "description": "<p>Abstract:<br/>R has become the go-to environment to support data science and statistical applications across many fields. Researchers write papers in R, engineers develop runtime applications in R, and new statistical methods are first developed in R. Supporting this powerful environment is a complete programming language and a wealth of numerical analysis tools. R has a built-in matrix language that can solve mathematical problems above and beyond statistical regression. This talk will walk through R's tools for matrix manipulation, interpolation, integration, and root finding.</p> <p>Speaker:<br/>James P. Howard, II<br/>Executive Director, Center for Science Policy</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/227114848/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "227114848", 
+            "maybe_rsvp_count": 0, 
+            "name": "Numerical Analysis in R", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1449617400000, 
+            "updated": 1448907269000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1957 E St, Room B17", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24234388, 
+                "lat": 38.896228999999998, 
+                "lon": -77.043960999999996, 
+                "name": "George Washington University Elliot School of International Affairs Building", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1447342129000, 
@@ -446,7 +485,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220149000, 
@@ -512,7 +551,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1447726616000, 
@@ -550,7 +589,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 205
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1448313893000, 
@@ -668,7 +707,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1448412227000, 
@@ -733,7 +772,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1447431964000, 
@@ -825,7 +864,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -995,7 +1034,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1446219481000, 
