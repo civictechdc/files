@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "announced": true, 
@@ -81,81 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1446216408000, 
-            "description": "<p>Hi everybody,</p> <p>This week, Jess Bell from RepEquity will be doing an Introduction to SASS presentation. If you have any specific questions. Feel free to post them in the comments section. Thanks.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226422324/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjglmlytpbnc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night - Intro to SASS", 
-            "status": "upcoming", 
-            "time": 1448926200000, 
-            "updated": 1448305716000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1211 Connecticut Avenue Northwest #250", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 11024172, 
-                "lat": 38.906216000000001, 
-                "lon": -77.041213999999997, 
-                "name": "RepEquity Inc.", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20036"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 54
-        }, 
-        {
-            "created": 1448417751000, 
-            "description": "<p>Feel free to invite others to the event &amp; facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv</a>. This is a weekly event.</p> <p>You can meet in Vienna or hang out online <a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></p> <p>Here's the agenda for this week:<br/>6:45-7:00 Introduce ourselves<br/>7:00-7:20 Ed D. will discuss github workflow<br/>7:20-7:40 Kevin will discuss examples of Pry<br/>7:40-8:10 Lisa will go through the rest of the quiz &amp; pp 1-11 of tutorial<br/>8:10-8:30 Questions, issues, action items for next week</p> <p>HOMEWORK TO SUBMIT BY SATURDAY NOV. 28:<br/>1. Watch Josh Cheek at <a href=\"http://pryrepl.org\" class=\"linkified\">http://pryrepl.org</a> - scroll down half the page.<br/>2. Fork <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a> to your github account &amp; clone to your local machine. Install pry gem.<br/>3. Finish the quiz in the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a> send answers to [masked]<br/>4. Skim pages 1-11 of tutorial &amp; do the Users Model test exercise on page 11. <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></p> <p>Don't forget you can chat with each other on <a href=\"http://railsgirlsdc.slack.com\" class=\"linkified\">http://railsgirlsdc.slack.com</a> to arrange pair programming, ask questions, problem-solve, etc. You can also post info or questions in the facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/227005106/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.290000915527344, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "id": "227005106", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Google Hangouts class/tutorial", 
-            "status": "upcoming", 
-            "time": 1448927100000, 
-            "updated": 1448417751000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Near Nottoway Park", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 24149860, 
-                "lat": 38.884383999999997, 
-                "lon": -77.274947999999995, 
-                "name": "A mile from Vienna metro or find us online", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1448340706000, 
             "description": "<p>Well - it's winter. \u00a0And though it gets colder, the warmth and cheer of APIs only grows. \u00a0</p> <p>So let's get together, friends, next week at Chief! \u00a0We've got a great lineup of presenters, with plenty to eat and drink. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Aaron Berkowitz -\u00a0PBS KIDS<br/>*\u00a0David Berlind -\u00a0ProgrammableWeb<br/>* Alan Marco - Patent and Trademark Office</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/226984950/", 
@@ -190,7 +115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1446760302000, 
@@ -228,7 +153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446219481000, 
@@ -267,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1417881835000, 
@@ -306,11 +231,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 167
+            "yes_rsvp_count": 168
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>This month it's back to one of our favorite topics - and a gift that keeps on giving: Data!\u00a0</p> <p><br/>Join us upstairs in our new fantastic location at Local 16 to hear from:</p> <p>\u2022 Matt McNabb of <a href=\"https://www.firstmilegeo.com/\">FirstMileGeo</a>. While FirstMileGeo has a data analytics platform, they also recently launched a global data collection survey service.</p> <p><br/>\u2022 Kalev Leetaru founder of <a href=\"http://www.gdeltproject.org/#intro\">GDELT</a>. The\u00a0GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, counts, themes, sources, emotions, counts, quotes and events driving our global society every second of every day, creating a free open platform for computing on the entire world.</p> <p>If you have a great data source that you make available or know all the ins and outs of - there is still room for a presentation!\u00a0</p>", 
+            "description": "<p>This month it's back to one of our favorite topics - and a gift that keeps on giving: Data!\u00a0</p> <p><br/>Join us upstairs in our new fantastic location at Local 16 to hear from:</p> <p>\u2022 Matt McNabb of <a href=\"https://www.firstmilegeo.com/\">FirstMileGeo</a>. While FirstMileGeo has a data analytics platform, they also recently launched a global data collection survey service.</p> <p><br/>\u2022 Kalev Leetaru founder of <a href=\"http://www.gdeltproject.org/#intro\">GDELT</a>. The\u00a0GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, counts, themes, sources, emotions, counts, quotes and events driving our global society every second of every day, creating a free open platform for computing on the entire world.</p> <p>\u2022 Jubal Harpster founder of <a href=\"http://spatialdev.com/\">SpatialDev</a> will give a talk titled \"Why the ecosystem of Open Source mobile data collection sucks and what we\u2019re doing about it\"\u00a0</p> <p><br/>If you have a great data source that you make available or know all the ins and outs of - there is still room for a presentation!\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052559/", 
             "group": {
                 "created": 1307975249000, 
@@ -329,7 +254,7 @@ calendar({
             "name": "GeoDC December: The Gift of Data!", 
             "status": "upcoming", 
             "time": 1449100800000, 
-            "updated": 1448662290000, 
+            "updated": 1448971972000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -344,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1448305716000, 
@@ -419,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1448903390000, 
@@ -458,7 +383,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1447342129000, 
@@ -589,7 +514,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 213
+            "yes_rsvp_count": 217
         }, 
         {
             "created": 1448313893000, 
@@ -772,7 +697,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1447431964000, 
@@ -1450,6 +1375,34 @@ calendar({
             "status": "upcoming", 
             "time": 1460586600000, 
             "updated": 1446220149000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
