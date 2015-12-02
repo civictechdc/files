@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 49
 - announced: true
   created: 1447715153000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -158,8 +158,8 @@ other:
     lat: 38.897540999999997, lon: -77.027450999999999, name: Fiscal Note, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 2
-  yes_rsvp_count: 48
+  waitlist_count: 0
+  yes_rsvp_count: 50
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -194,7 +194,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 170
+  yes_rsvp_count: 166
 - created: 1326383071000
   description: "<p>This month it's back to one of our favorite topics - and a gift\
     \ that keeps on giving: Data!\_</p> <p><br/>Join us upstairs in our new fantastic\
@@ -228,7 +228,37 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 61
+- created: 1449080986000
+  description: "<p>Interested in sharpening your problem solving skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
+    \ will be as follows:</p> <p>6:30 -\_Arrival/Dinner</p> <p>6:45 - 8:15 - We'll\
+    \ spend the meetup working on questions in groups or individually and then review!</p>\
+    \ <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding\
+    \ on the computer so please bring a computer. <b>You can code in the language\
+    \ of your choice (including pseudocode)!</b></p> <p>This event is intended to\
+    \ be exclusively open for women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227165675/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  how_to_find_us: Call 5743237240 if the door is locked outside.
+  id: '227165675'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1449531000000
+  updated: 1449081090000
+  utc_offset: -18000000
+  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
+    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
+      Technologies, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 6
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -271,7 +301,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -306,7 +336,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1449015513000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -344,7 +374,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1448903390000
   description: <p>Abstract:<br/>R has become the go-to environment to support data
     science and statistical applications across many fields. Researchers write papers
@@ -373,7 +403,7 @@ other:
       Elliot School of International Affairs Building, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 101
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -545,7 +575,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 229
+  yes_rsvp_count: 231
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -626,7 +656,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1448551697000
   description: <p>Please join us December 15th to celebrate the holidays and discuss
     data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a
@@ -652,7 +682,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating
@@ -687,7 +717,10 @@ other:
     >bike counts</a>.</p> <p><br/>\u2022\_Rob McPherson will show how\_<a href=\"\
     http://baasbikes.com/\">Baas Bikes</a>\_uses software to be awesome.</p> <p>\u2022\
     \_Brooks Robertson of Esri will demo a tool that combines bike lanes with bike\
-    \ crash data, and can be exported as a map.\_</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
+    \ crash data, and can be exported as a map.\_</p> <p><br/>\u2022\_Dave Nesbitt\
+    \ will show us how\_<a href=\"https://mapzen.com/\">Mapzen</a>'s\_<a href=\"https://mapzen.com/projects/valhalla/\"\
+    >Valhalla</a> service can be used for <a href=\"http://valhalla.github.io/demos/routing/index.html#loc=14,[masked],[masked]\"\
+    >bicycle routing</a>.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
     >Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
     >Bike Hack Night II</a>\_and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\"\
     >Bike Hack Night III</a> to see what was presented at previous events. Read summaries\
@@ -715,14 +748,14 @@ other:
   rsvp_limit: 150
   status: upcoming
   time: 1450306800000
-  updated: 1448924477000
+  updated: 1449079793000
   utc_offset: -18000000
   venue: {address_1: '2231 Crystal Dr #1000', city: Arlington, country: us, id: 24108017,
     lat: 38.853779000000003, lon: -77.048766999999998, name: '1776', repinned: false,
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 67
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -768,7 +801,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -797,7 +830,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1443771281000
   description: "<p>On January 6th, join DC Legal Hackers for our second annual Le\
     \ Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements\
@@ -894,7 +927,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -1296,35 +1329,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1446220149000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvgbrb/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: bcxvllyvgbrb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1460586600000
-  updated: 1446220149000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
