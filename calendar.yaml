@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - announced: true
   created: 1447715153000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -74,36 +74,8 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 other:
-- created: 1448340706000
-  description: "<p>Well - it's winter. \_And though it gets colder, the warmth and\
-    \ cheer of APIs only grows. \_</p> <p>So let's get together, friends, next week\
-    \ at Chief! \_We've got a great lineup of presenters, with plenty to eat and drink.\
-    \ \_See you then! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
-    \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
-    \ <p>* Aaron Berkowitz -\_PBS KIDS<br/>*\_David Berlind -\_ProgrammableWeb<br/>*\
-    \ Alan Marco - Patent and Trademark Office</p> <p><br/>7:55pm - 8:00pm Refill\
-    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
-    \ Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/226984950/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '226984950'
-  maybe_rsvp_count: 0
-  name: DC API User Group - December Edition
-  status: upcoming
-  time: 1449010800000
-  updated: 1448386089000
-  utc_offset: -18000000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 86
 - created: 1446760302000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -153,7 +125,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -186,8 +158,8 @@ other:
     lat: 38.897540999999997, lon: -77.027450999999999, name: Fiscal Note, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 50
+  waitlist_count: 2
+  yes_rsvp_count: 48
 - created: 1417881835000
   description: "<p>Dataiku's <a href=\"https://www.dataiku.com/dss/?ref=dwdc-meetup\"\
     >Data Science Studio (DSS)</a> makes data wrangling easy. During this talk, Henri\
@@ -222,7 +194,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 168
+  yes_rsvp_count: 170
 - created: 1326383071000
   description: "<p>This month it's back to one of our favorite topics - and a gift\
     \ that keeps on giving: Data!\_</p> <p><br/>Join us upstairs in our new fantastic\
@@ -256,7 +228,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -299,7 +271,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 34
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -372,7 +344,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 6
 - created: 1448903390000
   description: <p>Abstract:<br/>R has become the go-to environment to support data
     science and statistical applications across many fields. Researchers write papers
@@ -401,7 +373,7 @@ other:
       Elliot School of International Affairs Building, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 96
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -464,7 +436,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1448297888000
   description: "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     >Register</a> by December 1st for Early Bird Pricing. Use the code\_WCMTTH15 for\
@@ -680,7 +652,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating
@@ -750,7 +722,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 64
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -922,7 +894,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 16
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
