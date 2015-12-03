@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - announced: true
   created: 1447715153000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -105,7 +105,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -148,7 +148,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1449104424000
   description: "<p>Feel free to invite others. This is a weekly event. If you're just\
     \ starting, go through the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"\
@@ -190,7 +190,7 @@ other:
       or find us online, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1422815617000
   description: "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!)\
     \ Everyone is looking forward to hearing about *your* cool hack! Presentation\
@@ -225,7 +225,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 57
 - created: 1449015513000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -292,7 +292,7 @@ other:
       Elliot School of International Affairs Building, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 118
+  yes_rsvp_count: 121
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -327,7 +327,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -356,7 +356,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1448297888000
   description: "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     >Register</a> by December 1st for Early Bird Pricing. Use the code\_WCMTTH15 for\
@@ -465,7 +465,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 239
+  yes_rsvp_count: 244
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -503,7 +503,7 @@ other:
     name: 'Development Seed ', repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -546,7 +546,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1448551697000
   description: <p>Please join us December 15th to celebrate the holidays and discuss
     data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a
@@ -645,7 +645,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -766,7 +766,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\

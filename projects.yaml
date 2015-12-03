@@ -376,7 +376,7 @@
   size: 17418
   updated_at: '2015-11-17T17:35:04Z'
   watchers: 19
-- activity: [7, 6, 5, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [7, 6, 4, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -486,8 +486,8 @@
   size: 2915
   updated_at: '2015-11-25T20:50:02Z'
   watchers: 6
-- activity: [0, 3, 0, 8, 0, 0, 0, 0, 0, 5, 7, 19, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+- activity: [2, 1, 0, 8, 0, 0, 0, 0, 0, 10, 9, 12, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -938,11 +938,9 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 84,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/15251013?v=3', contributions: 3,
-    link: 'https://github.com/emanuelfeldtest', name: emanuelfeldtest}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 1,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
-  contributors_count: 3
+  contributors_count: 2
   created_at: '2015-02-14T06:39:32Z'
   default_branch: gh-pages
   description: Web app interface for geocoding addresses in CSV files.
@@ -964,8 +962,8 @@
   pushed_at: '2015-08-16T01:11:36Z'
   short_name: geocoder
   size: 565
-  updated_at: '2015-09-28T21:11:59Z'
-  watchers: 7
+  updated_at: '2015-12-03T17:29:12Z'
+  watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0,
     0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
