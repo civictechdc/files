@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "announced": true, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446219481000, 
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1417881835000, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 166
+            "yes_rsvp_count": 160
         }, 
         {
             "created": 1326383071000, 
@@ -232,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1449080986000, 
@@ -272,7 +272,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1448305716000, 
@@ -312,6 +312,44 @@ calendar({
             "yes_rsvp_count": 36
         }, 
         {
+            "created": 1449104424000, 
+            "description": "<p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p><br/>Find us at 6:45pm \u00a0<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></p> <p><br/>Here's the agenda for this week:</p> <p>6:45-7:00 Introduce ourselves</p> <p>7:00-7:30 Lisa &amp; Leslie will go through pp 11-14 of tutorial</p> <p>7:30-8:00 Go through the tests written by Leslie, Kevin, &amp; anyone else step by step.</p> <p>8:00-8:30 Questions, issues, action items for next week</p> <p><br/>HOMEWORK TO SUBMIT BY SATURDAY DEC. 5:</p> <p>1. Skim pages 11-14 of tutorial &amp; do the exercises. <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\">2.</a> Write at least 2 tests for the model of your choice - Leslie has selected test/models/rsvpq_test.rb, Kevin will do test/models/group_test.rb.\u00a0Marva, Ed, or anyone else could go ahead and create test/models/event_test.rb. It's OK for multiple people to work on the same file.</p> <p><br/>You can post info or questions in the facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/227174221/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.290000915527344, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
+            "id": "227174221", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Google Hangouts class/tutorial", 
+            "status": "upcoming", 
+            "time": 1449531900000, 
+            "updated": 1449104521000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Near Nottoway Park", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 24149860, 
+                "lat": 38.884383999999997, 
+                "lon": -77.274947999999995, 
+                "name": "A mile from Vienna metro or find us online", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1422815617000, 
             "description": "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231803/", 
@@ -347,7 +385,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1449015513000, 
@@ -374,7 +412,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1448903390000, 
@@ -413,11 +451,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1447342129000, 
-            "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
+            "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>Currently (as of 12/2) they're running a 30% off code\u00a0<b>THANKS30 </b></p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226726536/", 
             "group": {
@@ -436,7 +474,7 @@ calendar({
             "name": "Ruby on Rails at Tech the Halls", 
             "status": "upcoming", 
             "time": 1449703800000, 
-            "updated": 1447342325000, 
+            "updated": 1449093003000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -506,7 +544,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1447726616000, 
@@ -544,7 +582,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 231
+            "yes_rsvp_count": 237
         }, 
         {
             "created": 1448313893000, 
@@ -727,7 +765,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1447431964000, 
@@ -924,7 +962,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1448482603000, 
