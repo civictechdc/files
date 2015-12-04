@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": true, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1448305716000, 
@@ -258,7 +258,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1448903390000, 
@@ -297,7 +297,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1447342129000, 
@@ -352,7 +352,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1448297888000, 
@@ -428,7 +428,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 254
+            "yes_rsvp_count": 260
         }, 
         {
             "created": 1448313893000, 
@@ -611,7 +611,44 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
+        }, 
+        {
+            "created": 1449249912000, 
+            "description": "<p>On the first Tuesday of January, we will be kicking off our fourth year of the DC API meetup, a joyous and vibrant occasion possibly on par with the beginning of an entire new calendar year! \u00a0:) \u00a0</p> <p>I know there's always plenty of distractions around this time of year, so go ahead and mark your calendars now. \u00a0There will be plenty to eat, drink, and talk about, plus it'll just be good to see everyone again as we settle back into the new year. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Bob Simons -\u00a0National Oceanic and Atmospheric Administration<br/>*\u00a0Carson Evans - Digital Ambit\u00a0<br/>* TBA\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/227211377/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "227211377", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - January Edition", 
+            "status": "upcoming", 
+            "time": 1452034800000, 
+            "updated": 1449249912000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1447431964000, 
@@ -904,33 +941,6 @@
             "yes_rsvp_count": 3
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/222987192/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvdbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "February Meetup", 
-            "status": "upcoming", 
-            "time": 1454542200000, 
-            "updated": 1433340893000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052563/", 
@@ -997,6 +1007,33 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/222987192/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvdbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "How to Find and Mitigate Rare Catastrophic Events", 
+            "status": "upcoming", 
+            "time": 1455147000000, 
+            "updated": 1449242234000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1051,33 +1088,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934610/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvfbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "March Meetup", 
-            "status": "upcoming", 
-            "time": 1456961400000, 
-            "updated": 1444350389000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
@@ -1146,6 +1156,33 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934610/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvfbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "March Meetup", 
+            "status": "upcoming", 
+            "time": 1457566200000, 
+            "updated": 1449242246000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1200,33 +1237,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934654/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvgbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "April Meetup", 
-            "status": "upcoming", 
-            "time": 1459981800000, 
-            "updated": 1444350412000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1295,6 +1305,33 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934654/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvgbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "April Meetup", 
+            "status": "upcoming", 
+            "time": 1460586600000, 
+            "updated": 1449242256000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1321,33 +1358,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934703/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "May Meetup", 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1444350442000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1391,7 +1401,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934754/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934703/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1403,12 +1413,12 @@
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvjbcb", 
+            "id": "hffzclyvhbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "June Meetup", 
+            "name": "May Meetup", 
             "status": "upcoming", 
-            "time": 1464820200000, 
-            "updated": 1444350464000, 
+            "time": 1463005800000, 
+            "updated": 1449242269000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1456,7 +1466,7 @@
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934786/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934754/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1468,12 +1478,12 @@
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvkbjb", 
+            "id": "hffzclyvjbcb", 
             "maybe_rsvp_count": 0, 
-            "name": "July Meetup", 
+            "name": "June Meetup", 
             "status": "upcoming", 
-            "time": 1467844200000, 
-            "updated": 1444350480000, 
+            "time": 1465425000000, 
+            "updated": 1449242274000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1513,6 +1523,33 @@
                 "repinned": false, 
                 "state": "DC"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934786/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvkbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "July Meetup", 
+            "status": "upcoming", 
+            "time": 1468449000000, 
+            "updated": 1449242280000, 
+            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
