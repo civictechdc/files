@@ -1,5 +1,5 @@
-- activity: [38, 7, 1, 10, 20, 1, 34, 20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7,
-    6, 3, 2, 2, 1, 5, 0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0,
+- activity: [33, 8, 0, 14, 17, 2, 34, 20, 32, 95, 31, 15, 28, 0, 2, 0, 1, 11, 4, 7,
+    7, 2, 2, 2, 3, 3, 0, 8, 0, 0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0,
     0, 0, 0, 0, 0, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -371,9 +371,9 @@
   open_issues: 11
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-01T04:26:10Z'
+  pushed_at: '2015-12-03T23:02:24Z'
   short_name: codefordc.github.com
-  size: 17418
+  size: 17419
   updated_at: '2015-11-17T17:35:04Z'
   watchers: 19
 - activity: [7, 6, 4, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -964,9 +964,9 @@
   size: 565
   updated_at: '2015-12-03T17:29:12Z'
   watchers: 8
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0,
-    0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 56, 65, 17, 47, 51, 6, 1, 1, 1, 6,
+    0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
