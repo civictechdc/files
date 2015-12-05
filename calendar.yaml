@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 59
 - announced: true
   created: 1447715153000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -225,7 +225,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 62
 - created: 1449015513000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -292,7 +292,7 @@ other:
       Elliot School of International Affairs Building, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 132
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -306,11 +306,11 @@ other:
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize\
     \ that as this is a ticketed event, it might not be within everyone's financial\
     \ ability to go. \_We will pass on whatever promotional codes we can.</p> <p>Currently\
-    \ (as of 12/2) they're running a 30% off code\_<b>THANKS30 </b></p> <p>The plan:</p>\
-    \ <p>Buy a ticket from the link below, which also has location information. \_\
-    Early-bird pricing is available until December 1. Bring business cards or contact\
-    \ info to exchange as you network (if desired) Meet up at the venue Connect on\
-    \ Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    \ (as of 12/4) they're running a 25% off promo code through Sunday with:<b> RUSHWKND</b></p>\
+    \ <p>The plan:</p> <p>Buy a ticket from the link below, which also has location\
+    \ information. \_Early-bird pricing is available until December 1. Bring business\
+    \ cards or contact info to exchange as you network (if desired) Meet up at the\
+    \ venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     &gt;Buy Ticket(s)</a></p>"
   duration: 10800000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226726536/
@@ -323,7 +323,7 @@ other:
   name: Ruby on Rails at Tech the Halls
   status: upcoming
   time: 1449703800000
-  updated: 1449093003000
+  updated: 1449266209000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -465,7 +465,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 260
+  yes_rsvp_count: 261
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -572,7 +572,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 30
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating
@@ -645,7 +645,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 77
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -675,7 +675,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 18
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -1016,10 +1016,10 @@ other:
   headcount: 0
   id: hffzclyvdbfb
   maybe_rsvp_count: 0
-  name: How to Find and Mitigate Rare Catastrophic Events
+  name: February Meetup
   status: upcoming
   time: 1455147000000
-  updated: 1449242234000
+  updated: 1449257866000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -1143,10 +1143,10 @@ other:
   headcount: 0
   id: hffzclyvfbdb
   maybe_rsvp_count: 0
-  name: March Meetup
+  name: How to Find and Mitigate Rare Catastrophic Events
   status: upcoming
   time: 1457566200000
-  updated: 1449242246000
+  updated: 1449257857000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
