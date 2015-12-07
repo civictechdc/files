@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1449104424000, 
@@ -297,7 +297,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 144
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1447342129000, 
@@ -428,7 +428,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 278
+            "yes_rsvp_count": 279
         }, 
         {
             "created": 1448313893000, 
@@ -468,7 +468,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1448305716000, 
@@ -505,7 +505,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1448551697000, 
@@ -611,7 +611,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1449249912000, 
@@ -648,7 +648,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1447431964000, 
@@ -1799,6 +1799,71 @@ calendar({
             "time": 1478127600000, 
             "updated": 1446214010000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1602 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclyvqbkb/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclyvqbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "January Meetup", 
+            "status": "upcoming", 
+            "time": 1481153400000, 
+            "updated": 1417881835000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvqbkb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcyvqbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1481155200000, 
+            "updated": 1446214010000, 
+            "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1602 U St NW", 
                 "city": "Washington", 
