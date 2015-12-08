@@ -85,6 +85,9 @@
     },
     {
         "DC Code Metadata": "https://github.com/DCCouncil/dc-law-xml"
+    },
+    {
+        "School Modernization Funds": "https://github.com/codefordc/school-modernization"
     }
 ],
 "meetups": [
