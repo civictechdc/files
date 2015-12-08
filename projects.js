@@ -383,7 +383,7 @@ projects([
             0, 
             0, 
             0, 
-            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -909,8 +909,8 @@ projects([
     {
         "activity": [
             9, 
-            0, 
             4, 
+            0, 
             2, 
             0, 
             10, 
@@ -919,47 +919,47 @@ projects([
             6, 
             1, 
             7, 
-            4, 
-            9, 
-            3, 
-            2, 
-            9, 
-            1, 
-            1, 
-            0, 
-            4, 
-            3, 
-            5, 
-            1, 
-            0, 
-            2, 
-            0, 
-            0, 
-            5, 
-            1, 
-            10, 
-            10, 
-            1, 
+            6, 
             7, 
+            3, 
+            2, 
+            9, 
+            1, 
             1, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            0, 
-            0, 
+            4, 
             3, 
             6, 
+            0, 
+            0, 
             2, 
             0, 
+            0, 
+            5, 
             1, 
+            10, 
+            11, 
+            2, 
+            5, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            0, 
+            0, 
+            4, 
+            5, 
+            2, 
+            0, 
+            2, 
             4, 
             0, 
-            1
+            6
         ], 
         "ci": {
             "codeclimate": true, 
@@ -997,7 +997,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 182, 
+                "contributions": 191, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1110,7 +1110,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                144214
+                144402
             ], 
             [
                 "JavaScript", 
@@ -1137,16 +1137,16 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 11, 
+        "open_issues": 10, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-07T21:10:18Z", 
+        "pushed_at": "2015-12-08T17:45:06Z", 
         "short_name": "codefordc.github.com", 
-        "size": 17425, 
+        "size": 17429, 
         "updated_at": "2015-12-08T05:51:27Z", 
         "watchers": 20
     }, 
@@ -2170,7 +2170,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "master", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 14, 
+        "forks": 15, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -2216,14 +2216,14 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 20, 
+        "open_issues": 21, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-08T12:40:10Z", 
+        "pushed_at": "2015-12-08T16:58:34Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 32578, 
         "updated_at": "2015-10-28T01:25:42Z", 
@@ -3347,40 +3347,40 @@ projects([
             3, 
             0, 
             3, 
-            0, 
             1, 
             0, 
             0, 
             0, 
             0, 
-            15, 
-            40, 
+            0, 
+            20, 
+            35, 
             36, 
             0, 
-            53, 
-            15, 
+            67, 
             1, 
+            1, 
+            4, 
+            25, 
             0, 
             27, 
-            2, 
-            26, 
-            9, 
-            6, 
+            10, 
+            4, 
             15, 
             0, 
             7, 
             0, 
             6, 
             0, 
-            42, 
-            38, 
+            70, 
+            10, 
             0, 
-            0, 
-            8, 
+            2, 
+            6, 
             3, 
+            2, 
+            8, 
             0, 
-            9, 
-            1, 
             13, 
             0, 
             0, 
@@ -4248,9 +4248,9 @@ projects([
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4694,8 +4694,56 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "The halls of power", 
+            "categories": [
+                {
+                    "category": "Cartography"
+                }, 
+                {
+                    "category": "Data Viz"
+                }, 
+                {
+                    "category": "DC Schools"
+                }, 
+                {
+                    "category": "Public Service"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "DC Public School Modernization Spending", 
+                "twitter": ""
+            }, 
+            "data": {}, 
+            "geography": "Washington D.C.", 
+            "governmentPartner": {}, 
+            "moreInfo": "", 
+            "needs": [
+                {
+                    "need": "Designers"
+                }, 
+                {
+                    "need": "Smiles"
+                }, 
+                {
+                    "need": "Patience"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Ideation", 
+            "thumbnailUrl": "https://github.com/codefordc/school-modernization", 
+            "type": "Web App"
+        }, 
         "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1095794?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/NSkelsey", 
+                "name": "NSkelsey"
+            }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/8992133?v=3", 
                 "contributions": 2, 
@@ -4709,7 +4757,7 @@ projects([
                 "name": "cmgiven"
             }
         ], 
-        "contributors_count": 2, 
+        "contributors_count": 3, 
         "created_at": "2015-11-17T01:01:13Z", 
         "default_branch": "master", 
         "description": "Looking at fifteen years of school modernization funds", 
@@ -4727,17 +4775,185 @@ projects([
         }, 
         "main_language": null, 
         "name": "School Modernization Funds", 
-        "open_issues": 3, 
+        "open_issues": 1, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-08T04:15:35Z", 
+        "pushed_at": "2015-12-08T13:29:19Z", 
         "short_name": "school-modernization", 
-        "size": 4, 
+        "size": 5, 
         "updated_at": "2015-12-08T04:21:48Z", 
         "watchers": 4
+    }, 
+    {
+        "activity": [
+            0, 
+            0, 
+            0, 
+            0, 
+            7, 
+            0, 
+            0, 
+            0, 
+            1, 
+            2, 
+            20, 
+            1, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "ci": {
+            "codeclimate": false, 
+            "continua11y": false, 
+            "coverage": false, 
+            "travis": true
+        }, 
+        "civic_json": {
+            "bornAt": "Socrata/Open Data Hackathon", 
+            "categories": [
+                {
+                    "category": "Taxes"
+                }, 
+                {
+                    "category": "Budget"
+                }, 
+                {
+                    "category": "Visualizations"
+                }, 
+                {
+                    "category": "Open Data"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "kalishmichael@gmail.com", 
+                "name": "Michael Kalish", 
+                "twitter": ""
+            }, 
+            "data": {
+                "https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv": ""
+            }, 
+            "geography": "Washington DC", 
+            "governmentPartner": {}, 
+            "moreInfo": "", 
+            "needs": [
+                {
+                    "need": "D3 experts"
+                }, 
+                {
+                    "need": "Washington DC Budget Experts"
+                }, 
+                {
+                    "need": "Designer"
+                }, 
+                {
+                    "need": "Data scientist"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Alpha", 
+            "thumbnailUrl": "", 
+            "type": "Web App"
+        }, 
+        "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8505062?v=3", 
+                "contributions": 34, 
+                "link": "https://github.com/jamesrhaley", 
+                "name": "jamesrhaley"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
+                "contributions": 6, 
+                "link": "https://github.com/mkalish", 
+                "name": "mkalish"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2421382?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/theryankelly", 
+                "name": "theryankelly"
+            }
+        ], 
+        "contributors_count": 3, 
+        "created_at": "2015-10-25T03:22:25Z", 
+        "default_branch": "master", 
+        "description": "", 
+        "forks": 0, 
+        "help_wanted": [], 
+        "homepage": "http://mkalish.github.io/DC-Budget-Sankey/", 
+        "html_url": "https://github.com/codefordc/DC-Budget-Sankey", 
+        "id": 44894770, 
+        "languages": [
+            [
+                "JavaScript", 
+                80429
+            ], 
+            [
+                "CSS", 
+                7860
+            ], 
+            [
+                "HTML", 
+                3816
+            ]
+        ], 
+        "license": null, 
+        "main_language": "JavaScript", 
+        "name": "DC Budget Sankey Graph", 
+        "open_issues": 0, 
+        "owner": {
+            "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+            "name": "codefordc", 
+            "type": "Organization", 
+            "url": "https://github.com/codefordc"
+        }, 
+        "pushed_at": "2015-12-08T12:53:03Z", 
+        "short_name": "DC-Budget-Sankey", 
+        "size": 559, 
+        "updated_at": "2015-12-08T00:24:16Z", 
+        "watchers": 0
     }
 ])
