@@ -1,5 +1,5 @@
-- activity: [12, 1, 9, 10, 12, 23, 27, 23, 69, 58, 17, 40, 0, 1, 1, 0, 11, 5, 7, 6,
-    3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0,
+- activity: [8, 1, 9, 15, 7, 34, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6,
+    3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0,
     0, 0, 0, 0, 1, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -85,7 +85,7 @@
   description: 'District Housing lets caseworkers help clients apply for Section 8
     housing by automatically filling out multiple PDF applications using one online
     form. '
-  forks: 55
+  forks: 56
   help_wanted: []
   homepage: http://codefordc.github.io/districthousing/
   html_url: https://github.com/codefordc/districthousing
@@ -102,10 +102,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 62
+  open_issues: 63
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-11-19T04:50:16Z'
+  pushed_at: '2015-12-08T02:15:56Z'
   short_name: districthousing
   size: 21722
   updated_at: '2015-12-04T19:40:07Z'
@@ -352,7 +352,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 34
+  forks: 35
   help_wanted: []
   homepage: http://www.codefordc.org
   html_url: https://github.com/codefordc/codefordc.github.com
@@ -372,8 +372,8 @@
   pushed_at: '2015-12-07T21:10:18Z'
   short_name: codefordc.github.com
   size: 17425
-  updated_at: '2015-11-17T17:35:04Z'
-  watchers: 19
+  updated_at: '2015-12-08T05:51:27Z'
+  watchers: 20
 - activity: [6, 5, 3, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -695,7 +695,19 @@
   default_branch: master
   description: Displays data about DC Campaign Finance on a site
   forks: 14
-  help_wanted: []
+  help_wanted:
+  - assignee: null
+    body: ''
+    comments: 0
+    created_at: '2015-12-08T12:43:08Z'
+    issue: Implement download graph as PNG
+    issue_url: https://github.com/codefordc/dc-campaign-finance-watch/issues/50
+    labels:
+    - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement'}
+    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
+    project: Campaign Finance Watch
+    project_url: https://github.com/codefordc/dc-campaign-finance-watch
+    updated_at: '2015-12-08T12:43:08Z'
   homepage: http://codefordc.github.io/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
@@ -706,12 +718,12 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 13
+  open_issues: 20
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-08T00:03:25Z'
+  pushed_at: '2015-12-08T12:40:10Z'
   short_name: dc-campaign-finance-watch
-  size: 32340
+  size: 32578
   updated_at: '2015-10-28T01:25:42Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -962,7 +974,7 @@
   size: 565
   updated_at: '2015-12-05T16:58:51Z'
   watchers: 9
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 47, 56, 22, 71, 19, 2, 2, 1, 4, 2,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 59, 41, 49, 22, 78, 12, 1, 2, 1, 6, 0,
     0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1459,7 +1471,7 @@
   updated_at: '2015-09-22T20:36:44Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7,
     12, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1489,10 +1501,10 @@
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 14
+  open_issues: 18
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2015-12-08T00:40:36Z'
+  pushed_at: '2015-12-08T01:58:42Z'
   short_name: dcaf_case_management
   size: 2261
   updated_at: '2015-11-10T00:55:12Z'
@@ -1524,3 +1536,35 @@
   size: 33519
   updated_at: '2015-12-07T23:40:57Z'
   watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    3, 0, 0]
+  ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/8992133?v=3', contributions: 2,
+    link: 'https://github.com/coachpacman', name: coachpacman}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 1,
+    link: 'https://github.com/cmgiven', name: cmgiven}
+  contributors_count: 2
+  created_at: '2015-11-17T01:01:13Z'
+  default_branch: master
+  description: Looking at fifteen years of school modernization funds
+  forks: 2
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/codefordc/school-modernization
+  id: 46313726
+  languages: []
+  license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
+    url: 'https://api.github.com/licenses/cc0-1.0'}
+  main_language: null
+  name: School Modernization Funds
+  open_issues: 3
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
+    type: Organization, url: 'https://github.com/codefordc'}
+  pushed_at: '2015-12-08T04:15:35Z'
+  short_name: school-modernization
+  size: 4
+  updated_at: '2015-12-08T04:21:48Z'
+  watchers: 4
