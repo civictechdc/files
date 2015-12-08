@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 other:
 - created: 1449080986000
   description: "<p>Interested in sharpening your problem solving skills and learning\
@@ -105,7 +105,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 23
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -148,7 +148,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 40
 - created: 1449104424000
   description: "<p>Feel free to invite others. This is a weekly event. If you're just\
     \ starting, go through the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"\
@@ -225,7 +225,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 70
 - created: 1449015513000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -292,7 +292,7 @@ other:
       Elliot School of International Affairs Building, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 151
+  yes_rsvp_count: 161
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
     \ of the DC tech scene's annual holiday parties. \_It's a great opportunity to\
@@ -305,12 +305,11 @@ other:
     \ <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize\
     \ that as this is a ticketed event, it might not be within everyone's financial\
-    \ ability to go. \_We will pass on whatever promotional codes we can.</p> <p>Currently\
-    \ (as of 12/4) they're running a 25% off promo code through Sunday with:<b> RUSHWKND</b></p>\
-    \ <p>The plan:</p> <p>Buy a ticket from the link below, which also has location\
-    \ information. \_Early-bird pricing is available until December 1. Bring business\
-    \ cards or contact info to exchange as you network (if desired) Meet up at the\
-    \ venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
+    \ ability to go. \_We will pass on whatever promotional codes we can.</p> <p>The\
+    \ plan:</p> <p>Buy a ticket from the link below, which also has location information.\
+    \ \_Early-bird pricing is available until December 1. Bring business cards or\
+    \ contact info to exchange as you network (if desired) Meet up at the venue Connect\
+    \ on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     &gt;Buy Ticket(s)</a></p>"
   duration: 10800000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/226726536/
@@ -323,7 +322,7 @@ other:
   name: Ruby on Rails at Tech the Halls
   status: upcoming
   time: 1449703800000
-  updated: 1449266209000
+  updated: 1449533449000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -356,7 +355,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1448297888000
   description: "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     >Register</a> by December 1st for Early Bird Pricing. Use the code\_WCMTTH15 for\
@@ -465,7 +464,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 295
+  yes_rsvp_count: 301
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -503,7 +502,7 @@ other:
     name: 'Development Seed ', repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 - created: 1448305716000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -546,7 +545,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1448551697000
   description: <p>Please join us December 15th to celebrate the holidays and discuss
     data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a
@@ -572,7 +571,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating

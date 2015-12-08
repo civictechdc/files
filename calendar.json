@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }
     ], 
     "other": [
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1448305716000, 
@@ -155,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1449104424000, 
@@ -231,7 +231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1449015513000, 
@@ -297,11 +297,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 151
+            "yes_rsvp_count": 161
         }, 
         {
             "created": 1447342129000, 
-            "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>Currently (as of 12/4) they're running a 25% off promo code through Sunday with:<b> RUSHWKND</b></p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
+            "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226726536/", 
             "group": {
@@ -320,7 +320,7 @@
             "name": "Ruby on Rails at Tech the Halls", 
             "status": "upcoming", 
             "time": 1449703800000, 
-            "updated": 1449266209000, 
+            "updated": 1449533449000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -352,7 +352,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1448297888000, 
@@ -428,7 +428,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 295
+            "yes_rsvp_count": 301
         }, 
         {
             "created": 1448313893000, 
@@ -468,7 +468,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1448305716000, 
@@ -505,7 +505,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1448551697000, 
@@ -546,7 +546,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1448412227000, 
