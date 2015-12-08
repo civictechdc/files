@@ -79,6 +79,12 @@
     },
     {
         "LegiTrack DC": "https://github.com/jkoul/LegiTrackDC"
+    },
+    {
+        "DCAF Case Manager": "https://github.com/colinxfleming/dcaf_case_management"
+    },
+    {
+        "DC Code Metadata": "https://github.com/DCCouncil/dc-law-xml"
     }
 ],
 "meetups": [
