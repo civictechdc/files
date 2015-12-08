@@ -88,6 +88,9 @@
     },
     {
         "School Modernization Funds": "https://github.com/codefordc/school-modernization"
+    },
+    {
+        "DC Budget Sankey Graph": "https://github.com/codefordc/DC-Budget-Sankey"
     }
 ],
 "meetups": [
