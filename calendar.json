@@ -37,114 +37,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }
     ], 
     "other": [
-        {
-            "created": 1422815617000, 
-            "description": "<p>Hack and Tell will be at WeWork Chinatown again in December! (Hooray!) Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have 5 minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We'll start close to 6:30. There may be a couple beers. It's going to be fun! :) Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/220231803/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "by the couch!", 
-            "id": "220231803", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 27: Hyperion Christmas Carols", 
-            "status": "upcoming", 
-            "time": 1449617400000, 
-            "updated": 1447966864000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 68
-        }, 
-        {
-            "created": 1449015513000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will be building a quick dynamic android application. Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</b></i></p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227147653/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "227147653", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android - Let's build a dynamic app!", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1449617400000, 
-            "updated": 1449015537000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
-            "created": 1448903390000, 
-            "description": "<p>Abstract:<br/>R has become the go-to environment to support data science and statistical applications across many fields. Researchers write papers in R, engineers develop runtime applications in R, and new statistical methods are first developed in R. Supporting this powerful environment is a complete programming language and a wealth of numerical analysis tools. R has a built-in matrix language that can solve mathematical problems above and beyond statistical regression. This talk will walk through R's tools for matrix manipulation, interpolation, integration, and root finding.</p> <p>Speaker:<br/>James P. Howard, II</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/227114848/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "227114848", 
-            "maybe_rsvp_count": 0, 
-            "name": "Numerical Analysis in R", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1449617400000, 
-            "updated": 1449002819000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1957 E St, Room B17", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24234388, 
-                "lat": 38.896228999999998, 
-                "lon": -77.043960999999996, 
-                "name": "George Washington University Elliot School of International Affairs Building", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 154
-        }, 
         {
             "created": 1447342129000, 
             "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
@@ -247,7 +143,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1447726616000, 
@@ -285,7 +181,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 291
+            "yes_rsvp_count": 286
         }, 
         {
             "created": 1448313893000, 
@@ -325,7 +221,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1448305716000, 
@@ -362,7 +258,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1448551697000, 
@@ -403,7 +299,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1448412227000, 
@@ -532,7 +428,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446219481000, 
@@ -560,7 +456,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1443771281000, 
@@ -667,7 +563,7 @@
         }, 
         {
             "created": 1443565691000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Simply put, the goal of any good data wrangler is to make data more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating your data but still publishing it on the web. Let\u2019s learn from the our anti-hero, the black-hat data wrangler.</p> <p>Who wants to foil the data-wrangler?</p> <p>A corporation required to publish financial data.</p> <p>A political campaign with sensitive contributors lists.</p> <p>An industry heading toward regulation, and would like to hide their status.</p> <p>A digital content provider that displays the goods before a sale.</p> <p>A local government agency feeling the burden of being forced to respond to FOIA requests.</p> <p>In this talk Travis (organizer/Hack&amp;Tell) and Robert (organizer/Data Wranglers) will divulge the dark secrets of black-hat wrangling. You\u2019ll learn the numerous ways you can make data publicly available yet hard to obtain. In the spirit of a good hacking talk, we\u2019ll discuss all the ways to defeat each tactic.</p> <p>Join us in January! While you wait, share the worst dataset you\u2019ve ever encountered in the meetup comments.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225710555/", 
             "group": {
@@ -686,7 +582,7 @@
             "name": "Black Hat Data Wrangling", 
             "status": "upcoming", 
             "time": 1452727800000, 
-            "updated": 1444222727000, 
+            "updated": 1449660835000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -702,7 +598,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1448482603000, 
@@ -1332,6 +1228,34 @@
             "status": "upcoming", 
             "time": 1463005800000, 
             "updated": 1449242269000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1446220217000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
