@@ -91,6 +91,9 @@
     },
     {
         "DC Budget Sankey Graph": "https://github.com/codefordc/DC-Budget-Sankey"
+    },
+    {
+        "DC Education Budget": "https://github.com/codefordc/dcps-budget"
     }
 ],
 "meetups": [
