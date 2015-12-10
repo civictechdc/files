@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 other:
 - created: 1447342129000
   description: "<p>For this meetup we're going to get a group together and go to one\
@@ -103,7 +103,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1448297888000
   description: "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"\
     >Register</a> by December 1st for Early Bird Pricing. Use the code\_WCMTTH15 for\
@@ -212,7 +212,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 294
+  yes_rsvp_count: 297
 - created: 1448313893000
   description: "<p>Did you know Women Who Code DC has a blog?\_ (<a href=\"https://medium.com/@WomenWhoCodeDC\"\
     \ class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging\
@@ -319,7 +319,7 @@ other:
     state: MD, zip: '20763'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 39
 - created: 1448412227000
   description: <p>Maptime is, rather literally, time for mapmaking. Our mission is
     to open the doors of cartographic possibility to anyone interested by creating
@@ -339,7 +339,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 3
 - created: 1448043482000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:00 for pizza and soft drinks, with\
@@ -426,7 +426,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -501,7 +501,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1443771281000
   description: "<p>On January 6th, join DC Legal Hackers for our second annual Le\
     \ Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements\
@@ -547,7 +547,27 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
+- created: 1449702357000
+  description: <p>Emma Grasmeder, one of our founding Directors, is moving to Berlin.
+    Join us for a Happy Hour Farewell in her honor. She will be sharing advice about
+    how to beat Imposter Syndrome and other matters of cultural wisdom.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227324943/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '227324943'
+  maybe_rsvp_count: 0
+  name: Farewell to Emma Grasmeder and How to Punch Imposter Syndrome in the Face
+  status: upcoming
+  time: 1452207600000
+  updated: 1449702357000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -611,7 +631,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 85
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -914,7 +934,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1165,35 +1185,6 @@ other:
   status: upcoming
   time: 1463005800000
   updated: 1449242269000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
-- created: 1446220217000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
-    \ This Women Who Code DC event is intended to be exclusively open for women; we\
-    \ are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: gcxvllyvhbxb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1463610600000
-  updated: 1446220217000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
