@@ -42,110 +42,6 @@
     ], 
     "other": [
         {
-            "created": 1447342129000, 
-            "description": "<p>For this meetup we're going to get a group together and go to one of the DC tech scene's annual holiday parties. \u00a0It's a great opportunity to network and connect with other people in the DC tech community. \u00a0Not everyone considers networking and/or going to parties alone to be fun, so what better than to go with a group of women who will support you? \u00a0Whether people want to meet up beforehand on their own or meet WWC-ers at the party, we will open a Slack channel closer to the event to connect Women Who Code DC folks who will be there. \u00a0If you haven't joined yet, request to join our Slack group for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p> <p><b>Note:</b> We realize that as this is a ticketed event, it might not be within everyone's financial ability to go. \u00a0We will pass on whatever promotional codes we can.</p> <p>The plan:</p> <p>Buy a ticket from the link below, which also has location information. \u00a0Early-bird pricing is available until December 1. Bring business cards or contact info to exchange as you network (if desired) Meet up at the venue Connect on Slack if you don't see any familiar faces. &lt;a href=\"https://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\"&gt;Buy Ticket(s)</a></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226726536/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "hsgdmlytqbmb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails at Tech the Halls", 
-            "status": "upcoming", 
-            "time": 1449703800000, 
-            "updated": 1449533449000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486787/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllytqbmb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1449703800000, 
-            "updated": 1449617874000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
-        }, 
-        {
-            "created": 1448297888000, 
-            "description": "<p><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Register</a> by December 1st for Early Bird Pricing. Use the code\u00a0WCMTTH15 for 15% off.</p> <p>It's that time of year again!</p> <p>DC's BIGGEST MEGA Tech Holiday Party -Tech The Halls 2015 - Presented by\u00a0<a href=\"http://www.adobe.com/\">Adobe</a>!</p> <p><b>NOTE:\u00a0<a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Registration is via Eventbrite</a></b></p> <p>Mark your calendars for,\u00a0Wednesday, December 9th\u00a0for the 4th annual\u00a0Tech The Halls 2015 Holiday Party\u00a0as we come together and celebrate all that is the DC tech community!</p> <p>Tech organizations such as\u00a0DCWW, UXPA-DC, STC WDC, Web Content Mavens, Reaching Latinos Online, Color of Tech, Digital District, Code For Progress and DMV Startup\u00a0along with technologists from all over the DC-Metro area will meet, share ideas and network.</p> <p>Held at the chic\u00a0<a href=\"http://www.capitaleofdc.com/\">Capitale</a>\u00a0in downtown Washington, DC, Tech The Halls brings together entrepreneurs, startup founders, designers, developers, marketers and strategists to network and discuss tech trends.</p> <p>There will be an\u00a0open bar, unlimited food, and music\u00a0by\u00a0<a href=\"https://twitter.com/djclintonm\">DJ Clinton Matthews</a>!!</p> <p>Attendees will receive a holiday tech-themed gift bag (quantities limited), and a chance to win tech/non-tech prizes including a very special grand prize!</p> <p>Hashtag:\u00a0#techthehalls15</p> <p>General event questions? Please contact\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p>Interested in sponsoring Tech The Halls 2015?\u00a0Go\u00a0<a href=\"https://www.eventbrite.com/e/sponsor-tech-the-halls-2015-tickets-18917845786\">here</a>\u00a0to see how to sponsor or contact us at\u00a0<a href=\"mailto:[masked]\">[masked]</a>.</p> <p><b>Many thanks to our sponsors!</b></p> <p><b><a href=\"http://www.adobe.com/\">Adobe</a></b></p> <p><b><a href=\"http://www.agencychief.com/\">CHIEF\u00a0</a><br/></b></p> <p><b><a href=\"https://www.capitalone.com/\">Capital One</a></b></p> <p><b>TTH TRANSPORTATION PARTNER</b></p> <p>\u00a0Ride to Tech the Halls and back with DC shared ride startup\u00a0</p> <p><a href=\"http://split.us/\">Split</a></p> <p>\u00a0- just download the app and register with promo code\u00a0TTH15\u00a0for free ride credit.\u00a0\u00a0Split's super affordable, sustainable shared rides are powered by a dynamic technology that instantly combines overlapping rides and makes life a little easier for DC dwellers.\u00a0\u00a0#ridelocal #letssplit</p> <p><br/>How to Split:Download the app at\u00a0<a href=\"http://split.us/\">split.us</a>, and register with promo code\u00a0TTH15.Request a ride on-demand.Walk to your pickup point, usually within a block or so. You might share with someone along the way!Arrive at your dropoff point, and walk to your destination nearby!\u00a0</p> <p><b><a href=\"http://www.eventbrite.com/e/tech-the-halls-2015-presented-by-adobe-tickets-18917477685\">Register for Tech the Halls</a></b></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/226970279/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "226970279", 
-            "maybe_rsvp_count": 0, 
-            "name": "Tech The Halls 2015 - Presented by Adobe", 
-            "status": "upcoming", 
-            "time": 1449703800000, 
-            "updated": 1448297959000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1301 K St NW, Washington", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 16389972, 
-                "lat": 38.902926999999998, 
-                "lon": -77.030563000000001, 
-                "name": "Capitale", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 33
-        }, 
-        {
             "created": 1447726616000, 
             "description": "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts of the information age and the explosion of computing power. However, we don't need computers to experience the data all around us, our world is a constant source of streaming information, a first hand experience we capture with our memories! For artists this begs the question, how else could we capture our experiences? Memory is not a video recording of the world around us, so perhaps there is another creative, external, approach. Data Viz is happy to introduce Catherine Madden.</p> <p><a href=\"https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large\" class=\"linkified\">https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large</a></p> <p>Catherine Madden has captured several DVDC events, some of which are shown here. She will be\u00a0walking through her evolution as a designer, sharing her best practices for data storytelling, and will go into depth about her favorite data stories. We are excited to hear how she discovered that drawing conversations and data has the power to make groups of people more focused, coherent, and productive.\u00a0</p> <p><b>Catherine Madden</b></p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/a/2/6/600_444258982.jpeg\" /></p> <p>Catherine Madden is a designer and visual thinker who has worked out of Washington, DC for the past eight years. She developed a specialty in data visualization and visual facilitation while working at Deloitte Consulting, as the lead designer for the Analytics Visualization Studio. In October, Catherine founded\u00a0<a href=\"http://www.catherinemadden.com/\">a company</a>\u00a0that provides visualization services and workshops for clients who have great ideas, but need help communicating them inside and outside their organization. Catherine recently partnered with FiftyThree and Skillshare to publish a\u00a0<a href=\"http://skl.sh/fiftythree\">free online class</a>\u00a0about drawing data, and you may have seen her sketchnotes on the Data Viz DC Blog or on\u00a0<a href=\"https://twitter.com/catmule/media\">Twitter</a>.\u00a0</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Visual Thinking</p> <p>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p> <p><b>OTHER KUHL CATHERINE MADDEN STUFF</b></p> <p><img src=\"https://pbs.twimg.com/media/By6DUCDIQAABFyp.jpg\" /></p> <p><img src=\"https://pbs.twimg.com/media/CN8K8QMWwAA-GsR.jpg\" /></p>", 
             "duration": 8100000, 
@@ -181,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 297
+            "yes_rsvp_count": 300
         }, 
         {
             "created": 1448313893000, 
@@ -221,7 +117,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1448305716000, 
@@ -259,6 +155,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 21
+        }, 
+        {
+            "created": 1449712302000, 
+            "description": "<p>Members are more active in the facebook group - please join &amp; participate there\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p><br/>Find us at 6:45pm \u00a0<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p> <p>AGENDA</p> <p>6:45-7:00 Introduce ourselves</p> <p>7:00-7:30 pp 13-17 of tutorial</p> <p>7:30-8:00 Line by line, each of the attendees will go through the tests they wrote this week.</p> <p>8:00-8:30 Questions, issues, action items for next week</p> <p><br/>HOMEWORK TO SUBMIT BY SATURDAY DEC. 12:</p> <p>1. Skim pages 13-17 of tutorial &amp; do the exercises. <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\">2.</a> Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb, test/models/group_test.rb, \u00a0test/models/event_test.rb, etc. It's OK for multiple people to work on the same file.</p> <p>You can post info or questions in the facebook group <a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/227329092/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.290000915527344, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
+            "id": "227329092", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Google Hangouts class/tutorial", 
+            "status": "upcoming", 
+            "time": 1450136700000, 
+            "updated": 1449713204000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Near Nottoway Park", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 24149860, 
+                "lat": 38.884383999999997, 
+                "lon": -77.274947999999995, 
+                "name": "A mile from Vienna metro or find us online", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1448551697000, 
@@ -299,7 +233,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1448412227000, 
@@ -325,11 +259,11 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1448043482000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. We are happy to have\u00a0Joel Yatsko from\u00a0<a href=\"http://parks.arlingtonva.us/\">Arlington County Department of Parks and Recreation</a>, who will be making smoothies via his blender-bike. Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0is leveraging mobile technology and creating a \"share to own\" bike purchasing concept to bring bikes en masse to colleges.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a tool that combines bike lanes with bike crash data, and can be exported as a map.\u00a0</p> <p><br/>\u2022\u00a0Dave Nesbitt will show us how\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> service can be used for <a href=\"http://valhalla.github.io/demos/routing/index.html#loc=14,[masked],[masked]\">bicycle routing</a>.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. We are happy to have\u00a0Joel Yatsko from\u00a0<a href=\"http://parks.arlingtonva.us/\">Arlington County Department of Parks and Recreation</a>, who will be making smoothies via his blender-bike. Note we are at <a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA.\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson and Justin Molineaux\u00a0will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses mobile technology to bring bikes en masse to colleges.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a tool that combines bike lanes with bike crash data, and can be exported as a map.\u00a0</p> <p><br/>\u2022\u00a0Dave Nesbitt will show us how\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> service can be used for <a href=\"http://valhalla.github.io/demos/routing/index.html#loc=14,[masked],[masked]\">bicycle routing</a>.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/226911922/", 
             "group": {
@@ -349,7 +283,7 @@
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1450306800000, 
-            "updated": 1449607589000, 
+            "updated": 1449721933000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2231 Crystal Dr #1000", 
@@ -364,7 +298,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1449249912000, 
@@ -535,7 +469,7 @@
         }, 
         {
             "created": 1449702357000, 
-            "description": "<p>Emma Grasmeder, one of our founding Directors, is moving to Berlin. Join us for a Happy Hour Farewell in her honor. She will be sharing advice about how to beat Imposter Syndrome and other matters of cultural wisdom.</p>", 
+            "description": "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin. Join us for a Happy Hour Farewell in her honor. She will be sharing advice about how to beat Imposter Syndrome and other words of technical and cultural wisdom. We will miss her dearly!!</p> <p><b>Evening Schedule of Events:</b></p> <p>6:00-7:00 p.m. Registration and Happy Hour</p> <p>7:00 p.m. Talk by Emma Grasmeder and Toasts, then more Happy Hour</p> <p>8:00 p.m. Finish</p> <p>We will have a digital guestbook [link here] where you can create messages by text, video, or audio that will be shared with Emma after the event.\u00a0 Even if you cannot attend, please take the time to tell her how much you appreciate her.\u00a0 Thank you.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227324943/", 
             "group": {
@@ -552,13 +486,14 @@
             "id": "227324943", 
             "maybe_rsvp_count": 0, 
             "name": "Farewell to Emma Grasmeder and How to Punch Imposter Syndrome in the Face", 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1452207600000, 
-            "updated": 1449702357000, 
+            "updated": 1449709701000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220149000, 
@@ -625,7 +560,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1448482603000, 
@@ -1259,6 +1194,62 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/jzwvllyvjbcb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvjbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1464820200000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 

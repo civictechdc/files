@@ -314,7 +314,7 @@
     thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 192,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 196,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -358,7 +358,7 @@
   html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
-  - [HTML, 144402]
+  - [HTML, 130882]
   - [JavaScript, 16189]
   - [CSS, 13566]
   - [Shell, 5425]
@@ -369,9 +369,9 @@
   open_issues: 10
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-09T06:26:53Z'
+  pushed_at: '2015-12-10T02:03:26Z'
   short_name: codefordc.github.com
-  size: 17432
+  size: 17438
   updated_at: '2015-12-08T05:51:27Z'
   watchers: 20
 - activity: [6, 5, 3, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -484,8 +484,8 @@
   size: 2915
   updated_at: '2015-11-25T20:50:02Z'
   watchers: 6
-- activity: [3, 0, 8, 0, 0, 0, 0, 0, 5, 7, 19, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+- activity: [1, 0, 8, 0, 0, 0, 0, 0, 10, 9, 12, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -923,8 +923,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 63, 3, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 65, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1377,7 +1377,7 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 14, 0, 28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1476,9 +1476,9 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 20,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 21,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 8,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 10,
     link: 'https://github.com/mebates', name: mebates}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 4,
     link: 'https://github.com/drownedout', name: drownedout}
@@ -1504,9 +1504,9 @@
   open_issues: 18
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2015-12-08T01:58:42Z'
+  pushed_at: '2015-12-10T04:24:56Z'
   short_name: dcaf_case_management
-  size: 2261
+  size: 3340
   updated_at: '2015-11-10T00:55:12Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1649,7 +1649,7 @@
   size: 559
   updated_at: '2015-12-08T00:24:16Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 7, 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 40, 22, 21, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 8, 31, 8, 0, 0, 0, 0, 0, 0, 0, 0, 48, 35, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
