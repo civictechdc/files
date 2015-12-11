@@ -42,45 +42,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1447726616000, 
-            "description": "<p><b>Visual Thinking</b></p> <p>For many of us \"data\" invokes thoughts of the information age and the explosion of computing power. However, we don't need computers to experience the data all around us, our world is a constant source of streaming information, a first hand experience we capture with our memories! For artists this begs the question, how else could we capture our experiences? Memory is not a video recording of the world around us, so perhaps there is another creative, external, approach. Data Viz is happy to introduce Catherine Madden.</p> <p><a href=\"https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large\" class=\"linkified\">https://pbs.twimg.com/media/CTp3irEWUAEn8Yv.jpg:large</a></p> <p>Catherine Madden has captured several DVDC events, some of which are shown here. She will be\u00a0walking through her evolution as a designer, sharing her best practices for data storytelling, and will go into depth about her favorite data stories. We are excited to hear how she discovered that drawing conversations and data has the power to make groups of people more focused, coherent, and productive.\u00a0</p> <p><b>Catherine Madden</b></p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/4/a/2/6/600_444258982.jpeg\" /></p> <p>Catherine Madden is a designer and visual thinker who has worked out of Washington, DC for the past eight years. She developed a specialty in data visualization and visual facilitation while working at Deloitte Consulting, as the lead designer for the Analytics Visualization Studio. In October, Catherine founded\u00a0<a href=\"http://www.catherinemadden.com/\">a company</a>\u00a0that provides visualization services and workshops for clients who have great ideas, but need help communicating them inside and outside their organization. Catherine recently partnered with FiftyThree and Skillshare to publish a\u00a0<a href=\"http://skl.sh/fiftythree\">free online class</a>\u00a0about drawing data, and you may have seen her sketchnotes on the Data Viz DC Blog or on\u00a0<a href=\"https://twitter.com/catmule/media\">Twitter</a>.\u00a0</p> <p><br/><b>AGENDA</b>:</p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Visual Thinking</p> <p>\u2022 8:15 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks (Super Secret Location TBA)</p> <p>\n\n\n<b>SPECIAL ANNOUNCEMENT</b>\u00a0</p> <p>Data Community DC is happy to welcome <a href=\"http://www.meetup.com/WomenDataScientistsDC/\">Women Data Scientists DC</a> as its newest Program!\u00a0</p> <p><b>OTHER KUHL CATHERINE MADDEN STUFF</b></p> <p><img src=\"https://pbs.twimg.com/media/By6DUCDIQAABFyp.jpg\" /></p> <p><img src=\"https://pbs.twimg.com/media/CN8K8QMWwAA-GsR.jpg\" /></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/226826728/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "226826728", 
-            "maybe_rsvp_count": 0, 
-            "name": "Visual Thinking & Story Telling", 
-            "rsvp_limit": 190, 
-            "status": "upcoming", 
-            "time": 1449790200000, 
-            "updated": 1449773734000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 93, 
-            "yes_rsvp_count": 190
-        }, 
-        {
             "created": 1448313893000, 
             "description": "<p>Did you know Women Who Code DC has a blog?\u00a0 (<a href=\"https://medium.com/@WomenWhoCodeDC\" class=\"linkified\">https://medium.com/@WomenWhoCodeDC</a>)</p> <p>Blogging about tech and Women in Tech experiences is a great way to contribute to the tech space and continue conversations about topics of interests.</p> <p><br/>We are interested in getting more of YOU to join the conversation online by writing your own blog posts. Your blog posts will be featured on our new Medium channel, specifically for posts written by our members.</p> <p><br/><b>Schedule of events:</b></p> <p>11:00 - Arrive and introductions</p> <p>11:30 - Talk on how to write a blog post</p> <p><br/>11:45 - Brainstorming potential topic ideas</p> <p>12:00 - Lunch</p> <p><br/>12:30 onward - Free time for writing/editing blog posts</p> <p>The first hour of the event will focus on how to write a blog post, while the rest of the time will be an opportunity to write and edit your posts with input from Lauren and Laura, Women Who Code DC's blog managers.</p> <p><br/>Drop by for an hour, or stay the afternoon! We are looking forward to helping you tell YOUR story.</p>", 
             "duration": 14400000, 
@@ -118,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1448305716000, 
@@ -155,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1449712302000, 
@@ -299,7 +260,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1449249912000, 
@@ -363,7 +324,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
