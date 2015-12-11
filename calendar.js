@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }
     ], 
     "other": [
@@ -77,8 +77,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
-            "yes_rsvp_count": 289
+            "waitlist_count": 93, 
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1448313893000, 
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1448305716000, 
@@ -155,7 +155,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1449712302000, 
@@ -299,7 +299,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1449249912000, 
@@ -336,7 +336,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1447431964000, 
@@ -391,7 +391,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1443771281000, 
@@ -466,11 +466,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1449702357000, 
-            "description": "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin. Join us for a Happy Hour Farewell in her honor. She will be sharing advice about how to beat Imposter Syndrome and other words of technical and cultural wisdom. We will miss her dearly!!</p> <p><b>Evening Schedule of Events:</b></p> <p>6:00-7:00 p.m. Registration and Happy Hour</p> <p>7:00 p.m. Talk by Emma Grasmeder and Toasts, then more Happy Hour</p> <p>8:00 p.m. Finish</p> <p>We will have a digital guestbook [link here] where you can create messages by text, video, or audio that will be shared with Emma after the event.\u00a0 Even if you cannot attend, please take the time to tell her how much you appreciate her.\u00a0 Thank you.</p>", 
+            "description": "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin. Join us for a Happy Hour Farewell in her honor. She will be sharing advice about how to overcome Imposter Syndrome and other words of technical and cultural wisdom. We will miss her dearly!!</p> <p><b>Evening Schedule of Events:</b></p> <p>6:00-7:00 p.m. Registration and Happy Hour</p> <p>7:00 p.m. Talk by Emma Grasmeder and Toasts, then more Happy Hour</p> <p>8:00 p.m. Finish</p> <p>We will have a digital guestbook [link here] where you can create messages by text, video, or audio that will be shared with Emma after the event.\u00a0 Even if you cannot attend, please take the time to tell her how much you appreciate her.\u00a0 Thank you.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227324943/", 
             "group": {
@@ -490,7 +490,7 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1452207600000, 
-            "updated": 1449709701000, 
+            "updated": 1449779415000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -561,7 +561,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1448482603000, 
