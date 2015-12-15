@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }
     ], 
     "other": [
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1449712302000, 
@@ -156,32 +156,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 1, 
             "yes_rsvp_count": 50
-        }, 
-        {
-            "created": 1448412227000, 
-            "description": "<p>Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. Beginners most welcome!</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/227002194/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227002194", 
-            "maybe_rsvp_count": 0, 
-            "name": "TBD! ", 
-            "status": "upcoming", 
-            "time": 1450222200000, 
-            "updated": 1448412227000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
         }, 
         {
             "created": 1448043482000, 
@@ -312,11 +286,11 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1443771281000, 
-            "description": "<p>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW for food, entertainment, and celebration. Space is limited, so RSVP today!</p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p>", 
+            "description": "<p>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\u00a0</p> <p>Space is limited, be sure to RSVP for entry.</p> <p><br/>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
             "group": {
                 "created": 1372871984000, 
@@ -332,24 +306,25 @@ calendar({
             "id": "225773453", 
             "maybe_rsvp_count": 0, 
             "name": "Le Hackie Awards #2", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1452124800000, 
-            "updated": 1448398651000, 
+            "updated": 1450140167000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "14 4618 14st NW DC Loft Level", 
+                "address_1": "600 F Street NW, Washington, DC 20004", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24154023, 
-                "lat": 38.907192000000002, 
-                "lon": -77.036873, 
-                "name": "The Loft ", 
+                "id": 24256613, 
+                "lat": 38.897072000000001, 
+                "lon": -77.020156999999998, 
+                "name": "The Loft at 600 F", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1326383071000, 
@@ -387,7 +362,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1449702357000, 
@@ -415,7 +390,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1446220149000, 
@@ -482,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1448482603000, 
