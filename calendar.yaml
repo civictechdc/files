@@ -38,94 +38,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 32
 other:
-- created: 1448305716000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting. There's always at least one mentor or leader present\
-    \ to help you with best practices or to guide you through if you are stuck with\
-    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
-    \ please bring your laptop. Extra computers will not be available at the event.\
-    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
-    \ Agenda Every study group will have the following format: \u2022 6:30pm - Setup</p>\
-    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm -\
-    \ Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or\
-    \ talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p>\
-    \ <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
-    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
-    >http://bit.ly/first-timers-guide</a>\_</p> <p>\u2022\_HTML Study Guide: <a href=\"\
-    http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\_\
-    </p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain\
-    \ building management companies require Meetup hosts to let people in and do not\
-    \ encourage them being contacted. Please respect the policy. In case the location\
-    \ requires access to the building, contact the group lead if information is provided\
-    \ or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome\
-    \ This event is intended to be exclusively open for women; we are trans* friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226973438/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjglmlytqbsb
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  status: upcoming
-  time: 1450135800000
-  updated: 1448305887000
-  utc_offset: -18000000
-  venue: {address_1: '700 6th Street, NW, #410', city: Washington, country: us, id: 23283742,
-    lat: 38.898994000000002, lon: -77.020294000000007, name: Social Tables, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 26
-- created: 1449712302000
-  description: "<p>Members are more active in the facebook group - please join &amp;\
-    \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
-    ><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\"\
-    >https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite\
-    \ others. This is a weekly event. If you're just starting, go through the README\
-    \ at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"\
-    \ class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p>\
-    \ <p><br/>Find us at 6:45pm \_<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"\
-    ><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"\
-    \ class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p>\
-    \ <p>AGENDA</p> <p>6:45-7:00 Introduce ourselves</p> <p>7:00-7:30 pp 13-17 of\
-    \ tutorial</p> <p>7:30-8:00 Line by line, each of the attendees will go through\
-    \ the tests they wrote this week.</p> <p>8:00-8:30 Questions, issues, action items\
-    \ for next week</p> <p><br/>HOMEWORK TO SUBMIT BY SATURDAY DEC. 12:</p> <p>1.\
-    \ Skim pages 13-17 of tutorial &amp; do the exercises. <a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\"\
-    ><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"\
-    \ class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p>\
-    \ <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt2.\"\
-    >2.</a> Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb,\
-    \ test/models/group_test.rb, \_test/models/event_test.rb, etc. It's OK for multiple\
-    \ people to work on the same file.\_Make a pull request at <a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"\
-    \ class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a> for\
-    \ your modified test files.</p> <p>You can post info or questions in the facebook\
-    \ group <a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"\
-    https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p>"
-  event_url: http://www.meetup.com/railsgirlsdc/events/227329092/
-  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.290000915527344,
-    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Rails
-      Women}
-  headcount: 0
-  how_to_find_us: https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa
-  id: '227329092'
-  maybe_rsvp_count: 0
-  name: Ruby on Rails Google Hangouts class/tutorial
-  status: upcoming
-  time: 1450136700000
-  updated: 1449764600000
-  utc_offset: -18000000
-  venue: {address_1: Near Nottoway Park, city: Vienna, country: us, id: 24149860,
-    lat: 38.884383999999997, lon: -77.274947999999995, name: A mile from Vienna metro
-      or find us online, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
 - created: 1448551697000
   description: <p>Please join us December 15th to celebrate the holidays and discuss
     data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a
@@ -212,7 +124,53 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 116
+- created: 1450148913000
+  description: "<p>Start the new year by learning to code! We will be going over our\
+    \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
+    \ workshop setting.</p> <p>Front End Hack Night (FEHN) is a study group where\
+    \ women can come together and help each other learn and understand web development.\
+    \ We welcome devs of all levels and encourage those with more experience to help\
+    \ out those that are just starting. There's always at least one mentor or leader\
+    \ present to help you with best practices or to guide you through if you are stuck\
+    \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
+    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
+    \ be available at the event. Even if you have never coded before, you will be\
+    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022\
+    \ 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p>\
+    \ <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if\
+    \ scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p>\
+    \ <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
+    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
+    >http://bit.ly/first-timers-guide</a>\_</p> <p>\u2022\_HTML Study Guide: <a href=\"\
+    http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\_\
+    </p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\"\
+    \ class=\"linkified\">http://bit.ly/js-study-guide</a>\_</p> <p><b>Building Access</b></p>\
+    \ <p>Certain building management companies require Meetup hosts to let people\
+    \ in and do not encourage them being contacted. Please respect the policy. In\
+    \ case the location requires access to the building, contact the group lead if\
+    \ information is provided or drop a comment on the Meetup page. We'll come and\
+    \ get you.</p> <p><b>Welcome</b>\_</p> <p>This event is intended to be exclusively\
+    \ open for women; we are trans* friendly.</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227427765/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: rszwmlyvcbgb
+  maybe_rsvp_count: 0
+  name: "Front End Hack Night - First Timer's\xAD Night"
+  status: upcoming
+  time: 1451950200000
+  updated: 1450150228000
+  utc_offset: -18000000
+  venue: {address_1: '641 S St NW, First Floor', city: Washington, country: us, id: 23929782,
+    lat: 38.914551000000003, lon: -77.021095000000003, name: iStrategy Labs, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -319,12 +277,15 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 17
 - created: 1443771281000
-  description: "<p>On January 6th, join DC Legal Hackers for our second annual Le\
-    \ Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements\
+  description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
+    \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
+    .</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie\
+    \ Awards! Le Hackie Awards is our chance to celebrate the awesome achievements\
     \ of the legal hacking movement in DC. Once again, we're taking over the Loft\
-    \ at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\_\
-    </p> <p>Space is limited, be sure to RSVP for entry.</p> <p><br/>Part awards show,\
-    \ part new years party, all \u202A#\u200Elegalhack\u202C.</p>"
+    \ at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\
+    \ Learn more at:\_<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\"\
+    >https://lehackies2.splashthat.com/</a></p> <p><br/><b>Space is limited, be sure\
+    \ to RSVP for entry.</b></p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
@@ -332,11 +293,11 @@ other:
   headcount: 0
   id: '225773453'
   maybe_rsvp_count: 0
-  name: 'Le Hackie Awards #2'
+  name: 'Le Hackies #2'
   rsvp_limit: 100
   status: upcoming
   time: 1452124800000
-  updated: 1450140167000
+  updated: 1450142415000
   utc_offset: -18000000
   venue: {address_1: '600 F Street NW, Washington, DC 20004', city: Washington, country: us,
     id: 24256613, lat: 38.897072000000001, lon: -77.020156999999998, name: The Loft
@@ -391,7 +352,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
