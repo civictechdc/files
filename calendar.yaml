@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 other:
 - created: 1448551697000
   description: <p>Please join us December 15th to celebrate the holidays and discuss
@@ -62,7 +62,7 @@ other:
     lon: -76.825102000000001, name: Rams Head Tavern, phone: (301)604-3454, repinned: false,
     state: MD, zip: '20763'}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 0
   yes_rsvp_count: 50
 - created: 1448043482000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
@@ -124,7 +124,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 118
 - created: 1450148913000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -246,7 +246,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -325,7 +325,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 15
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
     \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
@@ -352,7 +352,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -381,7 +381,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 4
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -494,7 +494,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -523,7 +523,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
