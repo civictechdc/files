@@ -37,51 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }
     ], 
     "other": [
-        {
-            "created": 1448551697000, 
-            "description": "<p>Please join us December 15th to celebrate the holidays and discuss data science with fellow data enthusiasts.</p> <p>If you are a recruiter or a member looking for a new opportunity please contact us at <a href=\"mailto:[masked]\">[masked]</a> prior to event so we can help coordinate introductions.</p> <p><img src=\"http://www.annapolis.com/wp-content/uploads/2014/05/Rams-Head-Logo-Annapolis-MD.png\" /></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/227035046/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "227035046", 
-            "maybe_rsvp_count": 0, 
-            "name": "Holiday Happy Hour", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1450216800000, 
-            "updated": 1448738701000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "8600 Foundry St.", 
-                "city": "Savage", 
-                "country": "us", 
-                "id": 833499, 
-                "lat": 39.135663000000001, 
-                "lon": -76.825102000000001, 
-                "name": "Rams Head Tavern", 
-                "phone": "(301)604-3454", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "20763"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 49
-        }, 
         {
             "created": 1448043482000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. We are happy to have\u00a0Joel Yatsko from\u00a0<a href=\"http://parks.arlingtonva.us/\">Arlington County Department of Parks and Recreation</a>, who will be making smoothies via his blender-bike. And thanks to Anna Petrone of <a href=\"http://split.us/\">Split</a> we'll have bike-shaped cookies too!\u00a0</p> <p>Got a cool bike project? Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>. Our speakers thus far are:</p> <p>\u2022\u00a0Matt Fowle will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0Kate Rabinowitz of <a href=\"http://www.datalensdc.com/\">DataLensDC</a>\u00a0will show how she mapped <a href=\"https://datalensdc.cartodb.com/viz/f8c4727a-7e95-11e5-ac16-0e98b61680bf/public_map\">DC bike accidents</a>\u00a0and <a href=\"http://www.datalensdc.com/rise-of-biking.html\">bike counts</a>.</p> <p><br/>\u2022\u00a0Rob McPherson and Justin Molineaux\u00a0will show how\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0uses mobile technology to bring bikes en masse to colleges.</p> <p>\u2022\u00a0Brooks Robertson of Esri will demo a tool that combines bike lanes with bike crash data, and can be exported as a map.\u00a0</p> <p><br/>\u2022\u00a0Dave Nesbitt will show us how\u00a0<a href=\"https://mapzen.com/\">Mapzen</a>'s\u00a0<a href=\"https://mapzen.com/projects/valhalla/\">Valhalla</a> service can be used for <a href=\"http://valhalla.github.io/demos/routing/index.html#loc=14,38.854681,-77.036047\">bicycle routing</a>.</p> <p><br/>Visit <a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>\u00a0and <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a> to see what was presented at previous events. Read summaries at <a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a> and <a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible and providing the food. And thanks to\u00a0<a href=\"http://www.deeplearninganalytics.com/\">Deep Learning Analytics</a>, <a href=\"http://www.esri.com/\">Esri</a>, and <a href=\"http://baasbikes.com/\">Baas Bikes</a> for sponsoring us and helping us return to 1776.</p> <p>Note we are at\u00a0<a href=\"http://www.1776.vc/\">1776</a>'s Crystal City location, in Arlington, VA. It's a short walk from the <a href=\"http://www.wmata.com/rail/station_detail.cfm?station_id=45\">Crystal City Metro</a> station, near two <a href=\"http://www.capitalbikeshare.com/\">CaBi</a> stations, and there's also plenty of <a href=\"http://www.crystalcity.org/accessible/car/parking/parking\">parking</a>.</p> <p><br/>Our hashtag is <a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/3/1/3/8/600_444432600.jpeg\" /></p>", 
@@ -156,7 +115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1449249912000, 
@@ -193,7 +152,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1447431964000, 
@@ -248,7 +207,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1443771281000, 
@@ -352,7 +311,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1450148912000, 
@@ -389,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446220149000, 
@@ -456,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1448482603000, 
@@ -558,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1450148912000, 
