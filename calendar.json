@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }
     ], 
     "other": [
@@ -113,7 +113,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1447431964000, 
@@ -312,6 +312,44 @@
             "yes_rsvp_count": 31
         }, 
         {
+            "created": 1450570901000, 
+            "description": "<p>Members are more active in the facebook group - please join &amp; participate there\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at\u00a0</p> <p><a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=fAQGVLStg&amp;enc=AZOUMCzSDGa5MmkLXdvhkEkzHfUnssjHf4Be5HP8_DMW3mcxu7nvyXtx_IMOTeBidaw&amp;s=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\n\nFind us at 6:45pm\u00a0</p> <p><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p> <p>\n\nAGENDA</p> <p><br/>6:45-7:00 Introduce ourselves</p> <p><br/>7:00-7:30 pp 17-27 of tutorial</p> <p><br/>7:30-8:00 Each attendee will step us through the tests they wrote this week.</p> <p><br/>8:00-8:30 Questions, issues, action items for next week</p> <p>\n\nHOMEWORK TO SUBMIT BY SATURDAY JAN. 9:</p> <p><br/>1. Read pages 17-27 of tutorial &amp; do the exercises.\u00a0</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p>\n\n2. Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb, test/models/group_test.rb, test/models/event_test.rb, etc. It's OK for multiple people to work on the same file. Make a pull request at</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\u00a0for your modified test files.</p> <p>&lt;a href=\"https://www.facebook.com/groups/crowdpublishtv/\"&gt;&lt;/a&gt;</p>", 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/227523064/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.290000915527344, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
+            "id": "227523064", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Google Hangouts class/tutorial", 
+            "status": "upcoming", 
+            "time": 1452555900000, 
+            "updated": 1450570901000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Near Nottoway Park", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 24149860, 
+                "lat": 38.884383999999997, 
+                "lon": -77.274947999999995, 
+                "name": "A mile from Vienna metro or find us online", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1446220149000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -376,7 +414,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1448482603000, 
