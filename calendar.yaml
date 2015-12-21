@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 other:
 - created: 1450148913000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -83,7 +83,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -113,7 +113,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -188,7 +188,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
     \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
@@ -206,7 +206,7 @@ other:
     \ with law.\_</p> <p><i>\u2022 A few surprises from DC Legal Hackers.\_</i></p>\
     \ <p><br/>Learn more at:\_<a href=\"https://lehackies2.splashthat.com/\" class=\"\
     linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free,\
-    \ but space is limited, be sure to RSVP here for entry.\_<br/></b></p>"
+    \ but space is limited to 100, be sure to RSVP here for entry.\_<br/></b></p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
@@ -218,14 +218,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1452124800000
-  updated: 1450654229000
+  updated: 1450723114000
   utc_offset: -18000000
   venue: {address_1: '600 F Street NW, Washington, DC 20004', city: Washington, country: us,
     id: 24256613, lat: 38.897072000000001, lon: -77.020156999999998, name: The Loft
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 42
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
