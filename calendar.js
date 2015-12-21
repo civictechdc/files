@@ -168,11 +168,11 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1443771281000, 
-            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\" /></p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration. Learn more at:\u00a0<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Space is limited, be sure to RSVP for entry.</b></p>", 
+            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\" /></p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\u00a0</p> <p><br/>Here's what's on the agenda:</p> <p>\u2022\u00a0A\u00a0DC Legal Hackers 2015 year in review.\u00a0</p> <p>\u2022\u00a0An awards ceremony for\u00a0the best legal hacking of 2015. (See the\u00a0<a href=\"http://dclegalhackers.org/blog/2015/01/06/the2014lehackiewinners.html\">2014 winners</a>\u00a0here).</p> <p>\u2022\u00a0<a href=\"https://soundcloud.com/jazdux\">DJ JAX:DUX\u00a0</a>is back to soundtrack our evening!</p> <p>\u2022\u00a0An array of\u00a0the most delicious tacos\u00a0you'll ever nibble on.</p> <p>\u2022\u00a0Drinks and celebration\u00a0with folks in the District working hard to improve law with technology and technology with law.\u00a0</p> <p><i>\u2022 A few surprises from DC Legal Hackers.\u00a0</i></p> <p><br/>Learn more at:\u00a0<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free, but space is limited, be sure to RSVP here for entry.\u00a0<br/></b></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
             "group": {
                 "created": 1372871984000, 
@@ -187,11 +187,11 @@ calendar({
             "headcount": 0, 
             "id": "225773453", 
             "maybe_rsvp_count": 0, 
-            "name": "Le Hackies #2", 
+            "name": "Le Hackies 2", 
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1452124800000, 
-            "updated": 1450142415000, 
+            "updated": 1450654229000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F Street NW, Washington, DC 20004", 
@@ -206,7 +206,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1326383071000, 
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1450570901000, 
@@ -414,7 +414,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1448482603000, 
@@ -516,7 +516,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1450148912000, 

@@ -188,17 +188,25 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
     \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
     .</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie\
     \ Awards! Le Hackie Awards is our chance to celebrate the awesome achievements\
     \ of the legal hacking movement in DC. Once again, we're taking over the Loft\
-    \ at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\
-    \ Learn more at:\_<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\"\
-    >https://lehackies2.splashthat.com/</a></p> <p><br/><b>Space is limited, be sure\
-    \ to RSVP for entry.</b></p>"
+    \ at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\_\
+    </p> <p><br/>Here's what's on the agenda:</p> <p>\u2022\_A\_DC Legal Hackers 2015\
+    \ year in review.\_</p> <p>\u2022\_An awards ceremony for\_the best legal hacking\
+    \ of 2015. (See the\_<a href=\"http://dclegalhackers.org/blog/2015/01/06/the2014lehackiewinners.html\"\
+    >2014 winners</a>\_here).</p> <p>\u2022\_<a href=\"https://soundcloud.com/jazdux\"\
+    >DJ JAX:DUX\_</a>is back to soundtrack our evening!</p> <p>\u2022\_An array of\_\
+    the most delicious tacos\_you'll ever nibble on.</p> <p>\u2022\_Drinks and celebration\_\
+    with folks in the District working hard to improve law with technology and technology\
+    \ with law.\_</p> <p><i>\u2022 A few surprises from DC Legal Hackers.\_</i></p>\
+    \ <p><br/>Learn more at:\_<a href=\"https://lehackies2.splashthat.com/\" class=\"\
+    linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free,\
+    \ but space is limited, be sure to RSVP here for entry.\_<br/></b></p>"
   event_url: http://www.meetup.com/DCLegalHackers/events/225773453/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
@@ -206,18 +214,18 @@ other:
   headcount: 0
   id: '225773453'
   maybe_rsvp_count: 0
-  name: 'Le Hackies #2'
+  name: Le Hackies 2
   rsvp_limit: 100
   status: upcoming
   time: 1452124800000
-  updated: 1450142415000
+  updated: 1450654229000
   utc_offset: -18000000
   venue: {address_1: '600 F Street NW, Washington, DC 20004', city: Washington, country: us,
     id: 24256613, lat: 38.897072000000001, lon: -77.020156999999998, name: The Loft
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 29
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -311,7 +319,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -420,7 +428,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 108
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -543,7 +551,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
