@@ -997,7 +997,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 201, 
+                "contributions": 203, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1110,7 +1110,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                128970
+                127939
             ], 
             [
                 "JavaScript", 
@@ -1118,7 +1118,7 @@ projects([
             ], 
             [
                 "CSS", 
-                13566
+                13748
             ], 
             [
                 "Shell", 
@@ -1144,9 +1144,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-20T22:53:55Z", 
+        "pushed_at": "2015-12-21T05:57:35Z", 
         "short_name": "codefordc.github.com", 
-        "size": 17475, 
+        "size": 17481, 
         "updated_at": "2015-12-20T01:50:18Z", 
         "watchers": 21
     }, 
@@ -1658,8 +1658,8 @@ projects([
         "pushed_at": "2015-11-27T21:38:19Z", 
         "short_name": "DCMetroMetrics", 
         "size": 32313, 
-        "updated_at": "2015-10-27T21:38:25Z", 
-        "watchers": 28
+        "updated_at": "2015-12-21T02:10:58Z", 
+        "watchers": 29
     }, 
     {
         "activity": [
@@ -4480,7 +4480,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 22, 
+                "contributions": 27, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4529,7 +4529,7 @@ projects([
             ], 
             [
                 "Ruby", 
-                20497
+                20496
             ], 
             [
                 "JavaScript", 
@@ -4550,9 +4550,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2015-12-19T19:22:37Z", 
+        "pushed_at": "2015-12-21T02:29:41Z", 
         "short_name": "dcaf_case_management", 
-        "size": 3341, 
+        "size": 3974, 
         "updated_at": "2015-12-19T23:42:54Z", 
         "watchers": 0
     }, 
@@ -4804,8 +4804,8 @@ projects([
         "activity": [
             0, 
             0, 
-            6, 
-            1, 
+            7, 
+            0, 
             0, 
             0, 
             1, 
@@ -4974,19 +4974,19 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            18, 
-            29, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
+            7, 
             15, 
-            40, 
+            25, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            29, 
+            26, 
             28, 
             0, 
             0, 
