@@ -275,7 +275,7 @@ projects([
         "created_at": "2013-06-24T02:05:03Z", 
         "default_branch": "master", 
         "description": "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. ", 
-        "forks": 56, 
+        "forks": 57, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/districthousing/", 
         "html_url": "https://github.com/codefordc/districthousing", 
@@ -2216,7 +2216,7 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 20, 
+        "open_issues": 21, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -4371,7 +4371,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 19, 
+                "contributions": 24, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
             }, 
@@ -4398,11 +4398,11 @@ projects([
             ], 
             [
                 "JavaScript", 
-                42506
+                42535
             ], 
             [
                 "HTML", 
-                29083
+                29065
             ], 
             [
                 "Ruby", 
@@ -4419,9 +4419,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/jkoul"
         }, 
-        "pushed_at": "2015-12-22T01:31:53Z", 
+        "pushed_at": "2015-12-22T18:20:38Z", 
         "short_name": "LegiTrackDC", 
-        "size": 1667, 
+        "size": 1676, 
         "updated_at": "2015-09-22T20:36:44Z", 
         "watchers": 0
     }, 
@@ -4470,15 +4470,15 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            0, 
-            13, 
+            6, 
+            4, 
+            6, 
+            7, 
             12, 
             0, 
             0, 
             9, 
-            2
+            6
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4560,9 +4560,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2015-12-22T01:56:56Z", 
+        "pushed_at": "2015-12-22T15:44:06Z", 
         "short_name": "dcaf_case_management", 
-        "size": 4017, 
+        "size": 4015, 
         "updated_at": "2015-12-19T23:42:54Z", 
         "watchers": 0
     }, 
@@ -4762,7 +4762,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1095794?v=3", 
-                "contributions": 4, 
+                "contributions": 6, 
                 "link": "https://github.com/NSkelsey", 
                 "name": "NSkelsey"
             }, 
@@ -4804,9 +4804,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-08T13:29:19Z", 
+        "pushed_at": "2015-12-22T16:14:37Z", 
         "short_name": "school-modernization", 
-        "size": 5, 
+        "size": 8, 
         "updated_at": "2015-12-08T04:21:48Z", 
         "watchers": 4
     }, 

@@ -85,7 +85,7 @@
   description: 'District Housing lets caseworkers help clients apply for Section 8
     housing by automatically filling out multiple PDF applications using one online
     form. '
-  forks: 56
+  forks: 57
   help_wanted: []
   homepage: http://codefordc.github.io/districthousing/
   html_url: https://github.com/codefordc/districthousing
@@ -718,7 +718,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 20
+  open_issues: 21
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2015-12-21T13:16:39Z'
@@ -1444,7 +1444,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 19,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 24,
     link: 'https://github.com/jkoul', name: jkoul}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 1,
     link: 'https://github.com/mkalish', name: mkalish}
@@ -1459,8 +1459,8 @@
   id: 42632596
   languages:
   - [CSS, 65942]
-  - [JavaScript, 42506]
-  - [HTML, 29083]
+  - [JavaScript, 42535]
+  - [HTML, 29065]
   - [Ruby, 1963]
   license: null
   main_language: CSS
@@ -1468,14 +1468,14 @@
   open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/12779671?v=3', name: jkoul,
     type: User, url: 'https://github.com/jkoul'}
-  pushed_at: '2015-12-22T01:31:53Z'
+  pushed_at: '2015-12-22T18:20:38Z'
   short_name: LegiTrackDC
-  size: 1667
+  size: 1676
   updated_at: '2015-09-22T20:36:44Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 12,
-    0, 0, 9, 2]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 12, 0,
+    0, 9, 6]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1510,9 +1510,9 @@
   open_issues: 21
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2015-12-22T01:56:56Z'
+  pushed_at: '2015-12-22T15:44:06Z'
   short_name: dcaf_case_management
-  size: 4017
+  size: 4015
   updated_at: '2015-12-19T23:42:54Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1569,7 +1569,7 @@
     thumbnailUrl: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 4,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 6,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8992133?v=3', contributions: 2,
     link: 'https://github.com/coachpacman', name: coachpacman}
@@ -1592,9 +1592,9 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-08T13:29:19Z'
+  pushed_at: '2015-12-22T16:14:37Z'
   short_name: school-modernization
-  size: 5
+  size: 8
   updated_at: '2015-12-08T04:21:48Z'
   watchers: 4
 - activity: [0, 0, 7, 0, 0, 0, 1, 2, 20, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
