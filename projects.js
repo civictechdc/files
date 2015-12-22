@@ -322,14 +322,14 @@ projects([
         }, 
         "main_language": "Java", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 63, 
+        "open_issues": 66, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-10T20:37:28Z", 
+        "pushed_at": "2015-12-22T01:14:19Z", 
         "short_name": "districthousing", 
         "size": 21728, 
         "updated_at": "2015-12-04T19:40:07Z", 
@@ -908,7 +908,7 @@ projects([
     }, 
     {
         "activity": [
-            4, 
+            0, 
             2, 
             0, 
             10, 
@@ -917,49 +917,49 @@ projects([
             6, 
             1, 
             7, 
-            4, 
-            9, 
-            3, 
-            2, 
-            9, 
-            1, 
-            1, 
-            0, 
-            4, 
-            3, 
-            5, 
-            1, 
-            0, 
-            2, 
-            0, 
-            0, 
-            5, 
-            1, 
-            10, 
-            10, 
-            1, 
+            6, 
             7, 
+            3, 
+            2, 
+            9, 
+            1, 
             1, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            0, 
-            0, 
+            4, 
             3, 
             6, 
+            0, 
+            0, 
             2, 
             0, 
+            0, 
+            5, 
             1, 
-            4, 
-            1, 
-            4, 
+            10, 
             11, 
-            4
+            2, 
+            5, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            0, 
+            0, 
+            4, 
+            5, 
+            2, 
+            0, 
+            2, 
+            4, 
+            0, 
+            6, 
+            9, 
+            7
         ], 
         "ci": {
             "codeclimate": true, 
@@ -997,7 +997,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 203, 
+                "contributions": 204, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -1102,7 +1102,7 @@ projects([
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 35, 
+        "forks": 36, 
         "help_wanted": [], 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc.github.com", 
@@ -1110,7 +1110,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                127939
+                127931
             ], 
             [
                 "JavaScript", 
@@ -1144,16 +1144,16 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-21T05:57:35Z", 
+        "pushed_at": "2015-12-21T21:03:31Z", 
         "short_name": "codefordc.github.com", 
-        "size": 17481, 
+        "size": 17482, 
         "updated_at": "2015-12-20T01:50:18Z", 
         "watchers": 21
     }, 
     {
         "activity": [
             3, 
-            4, 
+            3, 
             0, 
             0, 
             0, 
@@ -2170,7 +2170,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "master", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 15, 
+        "forks": 16, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -2226,8 +2226,8 @@ projects([
         "pushed_at": "2015-12-21T13:16:39Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 35001, 
-        "updated_at": "2015-10-28T01:25:42Z", 
-        "watchers": 15
+        "updated_at": "2015-12-22T01:50:46Z", 
+        "watchers": 16
     }, 
     {
         "activity": [
@@ -3172,8 +3172,8 @@ projects([
             0, 
             0, 
             0, 
-            20, 
-            20, 
+            26, 
+            14, 
             0, 
             1, 
             0, 
@@ -3345,40 +3345,40 @@ projects([
             3, 
             0, 
             3, 
-            0, 
             1, 
             0, 
             0, 
             0, 
             0, 
-            15, 
-            40, 
+            0, 
+            20, 
+            35, 
             36, 
             0, 
-            53, 
-            15, 
+            67, 
             1, 
+            1, 
+            4, 
+            25, 
             0, 
             27, 
-            2, 
-            26, 
-            9, 
-            6, 
+            10, 
+            4, 
             15, 
             0, 
             7, 
             0, 
             6, 
             0, 
-            42, 
-            38, 
+            70, 
+            10, 
             0, 
-            0, 
-            8, 
+            2, 
+            6, 
             3, 
+            2, 
+            8, 
             0, 
-            9, 
-            1, 
             13, 
             0, 
             0, 
@@ -3441,7 +3441,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 99, 
+                "contributions": 100, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3477,7 +3477,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/453900?v=3", 
-                "contributions": 10, 
+                "contributions": 11, 
                 "link": "https://github.com/rdeprey", 
                 "name": "rdeprey"
             }, 
@@ -3629,7 +3629,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                64873
+                64852
             ], 
             [
                 "JavaScript", 
@@ -3655,9 +3655,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-11-10T22:19:59Z", 
+        "pushed_at": "2015-12-22T00:12:04Z", 
         "short_name": "clean-slate", 
-        "size": 10681, 
+        "size": 10014, 
         "updated_at": "2015-11-21T13:42:19Z", 
         "watchers": 15
     }, 
@@ -3671,12 +3671,12 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            34, 
+            2, 
+            32, 
             2, 
             19, 
-            0, 
             7, 
+            0, 
             0, 
             0, 
             0, 
@@ -3833,15 +3833,14 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            107, 
-            49, 
-            5, 
+            28, 
+            82, 
+            46, 
+            6, 
             2, 
-            1, 
+            0, 
             0, 
             1, 
-            0, 
             0, 
             0, 
             0, 
@@ -3849,6 +3848,7 @@ projects([
             0, 
             0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
@@ -4246,9 +4246,9 @@ projects([
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4371,12 +4371,18 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 6, 
+                "contributions": 19, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/mkalish", 
+                "name": "mkalish"
             }
         ], 
-        "contributors_count": 1, 
+        "contributors_count": 2, 
         "created_at": "2015-09-17T03:30:03Z", 
         "default_branch": "gh-pages", 
         "description": "", 
@@ -4388,15 +4394,19 @@ projects([
         "languages": [
             [
                 "CSS", 
-                8988
-            ], 
-            [
-                "HTML", 
-                5471
+                65942
             ], 
             [
                 "JavaScript", 
-                1608
+                42506
+            ], 
+            [
+                "HTML", 
+                29083
+            ], 
+            [
+                "Ruby", 
+                1963
             ]
         ], 
         "license": null, 
@@ -4409,9 +4419,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/jkoul"
         }, 
-        "pushed_at": "2015-11-18T16:16:42Z", 
+        "pushed_at": "2015-12-22T01:31:53Z", 
         "short_name": "LegiTrackDC", 
-        "size": 1616, 
+        "size": 1667, 
         "updated_at": "2015-09-22T20:36:44Z", 
         "watchers": 0
     }, 
@@ -4513,7 +4523,7 @@ projects([
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Javascript frontends for abortion case management systems", 
-        "forks": 5, 
+        "forks": 7, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4543,16 +4553,16 @@ projects([
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 17, 
+        "open_issues": 21, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2015-12-21T02:29:41Z", 
+        "pushed_at": "2015-12-22T01:56:56Z", 
         "short_name": "dcaf_case_management", 
-        "size": 3974, 
+        "size": 4017, 
         "updated_at": "2015-12-19T23:42:54Z", 
         "watchers": 0
     }, 
@@ -4609,7 +4619,7 @@ projects([
             0, 
             0, 
             1, 
-            0
+            1
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4620,30 +4630,30 @@ projects([
         "civic_json": null, 
         "contributors": [], 
         "contributors_count": 0, 
-        "created_at": "2015-12-07T19:39:46Z", 
-        "default_branch": "wip", 
-        "description": "DC Law - statutes and code - in xml format.", 
+        "created_at": "2015-12-08T00:12:34Z", 
+        "default_branch": "master", 
+        "description": "", 
         "forks": 0, 
         "help_wanted": [], 
         "homepage": null, 
-        "html_url": "https://github.com/DCCouncil/dc-law-xml", 
-        "id": 47574820, 
+        "html_url": "https://github.com/DCCouncil/dc-law", 
+        "id": 47587496, 
         "languages": [], 
         "license": null, 
         "main_language": null, 
         "name": "DC Code Metadata", 
-        "open_issues": 0, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4590660?v=3", 
             "name": "DCCouncil", 
             "type": "Organization", 
             "url": "https://github.com/DCCouncil"
         }, 
-        "pushed_at": "2015-12-07T19:47:05Z", 
-        "short_name": "dc-law-xml", 
-        "size": 33519, 
-        "updated_at": "2015-12-07T23:40:57Z", 
-        "watchers": 0
+        "pushed_at": "2015-12-21T21:22:15Z", 
+        "short_name": "dc-law", 
+        "size": 30, 
+        "updated_at": "2015-12-11T17:48:34Z", 
+        "watchers": 1
     }, 
     {
         "activity": [
@@ -4773,7 +4783,7 @@ projects([
         "created_at": "2015-11-17T01:01:13Z", 
         "default_branch": "master", 
         "description": "Looking at fifteen years of school modernization funds", 
-        "forks": 2, 
+        "forks": 3, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/school-modernization", 
@@ -4810,8 +4820,8 @@ projects([
             0, 
             1, 
             2, 
-            19, 
-            2, 
+            20, 
+            1, 
             1, 
             0, 
             0, 
@@ -4847,8 +4857,8 @@ projects([
             0, 
             0, 
             4, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4986,8 +4996,8 @@ projects([
             0, 
             0, 
             29, 
-            26, 
             28, 
+            26, 
             0, 
             0, 
             0, 
@@ -5190,7 +5200,7 @@ projects([
         }, 
         "main_language": null, 
         "name": "Welcome Wagon", 
-        "open_issues": 1, 
+        "open_issues": 2, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -5200,7 +5210,7 @@ projects([
         "pushed_at": "2015-12-17T15:02:20Z", 
         "short_name": "welcomewagon", 
         "size": 3, 
-        "updated_at": "2015-12-17T15:16:44Z", 
-        "watchers": 1
+        "updated_at": "2015-12-22T00:41:44Z", 
+        "watchers": 2
     }
 ])
