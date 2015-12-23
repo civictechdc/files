@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1449249912000, 
@@ -73,7 +73,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1447431964000, 
@@ -100,7 +100,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446219481000, 
@@ -166,7 +166,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1326383071000, 
@@ -254,22 +254,22 @@
             "name": "Front End Hack Night - Intro to Git", 
             "status": "upcoming", 
             "time": 1452555000000, 
-            "updated": 1450212614000, 
+            "updated": 1450888708000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "700 6th Street, NW, #410", 
+                "address_1": "1325 G Street, NW, 3rd Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23283742, 
-                "lat": 38.898994000000002, 
-                "lon": -77.020294000000007, 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "lon": -77.031006000000005, 
                 "name": "Social Tables", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1450570901000, 
@@ -374,7 +374,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1448482603000, 
@@ -516,7 +516,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1450148912000, 
