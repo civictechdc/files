@@ -479,6 +479,46 @@ calendar({
             "yes_rsvp_count": 26
         }, 
         {
+            "created": 1448552700000, 
+            "description": "<p>So many data science talks focus on the \"sexier\" side of data science - algorithms, models, visualizations and even data pipelines. However, nothing is sexier than turning an algorithm or model into a sustainable product that brings gains to you or your company. And a sustainable product is the outcome of skills and focus on the software and architecture side of the house. So come learn (or sharpen) your software skills and earn the admiration of everyone you work with.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:15 PM -- <i>Visualizing Datasets with Java Web Applications and D3\u00a0- Mike Machovec and</i><i>\u00a0Ryan Blace</i></p> <p>8:30 PM -- Post event drinks</p> <p><b>Talk</b></p> <p><b><i>Visualizing Datasets with Java Web Applications and D3</i></b></p> <p><br/>This talk follows the development of a RESTful Java web application for visualizing board game statistics from <a href=\"http://boardgamegeek.com/\">boardgamegeek.com</a>, which allows users to log individual board game play results, such as participating players, ending game scores, and game winner(s).\u00a0 These logged events are then able to be accessed via a RESTful API.\u00a0 This talk focuses on a Java web application that uses this API to access the logged plays and summarizes those plays using various visualizations.\u00a0 Variations of board games and resulting logged plays will be briefly discussed, but the primary focus will be on the considerations made at the business and presentation tiers for conveying this dataset, such as data acquisition, REST service conventions, visualization methods, and technology selection for implementation.</p> <p><br/><b>Speakers</b></p> <p><a href=\"mailto:[masked]\">Mike </a>is a senior software engineer at Asymmetrik with over 10 years of experience developing Enterprise Java Web Applications. \u00a0He received his master\u2019s degree in Computer Science from Johns Hopkins University with a focus on Software Engineering and Enterprise Web Computing. Mike enjoys playing board games with his wife and friends in his spare time and has been gathering play statistics for the past year.</p> <p>Ryan is the strategic technical lead at Asymmetrik and an experienced computer science professional with over 13 years of systems architecture, data visualization and analysis, and software development experience. His passion for technology drives him to build beautiful and functional applications. Ryan holds a Masters in Computer Science from Virginia Tech and an undergrad degree in Computer Engineering from the University of Maryland at College Park. In his spare time, Ryan likes to get lost mountain biking in the woods of the Patapsco Valley.</p> <p><b>Company</b></p> <p><a href=\"http://asymmetrik.com/\">Asymmetrik</a>\u00a0is a high-end technology and analytics firm whose agile methodology enable a mission positive impact by tackling big problems with small teams. Our business is to increase our customer\u2019s productivity by combining their domain knowledge and business problems with our preeminent system expertise.\u00a0</p> <p>Location</p> <p>JHU APL Building 200 is located in the South Campus. There is ample parking around the building.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/227035252/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "227035252", 
+            "maybe_rsvp_count": 0, 
+            "name": "Software Side of Data Science", 
+            "rsvp_limit": 150, 
+            "status": "upcoming", 
+            "time": 1453937400000, 
+            "updated": 1450842668000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "11100 Johns Hopkins Road", 
+                "city": "Laurel", 
+                "country": "us", 
+                "id": 11286692, 
+                "lat": 39.164036000000003, 
+                "lon": -76.896636999999998, 
+                "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "20723"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 36
+        }, 
+        {
             "created": 1450148912000, 
             "description": "<p>Start the new year by learning to code! We will be going over our <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual workshop setting.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440226/", 
