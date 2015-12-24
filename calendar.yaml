@@ -45,7 +45,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 43
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -76,6 +76,62 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 47
+- created: 1450858515000
+  description: "<p>For our first Data Science DC Meetup of 2016, we will be delving\
+    \ into how to scale up unsupervised learning -- the process of finding structure\
+    \ and groups in unlabeled data. Typical off-the-shelf clustering algorithms require\
+    \ painful operations such as computing a distance measure of all pairs of items.\
+    \ Shrayes Ramesh, data scientist at L-3 Data Tactics, will walk through the challenges\
+    \ and lessons he's learned when trying to cluster large-scale data distributed\
+    \ across many machines.\_</p> <p><br/><b>Agenda:</b></p> <p>\u2022\_6:30pm --\
+    \ Networking, Empanadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction,\
+    \ Announcements</p> <p>\u2022\_7:15pm -- Presentations and Discussion</p> <p>\u2022\
+    \_8:30pm -- Data Drinks (Tonic, 2036 G Street NW)</p> <p><b>Abstract:</b></p>\
+    \ <p>Unsupervised clustering is a useful approach to partitioning massive datasets\
+    \ into meaningful subpopulations. However, as data sets get larger, many traditional\
+    \ algorithms have difficultly scaling.\_ Here, I motivate the use of ensemble\
+    \ clustering as a scalable, robust approach to clustering at large, distributed\
+    \ datasets. The three components of ensemble clustering: (1) generating first-stage\
+    \ clusters, (2) aligning clustering output, and (3) aggregation and voting will\
+    \ be explained in a walkthrough demonstration and their nuances discussed. Finally,\
+    \ I will show some examples of clustering output and talk about extensions that\
+    \ can be made to the ensemble clustering framework that lend itself nicely to\
+    \ other modern unsupervised learning techniques.</p> <p><b>Bio:</b></p> <p>Shrayes\
+    \ Ramesh is a Senior Data Scientist at L-3. He has spent the past two years on\
+    \ a cybersecurity research program, where he researches, builds and implements\
+    \ unsupervised learning and outlier detection models at scale.\_Previously, he\
+    \ has worked teaching and evangelizing data science and big data methodologies\
+    \ for EMC as part of their education and training department. In a prior life,\
+    \ he has completed\_doctorate studies in Economics at the University of Maryland\
+    \ and undergraduate studies in Economics and Cognitive Science at University of\
+    \ Virginia. Browse his nascent github and blog at\_<a href=\"http://github.com/shrayesramesh\"\
+    >github.com/shrayesramesh</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored\
+    \ by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
+    >George Washington Business School MS in Business Analytics Program</a>,\_<a href=\"\
+    http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://www.qubole.com/\"\
+    >Qubole</a>,\_<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"\
+    http://www.blulabs.com/\">BlueLabs</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Booz Allen Hamilton</a>, and <a href=\"http://corp.aol.com/\">AOL</a>.\_(Would\
+    \ your organization like to sponsor too? Please get in touch!)\_</p>"
+  event_url: http://www.meetup.com/Data-Science-DC/events/227586315/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '227586315'
+  maybe_rsvp_count: 0
+  name: Ensemble Clustering as a Scalable Solution
+  rsvp_limit: 500
+  status: upcoming
+  time: 1452036600000
+  updated: 1450926964000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 71
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -121,7 +177,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -150,7 +206,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
     \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
@@ -187,7 +243,7 @@ other:
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -513,7 +569,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -578,7 +634,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 69
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\

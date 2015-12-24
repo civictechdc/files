@@ -36,7 +36,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1449249912000, 
@@ -76,6 +76,45 @@
             "yes_rsvp_count": 47
         }, 
         {
+            "created": 1450858515000, 
+            "description": "<p>For our first Data Science DC Meetup of 2016, we will be delving into how to scale up unsupervised learning -- the process of finding structure and groups in unlabeled data. Typical off-the-shelf clustering algorithms require painful operations such as computing a distance measure of all pairs of items. Shrayes Ramesh, data scientist at L-3 Data Tactics, will walk through the challenges and lessons he's learned when trying to cluster large-scale data distributed across many machines.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic, 2036 G Street NW)</p> <p><b>Abstract:</b></p> <p>Unsupervised clustering is a useful approach to partitioning massive datasets into meaningful subpopulations. However, as data sets get larger, many traditional algorithms have difficultly scaling.\u00a0 Here, I motivate the use of ensemble clustering as a scalable, robust approach to clustering at large, distributed datasets. The three components of ensemble clustering: (1) generating first-stage clusters, (2) aligning clustering output, and (3) aggregation and voting will be explained in a walkthrough demonstration and their nuances discussed. Finally, I will show some examples of clustering output and talk about extensions that can be made to the ensemble clustering framework that lend itself nicely to other modern unsupervised learning techniques.</p> <p><b>Bio:</b></p> <p>Shrayes Ramesh is a Senior Data Scientist at L-3. He has spent the past two years on a cybersecurity research program, where he researches, builds and implements unsupervised learning and outlier detection models at scale.\u00a0Previously, he has worked teaching and evangelizing data science and big data methodologies for EMC as part of their education and training department. In a prior life, he has completed\u00a0doctorate studies in Economics at the University of Maryland and undergraduate studies in Economics and Cognitive Science at University of Virginia. Browse his nascent github and blog at\u00a0<a href=\"http://github.com/shrayesramesh\">github.com/shrayesramesh</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://www.qubole.com/\">Qubole</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.blulabs.com/\">BlueLabs</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and <a href=\"http://corp.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/227586315/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "227586315", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ensemble Clustering as a Scalable Solution", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1452036600000, 
+            "updated": 1450926964000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 71
+        }, 
+        {
             "created": 1447431964000, 
             "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
@@ -100,7 +139,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446219481000, 
@@ -128,7 +167,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1443771281000, 
@@ -166,7 +205,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1326383071000, 
@@ -476,7 +515,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1448552700000, 
@@ -516,7 +555,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1450148912000, 
