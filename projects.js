@@ -98,7 +98,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1123795?v=3", 
-                "contributions": 752, 
+                "contributions": 753, 
                 "link": "https://github.com/jrunningen", 
                 "name": "jrunningen"
             }, 
@@ -287,7 +287,7 @@ projects([
             ], 
             [
                 "Ruby", 
-                195998
+                196472
             ], 
             [
                 "HTML", 
@@ -322,16 +322,16 @@ projects([
         }, 
         "main_language": "Java", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 67, 
+        "open_issues": 66, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-24T20:32:50Z", 
+        "pushed_at": "2015-12-26T06:45:49Z", 
         "short_name": "districthousing", 
-        "size": 21729, 
+        "size": 21730, 
         "updated_at": "2015-12-04T19:40:07Z", 
         "watchers": 28
     }, 
@@ -3024,16 +3024,16 @@ projects([
             0, 
             0, 
             0, 
-            20, 
-            56, 
-            65, 
-            17, 
-            47, 
-            51, 
+            39, 
+            38, 
+            66, 
+            16, 
+            52, 
+            45, 
             6, 
+            2, 
             1, 
-            1, 
-            1, 
+            0, 
             6, 
             0, 
             0, 
@@ -3054,8 +3054,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             4, 
+            0, 
             0, 
             0, 
             0, 

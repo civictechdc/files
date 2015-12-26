@@ -21,7 +21,7 @@
     thumbnailUrl: https://codefordc.github.io/districthousing/img/district-housing-logo-small.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 752,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 753,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 133,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
@@ -92,7 +92,7 @@
   id: 10896437
   languages:
   - [Java, 1908503]
-  - [Ruby, 195998]
+  - [Ruby, 196472]
   - [HTML, 87944]
   - [CSS, 49846]
   - [JavaScript, 26140]
@@ -102,12 +102,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 67
+  open_issues: 66
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-24T20:32:50Z'
+  pushed_at: '2015-12-26T06:45:49Z'
   short_name: districthousing
-  size: 21729
+  size: 21730
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
 - activity: [0, 0, 4, 1, 0, 0, 3, 5, 0, 1, 4, 0, 2, 6, 0, 4, 0, 5, 2, 0, 0, 3, 0,
@@ -974,8 +974,8 @@
   size: 565
   updated_at: '2015-12-05T16:58:51Z'
   watchers: 9
-- activity: [0, 0, 0, 0, 0, 0, 0, 20, 56, 65, 17, 47, 51, 6, 1, 1, 1, 6, 0, 0, 0,
-    0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 39, 38, 66, 16, 52, 45, 6, 2, 1, 0, 6, 0, 0, 0,
+    0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
