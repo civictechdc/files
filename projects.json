@@ -1,18 +1,18 @@
 [
     {
         "activity": [
-            10, 
-            12, 
-            23, 
-            27, 
-            23, 
-            69, 
-            58, 
-            17, 
-            40, 
+            15, 
+            7, 
+            34, 
+            19, 
+            24, 
+            70, 
+            60, 
+            15, 
+            35, 
             0, 
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             11, 
             5, 
@@ -22,10 +22,10 @@
             0, 
             4, 
             0, 
-            5, 
-            1, 
-            4, 
-            4, 
+            6, 
+            0, 
+            6, 
+            2, 
             0, 
             0, 
             9, 
@@ -33,8 +33,8 @@
             1, 
             9, 
             0, 
-            19, 
-            54, 
+            40, 
+            33, 
             10, 
             0, 
             2, 
@@ -4245,9 +4245,9 @@
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4490,7 +4490,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 27, 
+                "contributions": 31, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4535,11 +4535,11 @@
             ], 
             [
                 "CSS", 
-                20663
+                20664
             ], 
             [
                 "Ruby", 
-                20496
+                20424
             ], 
             [
                 "JavaScript", 
@@ -4553,16 +4553,16 @@
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 21, 
+        "open_issues": 20, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2015-12-27T14:31:58Z", 
+        "pushed_at": "2015-12-29T04:19:43Z", 
         "short_name": "dcaf_case_management", 
-        "size": 4015, 
+        "size": 4101, 
         "updated_at": "2015-12-19T23:42:54Z", 
         "watchers": 0
     }, 

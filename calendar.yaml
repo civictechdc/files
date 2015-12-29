@@ -131,7 +131,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 176
+  yes_rsvp_count: 177
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -206,7 +206,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
     \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
@@ -291,7 +291,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1450148912000
   description: "<p>Join us for our Intro to Git night where we will be going over\
     \ the basics of using the most popular VCS (We'll elaborate on what that is at\
@@ -446,7 +446,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 123
+  yes_rsvp_count: 125
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -569,7 +569,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -680,7 +680,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -709,7 +709,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -731,6 +731,42 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1451357840000
+  description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\"\
+    \ /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"\
+    Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will\
+    \ reflect on the accountability discussions that has been occurring with respect\
+    \ to the IANA transition to discuss internet accountability in general. This salon-style\
+    \ session will use the IANA accountability debate to try to create 10,000-foot\
+    \ solutions.</p> <p>Speakers:</p> <p><b>\u2022\_<i>Steve del Bianco,</i> NetCoalition</b></p>\
+    \ <p><b>\u2022\_<i>Christian Dawson</i>, I2C</b></p> <p>\u2022 <i>More to TBD\_\
+    </i></p> <p>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>6:45pm: Announcements\_\
+    </p> <p>7:00pm: Panel Introductions\_</p> <p>7:15pm: Panel</p> <p>8:00pm: Q&amp;A</p>\
+    \ <p>8:30pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of\
+    \ a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
+    >\_more than twenty</a>\_legal hacking, technology, or innovation groups around\
+    \ the world.</p> <p>A legal hacker is someone who cares about the intersection\
+    \ of law and technology and seeks to improve legal practice through technology\
+    \ while simultaneously using legal skills to promote technological innovation\
+    \ and exploration.</p> <p>#LegalHack\_</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/DCLegalHackers/events/227686888/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  id: '227686888'
+  maybe_rsvp_count: 0
+  name: Hacking Accountability in Internet Governance w/ ISOC-DC!
+  status: upcoming
+  time: 1454626800000
+  updated: 1451358433000
+  utc_offset: -18000000
+  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
+    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 12
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -778,7 +814,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -871,7 +907,7 @@ other:
     </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvfbmb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227685110/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -886,7 +922,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -905,7 +941,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1032,7 +1068,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1159,7 +1195,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
