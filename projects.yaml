@@ -246,7 +246,7 @@
   updated_at: '2015-09-25T22:28:35Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -374,7 +374,7 @@
   size: 17482
   updated_at: '2015-12-20T01:50:18Z'
   watchers: 21
-- activity: [3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -676,8 +676,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0, 3, 2, 2, 2, 3, 2, 2, 0, 0, 0, 1, 1, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 5, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 1, 2, 0, 6, 2, 1, 2, 2, 4, 1, 2, 2, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1145,7 +1145,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 32
+  forks: 31
   help_wanted:
   - assignee: null
     body: "Small content changes needed for the entire current code base (as opposed\
