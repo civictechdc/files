@@ -909,19 +909,19 @@ projects([
     {
         "activity": [
             1, 
-            1, 
             9, 
+            1, 
             0, 
-            2, 
             4, 
+            2, 
             1, 
             8, 
             8, 
-            6, 
+            7, 
+            0, 
+            11, 
             1, 
-            9, 
-            2, 
-            2, 
+            1, 
             0, 
             2, 
             3, 
@@ -932,12 +932,12 @@ projects([
             0, 
             0, 
             5, 
-            0, 
             1, 
+            0, 
             20, 
             1, 
-            2, 
-            6, 
+            7, 
+            1, 
             0, 
             0, 
             0, 
@@ -948,18 +948,18 @@ projects([
             2, 
             0, 
             0, 
-            0, 
-            5, 
+            3, 
+            2, 
             6, 
             0, 
             0, 
             5, 
             1, 
-            2, 
-            8, 
-            5, 
+            3, 
+            11, 
+            1, 
             7, 
-            0
+            2
         ], 
         "ci": {
             "codeclimate": true, 
@@ -4774,7 +4774,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
-                "contributions": 2, 
+                "contributions": 3, 
                 "link": "https://github.com/tomBeach", 
                 "name": "tomBeach"
             }, 
@@ -4809,19 +4809,19 @@ projects([
         "languages": [
             [
                 "HTML", 
-                18406
+                18297
+            ], 
+            [
+                "JavaScript", 
+                16759
             ], 
             [
                 "CSS", 
-                11282
+                14336
             ], 
             [
                 "R", 
                 10821
-            ], 
-            [
-                "JavaScript", 
-                4197
             ]
         ], 
         "license": {
@@ -4839,9 +4839,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2015-12-31T22:15:35Z", 
+        "pushed_at": "2016-01-01T18:46:54Z", 
         "short_name": "school-modernization", 
-        "size": 1078, 
+        "size": 1084, 
         "updated_at": "2015-12-30T21:11:01Z", 
         "watchers": 4
     }, 
@@ -5179,8 +5179,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0
         ], 
         "ci": {

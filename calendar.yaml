@@ -56,8 +56,9 @@ other:
     \ \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm\
     \ Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>*\
     \ Bob Simons -\_National Oceanic and Atmospheric Administration<br/>*\_Carson\
-    \ Evans - Digital Ambit\_<br/>* TBA\_</p> <p>7:55pm - 8:00pm Refill your beverage\_\
-    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+    \ Evans - Digital Ambit\_<br/>*\_Nagesh Kakarlamudi</p> <p>7:55pm - 8:00pm Refill\
+    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
+    \ Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/227211377/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -68,14 +69,14 @@ other:
   name: DC API User Group - January Edition
   status: upcoming
   time: 1452034800000
-  updated: 1449249912000
+  updated: 1451673330000
   utc_offset: -18000000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 79
 - created: 1450858515000
   description: "<p>For our first Data Science DC Meetup of 2016, we will be delving\
     \ into how to scale up unsupervised learning -- the process of finding structure\
@@ -177,7 +178,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 35
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -242,7 +243,7 @@ other:
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1326383071000
   description: "<p>Welcome to the first GeoDC of 2016! We are kicking of the new year\
     \ with a discussion on small satellites and drones. Meet us upstairs at Local\
@@ -274,7 +275,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
     \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
@@ -456,7 +457,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 132
+  yes_rsvp_count: 133
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -539,7 +540,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -613,7 +614,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
