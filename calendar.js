@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1449249912000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 249
+            "yes_rsvp_count": 252
         }, 
         {
             "created": 1447431964000, 
@@ -139,7 +139,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1446219481000, 
@@ -167,7 +167,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1443771281000, 
@@ -205,7 +205,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1326383071000, 
@@ -243,7 +243,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1449702357000, 
@@ -308,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1450570901000, 
@@ -487,7 +487,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446220217000, 
