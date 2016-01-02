@@ -45,7 +45,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 68
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -76,7 +76,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1450858515000
   description: "<p>For our first Data Science DC Meetup of 2016, we will be delving\
     \ into how to scale up unsupervised learning -- the process of finding structure\
@@ -132,7 +132,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 259
+  yes_rsvp_count: 263
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -243,7 +243,7 @@ other:
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1326383071000
   description: "<p>Welcome to the first GeoDC of 2016! We are kicking of the new year\
     \ with a discussion on small satellites and drones. Meet us upstairs at Local\
@@ -275,7 +275,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 51
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
     \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
@@ -302,7 +302,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 56
 - created: 1450148912000
   description: "<p>Join us for our Intro to Git night where we will be going over\
     \ the basics of using the most popular VCS (We'll elaborate on what that is at\
@@ -348,7 +348,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -422,7 +422,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -540,7 +540,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -679,7 +679,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 88
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -951,7 +951,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

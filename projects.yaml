@@ -485,7 +485,7 @@
   updated_at: '2015-11-25T20:50:02Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 10, 13, 8, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
-    0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -726,7 +726,7 @@
   size: 36397
   updated_at: '2015-12-22T01:50:46Z'
   watchers: 16
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -841,7 +841,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -890,7 +890,7 @@
   size: 1004
   updated_at: '2015-11-07T11:28:49Z'
   watchers: 15
-- activity: [0, 0, 0, 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+- activity: [0, 0, 0, 18, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -923,9 +923,9 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 1, 64, 1, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 6, 11, 2, 5, 0, 0, 0, 0, 0, 0, 26, 39, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: ''
@@ -974,8 +974,8 @@
   size: 565
   updated_at: '2015-12-05T16:58:51Z'
   watchers: 9
-- activity: [0, 0, 0, 0, 0, 0, 20, 56, 65, 17, 47, 51, 6, 1, 1, 1, 6, 0, 0, 0, 0,
-    0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 39, 38, 66, 16, 52, 45, 6, 2, 1, 0, 6, 0, 0, 0, 0,
+    0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1077,9 +1077,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 14, 0, 8, 0, 1, 3, 0, 3, 2, 1, 1, 0, 0, 0, 0, 15, 36, 20, 20, 35,
-    33, 0, 1, 26, 3, 13, 21, 7, 12, 3, 0, 7, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13,
-    0, 0, 0, 0, 0, 2, 0]
+- activity: [9, 5, 0, 8, 0, 2, 2, 3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 28, 8, 35, 33,
+    1, 0, 27, 2, 21, 14, 6, 15, 0, 3, 4, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0,
+    0, 0, 0, 0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Reentry Hackathon
@@ -1223,7 +1223,7 @@
   size: 10014
   updated_at: '2015-11-21T13:42:19Z'
   watchers: 15
-- activity: [0, 0, 0, 0, 0, 0, 0, 26, 8, 21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 34, 2, 19, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1277,7 +1277,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 89, 9, 3, 2, 0, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 95, 57, 7, 4, 1, 0, 1, 0, 0,
     0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1377,8 +1377,8 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 8, 8, 10, 22, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 0, 0, 0, 0, 16, 0, 17, 15, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1439,7 +1439,7 @@
   updated_at: '2015-08-24T01:27:32Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0, 0, 7, 1, 1, 3, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 0, 0, 0, 0, 7, 1, 1, 3, 0, 0, 0,
     0, 13, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1544,7 +1544,7 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4,
-    0, 10, 6]
+    0, 10, 9]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1606,7 +1606,7 @@
   size: 1086
   updated_at: '2015-12-30T21:11:01Z'
   watchers: 4
-- activity: [5, 2, 0, 0, 0, 3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 1, 0, 0, 1, 2, 19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1664,7 +1664,7 @@
   size: 559
   updated_at: '2015-12-08T00:24:16Z'
   watchers: 0
-- activity: [0, 0, 0, 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 9, 39, 35, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 18, 29, 0, 0, 0, 0, 0, 0, 0, 0, 15, 40, 28, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
