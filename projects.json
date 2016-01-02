@@ -601,9 +601,9 @@
             0, 
             0, 
             0, 
-            0, 
-            2, 
             1, 
+            2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1152,7 +1152,7 @@
     }, 
     {
         "activity": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -2085,14 +2085,14 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
-            2, 
-            2, 
+            0, 
+            4, 
             0, 
             0, 
-            5, 
-            1, 
+            0, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2119,8 +2119,8 @@
             2, 
             2, 
             2, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -4774,7 +4774,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
-                "contributions": 3, 
+                "contributions": 5, 
                 "link": "https://github.com/tomBeach", 
                 "name": "tomBeach"
             }, 
@@ -4809,19 +4809,15 @@
         "languages": [
             [
                 "HTML", 
-                18297
-            ], 
-            [
-                "JavaScript", 
-                16759
-            ], 
-            [
-                "CSS", 
-                14336
+                15494
             ], 
             [
                 "R", 
                 10821
+            ], 
+            [
+                "CSS", 
+                5514
             ]
         ], 
         "license": {
@@ -4839,9 +4835,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-01T18:46:54Z", 
+        "pushed_at": "2016-01-01T22:36:46Z", 
         "short_name": "school-modernization", 
-        "size": 1084, 
+        "size": 1086, 
         "updated_at": "2015-12-30T21:11:01Z", 
         "watchers": 4
     }, 

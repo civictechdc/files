@@ -195,7 +195,7 @@
   size: 72056
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -374,7 +374,7 @@
   size: 17485
   updated_at: '2015-12-20T01:50:18Z'
   watchers: 21
-- activity: [1, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -676,8 +676,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2, 2, 1, 2, 0, 0, 0, 2, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 2, 1, 4, 2, 3, 0, 4, 2, 2, 2, 2, 1, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1573,7 +1573,7 @@
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 7,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 3,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 5,
     link: 'https://github.com/tomBeach', name: tomBeach}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8992133?v=3', contributions: 2,
     link: 'https://github.com/coachpacman', name: coachpacman}
@@ -1591,10 +1591,9 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [HTML, 18297]
-  - [JavaScript, 16759]
-  - [CSS, 14336]
+  - [HTML, 15494]
   - [R, 10821]
+  - [CSS, 5514]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: HTML
@@ -1602,9 +1601,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-01T18:46:54Z'
+  pushed_at: '2016-01-01T22:36:46Z'
   short_name: school-modernization
-  size: 1084
+  size: 1086
   updated_at: '2015-12-30T21:11:01Z'
   watchers: 4
 - activity: [5, 2, 0, 0, 0, 3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
