@@ -45,7 +45,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 72
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -76,7 +76,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 86
 - created: 1450858515000
   description: "<p>For our first Data Science DC Meetup of 2016, we will be delving\
     \ into how to scale up unsupervised learning -- the process of finding structure\
@@ -132,7 +132,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 268
+  yes_rsvp_count: 270
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -206,7 +206,7 @@ other:
   updated: 1446219481000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 1
   yes_rsvp_count: 50
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
@@ -457,7 +457,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 137
+  yes_rsvp_count: 138
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -614,7 +614,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
