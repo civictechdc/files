@@ -16,12 +16,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "rszwmlyvcbgb", 
+            "id": "xrqknlyvcbgb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - First Timer's\u00ad Night", 
             "status": "upcoming", 
             "time": 1451950200000, 
-            "updated": 1450212001000, 
+            "updated": 1451927018000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S St NW, First Floor", 
@@ -36,7 +36,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1449249912000, 
@@ -73,7 +73,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1450858515000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 276
+            "yes_rsvp_count": 302
         }, 
         {
             "created": 1447431964000, 
@@ -135,11 +135,11 @@ calendar({
             "name": "Ruby on Rails: First Timer's Night!", 
             "status": "upcoming", 
             "time": 1452123000000, 
-            "updated": 1447431964000, 
+            "updated": 1451927041000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1446219481000, 
@@ -163,10 +163,21 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1452123000000, 
-            "updated": 1446219481000, 
+            "updated": 1451930846000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -205,7 +216,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1326383071000, 
@@ -243,7 +254,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1449702357000, 
@@ -267,11 +278,11 @@ calendar({
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1452207600000, 
-            "updated": 1449877850000, 
+            "updated": 1451927075000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1450148912000, 
@@ -288,12 +299,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "rszwmlyvcbpb", 
+            "id": "xrqknlyvcbpb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to Git", 
             "status": "upcoming", 
             "time": 1452555000000, 
-            "updated": 1450888708000, 
+            "updated": 1451927018000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -374,7 +385,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1443565691000, 
@@ -413,7 +424,83 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 144
+            "yes_rsvp_count": 145
+        }, 
+        {
+            "created": 1451932451000, 
+            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>Speaker: Adrian Cockroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/227834701/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Cloud, Enterprise, IaaS, DevOps, Containers, Microservices, AWS, Amazon, Netflix, Ventures, Startups", 
+            "id": "227834701", 
+            "maybe_rsvp_count": 0, 
+            "name": "TechTalks@CloudDC by Adrian Cockroft - Battery Ventures", 
+            "status": "upcoming", 
+            "time": 1452810600000, 
+            "updated": 1451932451000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1680 Capital One Drive", 
+                "city": "McLean", 
+                "country": "us", 
+                "id": 23933274, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Capital One", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1451927019000, 
+            "description": "<p>Start the new year by learning to code! We will be going over our <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual workshop setting.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227834138/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "xrqknlyvcbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night - First Timer's\u00ad Night", 
+            "status": "upcoming", 
+            "time": 1453159800000, 
+            "updated": 1451927019000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "641 S St NW, First Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23929782, 
+                "lat": 38.914551000000003, 
+                "lon": -77.021095000000003, 
+                "name": "iStrategy Labs", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1448482603000, 
@@ -515,7 +602,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1450148912000, 
@@ -532,12 +619,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "rszwmlyvcbhc", 
+            "id": "xrqknlyvcbhc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to the Mean Stack/Isomorphic Javascript", 
             "status": "upcoming", 
             "time": 1453764600000, 
-            "updated": 1450222423000, 
+            "updated": 1451927018000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -592,7 +679,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 96
+        }, 
+        {
+            "created": 1451931941000, 
+            "description": "<p>Data Visualization continues to evolve from a simple \u2018nice to have\u2019 on analysts\u2019 resumes into a new career discipline of its own. Countless books, tutorials and classes have helped individuals master the technical skills necessary to build graphics and images. The difficulty some encounter is converting these technical skills into monetary rewards and benefits. The difficulty can come from finding paid freelance work, seeking a raise from your current employer for your talents, or seeking job opportunities solely focused on data visualization. A few simple concepts can help your clients and employer better appreciate and compensate you based on your ability to design and develop effective data visualizations.\u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJGQ0YzIzZGMzLWEzYzYtNDA1NC05Mjc5LWQ3ODBjYzQ5NGQ0NA.jpg\" /></p> <p>Shay Anderson currently works for PricewaterhouseCoopers (PwC) Forensic Services: Investigative Analytics practice in Washington, DC where he helps clients\u2019 model solutions in response to natural disasters, government regulation, accusations of fraud, potential litigation, and even sophisticated cyber-attacks. Before joining PwC Shay had over 15 years of experience in the fields of financial, data and business analysis, and has worked with Fortune 500 companies, state and federal agencies, small businesses, as well as the US military. Shay earned his first graduate degree in Information Management from the University of Maryland College of Information Studies (iSchool) where his thesis project on effective dashboard design and development received the Dean\u2019s Award for Outstanding Development or Design (2011). \u00a0Shay just recently completed his second graduate degree in Information Visualization from the Maryland Institute College of Art (2015).</p> <p>Staff Sergeant Shay Anderson was Honorably Discharged from the Army National Guard after 15 years of service. He has over two decades of experience in crisis leadership and data visualization. Shay joined the Washington National Guard at seventeen where he was a member of the HHB 2-146 (Field Artillery) which supported the 81st Infantry Brigade. \u00a0Shay served his community and country in peacetime, in the early 90s SSG Anderson was awarded a Washington National Guard Emergency Service Military Ribbon for his courage in fighting wildfires, and in wartime during Operation Iraqi Freedom in 2003 and 2004, for his display of leadership and courage as Sergeant of the Guard commanding security forces at Camps Wolverine and Spearhead in Kuwait. In 2004 he was awarded the Army Commendation Medal.</p> <p>Shay\u2019s proudest moment of national service was in 2003 as a Squad Leader for non-combat soldiers training to become a motorized infantry squad, which upon deployment became responsible for providing security to men and material traveling into and out of Iraq during the first year of Operation Iraqi Freedom. He says that this is proudest moment of service because \u201call of my squad members returned home healthy and without injury.\u201d</p> <p><b><br/></b></p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Monetizing Data Viz</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p>\n\n\n<b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/227834443/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "id": "227834443", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monetizing Data Viz", 
+            "rsvp_limit": 190, 
+            "status": "upcoming", 
+            "time": 1454023800000, 
+            "updated": 1451931941000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1450148912000, 
@@ -609,12 +735,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "rszwmlyvdbcb", 
+            "id": "xrqknlyvdbcb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1454369400000, 
-            "updated": 1450212504000, 
+            "updated": 1451927018000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -657,7 +783,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1326383071000, 
@@ -733,7 +859,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1451511034000, 
@@ -1329,34 +1455,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvhbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1463005800000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
