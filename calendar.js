@@ -36,11 +36,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1449249912000, 
-            "description": "<p>On the first Tuesday of January, we will be kicking off our fourth year of the DC API meetup, a joyous and vibrant occasion possibly on par with the beginning of an entire new calendar year! \u00a0:) \u00a0</p> <p>I know there's always plenty of distractions around this time of year, so go ahead and mark your calendars now. \u00a0There will be plenty to eat, drink, and talk about, plus it'll just be good to see everyone again as we settle back into the new year. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Bob Simons -\u00a0National Oceanic and Atmospheric Administration<br/>*\u00a0Carson Evans - Digital Ambit\u00a0<br/>*\u00a0Nagesh Kakarlamudi</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>On the first Tuesday of January, we will be kicking off our fourth year of the DC API meetup, a joyous and vibrant occasion possibly on par with the beginning of an entire new calendar year! \u00a0:) \u00a0</p> <p>I know there's always plenty of distractions around this time of year, so go ahead and mark your calendars now. \u00a0There will be plenty to eat, drink, and talk about, plus it'll just be good to see everyone again as we settle back into the new year. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Bob Simons -\u00a0National Oceanic and Atmospheric Administration<br/>*\u00a0Nagesh Kakarlamudi - Uniplus<br/>*\u00a0Carson Evans - Digital Ambit\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/227211377/", 
             "group": {
                 "created": 1347647025000, 
@@ -58,7 +58,7 @@ calendar({
             "name": "DC API User Group - January Edition", 
             "status": "upcoming", 
             "time": 1452034800000, 
-            "updated": 1451673330000, 
+            "updated": 1451866567000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -73,7 +73,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1450858515000, 
@@ -112,7 +112,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 272
+            "yes_rsvp_count": 274
         }, 
         {
             "created": 1447431964000, 
@@ -139,7 +139,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1446219481000, 
@@ -166,12 +166,12 @@ calendar({
             "updated": 1446219481000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 50
         }, 
         {
             "created": 1443771281000, 
-            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\" /></p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\u00a0</p> <p><br/>Here's what's on the agenda:</p> <p>\u2022\u00a0A\u00a0DC Legal Hackers 2015 year in review.\u00a0</p> <p>\u2022\u00a0An awards ceremony for\u00a0the best legal hacking of 2015. (See the\u00a0<a href=\"http://dclegalhackers.org/blog/2015/01/06/the2014lehackiewinners.html\">2014 winners</a>\u00a0here).</p> <p>\u2022\u00a0<a href=\"https://soundcloud.com/jazdux\">DJ JAX:DUX\u00a0</a>is back to soundtrack our evening!</p> <p>\u2022\u00a0An array of\u00a0the most delicious tacos\u00a0you'll ever nibble on.</p> <p>\u2022\u00a0Drinks and celebration\u00a0with folks in the District working hard to improve law with technology and technology with law.\u00a0</p> <p>Learn more at:\u00a0<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free, but space is limited to 100, be sure to RSVP here for entry.\u00a0<br/></b></p>", 
+            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\" /></p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\u00a0</p> <p><br/>Here's what's on the agenda:</p> <p>\u2022\u00a0A\u00a0DC Legal Hackers 2015 year in review.\u00a0</p> <p>\u2022\u00a0An awards ceremony for\u00a0the best legal hacking of 2015. (See the\u00a0<a href=\"http://dclegalhackers.org/blog/2015/01/06/the2014lehackiewinners.html\">2014 winners</a>\u00a0here).</p> <p>\u2022\u00a0<a href=\"https://soundcloud.com/jazdux\">DJ JAZ:DUX\u00a0</a>is back to soundtrack our evening!</p> <p>\u2022\u00a0An array of\u00a0the most delicious tacos\u00a0you'll ever nibble on.</p> <p>\u2022\u00a0Drinks and celebration\u00a0with folks in the District working hard to improve law with technology and technology with law.\u00a0</p> <p>Learn more at:\u00a0<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free, but space is limited to 100, be sure to RSVP here for entry.\u00a0<br/></b></p>", 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
             "group": {
                 "created": 1372871984000, 
@@ -190,7 +190,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1452124800000, 
-            "updated": 1451394141000, 
+            "updated": 1451857197000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F Street NW, Washington, DC 20004", 
@@ -205,7 +205,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1326383071000, 
@@ -243,7 +243,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1449702357000, 
@@ -271,7 +271,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1450148912000, 
@@ -308,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1450570901000, 
@@ -374,7 +374,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1443565691000, 
@@ -487,7 +487,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446220217000, 
@@ -592,7 +592,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1450148912000, 
@@ -657,7 +657,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1451357840000, 
@@ -733,7 +733,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1451511034000, 
