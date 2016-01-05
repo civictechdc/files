@@ -1,6 +1,6 @@
-- activity: [12, 23, 27, 23, 69, 58, 17, 40, 0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0,
-    5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 0, 2, 0, 5, 0]
+- activity: [7, 34, 19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 6,
+    0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 2, 0, 5, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -1000,7 +1000,7 @@
   default_branch: master
   description: "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser\
     \ plug-in\u2026and beyond?"
-  forks: 4
+  forks: 5
   help_wanted: []
   homepage: http://booksfordc.org
   html_url: https://github.com/emanuelfeld/booksfordc
@@ -1548,7 +1548,28 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4,
     0, 10, 12]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json: null
+  civic_json:
+    bornAt: The halls of power
+    categories:
+    - {category: Cartography}
+    - {category: Data Viz}
+    - {category: DC Schools}
+    - {category: Public Service}
+    communityPartner: {}
+    conformsTo: http://codefordc.org/resources/specification.html
+    contact: {email: '', name: DC Public School Modernization Spending, twitter: ''}
+    data: {}
+    geography: Washington D.C.
+    governmentPartner: {}
+    moreInfo: ''
+    needs:
+    - {need: Designers}
+    - {need: Smiles}
+    - {need: Patience}
+    politicalEntity: {}
+    status: Ideation
+    thumbnailUrl: https://github.com/codefordc/school-modernization
+    type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 9,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
