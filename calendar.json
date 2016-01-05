@@ -19,24 +19,26 @@
             "id": "xrqknlyvcbgb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - First Timer's\u00ad Night", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1451950200000, 
-            "updated": 1451927018000, 
+            "updated": 1451944731000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "641 S St NW, First Floor", 
+                "address_1": "641 S St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23929782, 
-                "lat": 38.914551000000003, 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
                 "lon": -77.021095000000003, 
-                "name": "iStrategy Labs", 
+                "name": "iStrategyLabs", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "DC", 
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1449249912000, 
@@ -73,7 +75,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1450858515000, 
@@ -112,7 +114,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 302
+            "yes_rsvp_count": 315
         }, 
         {
             "created": 1447431964000, 
@@ -135,11 +137,22 @@
             "name": "Ruby on Rails: First Timer's Night!", 
             "status": "upcoming", 
             "time": 1452123000000, 
-            "updated": 1451927041000, 
+            "updated": 1451938524000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1446219481000, 
@@ -177,7 +190,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -198,10 +211,10 @@
             "id": "225773453", 
             "maybe_rsvp_count": 0, 
             "name": "Le Hackies 2", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1452124800000, 
-            "updated": 1451857197000, 
+            "updated": 1451948703000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "600 F Street NW, Washington, DC 20004", 
@@ -216,7 +229,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1326383071000, 
@@ -254,7 +267,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1449702357000, 
@@ -282,7 +295,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1450148912000, 
@@ -302,9 +315,10 @@
             "id": "xrqknlyvcbpb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to Git", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1452555000000, 
-            "updated": 1451927018000, 
+            "updated": 1451940197000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -319,7 +333,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1450570901000, 
@@ -424,11 +438,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 148
         }, 
         {
             "created": 1451932451000, 
-            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>Speaker: Adrian Cockroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
+            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>Speaker: Adrian Cockroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/227834701/", 
             "group": {
@@ -448,7 +462,7 @@
             "name": "TechTalks@CloudDC by Adrian Cockroft - Battery Ventures", 
             "status": "upcoming", 
             "time": 1452810600000, 
-            "updated": 1451932451000, 
+            "updated": 1451939057000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -463,7 +477,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1451927019000, 
@@ -500,7 +514,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1448482603000, 
@@ -574,7 +588,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446220217000, 
@@ -639,7 +653,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1448552700000, 
@@ -682,6 +696,44 @@
             "yes_rsvp_count": 96
         }, 
         {
+            "created": 1451935931000, 
+            "description": "<p>Comcast Labs DC is hosting a screening of a powerful documentary film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority software engineers and explores the reasons for this gap, highlighting breakthrough efforts that are producing more diverse programmers. CODE asks: what would society gain from having more women and minorities code and how do we get there?\u00a0</p> <p>Click <a href=\"http://www.codedoc.co/about/\" class=\"linkified\">http://www.codedoc.co/about/</a> to view the trailer, and if you\u2019re intrigued, <b>please RSVP</b> to reserve a spot.\u00a0<b>Light refreshments will be served</b></p> <p>Hope to see you there!</p> <p>Navdeep Martin<br/>Senior Product Manager<br/>Comcast Labs DC</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227836436/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "227836436", 
+            "maybe_rsvp_count": 0, 
+            "name": "CODE: Debugging the Gender Gap @Comcast Labs", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1454020200000, 
+            "updated": 1451937665000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1110 Vermont Avenue NW, 6th Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24282507, 
+                "lat": 38.904324000000003, 
+                "lon": -77.033187999999996, 
+                "name": "Comcast Labs", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 56
+        }, 
+        {
             "created": 1451931941000, 
             "description": "<p>Data Visualization continues to evolve from a simple \u2018nice to have\u2019 on analysts\u2019 resumes into a new career discipline of its own. Countless books, tutorials and classes have helped individuals master the technical skills necessary to build graphics and images. The difficulty some encounter is converting these technical skills into monetary rewards and benefits. The difficulty can come from finding paid freelance work, seeking a raise from your current employer for your talents, or seeking job opportunities solely focused on data visualization. A few simple concepts can help your clients and employer better appreciate and compensate you based on your ability to design and develop effective data visualizations.\u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJGQ0YzIzZGMzLWEzYzYtNDA1NC05Mjc5LWQ3ODBjYzQ5NGQ0NA.jpg\" /></p> <p>Shay Anderson currently works for PricewaterhouseCoopers (PwC) Forensic Services: Investigative Analytics practice in Washington, DC where he helps clients\u2019 model solutions in response to natural disasters, government regulation, accusations of fraud, potential litigation, and even sophisticated cyber-attacks. Before joining PwC Shay had over 15 years of experience in the fields of financial, data and business analysis, and has worked with Fortune 500 companies, state and federal agencies, small businesses, as well as the US military. Shay earned his first graduate degree in Information Management from the University of Maryland College of Information Studies (iSchool) where his thesis project on effective dashboard design and development received the Dean\u2019s Award for Outstanding Development or Design (2011). \u00a0Shay just recently completed his second graduate degree in Information Visualization from the Maryland Institute College of Art (2015).</p> <p>Staff Sergeant Shay Anderson was Honorably Discharged from the Army National Guard after 15 years of service. He has over two decades of experience in crisis leadership and data visualization. Shay joined the Washington National Guard at seventeen where he was a member of the HHB 2-146 (Field Artillery) which supported the 81st Infantry Brigade. \u00a0Shay served his community and country in peacetime, in the early 90s SSG Anderson was awarded a Washington National Guard Emergency Service Military Ribbon for his courage in fighting wildfires, and in wartime during Operation Iraqi Freedom in 2003 and 2004, for his display of leadership and courage as Sergeant of the Guard commanding security forces at Camps Wolverine and Spearhead in Kuwait. In 2004 he was awarded the Army Commendation Medal.</p> <p>Shay\u2019s proudest moment of national service was in 2003 as a Squad Leader for non-combat soldiers training to become a motorized infantry squad, which upon deployment became responsible for providing security to men and material traveling into and out of Iraq during the first year of Operation Iraqi Freedom. He says that this is proudest moment of service because \u201call of my squad members returned home healthy and without injury.\u201d</p> <p><b><br/></b></p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Monetizing Data Viz</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p>\n\n\n<b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
             "duration": 8100000, 
@@ -703,7 +755,7 @@
             "rsvp_limit": 190, 
             "status": "upcoming", 
             "time": 1454023800000, 
-            "updated": 1451931941000, 
+            "updated": 1451936330000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -718,7 +770,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1450148912000, 
@@ -783,7 +835,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 
@@ -1352,34 +1404,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1446219481000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 

@@ -36,16 +36,16 @@ other:
   id: xrqknlyvcbgb
   maybe_rsvp_count: 0
   name: "Front End Hack Night - First Timer's\xAD Night"
+  rsvp_limit: 100
   status: upcoming
   time: 1451950200000
-  updated: 1451927018000
+  updated: 1451944731000
   utc_offset: -18000000
-  venue: {address_1: '641 S St NW, First Floor', city: Washington, country: us, id: 23929782,
-    lat: 38.914551000000003, lon: -77.021095000000003, name: iStrategy Labs, repinned: false,
-    state: DC}
+  venue: {address_1: 641 S St NW, city: Washington, country: us, id: 9483992, lat: 38.914549999999998,
+    lon: -77.021095000000003, name: iStrategyLabs, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 75
 - created: 1449249912000
   description: "<p>On the first Tuesday of January, we will be kicking off our fourth\
     \ year of the DC API meetup, a joyous and vibrant occasion possibly on par with\
@@ -76,7 +76,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 117
 - created: 1450858515000
   description: "<p>For our first Data Science DC Meetup of 2016, we will be delving\
     \ into how to scale up unsupervised learning -- the process of finding structure\
@@ -132,7 +132,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 302
+  yes_rsvp_count: 315
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
     \ Looking to build your first web app, learn more about coding, or build on existing\
@@ -174,11 +174,14 @@ other:
   name: 'Ruby on Rails: First Timer''s Night!'
   status: upcoming
   time: 1452123000000
-  updated: 1451927041000
+  updated: 1451938524000
   utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 43
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -209,7 +212,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 10
   yes_rsvp_count: 50
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
@@ -236,17 +239,17 @@ other:
   id: '225773453'
   maybe_rsvp_count: 0
   name: Le Hackies 2
-  rsvp_limit: 100
+  rsvp_limit: 120
   status: upcoming
   time: 1452124800000
-  updated: 1451857197000
+  updated: 1451948703000
   utc_offset: -18000000
   venue: {address_1: '600 F Street NW, Washington, DC 20004', city: Washington, country: us,
     id: 24256613, lat: 38.897072000000001, lon: -77.020156999999998, name: The Loft
       at 600 F, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 100
 - created: 1326383071000
   description: "<p>Welcome to the first GeoDC of 2016! We are kicking of the new year\
     \ with a discussion on small satellites and drones. Meet us upstairs at Local\
@@ -278,7 +281,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 69
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
     \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
@@ -305,7 +308,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 73
 - created: 1450148912000
   description: "<p>Join us for our Intro to Git night where we will be going over\
     \ the basics of using the most popular VCS (We'll elaborate on what that is at\
@@ -342,16 +345,17 @@ other:
   id: xrqknlyvcbpb
   maybe_rsvp_count: 0
   name: Front End Hack Night - Intro to Git
+  rsvp_limit: 100
   status: upcoming
   time: 1452555000000
-  updated: 1451927018000
+  updated: 1451940197000
   utc_offset: -18000000
   venue: {address_1: '1325 G Street, NW, 3rd Floor', city: Washington, country: us,
     id: 24266346, lat: 38.898567, lon: -77.031006000000005, name: Social Tables, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -460,7 +464,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 148
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -484,9 +488,12 @@ other:
     \ Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and\
     \ \"peer\" into the cloud crystal ball to talk about emerging opportunities in\
     \ the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p>\
-    \ <p><b>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></b></p>\
+    \ <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p>\
     \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\"\
-    \ /></p>"
+    \ /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\"\
+    >Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions\
+    \ Here:\_<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"\
+    https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>"
   duration: 9000000
   event_url: http://www.meetup.com/gdg-dc/events/227834701/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
@@ -500,13 +507,13 @@ other:
   name: TechTalks@CloudDC by Adrian Cockroft - Battery Ventures
   status: upcoming
   time: 1452810600000
-  updated: 1451932451000
+  updated: 1451939057000
   utc_offset: -18000000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 45
 - created: 1451927019000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -552,7 +559,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 7
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -635,7 +642,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -709,7 +716,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -775,6 +782,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 96
+- created: 1451935931000
+  description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
+    \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
+    \ software engineers and explores the reasons for this gap, highlighting breakthrough\
+    \ efforts that are producing more diverse programmers. CODE asks: what would society\
+    \ gain from having more women and minorities code and how do we get there?\_</p>\
+    \ <p>Click <a href=\"http://www.codedoc.co/about/\" class=\"linkified\">http://www.codedoc.co/about/</a>\
+    \ to view the trailer, and if you\u2019re intrigued, <b>please RSVP</b> to reserve\
+    \ a spot.\_<b>Light refreshments will be served</b></p> <p>Hope to see you there!</p>\
+    \ <p>Navdeep Martin<br/>Senior Product Manager<br/>Comcast Labs DC</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227836436/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '227836436'
+  maybe_rsvp_count: 0
+  name: 'CODE: Debugging the Gender Gap @Comcast Labs'
+  rsvp_limit: 100
+  status: upcoming
+  time: 1454020200000
+  updated: 1451937665000
+  utc_offset: -18000000
+  venue: {address_1: '1110 Vermont Avenue NW, 6th Floor', city: Washington, country: us,
+    id: 24282507, lat: 38.904324000000003, lon: -77.033187999999996, name: Comcast
+      Labs, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 56
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -831,14 +867,14 @@ other:
   rsvp_limit: 190
   status: upcoming
   time: 1454023800000
-  updated: 1451931941000
+  updated: 1451936330000
   utc_offset: -18000000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 24185893, lat: 38.908957999999998, lon: -77.042197999999999, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 93
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -913,7 +949,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1400,35 +1436,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
-- created: 1446219481000
-  description: <p>We're a group of women who want to learn and develop our Python
-    scripting skills. Some of us are professional developers and data scientists,
-    others are hobbyists, and some are just beginning. The study group is intended
-    for everyone who wishes to learn more about the Python programming language. Folks
-    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
-    Wednesday of every month, which caters especially for absolute beginners and people
-    with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
-    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
-    for women; we are trans* friendly.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387916/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: jzwvllyvhbgb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night(Beginner's Night)
-  rsvp_limit: 50
-  status: upcoming
-  time: 1462401000000
-  updated: 1446219481000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
