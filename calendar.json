@@ -1,45 +1,163 @@
 {
-    "codefordc": [], 
-    "other": [
+    "codefordc": [
         {
-            "created": 1450148913000, 
-            "description": "<p>Start the new year by learning to code! We will be going over our <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual workshop setting.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227427765/", 
+            "announced": false, 
+            "created": 1451966487000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/227849999/", 
             "group": {
-                "created": 1395616294000, 
+                "created": 1375990708000, 
                 "group_lat": 38.909999847412109, 
                 "group_lon": -77.040000915527344, 
-                "id": 13508462, 
+                "id": 9724492, 
                 "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
             }, 
             "headcount": 0, 
-            "id": "xrqknlyvcbgb", 
+            "id": "227849999", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night - First Timer's\u00ad Night", 
-            "rsvp_limit": 100, 
+            "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1451950200000, 
-            "updated": 1451944731000, 
+            "time": 1452553200000, 
+            "updated": 1451966487000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "641 S St NW", 
+                "address_1": "419 7th St NW, Third Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
+                "id": 23752411, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 2
         }, 
+        {
+            "announced": false, 
+            "created": 1451966541000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/227850022/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "227850022", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1453244400000, 
+            "updated": 1451966541000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "419 7th St NW, Third Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23752411, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "announced": false, 
+            "created": 1451966585000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/227850038/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "227850038", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1455145200000, 
+            "updated": 1451966585000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "419 7th St NW, Third Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23752411, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "announced": false, 
+            "created": 1451966618000, 
+            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/227850052/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "227850052", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1456182000000, 
+            "updated": 1451966618000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "419 7th St NW, Third Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23752411, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }
+    ], 
+    "other": [
         {
             "created": 1449249912000, 
             "description": "<p>On the first Tuesday of January, we will be kicking off our fourth year of the DC API meetup, a joyous and vibrant occasion possibly on par with the beginning of an entire new calendar year! \u00a0:) \u00a0</p> <p>I know there's always plenty of distractions around this time of year, so go ahead and mark your calendars now. \u00a0There will be plenty to eat, drink, and talk about, plus it'll just be good to see everyone again as we settle back into the new year. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Bob Simons -\u00a0National Oceanic and Atmospheric Administration<br/>*\u00a0Nagesh Kakarlamudi - Uniplus<br/>*\u00a0Carson Evans - Digital Ambit\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
@@ -75,11 +193,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1450858515000, 
-            "description": "<p>For our first Data Science DC Meetup of 2016, we will be delving into how to scale up unsupervised learning -- the process of finding structure and groups in unlabeled data. Typical off-the-shelf clustering algorithms require painful operations such as computing a distance measure of all pairs of items. Shrayes Ramesh, data scientist at L-3 Data Tactics, will walk through the challenges and lessons he's learned when trying to cluster large-scale data distributed across many machines.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic, 2036 G Street NW)</p> <p><b>Abstract:</b></p> <p>Unsupervised clustering is a useful approach to partitioning massive datasets into meaningful subpopulations. However, as data sets get larger, many traditional algorithms have difficultly scaling.\u00a0 Here, I motivate the use of ensemble clustering as a scalable, robust approach to clustering at large, distributed datasets. The three components of ensemble clustering: (1) generating first-stage clusters, (2) aligning clustering output, and (3) aggregation and voting will be explained in a walkthrough demonstration and their nuances discussed. Finally, I will show some examples of clustering output and talk about extensions that can be made to the ensemble clustering framework that lend itself nicely to other modern unsupervised learning techniques.</p> <p><b>Bio:</b></p> <p>Shrayes Ramesh is a Senior Data Scientist at L-3. He has spent the past two years on a cybersecurity research program, where he researches, builds and implements unsupervised learning and outlier detection models at scale.\u00a0Previously, he has worked teaching and evangelizing data science and big data methodologies for EMC as part of their education and training department. In a prior life, he has completed\u00a0doctorate studies in Economics at the University of Maryland and undergraduate studies in Economics and Cognitive Science at University of Virginia. Browse his nascent github and blog at\u00a0<a href=\"http://github.com/shrayesramesh\">github.com/shrayesramesh</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://www.qubole.com/\">Qubole</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.blulabs.com/\">BlueLabs</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and <a href=\"http://corp.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our first Data Science DC Meetup of 2016, we will be delving into how to scale up unsupervised learning -- the process of finding structure and groups in unlabeled data. Typical off-the-shelf clustering algorithms require painful operations such as computing a distance measure of all pairs of items. Shrayes Ramesh, data scientist at L-3 Data Tactics, will walk through the challenges and lessons he's learned when trying to cluster large-scale data distributed across many machines.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic, 2036 G Street NW)</p> <p><b>Abstract:</b></p> <p>Unsupervised clustering is a useful approach to partitioning massive datasets into meaningful subpopulations. However, as data sets get larger, many traditional algorithms have difficultly scaling.\u00a0 Here, I motivate the use of ensemble clustering as a scalable, robust approach to clustering at large, distributed datasets. The three components of ensemble clustering: (1) generating first-stage clusters, (2) aligning clustering output, and (3) aggregation and voting will be explained in a walkthrough demonstration and their nuances discussed. Finally, I will show some examples of clustering output and talk about extensions that can be made to the ensemble clustering framework that lend itself nicely to other modern unsupervised learning techniques.</p> <p><b>Bio:</b></p> <p>Shrayes Ramesh is a Senior Data Scientist at L-3. He has spent the past two years on a cybersecurity research program, where he researches, builds and implements unsupervised learning and outlier detection models at scale.\u00a0Previously, he has worked teaching and evangelizing data science and big data methodologies for EMC as part of their education and training department. In a prior life, he has completed\u00a0doctorate studies in Economics at the University of Maryland and undergraduate studies in Economics and Cognitive Science at University of Virginia. Browse his nascent github and blog at\u00a0<a href=\"http://github.com/shrayesramesh\">github.com/shrayesramesh</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://www.qubole.com/\">Qubole</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.blulabs.com/\">BlueLabs</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and <a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/227586315/", 
             "group": {
                 "created": 1311348860000, 
@@ -98,7 +216,7 @@
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1452036600000, 
-            "updated": 1450926964000, 
+            "updated": 1451958345000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -114,7 +232,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 315
+            "yes_rsvp_count": 318
         }, 
         {
             "created": 1447431964000, 
@@ -152,7 +270,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1446219481000, 
@@ -229,7 +347,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1326383071000, 
@@ -267,7 +385,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1449702357000, 
@@ -295,7 +413,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1450148912000, 
@@ -333,7 +451,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1450570901000, 
@@ -399,7 +517,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1443565691000, 
@@ -438,7 +556,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 148
+            "yes_rsvp_count": 150
         }, 
         {
             "created": 1451932451000, 
@@ -477,44 +595,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
-        }, 
-        {
-            "created": 1451927019000, 
-            "description": "<p>Start the new year by learning to code! We will be going over our <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual workshop setting.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227834138/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xrqknlyvcbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night - First Timer's\u00ad Night", 
-            "status": "upcoming", 
-            "time": 1453159800000, 
-            "updated": 1451927019000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S St NW, First Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23929782, 
-                "lat": 38.914551000000003, 
-                "lon": -77.021095000000003, 
-                "name": "iStrategy Labs", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1448482603000, 
@@ -551,7 +632,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1451510871000, 
@@ -636,9 +717,10 @@
             "id": "xrqknlyvcbhc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to the Mean Stack/Isomorphic Javascript", 
+            "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1453764600000, 
-            "updated": 1451927018000, 
+            "updated": 1451966018000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -653,7 +735,43 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
+        }, 
+        {
+            "created": 1451956016000, 
+            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's new data portal, <a href=\"https://data.nasa.gov\" class=\"linkified\">https://data.nasa.gov</a>. Spark your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p>", 
+            "event_url": "http://www.meetup.com/Data-Business-DC/events/227846027/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Business-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "227846027", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Beyond this World: A Night with NASA", 
+            "status": "upcoming", 
+            "time": 1453849200000, 
+            "updated": 1451956016000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "640 Massachusetts Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 20556562, 
+                "lat": 38.901859000000002, 
+                "lon": -77.020995999999997, 
+                "name": "Georgetown University School of Continuing Studies", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1448552700000, 
@@ -693,7 +811,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1451935931000, 
@@ -731,7 +849,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1451931941000, 
@@ -770,7 +888,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1450148912000, 
@@ -807,7 +925,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446219481000, 
@@ -835,7 +953,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
@@ -1406,6 +1524,34 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvhbgb/", 
@@ -1479,6 +1625,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvhbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463005800000, 
+            "updated": 1446220149000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
