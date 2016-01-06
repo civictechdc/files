@@ -1,7 +1,7 @@
 calendar({
     "codefordc": [
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1451966487000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 10800000, 
@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 12
         }, 
         {
             "announced": false, 
@@ -308,7 +308,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -347,7 +347,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1326383071000, 
@@ -385,7 +385,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1449702357000, 
@@ -413,7 +413,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1450148912000, 
@@ -451,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1450570901000, 
@@ -556,11 +556,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 154
+            "yes_rsvp_count": 158
         }, 
         {
             "created": 1451932451000, 
-            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>Speaker: Adrian Cockroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
+            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockcroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>Speaker: Adrian Cocckroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockcroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/227834701/", 
             "group": {
@@ -577,10 +577,10 @@ calendar({
             "how_to_find_us": "Cloud, Enterprise, IaaS, DevOps, Containers, Microservices, AWS, Amazon, Netflix, Ventures, Startups", 
             "id": "227834701", 
             "maybe_rsvp_count": 0, 
-            "name": "TechTalks@CloudDC by Adrian Cockroft - Battery Ventures", 
+            "name": "TechTalks@CloudDC by Adrian Cockcroft - Battery Ventures", 
             "status": "upcoming", 
             "time": 1452810600000, 
-            "updated": 1451939057000, 
+            "updated": 1452035144000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -595,7 +595,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1448482603000, 
@@ -669,7 +669,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1446220217000, 
@@ -735,7 +735,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1451956016000, 
@@ -771,7 +771,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1448552700000, 
@@ -811,7 +811,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1451935931000, 
@@ -849,7 +849,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1451931941000, 
@@ -888,7 +888,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 132
+        }, 
+        {
+            "created": 1452033054000, 
+            "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p><b>Schedule:</b></p> <p>6:00-6:30 p.m.--Registration and Networking</p> <p>6:30-7:30 p.m.--Panel Discussion</p> <p>7:30-8:00 p.m.--Networking and Meeting Potential Mentors</p> <p>8:00 p.m.--End</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227869679/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "227869679", 
+            "maybe_rsvp_count": 0, 
+            "name": "Moving Your Career Forward: Developing a Portfolio of Mentors and Sponsors", 
+            "rsvp_limit": 80, 
+            "status": "upcoming", 
+            "time": 1454194800000, 
+            "updated": 1452038067000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1450148912000, 
@@ -953,7 +992,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -1029,7 +1068,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1451511034000, 
@@ -1307,7 +1346,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220217000, 
@@ -1625,34 +1664,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvhbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1463005800000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
