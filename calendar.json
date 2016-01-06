@@ -4,7 +4,7 @@
             "announced": true, 
             "created": 1451966487000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 10800000, 
+            "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/227849999/", 
             "group": {
                 "created": 1375990708000, 
@@ -21,8 +21,8 @@
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1452553200000, 
-            "updated": 1451966487000, 
+            "time": 1452555000000, 
+            "updated": 1452044990000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -37,13 +37,13 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 21
         }, 
         {
             "announced": false, 
             "created": 1451966541000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 10800000, 
+            "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/227850022/", 
             "group": {
                 "created": 1375990708000, 
@@ -60,8 +60,8 @@
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1453244400000, 
-            "updated": 1451966541000, 
+            "time": 1453246200000, 
+            "updated": 1452045032000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -82,7 +82,7 @@
             "announced": false, 
             "created": 1451966585000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 10800000, 
+            "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/227850038/", 
             "group": {
                 "created": 1375990708000, 
@@ -99,8 +99,8 @@
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1455145200000, 
-            "updated": 1451966585000, 
+            "time": 1455147000000, 
+            "updated": 1452045044000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -121,7 +121,7 @@
             "announced": false, 
             "created": 1451966618000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 10800000, 
+            "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/227850052/", 
             "group": {
                 "created": 1375990708000, 
@@ -138,8 +138,8 @@
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1456182000000, 
-            "updated": 1451966618000, 
+            "time": 1456183800000, 
+            "updated": 1452045055000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -158,82 +158,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1449249912000, 
-            "description": "<p>On the first Tuesday of January, we will be kicking off our fourth year of the DC API meetup, a joyous and vibrant occasion possibly on par with the beginning of an entire new calendar year! \u00a0:) \u00a0</p> <p>I know there's always plenty of distractions around this time of year, so go ahead and mark your calendars now. \u00a0There will be plenty to eat, drink, and talk about, plus it'll just be good to see everyone again as we settle back into the new year. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Bob Simons -\u00a0National Oceanic and Atmospheric Administration<br/>*\u00a0Nagesh Kakarlamudi - Uniplus<br/>*\u00a0Carson Evans - Digital Ambit\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/227211377/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "227211377", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - January Edition", 
-            "status": "upcoming", 
-            "time": 1452034800000, 
-            "updated": 1451866567000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 130
-        }, 
-        {
-            "created": 1450858515000, 
-            "description": "<p>For our first Data Science DC Meetup of 2016, we will be delving into how to scale up unsupervised learning -- the process of finding structure and groups in unlabeled data. Typical off-the-shelf clustering algorithms require painful operations such as computing a distance measure of all pairs of items. Shrayes Ramesh, data scientist at L-3 Data Tactics, will walk through the challenges and lessons he's learned when trying to cluster large-scale data distributed across many machines.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentations and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic, 2036 G Street NW)</p> <p><b>Abstract:</b></p> <p>Unsupervised clustering is a useful approach to partitioning massive datasets into meaningful subpopulations. However, as data sets get larger, many traditional algorithms have difficultly scaling.\u00a0 Here, I motivate the use of ensemble clustering as a scalable, robust approach to clustering at large, distributed datasets. The three components of ensemble clustering: (1) generating first-stage clusters, (2) aligning clustering output, and (3) aggregation and voting will be explained in a walkthrough demonstration and their nuances discussed. Finally, I will show some examples of clustering output and talk about extensions that can be made to the ensemble clustering framework that lend itself nicely to other modern unsupervised learning techniques.</p> <p><b>Bio:</b></p> <p>Shrayes Ramesh is a Senior Data Scientist at L-3. He has spent the past two years on a cybersecurity research program, where he researches, builds and implements unsupervised learning and outlier detection models at scale.\u00a0Previously, he has worked teaching and evangelizing data science and big data methodologies for EMC as part of their education and training department. In a prior life, he has completed\u00a0doctorate studies in Economics at the University of Maryland and undergraduate studies in Economics and Cognitive Science at University of Virginia. Browse his nascent github and blog at\u00a0<a href=\"http://github.com/shrayesramesh\">github.com/shrayesramesh</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>, <a href=\"http://www.qubole.com/\">Qubole</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"http://www.blulabs.com/\">BlueLabs</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and <a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/227586315/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "227586315", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ensemble Clustering as a Scalable Solution", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1452036600000, 
-            "updated": 1451958345000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 327
-        }, 
         {
             "created": 1447431964000, 
             "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
@@ -308,7 +232,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -347,7 +271,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1326383071000, 
@@ -385,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1449702357000, 
@@ -413,7 +337,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1450148912000, 
@@ -451,7 +375,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1450570901000, 
@@ -517,7 +441,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1443565691000, 
@@ -556,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 158
+            "yes_rsvp_count": 160
         }, 
         {
             "created": 1451932451000, 
@@ -595,7 +519,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1448482603000, 
@@ -632,7 +556,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1451510871000, 
@@ -669,7 +593,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1446220217000, 
@@ -771,7 +695,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1448552700000, 
@@ -849,7 +773,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1451931941000, 
@@ -888,7 +812,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1452033054000, 
@@ -927,7 +851,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1450148912000, 
@@ -992,7 +916,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1326383071000, 
@@ -1160,7 +1084,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220217000, 
@@ -1346,7 +1270,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446220217000, 
