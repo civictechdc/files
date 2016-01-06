@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 28
         }, 
         {
             "announced": false, 
@@ -115,7 +115,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "announced": false, 
@@ -154,7 +154,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }
     ], 
     "other": [
@@ -194,7 +194,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1446219481000, 
@@ -233,7 +233,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 9, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1443771281000, 
@@ -270,8 +270,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1326383071000, 
@@ -309,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1449702357000, 
@@ -337,7 +337,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1450148912000, 
@@ -375,7 +375,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1450570901000, 
@@ -441,7 +441,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1443565691000, 
@@ -480,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 160
+            "yes_rsvp_count": 162
         }, 
         {
             "created": 1451932451000, 
@@ -519,7 +519,85 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 65
+        }, 
+        {
+            "created": 1452094606000, 
+            "description": "<p><b>NOTE: This is a special DSDC/SPDC joint event. Please RSVP on the SPDC event page\u00a0<a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\"><a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\" class=\"linkified\">http://www.meetup.com/stats-prog-dc/events/227886991/</a></a>\u00a0to get an accurate count for food and drinks.\u00a0FYI - The RSVP limit here is 0 (zero). Thank You.</b></p> <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom, the CEO and Co-Founder of\u00a0<a href=\"http://www.kaggle.com/\">Kaggle</a>.</p> <p>Kaggle is a community of almost 450K data scientists who have built almost 2MM machine learning models to participate in our competitions. Data scientists come to Kaggle to learn, collaborate and develop the state of the art in machine learning. This talk will cover some of the lessons on winning techniques we have learned from the Kaggle community.</p> <p>SPDC is seeking sponsors. If you are interested in sponsoring this event please get in touch with us.</p> <p>6:30 - 7:00 - Mingle and Eat<br/>7:00 - 7:15 - Intros and Announcements<br/>7:15 - 8:30 - Presentation, Q&amp;A<br/>8:30ish - Data Drinks (TBD)</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/227887196/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "227887196", 
+            "maybe_rsvp_count": 0, 
+            "name": "What has Kaggle has learned from 2+ million models?", 
+            "rsvp_limit": 8, 
+            "status": "upcoming", 
+            "time": 1452814200000, 
+            "updated": 1452095295000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 10605112, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 103", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 41, 
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1452093865000, 
+            "description": "<p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom, the CEO and Co-Founder of <a href=\"http://www.kaggle.com\">Kaggle</a>.</p> <p>Kaggle is a community of almost 450K data scientists who have built almost 2MM machine learning models to participate in our competitions. Data scientists come to Kaggle to learn, collaborate and develop the state of the art in machine learning. This talk will cover some of the lessons on winning techniques we have learned from the Kaggle community.</p> <p>SPDC is seeking sponsors. If you are interested in sponsoring this event please get in touch with us.</p> <p>6:30 - 7:00 - Mingle and Eat<br/>7:00 - 7:15 - Intros and Announcements<br/>7:15 - 8:30 - Presentation, Q&amp;A<br/>8:30ish - Data Drinks (TBD)</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/227886991/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "227886991", 
+            "maybe_rsvp_count": 0, 
+            "name": "What has Kaggle has learned from 2+ million models?", 
+            "status": "upcoming", 
+            "time": 1452814200000, 
+            "updated": 1452094765000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24286689, 
+                "lat": 38.898685, 
+                "lon": -77.049187000000003, 
+                "name": "GWU Funger Hall - Room 103", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1448482603000, 
@@ -659,7 +737,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1451956016000, 
@@ -681,7 +759,7 @@
             "name": "Data Beyond this World: A Night with NASA", 
             "status": "upcoming", 
             "time": 1453849200000, 
-            "updated": 1451956016000, 
+            "updated": 1452094759000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -695,7 +773,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1448552700000, 
@@ -773,7 +851,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1451931941000, 
@@ -812,7 +890,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 139
         }, 
         {
             "created": 1452033054000, 
@@ -851,7 +929,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1450148912000, 
@@ -992,7 +1070,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1451511034000, 

@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 28
 - announced: false
   created: 1451966541000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -112,7 +112,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -150,7 +150,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 other:
 - created: 1447431964000
   description: "<p>Interested in learning Ruby and ails with an awesome group of women?\
@@ -200,7 +200,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 46
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -232,7 +232,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 9
-  yes_rsvp_count: 50
+  yes_rsvp_count: 49
 - created: 1443771281000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\"\
     \ /></p> <p>Part awards show, part new years party, all \u202A#\u200Elegalhack\u202C\
@@ -267,8 +267,8 @@ other:
     id: 24256613, lat: 38.897072000000001, lon: -77.020156999999998, name: The Loft
       at 600 F, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 120
+  waitlist_count: 1
+  yes_rsvp_count: 119
 - created: 1326383071000
   description: "<p>Welcome to the first GeoDC of 2016! We are kicking of the new year\
     \ with a discussion on small satellites and drones. Meet us upstairs at Local\
@@ -300,7 +300,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 93
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
     \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
@@ -327,7 +327,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1450148912000
   description: "<p>Join us for our Intro to Git night where we will be going over\
     \ the basics of using the most popular VCS (We'll elaborate on what that is at\
@@ -374,7 +374,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 77
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -448,7 +448,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -483,7 +483,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 160
+  yes_rsvp_count: 162
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -532,7 +532,72 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 65
+- created: 1452094606000
+  description: "<p><b>NOTE: This is a special DSDC/SPDC joint event. Please RSVP on\
+    \ the SPDC event page\_<a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\"\
+    ><a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\" class=\"linkified\"\
+    >http://www.meetup.com/stats-prog-dc/events/227886991/</a></a>\_to get an accurate\
+    \ count for food and drinks.\_FYI - The RSVP limit here is 0 (zero). Thank You.</b></p>\
+    \ <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom, the\
+    \ CEO and Co-Founder of\_<a href=\"http://www.kaggle.com/\">Kaggle</a>.</p> <p>Kaggle\
+    \ is a community of almost 450K data scientists who have built almost 2MM machine\
+    \ learning models to participate in our competitions. Data scientists come to\
+    \ Kaggle to learn, collaborate and develop the state of the art in machine learning.\
+    \ This talk will cover some of the lessons on winning techniques we have learned\
+    \ from the Kaggle community.</p> <p>SPDC is seeking sponsors. If you are interested\
+    \ in sponsoring this event please get in touch with us.</p> <p>6:30 - 7:00 - Mingle\
+    \ and Eat<br/>7:00 - 7:15 - Intros and Announcements<br/>7:15 - 8:30 - Presentation,\
+    \ Q&amp;A<br/>8:30ish - Data Drinks (TBD)</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Data-Science-DC/events/227887196/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '227887196'
+  maybe_rsvp_count: 0
+  name: What has Kaggle has learned from 2+ million models?
+  rsvp_limit: 8
+  status: upcoming
+  time: 1452814200000
+  updated: 1452095295000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
+    lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
+    state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 41
+  yes_rsvp_count: 8
+- created: 1452093865000
+  description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
+    the CEO and Co-Founder of <a href="http://www.kaggle.com">Kaggle</a>.</p> <p>Kaggle
+    is a community of almost 450K data scientists who have built almost 2MM machine
+    learning models to participate in our competitions. Data scientists come to Kaggle
+    to learn, collaborate and develop the state of the art in machine learning. This
+    talk will cover some of the lessons on winning techniques we have learned from
+    the Kaggle community.</p> <p>SPDC is seeking sponsors. If you are interested in
+    sponsoring this event please get in touch with us.</p> <p>6:30 - 7:00 - Mingle
+    and Eat<br/>7:00 - 7:15 - Intros and Announcements<br/>7:15 - 8:30 - Presentation,
+    Q&amp;A<br/>8:30ish - Data Drinks (TBD)</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/stats-prog-dc/events/227886991/
+  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
+    who: dc-hackeRs}
+  headcount: 0
+  id: '227886991'
+  maybe_rsvp_count: 0
+  name: What has Kaggle has learned from 2+ million models?
+  status: upcoming
+  time: 1452814200000
+  updated: 1452094765000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St NW, city: Washington, country: us, id: 24286689, lat: 38.898685,
+    lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 125
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -690,7 +755,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1451956016000
   description: <p>Wanna know what data looks like from space? Join the brightest minds
     from NASA to learn about the agency's new data portal, <a href="https://data.nasa.gov"
@@ -707,14 +772,14 @@ other:
   name: 'Data Beyond this World: A Night with NASA'
   status: upcoming
   time: 1453849200000
-  updated: 1451956016000
+  updated: 1452094759000
   utc_offset: -18000000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 77
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -808,7 +873,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 89
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -872,7 +937,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 134
+  yes_rsvp_count: 139
 - created: 1452033054000
   description: <p>This is the second event in our Mentoring Meetup series. Join us
     for a panel discussion of <b>how to find mentors and sponsors</b>, and how these
@@ -898,7 +963,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 56
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -1030,7 +1095,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\

@@ -1,14 +1,14 @@
 projects([
     {
         "activity": [
-            7, 
+            1, 
             34, 
-            19, 
-            24, 
-            70, 
-            60, 
+            20, 
+            29, 
+            81, 
+            50, 
             15, 
-            35, 
+            28, 
             0, 
             2, 
             0, 
@@ -18,23 +18,23 @@ projects([
             7, 
             6, 
             3, 
+            2, 
+            2, 
+            1, 
+            5, 
             0, 
-            4, 
+            8, 
             0, 
-            6, 
             0, 
+            0, 
+            10, 
             6, 
             2, 
+            8, 
             0, 
-            0, 
-            9, 
-            7, 
-            1, 
-            9, 
-            0, 
+            41, 
             40, 
-            33, 
-            10, 
+            2, 
             0, 
             2, 
             3, 
@@ -4648,7 +4648,7 @@ projects([
         "license": null, 
         "main_language": null, 
         "name": "DC Code Metadata", 
-        "open_issues": 4, 
+        "open_issues": 5, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4590660?v=3", 
             "name": "DCCouncil", 
@@ -4768,13 +4768,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1095794?v=3", 
-                "contributions": 9, 
+                "contributions": 11, 
                 "link": "https://github.com/NSkelsey", 
                 "name": "NSkelsey"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
-                "contributions": 8, 
+                "contributions": 10, 
                 "link": "https://github.com/tomBeach", 
                 "name": "tomBeach"
             }, 
@@ -4815,15 +4815,19 @@ projects([
         "languages": [
             [
                 "CSS", 
-                33380
+                33431
             ], 
             [
                 "HTML", 
-                15830
+                17153
             ], 
             [
                 "R", 
                 10821
+            ], 
+            [
+                "Python", 
+                698
             ]
         ], 
         "license": {
@@ -4841,9 +4845,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-06T11:37:12Z", 
+        "pushed_at": "2016-01-06T18:03:33Z", 
         "short_name": "school-modernization", 
-        "size": 1651, 
+        "size": 1707, 
         "updated_at": "2016-01-03T22:50:43Z", 
         "watchers": 4
     }, 
