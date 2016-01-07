@@ -2290,45 +2290,7 @@
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": {
-            "bornAt": "Code for DC", 
-            "categories": [
-                {
-                    "category": "Guns"
-                }, 
-                {
-                    "category": "Handguns"
-                }, 
-                {
-                    "category": "Concealed Carry"
-                }, 
-                {
-                    "category": "Safety"
-                }, 
-                {
-                    "category": "Crime"
-                }, 
-                {
-                    "category": "Law"
-                }
-            ], 
-            "communityPartner": {
-                "WAMU 88.5": "http://wamu.org"
-            }, 
-            "conformsTo": "http://codefordc.org/resources/specification.html", 
-            "contact": {
-                "email": "cmgiven@gmail.com", 
-                "name": "Chris Given", 
-                "twitter": "@cmgiven"
-            }, 
-            "data": {
-                "DC handgun ownership by zip code": "https://github.com/cmgiven/dc-handguns/tree/master/data"
-            }, 
-            "geography": "Washington, DC", 
-            "needs": [], 
-            "status": "Archival", 
-            "type": "Map"
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
@@ -3223,45 +3185,7 @@
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": {
-            "bornAt": "Open Data Day 2015, Code for DC", 
-            "categories": [
-                {
-                    "category": "Education"
-                }, 
-                {
-                    "category": "Government"
-                }
-            ], 
-            "conformsTo": "http://codefordc.org/resources/specification.html", 
-            "contact": {
-                "twitter": "@codefordc"
-            }, 
-            "geography": "DC", 
-            "moreInfo": "https://opendatadaydc.hackpad.com/l1eM7PP4lzb?eid=Fyye5349OBg", 
-            "needs": [
-                {
-                    "need": "Javascript"
-                }, 
-                {
-                    "need": "Leaflet"
-                }, 
-                {
-                    "need": "Mapbox"
-                }, 
-                {
-                    "need": "JQuery"
-                }, 
-                {
-                    "need": "Spreadsheet Experts"
-                }
-            ], 
-            "politicalEntity": {
-                "DCPS": "http://dcps.dc.gov/"
-            }, 
-            "status": "Alpha", 
-            "type": "Web App"
-        }, 
+        "civic_json": null, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/605331?v=3", 
@@ -4722,50 +4646,14 @@
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": {
-            "bornAt": "The halls of power", 
-            "categories": [
-                {
-                    "category": "Cartography"
-                }, 
-                {
-                    "category": "Data Viz"
-                }, 
-                {
-                    "category": "DC Schools"
-                }, 
-                {
-                    "category": "Public Service"
-                }
-            ], 
-            "communityPartner": {}, 
-            "conformsTo": "http://codefordc.org/resources/specification.html", 
-            "contact": {
-                "email": "", 
-                "name": "DC Public School Modernization Spending", 
-                "twitter": ""
-            }, 
-            "data": {}, 
-            "geography": "Washington D.C.", 
-            "governmentPartner": {}, 
-            "moreInfo": "", 
-            "needs": [
-                {
-                    "need": "Designers"
-                }, 
-                {
-                    "need": "Smiles"
-                }, 
-                {
-                    "need": "Patience"
-                }
-            ], 
-            "politicalEntity": {}, 
-            "status": "Ideation", 
-            "thumbnailUrl": "https://github.com/codefordc/school-modernization", 
-            "type": "Web App"
-        }, 
+        "civic_json": null, 
         "contributors": [
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
+                "contributions": 13, 
+                "link": "https://github.com/katerabinowitz", 
+                "name": "katerabinowitz"
+            }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
                 "contributions": 12, 
@@ -4779,14 +4667,8 @@
                 "name": "NSkelsey"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 10, 
-                "link": "https://github.com/katerabinowitz", 
-                "name": "katerabinowitz"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
-                "contributions": 4, 
+                "contributions": 6, 
                 "link": "https://github.com/samiam151", 
                 "name": "samiam151"
             }, 
@@ -4815,7 +4697,7 @@
         "languages": [
             [
                 "CSS", 
-                33622
+                33783
             ], 
             [
                 "HTML", 
@@ -4823,7 +4705,7 @@
             ], 
             [
                 "R", 
-                12158
+                12177
             ], 
             [
                 "Python", 
@@ -4845,9 +4727,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-07T01:02:34Z", 
+        "pushed_at": "2016-01-07T04:50:37Z", 
         "short_name": "school-modernization", 
-        "size": 1742, 
+        "size": 1754, 
         "updated_at": "2016-01-03T22:50:43Z", 
         "watchers": 4
     }, 

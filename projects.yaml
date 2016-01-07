@@ -730,23 +730,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Guns}
-    - {category: Handguns}
-    - {category: Concealed Carry}
-    - {category: Safety}
-    - {category: Crime}
-    - {category: Law}
-    communityPartner: {WAMU 88.5: 'http://wamu.org'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
-    data: {DC handgun ownership by zip code: 'https://github.com/cmgiven/dc-handguns/tree/master/data'}
-    geography: Washington, DC
-    needs: []
-    status: Archival
-    type: Map
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 7,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -1025,24 +1009,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Open Data Day 2015, Code for DC
-    categories:
-    - {category: Education}
-    - {category: Government}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {twitter: '@codefordc'}
-    geography: DC
-    moreInfo: https://opendatadaydc.hackpad.com/l1eM7PP4lzb?eid=Fyye5349OBg
-    needs:
-    - {need: Javascript}
-    - {need: Leaflet}
-    - {need: Mapbox}
-    - {need: JQuery}
-    - {need: Spreadsheet Experts}
-    politicalEntity: {DCPS: 'http://dcps.dc.gov/'}
-    status: Alpha
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 20,
     link: 'https://github.com/bbrotsos', name: bbrotsos}
@@ -1548,36 +1515,15 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0,
     2, 8, 12]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: The halls of power
-    categories:
-    - {category: Cartography}
-    - {category: Data Viz}
-    - {category: DC Schools}
-    - {category: Public Service}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: DC Public School Modernization Spending, twitter: ''}
-    data: {}
-    geography: Washington D.C.
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: Designers}
-    - {need: Smiles}
-    - {need: Patience}
-    politicalEntity: {}
-    status: Ideation
-    thumbnailUrl: https://github.com/codefordc/school-modernization
-    type: Web App
+  civic_json: null
   contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 13,
+    link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 12,
     link: 'https://github.com/tomBeach', name: tomBeach}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 11,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 10,
-    link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 4,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 6,
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8992133?v=3', contributions: 2,
     link: 'https://github.com/coachpacman', name: coachpacman}
@@ -1593,9 +1539,9 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [CSS, 33622]
+  - [CSS, 33783]
   - [HTML, 17205]
-  - [R, 12158]
+  - [R, 12177]
   - [Python, 698]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
@@ -1604,9 +1550,9 @@
   open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-07T01:02:34Z'
+  pushed_at: '2016-01-07T04:50:37Z'
   short_name: school-modernization
-  size: 1742
+  size: 1754
   updated_at: '2016-01-03T22:50:43Z'
   watchers: 4
 - activity: [7, 0, 0, 0, 2, 8, 13, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

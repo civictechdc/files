@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": false, 
@@ -159,159 +159,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1447431964000, 
-            "description": "<p>Interested in learning Ruby and ails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Getting in the Building</p> <p>The building locks its doors at 6pm, but there will be someone at the door to let you in.\u00a0 If not please comment here or on Slack (if you're signed up for it, see resource link below if not) and someone will come get you. \u00a0There should also be a sign on the door with contact information for one of the leads.</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226752382/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "226752382", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: First Timer's Night!", 
-            "status": "upcoming", 
-            "time": 1452123000000, 
-            "updated": 1451938524000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 43
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226455086/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvcbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1452123000000, 
-            "updated": 1451930846000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 7, 
-            "yes_rsvp_count": 42
-        }, 
-        {
-            "created": 1443771281000, 
-            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/0/6/2/600_445121058.jpeg\" /></p> <p>Part awards show, part new years party, all \u202a#\u200elegalhack\u202c.</p> <p><br/>On January 6th, join DC Legal Hackers for our second annual Le Hackie Awards! Le Hackie Awards is our chance to celebrate the awesome achievements of the legal hacking movement in DC. Once again, we're taking over the Loft at 600 on F Street NW (2nd floor lounge) for food, entertainment, and celebration.\u00a0</p> <p><br/>Here's what's on the agenda:</p> <p>\u2022\u00a0A\u00a0DC Legal Hackers 2015 year in review.\u00a0</p> <p>\u2022\u00a0An awards ceremony for\u00a0the best legal hacking of 2015. (See the\u00a0<a href=\"http://dclegalhackers.org/blog/2015/01/06/the2014lehackiewinners.html\">2014 winners</a>\u00a0here).</p> <p>\u2022\u00a0<a href=\"https://soundcloud.com/jazdux\">DJ JAZ:DUX\u00a0</a>is back to soundtrack our evening!</p> <p>\u2022\u00a0An array of\u00a0the most delicious tacos\u00a0you'll ever nibble on.</p> <p>\u2022\u00a0Drinks and celebration\u00a0with folks in the District working hard to improve law with technology and technology with law.\u00a0</p> <p>Learn more at:\u00a0<a href=\"https://lehackies2.splashthat.com/\" class=\"linkified\">https://lehackies2.splashthat.com/</a></p> <p><br/><b>Entry is free, but space is limited to 100, be sure to RSVP here for entry.\u00a0<br/></b></p>", 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/225773453/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "225773453", 
-            "maybe_rsvp_count": 0, 
-            "name": "Le Hackies 2", 
-            "rsvp_limit": 120, 
-            "status": "upcoming", 
-            "time": 1452124800000, 
-            "updated": 1451948703000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "600 F Street NW, Washington, DC 20004", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24256613, 
-                "lat": 38.897072000000001, 
-                "lon": -77.020156999999998, 
-                "name": "The Loft at 600 F", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 6, 
-            "yes_rsvp_count": 120
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>Welcome to the first GeoDC of 2016! We are kicking of the new year with a discussion on small satellites and drones. Meet us upstairs at Local 16 to hear from our amazing speakers:</p> <p><br/>\u2022 <b><a href=\"http://uaviators.org/\">Patrick Meier, Humanitarian UAV Network</a></b>, will speak about 'Crisis Mapping with Aerial Robotics' regarding his work spearheading UAV missions in the aftermath of natural disasters such the Nepal earthquakes and Cyclone Pam.</p> <p><br/>\u2022 <b><a href=\"https://developmentseed.org/team/nate-smith/\">Nate Smith, Development Seed,</a></b> will speak about <a href=\"https://openaerialmap.org/\">Open Aerial Map</a> (OAM), a platform for serving and storing openly licensed satellite and UAV imagery.</p> <p><br/>\u2022 <b><a href=\"https://www.newamerica.org/experts/konstantin-kakaes/\">Konstantin Kakaes, New America Foundation,</a></b> will speak on 'Drone Regulation in the Developing World' and the limitations organizations face working to collect satellite and UAV imagery in developing countries.</p> <p><br/>\u2022 <b>Dana Bauer, Planet Labs</b></p> <p>Looking forward to seeing you all!\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/221052561/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyvcbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January GeoDC: Small Satellites and Drones", 
-            "status": "upcoming", 
-            "time": 1452124800000, 
-            "updated": 1451582826000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1602 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24181227, 
-                "lat": 38.916733000000001, 
-                "lon": -77.037186000000005, 
-                "name": "Local 16", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 95
-        }, 
-        {
             "created": 1449702357000, 
             "description": "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin. Join us for a Happy Hour Farewell in her honor. She will be sharing advice about how to overcome Imposter Syndrome and other words of technical and cultural wisdom. We will miss her dearly!!</p> <p><b>Evening Schedule of Events:</b></p> <p>6:00-7:00 p.m. Registration and Happy Hour</p> <p>7:00 p.m. Talk by Emma Grasmeder and Toasts, then more Happy Hour</p> <p>8:00 p.m. Finish</p> <p>Whether or not you can attend this event, please take a moment to tell Emma how much you appreciate her by signing our <a href=\"https://docs.google.com/forms/d/1ERZFQjFtSKo732Q8_EN8stCrIdPR842Bat6Q8nAkDQg/viewform\">digital guestbook</a>.\u00a0 Thank you and we hope to see you there!</p>", 
             "duration": 7200000, 
@@ -337,7 +184,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1450148912000, 
@@ -375,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1450570901000, 
@@ -413,7 +260,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220149000, 
@@ -480,7 +327,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 163
+            "yes_rsvp_count": 165
         }, 
         {
             "created": 1451932451000, 
@@ -519,7 +366,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1452094606000, 
@@ -558,7 +405,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 54, 
+            "waitlist_count": 60, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -597,7 +444,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 155
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1448482603000, 
@@ -671,7 +518,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1446220217000, 
@@ -737,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1451956016000, 
@@ -773,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1448552700000, 
@@ -813,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1451935931000, 
@@ -851,7 +698,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1451931941000, 
@@ -890,7 +737,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 147
+            "yes_rsvp_count": 150
         }, 
         {
             "created": 1452033054000, 
@@ -929,7 +776,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1450148912000, 
@@ -1032,7 +879,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1451357840000, 
@@ -1135,7 +982,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -1668,6 +1515,34 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvhbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463005800000, 
+            "updated": 1446220149000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -1693,6 +1568,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
