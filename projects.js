@@ -1,27 +1,27 @@
 projects([
     {
         "activity": [
-            1, 
+            2, 
             34, 
             20, 
-            29, 
-            81, 
-            50, 
+            32, 
+            95, 
+            31, 
             15, 
             28, 
             0, 
             2, 
             0, 
-            0, 
-            11, 
-            5, 
-            7, 
-            6, 
-            3, 
-            2, 
-            2, 
             1, 
-            5, 
+            11, 
+            4, 
+            7, 
+            7, 
+            2, 
+            2, 
+            2, 
+            3, 
+            3, 
             0, 
             8, 
             0, 
@@ -29,12 +29,12 @@ projects([
             0, 
             10, 
             6, 
-            2, 
-            8, 
+            10, 
             0, 
-            41, 
-            40, 
-            2, 
+            0, 
+            60, 
+            23, 
+            0, 
             0, 
             2, 
             3, 
@@ -341,8 +341,8 @@ projects([
             5, 
             0, 
             0, 
-            0, 
-            8, 
+            1, 
+            7, 
             0, 
             1, 
             1, 
@@ -352,12 +352,12 @@ projects([
             0, 
             3, 
             1, 
-            1, 
-            6, 
-            0, 
-            0, 
+            5, 
             2, 
-            1, 
+            0, 
+            0, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -911,52 +911,52 @@ projects([
             1, 
             9, 
             0, 
-            0, 
-            6, 
+            2, 
+            4, 
             1, 
-            7, 
             8, 
-            7, 
+            8, 
+            6, 
             1, 
-            2, 
             9, 
-            1, 
-            1, 
             2, 
+            2, 
+            0, 
             2, 
             3, 
-            6, 
-            0, 
-            0, 
-            2, 
-            0, 
-            3, 
-            2, 
-            1, 
-            16, 
-            5, 
             2, 
             6, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             2, 
             0, 
             0, 
+            5, 
             0, 
-            5, 
-            5, 
             1, 
-            0, 
-            5, 
+            20, 
             1, 
             2, 
-            7, 
             6, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            0, 
+            0, 
+            0, 
+            5, 
+            6, 
+            0, 
+            0, 
+            5, 
+            1, 
+            2, 
+            8, 
+            5, 
             7, 
             0, 
             2
@@ -1485,9 +1485,9 @@ projects([
             0, 
             0, 
             0, 
-            5, 
-            7, 
-            19, 
+            10, 
+            9, 
+            12, 
             4, 
             0, 
             3, 
@@ -1498,8 +1498,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -1511,8 +1511,8 @@ projects([
             0, 
             0, 
             2, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -2086,8 +2086,8 @@ projects([
             0, 
             0, 
             1, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             5, 
@@ -2097,28 +2097,28 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            1, 
             2, 
             0, 
-            6, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             2, 
             1, 
-            2, 
-            2, 
             4, 
-            1, 
             2, 
+            3, 
+            0, 
+            4, 
+            2, 
+            2, 
+            2, 
+            1, 
             2, 
             0, 
             0, 
@@ -2290,7 +2290,45 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "Guns"
+                }, 
+                {
+                    "category": "Handguns"
+                }, 
+                {
+                    "category": "Concealed Carry"
+                }, 
+                {
+                    "category": "Safety"
+                }, 
+                {
+                    "category": "Crime"
+                }, 
+                {
+                    "category": "Law"
+                }
+            ], 
+            "communityPartner": {
+                "WAMU 88.5": "http://wamu.org"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "cmgiven@gmail.com", 
+                "name": "Chris Given", 
+                "twitter": "@cmgiven"
+            }, 
+            "data": {
+                "DC handgun ownership by zip code": "https://github.com/cmgiven/dc-handguns/tree/master/data"
+            }, 
+            "geography": "Washington, DC", 
+            "needs": [], 
+            "status": "Archival", 
+            "type": "Map"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
@@ -2985,13 +3023,13 @@ projects([
             0, 
             0, 
             0, 
+            66, 
             61, 
-            51, 
-            44, 
-            16, 
-            83, 
-            6, 
-            2, 
+            30, 
+            18, 
+            80, 
+            7, 
+            1, 
             1, 
             1, 
             6, 
@@ -3009,8 +3047,8 @@ projects([
             0, 
             1, 
             0, 
-            5, 
-            12, 
+            13, 
+            4, 
             0, 
             0, 
             0, 
@@ -3185,7 +3223,45 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Open Data Day 2015, Code for DC", 
+            "categories": [
+                {
+                    "category": "Education"
+                }, 
+                {
+                    "category": "Government"
+                }
+            ], 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "twitter": "@codefordc"
+            }, 
+            "geography": "DC", 
+            "moreInfo": "https://opendatadaydc.hackpad.com/l1eM7PP4lzb?eid=Fyye5349OBg", 
+            "needs": [
+                {
+                    "need": "Javascript"
+                }, 
+                {
+                    "need": "Leaflet"
+                }, 
+                {
+                    "need": "Mapbox"
+                }, 
+                {
+                    "need": "JQuery"
+                }, 
+                {
+                    "need": "Spreadsheet Experts"
+                }
+            ], 
+            "politicalEntity": {
+                "DCPS": "http://dcps.dc.gov/"
+            }, 
+            "status": "Alpha", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/605331?v=3", 
@@ -4646,7 +4722,49 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "The halls of power", 
+            "categories": [
+                {
+                    "category": "Cartography"
+                }, 
+                {
+                    "category": "Data Viz"
+                }, 
+                {
+                    "category": "DC Schools"
+                }, 
+                {
+                    "category": "Public Service"
+                }
+            ], 
+            "communityPartner": {}, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "", 
+                "name": "DC Public School Modernization Spending", 
+                "twitter": ""
+            }, 
+            "data": {}, 
+            "geography": "Washington D.C.", 
+            "governmentPartner": {}, 
+            "moreInfo": "", 
+            "needs": [
+                {
+                    "need": "Designers"
+                }, 
+                {
+                    "need": "Smiles"
+                }, 
+                {
+                    "need": "Patience"
+                }
+            ], 
+            "politicalEntity": {}, 
+            "status": "Ideation", 
+            "thumbnailUrl": "https://github.com/codefordc/school-modernization", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 

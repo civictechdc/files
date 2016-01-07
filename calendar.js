@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 41
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "announced": false, 
@@ -184,7 +184,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1450148912000, 
@@ -327,7 +327,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 165
+            "yes_rsvp_count": 167
         }, 
         {
             "created": 1451932451000, 
@@ -366,7 +366,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1452094606000, 
@@ -405,7 +405,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 60, 
+            "waitlist_count": 63, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -444,7 +444,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 182
+            "yes_rsvp_count": 216
         }, 
         {
             "created": 1448482603000, 
@@ -518,7 +518,83 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 35
+        }, 
+        {
+            "created": 1452180790000, 
+            "description": "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\u00a0<a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and improved map design platform. All levels are welcome, from newbies to experts.\u00a0</p> <p>If you haven't already, be sure to signup to use Mapbox Studio here -\u00a0<a href=\"https://t.co/lwYiVlyJgx\"><a href=\"https://www.mapbox.com/studio/signup/?path=%2Fstudio\" class=\"linkified\">https://www.mapbox.com/studio/signup/?path=%2Fstudio</a>\u00a0\u2026</a>\u00a0Bring your laptop and a desire to create some great new web maps!</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/227914006/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "227914006", 
+            "maybe_rsvp_count": 0, 
+            "name": "Introducing the new Mapbox Studio", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1453246200000, 
+            "updated": 1452189867000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "900 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21261802, 
+                "lat": 0, 
+                "lon": 0, 
+                "name": "MLK Library Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 32
+        }, 
+        {
+            "created": 1452188100000, 
+            "description": "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\">Sean Davis,</a> researcher at National Cancer Institute, part of NIH, will be talking about Bioconductor.</p> <p><a href=\"http://bioconductor.org\">Bioconductor</a> is a grant-funded open source software development project focused on the analysis and comprehension of biological data, particularly those captured using new high-throughput instruments that generate large, genomic data sets.\u00a0 Written in R, the project has over 1000 contributed packages, more than 50k downloads per month, a support forum with thousands of members, and an active developer community of several hundred.\u00a0 Built around the concepts of reproducibility, version control, documentation, software reuse and interoperability, the project has continued to grow in both popularity and capability.\u00a0 In addition to describing the project, I will give short code examples that highlight how functionality and some key aspects of the software design.\"</p> <p><a href=\"https://support.bioconductor.org/\"><a href=\"https://support.bioconductor.org/\" class=\"linkified\">https://support.bioconductor.org/</a></a><br/><a href=\"https://github.com/bioconductor/\"><a href=\"https://github.com/bioconductor/\" class=\"linkified\">https://github.com/bioconductor/</a></a><br/><a href=\"https://twitter.com/seandavis12\"><a href=\"https://twitter.com/seandavis12\" class=\"linkified\">https://twitter.com/seandavis12</a></a></p> <p>Agenda:</p> <p>6:30 - 7:00 Mingle &amp; eat and meet new people!<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30ish Presentation/Q&amp;A<br/>then off to Data Drinks!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/227916799/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "227916799", 
+            "maybe_rsvp_count": 0, 
+            "name": "R/Bioconductor", 
+            "status": "upcoming", 
+            "time": 1453246200000, 
+            "updated": 1452188126000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24286689, 
+                "lat": 38.898685, 
+                "lon": -77.049187000000003, 
+                "name": "GWU Funger Hall - Room 103", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1446220217000, 
@@ -584,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1451956016000, 
@@ -620,7 +696,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1448552700000, 
@@ -698,7 +774,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1451931941000, 
@@ -737,7 +813,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 150
+            "yes_rsvp_count": 151
         }, 
         {
             "created": 1452033054000, 
@@ -776,7 +852,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1450148912000, 
@@ -879,7 +955,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1451357840000, 
@@ -917,7 +993,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1451511034000, 
