@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "announced": false, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1446219481000, 
@@ -232,8 +232,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
-            "yes_rsvp_count": 49
+            "waitlist_count": 7, 
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1443771281000, 
@@ -270,8 +270,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 119
+            "waitlist_count": 6, 
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1326383071000, 
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1449702357000, 
@@ -337,7 +337,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1450148912000, 
@@ -441,7 +441,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1443565691000, 
@@ -480,7 +480,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 162
+            "yes_rsvp_count": 163
         }, 
         {
             "created": 1451932451000, 
@@ -519,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1452094606000, 
@@ -539,11 +539,11 @@ calendar({
             "headcount": 0, 
             "id": "227887196", 
             "maybe_rsvp_count": 0, 
-            "name": "What has Kaggle has learned from 2+ million models?", 
+            "name": "What has Kaggle learned from 2+ million models?", 
             "rsvp_limit": 8, 
             "status": "upcoming", 
             "time": 1452814200000, 
-            "updated": 1452095295000, 
+            "updated": 1452115411000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -558,7 +558,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 41, 
+            "waitlist_count": 54, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -579,10 +579,10 @@ calendar({
             "headcount": 0, 
             "id": "227886991", 
             "maybe_rsvp_count": 0, 
-            "name": "What has Kaggle has learned from 2+ million models?", 
+            "name": "What has Kaggle learned from 2+ million models?", 
             "status": "upcoming", 
             "time": 1452814200000, 
-            "updated": 1452094765000, 
+            "updated": 1452115459000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St NW", 
@@ -597,7 +597,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1448482603000, 
@@ -699,7 +699,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1450148912000, 
@@ -737,7 +737,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1451956016000, 
@@ -773,7 +773,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1448552700000, 
@@ -813,7 +813,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1451935931000, 
@@ -833,10 +833,10 @@ calendar({
             "id": "227836436", 
             "maybe_rsvp_count": 0, 
             "name": "CODE: Debugging the Gender Gap @Comcast Labs", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1454020200000, 
-            "updated": 1451937665000, 
+            "updated": 1452107440000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, 6th Floor", 
@@ -851,7 +851,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1451931941000, 
@@ -890,11 +890,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 139
+            "yes_rsvp_count": 147
         }, 
         {
             "created": 1452033054000, 
-            "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p><b>Schedule:</b></p> <p>6:00-6:30 p.m.--Registration and Networking</p> <p>6:30-7:30 p.m.--Panel Discussion</p> <p>7:30-8:00 p.m.--Networking and Meeting Potential Mentors</p> <p>8:00 p.m.--End</p>", 
+            "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p>Dinner is provided.\u00a0</p> <p><b>Schedule:</b></p> <p>6:00-6:30 p.m.--Registration and Networking</p> <p>6:30-7:30 p.m.--Panel Discussion</p> <p>7:30-8:00 p.m.--Networking and Meeting Potential Mentors</p> <p>8:00 p.m.--End</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227869679/", 
             "group": {
@@ -914,7 +914,7 @@ calendar({
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1454194800000, 
-            "updated": 1452038067000, 
+            "updated": 1452114725000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -929,7 +929,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1450148912000, 
@@ -966,7 +966,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446219481000, 
@@ -994,7 +994,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 
@@ -1070,7 +1070,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1451511034000, 
@@ -1218,7 +1218,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
