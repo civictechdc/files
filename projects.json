@@ -1722,7 +1722,69 @@
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "bornAt": "Code for DC", 
+            "categories": [
+                {
+                    "category": "trees"
+                }, 
+                {
+                    "category": "ddot"
+                }, 
+                {
+                    "category": "forestry"
+                }, 
+                {
+                    "category": "environment"
+                }
+            ], 
+            "communityPartner": {
+                "Casey Trees": "http://caseytrees.org"
+            }, 
+            "conformsTo": "http://codefordc.org/resources/specification.html", 
+            "contact": {
+                "email": "rrbaker@gmail.com", 
+                "name": "Rob Baker", 
+                "twitter": "rrbaker"
+            }, 
+            "data": {
+                "Casey Trees (planting timelapse 2003-2014 map)": "https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public", 
+                "Casey Trees (planting timelapse 2003-2014)": "http://caseytrees.org/resources/maps/time-lapse/", 
+                "DC's Urban Forest Administration (UFA) Street Trees": "http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23"
+            }, 
+            "geography": "Washington, DC", 
+            "governmentPartner": {
+                "DDOT Urban Forestry Administration": "http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa", 
+                "District Department of Transportation (DDOT)": "http://ddot.dc.gov"
+            }, 
+            "moreInfo": "https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1", 
+            "needs": [
+                {
+                    "need": "Community Engagement Pros"
+                }, 
+                {
+                    "need": "Media"
+                }, 
+                {
+                    "need": "Communications experts"
+                }, 
+                {
+                    "need": "Educators (primary,secondary)"
+                }, 
+                {
+                    "need": "GIS Analysts"
+                }, 
+                {
+                    "need": "Foresters"
+                }
+            ], 
+            "politicalEntity": {
+                "District Department of Transportation (DDOT)": "http://ddot.dc.gov"
+            }, 
+            "status": "Alpha", 
+            "thumbnailUrl": "http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17545?v=3", 
@@ -4706,7 +4768,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 16, 
+                "contributions": 19, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4724,7 +4786,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
-                "contributions": 6, 
+                "contributions": 9, 
                 "link": "https://github.com/samiam151", 
                 "name": "samiam151"
             }, 
@@ -4753,7 +4815,7 @@
         "languages": [
             [
                 "CSS", 
-                33783
+                33888
             ], 
             [
                 "HTML", 
@@ -4761,7 +4823,7 @@
             ], 
             [
                 "R", 
-                12177
+                12604
             ], 
             [
                 "Python", 
@@ -4783,9 +4845,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-07T22:55:20Z", 
+        "pushed_at": "2016-01-08T02:49:57Z", 
         "short_name": "school-modernization", 
-        "size": 1763, 
+        "size": 1791, 
         "updated_at": "2016-01-03T22:50:43Z", 
         "watchers": 4
     }, 

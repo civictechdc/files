@@ -152,33 +152,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1449702357000
-  description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
-    \ Join us for a Happy Hour Farewell in her honor. She will be sharing advice about\
-    \ how to overcome Imposter Syndrome and other words of technical and cultural\
-    \ wisdom. We will miss her dearly!!</p> <p><b>Evening Schedule of Events:</b></p>\
-    \ <p>6:00-7:00 p.m. Registration and Happy Hour</p> <p>7:00 p.m. Talk by Emma\
-    \ Grasmeder and Toasts, then more Happy Hour</p> <p>8:00 p.m. Finish</p> <p>Whether\
-    \ or not you can attend this event, please take a moment to tell Emma how much\
-    \ you appreciate her by signing our <a href=\"https://docs.google.com/forms/d/1ERZFQjFtSKo732Q8_EN8stCrIdPR842Bat6Q8nAkDQg/viewform\"\
-    >digital guestbook</a>.\_ Thank you and we hope to see you there!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227324943/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '227324943'
-  maybe_rsvp_count: 0
-  name: Farewell to Emma Grasmeder and "How to Punch Imposter Syndrome in the Face"
-  rsvp_limit: 150
-  status: upcoming
-  time: 1452207600000
-  updated: 1451927075000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 75
 - created: 1450148912000
   description: "<p>Join us for our Intro to Git night where we will be going over\
     \ the basics of using the most popular VCS (We'll elaborate on what that is at\
@@ -299,7 +272,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 22
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -334,7 +307,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 169
+  yes_rsvp_count: 183
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -383,7 +356,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - created: 1452094606000
   description: "<p><b>NOTE: This is a special DSDC/SPDC joint event. Please RSVP on\
     \ the SPDC event page\_<a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\"\
@@ -418,7 +391,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 64
+  waitlist_count: 68
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -448,7 +421,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 232
+  yes_rsvp_count: 239
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -556,8 +529,8 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 36
+  waitlist_count: 8
+  yes_rsvp_count: 40
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
     >Sean Davis,</a> researcher at National Cancer Institute, part of NIH, will be\
@@ -597,7 +570,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -696,7 +669,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -854,7 +827,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 151
+  yes_rsvp_count: 153
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -881,7 +854,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 78
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
@@ -1605,6 +1578,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1446219481000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387919/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: jzwvllyvjbcb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night(Beginner's Night)
+  rsvp_limit: 50
+  status: upcoming
+  time: 1464820200000
+  updated: 1446219481000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
