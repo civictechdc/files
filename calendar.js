@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "announced": false, 
@@ -115,7 +115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "announced": false, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1450570901000, 
@@ -260,7 +260,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1443565691000, 
@@ -299,7 +299,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 186
         }, 
         {
             "created": 1451932451000, 
@@ -377,7 +377,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 68, 
+            "waitlist_count": 69, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -416,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 239
+            "yes_rsvp_count": 248
         }, 
         {
             "created": 1448482603000, 
@@ -527,7 +527,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -566,7 +566,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1446220217000, 
@@ -594,7 +594,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1450148912000, 
@@ -636,7 +636,7 @@ calendar({
         }, 
         {
             "created": 1451956016000, 
-            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's new data portal, <a href=\"https://data.nasa.gov\" class=\"linkified\">https://data.nasa.gov</a>. Spark your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p>", 
+            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned &lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt</a>; Spark your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p><br/>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>, and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><br/><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><br/><b>Check out these links in advance:</b></p> <p><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p>&lt;a&gt;<a href=\"https://open.nasa.gov/explore/space-apps/&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/&lt;/a&gt</a>;</p> <p>&lt;a&gt;<a href=\"https://open.nasa.gov/explore/datanauts/&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/&lt;/a&gt</a>;</p> <p><br/><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><a href=\"https://lh3.googleusercontent.com/ZoRBTH1yCecfx-ugYb8AWltj7emkTE4H4OAlaLIlM3Bz-Y398v0r-VZuiW1YpLAUyVhui64cG9EjIX-6aWBvGSu5mDdy8zpCq7JtzGrDeOfCzJnY28KuNuGAzI0dqMpczjXwVnxI\" class=\"linkified\">https://lh3.googleusercontent.com/ZoRBTH1yCecfx-ugYb8AWltj7emkTE4H4OAlaLIlM3Bz-Y398v0r-VZuiW1YpLAUyVhui64cG9EjIX-6aWBvGSu5mDdy8zpCq7JtzGrDeOfCzJnY28KuNuGAzI0dqMpczjXwVnxI</a></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and mass collaboration. Beth</p> <p>leads the &lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt</a>; program, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award-winning <a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a> program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\nKathy Hsu, Socrata</p> <p>\n\nChristian Hoogerheyde, Socrata</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/227846027/", 
             "group": {
                 "created": 1339111847000, 
@@ -654,7 +654,7 @@ calendar({
             "name": "Data Beyond this World: A Night with NASA", 
             "status": "upcoming", 
             "time": 1453849200000, 
-            "updated": 1452094759000, 
+            "updated": 1452271364000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -708,7 +708,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1451935931000, 
@@ -823,8 +823,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1450148912000, 
@@ -965,7 +965,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1451511034000, 
