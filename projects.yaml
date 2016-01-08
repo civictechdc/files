@@ -544,38 +544,11 @@
   size: 32313
   updated_at: '2015-12-21T02:10:58Z'
   watchers: 29
-- activity: [0, 0, 0, 0, 0, 0, 2, 6, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 7, 1, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: trees}
-    - {category: ddot}
-    - {category: forestry}
-    - {category: environment}
-    communityPartner: {Casey Trees: 'http://caseytrees.org'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: rrbaker@gmail.com, name: Rob Baker, twitter: rrbaker}
-    data: {Casey Trees (planting timelapse 2003-2014 map): 'https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public',
-      Casey Trees (planting timelapse 2003-2014): 'http://caseytrees.org/resources/maps/time-lapse/',
-      DC's Urban Forest Administration (UFA) Street Trees: 'http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23'}
-    geography: Washington, DC
-    governmentPartner: {DDOT Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa',
-      District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
-    moreInfo: https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1
-    needs:
-    - {need: Community Engagement Pros}
-    - {need: Media}
-    - {need: Communications experts}
-    - {need: 'Educators (primary,secondary)'}
-    - {need: GIS Analysts}
-    - {need: Foresters}
-    politicalEntity: {District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
-    status: Alpha
-    thumbnailUrl: http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17545?v=3', contributions: 10,
     link: 'https://github.com/rrbaker', name: rrbaker}
@@ -890,7 +863,7 @@
   size: 1004
   updated_at: '2015-11-07T11:28:49Z'
   watchers: 15
-- activity: [0, 0, 8, 31, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+- activity: [0, 0, 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -923,8 +896,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 65, 1, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 1, 64, 1, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1021,7 +994,7 @@
   size: 3572
   updated_at: '2016-01-04T22:13:51Z'
   watchers: 19
-- activity: [0, 0, 0, 0, 0, 0, 28, 12, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 30, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1077,9 +1050,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [13, 1, 0, 8, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 1, 35, 19, 36, 2, 66, 0,
-    1, 7, 22, 4, 27, 6, 4, 15, 0, 7, 2, 4, 0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0,
-    0, 0, 2, 0, 0]
+- activity: [13, 1, 2, 6, 0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 7, 39, 12, 33, 28, 40,
+    0, 1, 20, 9, 6, 25, 8, 9, 8, 0, 7, 6, 0, 0, 80, 0, 0, 3, 5, 3, 2, 8, 13, 0, 0,
+    0, 0, 0, 2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Reentry Hackathon
@@ -1223,9 +1196,9 @@
   size: 10014
   updated_at: '2015-11-21T13:42:19Z'
   watchers: 15
-- activity: [0, 0, 0, 0, 0, 0, 14, 20, 21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 26, 8, 21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
     bornAt: Web Development Immersive 4, General Assembly
@@ -1277,9 +1250,9 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 53, 79, 26, 4, 2, 0, 1, 0, 0,
-    0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 89, 9, 3, 2, 0, 1, 0, 0, 0,
+    0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -1377,7 +1350,7 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 2, 14, 0, 28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 8, 8, 10, 22, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1439,7 +1412,7 @@
   updated_at: '2015-08-24T01:27:32Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 6, 2, 1, 1, 2, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0, 0, 7, 1, 1, 3, 0, 0, 0, 0,
     13, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1474,8 +1447,8 @@
   updated_at: '2015-09-22T20:36:44Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 3, 0, 7, 2,
-    12, 3, 28]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 3, 0, 9, 0,
+    13, 2, 28]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1545,8 +1518,8 @@
   updated_at: '2015-12-11T17:48:34Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0,
-    2, 8, 12]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0,
+    10, 6, 25]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1571,7 +1544,7 @@
     thumbnailUrl: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 13,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 16,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 12,
     link: 'https://github.com/tomBeach', name: tomBeach}
@@ -1601,15 +1574,15 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: CSS
   name: School Modernization Funds
-  open_issues: 4
+  open_issues: 5
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-07T04:50:37Z'
+  pushed_at: '2016-01-07T22:55:20Z'
   short_name: school-modernization
-  size: 1754
+  size: 1763
   updated_at: '2016-01-03T22:50:43Z'
   watchers: 4
-- activity: [7, 0, 0, 0, 2, 8, 13, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [2, 0, 0, 0, 3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1667,7 +1640,7 @@
   size: 559
   updated_at: '2015-12-08T00:24:16Z'
   watchers: 0
-- activity: [0, 0, 7, 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 40, 22, 21, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 9, 39, 35, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}

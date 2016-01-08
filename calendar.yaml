@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - announced: false
   created: 1451966541000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - announced: false
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -112,7 +112,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -150,7 +150,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 other:
 - created: 1449702357000
   description: "<p>Emma Grasmeder, our Director of Study Groups, is moving to Berlin.\
@@ -299,7 +299,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -334,7 +334,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 167
+  yes_rsvp_count: 169
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -418,7 +418,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 63
+  waitlist_count: 64
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -448,7 +448,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 216
+  yes_rsvp_count: 232
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -497,7 +497,7 @@ other:
       Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1451510871000
   description: "<p>Happy New Year!</p> <p>Hack &amp;&amp; Tell will be at WeWork Chinatown\
     \ this January! Everyone is looking forward to hearing about *your* cool hack!\
@@ -531,7 +531,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 38
 - created: 1452180790000
   description: "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\_\
     <a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and\
@@ -557,7 +557,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 36
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
     >Sean Davis,</a> researcher at National Cancer Institute, part of NIH, will be\
@@ -597,7 +597,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 57
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -672,7 +672,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1451956016000
   description: <p>Wanna know what data looks like from space? Join the brightest minds
     from NASA to learn about the agency's new data portal, <a href="https://data.nasa.gov"
@@ -696,7 +696,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -761,7 +761,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -790,7 +790,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -881,7 +881,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
     \ <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in a casual\
