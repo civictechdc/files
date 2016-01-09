@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "announced": false, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1450570901000, 
@@ -299,7 +299,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 190
+            "yes_rsvp_count": 191
         }, 
         {
             "created": 1451932451000, 
@@ -377,7 +377,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 74, 
+            "waitlist_count": 76, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -416,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 272
+            "yes_rsvp_count": 277
         }, 
         {
             "created": 1448482603000, 
@@ -490,7 +490,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1452180790000, 
@@ -527,7 +527,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -595,6 +595,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 10
+        }, 
+        {
+            "created": 1452350269000, 
+            "description": "<p>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io/\"><a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a></a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data\u00a0<br/>* Getting information from the user\u00a0<br/>* Logic and flow control\u00a0<br/>* Using the standard library\u00a0<br/>* Projects of interest</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/227961346/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "A link will be sent out the day before or the day of the class.", 
+            "id": "227961346", 
+            "maybe_rsvp_count": 0, 
+            "name": "Learn Python in your PJs!", 
+            "status": "upcoming", 
+            "time": 1453645800000, 
+            "updated": 1452350269000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Link is in the details", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23483842, 
+                "lat": 38.890369, 
+                "lon": -77.031959999999998, 
+                "name": "Google Hangout On Air", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1450148912000, 
@@ -668,7 +707,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1448552700000, 
@@ -708,7 +747,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1451935931000, 
@@ -746,7 +785,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1451931941000, 
@@ -785,7 +824,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 161
         }, 
         {
             "created": 1452033054000, 
@@ -823,7 +862,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -1243,7 +1282,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220217000, 

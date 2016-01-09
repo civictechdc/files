@@ -962,9 +962,9 @@
             0
         ], 
         "ci": {
-            "codeclimate": true, 
+            "codeclimate": false, 
             "continua11y": true, 
-            "coverage": true, 
+            "coverage": false, 
             "travis": true
         }, 
         "civic_json": {

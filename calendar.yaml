@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - announced: false
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -198,7 +198,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -307,7 +307,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 190
+  yes_rsvp_count: 191
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -391,7 +391,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 74
+  waitlist_count: 76
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -421,7 +421,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 272
+  yes_rsvp_count: 277
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -504,7 +504,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 37
 - created: 1452180790000
   description: "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\_\
     <a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and\
@@ -529,7 +529,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 19
+  waitlist_count: 20
   yes_rsvp_count: 40
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
@@ -600,6 +600,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 10
+- created: 1452350269000
+  description: "<p>This is a class for the new developer, and works not only for those\
+    \ new to programming, but also to Python.</p> <p>For this class, we will be using\
+    \ Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io/\"><a href=\"https://c9.io\"\
+    \ class=\"linkified\">https://c9.io</a></a>). Make sure that you have a C9 account\
+    \ before the class starts! Everyone should be fine using the free tier.</p> <p>Rough\
+    \ outline:</p> <p>* Storing and manipulating data\_<br/>* Getting information\
+    \ from the user\_<br/>* Logic and flow control\_<br/>* Using the standard library\_\
+    <br/>* Projects of interest</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/dc-pyladies/events/227961346/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  how_to_find_us: A link will be sent out the day before or the day of the class.
+  id: '227961346'
+  maybe_rsvp_count: 0
+  name: Learn Python in your PJs!
+  status: upcoming
+  time: 1453645800000
+  updated: 1452350269000
+  utc_offset: -18000000
+  venue: {address_1: Link is in the details, city: Washington, country: us, id: 23483842,
+    lat: 38.890369, lon: -77.031959999999998, name: Google Hangout On Air, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 - created: 1450148912000
   description: "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong\
     \ introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End\
@@ -708,7 +736,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 93
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -773,7 +801,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -802,7 +830,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 99
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -866,7 +894,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 157
+  yes_rsvp_count: 161
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -892,7 +920,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 4
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -1266,7 +1294,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
