@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 11
         }, 
         {
             "announced": false, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1450570901000, 
@@ -377,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1452094606000, 
@@ -455,7 +455,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 284
+            "yes_rsvp_count": 291
+        }, 
+        {
+            "created": 1452451042000, 
+            "description": "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/227574074/</a></a></b></p> <p>If you find yourself copying and pasting code from your build.gradle file every time you start a new project, then it's time you learn about Gradle plugins. We invite you come and learn about what it takes to create a custom Gradle plugin for use in your Android applications. We're going to go over the following:</p> <p><br/>\u2022 Plugin Structure</p> <p>\u2022 Key Components</p> <p>\u2022 Testing</p> <p>\u2022 Publishing</p> <p>_____</p> <p>Schedule: 6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- \"Gradle Plugin Goodness\" with Annyce Davis</p> <p>7:00 p.m. -- Questions and Answers</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid or use the #DCAndroid hashtag!</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/227986487/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "227986487", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC Android: Gradle Plugin Goodness", 
+            "status": "upcoming", 
+            "time": 1453158000000, 
+            "updated": 1452451105000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW, Suite 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4867002, 
+                "lat": 38.899151000000003, 
+                "lon": -77.033195000000006, 
+                "name": "LivingSocial", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1448482603000, 
@@ -672,7 +711,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1450148912000, 
@@ -710,7 +749,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1451956016000, 
@@ -824,7 +863,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1451931941000, 
