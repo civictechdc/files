@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - announced: false
   created: 1451966541000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -200,7 +200,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 88
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -286,7 +286,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 9
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -350,7 +350,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 191
+  yes_rsvp_count: 193
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -464,7 +464,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 281
+  yes_rsvp_count: 284
 - created: 1448482603000
   description: "<p><b>Note:\_</b>Registration is through\_<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\"\
     >Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world.\
@@ -844,7 +844,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 113
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -937,7 +937,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 162
+  yes_rsvp_count: 164
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -963,7 +963,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 9
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -1010,7 +1010,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1097,6 +1097,42 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 29
+- created: 1452390774000
+  description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
+    \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\
+    \ are you a data science/ML/AI guru who can't get enough of Major League Baseball?</p>\
+    \ <p>The Baseball Analytics Hackathon, hosted by the Baltimore Orioles and Booz\
+    \ Allen Hamilton, is the perfect opportunity to work with baseball executives\
+    \ and data scientists to refine your data science and analytic skills and show\
+    \ off your creativity by finding new ways to change the game. Hackathon participants\
+    \ will work to develop innovative data science and visualization solutions using\
+    \ unique datasets that we will provide alongside anything else that is openly\
+    \ available on the Internet. We hope that bringing together creative minds in\
+    \ a competitive environment will lead to novel solutions to some of the questions\
+    \ that the baseball industry is trying to answer.</p> <p>Please register at\_\
+    <a href=\"http://baseballhackathon.eventbrite.com/\">baseballhackathon.eventbrite.com</a></p>\
+    \ <p>Please e-mail Kevin Tenenbaum at\_<a href=\"mailto:[masked]\">[masked]</a>\_\
+    with any questions.</p>"
+  duration: 32400000
+  event_url: http://www.meetup.com/Data-Science-MD/events/227973005/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '227973005'
+  maybe_rsvp_count: 0
+  name: Baltimore Orioles Baseball Analytics Hackathon
+  rsvp_limit: 1
+  status: upcoming
+  time: 1454684400000
+  updated: 1452391053000
+  utc_offset: -18000000
+  venue: {address_1: 333 West Camden Street, city: Baltimore, country: us, id: 6201362,
+    lat: 39.283295000000003, lon: -76.621696, name: Oriole Park at Camden Yards, repinned: false,
+    state: MD, zip: '21201'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\

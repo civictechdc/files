@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "announced": false, 
@@ -194,7 +194,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1450570901000, 
@@ -271,7 +271,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220149000, 
@@ -338,7 +338,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 191
+            "yes_rsvp_count": 193
         }, 
         {
             "created": 1451932451000, 
@@ -455,7 +455,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 281
+            "yes_rsvp_count": 284
         }, 
         {
             "created": 1448482603000, 
@@ -786,7 +786,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1451935931000, 
@@ -863,7 +863,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 162
+            "yes_rsvp_count": 164
         }, 
         {
             "created": 1452033054000, 
@@ -901,7 +901,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -939,7 +939,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
@@ -1044,6 +1044,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 29
+        }, 
+        {
+            "created": 1452390774000, 
+            "description": "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\" /></p> <p>Do you love creating new ways to represent and visualize data? Or are you a data science/ML/AI guru who can't get enough of Major League Baseball?</p> <p>The Baseball Analytics Hackathon, hosted by the Baltimore Orioles and Booz Allen Hamilton, is the perfect opportunity to work with baseball executives and data scientists to refine your data science and analytic skills and show off your creativity by finding new ways to change the game. Hackathon participants will work to develop innovative data science and visualization solutions using unique datasets that we will provide alongside anything else that is openly available on the Internet. We hope that bringing together creative minds in a competitive environment will lead to novel solutions to some of the questions that the baseball industry is trying to answer.</p> <p>Please register at\u00a0<a href=\"http://baseballhackathon.eventbrite.com/\">baseballhackathon.eventbrite.com</a></p> <p>Please e-mail Kevin Tenenbaum at\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0with any questions.</p>", 
+            "duration": 32400000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/227973005/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "227973005", 
+            "maybe_rsvp_count": 0, 
+            "name": "Baltimore Orioles Baseball Analytics Hackathon", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1454684400000, 
+            "updated": 1452391053000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "333 West Camden Street", 
+                "city": "Baltimore", 
+                "country": "us", 
+                "id": 6201362, 
+                "lat": 39.283295000000003, 
+                "lon": -76.621696, 
+                "name": "Oriole Park at Camden Yards", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "21201"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1451511034000, 
