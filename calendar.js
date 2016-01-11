@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": false, 
@@ -173,13 +173,13 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "xrqknlyvcbpb", 
+            "id": "jsdsnlyvcbpb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to Git", 
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1452555000000, 
-            "updated": 1452387607000, 
+            "updated": 1452524177000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1450570901000, 
@@ -232,7 +232,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1452375806000, 
@@ -271,7 +271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220149000, 
@@ -299,7 +299,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1443565691000, 
@@ -338,7 +338,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 200
+            "yes_rsvp_count": 203
         }, 
         {
             "created": 1451932451000, 
@@ -377,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1452094606000, 
@@ -416,7 +416,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 81, 
+            "waitlist_count": 85, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -455,7 +455,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 305
+            "yes_rsvp_count": 326
         }, 
         {
             "created": 1452451042000, 
@@ -494,44 +494,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
-            "created": 1448482603000, 
-            "description": "<p><b>Note:\u00a0</b>Registration is through\u00a0<a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\">Eventbrite</a>.</p> <p>Come to the geekier &amp; UXier side of the web world. \u00a0</p> <p>Meet front and back-end developers, UX designers, user experience specialists, information architects and content strategists - along with the people who manage web projects, wrangle web systems and otherwise run websites.</p> <p>There are 2 main parts to the event:<br/>- Phase 1: Informal networking at topic tables with drinks and appetizers<br/>- Phase 2: Speed networking (where we match you with profession and interest areas)<br/>- Then more networking...</p> <p>\u00a0Registration includes appetizers and drinks.\u00a0</p> <p><b>== Important Registration Information ==</b></p> <p>\u2022\u00a0When <a href=\"http://www.eventbrite.com/e/speed-mix-devs-ux-and-web-managers-tickets-19708036267\">registering</a>, please be accurate with your registration type. It will be awkward during the speed mix part since you'll be matched based on that information. \u00a0</p> <p>\u2022\u00a0This event is set up to have a balance between 3 main professions. If you don't see yours here, watch for the next one!</p> <p>\u2022\u00a0Prices go up after December 17th.</p> <p><b>== How Does It Work? ==</b></p> <p><b><i>Mingle:\u00a0</i></b>We begin with structured networking at Topic Tables. You can self-select which table to join or just mingle by the food and drink.\u00a0\u00a0Interact:\u00a0Speed</p> <p><b><i>MIX :\u00a0</i></b>You'll meet 4-6 people, in sessions of 10 minutes each. We'll match you based on information you provide.\u00a0</p> <p><b><i>eXchange:\u00a0</i></b>More networking! Exchange information with the people you've met.\u00a0</p> <p><b>== Schedule ==</b></p> <p>5:45 - Check-In opens<br/>6:00 - Structured Networking\u00a0with drinks &amp; appetizers<br/>7:00 - Speed MIX<br/>8:30 - Networking continued\u00a0</p> <p><b>== Sponsorship ==</b></p> <p>If you want to highlight your product, skills or have a recruiting table, please reach out to\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0for more information. \u00a0</p> <p><b>== Other Registration Details ==</b></p> <p>\u2022\u00a0Looking to sell your product or company or recruit? Be sure you use the proper registration type. You'll be able to include a link to jobs or a product page in a follow-up message.</p> <p>\u2022\u00a0If your title doesn't let us know how techie you are - include that info!\u00a0</p> <p>\u2022\u00a0If you are a looking for a job or consulting gig, we'll have flags for your nametag.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/227019754/", 
+            "created": 1452524177000, 
+            "description": "<p>Join us for our Intro to Git night. We will be going over Git, Github, Github Pages, and Cloud9 IDE.</p> <p>To prepare for the workshop, please create an account on both Github and Cloud9 IDE:</p> <p>-\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></a></p> <p>-\u00a0<a href=\"https://c9.io/\"><a href=\"https://c9.io/\" class=\"linkified\">https://c9.io/</a></a> \u00a0</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm\u00a0- 7:00pm - Set up, hang out, introductions</p> <p>\u2022 7:00 - 8:00pm - Intro to Git workshop</p> <p>\u2022 8:00 - 8:30pm - Q&amp;A, wrap up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228006656/", 
             "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
                 "group_lon": -77.040000915527344, 
-                "id": 685061, 
+                "id": 13508462, 
                 "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "227019754", 
+            "id": "jsdsnlyvcbxb", 
             "maybe_rsvp_count": 0, 
-            "name": "Speed MIX: Developers, UX & Web Managers", 
+            "name": "Front End Hack Night - Intro to Git", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
-            "time": 1453244400000, 
-            "updated": 1448483661000, 
+            "time": 1453159800000, 
+            "updated": 1452524177000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "address_1": "1325 G Street, NW, 3rd Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1451510871000, 
@@ -568,7 +569,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1452180790000, 
@@ -605,7 +606,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 30, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -644,7 +645,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1446220217000, 
@@ -711,7 +712,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1450148912000, 
@@ -728,13 +729,13 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "xrqknlyvcbhc", 
+            "id": "jsdsnlyvcbhc", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night - Intro to the Mean Stack/Isomorphic Javascript", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1453764600000, 
-            "updated": 1451966018000, 
+            "updated": 1452524177000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -748,7 +749,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -785,7 +786,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1448552700000, 
@@ -825,7 +826,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1451935931000, 
@@ -863,11 +864,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1451931941000, 
-            "description": "<p>Data Visualization continues to evolve from a simple \u2018nice to have\u2019 on analysts\u2019 resumes into a new career discipline of its own. Countless books, tutorials and classes have helped individuals master the technical skills necessary to build graphics and images. The difficulty some encounter is converting these technical skills into monetary rewards and benefits. The difficulty can come from finding paid freelance work, seeking a raise from your current employer for your talents, or seeking job opportunities solely focused on data visualization. A few simple concepts can help your clients and employer better appreciate and compensate you based on your ability to design and develop effective data visualizations.\u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJGQ0YzIzZGMzLWEzYzYtNDA1NC05Mjc5LWQ3ODBjYzQ5NGQ0NA.jpg\" /></p> <p>Shay Anderson currently works for PricewaterhouseCoopers (PwC) Forensic Services: Investigative Analytics practice in Washington, DC where he helps clients\u2019 model solutions in response to natural disasters, government regulation, accusations of fraud, potential litigation, and even sophisticated cyber-attacks. Before joining PwC Shay had over 15 years of experience in the fields of financial, data and business analysis, and has worked with Fortune 500 companies, state and federal agencies, small businesses, as well as the US military. Shay earned his first graduate degree in Information Management from the University of Maryland College of Information Studies (iSchool) where his thesis project on effective dashboard design and development received the Dean\u2019s Award for Outstanding Development or Design (2011). \u00a0Shay just recently completed his second graduate degree in Information Visualization from the Maryland Institute College of Art (2015).</p> <p>Staff Sergeant Shay Anderson was Honorably Discharged from the Army National Guard after 15 years of service. He has over two decades of experience in crisis leadership and data visualization. Shay joined the Washington National Guard at seventeen where he was a member of the HHB 2-146 (Field Artillery) which supported the 81st Infantry Brigade. \u00a0Shay served his community and country in peacetime, in the early 90s SSG Anderson was awarded a Washington National Guard Emergency Service Military Ribbon for his courage in fighting wildfires, and in wartime during Operation Iraqi Freedom in 2003 and 2004, for his display of leadership and courage as Sergeant of the Guard commanding security forces at Camps Wolverine and Spearhead in Kuwait. In 2004 he was awarded the Army Commendation Medal.</p> <p>Shay\u2019s proudest moment of national service was in 2003 as a Squad Leader for non-combat soldiers training to become a motorized infantry squad, which upon deployment became responsible for providing security to men and material traveling into and out of Iraq during the first year of Operation Iraqi Freedom. He says that this is proudest moment of service because \u201call of my squad members returned home healthy and without injury.\u201d</p> <p><b><br/></b></p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Monetizing Data Viz</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p>\n\n\n<b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
+            "description": "<p>Data Visualization continues to evolve from a simple \u2018nice to have\u2019 on analysts\u2019 resumes into a new career discipline of its own. Countless books, tutorials and classes have helped individuals master the technical skills necessary to build graphics and images. The difficulty some encounter is converting these technical skills into monetary rewards and benefits. The difficulty can come from finding paid freelance work, seeking a raise from your current employer for your talents, or seeking job opportunities solely focused on data visualization. A few simple concepts can help your clients and employer better appreciate and compensate you based on your ability to design and develop effective data visualizations.\u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJGQ0YzIzZGMzLWEzYzYtNDA1NC05Mjc5LWQ3ODBjYzQ5NGQ0NA.jpg\" /></p> <p>Shay Anderson currently works for PricewaterhouseCoopers (PwC) Forensic Services: Investigative Analytics practice in Washington, DC where he helps clients\u2019 model solutions in response to natural disasters, government regulation, accusations of fraud, potential litigation, and even sophisticated cyber-attacks. Before joining PwC Shay had over 15 years of experience in the fields of financial, data and business analysis, and has worked with Fortune 500 companies, state and federal agencies, small businesses, as well as the US military. Shay earned his first graduate degree in Information Management from the University of Maryland College of Information Studies (iSchool) where his thesis project on effective dashboard design and development received the Dean\u2019s Award for Outstanding Development or Design (2011). \u00a0Shay just recently completed his second graduate degree in Information Visualization from the Maryland Institute College of Art (2015).</p> <p>Staff Sergeant Shay Anderson was Honorably Discharged from the Army National Guard after 15 years of service. He has over two decades of experience in crisis leadership and data visualization. Shay joined the Washington National Guard at seventeen where he was a member of the HHB 2-146 (Field Artillery) which supported the 81st Infantry Brigade. \u00a0Shay served his community and country in peacetime, in the early 90s SSG Anderson was awarded a Washington National Guard Emergency Service Military Ribbon for his courage in fighting wildfires, and in wartime during Operation Iraqi Freedom in 2003 and 2004, for his display of leadership and courage as Sergeant of the Guard commanding security forces at Camps Wolverine and Spearhead in Kuwait. In 2004 he was awarded the Army Commendation Medal.</p> <p>Shay\u2019s proudest moment of national service was in 2003 as a Squad Leader for non-combat soldiers training to become a motorized infantry squad, which upon deployment became responsible for providing security to men and material traveling into and out of Iraq during the first year of Operation Iraqi Freedom. He says that this is proudest moment of service because \u201call of my squad members returned home healthy and without injury.\u201d</p> <p><b><br/></b></p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Monetizing Data Viz</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p><b><br/></b></p> <p><b>ANNOUNCEMENTS</b></p> <p><b><a href=\"http://www.districtdatalabs.com/\">District Data Labs</a>\u00a0Workshops</b></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/fast-data-apps-with-spark-and-python/?DVDC\">Fast Data Applications with Spark &amp; Python -\u00a01/23/2016</a></b></i></p> <p><i>Learn how to interact with Spark on the command line, conduct rapid in-memory analyses, and how to build distributed applications using Python and Spark.</i></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/web-scraping-with-python/?DVDC\">Web Scraping with Python -\u00a01/30/2016</a></b></i></p> <p><i>Learn about web scraping concepts and how to create your own custom web scraper with Python.</i></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/building-data-apps-with-python/?DVDC\">Building Data Apps with Python -\u00a02/6/2016</a></b></i></p> <p><i>Learn how to build a data product in Python using every stage of the data science pipeline including ingesting, wrangling, computing, and web-based reporting.</i></p> <p><br/><b><br/></b></p> <p><b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Visualization-DC/events/227834443/", 
             "group": {
@@ -887,7 +888,7 @@ calendar({
             "rsvp_limit": 190, 
             "status": "upcoming", 
             "time": 1454023800000, 
-            "updated": 1451936330000, 
+            "updated": 1452527699000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -902,7 +903,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 166
+            "yes_rsvp_count": 171
         }, 
         {
             "created": 1452033054000, 
@@ -940,7 +941,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -958,12 +959,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "xrqknlyvdbcb", 
+            "id": "jsdsnlyvdbcb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Hack Night", 
             "status": "upcoming", 
             "time": 1454369400000, 
-            "updated": 1451927018000, 
+            "updated": 1452524177000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -1044,7 +1045,43 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
+        }, 
+        {
+            "created": 1452528053000, 
+            "event_url": "http://www.meetup.com/Geo-DC/events/228007314/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "id": "228007314", 
+            "maybe_rsvp_count": 0, 
+            "name": "February GeoDC Meetup", 
+            "status": "upcoming", 
+            "time": 1454544000000, 
+            "updated": 1452528053000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1602 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1451357840000, 
@@ -1773,34 +1810,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gcxvllyvhbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1463610600000, 
-            "updated": 1446220217000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
