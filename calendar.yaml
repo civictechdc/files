@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - announced: false
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -193,14 +193,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1452555000000
-  updated: 1452524177000
+  updated: 1452547169000
   utc_offset: -18000000
   venue: {address_1: '1325 G Street, NW, 3rd Floor', city: Washington, country: us,
     id: 24266346, lat: 38.898567, lon: -77.031006000000005, name: Social Tables, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 81
 - created: 1450570901000
   description: "<p>Members are more active in the facebook group - please join &amp;\
     \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
@@ -245,7 +245,7 @@ other:
       or find us online, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 8
 - created: 1452375806000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -315,7 +315,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1443565691000
   description: "<p>Simply put, the goal of any good data wrangler is to make data\
     \ more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating\
@@ -350,7 +350,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 203
+  yes_rsvp_count: 209
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -399,7 +399,7 @@ other:
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 112
 - created: 1452094606000
   description: "<p><b>NOTE: This is a special DSDC/SPDC joint event. Please RSVP on\
     \ the SPDC event page\_<a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\"\
@@ -434,7 +434,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 85
+  waitlist_count: 86
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -464,7 +464,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 326
+  yes_rsvp_count: 338
 - created: 1452451042000
   description: "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\"\
@@ -604,7 +604,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 30
+  waitlist_count: 31
   yes_rsvp_count: 40
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
@@ -645,7 +645,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 77
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -674,7 +674,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1452350269000
   description: "<p>This is a class for the new developer, and works not only for those\
     \ new to programming, but also to Python.</p> <p>For this class, we will be using\
@@ -702,7 +702,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 29
 - created: 1450148912000
   description: "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong\
     \ introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End\
@@ -747,7 +747,7 @@ other:
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
       Floor), repinned: false, state: DC}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 3
   yes_rsvp_count: 50
 - created: 1451956016000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
@@ -811,7 +811,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 98
+  yes_rsvp_count: 99
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -876,7 +876,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 116
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -905,7 +905,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 104
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -981,7 +981,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 171
+  yes_rsvp_count: 174
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -1007,7 +1007,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 14
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -1157,7 +1157,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1452390774000
   description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
     \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\

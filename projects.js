@@ -1102,7 +1102,7 @@ projects([
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
-        "forks": 37, 
+        "forks": 38, 
         "help_wanted": [], 
         "homepage": "http://www.codefordc.org", 
         "html_url": "https://github.com/codefordc/codefordc.github.com", 
@@ -4648,7 +4648,7 @@ projects([
         "license": null, 
         "main_language": null, 
         "name": "DC Code Metadata", 
-        "open_issues": 5, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4590660?v=3", 
             "name": "DCCouncil", 
@@ -4838,7 +4838,7 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "School Modernization Funds", 
-        "open_issues": 5, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
