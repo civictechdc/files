@@ -1,43 +1,5 @@
 codefordc:
 - announced: true
-  created: 1451966487000
-  description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
-    \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
-    \ <p>7:15 - 9:15\_Hacking! Project teams break out to work. \_If you are new,\
-    \ join the new member orientation.</p> <p>~7:30\_Food delivered.\_</p> <p>9:00\
-    \ - 9:15 Everyone reconvenes and shares reactions to and progress made over the\
-    \ last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p>\
-    \ <p>9:15 We head out to happy hour.</p> <p>Notes:\_</p> <p>\u2022 The building\
-    \ is wheelchair-accessible with advance notice. Please use the contact form below\
-    \ to let us know.</p> <p>\u2022\_Text\_202-791-4101\_for entry if no one is at\
-    \ the door.</p> <p>\u2022\_Bring cash for food and drink! Pay what you can.</p>\
-    \ <p>If you are new to Code for DC:\_</p> <p>\u2022\_Bring a laptop if you can\
-    \ (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\_<a href=\"http://codefordc.org/projects\"\
-    >our projects</a>.</p> <p>\u2022\_Review the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\"\
-    >Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\_<a href=\"http://codefordc.org/contact.html\"\
-    >contact us</a>\_with any questions, concerns, etc.</p> <p>\u2022\_If you had\
-    \ a good time, join\_<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\"\
-    >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
-    \ Meetup to stay in the loop.</p>"
-  duration: 9900000
-  event_url: http://www.meetup.com/Code-for-DC/events/227849999/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '227849999'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1452555000000
-  updated: 1452044990000
-  utc_offset: -18000000
-  venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
-    id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 55
-- announced: false
   created: 1451966541000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -67,15 +29,15 @@ codefordc:
   maybe_rsvp_count: 0
   name: Civic Hacknight
   status: upcoming
-  time: 1453246200000
-  updated: 1452045032000
+  time: 1453764600000
+  updated: 1452561310000
   utc_offset: -18000000
   venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
-- announced: false
+  yes_rsvp_count: 25
+- announced: true
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -105,14 +67,14 @@ codefordc:
   maybe_rsvp_count: 0
   name: Civic Hacknight
   status: upcoming
-  time: 1455147000000
-  updated: 1452045044000
+  time: 1454974200000
+  updated: 1452561350000
   utc_offset: -18000000
   venue: {address_1: '419 7th St NW, Third Floor', city: Washington, country: us,
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 12
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -152,100 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1450148912000
-  description: "<p>Join us for our Intro to Git night. We will be going over Git,\
-    \ Github, Github Pages, and Cloud9 IDE.</p> <p>To prepare for the workshop, please\
-    \ create an account on both Github and Cloud9 IDE:</p> <p>-\_<a href=\"https://github.com/\"\
-    ><a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></a></p>\
-    \ <p>-\_<a href=\"https://c9.io/\"><a href=\"https://c9.io/\" class=\"linkified\"\
-    >https://c9.io/</a></a> \_</p> <p>Front End Hack Night (FEHN) is a study group\
-    \ where women can come together and help each other learn and understand web development.\
-    \ We welcome devs of all levels and encourage those with more experience to help\
-    \ out those that are just starting. There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
-    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
-    \ be available at the event. Even if you have never coded before, you will be\
-    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm\_- 7:00pm - Set\
-    \ up, hang out, introductions</p> <p>\u2022 7:00 - 8:00pm - Intro to Git workshop</p>\
-    \ <p>\u2022 8:00 - 8:30pm - Q&amp;A, wrap up</p> <p><b>Resources</b></p> <p>To\
-    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
-    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
-    >http://bit.ly/first-timers-guide</a>\_</p> <p>\u2022\_HTML Study Guide: <a href=\"\
-    http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\_\
-    </p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\"\
-    \ class=\"linkified\">http://bit.ly/js-study-guide</a>\_</p> <p><b>Building Access</b></p>\
-    \ <p>Certain building management companies require Meetup hosts to let people\
-    \ in and do not encourage them being contacted. Please respect the policy. In\
-    \ case the location requires access to the building, contact the group lead if\
-    \ information is provided or drop a comment on the Meetup page. We'll come and\
-    \ get you.</p> <p><b>Welcome</b>\_</p> <p>This event is intended to be exclusively\
-    \ open for women; we are trans* friendly.</p>"
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227440158/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: jsdsnlyvcbpb
-  maybe_rsvp_count: 0
-  name: Front End Hack Night - Intro to Git
-  rsvp_limit: 100
-  status: upcoming
-  time: 1452555000000
-  updated: 1452547169000
-  utc_offset: -18000000
-  venue: {address_1: '1325 G Street, NW, 3rd Floor', city: Washington, country: us,
-    id: 24266346, lat: 38.898567, lon: -77.031006000000005, name: Social Tables, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 81
-- created: 1450570901000
-  description: "<p>Members are more active in the facebook group - please join &amp;\
-    \ participate there\_<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
-    ><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\"\
-    >https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite\
-    \ others. This is a weekly event. If you're just starting, go through the README\
-    \ at\_</p> <p><a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=fAQGVLStg&amp;enc=AZOUMCzSDGa5MmkLXdvhkEkzHfUnssjHf4Be5HP8_DMW3mcxu7nvyXtx_IMOTeBidaw&amp;s=1\"\
-    ><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\"\
-    >https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\n\nFind us at\
-    \ 6:45pm\_</p> <p><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"\
-    ><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"\
-    \ class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p>\
-    \ <p>\n\nAGENDA</p> <p><br/>6:45-7:00 Introduce ourselves</p> <p><br/>7:00-7:30\
-    \ pp 17-27 of tutorial</p> <p><br/>7:30-8:00 Each attendee will step us through\
-    \ the tests they wrote this week.</p> <p><br/>8:00-8:30 Questions, issues, action\
-    \ items for next week</p> <p>\n\nHOMEWORK TO SUBMIT BY SATURDAY JAN. 9:</p> <p><br/>1.\
-    \ Read pages 17-27 of tutorial &amp; do the exercises.\_</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"\
-    ><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"\
-    \ class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p>\
-    \ <p>\n\n2. Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb,\
-    \ test/models/group_test.rb, test/models/event_test.rb, etc. It's OK for multiple\
-    \ people to work on the same file. Make a pull request at</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"\
-    ><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\"\
-    >https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\_for your modified\
-    \ test files.</p> <p>&lt;a href=\"https://www.facebook.com/groups/crowdpublishtv/\"\
-    &gt;&lt;/a&gt;</p>"
-  event_url: http://www.meetup.com/railsgirlsdc/events/227523064/
-  group: {created: 1402595052000, group_lat: 38.900001525878906, group_lon: -77.290000915527344,
-    id: 15046892, join_mode: open, name: Rails Girls DC, urlname: railsgirlsdc, who: Rails
-      Women}
-  headcount: 0
-  how_to_find_us: https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa
-  id: '227523064'
-  maybe_rsvp_count: 0
-  name: Ruby on Rails Google Hangouts class/tutorial
-  status: upcoming
-  time: 1452555900000
-  updated: 1450570901000
-  utc_offset: -18000000
-  venue: {address_1: Near Nottoway Park, city: Vienna, country: us, id: 24149860,
-    lat: 38.884383999999997, lon: -77.274947999999995, name: A mile from Vienna metro
-      or find us online, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 8
 - created: 1452375806000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -286,7 +154,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -350,7 +218,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 209
+  yes_rsvp_count: 211
 - created: 1451932451000
   description: "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\_\
     Adrian Cockcroft on Jan 14, 2016. \_</p> <p><b>Topic:\_Enterprise Transformation\
@@ -434,7 +302,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 86
+  waitlist_count: 87
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -464,7 +332,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 338
+  yes_rsvp_count: 344
 - created: 1452451042000
   description: "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\"\
@@ -545,7 +413,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1451510871000
   description: "<p>Happy New Year!</p> <p>Hack &amp;&amp; Tell will be at WeWork Chinatown\
     \ this January! Everyone is looking forward to hearing about *your* cool hack!\
@@ -604,7 +472,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 31
+  waitlist_count: 32
   yes_rsvp_count: 40
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
@@ -702,7 +570,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1450148912000
   description: "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong\
     \ introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End\
@@ -730,6 +598,7 @@ other:
     \ the group lead if information is provided or drop a comment on the Meetup page.\
     \ We'll come and get you.</p> <p><b>Welcome</b>\_</p> <p>This event is intended\
     \ to be exclusively open for women; we are trans* friendly.</p>"
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/227440295/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -741,7 +610,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1453764600000
-  updated: 1452524177000
+  updated: 1452565857000
   utc_offset: -18000000
   venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
@@ -811,7 +680,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 102
 - created: 1448552700000
   description: "<p>So many data science talks focus on the \"sexier\" side of data\
     \ science - algorithms, models, visualizations and even data pipelines. However,\
@@ -876,7 +745,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 117
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -905,7 +774,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 103
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -981,7 +850,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 174
+  yes_rsvp_count: 176
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -1007,7 +876,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 15
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -1083,7 +952,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1756,6 +1625,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1446220217000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
+    \ This Women Who Code DC event is intended to be exclusively open for women; we\
+    \ are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gcxvllyvhbxb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1463610600000
+  updated: 1446220217000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

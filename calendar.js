@@ -2,45 +2,6 @@ calendar({
     "codefordc": [
         {
             "announced": true, 
-            "created": 1451966487000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:15\u00a0Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/227849999/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227849999", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1452555000000, 
-            "updated": 1452044990000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 55
-        }, 
-        {
-            "announced": false, 
             "created": 1451966541000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -60,8 +21,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1453246200000, 
-            "updated": 1452045032000, 
+            "time": 1453764600000, 
+            "updated": 1452561310000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -76,10 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 25
         }, 
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1451966585000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -99,8 +60,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1455147000000, 
-            "updated": 1452045044000, 
+            "time": 1454974200000, 
+            "updated": 1452561350000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "419 7th St NW, Third Floor", 
@@ -115,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 12
         }, 
         {
             "announced": false, 
@@ -159,82 +120,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1450148912000, 
-            "description": "<p>Join us for our Intro to Git night. We will be going over Git, Github, Github Pages, and Cloud9 IDE.</p> <p>To prepare for the workshop, please create an account on both Github and Cloud9 IDE:</p> <p>-\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com/\" class=\"linkified\">https://github.com/</a></a></p> <p>-\u00a0<a href=\"https://c9.io/\"><a href=\"https://c9.io/\" class=\"linkified\">https://c9.io/</a></a> \u00a0</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm\u00a0- 7:00pm - Set up, hang out, introductions</p> <p>\u2022 7:00 - 8:00pm - Intro to Git workshop</p> <p>\u2022 8:00 - 8:30pm - Q&amp;A, wrap up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440158/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jsdsnlyvcbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night - Intro to Git", 
-            "rsvp_limit": 100, 
-            "status": "upcoming", 
-            "time": 1452555000000, 
-            "updated": 1452547169000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 81
-        }, 
-        {
-            "created": 1450570901000, 
-            "description": "<p>Members are more active in the facebook group - please join &amp; participate there\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at\u00a0</p> <p><a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=fAQGVLStg&amp;enc=AZOUMCzSDGa5MmkLXdvhkEkzHfUnssjHf4Be5HP8_DMW3mcxu7nvyXtx_IMOTeBidaw&amp;s=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\n\nFind us at 6:45pm\u00a0</p> <p><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p> <p>\n\nAGENDA</p> <p><br/>6:45-7:00 Introduce ourselves</p> <p><br/>7:00-7:30 pp 17-27 of tutorial</p> <p><br/>7:30-8:00 Each attendee will step us through the tests they wrote this week.</p> <p><br/>8:00-8:30 Questions, issues, action items for next week</p> <p>\n\nHOMEWORK TO SUBMIT BY SATURDAY JAN. 9:</p> <p><br/>1. Read pages 17-27 of tutorial &amp; do the exercises.\u00a0</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p>\n\n2. Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb, test/models/group_test.rb, test/models/event_test.rb, etc. It's OK for multiple people to work on the same file. Make a pull request at</p> <p><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>\u00a0for your modified test files.</p> <p>&lt;a href=\"https://www.facebook.com/groups/crowdpublishtv/\"&gt;&lt;/a&gt;</p>", 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/227523064/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.290000915527344, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
-            "id": "227523064", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Google Hangouts class/tutorial", 
-            "status": "upcoming", 
-            "time": 1452555900000, 
-            "updated": 1450570901000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Near Nottoway Park", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 24149860, 
-                "lat": 38.884383999999997, 
-                "lon": -77.274947999999995, 
-                "name": "A mile from Vienna metro or find us online", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
-        }, 
-        {
             "created": 1452375806000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p>This week we will be working on getting started with Android Studio. Please make sure that you have tried to install Android Studio on your laptop before you arrive! We will help with any installation issues, but it helps if you have already downloaded what you need. Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our Android Getting Started Guide. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack group to talk about all things Android.</p>", 
             "duration": 7200000, 
@@ -271,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -338,7 +223,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 209
+            "yes_rsvp_count": 211
         }, 
         {
             "created": 1451932451000, 
@@ -416,7 +301,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 86, 
+            "waitlist_count": 87, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -455,7 +340,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 338
+            "yes_rsvp_count": 344
         }, 
         {
             "created": 1452451042000, 
@@ -532,7 +417,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1451510871000, 
@@ -606,7 +491,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -712,11 +597,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1450148912000, 
             "description": "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440295/", 
             "group": {
                 "created": 1395616294000, 
@@ -735,7 +621,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1453764600000, 
-            "updated": 1452524177000, 
+            "updated": 1452565857000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -786,7 +672,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1448552700000, 
@@ -826,7 +712,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1451935931000, 
@@ -864,7 +750,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1451931941000, 
@@ -903,7 +789,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 174
+            "yes_rsvp_count": 176
         }, 
         {
             "created": 1452033054000, 
@@ -941,7 +827,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -1007,7 +893,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1326383071000, 
@@ -1810,6 +1696,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
