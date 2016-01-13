@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "announced": true, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "announced": false, 
@@ -135,13 +135,14 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Ring 300 on the box outside, and someone will let you in! Elevator broken, we're on the 3rd floor", 
             "id": "227968983", 
             "maybe_rsvp_count": 0, 
             "name": "Android Hack Night - Beginner's Night", 
             "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1452641400000, 
-            "updated": 1452375806000, 
+            "updated": 1452641055000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1015 7th Street NW.", 
@@ -156,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -195,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1452617032000, 
@@ -235,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1443565691000, 
@@ -274,7 +275,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 209
+            "yes_rsvp_count": 214
         }, 
         {
             "created": 1451932451000, 
@@ -313,7 +314,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1452094606000, 
@@ -352,7 +353,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 87, 
+            "waitlist_count": 86, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -391,7 +392,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 355
+            "yes_rsvp_count": 357
         }, 
         {
             "created": 1452451042000, 
@@ -430,7 +431,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1451510871000, 
@@ -467,7 +468,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
+        }, 
+        {
+            "created": 1452641797000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</b></i></p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228043394/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228043394", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night - Java for Android!", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1453246200000, 
+            "updated": 1452641797000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1452180790000, 
@@ -504,7 +532,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 32, 
+            "waitlist_count": 33, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -648,7 +676,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -688,6 +716,33 @@ calendar({
             "yes_rsvp_count": 103
         }, 
         {
+            "created": 1452642098000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will have a presentation on git and how to use it with your choice of software development! Please try to install git on your laptop before arriving!</b></i></p> <p><b>Building Access</b></p> <p><br/>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228043602/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228043602", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Hack Night - Intro to Git!", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1453851000000, 
+            "updated": 1452642098000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1448552700000, 
             "description": "<p>So many data science talks focus on the \"sexier\" side of data science - algorithms, models, visualizations and even data pipelines. However, nothing is sexier than turning an algorithm or model into a sustainable product that brings gains to you or your company. And a sustainable product is the outcome of skills and focus on the software and architecture side of the house. So come learn (or sharpen) your software skills and earn the admiration of everyone you work with.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:15 PM -- <i>Visualizing Datasets with Java Web Applications and D3\u00a0- Mike Machovec and</i><i>\u00a0Ryan Blace</i></p> <p>8:30 PM -- Post event drinks</p> <p><b>Talk</b></p> <p><b><i>Visualizing Datasets with Java Web Applications and D3</i></b></p> <p><br/>This talk follows the development of a RESTful Java web application for visualizing board game statistics from <a href=\"http://boardgamegeek.com/\">boardgamegeek.com</a>, which allows users to log individual board game play results, such as participating players, ending game scores, and game winner(s).\u00a0 These logged events are then able to be accessed via a RESTful API.\u00a0 This talk focuses on a Java web application that uses this API to access the logged plays and summarizes those plays using various visualizations.\u00a0 Variations of board games and resulting logged plays will be briefly discussed, but the primary focus will be on the considerations made at the business and presentation tiers for conveying this dataset, such as data acquisition, REST service conventions, visualization methods, and technology selection for implementation.</p> <p><br/><b>Speakers</b></p> <p><a href=\"mailto:[masked]\">Mike </a>is a senior software engineer at Asymmetrik with over 10 years of experience developing Enterprise Java Web Applications. \u00a0He received his master\u2019s degree in Computer Science from Johns Hopkins University with a focus on Software Engineering and Enterprise Web Computing. Mike enjoys playing board games with his wife and friends in his spare time and has been gathering play statistics for the past year.</p> <p>Ryan is the strategic technical lead at Asymmetrik and an experienced computer science professional with over 13 years of systems architecture, data visualization and analysis, and software development experience. His passion for technology drives him to build beautiful and functional applications. Ryan holds a Masters in Computer Science from Virginia Tech and an undergrad degree in Computer Engineering from the University of Maryland at College Park. In his spare time, Ryan likes to get lost mountain biking in the woods of the Patapsco Valley.</p> <p><b>Company</b></p> <p><a href=\"http://asymmetrik.com/\">Asymmetrik</a>\u00a0is a high-end technology and analytics firm whose agile methodology enable a mission positive impact by tackling big problems with small teams. Our business is to increase our customer\u2019s productivity by combining their domain knowledge and business problems with our preeminent system expertise.\u00a0</p> <p>Location</p> <p>JHU APL Building 200 is located in the South Campus. There is ample parking around the building.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -725,7 +780,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1451935931000, 
@@ -840,7 +895,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -1177,7 +1232,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220217000, 
@@ -1390,7 +1445,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446220217000, 
@@ -1551,34 +1606,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvgbrb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvgbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1460586600000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -1604,34 +1631,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gcxvllyvgbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1461191400000, 
-            "updated": 1446220217000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
