@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "announced": true, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": false, 
@@ -174,13 +174,13 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "Tell the front desk person you're meeting with Women Who Code at LivingSocial and they will send you to the right floor. More details in comments on Wednesday!", 
+            "how_to_find_us": "Tell the front desk person you're meeting with Women Who Code at LivingSocial and they will send you to the first floor. You'll see Katherine on the couches as you walk in and she will direct you to the correct room!", 
             "id": "228034488", 
             "maybe_rsvp_count": 0, 
             "name": "Ruby on Rails: Intro to Git", 
             "status": "upcoming", 
             "time": 1452727800000, 
-            "updated": 1452617032000, 
+            "updated": 1452723139000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -235,7 +235,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 216
+            "yes_rsvp_count": 214
         }, 
         {
             "created": 1451932451000, 
@@ -274,7 +274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 136
+            "yes_rsvp_count": 138
         }, 
         {
             "created": 1452094606000, 
@@ -313,7 +313,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 84, 
+            "waitlist_count": 86, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -352,7 +352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 369
+            "yes_rsvp_count": 377
         }, 
         {
             "created": 1452451042000, 
@@ -428,7 +428,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1452641797000, 
@@ -531,7 +531,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1446220217000, 
@@ -563,7 +563,7 @@ calendar({
         }, 
         {
             "created": 1452350269000, 
-            "description": "<p>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io/\"><a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a></a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data\u00a0<br/>* Getting information from the user\u00a0<br/>* Logic and flow control\u00a0<br/>* Using the standard library\u00a0<br/>* Projects of interest</p>", 
+            "description": "<p><a href=\"https://www.youtube.com/watch?v=s7hQ7XHh1Jw\" class=\"embedded\">https://www.youtube.com/watch?v=s7hQ7XHh1Jw</a></p> <p><br/>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io/\"><a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a></a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data\u00a0<br/>* Getting information from the user\u00a0<br/>* Logic and flow control\u00a0<br/>* Using the standard library\u00a0<br/>* Projects of interest</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/dc-pyladies/events/227961346/", 
             "group": {
@@ -577,13 +577,13 @@ calendar({
                 "who": "PyLadies"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "A link will be sent out the day before or the day of the class.", 
+            "how_to_find_us": "Hopefully, the link below will work. If not, keep an eye on your email and this page!", 
             "id": "227961346", 
             "maybe_rsvp_count": 0, 
             "name": "Learn Python in your PJs!", 
             "status": "upcoming", 
             "time": 1453645800000, 
-            "updated": 1452350269000, 
+            "updated": 1452717405000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Link is in the details", 
@@ -673,7 +673,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1452642098000, 
@@ -740,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1451935931000, 
@@ -778,7 +778,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1451931941000, 
@@ -817,7 +817,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 186
         }, 
         {
             "created": 1452033054000, 
@@ -855,7 +855,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -927,7 +927,7 @@ calendar({
             "created": 1452612310000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/cjdtnlyvdbfb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228066041/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -948,7 +948,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -986,7 +986,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1452528053000, 
