@@ -120,124 +120,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486804/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvcbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1452727800000, 
-            "updated": 1452615976000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
-            "created": 1452617032000, 
-            "description": "<p>\"What is git? Does it have something to do with Github? Why do I need it?\"</p> <p>This quick talk will introduce you to the basics of git, how to use it, how to use it with Github. \u00a0Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.</p> <p>Not a Ruby on Rails person (yet)? Come along anyway, git is nearly universal in the programming world.\u00a0</p> <p>We look forward to seeing you there!</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Intro to Git</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228034488/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Tell the front desk person you're meeting with Women Who Code at LivingSocial and they will send you to the first floor. You'll see Katherine on the couches as you walk in and she will direct you to the correct room!", 
-            "id": "228034488", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Intro to Git", 
-            "status": "upcoming", 
-            "time": 1452727800000, 
-            "updated": 1452723139000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
-            "created": 1443565691000, 
-            "description": "<p>Simply put, the goal of any good data wrangler is to make data more accessible.</p> <p>Consider the antithesis, the idea of hiding and obfuscating your data but still publishing it on the web. Let\u2019s learn from the our anti-hero, the black-hat data wrangler.</p> <p>Who wants to foil the data-wrangler?</p> <p>A corporation required to publish financial data.</p> <p>A political campaign with sensitive contributors lists.</p> <p>An industry heading toward regulation, and would like to hide their status.</p> <p>A digital content provider that displays the goods before a sale.</p> <p>A local government agency feeling the burden of being forced to respond to FOIA requests.</p> <p>In this talk Travis (organizer/Hack&amp;Tell) and Robert (organizer/Data Wranglers) will divulge the dark secrets of black-hat wrangling. You\u2019ll learn the numerous ways you can make data publicly available yet hard to obtain. In the spirit of a good hacking talk, we\u2019ll discuss all the ways to defeat each tactic.</p> <p>Join us in January! While you wait, share the worst dataset you\u2019ve ever encountered in the meetup comments.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225710555/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvcbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Black Hat Data Wrangling", 
-            "status": "upcoming", 
-            "time": 1452727800000, 
-            "updated": 1449660835000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 10605112, 
-                "lat": 38.898952000000001, 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 103", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 214
-        }, 
-        {
             "created": 1451932451000, 
             "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockcroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>5:30 - 6:00 : Networking with a Bar Setup at Capital One</b></p> <p><b>6:00 - 7:00: Adrian Session on\u00a0Enterprise Transformation with Cloud</b></p> <p><b>7:00 - 8:00: Post Event Networking</b></p> <p><b>Speaker: Adrian Cocckroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockcroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
             "duration": 9000000, 
@@ -274,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1452094606000, 
@@ -313,7 +195,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 86, 
+            "waitlist_count": 87, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -352,7 +234,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 377
+            "yes_rsvp_count": 384
         }, 
         {
             "created": 1452451042000, 
@@ -428,7 +310,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1452641797000, 
@@ -455,7 +337,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1452180790000, 
@@ -492,7 +374,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 34, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -531,7 +413,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1446220217000, 
@@ -636,7 +518,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -673,7 +555,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1452642098000, 
@@ -700,7 +582,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1448552700000, 
@@ -778,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1451931941000, 
@@ -817,7 +699,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 186
+            "yes_rsvp_count": 187
         }, 
         {
             "created": 1452033054000, 
@@ -986,7 +868,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1452528053000, 
@@ -1169,7 +1051,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Details on this talk are forthcoming and the title will change (I made it up). From my discussion with the speaker it's going to be awesome so be sure to sign up.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/222987192/", 
             "group": {
@@ -1185,14 +1067,14 @@ calendar({
             "headcount": 0, 
             "id": "hffzclyvdbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "February Meetup", 
+            "name": "Using AI to Force an Advanced Search and Get That Data", 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1449257866000, 
+            "updated": 1452775606000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220217000, 
@@ -1595,7 +1477,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Details are coming. \u00a0Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\">Luigi</a> library.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934654/", 
             "group": {
@@ -1611,14 +1493,69 @@ calendar({
             "headcount": 0, 
             "id": "hffzclyvgbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "April Meetup", 
+            "name": "Using Luigi to Build Data Wrangling & Processing Pipelines", 
             "status": "upcoming", 
             "time": 1460586600000, 
-            "updated": 1449242256000, 
+            "updated": 1452775529000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/cjdtnlyvhbgb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: First Timer's Night!", 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1452612358000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
