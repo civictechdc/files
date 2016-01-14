@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "announced": true, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "announced": false, 
@@ -121,7 +121,7 @@ calendar({
     "other": [
         {
             "created": 1451932451000, 
-            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockcroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>5:30 - 6:00 : Networking with a Bar Setup at Capital One</b></p> <p><b>6:00 - 7:00: Adrian Session on\u00a0Enterprise Transformation with Cloud</b></p> <p><b>7:00 - 8:00: Post Event Networking</b></p> <p><b>Speaker: Adrian Cocckroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockcroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
+            "description": "<p>Friends,</p> <p>We are delighted to invite you to an event featuring\u00a0Adrian Cockcroft on Jan 14, 2016. \u00a0</p> <p><b>Topic:\u00a0Enterprise Transformation with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\u00a01680 Capital One Drive,\u00a0McLean,\u00a0VA</b></p> <p><b>5:30 - 6:00 : Networking with a Bar Setup at Capital One</b></p> <p><b>6:00 - 7:00: Adrian Session on\u00a0Enterprise Transformation with Cloud</b></p> <p><b>Adrian's talk today will be interactive, so we can discuss the issues that matter most to the audience. As background reading Adrian posted a slide deck (which would take too long to go through).</b></p> <p><b>\u00a0<a href=\"http://www.slideshare.net/adriancockcroft/innovation-and-architecture\"><a href=\"http://www.slideshare.net/adriancockcroft/innovation-and-architecture\" class=\"linkified\">http://www.slideshare.net/adriancockcroft/innovation-and-architecture</a></a><br/></b></p> <p><b>7:00 - 8:00: Post Event Networking</b></p> <p><b>Speaker: Adrian Cocckroft</b>\u00a0 -\u00a0<a href=\"https://twitter.com/adrianco\">@adrianco</a>\u00a0</p> <p>Adrian Cockcroft has had a long career working at the leading edge of technology most recently driving enterprise adoption of cloud technologies and microservices amongst other new trends. He\u2019s always been fascinated by what comes next, and he writes and speaks extensively on a range of subjects. He is currently at Battery Ventures focused on working with exciting start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly available public-cloud architecture and the open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working on personalization algorithms and service-oriented refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing advanced mobile applications and even building his own homebrew phone, years before iPhone and Android launched. As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201cSun Performance and Tuning\u201d book and was chief architect for High Performance Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball to talk about emerging opportunities in the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\">Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions Here:\u00a0<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"https://jobs.capitalone.com/search-jobs/engineering\" class=\"linkified\">https://jobs.capitalone.com/search-jobs/engineering</a></a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/227834701/", 
             "group": {
@@ -141,7 +141,7 @@ calendar({
             "name": "TechTalks@CloudDC by Adrian Cockcroft - Battery Ventures", 
             "status": "upcoming", 
             "time": 1452810600000, 
-            "updated": 1452699882000, 
+            "updated": 1452784066000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 143
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1452094606000, 
@@ -195,7 +195,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 87, 
+            "waitlist_count": 88, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -234,7 +234,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 384
+            "yes_rsvp_count": 394
         }, 
         {
             "created": 1452451042000, 
@@ -256,8 +256,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "DC Android: Gradle Plugin Goodness", 
             "status": "upcoming", 
-            "time": 1453158000000, 
-            "updated": 1452451105000, 
+            "time": 1453244400000, 
+            "updated": 1452787688000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW, Suite 200", 
@@ -273,7 +273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1451510871000, 
@@ -310,7 +310,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1452641797000, 
@@ -337,7 +337,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1452180790000, 
@@ -374,7 +374,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 34, 
+            "waitlist_count": 35, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -413,7 +413,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1446220217000, 
@@ -441,7 +441,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1452350269000, 
@@ -518,7 +518,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -555,7 +555,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1452642098000, 
@@ -622,7 +622,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1451935931000, 
@@ -660,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1451931941000, 
@@ -699,7 +699,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 187
+            "yes_rsvp_count": 188
         }, 
         {
             "created": 1452033054000, 
@@ -737,7 +737,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -803,7 +803,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1452612310000, 
@@ -904,7 +904,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1451357840000, 
@@ -1074,7 +1074,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1446220217000, 
@@ -1287,7 +1287,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220217000, 
@@ -1500,7 +1500,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220217000, 

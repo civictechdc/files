@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - announced: true
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -74,7 +74,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -120,27 +120,33 @@ other:
     \ with Cloud Computing</b></p> <p><b>Date: Thu, Jan 14th, 2016</b></p> <p><b>Location:\_\
     1680 Capital One Drive,\_McLean,\_VA</b></p> <p><b>5:30 - 6:00 : Networking with\
     \ a Bar Setup at Capital One</b></p> <p><b>6:00 - 7:00: Adrian Session on\_Enterprise\
-    \ Transformation with Cloud</b></p> <p><b>7:00 - 8:00: Post Event Networking</b></p>\
-    \ <p><b>Speaker: Adrian Cocckroft</b>\_ -\_<a href=\"https://twitter.com/adrianco\"\
-    >@adrianco</a>\_</p> <p>Adrian Cockcroft has had a long career working at the\
-    \ leading edge of technology most recently driving enterprise adoption of cloud\
-    \ technologies and microservices amongst other new trends. He\u2019s always been\
-    \ fascinated by what comes next, and he writes and speaks extensively on a range\
-    \ of subjects. He is currently at Battery Ventures focused on working with exciting\
-    \ start-ups and keeping abreast of technology trends.</p> <p>Before joining Battery,\
-    \ Adrian helped lead <b>Netflix\u2019s</b> migration to a large scale, highly\
-    \ available public-cloud architecture and the open sourcing of the cloud-native\
-    \ <b>NetflixOSS</b> platform. Prior to that at Netflix he managed a team working\
-    \ on personalization algorithms and service-oriented refactoring.</p> <p>Adrian\
-    \ was a founding member of eBay Research Labs, developing advanced mobile applications\
-    \ and even building his own homebrew phone, years before iPhone and Android launched.\
-    \ As a distinguished engineer at Sun Microsystems he wrote the best-selling \u201C\
-    Sun Performance and Tuning\u201D book and was chief architect for High Performance\
-    \ Technical Computing.</p> <p>We have invited Adrian to talk about \"Enterprise\
-    \ Transformation with Cloud Computing\" and \"peer\" into the cloud crystal ball\
-    \ to talk about emerging opportunities in the enterprise cloud space and see what\
-    \ \"lies ahead\" in 2016 and beyond!</p> <p><b>Sponsors: <a href=\"http://www.capitalone.io/\"\
-    >Capital One</a></b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\"\
+    \ Transformation with Cloud</b></p> <p><b>Adrian's talk today will be interactive,\
+    \ so we can discuss the issues that matter most to the audience. As background\
+    \ reading Adrian posted a slide deck (which would take too long to go through).</b></p>\
+    \ <p><b>\_<a href=\"http://www.slideshare.net/adriancockcroft/innovation-and-architecture\"\
+    ><a href=\"http://www.slideshare.net/adriancockcroft/innovation-and-architecture\"\
+    \ class=\"linkified\">http://www.slideshare.net/adriancockcroft/innovation-and-architecture</a></a><br/></b></p>\
+    \ <p><b>7:00 - 8:00: Post Event Networking</b></p> <p><b>Speaker: Adrian Cocckroft</b>\_\
+    \ -\_<a href=\"https://twitter.com/adrianco\">@adrianco</a>\_</p> <p>Adrian Cockcroft\
+    \ has had a long career working at the leading edge of technology most recently\
+    \ driving enterprise adoption of cloud technologies and microservices amongst\
+    \ other new trends. He\u2019s always been fascinated by what comes next, and he\
+    \ writes and speaks extensively on a range of subjects. He is currently at Battery\
+    \ Ventures focused on working with exciting start-ups and keeping abreast of technology\
+    \ trends.</p> <p>Before joining Battery, Adrian helped lead <b>Netflix\u2019s</b>\
+    \ migration to a large scale, highly available public-cloud architecture and the\
+    \ open sourcing of the cloud-native <b>NetflixOSS</b> platform. Prior to that\
+    \ at Netflix he managed a team working on personalization algorithms and service-oriented\
+    \ refactoring.</p> <p>Adrian was a founding member of eBay Research Labs, developing\
+    \ advanced mobile applications and even building his own homebrew phone, years\
+    \ before iPhone and Android launched. As a distinguished engineer at Sun Microsystems\
+    \ he wrote the best-selling \u201CSun Performance and Tuning\u201D book and was\
+    \ chief architect for High Performance Technical Computing.</p> <p>We have invited\
+    \ Adrian to talk about \"Enterprise Transformation with Cloud Computing\" and\
+    \ \"peer\" into the cloud crystal ball to talk about emerging opportunities in\
+    \ the enterprise cloud space and see what \"lies ahead\" in 2016 and beyond!</p>\
+    \ <p><b>Sponsors: <a href=\"http://www.capitalone.io/\">Capital One</a></b></p>\
+    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\"\
     \ /></p> <p>Capital One is <a href=\"https://jobs.capitalone.com/search-jobs/engineering\"\
     >Hiring</a> All Kinds of Engineering Positions: Look for the Available Positions\
     \ Here:\_<a href=\"https://jobs.capitalone.com/search-jobs/engineering\"><a href=\"\
@@ -158,13 +164,13 @@ other:
   name: TechTalks@CloudDC by Adrian Cockcroft - Battery Ventures
   status: upcoming
   time: 1452810600000
-  updated: 1452699882000
+  updated: 1452784066000
   utc_offset: -18000000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, lon: 0, name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 143
+  yes_rsvp_count: 140
 - created: 1452094606000
   description: "<p><b>NOTE: This is a special DSDC/SPDC joint event. Please RSVP on\
     \ the SPDC event page\_<a href=\"http://www.meetup.com/stats-prog-dc/events/227886991/\"\
@@ -199,7 +205,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 87
+  waitlist_count: 88
   yes_rsvp_count: 8
 - created: 1452093865000
   description: <p>Please join us in the special DSDC/SDPC Event with Anthony Goldbloom,
@@ -229,7 +235,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 384
+  yes_rsvp_count: 394
 - created: 1452451042000
   description: "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\"\
@@ -253,15 +259,15 @@ other:
   maybe_rsvp_count: 0
   name: 'DC Android: Gradle Plugin Goodness'
   status: upcoming
-  time: 1453158000000
-  updated: 1452451105000
+  time: 1453244400000
+  updated: 1452787688000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW, Suite 200', city: Washington, country: us,
     id: 4867002, lat: 38.899151000000003, lon: -77.033195000000006, name: LivingSocial,
     repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 14
 - created: 1451510871000
   description: "<p>Happy New Year!</p> <p>Hack &amp;&amp; Tell will be at WeWork Chinatown\
     \ this January! Everyone is looking forward to hearing about *your* cool hack!\
@@ -295,7 +301,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1452641797000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -333,7 +339,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1452180790000
   description: "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\_\
     <a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and\
@@ -358,7 +364,7 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 34
+  waitlist_count: 35
   yes_rsvp_count: 40
 - created: 1452188100000
   description: "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\"\
@@ -399,7 +405,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -428,7 +434,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 14
 - created: 1452350269000
   description: "<p><a href=\"https://www.youtube.com/watch?v=s7hQ7XHh1Jw\" class=\"\
     embedded\">https://www.youtube.com/watch?v=s7hQ7XHh1Jw</a></p> <p><br/>This is\
@@ -505,7 +511,7 @@ other:
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
       Floor), repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 7
   yes_rsvp_count: 50
 - created: 1451956016000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
@@ -569,7 +575,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 112
 - created: 1452642098000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -672,7 +678,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 126
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -701,7 +707,7 @@ other:
       Labs, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 119
 - created: 1451931941000
   description: "<p>Data Visualization continues to evolve from a simple \u2018nice\
     \ to have\u2019 on analysts\u2019 resumes into a new career discipline of its\
@@ -777,7 +783,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 187
+  yes_rsvp_count: 188
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
     \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
@@ -803,7 +809,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 21
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -879,7 +885,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -958,7 +964,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1451357840000
   description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\"\
     \ /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"\
@@ -1113,7 +1119,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 39
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1313,7 +1319,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1513,7 +1519,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
