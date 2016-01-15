@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - announced: true
   created: 1451966585000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -114,6 +114,36 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
+- created: 1452867624000
+  description: "<p>Interested in sharpening your problem solving skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
+    \ will be as follows:</p> <p>6:30 -\_Arrival/Dinner</p> <p>6:45 - 8:15 - We'll\
+    \ spend the meetup working on questions in groups or individually and then review!</p>\
+    \ <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding\
+    \ on the computer so please bring a computer. <b>You can code in the language\
+    \ of your choice (including pseudocode)!</b></p> <p>This event is intended to\
+    \ be exclusively open for women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228108694/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  how_to_find_us: Call 5743237240 if the door is locked outside.
+  id: '228108694'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1453159800000
+  updated: 1452867624000
+  utc_offset: -18000000
+  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
+    id: 23852906, lat: 38.903111000000003, lon: -77.059639000000004, name: Palantir
+      Technologies, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1452451042000
   description: "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\"\
@@ -179,7 +209,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 53
 - created: 1452641797000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -217,7 +247,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1452180790000
   description: "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\_\
     <a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and\
@@ -283,7 +313,7 @@ other:
     lon: -77.049187000000003, name: GWU Funger Hall - Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 98
 - created: 1452812846000
   description: "<p>Most Ruby on Rails apps require user registration and authentication\
     \ mechanisms. Authentication determines if users are who they say they are, usually\
@@ -342,7 +372,7 @@ other:
     lat: 38.907192000000002, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 10
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -371,7 +401,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1452350269000
   description: "<p><a href=\"https://www.youtube.com/watch?v=s7hQ7XHh1Jw\" class=\"\
     embedded\">https://www.youtube.com/watch?v=s7hQ7XHh1Jw</a></p> <p><br/>This is\
@@ -402,7 +432,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1450148912000
   description: "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong\
     \ introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End\
@@ -448,7 +478,7 @@ other:
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
       Floor), repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 10
   yes_rsvp_count: 50
 - created: 1451956016000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
@@ -529,7 +559,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 117
 - created: 1452642098000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -632,7 +662,7 @@ other:
     state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 127
+  yes_rsvp_count: 128
 - created: 1451935931000
   description: "<p>Comcast Labs DC is hosting a screening of a powerful documentary\
     \ film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority\
@@ -736,7 +766,7 @@ other:
     id: 24185893, lat: 38.908957999999998, lon: -77.042197999999999, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 4
   yes_rsvp_count: 190
 - created: 1452033054000
   description: "<p>This is the second event in our Mentoring Meetup series. Join us\
@@ -763,7 +793,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 24
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Start the new year by learning to code! We will be going over our\
@@ -810,7 +840,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -880,7 +910,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -901,7 +931,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1452528053000
   event_url: http://www.meetup.com/Geo-DC/events/228007314/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
@@ -1024,7 +1054,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 7
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1073,7 +1103,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1474,35 +1504,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
-- created: 1446220217000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
-    \ This Women Who Code DC event is intended to be exclusively open for women; we\
-    \ are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: gcxvllyvgbbc
-  maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1461191400000
-  updated: 1446220217000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
