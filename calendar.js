@@ -195,7 +195,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 88, 
+            "waitlist_count": 90, 
             "yes_rsvp_count": 8
         }, 
         {
@@ -234,7 +234,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 394
+            "yes_rsvp_count": 407
         }, 
         {
             "created": 1452451042000, 
@@ -310,7 +310,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1452641797000, 
@@ -413,7 +413,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 91
+        }, 
+        {
+            "created": 1452812846000, 
+            "description": "<p>Most Ruby on Rails apps require user registration and authentication mechanisms. Authentication determines if users are who they say they are, usually through a username/password combo. As anyone who\u2019s completed the <a href=\"https://www.railstutorial.org/\"><b>Hartl tutorial</b></a> knows, developing these mechanisms from scratch requires a lot of time and effort.</p> <p>But thankfully--especially when you're new to Rails--there are Ruby gems like <b><a href=\"https://github.com/plataformatec/devise\">Devise</a></b> that can handle that code-writing for us.</p> <p>In this meetup, we\u2019ll discuss the basics of authentication and then walk you through a short tutorial:</p> <p><b>Step 1: </b>We\u2019ll create a new app in Rails</p> <p><b>Step 2:</b> Using the Devise gem, we\u2019ll set up a full-fledged user authentication system within minutes.</p> <p><b>Step 3: </b>We\u2019ll customize Devise.</p> <p><b>Step 4:</b> We\u2019ll discuss how you can make your users even happier by allowing them to access your app without registering for a new account and simply log in using their existing<b>\u00a0Amazon, Facebook, Twitter, </b>and other social media accounts.\u00a0</p> <p>Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.</p> <p><br/>We look forward to seeing you there!</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Authentication in Rails</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228095806/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228095806", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Authentication in Rails", 
+            "status": "upcoming", 
+            "time": 1453332600000, 
+            "updated": 1452813016000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Location to be confirmed", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24304873, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "TBD", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220217000, 
@@ -441,7 +479,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1452350269000, 
@@ -523,7 +561,7 @@ calendar({
         }, 
         {
             "created": 1451956016000, 
-            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned &lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt</a>; Spark your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p><br/>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>, and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><br/><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><br/><b>Check out these links in advance:</b></p> <p><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p>&lt;a&gt;<a href=\"https://open.nasa.gov/explore/space-apps/&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/&lt;/a&gt</a>;</p> <p>&lt;a&gt;<a href=\"https://open.nasa.gov/explore/datanauts/&lt;/a&gt\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/&lt;/a&gt</a>;</p> <p><br/><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><a href=\"https://lh3.googleusercontent.com/ZoRBTH1yCecfx-ugYb8AWltj7emkTE4H4OAlaLIlM3Bz-Y398v0r-VZuiW1YpLAUyVhui64cG9EjIX-6aWBvGSu5mDdy8zpCq7JtzGrDeOfCzJnY28KuNuGAzI0dqMpczjXwVnxI\" class=\"linkified\">https://lh3.googleusercontent.com/ZoRBTH1yCecfx-ugYb8AWltj7emkTE4H4OAlaLIlM3Bz-Y398v0r-VZuiW1YpLAUyVhui64cG9EjIX-6aWBvGSu5mDdy8zpCq7JtzGrDeOfCzJnY28KuNuGAzI0dqMpczjXwVnxI</a></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and mass collaboration. Beth</p> <p>leads the &lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt</a>; program, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award-winning <a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a> program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\nKathy Hsu, Socrata</p> <p>\n\nChristian Hoogerheyde, Socrata</p>", 
+            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned\u00a0&lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt;\u00a0Spark\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt;\u00a0Spark</a> your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/,\"><a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>,</a> and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><b><br/></b></p> <p><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><b><br/></b></p> <p><b>Check out these links in advance:</b></p> <p><br/><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p><a href=\"https://open.nasa.gov/explore/space-apps/\"><a href=\"https://open.nasa.gov/explore/space-apps/\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/</a></a></p> <p><a href=\"https://open.nasa.gov/explore/datanauts/\"><a href=\"https://open.nasa.gov/explore/datanauts/\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/</a></a></p> <p><b><br/></b></p> <p><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/0/600_445900704.jpeg\" /></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and\u00a0mass collaboration. Beth leads the\u00a0&lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt;\u00a0program\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt;\u00a0program</a>, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award winning\u00a0<a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a>\u00a0program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\n\n\nKathy Hsu, Socrata</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/b/600_445900715.jpeg\" /> Kathy is the Federal Account Consultant at Socrata. Her primary focus is on enabling a data driven framework for the U.S government. By understanding the goals and mission of an agency, Kathy actively advises federal agencies on best practices for publishing data. She drives innovation through making data more accessible - Kathy finds creative ways to utilize federal data to drive a positive impact to the economy. Prior to joining Socrata, she managed the federal ecosystem for a tech startup in the Silicon Valley. Her experience with innovative technologies and her passion in working with the federal government brought her to Washington D.C. Here in DC, she is dedicated to improve the quality of life through the power of data.\u00a0</p> <p>\n\n\nChristian Hoogerheyde, Socrata</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/f/1/4/600_445900724.jpeg\" /><br/>Christian\u00a0is the technical architect focused on Socrata's Federal customers including NASA, Department of the Treasury, Department of Commerce, and others. He specializes in transforming, integrating, and visualizing data, and brings substantial experience harmonizing information systems to improve the flow of data within large organizations. Christian also actively advises\u00a0federal agencies on best practices for publishing data to support scientists, researchers, policymakers, and other data users.</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/227846027/", 
             "group": {
                 "created": 1339111847000, 
@@ -541,7 +579,7 @@ calendar({
             "name": "Data Beyond this World: A Night with NASA", 
             "status": "upcoming", 
             "time": 1453849200000, 
-            "updated": 1452271364000, 
+            "updated": 1452807540000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -555,7 +593,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1452642098000, 
@@ -582,7 +620,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1448552700000, 
@@ -622,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1451935931000, 
@@ -660,7 +698,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1451931941000, 
@@ -699,7 +737,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 188
+            "yes_rsvp_count": 189
         }, 
         {
             "created": 1452033054000, 
@@ -737,7 +775,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -868,7 +906,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1452528053000, 
@@ -1074,7 +1112,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1446220217000, 
@@ -1287,7 +1325,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446220217000, 
@@ -1525,33 +1563,6 @@ calendar({
             "status": "upcoming", 
             "time": 1461191400000, 
             "updated": 1446220217000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/cjdtnlyvhbgb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: First Timer's Night!", 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1452612358000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
