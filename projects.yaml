@@ -1,6 +1,6 @@
-- activity: [34, 20, 32, 95, 31, 15, 28, 0, 2, 0, 1, 11, 4, 7, 7, 2, 2, 2, 3, 3, 0,
-    8, 0, 0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
-    0, 2, 0, 5, 0, 0]
+- activity: [29, 21, 34, 99, 23, 25, 15, 0, 2, 0, 1, 12, 5, 5, 7, 2, 3, 1, 3, 3, 2,
+    6, 0, 0, 7, 3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    2, 0, 2, 3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -363,7 +363,8 @@
   - [CSS, 13748]
   - [Shell, 5425]
   - [Ruby, 3301]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
   open_issues: 18
@@ -533,7 +534,8 @@
   - [ApacheConf, 24139]
   - [CSS, 16025]
   - [Shell, 9547]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: Python
   name: Metro Metrics
   open_issues: 13
@@ -966,7 +968,8 @@
   - [JavaScript, 11078]
   - [HTML, 9010]
   - [CSS, 5271]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: CSV Geocoder
   open_issues: 1
@@ -1013,7 +1016,8 @@
   - [Python, 14893]
   - [CSS, 3392]
   - [HTML, 931]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: Books for DC
   open_issues: 2
@@ -1321,7 +1325,8 @@
   - [CSS, 22614]
   - [R, 18236]
   - [JavaScript, 536]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Get DC Trees
   open_issues: 1
@@ -1399,7 +1404,8 @@
   - [JavaScript, 10698]
   - [HTML, 9617]
   - [CSS, 5318]
-  license: {featured: true, key: gpl-2.0, name: GNU General Public License v2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: DC Geocoder+
   open_issues: 1
@@ -1546,8 +1552,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 10,
-    3, 18, 20]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10,
+    6, 25, 13]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1572,7 +1578,7 @@
     thumbnailUrl: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 25,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 28,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 12,
     link: 'https://github.com/tomBeach', name: tomBeach}
@@ -1594,21 +1600,21 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
+  - [R, 23034]
   - [HTML, 17619]
-  - [R, 12555]
   - [CSS, 6811]
   - [Python, 698]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
-  main_language: HTML
+  main_language: R
   name: School Modernization Funds
   open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-14T22:52:11Z'
+  pushed_at: '2016-01-16T00:22:20Z'
   short_name: school-modernization
-  size: 1792
-  updated_at: '2016-01-11T04:32:25Z'
+  size: 1817
+  updated_at: '2016-01-16T00:13:12Z'
   watchers: 4
 - activity: [0, 0, 0, 3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0,
@@ -1668,7 +1674,7 @@
   size: 559
   updated_at: '2015-12-08T00:24:16Z'
   watchers: 0
-- activity: [0, 8, 31, 8, 0, 0, 0, 0, 0, 0, 0, 0, 48, 35, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 9, 39, 35, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}

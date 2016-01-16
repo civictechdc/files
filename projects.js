@@ -1,39 +1,38 @@
 projects([
     {
         "activity": [
+            29, 
+            21, 
             34, 
-            20, 
-            32, 
-            95, 
-            31, 
+            99, 
+            23, 
+            25, 
             15, 
-            28, 
             0, 
             2, 
             0, 
             1, 
-            11, 
-            4, 
+            12, 
+            5, 
+            5, 
             7, 
-            7, 
-            2, 
-            2, 
             2, 
             3, 
+            1, 
             3, 
+            3, 
+            2, 
+            6, 
             0, 
-            8, 
             0, 
-            0, 
-            0, 
-            10, 
+            7, 
+            3, 
             6, 
             10, 
             0, 
-            0, 
-            60, 
-            23, 
-            0, 
+            2, 
+            64, 
+            17, 
             0, 
             2, 
             3, 
@@ -50,7 +49,8 @@ projects([
             0, 
             2, 
             0, 
-            5, 
+            2, 
+            3, 
             0, 
             0
         ], 
@@ -1130,7 +1130,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -1641,7 +1641,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -3005,7 +3005,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -3152,7 +3152,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -3956,7 +3956,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -4194,7 +4194,7 @@ projects([
             ]
         ], 
         "license": {
-            "featured": true, 
+            "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
@@ -4710,15 +4710,15 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            2, 
+            3, 
+            0, 
             0, 
             4, 
             0, 
             10, 
-            3, 
-            18, 
-            20
+            6, 
+            25, 
+            13
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4772,7 +4772,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 25, 
+                "contributions": 28, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4818,12 +4818,12 @@ projects([
         "id": 46313726, 
         "languages": [
             [
-                "HTML", 
-                17619
+                "R", 
+                23034
             ], 
             [
-                "R", 
-                12555
+                "HTML", 
+                17619
             ], 
             [
                 "CSS", 
@@ -4840,7 +4840,7 @@ projects([
             "name": "Creative Commons Zero v1.0 Universal", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
-        "main_language": "HTML", 
+        "main_language": "R", 
         "name": "School Modernization Funds", 
         "open_issues": 4, 
         "owner": {
@@ -4849,10 +4849,10 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-14T22:52:11Z", 
+        "pushed_at": "2016-01-16T00:22:20Z", 
         "short_name": "school-modernization", 
-        "size": 1792, 
-        "updated_at": "2016-01-11T04:32:25Z", 
+        "size": 1817, 
+        "updated_at": "2016-01-16T00:13:12Z", 
         "watchers": 4
     }, 
     {
@@ -5026,9 +5026,8 @@ projects([
     {
         "activity": [
             0, 
-            8, 
-            31, 
-            8, 
+            10, 
+            37, 
             0, 
             0, 
             0, 
@@ -5037,7 +5036,8 @@ projects([
             0, 
             0, 
             0, 
-            48, 
+            9, 
+            39, 
             35, 
             0, 
             0, 
