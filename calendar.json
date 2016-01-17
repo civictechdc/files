@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "announced": true, 
@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "announced": false, 
@@ -157,7 +157,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1452451042000, 
@@ -297,7 +297,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 35, 
+            "waitlist_count": 34, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -336,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1452812846000, 
@@ -441,7 +441,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1450148912000, 
@@ -479,7 +479,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -516,7 +516,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1452642098000, 
@@ -698,7 +698,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 28, 
+            "waitlist_count": 30, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -736,7 +736,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446219481000, 
@@ -791,7 +791,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
@@ -903,7 +903,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1452390774000, 
@@ -1012,7 +1012,7 @@
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Details on this talk are forthcoming and the title will change (I made it up). From my discussion with the speaker it's going to be awesome so be sure to sign up.</p>", 
+            "description": "<p>Sites like data.gov and arlington.co.va don't offer advanced search. It's possible to do an advanced search on sites like these without downloading the entire database. In this talk I am going to demonstrate a tool-set which allows advanced search of sites like these. These tools are context based. These easy-to-use tools offer the capacity to preform highly articulated searches combining multiple websites.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/222987192/", 
             "group": {
@@ -1028,10 +1028,10 @@
             "headcount": 0, 
             "id": "hffzclyvdbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "Using AI to Force an Advanced Search and Get That Data", 
+            "name": "Hidden in Plain Site. Not!", 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1452775606000, 
+            "updated": 1453051850000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1191,6 +1191,33 @@
                 "repinned": false, 
                 "state": "DC"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1453051773000, 
+            "description": "<p>Stay tuned for details! We are close to securing a location for this event, to be held in conjunction with the <a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>.</p> <p>If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be included in the show &amp; tell.\u00a0</p> <p>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "228155655", 
+            "maybe_rsvp_count": 0, 
+            "name": "Bike Hack Night V", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1457479800000, 
+            "updated": 1453051773000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1540,7 +1567,7 @@
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>The United States Patent Office has been trying to innovate and replace closed systems with systems built on open or open source technologies. One of the current challenges has been to create a new patent search for examiners. The challenge is not only to make patents for the united states available to the examiners, but eventually all of the patent organizations around the world.\u00a0</p> <p>Examiners have a lot of domain knowledge and the way they query the current system must be maintained. It's a little more complicated than boolean queries, and less complicated than natural language search. Rahul will talk about his experience in working on and improving a system built on Java, Scala, Cassandra, Spark, SolR, Dojo, jQuery UI. The goal is for you to understand how large scale organizations deal with changing technology and some business and technology take aways.\u00a0</p> <p><br/><b>Our Speaker</b></p> <p>Rahul Singh is a technology minded business person and a business minded technologist. As CEO of a company devoted to solving the most difficult problems in streamlining, organizing, and unifying business information, he is responsible for training the team, overseeing and creating technology with the research and development team, and fostering client and service partner relationships.\u00a0</p> <p>Although he\u2019s programmed in over 30 computer languages and has worked with numerous platforms, frameworks, and libraries across all major internet software systems, he likes to spend his time sharpening his skills in information retrieval (search), knowledge management, business information systems, and machine learning to come up with ideas for a smarter, more modern enterprise.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934703/", 
             "group": {
@@ -1556,10 +1583,10 @@
             "headcount": 0, 
             "id": "hffzclyvhbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "May Meetup", 
+            "name": "Leveraging Big Data Technologies at the Government : Patent Information", 
             "status": "upcoming", 
             "time": 1463005800000, 
-            "updated": 1449242269000, 
+            "updated": 1453050383000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
