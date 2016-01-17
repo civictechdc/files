@@ -375,7 +375,7 @@
   size: 17487
   updated_at: '2015-12-20T01:50:18Z'
   watchers: 21
-- activity: [0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1486,9 +1486,9 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 72,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 73,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 12,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 13,
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 10,
     link: 'https://github.com/mebates', name: mebates}
