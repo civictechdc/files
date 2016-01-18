@@ -157,7 +157,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1452451042000, 
@@ -196,7 +196,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1451510871000, 
@@ -265,6 +265,7 @@
         {
             "created": 1452180790000, 
             "description": "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\u00a0<a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and improved map design platform. All levels are welcome, from newbies to experts.\u00a0</p> <p>If you haven't already, be sure to signup to use Mapbox Studio here -\u00a0<a href=\"https://t.co/lwYiVlyJgx\"><a href=\"https://www.mapbox.com/studio/signup/?path=%2Fstudio\" class=\"linkified\">https://www.mapbox.com/studio/signup/?path=%2Fstudio</a>\u00a0\u2026</a>\u00a0Bring your laptop and a desire to create some great new web maps!</p>", 
+            "duration": 10800000, 
             "event_url": "http://www.meetup.com/Maptime-DC/events/227914006/", 
             "group": {
                 "created": 1399208438000, 
@@ -280,10 +281,9 @@
             "id": "227914006", 
             "maybe_rsvp_count": 0, 
             "name": "Introducing the new Mapbox Studio", 
-            "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1453246200000, 
-            "updated": 1452189867000, 
+            "updated": 1453142742000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -297,8 +297,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 34, 
-            "yes_rsvp_count": 40
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1452188100000, 
@@ -336,7 +336,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1452812846000, 
@@ -374,7 +374,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446220217000, 
@@ -394,11 +394,11 @@
             "headcount": 0, 
             "id": "gcxvllyvcbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python - Why Functions?", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1453332600000, 
-            "updated": 1446220217000, 
+            "updated": 1453136529000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -441,7 +441,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1453079048000, 
@@ -479,7 +479,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1451956016000, 
@@ -515,7 +515,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1452642098000, 
@@ -582,7 +582,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1451935931000, 
@@ -737,7 +737,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1446219481000, 
@@ -982,7 +982,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1451511034000, 
@@ -1019,7 +1019,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1446220149000, 
@@ -1074,7 +1074,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1446220217000, 
