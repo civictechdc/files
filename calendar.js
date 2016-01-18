@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "announced": true, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1452451042000, 
@@ -444,45 +444,6 @@ calendar({
             "yes_rsvp_count": 36
         }, 
         {
-            "created": 1450148912000, 
-            "description": "<p>Join us for the first Front-end Tech Talk of the Year as Pam Vong introduced us to the basics of Full-stack Javascript.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440295/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jsdsnlyvcbhc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night - Intro to the Mean Stack/Isomorphic Javascript", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1453764600000, 
-            "updated": 1452565857000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1150 17th Street NW, Ste 200", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23263162, 
-                "lat": 38.905338, 
-                "lon": -77.039008999999993, 
-                "name": "Socrata Office (2nd Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 12, 
-            "yes_rsvp_count": 50
-        }, 
-        {
             "created": 1451956016000, 
             "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned\u00a0&lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt;\u00a0Spark\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt;\u00a0Spark</a> your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/,\"><a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>,</a> and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><b><br/></b></p> <p><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><b><br/></b></p> <p><b>Check out these links in advance:</b></p> <p><br/><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p><a href=\"https://open.nasa.gov/explore/space-apps/\"><a href=\"https://open.nasa.gov/explore/space-apps/\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/</a></a></p> <p><a href=\"https://open.nasa.gov/explore/datanauts/\"><a href=\"https://open.nasa.gov/explore/datanauts/\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/</a></a></p> <p><b><br/></b></p> <p><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/0/600_445900704.jpeg\" /></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and\u00a0mass collaboration. Beth leads the\u00a0&lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt;\u00a0program\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt;\u00a0program</a>, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award winning\u00a0<a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a>\u00a0program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\n\n\nKathy Hsu, Socrata</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/b/600_445900715.jpeg\" /> Kathy is the Federal Account Consultant at Socrata. Her primary focus is on enabling a data driven framework for the U.S government. By understanding the goals and mission of an agency, Kathy actively advises federal agencies on best practices for publishing data. She drives innovation through making data more accessible - Kathy finds creative ways to utilize federal data to drive a positive impact to the economy. Prior to joining Socrata, she managed the federal ecosystem for a tech startup in the Silicon Valley. Her experience with innovative technologies and her passion in working with the federal government brought her to Washington D.C. Here in DC, she is dedicated to improve the quality of life through the power of data.\u00a0</p> <p>\n\n\nChristian Hoogerheyde, Socrata</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/f/1/4/600_445900724.jpeg\" /><br/>Christian\u00a0is the technical architect focused on Socrata's Federal customers including NASA, Department of the Treasury, Department of Commerce, and others. He specializes in transforming, integrating, and visualizing data, and brings substantial experience harmonizing information systems to improve the flow of data within large organizations. Christian also actively advises\u00a0federal agencies on best practices for publishing data to support scientists, researchers, policymakers, and other data users.</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/227846027/", 
@@ -621,7 +582,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1451931941000, 
@@ -698,7 +659,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 30, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -736,7 +697,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446219481000, 
@@ -764,7 +725,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1452612310000, 
@@ -791,7 +752,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 
@@ -946,6 +907,44 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1450148912000, 
+            "description": "<p>Join us for the first front end hack night tech talk of the year! Pamela Vong will be introducing the basics of full stack JavaScript via the MEAN stack - MongoDB, Express.js, AngularJS, and Node.js.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440295/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jsdsnlyvcbhc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night - Intro to Full Stack JavaScript and the MEAN Stack", 
+            "status": "upcoming", 
+            "time": 1454974200000, 
+            "updated": 1453078253000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 63
+        }, 
+        {
             "created": 1451511034000, 
             "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack.\u00a0Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724506/", 
@@ -1035,7 +1034,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1446220217000, 
@@ -1275,7 +1274,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1446220217000, 

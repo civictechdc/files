@@ -1,6 +1,6 @@
-- activity: [35, 20, 46, 82, 19, 37, 3, 0, 2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4,
-    4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2,
-    0, 3, 2, 0, 0]
+- activity: [27, 23, 69, 58, 17, 40, 0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4,
+    4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    2, 0, 5, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -1516,10 +1516,10 @@
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 16
+  open_issues: 17
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-01-17T18:51:29Z'
+  pushed_at: '2016-01-17T19:11:48Z'
   short_name: dcaf_case_management
   size: 4138
   updated_at: '2016-01-12T04:21:15Z'
@@ -1553,7 +1553,7 @@
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10,
-    9, 28, 7]
+    12, 25, 17]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1578,7 +1578,7 @@
     thumbnailUrl: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 34,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 37,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 12,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
@@ -1600,21 +1600,21 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [R, 23075]
-  - [HTML, 19253]
-  - [CSS, 6811]
-  - [Python, 698]
+  - [HTML, 20087]
+  - [R, 18457]
+  - [CSS, 7624]
+  - [Python, 880]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
-  main_language: R
+  main_language: HTML
   name: School Modernization Funds
   open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-17T15:42:36Z'
+  pushed_at: '2016-01-18T00:46:40Z'
   short_name: school-modernization
-  size: 1866
-  updated_at: '2016-01-16T00:13:12Z'
+  size: 1918
+  updated_at: '2016-01-18T00:04:14Z'
   watchers: 4
 - activity: [0, 0, 1, 2, 19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0,

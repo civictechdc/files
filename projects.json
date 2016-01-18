@@ -1,38 +1,38 @@
 [
     {
         "activity": [
-            35, 
-            20, 
-            46, 
-            82, 
-            19, 
-            37, 
-            3, 
+            27, 
+            23, 
+            69, 
+            58, 
+            17, 
+            40, 
             0, 
-            2, 
+            1, 
+            1, 
             0, 
             11, 
-            4, 
-            8, 
+            5, 
+            7, 
             6, 
             3, 
             0, 
             4, 
             0, 
-            3, 
-            3, 
+            5, 
+            1, 
             4, 
             4, 
             0, 
             0, 
-            8, 
-            2, 
+            9, 
             7, 
+            1, 
             9, 
             0, 
-            9, 
-            63, 
-            11, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -49,8 +49,8 @@
             0, 
             2, 
             0, 
-            3, 
-            2, 
+            5, 
+            0, 
             0, 
             0
         ], 
@@ -4563,14 +4563,14 @@
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 16, 
+        "open_issues": 17, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-01-17T18:51:29Z", 
+        "pushed_at": "2016-01-17T19:11:48Z", 
         "short_name": "dcaf_case_management", 
         "size": 4138, 
         "updated_at": "2016-01-12T04:21:15Z", 
@@ -4716,9 +4716,9 @@
             4, 
             0, 
             10, 
-            9, 
-            28, 
-            7
+            12, 
+            25, 
+            17
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4772,7 +4772,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 34, 
+                "contributions": 37, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4818,20 +4818,20 @@
         "id": 46313726, 
         "languages": [
             [
-                "R", 
-                23075
+                "HTML", 
+                20087
             ], 
             [
-                "HTML", 
-                19253
+                "R", 
+                18457
             ], 
             [
                 "CSS", 
-                6811
+                7624
             ], 
             [
                 "Python", 
-                698
+                880
             ]
         ], 
         "license": {
@@ -4840,7 +4840,7 @@
             "name": "Creative Commons Zero v1.0 Universal", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
-        "main_language": "R", 
+        "main_language": "HTML", 
         "name": "School Modernization Funds", 
         "open_issues": 4, 
         "owner": {
@@ -4849,10 +4849,10 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-17T15:42:36Z", 
+        "pushed_at": "2016-01-18T00:46:40Z", 
         "short_name": "school-modernization", 
-        "size": 1866, 
-        "updated_at": "2016-01-16T00:13:12Z", 
+        "size": 1918, 
+        "updated_at": "2016-01-18T00:04:14Z", 
         "watchers": 4
     }, 
     {
