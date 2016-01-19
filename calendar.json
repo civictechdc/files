@@ -76,7 +76,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "announced": false, 
@@ -120,46 +120,6 @@
     ], 
     "other": [
         {
-            "created": 1452867624000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Dinner</p> <p>6:45 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228108694/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Call 5743237240 if the door is locked outside.", 
-            "id": "228108694", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1453159800000, 
-            "updated": 1452867624000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 23
-        }, 
-        {
             "created": 1452451042000, 
             "description": "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/227574074/</a></a></b></p> <p>If you find yourself copying and pasting code from your build.gradle file every time you start a new project, then it's time you learn about Gradle plugins. We invite you come and learn about what it takes to create a custom Gradle plugin for use in your Android applications. We're going to go over the following:</p> <p><br/>\u2022 Plugin Structure</p> <p>\u2022 Key Components</p> <p>\u2022 Testing</p> <p>\u2022 Publishing</p> <p>_____</p> <p>Schedule: 6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- \"Gradle Plugin Goodness\" with Annyce Davis</p> <p>7:00 p.m. -- Questions and Answers</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid or use the #DCAndroid hashtag!</p>", 
             "duration": 5400000, 
@@ -196,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1451510871000, 
@@ -233,7 +193,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1452641797000, 
@@ -298,7 +258,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1452188100000, 
@@ -336,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1452812846000, 
@@ -402,7 +362,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1452350269000, 
@@ -479,7 +439,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1451956016000, 
@@ -515,7 +475,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1452642098000, 
@@ -658,7 +618,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -737,7 +697,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1446219481000, 
@@ -792,7 +752,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -870,7 +830,7 @@
         }, 
         {
             "created": 1451357840000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\" /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will reflect on the accountability discussions that has been occurring with respect to the IANA transition to discuss internet accountability in general. This salon-style session will use the IANA accountability debate to try to create 10,000-foot solutions.</p> <p>Speakers:</p> <p><b>\u2022\u00a0<i>Steve del Bianco,</i> NetCoalition</b></p> <p><b>\u2022\u00a0<i>Christian Dawson</i>, I2C</b></p> <p>\u2022 <i>More to TBD\u00a0</i></p> <p>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>6:45pm: Announcements\u00a0</p> <p>7:00pm: Panel Introductions\u00a0</p> <p>7:15pm: Panel</p> <p>8:00pm: Q&amp;A</p> <p>8:30pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>#LegalHack\u00a0</p>", 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\" /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will reflect on the accountability discussions that has been occurring with respect to the IANA transition to discuss internet accountability in general. This salon-style session will use the IANA accountability debate to try to create 10,000-foot solutions.</p> <p>Speakers:</p> <p><b><i>* Jonathan Zuck, ACT</i></b></p> <p><b><i>* Becky\u00a0Burr, Neustar</i></b></p> <p>\u2022 <i>More to TBD\u00a0</i></p> <p>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>6:45pm: Announcements\u00a0</p> <p>7:00pm: Panel Introductions\u00a0</p> <p>7:15pm: Panel</p> <p>8:00pm: Q&amp;A</p> <p>8:30pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>#LegalHack\u00a0</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/227686888/", 
             "group": {
@@ -889,7 +849,7 @@
             "name": "Hacking Accountability in Internet Governance w/ ISOC-DC!", 
             "status": "upcoming", 
             "time": 1454626800000, 
-            "updated": 1451358433000, 
+            "updated": 1453176121000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
@@ -1473,6 +1433,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvgbrb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1460586600000, 
+            "updated": 1446220149000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
