@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": true, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "announced": false, 
@@ -115,49 +115,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }
     ], 
     "other": [
-        {
-            "created": 1452451042000, 
-            "description": "<p><b>Please RSVP here: <a href=\"http://www.meetup.com/DCAndroid/events/227574074/\"><a href=\"http://www.meetup.com/DCAndroid/events/227574074/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/227574074/</a></a></b></p> <p>If you find yourself copying and pasting code from your build.gradle file every time you start a new project, then it's time you learn about Gradle plugins. We invite you come and learn about what it takes to create a custom Gradle plugin for use in your Android applications. We're going to go over the following:</p> <p><br/>\u2022 Plugin Structure</p> <p>\u2022 Key Components</p> <p>\u2022 Testing</p> <p>\u2022 Publishing</p> <p>_____</p> <p>Schedule: 6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- \"Gradle Plugin Goodness\" with Annyce Davis</p> <p>7:00 p.m. -- Questions and Answers</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid or use the #DCAndroid hashtag!</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/227986487/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "id": "227986487", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC Android: Gradle Plugin Goodness", 
-            "status": "upcoming", 
-            "time": 1453244400000, 
-            "updated": 1452787688000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW, Suite 200", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4867002, 
-                "lat": 38.899151000000003, 
-                "lon": -77.033195000000006, 
-                "name": "LivingSocial", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
         {
             "created": 1451510871000, 
             "description": "<p>Happy New Year!</p> <p>Hack &amp;&amp; Tell will be at WeWork Chinatown this January! Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
@@ -193,7 +154,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1452641797000, 
@@ -258,7 +219,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1452188100000, 
@@ -296,11 +257,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1452812846000, 
-            "description": "<p>Most Ruby on Rails apps require user registration and authentication mechanisms. Authentication determines if users are who they say they are, usually through a username/password combo. As anyone who\u2019s completed the <a href=\"https://www.railstutorial.org/\"><b>Hartl tutorial</b></a> knows, developing these mechanisms from scratch requires a lot of time and effort.</p> <p>But thankfully--especially when you're new to Rails--there are Ruby gems like <b><a href=\"https://github.com/plataformatec/devise\">Devise</a></b> that can handle that code-writing for us.</p> <p>In this meetup, we\u2019ll discuss the basics of authentication and then walk you through a short tutorial:</p> <p><b>Step 1: </b>We\u2019ll create a new app in Rails</p> <p><b>Step 2:</b> Using the Devise gem, we\u2019ll set up a full-fledged user authentication system within minutes.</p> <p><b>Step 3: </b>We\u2019ll customize Devise.</p> <p><b>Step 4:</b> We\u2019ll discuss how you can make your users even happier by allowing them to access your app without registering for a new account and simply log in using their existing<b>\u00a0Amazon, Facebook, Twitter, </b>and other social media accounts.\u00a0</p> <p>Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.</p> <p><br/>We look forward to seeing you there!</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Authentication in Rails</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>", 
+            "description": "<p>GOOGLE HANGOUTS LINK:</p> <p><a href=\"https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia\" class=\"linkified\">https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia</a></p> <p>\n\n\n\nMost Ruby on Rails apps require user registration and authentication mechanisms. Authentication determines if users are who they say they are, usually through a username/password combo. As anyone who\u2019s completed the <a href=\"https://www.railstutorial.org/\"><b>Hartl tutorial</b></a> knows, developing these mechanisms from scratch requires a lot of time and effort.</p> <p><br/>But thankfully--especially when you're new to Rails--there are Ruby gems like <b><a href=\"https://github.com/plataformatec/devise\">Devise</a></b> that can handle that code-writing for us.</p> <p>In this meetup, we\u2019ll discuss the basics of authentication and then walk you through a short tutorial:</p> <p><b>Step 1: </b>We\u2019ll create a new app in Rails</p> <p><b>Step 2:</b> Using the Devise gem, we\u2019ll set up a full-fledged user authentication system within minutes.</p> <p><b>Step 3: </b>We\u2019ll discuss how to customize Devise.</p> <p><b>Step 4:</b> We\u2019ll discuss how you can make your users even happier by allowing them to access your app without registering for a new account and simply log in using their existing<b>\u00a0Amazon, Facebook, Twitter, </b>and other social media accounts.\u00a0</p> <p>Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.</p> <p><br/>We look forward to seeing you there!</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Authentication in Rails</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228095806/", 
             "group": {
@@ -316,25 +277,25 @@ calendar({
             "headcount": 0, 
             "id": "228095806", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Authentication in Rails", 
+            "name": "Learn Ruby on Rails: Authentication in Rails (Virtual Meet Up)", 
             "status": "upcoming", 
             "time": 1453332600000, 
-            "updated": 1452813016000, 
+            "updated": 1453244547000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "Location to be confirmed", 
-                "city": "Washington", 
+                "address_1": "https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia", 
+                "city": ".", 
                 "country": "us", 
-                "id": 24304873, 
+                "id": 24314650, 
                 "lat": 38.907192000000002, 
                 "lon": -77.036873, 
-                "name": "TBD", 
+                "name": "Virtual (Google Hangouts)", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220217000, 
@@ -362,7 +323,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1452350269000, 
@@ -401,7 +362,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1453079048000, 
@@ -439,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1451956016000, 
@@ -475,7 +436,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 128
+            "yes_rsvp_count": 131
         }, 
         {
             "created": 1452642098000, 
@@ -542,7 +503,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 136
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1451935931000, 
@@ -579,7 +540,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -618,7 +579,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -657,7 +618,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 38, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -697,7 +658,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1446219481000, 
@@ -790,7 +751,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1452528053000, 
@@ -979,7 +940,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220149000, 
@@ -1034,7 +995,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1446220217000, 
@@ -1230,7 +1191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220149000, 
@@ -1498,7 +1459,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -1600,7 +1561,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
