@@ -1,5 +1,5 @@
-- activity: [19, 24, 70, 60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6,
-    2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [20, 29, 81, 50, 15, 28, 0, 2, 0, 0, 11, 5, 7, 6, 3, 2, 2, 1, 5, 0, 8,
+    0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
     2, 0, 5, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -110,7 +110,7 @@
   size: 21734
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
-- activity: [0, 0, 0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0,
+- activity: [0, 0, 0, 8, 0, 1, 1, 3, 0, 8, 0, 3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -246,7 +246,7 @@
   updated_at: '2015-09-25T22:28:35Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -293,8 +293,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [0, 0, 6, 1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1,
-    10, 11, 2, 5, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0,
+- activity: [0, 0, 6, 1, 7, 8, 7, 1, 2, 9, 1, 1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1,
+    16, 5, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 5, 1, 0, 5, 1, 2, 7, 6, 7, 0,
     2, 1, 1]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json:
@@ -928,7 +928,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 63, 3, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -980,9 +980,9 @@
   size: 565
   updated_at: '2015-12-05T16:58:51Z'
   watchers: 9
-- activity: [0, 0, 0, 0, 59, 41, 49, 22, 78, 12, 1, 2, 1, 6, 0, 0, 0, 0, 0, 0, 3,
-    0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0,
+    0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: Code for DC
@@ -1228,7 +1228,7 @@
   size: 10014
   updated_at: '2015-11-21T13:42:19Z'
   watchers: 15
-- activity: [0, 0, 0, 0, 2, 32, 2, 19, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 3, 31, 12, 9, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1282,7 +1282,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 82, 46, 6, 2, 0, 0, 1, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 77, 42, 5, 2, 0, 1, 0, 0, 0, 0,
     0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1338,7 +1338,7 @@
   updated_at: '2015-05-19T23:20:37Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1383,7 +1383,7 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 16, 0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1417,7 +1417,7 @@
   updated_at: '2015-10-17T18:47:50Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1446,7 +1446,7 @@
   updated_at: '2015-08-24T01:27:32Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 0, 0, 0, 5, 2, 1, 1, 3, 0, 0, 0, 0, 13,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 6, 2, 1, 0, 3, 0, 0, 0, 13, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1481,8 +1481,8 @@
   updated_at: '2015-09-22T20:36:44Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8,
-    34, 2, 5]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4,
+    35, 1, 4]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1552,8 +1552,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10,
-    12, 28, 22]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 2, 8,
+    12, 28, 23]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1611,9 +1611,9 @@
   open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-19T23:15:52Z'
+  pushed_at: '2016-01-20T03:14:35Z'
   short_name: school-modernization
-  size: 1925
+  size: 1937
   updated_at: '2016-01-18T00:04:14Z'
   watchers: 4
 - activity: [0, 0, 1, 2, 20, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

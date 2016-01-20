@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 53
         }, 
         {
             "announced": true, 
@@ -120,146 +120,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1451510871000, 
-            "description": "<p>Happy New Year!</p> <p>Hack &amp;&amp; Tell will be at WeWork Chinatown this January! Everyone is looking forward to hearing about *your* cool hack! Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724367/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227724367", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 28: The Cloverfield Ultimatum", 
-            "status": "upcoming", 
-            "time": 1453246200000, 
-            "updated": 1451577810000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 66
-        }, 
-        {
-            "created": 1452641797000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0 <b>***Please bring your laptop to this event as computers will not be provided.***</b></p> <p><b>Meetup Format</b></p> <p><i><b>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</b></i></p> <p><br/><b>Building Access</b></p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p><b>Resources</b></p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p><b>All Women Welcome</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p><b>Can't Come This Week, but Want to Stay in Touch?</b></p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228043394/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "228043394", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night - Java for Android!", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1453246200000, 
-            "updated": 1452641797000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1452180790000, 
-            "description": "<p>Come join us as Amy Lee Walton, a designer from Mapbox, presents\u00a0<a href=\"https://www.mapbox.com/mapbox-studio/\">Mapbox Studio</a>, the new and improved map design platform. All levels are welcome, from newbies to experts.\u00a0</p> <p>If you haven't already, be sure to signup to use Mapbox Studio here -\u00a0<a href=\"https://t.co/lwYiVlyJgx\"><a href=\"https://www.mapbox.com/studio/signup/?path=%2Fstudio\" class=\"linkified\">https://www.mapbox.com/studio/signup/?path=%2Fstudio</a>\u00a0\u2026</a>\u00a0Bring your laptop and a desire to create some great new web maps!</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/227914006/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227914006", 
-            "maybe_rsvp_count": 0, 
-            "name": "Introducing the new Mapbox Studio", 
-            "status": "upcoming", 
-            "time": 1453246200000, 
-            "updated": 1453142742000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 63
-        }, 
-        {
-            "created": 1452188100000, 
-            "description": "<p>For our \"official\" January event, <a href=\"http://bit.ly/seandavis\">Sean Davis,</a> researcher at National Cancer Institute, part of NIH, will be talking about Bioconductor.</p> <p><a href=\"http://bioconductor.org\">Bioconductor</a> is a grant-funded open source software development project focused on the analysis and comprehension of biological data, particularly those captured using new high-throughput instruments that generate large, genomic data sets.\u00a0 Written in R, the project has over 1000 contributed packages, more than 50k downloads per month, a support forum with thousands of members, and an active developer community of several hundred.\u00a0 Built around the concepts of reproducibility, version control, documentation, software reuse and interoperability, the project has continued to grow in both popularity and capability.\u00a0 In addition to describing the project, I will give short code examples that highlight how functionality and some key aspects of the software design.\"</p> <p><a href=\"https://support.bioconductor.org/\"><a href=\"https://support.bioconductor.org/\" class=\"linkified\">https://support.bioconductor.org/</a></a><br/><a href=\"https://github.com/bioconductor/\"><a href=\"https://github.com/bioconductor/\" class=\"linkified\">https://github.com/bioconductor/</a></a><br/><a href=\"https://twitter.com/seandavis12\"><a href=\"https://twitter.com/seandavis12\" class=\"linkified\">https://twitter.com/seandavis12</a></a></p> <p>Agenda:</p> <p>6:30 - 7:00 Mingle &amp; eat and meet new people!<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30ish Presentation/Q&amp;A<br/>then off to Data Drinks!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/227916799/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "227916799", 
-            "maybe_rsvp_count": 0, 
-            "name": "R/Bioconductor", 
-            "status": "upcoming", 
-            "time": 1453246200000, 
-            "updated": 1452188126000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24286689, 
-                "lat": 38.898685, 
-                "lon": -77.049187000000003, 
-                "name": "GWU Funger Hall - Room 103", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 123
-        }, 
-        {
             "created": 1452812846000, 
             "description": "<p>GOOGLE HANGOUTS LINK:</p> <p><a href=\"https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia\" class=\"linkified\">https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia</a></p> <p>\n\n\n\nMost Ruby on Rails apps require user registration and authentication mechanisms. Authentication determines if users are who they say they are, usually through a username/password combo. As anyone who\u2019s completed the <a href=\"https://www.railstutorial.org/\"><b>Hartl tutorial</b></a> knows, developing these mechanisms from scratch requires a lot of time and effort.</p> <p><br/>But thankfully--especially when you're new to Rails--there are Ruby gems like <b><a href=\"https://github.com/plataformatec/devise\">Devise</a></b> that can handle that code-writing for us.</p> <p>In this meetup, we\u2019ll discuss the basics of authentication and then walk you through a short tutorial:</p> <p><b>Step 1: </b>We\u2019ll create a new app in Rails</p> <p><b>Step 2:</b> Using the Devise gem, we\u2019ll set up a full-fledged user authentication system within minutes.</p> <p><b>Step 3: </b>We\u2019ll discuss how to customize Devise.</p> <p><b>Step 4:</b> We\u2019ll discuss how you can make your users even happier by allowing them to access your app without registering for a new account and simply log in using their existing<b>\u00a0Amazon, Facebook, Twitter, </b>and other social media accounts.\u00a0</p> <p>Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.</p> <p><br/>We look forward to seeing you there!</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7:00pm - Quick introductions</p> <p>\u2022 7:15pm - Authentication in Rails</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;</a><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></p>", 
             "duration": 7200000, 
@@ -323,7 +183,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1452350269000, 
@@ -362,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1453079048000, 
@@ -400,7 +260,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1451956016000, 
@@ -463,7 +323,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1448552700000, 
@@ -503,7 +363,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1451935931000, 
@@ -579,7 +439,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -658,7 +518,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1446219481000, 
@@ -995,7 +855,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1446220217000, 
@@ -1246,7 +1106,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1446220217000, 
@@ -1462,6 +1322,34 @@ calendar({
             "yes_rsvp_count": 12
         }, 
         {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvhbgb/", 
@@ -1561,7 +1449,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
