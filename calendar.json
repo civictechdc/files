@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": true, 
@@ -222,7 +222,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1453079048000, 
@@ -260,7 +260,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
+        }, 
+        {
+            "created": 1453302555000, 
+            "description": "<p>Members are more active in the facebook group - please join &amp; participate there\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at\u00a0<a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=bAQFyFZ3Q&amp;enc=AZNHV1Zv9ACzd-R6CZPxagZC1r-VxA5GE-tmCTV0Xxa_0SI8aOlqjy0k9GowVKMQheU&amp;s=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>Find us at 6:45pm\u00a0<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p> <p>AGENDA<br/>6:45-7:00 Introduce ourselves, especially those who haven't participated in a previous hangout<br/>7:00-7:30 Each attendee will step us through the tests they wrote this week.<br/>7:30-8:00 pp 17-27 of tutorial<br/>8:00-8:30 Questions, issues, action items for next week</p> <p>HOMEWORK TO SUBMIT BY SATURDAY JAN. 23:<br/>1. Read pages 17-27 of tutorial &amp; do the exercises.\u00a0<a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p>2. Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb, test/models/group_test.rb, test/models/event_test.rb, etc. It's OK for multiple people to work on the same file. Make a pull request at\u00a0<a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=8AQFibSYz&amp;enc=AZMJcDx0Epnv417yABAGgi2Sy7Ru8dD-BCQ4l1Ibq8UnTgpE6IdprREl1A5gqx9wxSg&amp;s=1&amp;skip_shim_verification=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0for your modified test files.</p> <p>\n\n&lt;a href=\"https://www.facebook.com/groups/crowdpublishtv/\"&gt;&lt;/a&gt;</p>", 
+            "duration": 6300000, 
+            "event_url": "http://www.meetup.com/railsgirlsdc/events/228227819/", 
+            "group": {
+                "created": 1402595052000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.290000915527344, 
+                "id": 15046892, 
+                "join_mode": "open", 
+                "name": "Rails Girls DC", 
+                "urlname": "railsgirlsdc", 
+                "who": "Rails Women"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
+            "id": "228227819", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Google Hangouts class/tutorial", 
+            "status": "upcoming", 
+            "time": 1453765500000, 
+            "updated": 1453302555000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Near Nottoway Park", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 24149860, 
+                "lat": 38.884383999999997, 
+                "lon": -77.274947999999995, 
+                "name": "A mile from Vienna metro or find us online", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1451956016000, 
@@ -296,7 +335,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1452642098000, 
@@ -363,7 +402,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1451935931000, 
@@ -439,7 +478,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -478,7 +517,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 38, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -518,7 +557,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1446219481000, 
@@ -546,7 +585,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1452612310000, 
@@ -651,7 +690,7 @@
         }, 
         {
             "created": 1451357840000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\" /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will reflect on the accountability discussions that has been occurring with respect to the IANA transition to discuss internet accountability in general. This salon-style session will use the IANA accountability debate to try to create 10,000-foot solutions.</p> <p>Speakers:</p> <p><b><i>* Jonathan Zuck, ACT</i></b></p> <p><b><i>* Becky\u00a0Burr, Neustar</i></b></p> <p>\u2022 <i>More to TBD\u00a0</i></p> <p>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>6:45pm: Announcements\u00a0</p> <p>7:00pm: Panel Introductions\u00a0</p> <p>7:15pm: Panel</p> <p>8:00pm: Q&amp;A</p> <p>8:30pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>#LegalHack\u00a0</p>", 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\" /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will reflect on the accountability discussions that has been occurring with respect to the IANA transition to discuss internet accountability in general. This salon-style session will use the IANA accountability debate to try to create 10,000-foot solutions.</p> <p>Speakers:</p> <p><b>\u2022\u00a0<i>Jonathan Zuck, ACT</i></b></p> <p><i><b>\u2022\u00a0Hibah Hussein, Google</b></i></p> <p><b>\u2022\u00a0<i>Becky\u00a0Burr, Neustar</i></b></p> <p>Moderator:\u00a0<b><i>David Snead, Internet Infrastructure Coalition</i></b></p> <p><br/>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>6:45pm: Announcements\u00a0</p> <p>7:00pm: Panel Introductions\u00a0</p> <p>7:15pm: Panel</p> <p>8:00pm: Q&amp;A</p> <p>8:30pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>#LegalHack\u00a0</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/227686888/", 
             "group": {
@@ -670,7 +709,7 @@
             "name": "Hacking Accountability in Internet Governance w/ ISOC-DC!", 
             "status": "upcoming", 
             "time": 1454626800000, 
-            "updated": 1453176121000, 
+            "updated": 1453312231000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "718 7th St NW", 
@@ -685,7 +724,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1452390774000, 
@@ -763,7 +802,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1451511034000, 
@@ -800,7 +839,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1446220149000, 
@@ -855,7 +894,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1446220217000, 
@@ -1051,7 +1090,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446220149000, 
@@ -1449,7 +1488,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
