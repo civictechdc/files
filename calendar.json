@@ -120,45 +120,6 @@
     ], 
     "other": [
         {
-            "created": 1452350269000, 
-            "description": "<p><a href=\"https://www.youtube.com/watch?v=s7hQ7XHh1Jw\" class=\"embedded\">https://www.youtube.com/watch?v=s7hQ7XHh1Jw</a></p> <p><br/>This is a class for the new developer, and works not only for those new to programming, but also to Python.</p> <p>For this class, we will be using Google Hangouts on Air and Cloud 9 (<a href=\"https://c9.io/\"><a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a></a>). Make sure that you have a C9 account before the class starts! Everyone should be fine using the free tier.</p> <p>Rough outline:</p> <p>* Storing and manipulating data\u00a0<br/>* Getting information from the user\u00a0<br/>* Logic and flow control\u00a0<br/>* Using the standard library\u00a0<br/>* Projects of interest</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/227961346/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Hopefully, the link below will work. If not, keep an eye on your email and this page!", 
-            "id": "227961346", 
-            "maybe_rsvp_count": 0, 
-            "name": "Learn Python in your PJs!", 
-            "status": "upcoming", 
-            "time": 1453645800000, 
-            "updated": 1452717405000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Link is in the details", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23483842, 
-                "lat": 38.890369, 
-                "lon": -77.031959999999998, 
-                "name": "Google Hangout On Air", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 62
-        }, 
-        {
             "created": 1453079048000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome developers of all levels and encourage those with more experience to help out those that are just starting. There's\u00a0always one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>Please bring a laptop to FEHN. Chromebooks or large tablets with keyboards are fine - you can use Cloud9 IDE (<a href=\"https://c9.io\"><a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a></a>). Extra computers will not be available at the event.\u00a0</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code! Work on projects and hang out</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page -\u00a0<a href=\"http://bit.ly/frontendhacknight\"><a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></a></p> <p>\u2022 First Timer's Guide:\u00a0<a href=\"http://bit.ly/first-timers-guide\"><a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a></a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide:\u00a0<a href=\"http://bit.ly/html-study-guide\"><a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a></a>\u00a0</p> <p>\u2022 JavaScript Study Guide:\u00a0<a href=\"http://bit.ly/js-study-guide\"><a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a></a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In\u00a0case\u00a0the location requires access to the building, contact the group lead if\u00a0information\u00a0is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome\u00a0</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -194,7 +155,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1453302555000, 
@@ -269,7 +230,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 162
+            "yes_rsvp_count": 165
         }, 
         {
             "created": 1452642098000, 
@@ -412,7 +373,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
+            "waitlist_count": 49, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -451,7 +412,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 49, 
+            "waitlist_count": 50, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -840,7 +801,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1446220217000, 
