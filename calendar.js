@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": false, 
@@ -192,7 +192,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 168
+            "yes_rsvp_count": 171
         }, 
         {
             "created": 1452642098000, 
@@ -258,7 +258,7 @@ calendar({
                 "zip": "20723"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 150
         }, 
         {
@@ -374,7 +374,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 55, 
+            "waitlist_count": 63, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -414,7 +414,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1446219481000, 
@@ -446,7 +446,7 @@ calendar({
         }, 
         {
             "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "description": "<p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails (ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228066041/", 
             "group": {
@@ -465,11 +465,11 @@ calendar({
             "name": "Ruby on Rails: First Timer's Night!", 
             "status": "upcoming", 
             "time": 1454542200000, 
-            "updated": 1452612358000, 
+            "updated": 1453692570000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
@@ -699,6 +699,44 @@ calendar({
             "yes_rsvp_count": 19
         }, 
         {
+            "created": 1453693195000, 
+            "description": "<p>[[Meetup details]]</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Ruby Fundamentals Workshop</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228338937/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228338937", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1455147000000, 
+            "updated": 1453693195000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Location to be confirmed", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24304873, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "TBD", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1446220149000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -792,6 +830,82 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1453693213000, 
+            "description": "<p>[[Meetup details]]</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Ruby Fundamentals Workshop</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228338943/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228338943", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Study Group", 
+            "status": "upcoming", 
+            "time": 1455751800000, 
+            "updated": 1453693213000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Location to be confirmed", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24304873, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "TBD", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1453691652000, 
+            "description": "<p>Rails is a back-end framework that combines the\u00a0Ruby\u00a0programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.\u00a0Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup we\u2019ll do an intro to that subset of the language.</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Ruby Fundamentals Workshop</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228338446/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "228338446", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Focus on Fundamentals", 
+            "status": "upcoming", 
+            "time": 1456356600000, 
+            "updated": 1453691652000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Location to be confirmed", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24304873, 
+                "lat": 38.907192000000002, 
+                "lon": -77.036873, 
+                "name": "TBD", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446219481000, 
@@ -959,7 +1073,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446220149000, 
@@ -1258,61 +1372,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/cjdtnlyvhbgb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: First Timer's Night!", 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1452612358000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1446219481000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvhbgb/", 
@@ -1386,34 +1445,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvhbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1463005800000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
