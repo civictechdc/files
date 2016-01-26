@@ -2,45 +2,6 @@
     "codefordc": [
         {
             "announced": true, 
-            "created": 1451966541000, 
-            "description": "<p>In light of The Weather, this meetup is going to be held virtually. Project teams are encouraged to coordinate work through Slack, videochats, or other publicly-accessible methods.</p> <p>6:30 - 7:00 - Check that you can log on to <a href=\"https://codefordc.slack.com\">Our Slack</a>., socialize with other participants. You can request an invite on the <a href=\"http://codefordc.org/joinslack\">Code for DC site</a>. Contact stvnrlly@codefordc.org if you have any issues.</p> <p>7:00 - Group introductions and announcements from participants and organizers.</p> <p>7:00 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>9:00 - The end of the formal hacknight. We'll share our progress made over the last two hours. Show and tell if time/resources allow it.</p> <p>If you are new to Code for DC:\u00a0</p> <p><br/>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/227850022/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227850022", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1453764600000, 
-            "updated": 1453662968000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "The Internet", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24323954, 
-                "lat": 38.907192000000002, 
-                "lon": -77.036873, 
-                "name": "codefordc.slack.com", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 63
-        }, 
-        {
-            "announced": true, 
             "created": 1451966585000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -76,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "announced": false, 
@@ -115,49 +76,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }
     ], 
     "other": [
-        {
-            "created": 1453302555000, 
-            "description": "<p>Members are more active in the facebook group - please join &amp; participate there\u00a0<a href=\"https://www.facebook.com/groups/crowdpublishtv/\"><a href=\"https://www.facebook.com/groups/crowdpublishtv/\" class=\"linkified\">https://www.facebook.com/groups/crowdpublishtv/</a></a></p> <p>Feel free to invite others. This is a weekly event. If you're just starting, go through the README at\u00a0<a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=bAQFyFZ3Q&amp;enc=AZNHV1Zv9ACzd-R6CZPxagZC1r-VxA5GE-tmCTV0Xxa_0SI8aOlqjy0k9GowVKMQheU&amp;s=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a></p> <p>Find us at 6:45pm\u00a0<a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\"><a href=\"https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa\" class=\"linkified\">https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa</a></a></p> <p>AGENDA<br/>6:45-7:00 Introduce ourselves, especially those who haven't participated in a previous hangout<br/>7:00-7:30 Each attendee will step us through the tests they wrote this week.<br/>7:30-8:00 pp 17-27 of tutorial<br/>8:00-8:30 Questions, issues, action items for next week</p> <p>HOMEWORK TO SUBMIT BY SATURDAY JAN. 23:<br/>1. Read pages 17-27 of tutorial &amp; do the exercises.\u00a0<a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv/blob/master/public/LearnRailsIn2Minutes.odt</a></a></p> <p>2. Write at least 2 tests for the model of your choice - e.g. test/models/rsvpq_test.rb, test/models/group_test.rb, test/models/event_test.rb, etc. It's OK for multiple people to work on the same file. Make a pull request at\u00a0<a href=\"https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcrowdpublishtv%2Fcrowdpublishtv&amp;h=8AQFibSYz&amp;enc=AZMJcDx0Epnv417yABAGgi2Sy7Ru8dD-BCQ4l1Ibq8UnTgpE6IdprREl1A5gqx9wxSg&amp;s=1&amp;skip_shim_verification=1\"><a href=\"https://github.com/crowdpublishtv/crowdpublishtv\" class=\"linkified\">https://github.com/crowdpublishtv/crowdpublishtv</a></a>\u00a0for your modified test files.</p> <p>\n\n&lt;a href=\"https://www.facebook.com/groups/crowdpublishtv/\"&gt;&lt;/a&gt;</p>", 
-            "duration": 6300000, 
-            "event_url": "http://www.meetup.com/railsgirlsdc/events/228227819/", 
-            "group": {
-                "created": 1402595052000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.290000915527344, 
-                "id": 15046892, 
-                "join_mode": "open", 
-                "name": "Rails Girls DC", 
-                "urlname": "railsgirlsdc", 
-                "who": "Rails Women"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "https://hangouts.google.com/hangouts/_/62ad7a57cfcmeka7cah3bqymtaa", 
-            "id": "228227819", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Google Hangouts class/tutorial", 
-            "status": "upcoming", 
-            "time": 1453765500000, 
-            "updated": 1453302555000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Near Nottoway Park", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 24149860, 
-                "lat": 38.884383999999997, 
-                "lon": -77.274947999999995, 
-                "name": "A mile from Vienna metro or find us online", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
         {
             "created": 1448552700000, 
             "description": "<p>So many data science talks focus on the \"sexier\" side of data science - algorithms, models, visualizations and even data pipelines. However, nothing is sexier than turning an algorithm or model into a sustainable product that brings gains to you or your company. And a sustainable product is the outcome of skills and focus on the software and architecture side of the house. So come learn (or sharpen) your software skills and earn the admiration of everyone you work with.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:15 PM -- <i>Visualizing Datasets with Java Web Applications and D3\u00a0- Mike Machovec and</i><i>\u00a0Ryan Blace</i></p> <p>8:30 PM -- Post event drinks</p> <p><b>Talk</b></p> <p><b><i>Visualizing Datasets with Java Web Applications and D3</i></b></p> <p><br/>This talk follows the development of a RESTful Java web application for visualizing board game statistics from <a href=\"http://boardgamegeek.com/\">boardgamegeek.com</a>, which allows users to log individual board game play results, such as participating players, ending game scores, and game winner(s).\u00a0 These logged events are then able to be accessed via a RESTful API.\u00a0 This talk focuses on a Java web application that uses this API to access the logged plays and summarizes those plays using various visualizations.\u00a0 Variations of board games and resulting logged plays will be briefly discussed, but the primary focus will be on the considerations made at the business and presentation tiers for conveying this dataset, such as data acquisition, REST service conventions, visualization methods, and technology selection for implementation.</p> <p><br/><b>Speakers</b></p> <p><a href=\"mailto:[masked]\">Mike </a>is a senior software engineer at Asymmetrik with over 10 years of experience developing Enterprise Java Web Applications. \u00a0He received his master\u2019s degree in Computer Science from Johns Hopkins University with a focus on Software Engineering and Enterprise Web Computing. Mike enjoys playing board games with his wife and friends in his spare time and has been gathering play statistics for the past year.</p> <p>Ryan is the strategic technical lead at Asymmetrik and an experienced computer science professional with over 13 years of systems architecture, data visualization and analysis, and software development experience. His passion for technology drives him to build beautiful and functional applications. Ryan holds a Masters in Computer Science from Virginia Tech and an undergrad degree in Computer Engineering from the University of Maryland at College Park. In his spare time, Ryan likes to get lost mountain biking in the woods of the Patapsco Valley.</p> <p><b>Company</b></p> <p><a href=\"http://asymmetrik.com/\">Asymmetrik</a>\u00a0is a high-end technology and analytics firm whose agile methodology enable a mission positive impact by tackling big problems with small teams. Our business is to increase our customer\u2019s productivity by combining their domain knowledge and business problems with our preeminent system expertise.\u00a0</p> <p>Location</p> <p>JHU APL Building 200 is located in the South Campus. There is ample parking around the building.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p>", 
@@ -233,7 +155,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -272,7 +194,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 54, 
+            "waitlist_count": 57, 
             "yes_rsvp_count": 190
         }, 
         {
@@ -311,7 +233,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 72, 
+            "waitlist_count": 74, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -351,7 +273,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1446219481000, 
