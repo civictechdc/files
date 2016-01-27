@@ -3030,14 +3030,14 @@ projects([
             0, 
             0, 
             0, 
-            59, 
-            41, 
-            49, 
-            22, 
-            78, 
-            12, 
-            1, 
+            61, 
+            51, 
+            44, 
+            16, 
+            83, 
+            6, 
             2, 
+            1, 
             1, 
             6, 
             0, 
@@ -3054,8 +3054,8 @@ projects([
             0, 
             1, 
             0, 
-            3, 
-            14, 
+            5, 
+            12, 
             0, 
             0, 
             0, 
@@ -4494,21 +4494,21 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 96, 
+                "contributions": 105, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
+                "contributions": 17, 
+                "link": "https://github.com/mebates", 
+                "name": "mebates"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10971884?v=3", 
                 "contributions": 13, 
                 "link": "https://github.com/drownedout", 
                 "name": "drownedout"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
-                "contributions": 10, 
-                "link": "https://github.com/mebates", 
-                "name": "mebates"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
@@ -4527,9 +4527,21 @@ projects([
                 "contributions": 1, 
                 "link": "https://github.com/kndllbrwn", 
                 "name": "kndllbrwn"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/16469242?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/RAGarza8", 
+                "name": "RAGarza8"
             }
         ], 
-        "contributors_count": 6, 
+        "contributors_count": 8, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4545,7 +4557,7 @@ projects([
             ], 
             [
                 "Ruby", 
-                43676
+                43956
             ], 
             [
                 "CSS", 
@@ -4553,7 +4565,7 @@ projects([
             ], 
             [
                 "JavaScript", 
-                661
+                693
             ], 
             [
                 "CoffeeScript", 
@@ -4563,16 +4575,16 @@ projects([
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 25, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-01-26T02:06:13Z", 
+        "pushed_at": "2016-01-27T01:58:44Z", 
         "short_name": "dcaf_case_management", 
-        "size": 4139, 
+        "size": 4267, 
         "updated_at": "2016-01-12T04:21:15Z", 
         "watchers": 1
     }, 
