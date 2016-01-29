@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": false, 
@@ -76,87 +76,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }
     ], 
     "other": [
-        {
-            "created": 1451935931000, 
-            "description": "<p>Comcast Labs DC is hosting a screening of a powerful documentary film. <b>CODE: Debugging the Gender Gap</b> exposes the lack of female and minority software engineers and explores the reasons for this gap, highlighting breakthrough efforts that are producing more diverse programmers. CODE asks: what would society gain from having more women and minorities code and how do we get there?\u00a0</p> <p>Click <a href=\"http://www.codedoc.co/about/\" class=\"linkified\">http://www.codedoc.co/about/</a> to view the trailer, and if you\u2019re intrigued, <b>please RSVP</b> to reserve a spot.\u00a0<b>Light refreshments will be served</b></p> <p>Hope to see you there!</p> <p>Navdeep Martin<br/>Senior Product Manager<br/>Comcast Labs DC</p>", 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227836436/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "227836436", 
-            "maybe_rsvp_count": 0, 
-            "name": "CODE: Debugging the Gender Gap @Comcast Labs", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1454020200000, 
-            "updated": 1452107440000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, 6th Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24282507, 
-                "lat": 38.904324000000003, 
-                "lon": -77.033187999999996, 
-                "name": "Comcast Labs", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 125
-        }, 
-        {
-            "created": 1451931941000, 
-            "description": "<p>Data Visualization continues to evolve from a simple \u2018nice to have\u2019 on analysts\u2019 resumes into a new career discipline of its own. Countless books, tutorials and classes have helped individuals master the technical skills necessary to build graphics and images. The difficulty some encounter is converting these technical skills into monetary rewards and benefits. The difficulty can come from finding paid freelance work, seeking a raise from your current employer for your talents, or seeking job opportunities solely focused on data visualization. A few simple concepts can help your clients and employer better appreciate and compensate you based on your ability to design and develop effective data visualizations.\u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJGQ0YzIzZGMzLWEzYzYtNDA1NC05Mjc5LWQ3ODBjYzQ5NGQ0NA.jpg\" /></p> <p>Shay Anderson currently works for PricewaterhouseCoopers (PwC) Forensic Services: Investigative Analytics practice in Washington, DC where he helps clients\u2019 model solutions in response to natural disasters, government regulation, accusations of fraud, potential litigation, and even sophisticated cyber-attacks. Before joining PwC Shay had over 15 years of experience in the fields of financial, data and business analysis, and has worked with Fortune 500 companies, state and federal agencies, small businesses, as well as the US military. Shay earned his first graduate degree in Information Management from the University of Maryland College of Information Studies (iSchool) where his thesis project on effective dashboard design and development received the Dean\u2019s Award for Outstanding Development or Design (2011). \u00a0Shay just recently completed his second graduate degree in Information Visualization from the Maryland Institute College of Art (2015).</p> <p>Staff Sergeant Shay Anderson was Honorably Discharged from the Army National Guard after 15 years of service. He has over two decades of experience in crisis leadership and data visualization. Shay joined the Washington National Guard at seventeen where he was a member of the HHB 2-146 (Field Artillery) which supported the 81st Infantry Brigade. \u00a0Shay served his community and country in peacetime, in the early 90s SSG Anderson was awarded a Washington National Guard Emergency Service Military Ribbon for his courage in fighting wildfires, and in wartime during Operation Iraqi Freedom in 2003 and 2004, for his display of leadership and courage as Sergeant of the Guard commanding security forces at Camps Wolverine and Spearhead in Kuwait. In 2004 he was awarded the Army Commendation Medal.</p> <p>Shay\u2019s proudest moment of national service was in 2003 as a Squad Leader for non-combat soldiers training to become a motorized infantry squad, which upon deployment became responsible for providing security to men and material traveling into and out of Iraq during the first year of Operation Iraqi Freedom. He says that this is proudest moment of service because \u201call of my squad members returned home healthy and without injury.\u201d</p> <p><b><br/></b></p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Monetizing Data Viz</p> <p>\u2022 8:20 - Q&amp;A\u00a0</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p><b><br/></b></p> <p><b>ANNOUNCEMENTS</b></p> <p><b><a href=\"http://www.districtdatalabs.com/\">District Data Labs</a>\u00a0Workshops</b></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/fast-data-apps-with-spark-and-python/?DVDC\">Fast Data Applications with Spark &amp; Python -\u00a01/23/2016</a></b></i></p> <p><i>Learn how to interact with Spark on the command line, conduct rapid in-memory analyses, and how to build distributed applications using Python and Spark.</i></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/web-scraping-with-python/?DVDC\">Web Scraping with Python -\u00a01/30/2016</a></b></i></p> <p><i>Learn about web scraping concepts and how to create your own custom web scraper with Python.</i></p> <p><i><b><a href=\"https://districtdatalabs.squarespace.com/building-data-apps-with-python/?DVDC\">Building Data Apps with Python -\u00a02/6/2016</a></b></i></p> <p><i>Learn how to build a data product in Python using every stage of the data science pipeline including ingesting, wrangling, computing, and web-based reporting.</i></p> <p><br/><b><br/></b></p> <p><b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/227834443/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "227834443", 
-            "maybe_rsvp_count": 0, 
-            "name": "Monetizing Data Viz", 
-            "rsvp_limit": 190, 
-            "status": "upcoming", 
-            "time": 1454023800000, 
-            "updated": 1452527699000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 41, 
-            "yes_rsvp_count": 182
-        }, 
         {
             "created": 1452033054000, 
             "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p>Dinner is provided.\u00a0</p> <p><b>Schedule:</b></p> <p>6:00-6:15 p.m.--Registration</p> <p>6:15-6:45 p.m.--Panel Discussion</p> <p>6:45-7:30 p.m.--Small Group Breakout Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p>", 
@@ -193,7 +116,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 77, 
+            "waitlist_count": 79, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -233,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1454003584000, 
@@ -270,7 +193,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1446219481000, 
@@ -386,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1452528053000, 
@@ -422,7 +345,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1451357840000, 
@@ -460,7 +383,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1452390774000, 
@@ -538,7 +461,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1451511034000, 
@@ -783,7 +706,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1453691652000, 
@@ -860,7 +783,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446219481000, 
@@ -1013,7 +936,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1453738391000, 
+            "updated": 1454040371000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -1028,7 +951,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1446220149000, 
@@ -1352,6 +1275,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
