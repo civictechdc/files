@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": false, 
@@ -116,7 +116,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 79, 
+            "waitlist_count": 74, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -156,11 +156,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1454003584000, 
-            "description": "<p>Yes, we continue to wage our battle against solid precipitation, but we are determined and will win this war. \u00a0But if we let it keep us from coming together to eat, drink, and talk about APIs, then the snow wins. \u00a0</p> <p>So, next week, on the first Tuesday of the month, let's gather again at Chief! \u00a0It'll be good to see everyone again as we brush off our cabin fever. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Scott Hiland -\u00a0Hickory Ground Solutions<br/>*\u00a0Jeremy Koulish - Bixal<br/>*\u00a0TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>Yes, we continue to wage our battle against solid precipitation, but we are determined and will win this war. \u00a0But if we let it keep us from coming together to eat, drink, and talk about APIs, then the snow wins. \u00a0</p> <p>So, next week, on the first Tuesday of the month, let's gather again at Chief! \u00a0It'll be good to see everyone again as we brush off our cabin fever. \u00a0:)</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Scott Hiland -\u00a0Hickory Ground Solutions<br/>*\u00a0Jeremy Koulish - Bixal<br/>* Michael Flores - IBM<br/>*\u00a0TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/228431644/", 
             "group": {
                 "created": 1347647025000, 
@@ -178,7 +178,7 @@ calendar({
             "name": "DC API User Group - February Edition", 
             "status": "upcoming", 
             "time": 1454454000000, 
-            "updated": 1454003584000, 
+            "updated": 1454080230000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1446219481000, 
@@ -271,7 +271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
@@ -309,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1452528053000, 
@@ -345,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1451357840000, 
@@ -461,7 +461,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1451511034000, 
@@ -604,7 +604,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1446220217000, 
@@ -706,7 +706,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1453691652000, 
@@ -811,7 +811,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1452612310000, 
@@ -1006,7 +1006,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446220217000, 
