@@ -1556,8 +1556,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 2, 8, 12,
-    28, 24, 17]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 6, 25,
+    15, 24, 16]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     bornAt: The halls of power
@@ -1582,7 +1582,7 @@
     thumbnailUrl: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 44,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 47,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 25,
     link: 'https://github.com/samiam151', name: samiam151}
@@ -1604,7 +1604,7 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [R, 41195]
+  - [R, 43721]
   - [HTML, 34056]
   - [CSS, 16003]
   - [Python, 1844]
@@ -1615,9 +1615,9 @@
   open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-28T03:26:20Z'
+  pushed_at: '2016-01-28T23:21:34Z'
   short_name: school-modernization
-  size: 3486
+  size: 3483
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
