@@ -101,7 +101,7 @@ other:
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 62
+  waitlist_count: 55
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -149,7 +149,7 @@ other:
     lon: -77.021095000000003, name: iStrategyLabs, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 92
 - created: 1454003584000
   description: "<p>Yes, we continue to wage our battle against solid precipitation,\
     \ but we are determined and will win this war. \_But if we let it keep us from\
@@ -178,7 +178,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -213,7 +213,7 @@ other:
     id: 23829648, lat: 38.927886999999998, lon: -77.217819000000006, name: Novetta,
     repinned: false, state: VA}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 3
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Come to our\_First Timer's Night\_Ruby on Rails (ROR) Study Group.\
@@ -256,7 +256,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 28
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -331,7 +331,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1452390774000
   description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
     \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\
@@ -715,7 +715,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1453691652000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -892,7 +892,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
