@@ -76,44 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 11
 other:
-- created: 1452033054000
-  description: "<p>This is the second event in our Mentoring Meetup series. Join us\
-    \ for a panel discussion of <b>how to find mentors and sponsors</b>, and how these\
-    \ relationships can help you progress in your professional career.</p> <p>Dinner\
-    \ is provided.\_</p> <p><b>Schedule:</b></p> <p>6:00-6:15 p.m.--Registration</p>\
-    \ <p>6:15-6:45 p.m.--Panel Discussion</p> <p>6:45-7:30 p.m.--Small Group Breakout\
-    \ Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p>\
-    \ <p><b>Panel Members:</b></p> <p><i><b>Alex Ulsh</b></i><br/>Information Security\
-    \ Engineer at <i>Mapbox</i> and Director at <i>Women Who Code DC</i></p> <p>Before\
-    \ joining Mapbox, Alex built, configured, and secured large intranets for the\
-    \ Department of Defense.</p> <p><i><b>Katherine McClintic</b></i><br/>Associate\
-    \ Software Development Engineer at <i>LivingSocial</i> and Director of Education\
-    \ at <i>Women Who Code DC</i></p> <p><i><b>Evan Blaire Taylor</b></i><br/>Tech-Savvy\
-    \ Writer, Designer &amp; Agile Project Manager striving to deliver results for\
-    \ your project on your timeline</p> <p><i><b>Kaylyn Gibilterra</b></i><br/>Software\
-    \ Engineer at <i>Capital One Labs</i> and DC Network Director for <i>Women Who\
-    \ Code</i></p> <p><i><b>Nupur Kapoor<br/></b></i>Software Enginner at <i>Beaconfire\
-    \ Consulting</i> and Director at <i>Women Who Code DC</i></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227869679/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '227869679'
-  maybe_rsvp_count: 0
-  name: 'Moving Your Career Forward: Developing a Portfolio of Mentors and Sponsors'
-  rsvp_limit: 80
-  status: upcoming
-  time: 1454194800000
-  updated: 1454187621000
-  utc_offset: -18000000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 46
-  yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"http://bit.ly/first-timers-guide\">First Timer's Guide</a> in\
@@ -189,7 +151,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -224,7 +186,7 @@ other:
     id: 23829648, lat: 38.927886999999998, lon: -77.217819000000006, name: Novetta,
     repinned: false, state: VA}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Come to our\_First Timer's Night\_Ruby on Rails (ROR) Study Group.\
@@ -428,7 +390,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\
@@ -541,7 +503,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1417881835000
   description: <p>Sites like data.gov and arlington.co.va don't offer advanced search.
     It's possible to do an advanced search on sites like these without downloading
@@ -596,7 +558,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1453693213000
   description: "<p>[[Meetup details]]</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\
     \_6:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
@@ -726,7 +688,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 104
 - created: 1453691652000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -1388,6 +1350,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1446220149000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
+    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
+    \ we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvhbpb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: bcxvllyvhbpb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1463005800000
+  updated: 1446220149000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
