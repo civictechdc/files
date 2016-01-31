@@ -82,7 +82,7 @@ calendar({
     "other": [
         {
             "created": 1452033054000, 
-            "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p>Dinner is provided.\u00a0</p> <p><b>Schedule:</b></p> <p>6:00-6:15 p.m.--Registration</p> <p>6:15-6:45 p.m.--Panel Discussion</p> <p>6:45-7:30 p.m.--Small Group Breakout Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p>", 
+            "description": "<p>This is the second event in our Mentoring Meetup series. Join us for a panel discussion of <b>how to find mentors and sponsors</b>, and how these relationships can help you progress in your professional career.</p> <p>Dinner is provided.\u00a0</p> <p><b>Schedule:</b></p> <p>6:00-6:15 p.m.--Registration</p> <p>6:15-6:45 p.m.--Panel Discussion</p> <p>6:45-7:30 p.m.--Small Group Breakout Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p> <p><b>Panel Members:</b></p> <p><i><b>Alex Ulsh</b></i><br/>Information Security Engineer at <i>Mapbox</i> and Director at <i>Women Who Code DC</i></p> <p>Before joining Mapbox, Alex built, configured, and secured large intranets for the Department of Defense.</p> <p><i><b>Katherine McClintic</b></i><br/>Associate Software Development Engineer at <i>LivingSocial</i> and Director of Education at <i>Women Who Code DC</i></p> <p><i><b>Evan Blaire Taylor</b></i><br/>Tech-Savvy Writer, Designer &amp; Agile Project Manager striving to deliver results for your project on your timeline</p> <p><i><b>Kaylyn Gibilterra</b></i><br/>Software Engineer at <i>Capital One Labs</i> and DC Network Director for <i>Women Who Code</i></p> <p><i><b>Nupur Kapoor<br/></b></i>Software Enginner at <i>Beaconfire Consulting</i> and Director at <i>Women Who Code DC</i></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227869679/", 
             "group": {
@@ -102,7 +102,7 @@ calendar({
             "rsvp_limit": 80, 
             "status": "upcoming", 
             "time": 1454194800000, 
-            "updated": 1453986134000, 
+            "updated": 1454187621000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -116,7 +116,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 55, 
+            "waitlist_count": 46, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -193,7 +193,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1446219481000, 
@@ -271,7 +271,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1326383071000, 
@@ -461,7 +461,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1451511034000, 
@@ -604,7 +604,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1446220217000, 
@@ -706,7 +706,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1453691652000, 
@@ -783,7 +783,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1446219481000, 
@@ -951,7 +951,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1446220149000, 

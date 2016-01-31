@@ -82,7 +82,18 @@ other:
     \ relationships can help you progress in your professional career.</p> <p>Dinner\
     \ is provided.\_</p> <p><b>Schedule:</b></p> <p>6:00-6:15 p.m.--Registration</p>\
     \ <p>6:15-6:45 p.m.--Panel Discussion</p> <p>6:45-7:30 p.m.--Small Group Breakout\
-    \ Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p>"
+    \ Sessions</p> <p>7:30-8:00 p.m.--Full Group Discussion</p> <p>8:00 p.m.--End</p>\
+    \ <p><b>Panel Members:</b></p> <p><i><b>Alex Ulsh</b></i><br/>Information Security\
+    \ Engineer at <i>Mapbox</i> and Director at <i>Women Who Code DC</i></p> <p>Before\
+    \ joining Mapbox, Alex built, configured, and secured large intranets for the\
+    \ Department of Defense.</p> <p><i><b>Katherine McClintic</b></i><br/>Associate\
+    \ Software Development Engineer at <i>LivingSocial</i> and Director of Education\
+    \ at <i>Women Who Code DC</i></p> <p><i><b>Evan Blaire Taylor</b></i><br/>Tech-Savvy\
+    \ Writer, Designer &amp; Agile Project Manager striving to deliver results for\
+    \ your project on your timeline</p> <p><i><b>Kaylyn Gibilterra</b></i><br/>Software\
+    \ Engineer at <i>Capital One Labs</i> and DC Network Director for <i>Women Who\
+    \ Code</i></p> <p><i><b>Nupur Kapoor<br/></b></i>Software Enginner at <i>Beaconfire\
+    \ Consulting</i> and Director at <i>Women Who Code DC</i></p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/227869679/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -95,13 +106,13 @@ other:
   rsvp_limit: 80
   status: upcoming
   time: 1454194800000
-  updated: 1453986134000
+  updated: 1454187621000
   utc_offset: -18000000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 55
+  waitlist_count: 46
   yes_rsvp_count: 80
 - created: 1450148912000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -178,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -256,7 +267,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -417,7 +428,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 93
+  yes_rsvp_count: 94
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\
@@ -556,7 +567,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 81
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -715,7 +726,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 103
 - created: 1453691652000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -801,7 +812,7 @@ other:
       YouTube stream, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -973,7 +984,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
