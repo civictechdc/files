@@ -122,7 +122,7 @@ other:
     lon: -77.021095000000003, name: iStrategyLabs, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 95
 - created: 1454003584000
   description: "<p>Yes, we continue to wage our battle against solid precipitation,\
     \ but we are determined and will win this war. \_But if we let it keep us from\
@@ -151,7 +151,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 46
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -180,14 +180,18 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: Room 4
   id: rjstplyvdbdb
   maybe_rsvp_count: 0
   name: Android Hack Night
   rsvp_limit: 25
   status: upcoming
   time: 1454455800000
-  updated: 1454252703000
+  updated: 1454282655000
   utc_offset: -18000000
+  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
+    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
+      Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -289,7 +293,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1452528053000
   event_url: http://www.meetup.com/Geo-DC/events/228007314/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
@@ -306,7 +310,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1451357840000
   description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\"\
     \ /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"\
@@ -343,7 +347,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 62
 - created: 1452390774000
   description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
     \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\
@@ -487,19 +491,23 @@ other:
     \ to Stay in Touch?</p> <p>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\"\
     >Slack</a>\_group to talk about all things Android.</p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvdbmb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228509751/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: Room 2
   id: rjstplyvdbmb
   maybe_rsvp_count: 0
   name: Android Hack Night
   rsvp_limit: 25
   status: upcoming
   time: 1455060600000
-  updated: 1454252703000
+  updated: 1454282703000
   utc_offset: -18000000
+  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
+    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
+      Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
@@ -581,7 +589,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1417881835000
   description: <p>Sites like data.gov and arlington.co.va don't offer advanced search.
     It's possible to do an advanced search on sites like these without downloading
@@ -998,7 +1006,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
