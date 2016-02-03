@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 64
         }, 
         {
             "announced": false, 
@@ -156,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
@@ -194,7 +194,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1452528053000, 
@@ -231,7 +231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1451357840000, 
@@ -269,7 +269,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1452390774000, 
@@ -347,7 +347,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1451511034000, 
@@ -384,7 +384,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1454252703000, 
@@ -530,7 +530,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1454252703000, 
@@ -627,6 +627,45 @@
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1454510327000, 
+            "description": "<p>Join us for a series of short, fun and interesting lightning talks about R and Python. Thank you so much for the folks at\u00a0<a href=\"http://www.agencychief.com/\">CHIEF</a>\u00a0for hosting us.\u00a0</p> <p>Chief is one block away from Dupont Circle on Mass Ave. Please RSVP if you are attending for estimating food and for access: we need to provide an attendee list to building security. There is parking in the building at a reduced rate using <a href=\"http://www.spothero.com\">Spothero</a> or <a href=\"http://www.parkingpanda.com\">Parking Panda</a> ($7).</p> <p>6:30 - 7:00 Eat, drink and mingle<br/>7:00 - 7:15 \u00a0Intros &amp; Announcements<br/>7:15 - 8:30ish Talks<br/>Afterwards, off to data drinks.<br/>Note: we need to vacate by 8:45pm</p> <p><b>Talks (in no particular order):</b></p> <p><br/><b>Alex Engler</b>: <i>\"Setting up an approachable/elastic spark environment\"</i></p> <p><br/><b>Fatena El-Masri:</b> <i>title TBD</i></p> <p><b>Mike Jadoo:</b>\u00a0<i>\"Geospatial\".</i>\u00a0Mike is economist working in the data production side of the profession for 4 + years. He hosts a Meetup group called Statistical Seminars where he is promoting awareness about different statistical methods and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"><a href=\"http://www.meetup.com/Statistical-seminars/\" class=\"linkified\">http://www.meetup.com/Statistical-seminars/</a></a> <a href=\"http://economistmike.org/\"><a href=\"http://economistmike.org/\" class=\"linkified\">http://economistmike.org/</a></a></p> <p><b>Mike Messner:</b> <i>\"Beyond Open Data: Open Uncertainty?\"</i>\u00a0Mike is a mathematical statistician with the Environmental Protection Agency. \u00a0A recipient of ASA\u2019s Herriot Award for Innovation in Federal Statistics, he uses R for everything from modeling contaminants in drinking water to carving violins.</p> <p><b>Josh Merrell:</b> <i>rChess</i>\u00a0</p> <p><b>Elizabeth Byerly:</b> <i>\"Quick PSOCK clusters on AWS and RStudio Server\".</i>\u00a0Elizabeth works as a Data Systems Architect, building systems for computationally intensive analysis at a statistical consulting firm.\u00a0<a href=\"http://www.twitter.com/ByerlyElizabeth\">www.twitter.com/ByerlyElizabeth</a>\u00a0<a href=\"http://www.github.com/ElizabethAB\">www.github.com/ElizabethAB</a></p> <p><b>Nathan Teetor:</b> <i>\"Web Frameworks for R\".\u00a0</i>Nate is a software engineer at Morning Consult and an R enthusiast. He enjoys cooking up new R ideas, cooking up new foods, and is searching for the perfect combination of the two.\u00a0<a href=\"http://www.github.com/nteetor\">www.github.com/nteetor</a>\u00a0<a href=\"http://www.linkedin.com/in/nteetor\">www.linkedin.com/in/nteetor</a>\u00a0<a href=\"http://www.twitter.com/ntweetor\">www.twitter.com/ntweetor</a></p> <p><b>David Kretch:</b> <i>\"Multilevel Models\".</i>\u00a0David is a data scientist at Summit Consulting where he works on statistical modeling and machine learning projects. His statistical computing environment of choice is R, but he is attempting to acquire a taste for other languages.\u00a0<a href=\"https://www.linkedin.com/in/davidkretch\"><a href=\"https://www.linkedin.com/in/davidkretch\" class=\"linkified\">https://www.linkedin.com/in/davidkretch</a></a>\u00a0<a href=\"https://twitter.com/davidkretch\"><a href=\"https://twitter.com/davidkretch\" class=\"linkified\">https://twitter.com/davidkretch</a></a>\u00a0<a href=\"https://github.com/davidkretch\"><a href=\"https://github.com/davidkretch\" class=\"linkified\">https://github.com/davidkretch</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/228579526/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "228579526", 
+            "maybe_rsvp_count": 0, 
+            "name": "Lightning Talks - Feb. 2016 Edition", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1455751800000, 
+            "updated": 1454510750000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 70
+        }, 
+        {
             "created": 1454252703000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
             "duration": 7200000, 
@@ -688,7 +727,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1453691652000, 
@@ -765,7 +804,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1454252703000, 
@@ -961,7 +1000,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1454252703000, 
