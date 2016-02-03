@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 58
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -76,78 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 12
 other:
-- created: 1454003584000
-  description: "<p>Yes, we continue to wage our battle against solid precipitation,\
-    \ but we are determined and will win this war. \_But if we let it keep us from\
-    \ coming together to eat, drink, and talk about APIs, then the snow wins. \_</p>\
-    \ <p>So, next week, on the first Tuesday of the month, let's gather again at Chief!\
-    \ \_It'll be good to see everyone again as we brush off our cabin fever. \_:)</p>\
-    \ <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions\
-    \ and Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>* Alan Delevie\
-    \ - 18F<br/>* Scott Hiland -\_Hickory Ground Solutions<br/>*\_Jeremy Koulish -\
-    \ Bixal<br/>* Michael Flores - IBM</p> <p><br/>7:55pm - 8:00pm Refill your beverage\_\
-    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/228431644/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '228431644'
-  maybe_rsvp_count: 0
-  name: DC API User Group - February Edition
-  status: upcoming
-  time: 1454454000000
-  updated: 1454359087000
-  utc_offset: -18000000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 69
-- created: 1454252703000
-  description: "<p>Interested in learning how to build Android apps with an awesome\
-    \ group of women? \_Looking to build your first app or build on existing skills?\
-    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
-    \ of Android experience (including none), but coding experience *is*preferred\
-    \ as Android is not the friendliest way to learn how to code. \_***Please bring\
-    \ your laptop to this event as computers will not be provided.***</p> <p>Meetup\
-    \ Format</p> <p><i>This week we will have a presentation/code along of Java for\
-    \ Android! Please make sure that you have Android Studio installed and working\
-    \ on your laptop before you arrive!\_</i>\_</p> <p>Building Access</p> <p>The\
-    \ management in certain buildings requires meetup hosts to let people in instead\
-    \ of relying on their security staff. \_ Please respect the policy in case the\
-    \ location requires access to the building. \_To gain access, contact the group\
-    \ lead if information is provided or drop a comment on the meetup page. We'll\
-    \ come get you.</p> <p>Resources</p> <p>Beginners should check out our\_<a href=\"\
-    https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
-    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
-    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
-    \ welcomed!</p> <p>All Women Welcome\_</p> <p>This event is intended to be exclusively\
-    \ open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want\
-    \ to Stay in Touch?</p> <p>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\"\
-    >Slack</a>\_group to talk about all things Android.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228497970/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Room 4
-  id: rjstplyvdbdb
-  maybe_rsvp_count: 0
-  name: Android Hack Night - Intro to Git
-  rsvp_limit: 25
-  status: upcoming
-  time: 1454455800000
-  updated: 1454377756000
-  utc_offset: -18000000
-  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
-    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
-      Commons', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 6
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -182,7 +110,7 @@ other:
     id: 23829648, lat: 38.927886999999998, lon: -77.217819000000006, name: Novetta,
     repinned: false, state: VA}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 11
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Come to our\_First Timer's Night\_Ruby on Rails (ROR) Study Group.\
@@ -246,7 +174,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1452528053000
   description: '<p>February GeoDC is all about data quality: what it means, how to
     get it, and what happens when you don''t have it.</p> <p>Ray Milefsky, a geographer
@@ -311,7 +239,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1452390774000
   description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
     \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\
@@ -397,7 +325,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 121
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\
@@ -431,7 +359,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 29
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -553,7 +481,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1417881835000
   description: <p>Sites like data.gov and arlington.co.va don't offer advanced search.
     It's possible to do an advanced search on sites like these without downloading
@@ -816,7 +744,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 123
 - created: 1453691652000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -902,7 +830,7 @@ other:
       YouTube stream, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -970,7 +898,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1113,7 +1041,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1308,6 +1236,45 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1454252703000
+  description: "<p>Interested in learning how to build Android apps with an awesome\
+    \ group of women? \_Looking to build your first app or build on existing skills?\
+    \ \_Come to our weekly Android Hack Night! \_We welcome women with all levels\
+    \ of Android experience (including none), but coding experience *is*preferred\
+    \ as Android is not the friendliest way to learn how to code. \_***Please bring\
+    \ your laptop to this event as computers will not be provided.***</p> <p>Meetup\
+    \ Format</p> <p><i>This week we will have a presentation/code along of Java for\
+    \ Android! Please make sure that you have Android Studio installed and working\
+    \ on your laptop before you arrive!\_</i>\_</p> <p>Building Access</p> <p>The\
+    \ management in certain buildings requires meetup hosts to let people in instead\
+    \ of relying on their security staff. \_ Please respect the policy in case the\
+    \ location requires access to the building. \_To gain access, contact the group\
+    \ lead if information is provided or drop a comment on the meetup page. We'll\
+    \ come get you.</p> <p>Resources</p> <p>Beginners should check out our\_<a href=\"\
+    https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    >Android Getting Started Guide</a>. \_It's chock full of information to get you\
+    \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
+    \ welcomed!</p> <p>All Women Welcome\_</p> <p>This event is intended to be exclusively\
+    \ open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want\
+    \ to Stay in Touch?</p> <p>Please join our\_<a href=\"http://bit.ly/womenwhocodedcslack\"\
+    >Slack</a>\_group to talk about all things Android.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvfbmc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: rjstplyvfbmc
+  maybe_rsvp_count: 0
+  name: Android Hack Night
+  rsvp_limit: 25
+  status: upcoming
+  time: 1459290600000
+  updated: 1454252703000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1474,7 +1441,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
