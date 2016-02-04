@@ -37,7 +37,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 68
         }, 
         {
             "announced": false, 
@@ -155,7 +155,7 @@
                 "zip": "21201"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 2
         }, 
         {
@@ -194,7 +194,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1454530520000, 
@@ -234,7 +234,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1451511034000, 
@@ -271,7 +271,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1454252703000, 
@@ -350,7 +350,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -378,7 +378,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -423,7 +423,7 @@
             "created": 1454252703000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvdbvb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228612728/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -445,7 +445,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446220217000, 
@@ -473,7 +473,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1453693213000, 
@@ -550,11 +550,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We will be announcing the location soon! Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0Rebecca Mills will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Matthew Wigginton Conway\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out July's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/1/0/7/600_446528455.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0Rebecca Mills will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0Matthew Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out July's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/1/0/7/600_446528455.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -570,13 +570,25 @@
             "id": "228585705", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night IV", 
+            "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1454559816000, 
+            "updated": 1454612056000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Jackson Graham Building, 600 5th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24347865, 
+                "lat": 38.897846000000001, 
+                "lon": -77.019469999999998, 
+                "name": "WMATA HQ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1454252703000, 
@@ -640,7 +652,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 129
         }, 
         {
             "created": 1453691652000, 
@@ -717,7 +729,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1453727135000, 
@@ -877,7 +889,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1451511271000, 
@@ -952,7 +964,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1454252703000, 
