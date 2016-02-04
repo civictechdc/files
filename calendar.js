@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 11, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1452612310000, 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -194,7 +194,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1452528053000, 
@@ -231,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1451357840000, 
@@ -269,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1452390774000, 
@@ -313,7 +313,7 @@ calendar({
         }, 
         {
             "created": 1450148912000, 
-            "description": "<p>Join us for the first front end hack night tech talk of the year! Pamela Vong will be introducing the basics of full stack JavaScript via the MEAN stack - MongoDB, Express.js, AngularJS, and Node.js.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Huge thanks to our hosts, <b>Social Tables\u00a0</b>and to our food/drinks sponsor: \u00a0<b>Novetta</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/d/b/b/4/600_446276244.jpeg\" /></p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:00pm - Code!</p> <p>\u2022 8:00 - 8:15pm - Lightning Talk - a quick presentation or talk (if scheduled)</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>Join us for the first front end hack night tech talk of the year! Pamela Vong will be introducing the basics of full stack JavaScript via the MEAN stack - MongoDB, Express.js, AngularJS, and Node.js.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Huge thanks to our hosts, <b>Social Tables\u00a0</b>and to our food/drinks sponsor: \u00a0<b>Novetta</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/d/b/b/4/600_446276244.jpeg\" /></p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 7:00 - 8:00pm -\u00a0Intro to Full Stack JavaScript and the MEAN Stack talk by Pamela Vong</p> <p>\u2022 8:00 - 8:15pm - Q&amp;A</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227440295/", 
             "group": {
@@ -332,7 +332,7 @@ calendar({
             "name": "Front End Hack Night - Intro to Full Stack JavaScript and the MEAN Stack", 
             "status": "upcoming", 
             "time": 1454974200000, 
-            "updated": 1453840274000, 
+            "updated": 1454544676000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -347,7 +347,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 129
+        }, 
+        {
+            "created": 1454530520000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>6:30 -\u00a0Arrival/Dinner</p> <p>6:45 - 8:15 - We'll spend the meetup working on questions in groups or individually and then review!</p> <p>8:30 - End!</p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228587968/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call 5743237240 if the door is locked outside.", 
+            "id": "228587968", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1454974200000, 
+            "updated": 1454530520000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1451511034000, 
@@ -384,7 +424,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1454252703000, 
@@ -628,7 +668,7 @@ calendar({
         }, 
         {
             "created": 1454510327000, 
-            "description": "<p>Join us for a series of short, fun and interesting lightning talks about R and Python. Thank you so much for the folks at\u00a0<a href=\"http://www.agencychief.com/\">CHIEF</a>\u00a0for hosting us.\u00a0</p> <p>Chief is one block away from Dupont Circle on Mass Ave. Please RSVP if you are attending for estimating food and for access: we need to provide an attendee list to building security. There is parking in the building at a reduced rate using <a href=\"http://www.spothero.com\">Spothero</a> or <a href=\"http://www.parkingpanda.com\">Parking Panda</a> ($7).</p> <p>6:30 - 7:00 Eat, drink and mingle<br/>7:00 - 7:15 \u00a0Intros &amp; Announcements<br/>7:15 - 8:30ish Talks<br/>Afterwards, off to data drinks.<br/>Note: we need to vacate by 8:45pm</p> <p><b>Talks (in no particular order):</b></p> <p><br/><b>Alex Engler</b>: <i>\"Setting up an approachable/elastic spark environment\"</i></p> <p><br/><b>Fatena El-Masri:</b> <i>title TBD</i></p> <p><b>Mike Jadoo:</b>\u00a0<i>\"Geospatial\".</i>\u00a0Mike is economist working in the data production side of the profession for 4 + years. He hosts a Meetup group called Statistical Seminars where he is promoting awareness about different statistical methods and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"><a href=\"http://www.meetup.com/Statistical-seminars/\" class=\"linkified\">http://www.meetup.com/Statistical-seminars/</a></a> <a href=\"http://economistmike.org/\"><a href=\"http://economistmike.org/\" class=\"linkified\">http://economistmike.org/</a></a></p> <p><b>Mike Messner:</b> <i>\"Beyond Open Data: Open Uncertainty?\"</i>\u00a0Mike is a mathematical statistician with the Environmental Protection Agency. \u00a0A recipient of ASA\u2019s Herriot Award for Innovation in Federal Statistics, he uses R for everything from modeling contaminants in drinking water to carving violins.</p> <p><b>Josh Merrell:</b> <i>rChess</i>\u00a0</p> <p><b>Elizabeth Byerly:</b> <i>\"Quick PSOCK clusters on AWS and RStudio Server\".</i>\u00a0Elizabeth works as a Data Systems Architect, building systems for computationally intensive analysis at a statistical consulting firm.\u00a0<a href=\"http://www.twitter.com/ByerlyElizabeth\">www.twitter.com/ByerlyElizabeth</a>\u00a0<a href=\"http://www.github.com/ElizabethAB\">www.github.com/ElizabethAB</a></p> <p><b>Nathan Teetor:</b> <i>\"Web Frameworks for R\".\u00a0</i>Nate is a software engineer at Morning Consult and an R enthusiast. He enjoys cooking up new R ideas, cooking up new foods, and is searching for the perfect combination of the two.\u00a0<a href=\"http://www.github.com/nteetor\">www.github.com/nteetor</a>\u00a0<a href=\"http://www.linkedin.com/in/nteetor\">www.linkedin.com/in/nteetor</a>\u00a0<a href=\"http://www.twitter.com/ntweetor\">www.twitter.com/ntweetor</a></p> <p><b>David Kretch:</b> <i>\"Multilevel Models\".</i>\u00a0David is a data scientist at Summit Consulting where he works on statistical modeling and machine learning projects. His statistical computing environment of choice is R, but he is attempting to acquire a taste for other languages.\u00a0<a href=\"https://www.linkedin.com/in/davidkretch\"><a href=\"https://www.linkedin.com/in/davidkretch\" class=\"linkified\">https://www.linkedin.com/in/davidkretch</a></a>\u00a0<a href=\"https://twitter.com/davidkretch\"><a href=\"https://twitter.com/davidkretch\" class=\"linkified\">https://twitter.com/davidkretch</a></a>\u00a0<a href=\"https://github.com/davidkretch\"><a href=\"https://github.com/davidkretch\" class=\"linkified\">https://github.com/davidkretch</a></a></p>", 
+            "description": "<p>Join us for a series of short, fun and interesting lightning talks about R and Python. Thank you so much for the folks at\u00a0<a href=\"http://www.agencychief.com/\">CHIEF</a>\u00a0for hosting us.\u00a0</p> <p>Chief is one block away from Dupont Circle on Mass Ave. Please RSVP if you are attending for estimating food and for access: we need to provide an attendee list to building security. There is parking in the building at a reduced rate using <a href=\"http://www.spothero.com\">Spothero</a> or <a href=\"http://www.parkingpanda.com\">Parking Panda</a> ($7).</p> <p>6:30 - 7:00 Eat, drink and mingle<br/>7:00 - 7:15 \u00a0Intros &amp; Announcements<br/>7:15 - 8:30ish Talks<br/>Afterwards, off to data drinks.<br/>Note: we need to vacate by 8:45pm</p> <p><b>Talks (in no particular order):</b></p> <p><br/><b>Alex Engler</b>: <i>\"Setting up an approachable/elastic spark environment\"</i>\u00a0. Alex is a Data Scientist at the Urban Institute, working on big data and modeling for social science and public policy research. He also teaches courses on data science and data visualization at Georgetown University and Johns Hopkins University. <a href=\"http://www.twitter.com/alexcengler\">www.twitter.com/alexcengler</a>\u00a0<a href=\"http://www.linkedin.com/in/alexcengler\">www.linkedin.com/in/alexcengler</a></p> <p><br/><b>Fatena El-Masri:</b> <i>title TBD</i></p> <p><b>Mike Jadoo:</b>\u00a0<i>\"Geospatial\".</i>\u00a0Mike is economist working in the data production side of the profession for 4 + years. He hosts a Meetup group called Statistical Seminars where he is promoting awareness about different statistical methods and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"><a href=\"http://www.meetup.com/Statistical-seminars/\" class=\"linkified\">http://www.meetup.com/Statistical-seminars/</a></a> <a href=\"http://economistmike.org/\"><a href=\"http://economistmike.org/\" class=\"linkified\">http://economistmike.org/</a></a></p> <p><b>Mike Messner:</b> <i>\"Beyond Open Data: Open Uncertainty?\"</i>\u00a0Mike is a mathematical statistician with the Environmental Protection Agency. \u00a0A recipient of ASA\u2019s Herriot Award for Innovation in Federal Statistics, he uses R for everything from modeling contaminants in drinking water to carving violins.</p> <p><b>Josh Merrell:</b> <i>rChess</i>\u00a0</p> <p><b>Elizabeth Byerly:</b> <i>\"Quick PSOCK clusters on AWS and RStudio Server\".</i>\u00a0Elizabeth works as a Data Systems Architect, building systems for computationally intensive analysis at a statistical consulting firm.\u00a0<a href=\"http://www.twitter.com/ByerlyElizabeth\">www.twitter.com/ByerlyElizabeth</a>\u00a0<a href=\"http://www.github.com/ElizabethAB\">www.github.com/ElizabethAB</a></p> <p><b>Nathan Teetor:</b> <i>\"Web Frameworks for R\".\u00a0</i>Nate is a software engineer at Morning Consult and an R enthusiast. He enjoys cooking up new R ideas, cooking up new foods, and is searching for the perfect combination of the two.\u00a0<a href=\"http://www.github.com/nteetor\">www.github.com/nteetor</a>\u00a0<a href=\"http://www.linkedin.com/in/nteetor\">www.linkedin.com/in/nteetor</a>\u00a0<a href=\"http://www.twitter.com/ntweetor\">www.twitter.com/ntweetor</a></p> <p><b>David Kretch:</b> <i>\"Multilevel Models\".</i>\u00a0David is a data scientist at Summit Consulting where he works on statistical modeling and machine learning projects. His statistical computing environment of choice is R, but he is attempting to acquire a taste for other languages.\u00a0<a href=\"https://www.linkedin.com/in/davidkretch\"><a href=\"https://www.linkedin.com/in/davidkretch\" class=\"linkified\">https://www.linkedin.com/in/davidkretch</a></a>\u00a0<a href=\"https://twitter.com/davidkretch\"><a href=\"https://twitter.com/davidkretch\" class=\"linkified\">https://twitter.com/davidkretch</a></a>\u00a0<a href=\"https://github.com/davidkretch\"><a href=\"https://github.com/davidkretch\" class=\"linkified\">https://github.com/davidkretch</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/stats-prog-dc/events/228579526/", 
             "group": {
@@ -648,7 +688,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1455751800000, 
-            "updated": 1454510750000, 
+            "updated": 1454545380000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -663,7 +703,33 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 85
+        }, 
+        {
+            "created": 1454526149000, 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We will be announcing the location soon! Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0Rebecca Mills will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Matthew Wigginton Conway\u00a0</p> <p>\u2022\u00a0James Pizzurro will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a> and give a basic rundown of how it came to be and how it works</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "228585705", 
+            "maybe_rsvp_count": 0, 
+            "name": "Metro Hack Night IV", 
+            "status": "upcoming", 
+            "time": 1456268400000, 
+            "updated": 1454527417000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1454252703000, 
@@ -727,7 +793,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1453691652000, 
@@ -768,6 +834,45 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1454529221000, 
+            "description": "<p><b>Please RSVP here:</b>\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/228569951</a></a></p> <p>All of us have dealt with pesky bugs in our Android applications. And although, the\u00a0Android SDK provides most of the tools that you need to debug your applications it's always good to know what else is available.\u00a0We're going to cover Stetho to debug your apps along with other debugging tips. In this meetup learn how to track down bugs like a Pro!</p> <p>_____</p> <p>Schedule:\u00a0</p> <p>6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- Debugging with Stetho - Jared Sheehan</p> <p>7:00 p.m. -- TBD</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid\u00a0or use the #DCAndroid\u00a0hashtag!</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/228587290/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "228587290", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Debugging Tips", 
+            "status": "upcoming", 
+            "time": 1456441200000, 
+            "updated": 1454529221000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW, Suite 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4867002, 
+                "lat": 38.899151000000003, 
+                "lon": -77.033195000000006, 
+                "name": "LivingSocial", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
+        }, 
+        {
             "created": 1453727135000, 
             "description": "<p>Flask is a microframework that is great for creating websites with minimal Python experience. If you know how to make a function, you can make a Flask website!</p> <p><b>Outline:</b></p> <p>\u2022 Getting up and running with pip</p> <p><br/>\u2022 Using templates\u00a0</p> <p><br/>\u2022 Using Jinja variables and logic</p> <p><br/>\u2022 Using pip freeze to make your project portable</p> <p><br/>\u2022 Using bootstrap</p> <p><br/>\u2022 Creating forms</p> <p><br/>\u2022 Talking to an API (if we have time)</p> <p>\n\n\n\n<b>For this class you will need the following:</b></p> <p>\u2022 Knowledge of the basics of Python (variables, loops, logic, functions)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a>)</p> <p><br/>\u2022 A good internet connection (otherwise the stream may get choppy for you)</p>", 
             "duration": 10800000, 
@@ -804,7 +909,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1454252703000, 
@@ -887,7 +992,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -925,7 +1030,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1451511271000, 
@@ -1056,7 +1161,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417881835000, 
@@ -1163,34 +1268,6 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1458685800000, 
-            "updated": 1454252703000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvfbmc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rjstplyvfbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1459290600000, 
             "updated": 1454252703000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
