@@ -81,44 +81,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1451357840000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/6/c/600_445459820.jpeg\" /></p> <p><b>ISOC-DC</b> and<b> DC Legal Hackers</b> proudly present: <b>\"Hacking Accountability in Internet Governance\"</b></p> <p><br/>This event will reflect on the accountability discussions that has been occurring with respect to the IANA transition to discuss internet accountability in general. This salon-style session will use the IANA accountability debate to try to create 10,000-foot solutions.</p> <p>Speakers:</p> <p><b>\u2022\u00a0<i>Jonathan Zuck, ACT</i></b></p> <p><i><b>\u2022\u00a0Hibah Hussein, Google</b></i></p> <p><b>\u2022\u00a0<i>Becky\u00a0Burr, Neustar</i></b></p> <p>Moderator:\u00a0<b><i>David Snead, Internet Infrastructure Coalition</i></b></p> <p><br/>Schedule:</p> <p><br/>6:00pm: Drinks/Networking</p> <p>7:00pm: Announcements\u00a0</p> <p>7:15pm: Panel Introductions\u00a0</p> <p>7:30pm: Panel</p> <p>8:15pm: Q&amp;A</p> <p>8:45pm: Fin</p> <p>-----</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the world.</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>#LegalHack\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/227686888/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227686888", 
-            "maybe_rsvp_count": 0, 
-            "name": "Hacking Accountability in Internet Governance w/ ISOC-DC!", 
-            "status": "upcoming", 
-            "time": 1454626800000, 
-            "updated": 1454260911000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 72
-        }, 
-        {
             "created": 1452390774000, 
             "description": "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\" /></p> <p>Do you love creating new ways to represent and visualize data? Or are you a data science/ML/AI guru who can't get enough of Major League Baseball?</p> <p>The Baseball Analytics Hackathon, hosted by the Baltimore Orioles and Booz Allen Hamilton, is the perfect opportunity to work with baseball executives and data scientists to refine your data science and analytic skills and show off your creativity by finding new ways to change the game. Hackathon participants will work to develop innovative data science and visualization solutions using unique datasets that we will provide alongside anything else that is openly available on the Internet. We hope that bringing together creative minds in a competitive environment will lead to novel solutions to some of the questions that the baseball industry is trying to answer.</p> <p>Please register at\u00a0<a href=\"http://baseballhackathon.eventbrite.com/\">baseballhackathon.eventbrite.com</a></p> <p>Please e-mail Kevin Tenenbaum at\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0with any questions.</p>", 
             "duration": 32400000, 
@@ -194,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 138
         }, 
         {
             "created": 1454530520000, 
@@ -271,7 +233,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1454252703000, 
@@ -417,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1454252703000, 
@@ -550,7 +512,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1454526149000, 
@@ -570,10 +532,10 @@ calendar({
             "id": "228585705", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night IV", 
-            "rsvp_limit": 120, 
+            "rsvp_limit": 144, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1454625718000, 
+            "updated": 1454642551000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -588,7 +550,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1454252703000, 
@@ -652,7 +614,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 129
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1453691652000, 
@@ -824,7 +786,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1452612310000, 
@@ -851,7 +813,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
@@ -1288,7 +1250,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -1390,7 +1352,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 

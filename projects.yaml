@@ -1,25 +1,8 @@
-- activity: [46, 82, 19, 37, 3, 0, 2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0,
-    8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 3, 2,
-    0, 0, 0, 0]
+- activity: [99, 23, 25, 15, 0, 2, 0, 1, 12, 5, 5, 7, 2, 3, 1, 3, 3, 2, 6, 0, 0, 7,
+    3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2, 3,
+    0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Housing}
-    communityPartner: {Bread for City: 'http://www.breadforthecity.org/'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: Marcus Louie, twitter: '@mlouie'}
-    geography: Washington, DC
-    governmentPartner: {}
-    moreInfo: https://hackpad.com/Code-for-DC-District-Housing-KlQ2UbX0Imc
-    needs:
-    - {need: Rails enthusiasts}
-    - {need: Salesforce}
-    - {need: Passionate People}
-    politicalEntity: {}
-    status: Beta
-    thumbnailUrl: https://codefordc.github.io/districthousing/img/district-housing-logo-small.png
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 755,
     link: 'https://github.com/jrunningen', name: jrunningen}
@@ -102,38 +85,19 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 79
+  open_issues: 80
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-31T04:51:43Z'
+  pushed_at: '2016-02-01T04:40:07Z'
   short_name: districthousing
   size: 21734
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
-- activity: [0, 8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0,
+- activity: [1, 7, 0, 1, 1, 3, 0, 8, 0, 3, 1, 5, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Politics}
-    - {category: Government}
-    - {category: Open Data}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: contactus@ancfinder.org, name: '', twitter: '@ancfinder'}
-    data: {ANC Commissioners: 'http://ancfinder.org/static/ancs.json', ANC Meetings: 'http://ancfinder.org/static/meetings.json'}
-    geography: Washington, DC
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {want: ANC document uploading}
-    - {need: Django}
-    politicalEntity: {Office of Advisory Neighborhood Commissions: 'http://anc.dc.gov/'}
-    status: Production
-    thumbnailUrl: http://ancfinder.org/static/img/favicon.png
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 260,
     link: 'https://github.com/JoshData', name: JoshData}
@@ -187,34 +151,19 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Python
   name: ANC Finder
-  open_issues: 40
+  open_issues: 41
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-07T20:47:47Z'
+  pushed_at: '2016-02-01T04:37:17Z'
   short_name: ancfinder
   size: 72056
   updated_at: '2015-07-07T18:47:09Z'
   watchers: 31
-- activity: [0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Transportation}
-    - {category: Cycling}
-    - {category: Bikeshare}
-    communityPartner: {Data Science for Social Good: 'http://dssg.io'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
-    data: {Capital Bikeshare Dock History: 'http://opendatadc.org/dataset/capital-bikeshare-dock-history'}
-    geography: Washington, DC
-    needs:
-    - {need: Data updates}
-    - {need: Improved usability on mobile devices}
-    status: Archival
-    type: Web app
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 21,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -224,7 +173,7 @@
   created_at: '2013-09-20T07:30:51Z'
   default_branch: master
   description: Leaflet map of DC bikeshare stations and average availability.
-  forks: 3
+  forks: 4
   help_wanted: []
   homepage: http://cmgiven.github.io/bikeshare-odds/
   html_url: https://github.com/cmgiven/bikeshare-odds
@@ -237,16 +186,16 @@
   license: null
   main_language: CSS
   name: CaBi Odds
-  open_issues: 3
+  open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-03-06T14:56:59Z'
+  pushed_at: '2016-02-01T04:41:29Z'
   short_name: bikeshare-odds
   size: 1980
   updated_at: '2015-09-25T22:28:35Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -293,28 +242,13 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [6, 1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10,
-    1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 2, 0,
-    1, 1, 0]
+- activity: [4, 1, 8, 8, 6, 1, 9, 2, 2, 0, 2, 3, 2, 6, 0, 2, 0, 0, 5, 0, 1, 20, 1,
+    2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 6, 0, 0, 5, 1, 2, 8, 5, 7, 0, 4, 1,
+    1, 0, 3]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Meta Project}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: '', twitter: '@CodeforDC'}
-    geography: DC
-    governmentPartner: {}
-    moreInfo: https://github.com/codefordc/codefordc.github.com
-    needs:
-    - {need: Meetup integration}
-    politicalEntity: {}
-    status: Production
-    thumbnailUrl: https://pbs.twimg.com/profile_images/459030553606361088/DD10KW8M.jpeg
-    type: Website
+  civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 208,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 213,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -352,13 +286,13 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 38
+  forks: 37
   help_wanted: []
   homepage: http://www.codefordc.org
   html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
-  - [HTML, 128628]
+  - [HTML, 113370]
   - [JavaScript, 16189]
   - [CSS, 13748]
   - [Shell, 5425]
@@ -370,39 +304,43 @@
   open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-01-26T03:34:00Z'
+  pushed_at: '2016-02-05T03:28:34Z'
   short_name: codefordc.github.com
-  size: 17491
+  size: 17493
   updated_at: '2016-01-18T15:30:25Z'
   watchers: 21
-- activity: [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 5]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Open Data}
-    - {category: Politics}
-    - {category: Government}
-    communityPartner: {Code for DC: 'http://codefordc.org/'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: ajschumacher@gmail.com, name: Aaron Schumacher, twitter: '@planarrowspace'}
-    data: {DC mayor public schedule events: 'https://github.com/ajschumacher/dc_mayor_schedule/raw/gh-pages/data/mayor_events.csv'}
-    geography: Washington, DC
-    moreInfo: https://github.com/ajschumacher/dc_mayor_schedule
-    needs:
-    - {need: updating to new data source}
-    politicalEntity: {DC Mayor: 'http://mayor.dc.gov/'}
-    status: Production
-    thumbnailUrl: http://ajschumacher.github.io/dc_mayor_schedule/assets/img/240px-Pink-Calendar.png
+    contact: {email: ajschumacher@gmail.com, name: Aaron Schumacher, url: 'https://twitter.com/@planarrowspace'}
+    data:
+    - {metadata: '', name: DC mayor public schedule events, url: 'https://github.com/ajschumacher/dc_mayor_schedule/raw/gh-pages/data/mayor_events.csv'}
+    description: archive the DC mayor's public schedule; tabularize it; give archive
+      web interface
+    geography: ['Washington, DC']
+    homepage: http://ajschumacher.github.io/dc_mayor_schedule/
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: MIT
+    links: ['https://github.com/ajschumacher/dc_mayor_schedule']
+    name: Mayor's Schedule Archive
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org/'}
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/ajschumacher/dc_mayor_schedule
+    status: Archival
+    tags: [Open Data, Politics, Government]
+    thumbnail: http://ajschumacher.github.io/dc_mayor_schedule/assets/img/240px-Pink-Calendar.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 430,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 432,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/131928?v=3', contributions: 24,
     link: 'https://github.com/shiftyp', name: shiftyp}
-  contributors_count: 2
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 3,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  contributors_count: 3
   created_at: '2013-08-21T23:20:41Z'
   default_branch: gh-pages
   description: archive the DC mayor's public schedule; tabularize it; give archive
@@ -416,56 +354,58 @@
   - [HTML, 14079423]
   - [JavaScript, 4860]
   - [Python, 2215]
-  license: null
+  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Mayor's Schedule Archive
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1071322?v=3', name: ajschumacher,
     type: User, url: 'https://github.com/ajschumacher'}
-  pushed_at: '2015-02-28T22:05:02Z'
+  pushed_at: '2016-02-01T20:29:36Z'
   short_name: dc_mayor_schedule
-  size: 2410
-  updated_at: '2015-05-19T23:32:02Z'
+  size: 945
+  updated_at: '2016-02-01T04:45:39Z'
   watchers: 5
-- activity: [0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    categories:
-    - {category: Open Data}
-    - {category: Social services}
-    communityPartner: {Bread for the City: 'http://www.breadforthecity.org/'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: bloom@openreferral.org, name: Greg Bloom, twitter: '@greggish'}
-    geography: DC Metro Area
-    governmentPartner: {Deputy Mayor of Health and Human Services: 'http://dmhhs.dc.gov'}
-    moreInfo: https://codefordc.github.io/open211/
-    needs:
-    - {need: Ruby on Rails}
-    - {need: Information architecture}
-    - {need: UX}
-    - {need: systems-thinkers}
-    - {need: 'people with experience in social services, especially the District'}
+    contact: {email: bloom@openreferral.org, name: Greg Bloom, url: 'https://twitter.com/@greggish'}
+    data: []
+    description: DC Open211
+    geography: [DC Metro Area]
+    homepage: https://openreferral.org/pilots/dc-open211/
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: GPL-2.0
+    links: ['https://codefordc.github.io/open211/']
+    name: Open 211
+    partners:
+    - {email: '', name: Deputy Mayor of Health and Human Services, url: 'http://dmhhs.dc.gov'}
+    - {email: '', name: Bread for the City, url: 'http://www.breadforthecity.org/'}
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/codefordc/open211
     status: Alpha
-    thumbnailURL: https://docs.google.com/file/d/0B-5CZ4ZLjTHqal9jdm94TzdBNzg/preview
+    tags: [Open Data, Social services]
+    thumbnail: ''
     type: Communications Infrastructure
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 3,
-    link: 'https://github.com/justgrimes', name: justgrimes}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3630150?v=3', contributions: 5,
+    link: 'https://github.com/greggish', name: greggish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4021179?v=3', contributions: 3,
     link: 'https://github.com/noahpatterson', name: noahpatterson}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3630150?v=3', contributions: 3,
-    link: 'https://github.com/greggish', name: greggish}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 3,
+    link: 'https://github.com/justgrimes', name: justgrimes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 2,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 1,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7637609?v=3', contributions: 1,
     link: 'https://github.com/ernbrn', name: ernbrn}
-  contributors_count: 5
+  contributors_count: 6
   created_at: '2013-06-02T19:27:08Z'
   default_branch: gh-pages
   description: DC Open211
-  forks: 9
+  forks: 10
   help_wanted: []
   homepage: https://openreferral.org/pilots/dc-open211/
   html_url: https://github.com/codefordc/open211
@@ -474,41 +414,23 @@
   - [CSS, 11944]
   - [HTML, 4094]
   - [JavaScript, 48]
-  license: null
+  license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
+    url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: CSS
   name: Open 211
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-03-01T16:01:32Z'
+  pushed_at: '2016-02-01T20:13:51Z'
   short_name: open211
-  size: 2915
-  updated_at: '2015-11-25T20:50:02Z'
+  size: 2743
+  updated_at: '2016-02-01T15:36:10Z'
   watchers: 6
-- activity: [1, 9, 20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2,
-    0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [10, 9, 12, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+    0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
-  civic_json:
-    bornAt: Lee's apartment
-    categories:
-    - {category: Public Transportation}
-    - {category: WMATA}
-    - {category: Open Data}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: Lee.Mendelowitz@gmail.com, name: Lee Mendelowitz, twitter: lmendy7}
-    data: {DCMetroMetrics: 'http://dcmetrometrics.com/download/dcmetrometrics.zip'}
-    geography: Washington, DC
-    governmentPartner: {}
-    moreInfo: http://dcmetrometrics.com/about
-    needs:
-    - {need: web vizualizations}
-    - {need: better support for mobile browsers}
-    politicalEntity: {WMATA: 'http://www.wmata.com'}
-    status: Production
-    thumbnailUrl: ''
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2424933?v=3', contributions: 340,
     link: 'https://github.com/LeeMendelowitz', name: LeeMendelowitz}
@@ -521,7 +443,7 @@
   default_branch: master
   description: DC Metro Metrics is a project dedicated to collecting and sharing publicly
     available data related to the DC WMATA Metrorail system.
-  forks: 8
+  forks: 9
   help_wanted: []
   homepage: null
   html_url: https://github.com/LeeMendelowitz/DCMetroMetrics
@@ -538,50 +460,45 @@
     url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: Python
   name: Metro Metrics
-  open_issues: 13
+  open_issues: 14
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2424933?v=3', name: LeeMendelowitz,
     type: User, url: 'https://github.com/LeeMendelowitz'}
-  pushed_at: '2015-11-27T21:38:19Z'
+  pushed_at: '2016-02-01T04:42:35Z'
   short_name: DCMetroMetrics
   size: 32313
   updated_at: '2015-12-21T02:10:58Z'
   watchers: 29
-- activity: [0, 0, 0, 7, 1, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 2, 6, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: trees}
-    - {category: ddot}
-    - {category: forestry}
-    - {category: environment}
-    communityPartner: {Casey Trees: 'http://caseytrees.org'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: rrbaker@gmail.com, name: Rob Baker, twitter: rrbaker}
-    data: {Casey Trees (planting timelapse 2003-2014 map): 'https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public',
-      Casey Trees (planting timelapse 2003-2014): 'http://caseytrees.org/resources/maps/time-lapse/',
-      DC's Urban Forest Administration (UFA) Street Trees: 'http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23'}
-    geography: Washington, DC
-    governmentPartner: {DDOT Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa',
-      District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
-    moreInfo: https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1
-    needs:
-    - {need: Community Engagement Pros}
-    - {need: Media}
-    - {need: Communications experts}
-    - {need: 'Educators (primary,secondary)'}
-    - {need: GIS Analysts}
-    - {need: Foresters}
-    politicalEntity: {District Department of Transportation (DDOT): 'http://ddot.dc.gov'}
+    contact: {email: rrbaker@gmail.com, name: Rob Baker, url: 'https://twitter.com/rrbaker'}
+    data:
+    - {metadata: '', name: Casey Trees (planting timelapse 2003-2014), url: 'http://caseytrees.org/resources/maps/time-lapse/'}
+    - {metadata: '', name: DC's Urban Forest Administration (UFA) Street Trees, url: 'http://opendata.dc.gov/datasets/d6364e8d068e4e558c82040569f5d33a_23'}
+    - {metadata: '', name: Casey Trees (planting timelapse 2003-2014 map), url: 'https://caseytreesmaps.cartodb.com/tables/ctps_by_year_20141107_cartodb_dconly/public'}
+    description: Data, media, and issue tracking for DCTreeMap
+    geography: ['Washington, DC']
+    homepage: http://dctreemap.org/dc/map
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: MIT
+    links: ['https://opendatadaydc.hackpad.com/DC-Tree-Map-vT2lYAdknk1']
+    name: DC Tree Map
+    partners:
+    - {email: '', name: DDOT Urban Forestry Administration, url: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa'}
+    - {email: '', name: District Department of Transportation (DDOT), url: 'http://ddot.dc.gov'}
+    - {email: '', name: Casey Trees, url: 'http://caseytrees.org'}
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/rrbaker/dctreemap
     status: Alpha
-    thumbnailUrl: http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png
+    tags: [trees, ddot, forestry, environment]
+    thumbnail: http://f.cl.ly/items/2J3Y0U1v3W00101V1r1q/dc_tree.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/17545?v=3', contributions: 10,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/17545?v=3', contributions: 11,
     link: 'https://github.com/rrbaker', name: rrbaker}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 3,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 4,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 1,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -602,10 +519,10 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/17545?v=3', name: rrbaker,
     type: User, url: 'https://github.com/rrbaker'}
-  pushed_at: '2015-03-29T19:25:03Z'
+  pushed_at: '2016-02-04T16:55:56Z'
   short_name: dctreemap
-  size: 5418
-  updated_at: '2015-05-19T23:30:58Z'
+  size: 5248
+  updated_at: '2016-02-04T16:55:57Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -678,9 +595,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 1, 0, 4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 1, 0, 0,
-    6, 0, 0]
+- activity: [1, 0, 4, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 1, 4, 2, 3, 0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 0, 1, 3, 1, 8, 2, 1, 0, 0, 6,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -735,23 +652,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Guns}
-    - {category: Handguns}
-    - {category: Concealed Carry}
-    - {category: Safety}
-    - {category: Crime}
-    - {category: Law}
-    communityPartner: {WAMU 88.5: 'http://wamu.org'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
-    data: {DC handgun ownership by zip code: 'https://github.com/cmgiven/dc-handguns/tree/master/data'}
-    geography: Washington, DC
-    needs: []
-    status: Archival
-    type: Map
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 7,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -761,7 +662,7 @@
   created_at: '2014-09-19T20:14:34Z'
   default_branch: master
   description: Map of handgun ownership in the District of Columbia
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: http://cmgiven.github.io/dc-handguns/
   html_url: https://github.com/cmgiven/dc-handguns
@@ -774,10 +675,10 @@
   license: null
   main_language: CSS
   name: DC Handguns
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-03-06T15:08:06Z'
+  pushed_at: '2016-02-01T04:41:43Z'
   short_name: dc-handguns
   size: 8464
   updated_at: '2015-05-19T23:31:26Z'
@@ -850,22 +751,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Politics}
-    - {category: Elections}
-    - {category: Mayor}
-    - {category: Attorney General}
-    - {category: Marijuana Legalization}
-    communityPartner: {WAMU 88.5: 'http://wamu.org'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: cmgiven@gmail.com, name: Chris Given, twitter: '@cmgiven'}
-    data: {DC election results: 'https://www.dcboee.org/election_info/election_results/2014/November-4-General-Election'}
-    geography: Washington, DC
-    needs: []
-    status: Archival
-    type: Web app
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 98,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -873,7 +759,7 @@
   created_at: '2014-10-31T01:37:53Z'
   default_branch: master
   description: Election map for DC's 2014 general election
-  forks: 5
+  forks: 6
   help_wanted: []
   homepage: http://electionmap.wamu.org
   html_url: https://github.com/cmgiven/open-election-map
@@ -887,15 +773,15 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: JavaScript
   name: Open Elections Map
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-08-03T22:52:00Z'
+  pushed_at: '2016-02-01T04:42:08Z'
   short_name: open-election-map
   size: 1004
   updated_at: '2015-11-07T11:28:49Z'
   watchers: 15
-- activity: [25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -928,30 +814,29 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 4, 2, 11, 2, 5, 0, 0, 0, 0, 0, 0, 43, 22, 1, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 0, 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 65, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: ''
-    categories:
-    - {category: Geocoding}
-    - {category: Geospatial}
-    - {category: Maps}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: CSV Geocoder, twitter: '@evonfriedland'}
-    data: {}
-    geography: Global
-    governmentPartner: {}
-    moreInfo: https://emanuelfeld.github.io/geocoder
-    needs: []
-    politicalEntity: {}
+    contact: {email: '', name: CSV Geocoder, url: 'https://twitter.com/@evonfriedland'}
+    data: []
+    description: Web app interface for geocoding addresses in CSV files.
+    geography: [Global]
+    homepage: https://emanuelfeld.github.io/geocoder
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: GPL-2.0
+    links: ['https://emanuelfeld.github.io/geocoder']
+    name: CSV Geocoder
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/emanuelfeld/geocoder
     status: Production
-    thumbnailUrl: https://raw.githubusercontent.com/emanuelfeld/geocoder/gh-pages/assets/geocoder_box.png
+    tags: [Geocoding, Geospatial, Maps]
+    thumbnail: https://raw.githubusercontent.com/emanuelfeld/geocoder/gh-pages/assets/geocoder_box.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 84,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 86,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 1,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -975,29 +860,35 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-08-16T01:11:36Z'
+  pushed_at: '2016-02-01T04:30:06Z'
   short_name: geocoder
-  size: 565
-  updated_at: '2015-12-05T16:58:51Z'
+  size: 273
+  updated_at: '2016-02-01T04:30:08Z'
   watchers: 9
-- activity: [0, 0, 45, 32, 70, 16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0,
-    0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0]
+- activity: [0, 20, 56, 65, 17, 47, 51, 6, 1, 1, 1, 6, 0, 0, 0, 0, 0, 2, 1, 0, 0,
+    0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Libraries}
-    - {category: Government}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: Emanuel Feld, twitter: '@booksfordc'}
-    geography: Washington, DC
-    politicalEntity: {DC Public Library: 'http://dclibrary.org/'}
+    contact: {email: '', name: Emanuel Feld, url: 'https://twitter.com/@booksfordc'}
+    data: []
+    description: "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser\
+      \ plug-in\u2026and beyond?"
+    geography: ['Washington, DC']
+    homepage: http://booksfordc.org
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: GPL-2.0
+    links: []
+    name: Books for DC
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/emanuelfeld/booksfordc
     status: Production
-    thumbnailUrl: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
+    tags: [Libraries, Government]
+    thumbnail: https://pbs.twimg.com/profile_images/573354890065412096/yGMS9MC1.jpeg
     type: Scraper
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 196,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 198,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 2,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
@@ -1023,33 +914,16 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2016-01-04T00:10:24Z'
+  pushed_at: '2016-02-01T04:45:01Z'
   short_name: booksfordc
-  size: 3572
-  updated_at: '2016-01-04T22:13:51Z'
+  size: 3569
+  updated_at: '2016-02-01T04:45:02Z'
   watchers: 19
-- activity: [0, 0, 20, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 30, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Open Data Day 2015, Code for DC
-    categories:
-    - {category: Education}
-    - {category: Government}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {twitter: '@codefordc'}
-    geography: DC
-    moreInfo: https://opendatadaydc.hackpad.com/l1eM7PP4lzb?eid=Fyye5349OBg
-    needs:
-    - {need: Javascript}
-    - {need: Leaflet}
-    - {need: Mapbox}
-    - {need: JQuery}
-    - {need: Spreadsheet Experts}
-    politicalEntity: {DCPS: 'http://dcps.dc.gov/'}
-    status: Alpha
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/605331?v=3', contributions: 20,
     link: 'https://github.com/bbrotsos', name: bbrotsos}
@@ -1061,7 +935,7 @@
   created_at: '2015-02-21T14:30:33Z'
   default_branch: master
   description: Mapping the condition of DC Public Schools facilities
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: ''
   html_url: https://github.com/cmgiven/dcps-facilities
@@ -1074,42 +948,19 @@
   license: null
   main_language: JavaScript
   name: DCPS Facility Conditions
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5375557?v=3', name: cmgiven,
     type: User, url: 'https://github.com/cmgiven'}
-  pushed_at: '2015-03-11T23:14:10Z'
+  pushed_at: '2016-02-01T04:41:58Z'
   short_name: dcps-facilities
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 3, 1, 3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27,
-    2, 24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0,
-    0, 2, 0, 0, 0, 0, 0]
+- activity: [0, 3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 7, 39, 12, 33, 28, 40, 0, 1, 20, 9,
+    6, 25, 8, 9, 8, 0, 7, 6, 0, 0, 80, 0, 0, 3, 5, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2,
+    0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json:
-    bornAt: Reentry Hackathon
-    categories:
-    - {category: Re-Entry}
-    - {category: Expungement}
-    - {category: Access to Justice}
-    - {category: ''}
-    communityPartner: {Mission Launch: 'http://www.mission-launch.org/', Public Defender Service: 'http://www.pdsdc.org/'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: Brianecknight@gmail.com, name: Briane, twitter: bchanellek}
-    data: {}
-    geography: Washington DC
-    governmentPartner: {}
-    moreInfo: https://codefordc.slack.com/messages/clean_slate/
-    needs:
-    - {need: document assembly; the ability to take data and insert into pdf or fillable
-        pdf on site}
-    - {need: ability to email results of the wizard to oneself}
-    - {need: 'ability to log-in to save a query and then be able to see previous queries
-        all in one page. '}
-    politicalEntity: {}
-    status: Alpha
-    thumbnailUrl: ''
-    type: Web app
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 100,
     link: 'https://github.com/brianek', name: brianek}
@@ -1150,7 +1001,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 31
+  forks: 32
   help_wanted:
   - assignee: null
     body: "Small content changes needed for the entire current code base (as opposed\
@@ -1220,37 +1071,19 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 13
+  open_issues: 14
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-22T00:12:04Z'
+  pushed_at: '2016-02-01T04:37:34Z'
   short_name: clean-slate
   size: 10014
   updated_at: '2015-11-21T13:42:19Z'
   watchers: 15
-- activity: [0, 0, 0, 34, 2, 19, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 14, 20, 21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
-  civic_json:
-    bornAt: Web Development Immersive 4, General Assembly
-    categories:
-    - {category: Transportation}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: RebeccaMillsDC@gmail.com, name: WhatsaMATA, twitter: '@RebeccaMillsDC'}
-    data: {}
-    geography: Washington, DC
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: Responsiveness}
-    - {need: User authentication with Twitter/Facebook}
-    - {need: Integrating a bus stop list from WMATA's API}
-    politicalEntity: {}
-    status: Production
-    thumbnailUrl: ''
-    type: Web App
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5178610?v=3', contributions: 62,
     link: 'https://github.com/rebeccamills', name: rebeccamills}
@@ -1259,7 +1092,7 @@
   default_branch: master
   description: WhatsaMATA - an app for riders of WMATA buses to report issues based
     on the bus line they're riding. WhatsaMATA with WMATA?
-  forks: 0
+  forks: 1
   help_wanted: []
   homepage: https://whatsamata.herokuapp.com/
   html_url: https://github.com/rebeccamills/whatsamata
@@ -1274,41 +1107,42 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Ruby
   name: WhatsaMATA
-  open_issues: 6
+  open_issues: 7
   owner: {avatar: 'https://avatars.githubusercontent.com/u/5178610?v=3', name: rebeccamills,
     type: User, url: 'https://github.com/rebeccamills'}
-  pushed_at: '2015-04-08T23:59:56Z'
+  pushed_at: '2016-02-01T04:31:20Z'
   short_name: whatsamata
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0,
-    0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 89, 9, 3, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+    4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 4]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: Code for DC
-    categories:
-    - {category: Environment}
-    - {category: Land Use}
-    - {category: Infrastructure}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: getdctrees@gmail.com, name: getdctrees.org, twitter: '@evonfriedland'}
-    data: {Neighborhood Boundaries: 'http://www.opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes',
-      UFA Street Trees: 'http://maps2.dcgis.dc.gov/dcgis/rest/services/DDOT/UFATrees2/MapServer/0/',
-      Ward Boundaries: 'http://opendata.dc.gov/datasets/071aa9b40a1a4b38a938f8f5058068a8_31'}
-    geography: DC
-    governmentPartner: {Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa'}
-    moreInfo: http://getdctrees.org/about.html
-    needs: []
-    politicalEntity: {District Department of Transportation: 'http://ddot.dc.gov/',
-      Urban Forestry Administration: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa'}
+    contact: {email: getdctrees@gmail.com, name: getdctrees.org, url: 'https://twitter.com/@evonfriedland'}
+    data:
+    - {metadata: '', name: UFA Street Trees, url: 'http://maps2.dcgis.dc.gov/dcgis/rest/services/DDOT/UFATrees2/MapServer/0/'}
+    - {metadata: '', name: Neighborhood Boundaries, url: 'http://www.opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes'}
+    - {metadata: '', name: Ward Boundaries, url: 'http://opendata.dc.gov/datasets/071aa9b40a1a4b38a938f8f5058068a8_31'}
+    description: A user-friendly interface for requesting new tree plantings from
+      the DDOT Urban Forestry Administration.
+    geography: [DC]
+    homepage: http://getdctrees.org
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: GPL-2.0
+    links: ['http://getdctrees.org/about.html']
+    name: Get DC Trees
+    partners:
+    - {email: '', name: Urban Forestry Administration, url: 'http://ddot.dc.gov/page/ddot-urban-forestry-administration-ufa'}
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/emanuelfeld/tree-map
     status: Production
-    thumbnailUrl: https://raw.githubusercontent.com/emanuelfeld/tree-map/gh-pages/assets/dc168green.png
+    tags: [Environment, Land Use, Infrastructure]
+    thumbnail: https://raw.githubusercontent.com/emanuelfeld/tree-map/gh-pages/assets/dc168green.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 169,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 173,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   contributors_count: 1
   created_at: '2013-11-08T01:07:50Z'
@@ -1332,32 +1166,16 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2015-07-20T13:05:18Z'
+  pushed_at: '2016-02-01T04:27:56Z'
   short_name: tree-map
-  size: 21676
-  updated_at: '2015-05-19T23:20:37Z'
+  size: 21200
+  updated_at: '2016-02-01T04:27:57Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
-  civic_json:
-    bornAt: Code for DC
-    categories: []
-    communityPartner: {DC Learn JS: 'http://dclearnjs.github.io'}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: casey.s.watts@gmail.com, name: Tech Meetup Website, twitter: ''}
-    data: {}
-    geography: ''
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: html/css/js}
-    - {need: rails}
-    politicalEntity: {}
-    status: Production
-    thumbnailUrl: ''
-    type: ''
+  civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/273653?v=3', contributions: 6,
     link: 'https://github.com/caseywatts', name: caseywatts}
@@ -1365,7 +1183,7 @@
   created_at: '2015-08-25T22:28:15Z'
   default_branch: master
   description: ''
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: null
   html_url: https://github.com/tech-meetup-website/tech-meetup-website
@@ -1374,21 +1192,38 @@
   license: null
   main_language: null
   name: Tech Meetup Website
-  open_issues: 3
+  open_issues: 4
   owner: {avatar: 'https://avatars.githubusercontent.com/u/13546551?v=3', name: tech-meetup-website,
     type: Organization, url: 'https://github.com/tech-meetup-website'}
-  pushed_at: '2015-08-25T23:26:01Z'
+  pushed_at: '2016-02-01T16:48:34Z'
   short_name: tech-meetup-website
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 16, 0, 23, 12, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 0, 0]
+    0, 8, 8, 10, 22, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json: null
+  civic_json:
+    contact: {email: '', name: DC Master Address Repository Query Tool, url: 'https://twitter.com/@evonfriedland'}
+    data: []
+    description: 'Batch process locations in DC to get relevant geographic info: geo-coordinates,
+      ward, ANC, residence type, etc. Uses the DC Master Address Repository.'
+    geography: [Global]
+    homepage: http://emanuelfeld.github.io/mardc
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: GPL-2.0
+    links: ['https://emanuelfeld.github.io/mardc']
+    name: DC Geocoder+
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/emanuelfeld/mardc
+    status: Production
+    tags: [Geocoding, Geospatial, Maps, Government]
+    thumbnail: https://raw.githubusercontent.com/emanuelfeld/mardc/gh-pages/assets/mardc_box.png
+    type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 58,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 60,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
   contributors_count: 1
   created_at: '2015-07-29T18:49:22Z'
@@ -1411,13 +1246,13 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4269640?v=3', name: emanuelfeld,
     type: User, url: 'https://github.com/emanuelfeld'}
-  pushed_at: '2016-01-08T19:59:11Z'
+  pushed_at: '2016-02-01T04:29:14Z'
   short_name: mardc
-  size: 215
-  updated_at: '2015-10-17T18:47:50Z'
+  size: 216
+  updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1446,16 +1281,14 @@
   updated_at: '2015-08-24T01:27:32Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 0, 0, 0, 3, 4, 1, 1, 3, 0, 0, 0, 0, 13, 0, 0,
-    0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    2, 1, 11]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 30,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 14,
     link: 'https://github.com/jkoul', name: jkoul}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 1,
-    link: 'https://github.com/mkalish', name: mkalish}
-  contributors_count: 2
+  contributors_count: 1
   created_at: '2015-09-17T03:30:03Z'
   default_branch: gh-pages
   description: ''
@@ -1465,24 +1298,24 @@
   html_url: https://github.com/jkoul/LegiTrackDC
   id: 42632596
   languages:
-  - [CSS, 65942]
-  - [JavaScript, 42504]
-  - [HTML, 29083]
-  - [Ruby, 1963]
+  - [CSS, 68615]
+  - [HTML, 17987]
+  - [JavaScript, 17250]
+  - [Ruby, 1959]
   license: null
   main_language: CSS
   name: LegiTrack DC
   open_issues: 9
   owner: {avatar: 'https://avatars.githubusercontent.com/u/12779671?v=3', name: jkoul,
     type: User, url: 'https://github.com/jkoul'}
-  pushed_at: '2015-12-22T19:53:22Z'
+  pushed_at: '2016-02-04T19:53:54Z'
   short_name: LegiTrackDC
-  size: 1678
-  updated_at: '2015-09-22T20:36:44Z'
+  size: 1695
+  updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 15, 0, 0, 9, 2, 12, 30,
-    11, 16, 8, 17]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40,
+    7, 10, 24, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1520,16 +1353,16 @@
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 22
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-01-27T01:58:44Z'
+  pushed_at: '2016-02-02T06:22:27Z'
   short_name: dcaf_case_management
-  size: 4267
+  size: 4256
   updated_at: '2016-01-12T04:21:15Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1538,7 +1371,7 @@
   created_at: '2015-12-08T00:12:34Z'
   default_branch: master
   description: ''
-  forks: 0
+  forks: 1
   help_wanted: []
   homepage: null
   html_url: https://github.com/DCCouncil/dc-law
@@ -1547,54 +1380,53 @@
   license: null
   main_language: null
   name: DC Code Metadata
-  open_issues: 4
+  open_issues: 5
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4590660?v=3', name: DCCouncil,
     type: Organization, url: 'https://github.com/DCCouncil'}
-  pushed_at: '2015-12-21T21:22:15Z'
+  pushed_at: '2016-02-01T04:42:52Z'
   short_name: dc-law
   size: 30
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27,
-    17, 23, 21]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 10, 3, 18, 22,
+    27, 14, 20]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: The halls of power
-    categories:
-    - {category: Cartography}
-    - {category: Data Viz}
-    - {category: DC Schools}
-    - {category: Public Service}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: '', name: DC Public School Modernization Spending, twitter: ''}
-    data: {}
-    geography: Washington D.C.
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: Designers}
-    - {need: Smiles}
-    - {need: Patience}
-    politicalEntity: {}
-    status: Ideation
-    thumbnailUrl: https://github.com/codefordc/school-modernization
+    contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
+    data: []
+    description: A data visualization that examines fifteen years of school modernization
+      spending in the District
+    geography: [Washington D.C.]
+    homepage: http://codefordc.org/school-modernization/
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: CC0-1.0
+    links: []
+    name: School Modernization Spending
+    partners:
+    - {name: Code for DC, url: 'http://codefordc.org'}
+    - {name: 21st Century School Fund, url: 'http://www.21csf.org/csf-home/'}
+    repository: https://github.com/codefordc/school-modernization
+    status: Alpha
+    tags: [Cartography, Data Viz, DC Schools, Public Service]
+    thumbnail: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 47,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 50,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 33,
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 18,
     link: 'https://github.com/tomBeach', name: tomBeach}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 14,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 16,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8992133?v=3', contributions: 2,
     link: 'https://github.com/coachpacman', name: coachpacman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 1,
     link: 'https://github.com/cmgiven', name: cmgiven}
-  contributors_count: 6
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 1,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  contributors_count: 7
   created_at: '2015-11-17T01:01:13Z'
   default_branch: master
   description: Looking at fifteen years of school modernization funds
@@ -1612,53 +1444,51 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: R
   name: School Modernization Funds
-  open_issues: 4
+  open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-01T00:21:44Z'
+  pushed_at: '2016-02-02T02:32:45Z'
   short_name: school-modernization
-  size: 3680
+  size: 3709
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
-- activity: [1, 2, 19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [3, 12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+    0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
-    bornAt: Socrata/Open Data Hackathon
-    categories:
-    - {category: Taxes}
-    - {category: Budget}
-    - {category: Visualizations}
-    - {category: Open Data}
-    communityPartner: {}
-    conformsTo: http://codefordc.org/resources/specification.html
-    contact: {email: kalishmichael@gmail.com, name: Michael Kalish, twitter: ''}
-    data: {'https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv': ''}
-    geography: Washington DC
-    governmentPartner: {}
-    moreInfo: ''
-    needs:
-    - {need: D3 experts}
-    - {need: Washington DC Budget Experts}
-    - {need: Designer}
-    - {need: Data scientist}
-    politicalEntity: {}
+    contact: {email: kalishmichael@gmail.com, name: Michael Kalish, url: ''}
+    data:
+    - {metadata: '', name: 'https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv',
+      url: ''}
+    description: ''
+    geography: [Washington DC]
+    homepage: http://mkalish.github.io/DC-Budget-Sankey/
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: CC0-1.0
+    links: []
+    name: DC Budget Sankey Graph
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    repository: https://github.com/codefordc/DC-Budget-Sankey
     status: Alpha
-    thumbnailUrl: ''
+    tags: [Taxes, Budget, Visualizations, Open Data]
+    thumbnail: ''
     type: Web App
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8505062?v=3', contributions: 34,
     link: 'https://github.com/jamesrhaley', name: jamesrhaley}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 6,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 7,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2421382?v=3', contributions: 3,
     link: 'https://github.com/theryankelly', name: theryankelly}
-  contributors_count: 3
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 1,
+    link: 'https://github.com/emanuelfeld', name: emanuelfeld}
+  contributors_count: 4
   created_at: '2015-10-25T03:22:25Z'
   default_branch: master
   description: ''
-  forks: 0
+  forks: 1
   help_wanted: []
   homepage: http://mkalish.github.io/DC-Budget-Sankey/
   html_url: https://github.com/codefordc/DC-Budget-Sankey
@@ -1673,14 +1503,14 @@
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2015-12-08T12:53:03Z'
+  pushed_at: '2016-02-01T14:32:54Z'
   short_name: DC-Budget-Sankey
-  size: 559
-  updated_at: '2015-12-08T00:24:16Z'
+  size: 560
+  updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [29, 0, 0, 0, 0, 0, 0, 0, 0, 15, 40, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 9, 39, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
