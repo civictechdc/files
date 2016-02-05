@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - announced: false
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -112,7 +112,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 72
 - created: 1452390774000
   description: "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\"\
     \ /></p> <p>Do you love creating new ways to represent and visualize data? Or\
@@ -198,7 +198,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 134
+  yes_rsvp_count: 137
 - created: 1454530520000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -228,7 +228,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 25
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack.\_Presentation signups\
@@ -305,7 +305,7 @@ other:
       Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1453693195000
   description: "<p>[[Meetup details]]</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\
     \_6:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
@@ -380,11 +380,11 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1455147000000
-  updated: 1446220149000
+  updated: 1454624061000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1417881835000
   description: <p>Sites like data.gov and arlington.co.va don't offer advanced search.
     It's possible to do an advanced search on sites like these without downloading
@@ -595,7 +595,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 102
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -604,17 +604,21 @@ other:
     \ far are:</p> <p>\u2022\_Carey Anne Nadeau of\_<a href=\"http://www.opendatanation.com\"\
     >Open Data Nation</a>\_and\_Michael Eichler of <a href=\"http://planitmetro.com/\"\
     >WMATA</a> will talk about open-data projects in other cities and about the future\
-    \ of WMATA's own APIs and open data.</p> <p>\u2022\_Rebecca Mills will demo <a\
-    \ href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders\
-    \ submit and share their own experiences.</p> <p>\u2022\_<a href=\"https://github.com/estennett\"\
-    >Eric Stennett</a> will show how he used D3 to make his\_<a href=\"https://wmata-in-d3.herokuapp.com/#/index\"\
-    >Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\_Matthew\
-    \ Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool\
-    \ project to share.</p> <p>\u2022\_<a href=\"http://jamespizzurro.com/\">James\
-    \ Pizzurro</a> will demo\_<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\_\
-    an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail\
-    \ trains and delays in real-time.</p> <p>We'd love to have you present your own\
-    \ Metro project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
+    \ of WMATA's own APIs and open data.</p> <p>\u2022\_<a href=\"https://about.me/rebecca.mills\"\
+    >Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>,\
+    \ which lets riders submit and share their own experiences.</p> <p>\u2022\_<a\
+    \ href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used\
+    \ D3 to make his\_<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington\
+    \ DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\_<a href=\"https://github.com/solowt\"\
+    >Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\"\
+    >DC Trains</a> project.</p> <p><br/>\u2022\_Matthew Wigginton Conway of <a href=\"\
+    http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\
+    \_<a href=\"https://ael.me/\">Alex Lindeman</a> will demo\_<a href=\"http://github.com/aelindeman/wmata-with-you\"\
+    >WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.</p> <p><br/>\u2022\
+    \_<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\_<a href=\"\
+    http://dcmetrohero.com/\">MetroHero</a>,\_an app that extends WMATA's APIs to\
+    \ allow commuters to track and visualize Metrorail trains and delays in real-time.</p>\
+    \ <p>We'd love to have you present your own Metro project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael Schade</a>\_an email if you'd like to present.\_</p> <p>To build your\
     \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
     <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_tag,\
@@ -626,7 +630,7 @@ other:
     >III</a>, and read\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
     >Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\"\
     >5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p>\
-    \ <p>Be sure to check out July's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\"\
+    \ <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\"\
     >Bike Hack Night V</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a>\_for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/1/0/7/600_446528455.jpeg\"\
     \ /></p>"
@@ -641,14 +645,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1456268400000
-  updated: 1454612056000
+  updated: 1454625718000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 18
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -853,7 +857,7 @@ other:
     repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1453727135000
   description: "<p>Flask is a microframework that is great for creating websites with\
     \ minimal Python experience. If you know how to make a function, you can make\
@@ -885,7 +889,7 @@ other:
       YouTube stream, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1015,7 +1019,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -1096,7 +1100,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 48
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
