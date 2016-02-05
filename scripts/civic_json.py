@@ -15,7 +15,7 @@ tracked = tracked["projects"]
 output = []
 
 # Load civic.json schema from Code for DC site
-schema = requests.get("http://codefordc.org/resources/schema.json").json()
+schema = requests.get("https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json").json()
 
 # Begin building
 for project in tracked:
