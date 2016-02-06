@@ -81,46 +81,6 @@
     ], 
     "other": [
         {
-            "created": 1452390774000, 
-            "description": "<p><img src=\"https://static5.businessinsider.com/image/4ec298f0eab8eae47e000000/the-baltimore-orioles-are-bringing-back-the-carton-bird-logo-and-orange-uniforms.jpg\" /></p> <p>Do you love creating new ways to represent and visualize data? Or are you a data science/ML/AI guru who can't get enough of Major League Baseball?</p> <p>The Baseball Analytics Hackathon, hosted by the Baltimore Orioles and Booz Allen Hamilton, is the perfect opportunity to work with baseball executives and data scientists to refine your data science and analytic skills and show off your creativity by finding new ways to change the game. Hackathon participants will work to develop innovative data science and visualization solutions using unique datasets that we will provide alongside anything else that is openly available on the Internet. We hope that bringing together creative minds in a competitive environment will lead to novel solutions to some of the questions that the baseball industry is trying to answer.</p> <p>Please register at\u00a0<a href=\"http://baseballhackathon.eventbrite.com/\">baseballhackathon.eventbrite.com</a></p> <p>Please e-mail Kevin Tenenbaum at\u00a0<a href=\"mailto:[masked]\">[masked]</a>\u00a0with any questions.</p>", 
-            "duration": 32400000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/227973005/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "227973005", 
-            "maybe_rsvp_count": 0, 
-            "name": "Baltimore Orioles Baseball Analytics Hackathon", 
-            "rsvp_limit": 1, 
-            "status": "upcoming", 
-            "time": 1454684400000, 
-            "updated": 1452391053000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "333 West Camden Street", 
-                "city": "Baltimore", 
-                "country": "us", 
-                "id": 6201362, 
-                "lat": 39.283295000000003, 
-                "lon": -76.621696, 
-                "name": "Oriole Park at Camden Yards", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21201"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 2
-        }, 
-        {
             "created": 1450148912000, 
             "description": "<p>Join us for the first front end hack night tech talk of the year! Pamela Vong will be introducing the basics of full stack JavaScript via the MEAN stack - MongoDB, Express.js, AngularJS, and Node.js.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Huge thanks to our hosts, <b>Social Tables\u00a0</b>and to our food/drinks sponsor: \u00a0<b>Novetta</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/d/b/b/4/600_446276244.jpeg\" /></p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 7:00 - 8:00pm -\u00a0Intro to Full Stack JavaScript and the MEAN Stack talk by Pamela Vong</p> <p>\u2022 8:00 - 8:15pm - Q&amp;A</p> <p><br/>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a>\u00a0</p> <p>\u2022\u00a0HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a>\u00a0</p> <p>\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\u00a0</p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -157,7 +117,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1454530520000, 
@@ -341,7 +301,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1417881835000, 
@@ -380,7 +340,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1454252703000, 
@@ -513,11 +473,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will show how he made\u00a0<a href=\"http://www.metrofailcast.com/\">Daily Metro Failure Forecast</a>.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/1/0/7/600_446528455.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -536,7 +496,7 @@
             "rsvp_limit": 144, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1454693649000, 
+            "updated": 1454708282000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -551,7 +511,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1454252703000, 
@@ -927,7 +887,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1454252703000, 
