@@ -1,21 +1,21 @@
 projects([
     {
         "activity": [
-            99, 
-            23, 
-            25, 
-            15, 
-            0, 
-            2, 
-            0, 
-            1, 
-            12, 
-            5, 
-            5, 
-            7, 
-            2, 
+            92, 
+            22, 
+            37, 
             3, 
+            0, 
+            2, 
+            0, 
+            2, 
+            11, 
+            10, 
+            6, 
             1, 
+            2, 
+            4, 
+            0, 
             3, 
             3, 
             2, 
@@ -27,9 +27,9 @@ projects([
             6, 
             10, 
             0, 
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -362,7 +362,50 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "contact": {
+                "email": "contactus@ancfinder.org", 
+                "name": "ANC Finder", 
+                "url": "https://twitter.com/@ancfinder"
+            }, 
+            "data": [
+                {
+                    "metadata": "", 
+                    "name": "ANC Meetings", 
+                    "url": "http://ancfinder.org/static/meetings.json"
+                }, 
+                {
+                    "metadata": "", 
+                    "name": "ANC Commissioners", 
+                    "url": "http://ancfinder.org/static/ancs.json"
+                }
+            ], 
+            "description": "A website about DC's Advisory Neighborhood Commission system.", 
+            "geography": [
+                "Washington, DC"
+            ], 
+            "homepage": "http://ancfinder.org/", 
+            "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json", 
+            "license": "CC0-1.0", 
+            "links": [], 
+            "name": "ANC Finder", 
+            "partners": [
+                {
+                    "email": "", 
+                    "name": "Code for DC", 
+                    "url": "http://codefordc.org"
+                }
+            ], 
+            "repository": "https://github.com/codefordc/ancfinder", 
+            "status": "Production", 
+            "tags": [
+                "Politics", 
+                "Government", 
+                "Open Data"
+            ], 
+            "thumbnail": "http://ancfinder.org/static/img/favicon.png", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
@@ -372,7 +415,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 113, 
+                "contributions": 115, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -389,16 +432,16 @@ projects([
                 "name": "mesb"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1551510?v=3", 
                 "contributions": 3, 
                 "link": "https://github.com/mcwhittemore", 
                 "name": "mcwhittemore"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/899591?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/Copper-Head", 
-                "name": "Copper-Head"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2487968?v=3", 
@@ -407,10 +450,10 @@ projects([
                 "name": "tvanantwerp"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/899591?v=3", 
                 "contributions": 3, 
-                "link": "https://github.com/emanuelfeld", 
-                "name": "emanuelfeld"
+                "link": "https://github.com/Copper-Head", 
+                "name": "Copper-Head"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/903759?v=3", 
@@ -419,16 +462,16 @@ projects([
                 "name": "kdurril"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6344446?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/rschuster3", 
-                "name": "rschuster3"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/125098?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/joshfinnie", 
                 "name": "joshfinnie"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6344446?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/rschuster3", 
+                "name": "rschuster3"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/78930?v=3", 
@@ -504,17 +547,17 @@ projects([
         }, 
         "main_language": "Python", 
         "name": "ANC Finder", 
-        "open_issues": 41, 
+        "open_issues": 40, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-01T04:37:17Z", 
+        "pushed_at": "2016-02-06T05:23:13Z", 
         "short_name": "ancfinder", 
-        "size": 72056, 
-        "updated_at": "2015-07-07T18:47:09Z", 
+        "size": 72057, 
+        "updated_at": "2016-02-06T05:22:46Z", 
         "watchers": 31
     }, 
     {
@@ -522,8 +565,8 @@ projects([
             0, 
             0, 
             1, 
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1960,8 +2003,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            1, 
+            3, 
+            0, 
             4, 
             2, 
             3, 
@@ -1976,9 +2019,9 @@ projects([
             0, 
             0, 
             0, 
+            4, 
             1, 
-            3, 
-            1, 
+            0, 
             8, 
             2, 
             1, 
@@ -2100,8 +2143,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -2433,8 +2476,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -2816,16 +2859,16 @@ projects([
     {
         "activity": [
             0, 
-            20, 
-            56, 
-            65, 
-            17, 
-            47, 
-            51, 
+            39, 
+            38, 
+            66, 
+            16, 
+            52, 
+            45, 
             6, 
+            2, 
             1, 
-            1, 
-            1, 
+            0, 
             6, 
             0, 
             0, 
@@ -2846,8 +2889,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
@@ -3511,11 +3554,11 @@ projects([
             0, 
             0, 
             0, 
-            61, 
-            89, 
-            9, 
-            3, 
-            2, 
+            95, 
+            57, 
+            7, 
+            4, 
+            1, 
             0, 
             1, 
             0, 
@@ -3795,10 +3838,10 @@ projects([
             0, 
             0, 
             0, 
-            8, 
-            8, 
-            10, 
-            22, 
+            16, 
+            0, 
+            17, 
+            15, 
             4, 
             0, 
             0, 
@@ -3818,8 +3861,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             2
@@ -4273,7 +4316,7 @@ projects([
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 23, 
+        "open_issues": 24, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
@@ -4475,7 +4518,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 50, 
+                "contributions": 53, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4558,17 +4601,17 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-05T18:46:58Z", 
+        "pushed_at": "2016-02-06T01:33:37Z", 
         "short_name": "school-modernization", 
-        "size": 5835, 
+        "size": 5848, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
     {
         "activity": [
-            3, 
-            12, 
-            9, 
+            2, 
+            19, 
+            2, 
             1, 
             0, 
             0, 
@@ -4740,9 +4783,9 @@ projects([
             0, 
             0, 
             0, 
-            9, 
-            39, 
-            35, 
+            15, 
+            40, 
+            28, 
             0, 
             0, 
             0, 

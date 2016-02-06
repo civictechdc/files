@@ -126,7 +126,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 141
+  yes_rsvp_count: 143
 - created: 1454530520000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -314,12 +314,32 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 14
 - created: 1417881835000
-  description: <p>Sites like data.gov and arlington.co.va don't offer advanced search.
-    It's possible to do an advanced search on sites like these without downloading
-    the entire database. In this talk I am going to demonstrate a tool-set which allows
-    advanced search of sites like these. These tools are context based. These easy-to-use
-    tools offer the capacity to preform highly articulated searches combining multiple
-    websites.</p>
+  description: "<p>Sites like data.gov and arlington.co.va don't offer advanced search.\
+    \ It's possible to do an advanced search on sites like these without downloading\
+    \ the entire database. In this talk I am going to demonstrate a tool-set which\
+    \ allows advanced search of sites like these. These tools are context based. These\
+    \ easy-to-use tools offer the capacity to preform highly articulated searches\
+    \ combining multiple websites.</p> <p><b>Speaker: Tom Folkes</b></p> <p>My first\
+    \ job was with Math Tech which was founded by John Von Neumann (designer of the\
+    \ CPU and developer of Game Theory). I worked primarily with Elliot Feldman developing\
+    \ what is the current Navy logistics system. I've been a DARPA researcher working\
+    \ on war gaming and robotics. During the 90's I was a webmaster at NASA where\
+    \ I built the National Facilitates/Laboratories system and wrote their first set\
+    \ of web page requirements. Since leaving NASA I have worked primarily on AI librarians.\
+    \ This includes ontology development, working on the \"Needle in the Needle Stack\"\
+    \ problem and developing an easy to use and more articulated search method which\
+    \ I call Folkes Fast Filtering.</p> <p><br/><b>Agenda</b></p> <p>6:30pm - food\
+    \ and beverages courtesy of\_<a href=\"https://aws.amazon.com/\">Amazon Web Services</a></p>\
+    \ <p>7:00pm - introductions</p> <p>7:10pm - talk begins</p> <p>8:30pm - head to\
+    \ Tonic for after meetup beverages</p> <p><b>Our Sponsor</b></p> <p><img src=\"\
+    http://photos2.meetupstatic.com/photos/event/d/b/8/8/600_446576200.jpeg\" /></p>\
+    \ <p><b><br/></b></p> <p><a href=\"http://aws.amazon.com\">Amazon Web Services</a>\
+    \ offers a broad set of global compute, storage, database, analytics, application,\
+    \ and deployment services that help organizations move faster, lower IT costs,\
+    \ and scale applications. These services are trusted by the largest enterprises\
+    \ and the hottest start-ups to power a wide variety of workloads including: web\
+    \ and mobile applications, IoT, data processing and warehousing, storage, archive,\
+    \ and many others.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/222987192/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -331,7 +351,7 @@ other:
   name: Hidden in Plain Site. Not!
   status: upcoming
   time: 1455147000000
-  updated: 1453385155000
+  updated: 1454756008000
   utc_offset: -18000000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 10605112, lat: 38.898952000000001,
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 103', repinned: false,
@@ -523,7 +543,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -549,7 +569,10 @@ other:
     \_<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\_<a href=\"\
     http://dcmetrohero.com/\">MetroHero</a>,\_an app that extends WMATA's APIs to\
     \ allow commuters to track and visualize Metrorail trains and delays in real-time.</p>\
-    \ <p>We'd love to have you present your own Metro project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
+    \ <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made\
+    \ a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo\
+    \ building.</p> <p><br/>We'd love to have you present your own Metro project.\
+    \ Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael Schade</a>\_an email if you'd like to present.\_</p> <p>To build your\
     \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
     <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_tag,\
@@ -576,14 +599,14 @@ other:
   rsvp_limit: 144
   status: upcoming
   time: 1456268400000
-  updated: 1454708282000
+  updated: 1454721816000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 55
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\

@@ -117,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1454530520000, 
@@ -305,7 +305,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Sites like data.gov and arlington.co.va don't offer advanced search. It's possible to do an advanced search on sites like these without downloading the entire database. In this talk I am going to demonstrate a tool-set which allows advanced search of sites like these. These tools are context based. These easy-to-use tools offer the capacity to preform highly articulated searches combining multiple websites.</p>", 
+            "description": "<p>Sites like data.gov and arlington.co.va don't offer advanced search. It's possible to do an advanced search on sites like these without downloading the entire database. In this talk I am going to demonstrate a tool-set which allows advanced search of sites like these. These tools are context based. These easy-to-use tools offer the capacity to preform highly articulated searches combining multiple websites.</p> <p><b>Speaker: Tom Folkes</b></p> <p>My first job was with Math Tech which was founded by John Von Neumann (designer of the CPU and developer of Game Theory). I worked primarily with Elliot Feldman developing what is the current Navy logistics system. I've been a DARPA researcher working on war gaming and robotics. During the 90's I was a webmaster at NASA where I built the National Facilitates/Laboratories system and wrote their first set of web page requirements. Since leaving NASA I have worked primarily on AI librarians. This includes ontology development, working on the \"Needle in the Needle Stack\" problem and developing an easy to use and more articulated search method which I call Folkes Fast Filtering.</p> <p><br/><b>Agenda</b></p> <p>6:30pm - food and beverages courtesy of\u00a0<a href=\"https://aws.amazon.com/\">Amazon Web Services</a></p> <p>7:00pm - introductions</p> <p>7:10pm - talk begins</p> <p>8:30pm - head to Tonic for after meetup beverages</p> <p><b>Our Sponsor</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/b/8/8/600_446576200.jpeg\" /></p> <p><b><br/></b></p> <p><a href=\"http://aws.amazon.com\">Amazon Web Services</a> offers a broad set of global compute, storage, database, analytics, application, and deployment services that help organizations move faster, lower IT costs, and scale applications. These services are trusted by the largest enterprises and the hottest start-ups to power a wide variety of workloads including: web and mobile applications, IoT, data processing and warehousing, storage, archive, and many others.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/222987192/", 
             "group": {
@@ -324,7 +324,7 @@ calendar({
             "name": "Hidden in Plain Site. Not!", 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1453385155000, 
+            "updated": 1454756008000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -473,11 +473,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, and the presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway of <a href=\"http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will demo\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>,\u00a0an app that extends WMATA's APIs to allow commuters to track and visualize Metrorail trains and delays in real-time.</p> <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p> <p><br/>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -496,7 +496,7 @@ calendar({
             "rsvp_limit": 144, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1454708282000, 
+            "updated": 1454721816000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -511,7 +511,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1454252703000, 
