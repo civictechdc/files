@@ -1060,8 +1060,8 @@
         "activity": [
             0, 
             0, 
-            3, 
-            1, 
+            4, 
+            0, 
             0, 
             0, 
             0, 
@@ -4235,7 +4235,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 105, 
+                "contributions": 107, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4316,7 +4316,7 @@
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 26, 
+        "open_issues": 34, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
