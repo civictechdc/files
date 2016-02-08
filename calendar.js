@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 74
         }, 
         {
             "announced": false, 
@@ -76,7 +76,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }
     ], 
     "other": [
@@ -102,7 +102,7 @@ calendar({
             "rsvp_limit": 145, 
             "status": "upcoming", 
             "time": 1454974200000, 
-            "updated": 1454694030000, 
+            "updated": 1454898338000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -116,7 +116,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 145
         }, 
         {
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1451511034000, 
@@ -219,7 +219,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1455060600000, 
-            "updated": 1454682010000, 
+            "updated": 1454898355000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 G Street NW", 
@@ -257,7 +257,7 @@ calendar({
             "name": "Ruby on Rails: Using Gravatar", 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1454818300000, 
+            "updated": 1454898374000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -301,7 +301,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
@@ -340,7 +340,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1454252703000, 
@@ -408,7 +408,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1453693213000, 
@@ -431,7 +431,7 @@ calendar({
             "name": "Ruby on Rails Study Group", 
             "status": "upcoming", 
             "time": 1455751800000, 
-            "updated": 1454787938000, 
+            "updated": 1454898416000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -485,7 +485,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1454526149000, 
@@ -523,7 +523,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1454252703000, 
@@ -610,7 +610,7 @@ calendar({
             "name": "Ruby on Rails: Focus on Fundamentals", 
             "status": "upcoming", 
             "time": 1456356600000, 
-            "updated": 1453691652000, 
+            "updated": 1454898464000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Location to be confirmed", 
@@ -1070,7 +1070,7 @@ calendar({
         }, 
         {
             "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a Java Study group.Whether you're a java expert or are seeking to learn in order to enhance mobile apps.Please come out to get up and running with java, try your hand out at some java challenges and ask questions on current projects.Hope to see you there </i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvfbmc/", 
             "group": {
@@ -1084,14 +1084,26 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Room 2", 
             "id": "rjstplyvfbmc", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
+            "name": "Android Hack Night - Java Study Group", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1459290600000, 
-            "updated": 1454252703000, 
+            "updated": 1454898355000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23690298, 
+                "lat": 38.898392000000001, 
+                "lon": -77.024131999999994, 
+                "name": "MLK Library, Digital Commons", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
@@ -1223,7 +1235,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1326383071000, 
