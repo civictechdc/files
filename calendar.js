@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 75
         }, 
         {
             "announced": false, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1451511034000, 
@@ -293,15 +293,15 @@ calendar({
             "headcount": 0, 
             "id": "bcxvllyvdbnb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python - Beginner's & Hack Night", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1455147000000, 
-            "updated": 1454624061000, 
+            "updated": 1454888398000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1417881835000, 
@@ -400,15 +400,15 @@ calendar({
             "headcount": 0, 
             "id": "gcxvllyvdbwb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python - What is Django?", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1455751800000, 
-            "updated": 1446220217000, 
+            "updated": 1454888519000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1453693213000, 
@@ -523,7 +523,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1454252703000, 
@@ -587,7 +587,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 131
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1453691652000, 
@@ -664,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1453727135000, 
@@ -824,7 +824,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1451511271000, 
@@ -1325,7 +1325,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
