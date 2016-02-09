@@ -1,12 +1,12 @@
 projects([
     {
         "activity": [
-            58, 
-            17, 
-            40, 
+            60, 
+            15, 
+            35, 
             0, 
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             11, 
             5, 
@@ -16,10 +16,10 @@ projects([
             0, 
             4, 
             0, 
-            5, 
-            1, 
-            4, 
-            4, 
+            6, 
+            0, 
+            6, 
+            2, 
             0, 
             0, 
             9, 
@@ -27,8 +27,8 @@ projects([
             1, 
             9, 
             0, 
-            19, 
-            54, 
+            40, 
+            33, 
             10, 
             0, 
             2, 
@@ -1108,8 +1108,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            5
+            5, 
+            0
         ], 
         "ci": {
             "codeclimate": false, 
@@ -2859,17 +2859,17 @@ projects([
     {
         "activity": [
             0, 
-            45, 
-            47, 
-            56, 
+            59, 
+            41, 
+            49, 
             22, 
-            71, 
-            19, 
-            2, 
+            78, 
+            12, 
+            1, 
             2, 
             1, 
-            4, 
-            2, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2908,8 +2908,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2
+            2, 
+            0
         ], 
         "ci": {
             "codeclimate": false, 
@@ -3990,9 +3990,9 @@ projects([
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4122,7 +4122,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 14, 
+                "contributions": 19, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
             }
@@ -4143,11 +4143,11 @@ projects([
             ], 
             [
                 "HTML", 
-                17987
+                17976
             ], 
             [
                 "JavaScript", 
-                17250
+                17211
             ], 
             [
                 "Ruby", 
@@ -4164,9 +4164,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/jkoul"
         }, 
-        "pushed_at": "2016-02-04T19:53:54Z", 
+        "pushed_at": "2016-02-09T16:20:25Z", 
         "short_name": "LegiTrackDC", 
-        "size": 1695, 
+        "size": 1700, 
         "updated_at": "2016-02-02T23:10:56Z", 
         "watchers": 0
     }, 
@@ -4208,21 +4208,21 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            0, 
-            13, 
+            6, 
+            4, 
+            6, 
+            7, 
             15, 
             0, 
             0, 
             9, 
-            2, 
-            12, 
-            30, 
-            11, 
-            16, 
+            6, 
             8, 
+            39, 
+            2, 
             17, 
+            9, 
+            15, 
             9
         ], 
         "ci": {

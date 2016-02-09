@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 other:
 - created: 1451511034000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
@@ -71,7 +71,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 48
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -114,7 +114,7 @@ other:
       Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1453693195000
   description: "<p>[[Meetup details]]</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\
     \_6:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
@@ -187,11 +187,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1455147000000
-  updated: 1454888398000
+  updated: 1455037113000
   utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1417881835000
   description: "<p>Sites like data.gov and arlington.co.va don't offer advanced search.\
     \ It's possible to do an advanced search on sites like these without downloading\
@@ -237,7 +240,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 126
+  yes_rsvp_count: 133
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -308,7 +311,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1453693213000
   description: "<p>New to Ruby? Know a little about Ruby but want to know more about\
     \ how to \"design\" and organize your code? Come hang out and get ideas on how\
@@ -434,7 +437,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 125
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -458,13 +461,15 @@ other:
     \ his\_<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro\
     \ Map with Live Train Updates</a>.</p> <p><br/>\u2022\_<a href=\"https://github.com/solowt\"\
     >Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\"\
-    >DC Trains</a> project.\_</p> <p>\u2022\_Matthew Wigginton Conway of <a href=\"\
-    http://conveyal.com/\">Conveyal</a> has a cool project to share.</p> <p>\u2022\
-    \_<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will show how\_<a href=\"\
-    http://dcmetrohero.com/\">MetroHero</a>\_tracks and visualizes Metrorail trains\
-    \ and delays in real-time.</p> <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a>\
-    \ will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a>\
-    \ for his condo building.</p> <p><br/>We'd love to have you present your own Metro\
+    >DC Trains</a> project.\_</p> <p>\u2022\_Matthew Wigginton Conway\_will demo\_\
+    <a href=\"http://conveyal.com/\">Conveyal</a>'s tools for analyzing the travel\
+    \ time impacts of new transit lines.</p> <p>\u2022\_<a href=\"http://jamespizzurro.com/\"\
+    >James Pizzurro</a> will show how\_<a href=\"http://dcmetrohero.com/\">MetroHero</a>\_\
+    tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\
+    \ <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"\
+    http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p>\
+    \ <p><br/>\u2022\_Sanghong\_Yoo will present\_Metroview, WMATA's own internal\
+    \ tool for non-GIS users.</p> <p><br/>We'd love to have you present your own Metro\
     \ project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael Schade</a>\_an email if you'd like to present.\_</p> <p>To build your\
     \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
@@ -492,14 +497,14 @@ other:
   rsvp_limit: 144
   status: upcoming
   time: 1456268400000
-  updated: 1454997008000
+  updated: 1455042506000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 92
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -635,8 +640,7 @@ other:
     \ DC Web Women, DC PyLadies, Georgetown Women Who Code, Girl Develop It DC, Girls\
     \ Excelling in Math &amp; Science, Hear Me Code, Ladies Who Code DC, National\
     \ Center for Women in Tech, Rails Girls DC, Women in Tech Campaign, Women's Society\
-    \ of Cyberjutsu, Women Who Code DC, Women 2.0 City Meetup, and more!</p> <p>\_\
-    </p>"
+    \ of Cyberjutsu, Women Who Code DC, Women 2.0 City Meetup, and more!</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/228338446/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -646,17 +650,17 @@ other:
   how_to_find_us: 'Register: https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082'
   id: '228338446'
   maybe_rsvp_count: 0
-  name: 'Ruby on Rails: DCFemTech INSPIRE event'
+  name: Ruby on Rails @ DCFemTech INSPIRE event
   status: upcoming
   time: 1456356600000
-  updated: 1454984883000
+  updated: 1455030562000
   utc_offset: -18000000
   venue: {address_1: '1424 K ST NW #300', city: WASHINGTON, country: us, id: 24356181,
     lat: 38.902144999999997, lon: -77.032936000000007, name: nclud, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 16
 - created: 1454529221000
   description: "<p><b>Please RSVP here:</b>\_<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\"\
@@ -833,7 +837,36 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 112
+- created: 1455043587000
+  description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
+    \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
+    \ about APIs over a cold drink? \_Go ahead and mark your calendars for the next\
+    \ DC API meetup on March 1 (always the first Tuesday of the month). \_The speakers\
+    \ we're lining up are solid and the company is always great. \_</p> <p>\n\n6:00pm\
+    \ - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions and\
+    \ Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General\
+    \ Services Administration<br/>* TBA - Mulesoft\_<br/>*\_Laura Gerhardt - 18F<br/>*\
+    \ TBA\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
+    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/228730607/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '228730607'
+  maybe_rsvp_count: 0
+  name: DC API User Group - March Edition
+  status: upcoming
+  time: 1456873200000
+  updated: 1455043587000
+  utc_offset: -18000000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1134,7 +1167,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1203,6 +1236,26 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1455036704000
+  description: <p>Interested in learning how to program in Go? Come to this tech talk
+    where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p>
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228727805/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '228727805'
+  maybe_rsvp_count: 0
+  name: Tech Talk - Intro to the Go programming language!
+  status: upcoming
+  time: 1458253800000
+  updated: 1455036868000
+  utc_offset: -14400000
+  venue: {address_1: TBD, city: Washington, country: us, id: 24357306, lat: 38.907192000000002,
+    lon: -77.036873, name: TBD, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1408,35 +1461,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1446220149000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bcxvllyvgbrb/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: bcxvllyvgbrb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1460586600000
-  updated: 1454624061000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
@@ -1455,7 +1479,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
