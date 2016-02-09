@@ -95,7 +95,7 @@
   watchers: 28
 - activity: [8, 0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 3]
+    0, 1, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: contactus@ancfinder.org, name: ANC Finder, url: 'https://twitter.com/@ancfinder'}
@@ -260,9 +260,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [1, 7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1,
-    7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 4, 0, 1,
-    1, 0, 3]
+- activity: [1, 7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2,
+    5, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1,
+    0, 3, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
@@ -486,9 +486,9 @@
   size: 32313
   updated_at: '2015-12-21T02:10:58Z'
   watchers: 29
-- activity: [0, 0, 8, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 8, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 2]
+    0, 1, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: rrbaker@gmail.com, name: Rob Baker, url: 'https://twitter.com/rrbaker'}
@@ -832,9 +832,9 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [4, 10, 5, 0, 5, 0, 0, 0, 0, 0, 0, 45, 20, 1, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2]
+- activity: [6, 10, 3, 0, 5, 0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: '', name: CSV Geocoder, url: 'https://twitter.com/@evonfriedland'}
@@ -974,9 +974,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [3, 1, 3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2,
-    26, 9, 6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2,
-    0, 0, 0, 0, 0, 0]
+- activity: [3, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27,
+    10, 4, 15, 0, 7, 0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0,
+    0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1097,7 +1097,7 @@
   size: 10014
   updated_at: '2016-02-07T22:04:09Z'
   watchers: 16
-- activity: [0, 0, 34, 2, 19, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 2, 32, 2, 19, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1337,11 +1337,11 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 114,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 117,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 17,
     link: 'https://github.com/mebates', name: mebates}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 13,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 16,
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 4,
     link: 'https://github.com/cmgiven', name: cmgiven}
@@ -1357,26 +1357,26 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 12
+  forks: 13
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [HTML, 46017]
-  - [Ruby, 42808]
-  - [CSS, 22985]
+  - [HTML, 46349]
+  - [Ruby, 43423]
+  - [CSS, 23205]
   - [JavaScript, 693]
-  - [CoffeeScript, 211]
+  - [CoffeeScript, 422]
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 33
+  open_issues: 32
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-08T23:52:51Z'
+  pushed_at: '2016-02-09T02:18:23Z'
   short_name: dcaf_case_management
-  size: 4270
+  size: 6548
   updated_at: '2016-01-12T04:21:15Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1605,3 +1605,47 @@
   size: 3
   updated_at: '2016-01-28T15:29:07Z'
   watchers: 3
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
+  ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
+  civic_json:
+    contact: {email: easternsft@gmail.com, name: Eastern SERVE Team}
+    data: []
+    description: This is an algorithm that matches students with community-service
+      organizations.
+    geography: []
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: MIT
+    links: []
+    name: Eastern SERVE Team
+    partners:
+    - {name: Eastern Senior High School, url: easternsft.wix.com/serve}
+    repository: https://github.com/EasternSFT/SERVE/
+    status: Ideation
+    tags: [community service]
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/16657668?v=3', contributions: 5,
+    link: 'https://github.com/EasternSFT', name: EasternSFT}
+  contributors_count: 1
+  created_at: '2016-02-09T01:15:27Z'
+  default_branch: master
+  description: This is an algorithm that matches students with community-service organizations.
+  forks: 0
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/EasternSFT/SERVE
+  id: 51339353
+  languages:
+  - [JavaScript, 4328]
+  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  main_language: JavaScript
+  name: Student Community Service Matcher
+  open_issues: 0
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/16657668?v=3', name: EasternSFT,
+    type: User, url: 'https://github.com/EasternSFT'}
+  pushed_at: '2016-02-09T01:24:05Z'
+  short_name: SERVE
+  size: 4
+  updated_at: '2016-02-09T01:18:54Z'
+  watchers: 0
