@@ -883,9 +883,9 @@
   size: 273
   updated_at: '2016-02-01T04:30:08Z'
   watchers: 9
-- activity: [0, 59, 41, 49, 22, 78, 12, 1, 2, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0,
-    0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 0]
+- activity: [0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0,
+    0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: '', name: Emanuel Feld, url: 'https://twitter.com/@booksfordc'}
@@ -1270,7 +1270,7 @@
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1332,8 +1332,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8, 39, 2, 17,
-    9, 15, 9]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7,
+    10, 20, 4, 15]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1465,9 +1465,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-10T12:28:49Z'
+  pushed_at: '2016-02-10T18:47:05Z'
   short_name: school-modernization
-  size: 6123
+  size: 6132
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [2, 20, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 35
 other:
 - created: 1453693195000
   description: "<p>[[Meetup details]]</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\
@@ -85,7 +85,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -163,7 +163,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 140
+  yes_rsvp_count: 143
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -239,7 +239,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 40
 - created: 1453693213000
   description: "<p>New to Ruby? Know a little about Ruby but want to know more about\
     \ how to \"design\" and organize your code? Come hang out and get ideas on how\
@@ -297,7 +297,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1454510327000
   description: "<p>Join us for a series of short, fun and interesting lightning talks\
     \ about R and Python. Thank you so much for the folks at\_<a href=\"http://www.agencychief.com/\"\
@@ -365,7 +365,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 129
+  yes_rsvp_count: 132
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -434,7 +434,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 110
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -503,7 +503,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 48
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -716,7 +716,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 119
+  yes_rsvp_count: 124
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -725,9 +725,9 @@ other:
     \ we're lining up are solid and the company is always great. \_</p> <p>\n\n6:00pm\
     \ - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions and\
     \ Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General\
-    \ Services Administration<br/>* TBA - Mulesoft\_<br/>*\_Laura Gerhardt - 18F<br/>*\
-    \ TBA\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
-    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+    \ Services Administration<br/>* Jackie Kazil \_<br/>*\_Laura Gerhardt - 18F<br/>*\
+    \ Mulesoft\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm\
+    \ Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/228730607/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -738,14 +738,14 @@ other:
   name: DC API User Group - March Edition
   status: upcoming
   time: 1456873200000
-  updated: 1455043587000
+  updated: 1455126924000
   utc_offset: -18000000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, lon: -77.042266999999995, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 19
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -813,7 +813,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -875,7 +875,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -959,7 +959,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1046,7 +1046,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 31
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1166,7 +1166,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 135
+  yes_rsvp_count: 136
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
