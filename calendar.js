@@ -1,7 +1,7 @@
 calendar({
     "codefordc": [
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1451966618000, 
             "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -37,87 +37,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 25
         }
     ], 
     "other": [
-        {
-            "created": 1451511034000, 
-            "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack.\u00a0Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724506/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227724506", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 29: Opulent superhuman skepticism", 
-            "status": "upcoming", 
-            "time": 1455060600000, 
-            "updated": 1451577856000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 53
-        }, 
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a Java Study group.Whether you're a java expert or are seeking to learn in order to enhance mobile apps.Please come out to get up and running with java, try your hand out at some java challenges and ask questions on current projects.Hope to see you there </i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228509751/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Room 2", 
-            "id": "rjstplyvdbmb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night - Java Study Group", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1455060600000, 
-            "updated": 1454898355000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 G Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23690298, 
-                "lat": 38.898392000000001, 
-                "lon": -77.024131999999994, 
-                "name": "MLK Library, Digital Commons", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
-        }, 
         {
             "created": 1453693195000, 
             "description": "<p>[[Meetup details]]</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Implementing Gravatar Workshop</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\n<b>Do you have a Ruby on Rails application with User profiles? \u00a0Do you want to have the ability to have appropriate images for User profiles in your web application?</b></p> <p>Well come out to this week's Women Who Code Ruby on Rails Tech night. \u00a0One of our amazing Leads, <i><b>Zuri Hunter</b></i> will be giving a talk on how to use Gravatar's API into your Rails web application. She will help you sign up for Gravatar's website, build a blog system with Ruby on Rails and finally using the API within the application to have appropriate images as user profile avatars. \u00a0This event is open to all levels from the absolute beginner to expert in Ruby on Rails.\u00a0</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
@@ -233,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 135
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1454252703000, 
@@ -313,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1453693213000, 
@@ -390,11 +313,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 128
+            "yes_rsvp_count": 129
         }, 
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, with food thanks to our awesome sponsors at <a href=\"https://www.socrata.com/\">Socrata</a>. The presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway\u00a0will demo\u00a0<a href=\"http://conveyal.com/\">Conveyal</a>'s tools for analyzing the travel time impacts of new transit lines.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p> <p><br/>\u2022\u00a0Sanghong\u00a0Yoo will present\u00a0Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building. Doors open at 6:00, with food thanks to our awesome sponsors at <a href=\"https://www.socrata.com/\">Socrata</a>. The presentations start at 6:30. Our presenters thus far are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/estennett\">Eric Stennett</a> will show how he used D3 to make his\u00a0<a href=\"https://wmata-in-d3.herokuapp.com/#/index\">Washington DC Metro Map with Live Train Updates</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0Matthew Wigginton Conway\u00a0will demo\u00a0<a href=\"http://conveyal.com/\">Conveyal</a>'s tools for analyzing the travel time impacts of new transit lines.</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p> <p><br/>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>We'd love to have you present your own Metro project. Send\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael Schade</a>\u00a0an email if you'd like to present.\u00a0</p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -413,7 +336,7 @@ calendar({
             "rsvp_limit": 144, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1455050544000, 
+            "updated": 1455075343000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -428,7 +351,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1454252703000, 
@@ -492,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1453691652000, 
@@ -531,7 +454,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1454529221000, 
@@ -647,7 +570,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1455043587000, 
@@ -880,7 +803,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1454252703000, 
@@ -1126,7 +1049,7 @@ calendar({
             "created": 1454252703000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a Java Study group.Whether you're a java expert or are seeking to learn in order to enhance mobile apps.Please come out to get up and running with java, try your hand out at some java challenges and ask questions on current projects.Hope to see you there </i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvfbmc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745447/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1291,6 +1214,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1460586600000, 
+            "updated": 1454624061000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 

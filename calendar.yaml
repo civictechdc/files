@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1451966618000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
     \ 7:15\_Group introductions and announcements from participants and organizers.</p>\
@@ -36,85 +36,8 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 25
 other:
-- created: 1451511034000
-  description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
-    \ is looking forward to hearing about *your* cool hack.\_Presentation signups\
-    \ are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal,\
-    \ engaging, and friendly: presenters have *5* minutes to show off their hack (it\
-    \ goes faster than you\u2019d expect) and then the audience has 5 minutes to ask\
-    \ questions, make jokes, and suggest ideas and feedback. The hacks that people\
-    \ present are anything from how to train your dog to text you when it needs a\
-    \ walk to [something more serious... like blenders made out of artichokes]. Show\
-    \ us what you\u2019ve got! But remember: no startup pitches, no dull work projects,\
-    \ no deckware!</p> <p>If you\u2019re interested in presenting, complete this short\
-    \ form to let us know: <a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the\
-    \ meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!).\
-    \ Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks!\
-    \ &lt;3</p>"
-  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/227724506/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  id: '227724506'
-  maybe_rsvp_count: 0
-  name: 'Round 29: Opulent superhuman skepticism'
-  status: upcoming
-  time: 1455060600000
-  updated: 1451577856000
-  utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 53
-- created: 1454252703000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Hack Night! We welcome women with all levels of Android
-    experience (including none), but coding experience *is*preferred as Android is
-    not the friendliest way to learn how to code. ***Please bring your laptop to this
-    event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This
-    week we will have a Java Study group.Whether you're a java expert or are seeking
-    to learn in order to enhance mobile apps.Please come out to get up and running
-    with java, try your hand out at some java challenges and ask questions on current
-    projects.Hope to see you there </i></p> <p>Building Access</p> <p>The management
-    in certain buildings requires meetup hosts to let people in instead of relying
-    on their security staff. Please respect the policy in case the location requires
-    access to the building. To gain access, contact the group lead if information
-    is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p>
-    <p>Beginners should check out our <a href="https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228509751/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Room 2
-  id: rjstplyvdbmb
-  maybe_rsvp_count: 0
-  name: Android Hack Night - Java Study Group
-  rsvp_limit: 25
-  status: upcoming
-  time: 1455060600000
-  updated: 1454898355000
-  utc_offset: -18000000
-  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
-    lat: 38.898392000000001, lon: -77.024131999999994, name: 'MLK Library, Digital
-      Commons', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 7
 - created: 1453693195000
   description: "<p>[[Meetup details]]</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\
     \_6:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
@@ -240,7 +163,7 @@ other:
     state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 135
+  yes_rsvp_count: 140
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -316,7 +239,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 33
 - created: 1453693213000
   description: "<p>New to Ruby? Know a little about Ruby but want to know more about\
     \ how to \"design\" and organize your code? Come hang out and get ideas on how\
@@ -442,7 +365,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 128
+  yes_rsvp_count: 129
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -474,8 +397,9 @@ other:
     tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\
     \ <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"\
     http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p>\
-    \ <p><br/>\u2022\_Sanghong\_Yoo will present\_Metroview, WMATA's own internal\
-    \ tool for non-GIS users.</p> <p><br/>We'd love to have you present your own Metro\
+    \ <p><br/>\u2022\_<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\_will demo\
+    \ his\_<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\"\
+    >DC Metro and Bus</a>\_app.</p> <p>We'd love to have you present your own Metro\
     \ project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael Schade</a>\_an email if you'd like to present.\_</p> <p>To build your\
     \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
@@ -503,14 +427,14 @@ other:
   rsvp_limit: 144
   status: upcoming
   time: 1456268400000
-  updated: 1455050544000
+  updated: 1455075343000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 101
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -579,7 +503,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 41
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -615,7 +539,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1454529221000
   description: "<p><b>Please RSVP here:</b>\_<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\"\
@@ -792,7 +716,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 119
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -1035,7 +959,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1354,7 +1278,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/rjstplyvfbmc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228745447/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1497,6 +1421,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1446220149000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
+    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
+    \ we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228745416/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: bcxvllyvgbrb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1460586600000
+  updated: 1454624061000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
