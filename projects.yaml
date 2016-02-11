@@ -883,8 +883,8 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [0, 61, 51, 44, 16, 83, 6, 2, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0,
-    0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 66, 61, 30, 18, 80, 7, 1, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0,
+    0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1332,8 +1332,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7,
-    10, 20, 4, 15]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2, 12, 3, 40, 7,
+    10, 24, 0, 21]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1373,10 +1373,10 @@
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 29
+  open_issues: 30
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-11T01:17:18Z'
+  pushed_at: '2016-02-11T17:29:53Z'
   short_name: dcaf_case_management
   size: 6549
   updated_at: '2016-01-12T04:21:15Z'
