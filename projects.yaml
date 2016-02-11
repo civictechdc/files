@@ -1,5 +1,5 @@
-- activity: [60, 15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9,
-    7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0,
+- activity: [31, 15, 28, 0, 2, 0, 1, 11, 4, 7, 7, 2, 2, 2, 3, 3, 0, 8, 0, 0, 0, 10,
+    6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -613,8 +613,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [1, 0, 4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 0, 6, 0, 3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 0, 0, 4, 1, 3, 5, 3, 0, 0, 0, 6,
+- activity: [1, 0, 4, 0, 0, 5, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    1, 2, 0, 6, 2, 1, 2, 5, 5, 4, 3, 6, 2, 0, 0, 0, 0, 4, 1, 8, 1, 2, 0, 0, 6, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1432,7 +1432,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 62,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 43,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 51,
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
@@ -1455,9 +1455,9 @@
   id: 46313726
   languages:
   - [R, 50336]
-  - [HTML, 34969]
+  - [HTML, 35255]
   - [CSS, 18277]
-  - [Python, 4429]
+  - [Python, 4288]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: R
@@ -1465,13 +1465,13 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-10T18:47:05Z'
+  pushed_at: '2016-02-10T19:04:44Z'
   short_name: school-modernization
-  size: 6132
+  size: 6139
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
-- activity: [2, 20, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+- activity: [12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
     0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
