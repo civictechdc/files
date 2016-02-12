@@ -613,8 +613,8 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [1, 0, 4, 0, 0, 5, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 2, 0, 6, 2, 1, 2, 5, 5, 4, 3, 6, 2, 0, 0, 0, 0, 4, 1, 8, 1, 2, 0, 0, 6, 0,
+- activity: [1, 2, 2, 0, 0, 5, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    2, 1, 4, 2, 3, 0, 7, 2, 3, 5, 2, 8, 0, 0, 0, 0, 1, 3, 1, 8, 2, 1, 0, 0, 6, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1432,7 +1432,7 @@
     thumbnail: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 65,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 68,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 51,
     link: 'https://github.com/samiam151', name: samiam151}
@@ -1467,9 +1467,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-11T01:40:14Z'
+  pushed_at: '2016-02-11T22:40:31Z'
   short_name: school-modernization
-  size: 6184
+  size: 6186
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [12, 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
