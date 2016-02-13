@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1453693213000, 
@@ -196,7 +196,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 164
+            "yes_rsvp_count": 165
+        }, 
+        {
+            "created": 1455331146000, 
+            "description": "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib application to tackle Kaggle Rossman Sales Competition - Dong Meng</i></p> <p>8:30 PM -- Post event drinks at Green Turtle</p> <p><b>Talks</b></p> <p><b>Build a Spark MLlib application to tackle <a href=\"https://www.kaggle.com/c/rossmann-store-sales\">Kaggle Rossman Sales Competition</a>\u00a0</b>Apache Spark is known to be a great distributed computing framework. Mllib,\u00a0which was built based on spark core, is a great tool for data scientists to analysis big data and scale the model up. We will use spark to build models pipeline on a dataset from Kaggle competition to show the use case in regression/time series.\u00a0</p> <p>Things we will cover are: spark, mllib, spark pipeline, spark SQL, spark dataframe. We will start with an ad-hoc analysis in spark-shell, and talk about how to build a spark application and launch the appplication in Yarn Client Mode.</p> <p><b>Speakers</b></p> <p><b><a href=\"https://www.linkedin.com/in/dong-meng-6b7a7b19\">Dong Meng</a></b> is a Data Scientist for MapR. He has several years of experience in machine learning, data mining, and big data software development. Previously, Dong was a senior data scientist for ADP, where he built a machine learning pipeline and data products to power ADP Analytics. Prior to ADP, Dong was a staff software engineer for SPSS, where he helped build formal watson analytics. During graduate study, he serves as research assistant at the Ohio State University, where he concentrated on compressive sensing and solving point estimation problems from a Bayesian perspective.</p> <p><br/><b>Company</b></p> <p><b><a href=\"http://www.mapr.com/\">MapR</a>\u00a0</b>provides the industry's only converged data platform that integrates the power of Hadoop and Spark with global event streaming, real-time database capabilities, and enterprise storage, enabling customers to harness the enormous power of their data. Organizations with the most demanding production needs, including sub-second response for fraud prevention, secure and highly available data-driven insights for better healthcare, petabyte analysis for threat detection, and integrated operational and analytic processing for improved customer experiences, run on MapR. A majority of customers achieves payback in fewer than 12 months and realizes greater than 5X ROI. MapR ensures customer success through world-class professional services and with free on-demand training that 50,000 developers, data analysts and administrators have used to close the big data skills gap. Amazon, Cisco, Google, HPE, Microsoft, SAP, and Teradata are part of the worldwide MapR partner ecosystem. Investors include Google Capital, Lightspeed Venture Partners, Mayfield Fund, NEA, Qualcomm Ventures and Redpoint Ventures. Connect with MapR on\u00a0<a href=\"http://www.linkedin.com/company/mapr-technologies\">LinkedIn</a>, and\u00a0<a href=\"http://twitter.com/mapr\">Twitter</a>.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/228819089/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "228819089", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tackling Kaggle with Spark MLlib", 
+            "rsvp_limit": 150, 
+            "status": "upcoming", 
+            "time": 1456183800000, 
+            "updated": 1455331206000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "8890 McGaw Rd #230", 
+                "city": "Columbia", 
+                "country": "us", 
+                "id": 23832486, 
+                "lat": 39.209999000000003, 
+                "lon": -76.879997000000003, 
+                "name": "Loyola Columbia", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "21044"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1454526149000, 
@@ -234,7 +274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 129
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1454252703000, 
@@ -298,7 +338,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1453691652000, 
@@ -337,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1454529221000, 
@@ -376,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1453727135000, 
@@ -453,7 +493,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 143
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1455043587000, 
@@ -546,7 +586,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1452612310000, 
@@ -573,7 +613,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
@@ -833,7 +873,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 139
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1446220217000, 
