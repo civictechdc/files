@@ -2704,7 +2704,7 @@ projects([
     }, 
     {
         "activity": [
-            6, 
+            2, 
             11, 
             2, 
             5, 
@@ -2714,8 +2714,8 @@ projects([
             0, 
             0, 
             0, 
-            26, 
-            39, 
+            43, 
+            22, 
             1, 
             0, 
             0, 
@@ -2729,8 +2729,8 @@ projects([
             0, 
             2, 
             0, 
-            2, 
-            6, 
+            7, 
+            1, 
             0, 
             0, 
             0, 
@@ -3553,10 +3553,10 @@ projects([
             0, 
             0, 
             0, 
-            95, 
-            57, 
+            104, 
+            50, 
             7, 
-            4, 
+            2, 
             1, 
             0, 
             1, 
@@ -3839,17 +3839,17 @@ projects([
             0, 
             16, 
             0, 
-            17, 
-            15, 
-            4, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
+            23, 
+            12, 
             1, 
-            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -4322,16 +4322,16 @@ projects([
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 30, 
+        "open_issues": 31, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-02-14T08:20:26Z", 
+        "pushed_at": "2016-02-14T18:40:32Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6546, 
+        "size": 6553, 
         "updated_at": "2016-01-12T04:21:15Z", 
         "watchers": 1
     }, 
@@ -4524,7 +4524,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 76, 
+                "contributions": 79, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4577,7 +4577,7 @@ projects([
         "languages": [
             [
                 "R", 
-                49937
+                56660
             ], 
             [
                 "HTML", 
@@ -4607,9 +4607,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-13T20:57:19Z", 
+        "pushed_at": "2016-02-14T18:55:35Z", 
         "short_name": "school-modernization", 
-        "size": 6068, 
+        "size": 6113, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
