@@ -563,8 +563,8 @@
     {
         "activity": [
             0, 
-            1, 
             2, 
+            1, 
             0, 
             0, 
             0, 
@@ -2704,9 +2704,9 @@
     }, 
     {
         "activity": [
-            2, 
-            11, 
-            2, 
+            10, 
+            5, 
+            0, 
             5, 
             0, 
             0, 
@@ -2714,8 +2714,8 @@
             0, 
             0, 
             0, 
-            43, 
-            22, 
+            45, 
+            20, 
             1, 
             0, 
             0, 
@@ -2729,8 +2729,8 @@
             0, 
             2, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -3553,9 +3553,9 @@
             0, 
             0, 
             0, 
-            104, 
-            50, 
-            7, 
+            107, 
+            49, 
+            5, 
             2, 
             1, 
             0, 
@@ -3839,8 +3839,8 @@
             0, 
             16, 
             0, 
-            23, 
-            12, 
+            25, 
+            10, 
             1, 
             0, 
             0, 
@@ -4235,9 +4235,15 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 120, 
+                "contributions": 121, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/14868930?v=3", 
+                "contributions": 18, 
+                "link": "https://github.com/ajohnson052", 
+                "name": "ajohnson052"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
@@ -4288,7 +4294,7 @@
                 "name": "RAGarza8"
             }
         ], 
-        "contributors_count": 9, 
+        "contributors_count": 10, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4300,11 +4306,11 @@
         "languages": [
             [
                 "HTML", 
-                46349
+                47200
             ], 
             [
                 "Ruby", 
-                43725
+                44610
             ], 
             [
                 "CSS", 
@@ -4322,16 +4328,16 @@
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 33, 
+        "open_issues": 30, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-02-14T23:54:49Z", 
+        "pushed_at": "2016-02-15T14:45:55Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6556, 
+        "size": 6563, 
         "updated_at": "2016-01-12T04:21:15Z", 
         "watchers": 1
     }, 
@@ -4607,9 +4613,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-15T03:47:07Z", 
+        "pushed_at": "2016-02-15T18:47:14Z", 
         "short_name": "school-modernization", 
-        "size": 6152, 
+        "size": 6156, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 

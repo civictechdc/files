@@ -177,7 +177,7 @@
   size: 72057
   updated_at: '2016-02-06T05:22:46Z'
   watchers: 31
-- activity: [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -832,8 +832,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [2, 11, 2, 5, 0, 0, 0, 0, 0, 0, 43, 22, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 2, 0, 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [10, 5, 0, 5, 0, 0, 0, 0, 0, 0, 45, 20, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1133,7 +1133,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 107, 49, 5, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 4, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1219,7 +1219,7 @@
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    16, 0, 23, 12, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+    16, 0, 25, 10, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     0, 0, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1337,8 +1337,10 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 120,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 121,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 18,
+    link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 18,
     link: 'https://github.com/mebates', name: mebates}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 16,
@@ -1355,7 +1357,7 @@
     link: 'https://github.com/kndllbrwn', name: kndllbrwn}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16469242?v=3', contributions: 1,
     link: 'https://github.com/RAGarza8', name: RAGarza8}
-  contributors_count: 9
+  contributors_count: 10
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
@@ -1365,20 +1367,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [HTML, 46349]
-  - [Ruby, 43725]
+  - [HTML, 47200]
+  - [Ruby, 44610]
   - [CSS, 23205]
   - [JavaScript, 693]
   - [CoffeeScript, 422]
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 33
+  open_issues: 30
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-14T23:54:49Z'
+  pushed_at: '2016-02-15T14:45:55Z'
   short_name: dcaf_case_management
-  size: 6556
+  size: 6563
   updated_at: '2016-01-12T04:21:15Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1467,9 +1469,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-15T03:47:07Z'
+  pushed_at: '2016-02-15T18:47:14Z'
   short_name: school-modernization
-  size: 6152
+  size: 6156
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
