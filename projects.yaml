@@ -1,5 +1,5 @@
-- activity: [17, 40, 0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7,
-    1, 9, 0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0,
+- activity: [15, 35, 0, 2, 0, 0, 11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7,
+    1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -95,7 +95,7 @@
   watchers: 28
 - activity: [0, 1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 0]
+    1, 2, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: contactus@ancfinder.org, name: ANC Finder, url: 'https://twitter.com/@ancfinder'}
@@ -260,9 +260,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [7, 4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7,
-    1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 4, 0, 1, 1,
-    0, 3, 0]
+- activity: [7, 6, 7, 3, 2, 9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2, 5,
+    1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1, 0,
+    3, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
@@ -329,7 +329,7 @@
   watchers: 21
 - activity: [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 5, 0]
+    5, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: ajschumacher@gmail.com, name: Aaron Schumacher, url: 'https://twitter.com/@planarrowspace'}
@@ -444,7 +444,7 @@
   size: 2743
   updated_at: '2016-02-01T15:36:10Z'
   watchers: 6
-- activity: [20, 1, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
+- activity: [21, 0, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -486,9 +486,9 @@
   size: 32313
   updated_at: '2015-12-21T02:10:58Z'
   watchers: 29
-- activity: [0, 8, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 8, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 2, 0]
+    1, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: rrbaker@gmail.com, name: Rob Baker, url: 'https://twitter.com/rrbaker'}
@@ -1378,9 +1378,9 @@
   open_issues: 30
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-15T14:45:55Z'
+  pushed_at: '2016-02-15T22:15:57Z'
   short_name: dcaf_case_management
-  size: 6563
+  size: 6565
   updated_at: '2016-01-12T04:21:15Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1411,8 +1411,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17,
-    23, 21, 13, 46]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 28, 23,
+    14, 27, 23, 43]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1469,9 +1469,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-15T18:47:14Z'
+  pushed_at: '2016-02-15T22:07:08Z'
   short_name: school-modernization
-  size: 6156
+  size: 6160
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

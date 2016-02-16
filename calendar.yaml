@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 other:
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -45,15 +45,22 @@ other:
     \ of Android experience (including none), but coding experience *is*preferred\
     \ as Android is not the friendliest way to learn how to code. \_***Please bring\
     \ your laptop to this event as computers will not be provided.***</p> <p>Meetup\
-    \ Format</p> <p><i>This week we will have a presentation/code along of Java for\
-    \ Android! Please make sure that you have Android Studio installed and working\
-    \ on your laptop before you arrive!\_</i>\_</p> <p>Building Access</p> <p>The\
-    \ management in certain buildings requires meetup hosts to let people in instead\
-    \ of relying on their security staff. \_ Please respect the policy in case the\
-    \ location requires access to the building. \_To gain access, contact the group\
-    \ lead if information is provided or drop a comment on the meetup page. We'll\
-    \ come get you.</p> <p>Resources</p> <p>Beginners should check out our\_<a href=\"\
-    https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
+    \ Format</p> <p>This week we will be doing an Android study group.We like to hold\
+    \ thes study groups to give people an opportunity to ask questions, learn how\
+    \ to get started, also learn how to keep going and gear you in the right direction.\
+    \ If you're new to android and need help that's okay we'll do our best to help\
+    \ you out and get you started. If you're not new to android and are looking for\
+    \ some projects to work on we can help you there as well. In addition we will\
+    \ also be doing a short talk on android code labs a pretty good resource for implementing\
+    \ cool functionality into your app. As always bring any questions on java or android\
+    \ and we'll do our best to help you out.</p> <p><i>6:30 - 7:00 : Introductions</i></p>\
+    \ <p><i>7:00 \_- 7:15: Mini Talk on Android Code Labs</i></p> <p><i>7:15 -8:30\
+    \ : Coding Awesomness</i></p> <p>Building Access</p> <p>The management in certain\
+    \ buildings requires meetup hosts to let people in instead of relying on their\
+    \ security staff. \_ Please respect the policy in case the location requires access\
+    \ to the building. \_To gain access, contact the group lead if information is\
+    \ provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p>\
+    \ <p>Beginners should check out our\_<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\"\
     >Android Getting Started Guide</a>. \_It's chock full of information to get you\
     \ up and running. \_It is a work in progress and we'll be adding as we go. Suggestions\
     \ welcomed!</p> <p>All Women Welcome\_</p> <p>This event is intended to be exclusively\
@@ -68,11 +75,11 @@ other:
   headcount: 0
   id: rjstplyvdbvb
   maybe_rsvp_count: 0
-  name: Android Hack Night
+  name: 'Android Hack Night: Overview Android Code Labs'
   rsvp_limit: 25
   status: upcoming
   time: 1455665400000
-  updated: 1454787831000
+  updated: 1455576220000
   utc_offset: -18000000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, lon: -77.033066000000005, name: Living Social, repinned: false,
@@ -112,7 +119,7 @@ other:
     lat: 38.897540999999997, lon: -77.027450999999999, name: Fiscal Note, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 3
   yes_rsvp_count: 50
 - created: 1453693213000
   description: "<p>New to Ruby? Know a little about Ruby but want to know more about\
@@ -171,7 +178,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1454510327000
   description: "<p>Join us for a series of short, fun and interesting lightning talks\
     \ about R and Python. Thank you so much for the folks at\_<a href=\"http://www.agencychief.com/\"\
@@ -189,11 +196,20 @@ other:
     \ science and data visualization at Georgetown University and Johns Hopkins University.\
     \ <a href=\"http://www.twitter.com/alexcengler\">www.twitter.com/alexcengler</a>\_\
     <a href=\"http://www.linkedin.com/in/alexcengler\">www.linkedin.com/in/alexcengler</a></p>\
-    \ <p><br/><b>Fatena El-Masri:</b> <i>title TBD</i></p> <p><b>Mike Jadoo:</b>\_\
-    <i>\"Geospatial\".</i>\_Mike is economist working in the data production side\
-    \ of the profession for 4 + years. He hosts a Meetup group called Statistical\
-    \ Seminars where he is promoting awareness about different statistical methods\
-    \ and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"\
+    \ <p><br/><b>Fatena El-Masri:</b> <i>\"Network-based Modeling of Complex Systems,\
+    \ with Applications to Cascading and Contagion Events in Networks\". </i>Fatena\
+    \ is a Senior Financial Analyst at FDIC, with many years of experience in financial\
+    \ engineering, applied statistics, and quantitative risk modeling and management\
+    \ (including market, credit and operational risk). For her Computational Science\
+    \ and Informatics PhD dissertation research at GMU, she used Python and agent-based\
+    \ models to study the stability of the banking network and to identify instability\
+    \ conditions for failing banks.<a href=\"https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386\"\
+    ><a href=\"https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386\" class=\"\
+    linkified\">https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386</a></a></p>\
+    \ <p><b>Mike Jadoo:</b>\_<i>\"Geospatial\".</i>\_Mike is economist working in\
+    \ the data production side of the profession for 4 + years. He hosts a Meetup\
+    \ group called Statistical Seminars where he is promoting awareness about different\
+    \ statistical methods and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"\
     ><a href=\"http://www.meetup.com/Statistical-seminars/\" class=\"linkified\">http://www.meetup.com/Statistical-seminars/</a></a>\
     \ <a href=\"http://economistmike.org/\"><a href=\"http://economistmike.org/\"\
     \ class=\"linkified\">http://economistmike.org/</a></a></p> <p><b>Mike Messner:</b>\
@@ -232,14 +248,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1455751800000
-  updated: 1454545380000
+  updated: 1455575702000
   utc_offset: -18000000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 24185893, lat: 38.908957999999998, lon: -77.042197999999999, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 183
+  yes_rsvp_count: 185
 - created: 1455468001000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -274,7 +290,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1455331146000
   description: "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\_</p>\
     \ <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib\
@@ -333,7 +349,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -399,7 +415,7 @@ other:
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 3
   yes_rsvp_count: 144
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -469,7 +485,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -505,7 +521,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 26
 - created: 1455403462000
   description: "<p>Instead of meeting at our regularly schedule Python meetup group,\_\
     let's all represent Women Who Code DC at the DCFemTech Inspire event! Inspire\
@@ -722,7 +738,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 152
+  yes_rsvp_count: 154
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -815,8 +831,11 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1456961400000
-  updated: 1446219481000
+  updated: 1455567575000
   utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 29
@@ -856,8 +875,11 @@ other:
   name: 'Ruby on Rails: First Timer''s Night!'
   status: upcoming
   time: 1456961400000
-  updated: 1452612358000
+  updated: 1455567549000
   utc_offset: -18000000
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, lon: -77.042061000000004, name: The Iron Yard DC, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 12
@@ -965,7 +987,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1219,13 +1241,13 @@ other:
   name: 'Ruby on Rails: Focus on Fundamentals'
   status: upcoming
   time: 1458167400000
-  updated: 1455416543000
+  updated: 1455565664000
   utc_offset: -14400000
   venue: {address_1: TBD, city: Washington, country: us, id: 24366078, lat: 38.907192000000002,
     lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 3
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
