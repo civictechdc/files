@@ -385,7 +385,7 @@
   watchers: 5
 - activity: [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 0]
+    3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: bloom@openreferral.org, name: Greg Bloom, url: 'https://twitter.com/@greggish'}
@@ -614,7 +614,7 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 0, 4, 1, 0, 8, 2, 1, 0, 0, 6, 0,
+    3, 0, 6, 0, 3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 0, 0, 4, 1, 3, 5, 3, 0, 0, 0, 6, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -883,9 +883,9 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [45, 47, 56, 22, 71, 19, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0,
+- activity: [59, 41, 49, 22, 78, 12, 1, 2, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0,
     0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 0]
+    0, 0, 2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: '', name: Emanuel Feld, url: 'https://twitter.com/@booksfordc'}
@@ -937,7 +937,7 @@
   size: 3569
   updated_at: '2016-02-01T04:45:02Z'
   watchers: 19
-- activity: [20, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [26, 14, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -974,8 +974,8 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [1, 3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26,
-    9, 6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0,
+- activity: [1, 3, 0, 3, 1, 0, 0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27,
+    10, 4, 15, 0, 7, 0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1097,7 +1097,7 @@
   size: 10014
   updated_at: '2016-02-11T05:58:45Z'
   watchers: 17
-- activity: [0, 34, 2, 19, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [2, 32, 2, 19, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1270,7 +1270,7 @@
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1300,7 +1300,7 @@
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
-    1, 11, 5]
+    2, 10, 5]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
   contributors:
@@ -1332,12 +1332,32 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 15, 0, 0, 9, 2, 12, 30, 11,
-    16, 8, 17, 9, 15]
+    0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8, 39, 2, 17,
+    9, 15, 10, 49]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json: null
+  civic_json:
+    contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
+    data: []
+    description: 'A Rails-based case management system for '
+    geography: [DC, District of Columbia, MD, Maryland, VA, Virginia]
+    homepage: http://casemanagerdemo.herokuapp.com
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    license: ''
+    links: []
+    name: DCAF Case Manager
+    partners:
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    - {email: '', name: Code for DC, url: 'http://codefordc.org'}
+    - {email: mollie.bates@gmail.com, name: Mollie Bates, url: ''}
+    - {email: andrea.dineen@gmail.com, name: Andrea Dineen, url: ''}
+    repository: https://github.com/colinxfleming/dcaf_case_manager
+    status: Alpha
+    tags: [Case Management, Nonprofit, Direct Service, Reproductive Rights, Abortion,
+      Healthcare]
+    thumbnail: ''
+    type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 121,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 143,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 18,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1367,24 +1387,24 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [HTML, 47200]
+  - [HTML, 46698]
   - [Ruby, 44610]
-  - [CSS, 23205]
+  - [CSS, 23553]
   - [JavaScript, 693]
   - [CoffeeScript, 422]
   license: null
   main_language: HTML
   name: DCAF Case Manager
-  open_issues: 30
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-15T22:15:57Z'
+  pushed_at: '2016-02-16T04:54:38Z'
   short_name: dcaf_case_management
-  size: 6565
+  size: 6571
   updated_at: '2016-01-12T04:21:15Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1436,7 +1456,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 79,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 66,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 71,
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
@@ -1459,8 +1479,8 @@
   id: 46313726
   languages:
   - [R, 56660]
-  - [HTML, 35899]
-  - [CSS, 19182]
+  - [HTML, 36126]
+  - [CSS, 19263]
   - [Python, 6016]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
@@ -1469,14 +1489,14 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-15T22:07:08Z'
+  pushed_at: '2016-02-16T05:20:02Z'
   short_name: school-modernization
-  size: 6160
+  size: 6168
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
-- activity: [19, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
-    0, 2, 0]
+- activity: [20, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+    2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: kalishmichael@gmail.com, name: Michael Kalish, url: ''}
@@ -1530,7 +1550,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 29, 26, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 29, 28, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}

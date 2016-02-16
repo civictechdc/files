@@ -1278,8 +1278,8 @@
             0, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             0
         ], 
         "ci": {
@@ -2004,26 +2004,26 @@
             0, 
             3, 
             0, 
-            4, 
+            6, 
+            0, 
+            3, 
             2, 
+            5, 
+            2, 
+            7, 
+            3, 
+            6, 
+            2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            4, 
+            1, 
+            3, 
+            5, 
             3, 
             0, 
-            7, 
-            2, 
-            7, 
-            1, 
-            8, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            4, 
-            1, 
-            0, 
-            8, 
-            2, 
-            1, 
             0, 
             0, 
             6, 
@@ -2858,17 +2858,17 @@
     }, 
     {
         "activity": [
-            45, 
-            47, 
-            56, 
+            59, 
+            41, 
+            49, 
             22, 
-            71, 
-            19, 
-            2, 
+            78, 
+            12, 
+            1, 
             2, 
             1, 
-            4, 
-            2, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2907,8 +2907,8 @@
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0
         ], 
         "ci": {
@@ -3013,8 +3013,8 @@
     }, 
     {
         "activity": [
-            20, 
-            20, 
+            26, 
+            14, 
             0, 
             1, 
             0, 
@@ -3142,40 +3142,40 @@
             3, 
             0, 
             3, 
-            0, 
             1, 
             0, 
             0, 
             0, 
             0, 
-            15, 
-            40, 
+            0, 
+            20, 
+            35, 
             36, 
             0, 
-            53, 
-            15, 
+            67, 
             1, 
+            1, 
+            4, 
+            25, 
             0, 
             27, 
-            2, 
-            26, 
-            9, 
-            6, 
+            10, 
+            4, 
             15, 
             0, 
             7, 
             0, 
             6, 
             0, 
-            42, 
-            38, 
+            70, 
+            10, 
             0, 
-            0, 
-            8, 
+            2, 
+            6, 
             3, 
+            2, 
+            8, 
             0, 
-            9, 
-            1, 
             13, 
             0, 
             0, 
@@ -3423,12 +3423,12 @@
     }, 
     {
         "activity": [
-            0, 
-            34, 
+            2, 
+            32, 
             2, 
             19, 
-            0, 
             7, 
+            0, 
             0, 
             0, 
             0, 
@@ -3989,9 +3989,9 @@
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4108,8 +4108,8 @@
             0, 
             0, 
             2, 
-            1, 
-            11, 
+            2, 
+            10, 
             5
         ], 
         "ci": {
@@ -4207,23 +4207,23 @@
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            0, 
-            13, 
+            6, 
+            4, 
+            6, 
+            7, 
             15, 
             0, 
             0, 
             9, 
-            2, 
-            12, 
-            30, 
-            11, 
-            16, 
+            6, 
             8, 
+            39, 
+            2, 
             17, 
             9, 
-            15
+            15, 
+            10, 
+            49
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4231,11 +4231,66 @@
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "contact": {
+                "email": "c3flemin@gmail.com", 
+                "name": "Colin Fleming", 
+                "url": "http://twitter.com/ridethecatbus"
+            }, 
+            "data": [], 
+            "description": "A Rails-based case management system for ", 
+            "geography": [
+                "DC", 
+                "District of Columbia", 
+                "MD", 
+                "Maryland", 
+                "VA", 
+                "Virginia"
+            ], 
+            "homepage": "http://casemanagerdemo.herokuapp.com", 
+            "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json", 
+            "license": "", 
+            "links": [], 
+            "name": "DCAF Case Manager", 
+            "partners": [
+                {
+                    "email": "", 
+                    "name": "Code for DC", 
+                    "url": "http://codefordc.org"
+                }, 
+                {
+                    "email": "", 
+                    "name": "Code for DC", 
+                    "url": "http://codefordc.org"
+                }, 
+                {
+                    "email": "mollie.bates@gmail.com", 
+                    "name": "Mollie Bates", 
+                    "url": ""
+                }, 
+                {
+                    "email": "andrea.dineen@gmail.com", 
+                    "name": "Andrea Dineen", 
+                    "url": ""
+                }
+            ], 
+            "repository": "https://github.com/colinxfleming/dcaf_case_manager", 
+            "status": "Alpha", 
+            "tags": [
+                "Case Management", 
+                "Nonprofit", 
+                "Direct Service", 
+                "Reproductive Rights", 
+                "Abortion", 
+                "Healthcare"
+            ], 
+            "thumbnail": "", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 121, 
+                "contributions": 143, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4306,7 +4361,7 @@
         "languages": [
             [
                 "HTML", 
-                47200
+                46698
             ], 
             [
                 "Ruby", 
@@ -4314,7 +4369,7 @@
             ], 
             [
                 "CSS", 
-                23205
+                23553
             ], 
             [
                 "JavaScript", 
@@ -4328,16 +4383,16 @@
         "license": null, 
         "main_language": "HTML", 
         "name": "DCAF Case Manager", 
-        "open_issues": 30, 
+        "open_issues": 25, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-02-15T22:15:57Z", 
+        "pushed_at": "2016-02-16T04:54:38Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6565, 
+        "size": 6571, 
         "updated_at": "2016-01-12T04:21:15Z", 
         "watchers": 1
     }, 
@@ -4386,8 +4441,8 @@
             0, 
             0, 
             1, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4536,7 +4591,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
-                "contributions": 66, 
+                "contributions": 71, 
                 "link": "https://github.com/samiam151", 
                 "name": "samiam151"
             }, 
@@ -4587,11 +4642,11 @@
             ], 
             [
                 "HTML", 
-                35899
+                36126
             ], 
             [
                 "CSS", 
-                19182
+                19263
             ], 
             [
                 "Python", 
@@ -4613,16 +4668,16 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-15T22:07:08Z", 
+        "pushed_at": "2016-02-16T05:20:02Z", 
         "short_name": "school-modernization", 
-        "size": 6160, 
+        "size": 6168, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
     {
         "activity": [
-            19, 
-            2, 
+            20, 
+            1, 
             1, 
             0, 
             0, 
@@ -4658,13 +4713,12 @@
             0, 
             0, 
             4, 
-            0, 
             1, 
             0, 
             0, 
             0, 
-            1, 
             0, 
+            1, 
             0, 
             0, 
             0, 
@@ -4672,6 +4726,7 @@
             0, 
             0, 
             2, 
+            0, 
             0
         ], 
         "ci": {
@@ -4795,8 +4850,8 @@
             0, 
             0, 
             29, 
-            26, 
             28, 
+            26, 
             0, 
             0, 
             0, 
