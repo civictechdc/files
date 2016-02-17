@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 57
 other:
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -86,7 +86,7 @@ other:
     state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 13
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -178,7 +178,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 12
 - created: 1454510327000
   description: "<p>Join us for a series of short, fun and interesting lightning talks\
     \ about R and Python. Thank you so much for the folks at\_<a href=\"http://www.agencychief.com/\"\
@@ -254,8 +254,8 @@ other:
     id: 24185893, lat: 38.908957999999998, lon: -77.042197999999999, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 196
+  waitlist_count: 5
+  yes_rsvp_count: 200
 - created: 1455468001000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -290,7 +290,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 - created: 1455331146000
   description: "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\_</p>\
     \ <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib\
@@ -349,7 +349,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 68
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -415,7 +415,7 @@ other:
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 11
   yes_rsvp_count: 144
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -456,6 +456,39 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1455656344000
+  description: "<p>This month we're going to venture into mapmaking with CartoDB,\
+    \ a web platform that lets us make some neat-looking and informative maps to use\
+    \ elsewhere on the internet. You've probably seen some of their maps on DCist\
+    \ or on other news sites.\_</p> <p><br/>We'll do a walk through of making our\
+    \ very own map, beginning with accessing the source data and creating a dataset\
+    \ within CartoDB, learn how to filter the data and consider different styling\
+    \ choices for our map, and take it through the publishing process. We'll also\
+    \ learn how to start from scratch and make our own original dataset for our map!\_\
+    </p> <p><br/>Sign up for a CartoDB account before Maptime here:\_<a href=\"https://cartodb.com/signup\"\
+    ><a href=\"https://cartodb.com/signup\" class=\"linkified\">https://cartodb.com/signup</a></a></p>\
+    \ <p>Explore what kind of maps you can make with CartoDB:\_<a href=\"https://cartodb.com/gallery/\"\
+    ><a href=\"https://cartodb.com/gallery/\" class=\"linkified\">https://cartodb.com/gallery/</a></a></p>\
+    \ <p>Please bring a laptop!\_</p>"
+  duration: 5400000
+  event_url: http://www.meetup.com/Maptime-DC/events/228901604/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '228901604'
+  maybe_rsvp_count: 0
+  name: Introduction to CartoDB
+  rsvp_limit: 60
+  status: upcoming
+  time: 1456270200000
+  updated: 1455656863000
+  utc_offset: -18000000
+  venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
+    lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 33
 - created: 1455056568000
   description: <p>With tens of thousands of datasets ranging from satellite imagery
     to material standards to demographic surveys, the U.S. Department of Commerce
@@ -485,7 +518,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 69
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -738,7 +771,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 162
+  yes_rsvp_count: 170
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -767,7 +800,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -903,7 +936,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -987,7 +1020,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1026,7 +1059,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
