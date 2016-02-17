@@ -2042,7 +2042,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 64, 
+                "contributions": 65, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2059,16 +2059,16 @@
                 "name": "JoshData"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/jkoul", 
+                "name": "jkoul"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/mchelen", 
                 "name": "mchelen"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/jkoul", 
-                "name": "jkoul"
             }
         ], 
         "contributors_count": 5, 
@@ -2132,9 +2132,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-01-26T02:51:14Z", 
+        "pushed_at": "2016-02-17T11:54:55Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 41904, 
+        "size": 42013, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
@@ -3013,8 +3013,8 @@
     }, 
     {
         "activity": [
-            26, 
-            14, 
+            28, 
+            12, 
             0, 
             1, 
             0, 
@@ -4209,21 +4209,21 @@
             0, 
             6, 
             4, 
+            13, 
+            9, 
             6, 
+            0, 
             7, 
-            15, 
-            0, 
-            0, 
-            9, 
-            6, 
-            8, 
-            39, 
             2, 
-            17, 
-            9, 
-            15, 
+            11, 
+            4, 
+            40, 
+            7, 
             10, 
-            49
+            20, 
+            4, 
+            21, 
+            44
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4525,20 +4525,20 @@
             0, 
             0, 
             0, 
-            0, 
-            3, 
-            0, 
+            1, 
+            2, 
             0, 
             4, 
             0, 
-            10, 
+            2, 
+            8, 
             12, 
             28, 
+            24, 
+            17, 
             23, 
-            14, 
             27, 
-            23, 
-            43
+            48
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4668,9 +4668,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-16T22:42:51Z", 
+        "pushed_at": "2016-02-17T02:57:33Z", 
         "short_name": "school-modernization", 
-        "size": 6237, 
+        "size": 7418, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
@@ -4849,9 +4849,9 @@
             0, 
             0, 
             0, 
-            29, 
-            28, 
-            26, 
+            40, 
+            22, 
+            21, 
             0, 
             0, 
             0, 
@@ -5127,8 +5127,8 @@
             0, 
             0, 
             0, 
-            0, 
-            5
+            5, 
+            0
         ], 
         "ci": {
             "codeclimate": false, 

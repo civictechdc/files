@@ -37,50 +37,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 68
         }
     ], 
     "other": [
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p>This week we will be doing an Android study group.We like to hold thes study groups to give people an opportunity to ask questions, learn how to get started, also learn how to keep going and gear you in the right direction. If you're new to android and need help that's okay we'll do our best to help you out and get you started. If you're not new to android and are looking for some projects to work on we can help you there as well. In addition we will also be doing a short talk on android code labs a pretty good resource for implementing cool functionality into your app. As always bring any questions on java or android and we'll do our best to help you out.</p> <p><i>6:30 - 7:00 : Introductions</i></p> <p><i>7:00 \u00a0- 7:15: Mini Talk on Android Code Labs</i></p> <p><i>7:15 -8:30 : Coding Awesomness</i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228612728/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rjstplyvdbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night: Overview Android Code Labs", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1455665400000, 
-            "updated": 1455576220000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
         {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p><b>There will be a presentation for this event on What is Django?</b></p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -118,8 +78,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
-            "yes_rsvp_count": 50
+            "waitlist_count": 5, 
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1453693213000, 
@@ -157,7 +117,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1454510327000, 
@@ -236,7 +196,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1455331146000, 
@@ -276,7 +236,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1454526149000, 
@@ -313,7 +273,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 144
         }, 
         {
@@ -381,7 +341,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1455056568000, 
@@ -417,7 +377,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1453691652000, 
@@ -612,7 +572,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 170
+            "yes_rsvp_count": 171
         }, 
         {
             "created": 1455043587000, 
@@ -792,7 +752,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1451511271000, 
@@ -1014,7 +974,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 143
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1455416543000, 
@@ -1316,6 +1276,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1460586600000, 
+            "updated": 1454624061000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
