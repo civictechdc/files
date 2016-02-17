@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 72
         }
     ], 
     "other": [
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 5, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1453693213000, 
@@ -117,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1454510327000, 
@@ -155,7 +155,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 200
         }, 
         {
@@ -196,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1455331146000, 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1454526149000, 
@@ -273,8 +273,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
-            "yes_rsvp_count": 144
+            "waitlist_count": 16, 
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1454252703000, 
@@ -341,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1455056568000, 
@@ -377,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1453691652000, 
@@ -456,7 +456,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1454529221000, 
@@ -534,7 +534,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1454948077000, 
@@ -572,7 +572,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 171
+            "yes_rsvp_count": 176
         }, 
         {
             "created": 1455043587000, 
@@ -609,7 +609,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1454252703000, 
@@ -752,7 +752,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1451511271000, 
@@ -789,7 +789,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1453051773000, 
@@ -827,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1454252703000, 
@@ -974,7 +974,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1455416543000, 
@@ -1044,7 +1044,7 @@ calendar({
         }, 
         {
             "created": 1455036704000, 
-            "description": "<p>Interested in learning how to program in Go? Come to this tech talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p>", 
+            "description": "<p>Interested in learning how to program in Go? Come to this tech talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p> <p>\n\n\n\u2022 installing go, setting up paths and a \"workspace\"</p> <p>\u2022 overview of typical go development workflow with the go build tool</p> <p><br/>\u2022 introduction to go syntax</p> <p><br/>\u2022 building a hello world web service in go</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228727805/", 
             "group": {
                 "created": 1395616294000, 
@@ -1062,7 +1062,7 @@ calendar({
             "name": "Tech Talk - Intro to the Go programming language!", 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1455036868000, 
+            "updated": 1455725657000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "TBD", 
@@ -1077,7 +1077,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1454252703000, 
@@ -1145,7 +1145,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1452612310000, 
