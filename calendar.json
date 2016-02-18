@@ -42,123 +42,6 @@
     ], 
     "other": [
         {
-            "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p><b>There will be a presentation for this event on What is Django?</b></p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226486818/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Near Metro Center Station", 
-            "id": "gcxvllyvdbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - What is Django?", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1455751800000, 
-            "updated": 1455059604000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1155 F Street NW Suite 475", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24145195, 
-                "lat": 38.897540999999997, 
-                "lon": -77.027450999999999, 
-                "name": "Fiscal Note", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 39
-        }, 
-        {
-            "created": 1453693213000, 
-            "description": "<p>New to Ruby? Know a little about Ruby but want to know more about how to \"design\" and organize your code? Come hang out and get ideas on how you can write better code, based on Sandi Metz's <a href=\"http://www.poodr.com/\">Practical Object-Oriented Design in Ruby</a>. We'll explore the popular concept \"Don't Repeat Yourself\" and why that might not always be the best go-to, what \"Abstraction\" means and where the tipping point is, as well as introduce concepts such as the \"Single Responsibility Principle\".\u00a0</p> <p>We encourage every range of skill level to come and attend!</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Write Now, Abstract Later: POODR in Real Life\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228338943/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "228338943", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: \"Write Now, Abstract Later: POODR in Real Life\"", 
-            "status": "upcoming", 
-            "time": 1455751800000, 
-            "updated": 1454966267000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1454510327000, 
-            "description": "<p>Join us for a series of short, fun and interesting lightning talks about R and Python. Thank you so much for the folks at\u00a0<a href=\"http://www.agencychief.com/\">CHIEF</a>\u00a0for hosting us.\u00a0</p> <p>Chief is one block away from Dupont Circle on Mass Ave. Please RSVP if you are attending for estimating food and for access: we need to provide an attendee list to building security. There is parking in the building at a reduced rate using <a href=\"http://www.spothero.com\">Spothero</a> or <a href=\"http://www.parkingpanda.com\">Parking Panda</a> ($7).</p> <p>6:30 - 7:00 Eat, drink and mingle<br/>7:00 - 7:15 \u00a0Intros &amp; Announcements<br/>7:15 - 8:30ish Talks<br/>Afterwards, off to data drinks.<br/>Note: we need to vacate by 8:45pm</p> <p><b>Talks (in no particular order):</b></p> <p><br/><b>Alex Engler</b>: <i>\"Setting up an approachable/elastic spark environment\"</i>\u00a0. Alex is a Data Scientist at the Urban Institute, working on big data and modeling for social science and public policy research. He also teaches courses on data science and data visualization at Georgetown University and Johns Hopkins University. <a href=\"http://www.twitter.com/alexcengler\">www.twitter.com/alexcengler</a>\u00a0<a href=\"http://www.linkedin.com/in/alexcengler\">www.linkedin.com/in/alexcengler</a></p> <p><br/><b>Fatena El-Masri:</b> <i>\"Network-based Modeling of Complex Systems, with Applications to Cascading and Contagion Events in Networks\". </i>Fatena is a Senior Financial Analyst at FDIC, with many years of experience in financial engineering, applied statistics, and quantitative risk modeling and management (including market, credit and operational risk). For her Computational Science and Informatics PhD dissertation research at GMU, she used Python and agent-based models to study the stability of the banking network and to identify instability conditions for failing banks.<a href=\"https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386\"><a href=\"https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386\" class=\"linkified\">https://www.linkedin.com/in/fatena-el-masri-ph-d-7090386</a></a></p> <p><b>Mike Jadoo:</b>\u00a0<i>\"Geospatial\".</i>\u00a0Mike is economist working in the data production side of the profession for 4 + years. He hosts a Meetup group called Statistical Seminars where he is promoting awareness about different statistical methods and how to create them in R. <a href=\"http://www.meetup.com/Statistical-seminars/\"><a href=\"http://www.meetup.com/Statistical-seminars/\" class=\"linkified\">http://www.meetup.com/Statistical-seminars/</a></a> <a href=\"http://economistmike.org/\"><a href=\"http://economistmike.org/\" class=\"linkified\">http://economistmike.org/</a></a></p> <p><b>Mike Messner:</b> <i>\"Beyond Open Data: Open Uncertainty?\"</i>\u00a0Mike is a mathematical statistician with the Environmental Protection Agency. \u00a0A recipient of ASA\u2019s Herriot Award for Innovation in Federal Statistics, he uses R for everything from modeling contaminants in drinking water to carving violins.</p> <p><b>Josh Merrell:</b> <i>rChess</i>\u00a0</p> <p><b>Elizabeth Byerly:</b> <i>\"Quick PSOCK clusters on AWS and RStudio Server\".</i>\u00a0Elizabeth works as a Data Systems Architect, building systems for computationally intensive analysis at a statistical consulting firm.\u00a0<a href=\"http://www.twitter.com/ByerlyElizabeth\">www.twitter.com/ByerlyElizabeth</a>\u00a0<a href=\"http://www.github.com/ElizabethAB\">www.github.com/ElizabethAB</a></p> <p><b>Nathan Teetor:</b> <i>\"Web Frameworks for R\".\u00a0</i>Nate is a software engineer at Morning Consult and an R enthusiast. He enjoys cooking up new R ideas, cooking up new foods, and is searching for the perfect combination of the two.\u00a0<a href=\"http://www.github.com/nteetor\">www.github.com/nteetor</a>\u00a0<a href=\"http://www.linkedin.com/in/nteetor\">www.linkedin.com/in/nteetor</a>\u00a0<a href=\"http://www.twitter.com/ntweetor\">www.twitter.com/ntweetor</a></p> <p><b>David Kretch:</b> <i>\"Multilevel Models\".</i>\u00a0David is a data scientist at Summit Consulting where he works on statistical modeling and machine learning projects. His statistical computing environment of choice is R, but he is attempting to acquire a taste for other languages.\u00a0<a href=\"https://www.linkedin.com/in/davidkretch\"><a href=\"https://www.linkedin.com/in/davidkretch\" class=\"linkified\">https://www.linkedin.com/in/davidkretch</a></a>\u00a0<a href=\"https://twitter.com/davidkretch\"><a href=\"https://twitter.com/davidkretch\" class=\"linkified\">https://twitter.com/davidkretch</a></a>\u00a0<a href=\"https://github.com/davidkretch\"><a href=\"https://github.com/davidkretch\" class=\"linkified\">https://github.com/davidkretch</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/228579526/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "228579526", 
-            "maybe_rsvp_count": 0, 
-            "name": "Lightning Talks - Feb. 2016 Edition", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1455751800000, 
-            "updated": 1455575702000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 6, 
-            "yes_rsvp_count": 193
-        }, 
-        {
             "created": 1455468001000, 
             "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>- Dinner</p> <p>- Warmup Exercise for 10-15 min</p> <p>- Work on the following problems -\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/\"><a href=\"http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/\" class=\"linkified\">http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/</a></a></p> <p>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/coin-change\"><a href=\"https://www.hackerrank.com/challenges/coin-change\" class=\"linkified\">https://www.hackerrank.com/challenges/coin-change</a></a></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -234,7 +117,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1455331146000, 
@@ -311,7 +194,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 24, 
             "yes_rsvp_count": 145
         }, 
         {
@@ -340,7 +223,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1455656344000, 
@@ -378,8 +261,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "waitlist_count": 9, 
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1455056568000, 
@@ -415,7 +298,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1453691652000, 
@@ -454,12 +337,12 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1455403462000, 
-            "description": "<p>Instead of meeting at our regularly schedule Python meetup group,\u00a0let's all represent Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event of its kind event to unabashedly\u00a0celebrate the success of women in the DC tech community.\u00a0We'll join DCFemTech to share and celebrate your accomplishments, large and small.</p> <p>Register: <a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\"><a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\" class=\"linkified\">https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082</a></a></p> <p>. <b>About Python Meetup Group</b> We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p>\n\n(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 266400000, 
+            "description": "<p>Instead of meeting at our regularly schedule Python meetup group,\u00a0let's all represent Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event of its kind event to unabashedly\u00a0celebrate the success of women in the DC tech community.\u00a0We'll join DCFemTech to share and celebrate your accomplishments, large and small.</p> <p>Register: <a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\"><a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\" class=\"linkified\">https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082</a></a></p> <p>.</p> <p><b>About Python Meetup Group</b></p> <p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p>\n\n(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228834179/", 
             "group": {
                 "created": 1395616294000, 
@@ -479,7 +362,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1456356600000, 
-            "updated": 1455403462000, 
+            "updated": 1455758041000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1424 K ST NW #300", 
@@ -494,7 +377,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1454529221000, 
@@ -599,7 +482,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1454948077000, 
@@ -674,7 +557,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1454252703000, 
@@ -741,7 +624,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1452612310000, 
@@ -779,7 +662,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 
@@ -892,7 +775,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1454252703000, 
@@ -1109,7 +992,7 @@
         }, 
         {
             "created": 1455036704000, 
-            "description": "<p>Interested in learning how to program in Go? Come to this tech talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p> <p>\n\n\n\u2022 installing go, setting up paths and a \"workspace\"</p> <p>\u2022 overview of typical go development workflow with the go build tool</p> <p><br/>\u2022 introduction to go syntax</p> <p><br/>\u2022 building a hello world web service in go</p>", 
+            "description": "<p>Interested in learning how to program in Go? Come to this tech talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p> <p>\n\n\n\u2022 installing go, setting up paths and a \"workspace\"</p> <p>\u2022 overview of typical go development workflow with the go build tool</p> <p><br/>\u2022 introduction to go syntax</p> <p><br/>\u2022 building a hello world web service in go\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/c/e/7/600_446967879.jpeg\" /></p> <p>gopher by Renee French :D</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228727805/", 
             "group": {
                 "created": 1395616294000, 
@@ -1127,7 +1010,7 @@
             "name": "Tech Talk - Intro to the Go programming language!", 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1455725657000, 
+            "updated": 1455760738000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "TBD", 
@@ -1211,6 +1094,33 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228357769/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvgbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: First Timer's Night!", 
+            "status": "upcoming", 
+            "time": 1459981800000, 
+            "updated": 1452612358000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1446219481000, 
@@ -1314,6 +1224,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1460586600000, 
+            "updated": 1454624061000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
