@@ -36,7 +36,7 @@ codefordc:
     id: 23752411, lat: 0, lon: 0, name: Impact Hub DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 other:
 - created: 1455468001000
   description: "<p>Interested in sharpening your problem solving skills and learning\
@@ -106,16 +106,17 @@ other:
   id: '228929012'
   maybe_rsvp_count: 0
   name: Front End Hack Night
+  rsvp_limit: 40
   status: upcoming
   time: 1456183800000
-  updated: 1455742857000
+  updated: 1455812705000
   utc_offset: -18000000
   venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
     id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 19
 - created: 1455331146000
   description: "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\_</p>\
     \ <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib\
@@ -174,7 +175,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -312,20 +313,24 @@ other:
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 14
   yes_rsvp_count: 60
 - created: 1455056568000
-  description: <p>With tens of thousands of datasets ranging from satellite imagery
-    to material standards to demographic surveys, the U.S. Department of Commerce
-    has long been in the business of Open Data. Through the Commerce Data Usability
-    Project, go on a series of guided tours through the Commerce data lake and learn
-    how you can leverage this free and open data to unlock the possible.</p> <p>Open
-    data is just the first step to opening up knowledge, and here at the U.S. Department
-    of Commerce, we believe that contextualization and illumination are a critical
-    part of data delivery. Ready to build the next big thing? Get off to a running
-    start with tutorials that will walk you through each phase of the data discovery
-    process, from initial data touch through preprocessing, joining, analysis and
-    visualization.</p> <p><a href="https://www.commerce.gov/datausability/" class="linkified">https://www.commerce.gov/datausability/</a></p>
+  description: "<p>With tens of thousands of datasets ranging from satellite imagery\
+    \ to material standards to demographic surveys, the U.S. Department of Commerce\
+    \ has long been in the business of Open Data. Through the Commerce Data Usability\
+    \ Project, go on a series of guided tours through the Commerce data lake and learn\
+    \ how you can leverage this free and open data to unlock the possible.</p> <p>Open\
+    \ data is just the first step to opening up knowledge, and the U.S. Department\
+    \ of Commerce believes that contextualization and illumination are a critical\
+    \ part of data delivery. Ready to build the next big thing? Get off to a running\
+    \ start with tutorials that will walk you through each phase of the data discovery\
+    \ process, from initial data touch through preprocessing, joining, analysis and\
+    \ visualization.</p> <p><a href=\"https://www.commerce.gov/datausability/\" class=\"\
+    linkified\">https://www.commerce.gov/datausability/</a></p> <p><b>Agenda:</b></p>\
+    \ <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p>\
+    \ <p>6:40PM - 7:30PM Speaker presentation</p> <p>7:30PM - 8:00PM Audience Q &amp;\
+    \ A</p> <p>8:00PM - \_ Data drinks</p>"
   event_url: http://www.meetup.com/Data-Business-DC/events/228735636/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Business-DC,
@@ -336,7 +341,7 @@ other:
   name: Exploring the Commerce Data Lake
   status: upcoming
   time: 1456354800000
-  updated: 1455056636000
+  updated: 1455806259000
   utc_offset: -18000000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, lon: -77.020995999999997, name: Georgetown University
@@ -419,7 +424,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1454529221000
   description: "<p><b>Please RSVP here:</b>\_<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\"\
@@ -516,9 +521,10 @@ other:
   id: '228929042'
   maybe_rsvp_count: 0
   name: Front End Hack Night
+  rsvp_limit: 50
   status: upcoming
   time: 1456788600000
-  updated: 1455742958000
+  updated: 1455811107000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -636,7 +642,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 182
+  yes_rsvp_count: 187
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -736,7 +742,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -833,7 +839,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -888,7 +894,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -956,7 +962,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1177,7 +1183,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1455036704000
   description: "<p>Interested in learning how to program in Go? Come to this tech\
     \ talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p>\
@@ -1455,7 +1461,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
