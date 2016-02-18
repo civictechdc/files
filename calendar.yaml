@@ -71,7 +71,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 5
-  yes_rsvp_count: 48
+  yes_rsvp_count: 39
 - created: 1453693213000
   description: "<p>New to Ruby? Know a little about Ruby but want to know more about\
     \ how to \"design\" and organize your code? Come hang out and get ideas on how\
@@ -129,7 +129,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1454510327000
   description: "<p>Join us for a series of short, fun and interesting lightning talks\
     \ about R and Python. Thank you so much for the folks at\_<a href=\"http://www.agencychief.com/\"\
@@ -205,8 +205,8 @@ other:
     id: 24185893, lat: 38.908957999999998, lon: -77.042197999999999, name: CHIEF,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
-  yes_rsvp_count: 200
+  waitlist_count: 6
+  yes_rsvp_count: 193
 - created: 1455468001000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -242,6 +242,49 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 31
+- created: 1455742857000
+  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
+    \ together and help each other learn and understand web development. We welcome\
+    \ devs of all levels and encourage those with more experience to help out those\
+    \ that are just starting. There's always at least one mentor or leader present\
+    \ to help you with best practices or to guide you through if you are stuck with\
+    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
+    \ please bring your laptop. Extra computers will not be available at the event.\
+    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
+    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
+    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
+    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
+    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
+    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
+    >http://bit.ly/first-timers-guide</a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\"\
+    \ class=\"linkified\">http://bit.ly/html-study-guide</a> \u2022 JavaScript Study\
+    \ Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\
+    \ Building Access</p> <p>Certain building management companies require Meetup\
+    \ hosts to let people in and do not encourage them being contacted. Please respect\
+    \ the policy. In case the location requires access to the building, contact the\
+    \ group lead if information is provided or drop a comment on the Meetup page.\
+    \ We'll come and get you.</p> <p>Welcome This event is intended to be exclusively\
+    \ open for women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228929012/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '228929012'
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  status: upcoming
+  time: 1456183800000
+  updated: 1455742857000
+  utc_offset: -18000000
+  venue: {address_1: '1150 17th Street NW, Ste 200', city: Washington, country: us,
+    id: 23263162, lat: 38.905338, lon: -77.039008999999993, name: Socrata Office (2nd
+      Floor), repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 11
 - created: 1455331146000
   description: "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\_</p>\
     \ <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib\
@@ -300,7 +343,7 @@ other:
     state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
@@ -366,7 +409,7 @@ other:
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 16
+  waitlist_count: 18
   yes_rsvp_count: 145
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -406,7 +449,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1455656344000
   description: "<p>This month we're going to venture into mapmaking with CartoDB,\
     \ a web platform that lets us make some neat-looking and informative maps to use\
@@ -439,7 +482,7 @@ other:
     lon: 0, name: MLK Library Dream Lab, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 57
 - created: 1455056568000
   description: <p>With tens of thousands of datasets ranging from satellite imagery
     to material standards to demographic surveys, the U.S. Department of Commerce
@@ -469,7 +512,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 89
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -609,6 +652,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 34
+- created: 1455742958000
+  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
+    \ together and help each other learn and understand web development. We welcome\
+    \ devs of all levels and encourage those with more experience to help out those\
+    \ that are just starting. There's always at least one mentor or leader present\
+    \ to help you with best practices or to guide you through if you are stuck with\
+    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
+    \ please bring your laptop. Extra computers will not be available at the event.\
+    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
+    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
+    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
+    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
+    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
+    \ Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\"\
+    >http://bit.ly/first-timers-guide</a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\"\
+    \ class=\"linkified\">http://bit.ly/html-study-guide</a> \u2022 JavaScript Study\
+    \ Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a>\
+    \ Building Access</p> <p>Certain building management companies require Meetup\
+    \ hosts to let people in and do not encourage them being contacted. Please respect\
+    \ the policy. In case the location requires access to the building, contact the\
+    \ group lead if information is provided or drop a comment on the Meetup page.\
+    \ We'll come and get you.</p> <p>Welcome This event is intended to be exclusively\
+    \ open for women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228929042/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '228929042'
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  status: upcoming
+  time: 1456788600000
+  updated: 1455742958000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 6
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -722,7 +805,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 176
+  yes_rsvp_count: 182
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -751,7 +834,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 60
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -822,7 +905,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 43
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -866,7 +949,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 20
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -887,7 +970,7 @@ other:
     lon: -77.037186000000005, name: Local 16, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -919,7 +1002,7 @@ other:
     lon: -77.022223999999994, name: WeWork Chinatown, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -941,8 +1024,11 @@ other:
     \ will talk about how he stitched together the <a href=\"http://dcbikemap.com/\"\
     >DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a>\
     \ of the\_<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.</p>\
-    \ <p><br/>See what was presented at previous events:\_<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\"\
-    >Bike Hack Night I</a>,\_<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
+    \ <p><br/>\u2022\_Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\"\
+    >District Ninja</a> will dive into DC's open data to build maps and dataviz about\
+    \ bicycle safety.</p> <p><br/>See what was presented at previous events:\_<a href=\"\
+    http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night\
+    \ I</a>,\_<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\"\
     >Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\"\
     >Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\"\
     >Bike Hack Night IV</a>.\_Read more at\_<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\"\
@@ -964,14 +1050,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1457479800000
-  updated: 1454949269000
+  updated: 1455751975000
   utc_offset: -18000000
   venue: {address_1: 641 S street NW, city: Washington, country: us, id: 20010852,
     lat: 38.914551000000003, lon: -77.021095000000003, name: WeWork Wonder Bread Factory,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1058,7 +1144,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1178,7 +1264,7 @@ other:
       School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 155
+  yes_rsvp_count: 158
 - created: 1455416543000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -1231,7 +1317,7 @@ other:
     lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1367,47 +1453,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
-- created: 1452612310000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR)\
-    \ Study Group. This event is intended for those new to programming and/or ROR\
-    \ (but we welcome people of all levels to attend and help out)! The agenda will\
-    \ include a lecture that covers Ruby and Rails and an installfest to help you\
-    \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
-    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
-    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
-    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
-    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228357769/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: cjdtnlyvgbjb
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails: First Timer''s Night!'
-  status: upcoming
-  time: 1459981800000
-  updated: 1452612358000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1490,35 +1535,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1446220149000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228745416/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: bcxvllyvgbrb
-  maybe_rsvp_count: 0
-  name: Python - Hack Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1460586600000
-  updated: 1454624061000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 2
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"

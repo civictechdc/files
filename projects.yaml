@@ -1133,7 +1133,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 28, 82, 46, 6, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 4,
+- activity: [0, 0, 0, 0, 0, 0, 0, 53, 79, 26, 4, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 4, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1218,8 +1218,8 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+    14, 0, 28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
     2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1398,7 +1398,7 @@
   open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-16T15:36:56Z'
+  pushed_at: '2016-02-17T23:39:30Z'
   short_name: dcaf_case_management
   size: 6571
   updated_at: '2016-01-12T04:21:15Z'
