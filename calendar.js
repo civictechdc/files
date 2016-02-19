@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1455331146000, 
@@ -158,7 +158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1454526149000, 
@@ -178,10 +178,10 @@ calendar({
             "id": "228585705", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night IV", 
-            "rsvp_limit": 144, 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1455463769000, 
+            "updated": 1455904658000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -195,8 +195,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
-            "yes_rsvp_count": 145
+            "waitlist_count": 24, 
+            "yes_rsvp_count": 150
         }, 
         {
             "created": 1454252703000, 
@@ -224,7 +224,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1455656344000, 
@@ -299,7 +299,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1453691652000, 
@@ -522,7 +522,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 190
+            "yes_rsvp_count": 193
         }, 
         {
             "created": 1455043587000, 
@@ -559,7 +559,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1454252703000, 
@@ -664,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -777,7 +777,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1454252703000, 
@@ -924,7 +924,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 161
+            "yes_rsvp_count": 162
         }, 
         {
             "created": 1455416543000, 
@@ -1150,7 +1150,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
