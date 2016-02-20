@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 78
         }
     ], 
     "other": [
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1455331146000, 
@@ -196,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 24, 
-            "yes_rsvp_count": 150
+            "yes_rsvp_count": 151
         }, 
         {
             "created": 1454252703000, 
@@ -263,7 +263,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 15, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1455056568000, 
@@ -338,7 +338,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1455403462000, 
@@ -417,7 +417,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1453727135000, 
@@ -484,7 +484,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1454948077000, 
@@ -522,7 +522,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 193
+            "yes_rsvp_count": 194
         }, 
         {
             "created": 1455043587000, 
@@ -559,7 +559,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1454252703000, 
@@ -861,6 +861,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 42
+        }, 
+        {
+            "created": 1455927414000, 
+            "description": "<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP on the PyDataDC event page</p> <p><a href=\"http://www.meetup.com/PyDataDC/events/228980787/\"><a href=\"http://www.meetup.com/PyDataDC/events/228980787/\" class=\"linkified\">http://www.meetup.com/PyDataDC/events/228980787/</a></a></p> <p>to get an accurate count for food and drinks. FYI - The RSVP limit here is 0 (zero). Thank You.</p> <p><br/>Please join us in this special SPDC event to kick off the PyData DC meetup launch with Travis Oliphant, the Co-Founder and CEO of Continuum Analytics. Travis will be speaking about Scaling Up and Scaling Out PyData.</p> <p><br/>Travis has a Ph.D. from the Mayo Clinic and B.S. and M.S. degrees in Mathematics and Electrical Engineering from Brigham Young University. Since 1997, he has worked extensively with Python for numerical and scientific programming, most notably as the primary developer of the NumPy package, and as a founding contributor of the SciPy package. He is also the author of the definitive Guide to NumPy.</p> <p><br/>You can read more about Travis and Continuum here:</p> <p><a href=\"https://www.continuum.io/people/travis-oliphant\"><a href=\"https://www.continuum.io/people/travis-oliphant\" class=\"linkified\">https://www.continuum.io/people/travis-oliphant</a></a></p> <p><br/>We hope you can attend this exciting event! Please RSVP so we can plan accordingly.</p> <p><br/>Note NumFOCUS and Capital One are sponsoring this event. If you are interested in sponsoring future events or have suggestions please get in touch with us either through meetup or on twitter @PyDataDC</p> <p><a href=\"https://twitter.com/PyDataDC\"><a href=\"https://twitter.com/PyDataDC\" class=\"linkified\">https://twitter.com/PyDataDC</a></a></p> <p><br/>Agenda</p> <p>6:30 - 7:00 - Mingle and Eat</p> <p>7:00 - 7:15 - Intros and Announcements</p> <p>7:15 - 8:30 - Presentation, Q&amp;A</p> <p>8:30ish - Data Drinks (TBD)</p>", 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/228986029/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "228986029", 
+            "maybe_rsvp_count": 0, 
+            "name": "Scaling Up and Scaling Out PyData", 
+            "rsvp_limit": 3, 
+            "status": "upcoming", 
+            "time": 1457652600000, 
+            "updated": 1455927494000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 12, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1454252703000, 
