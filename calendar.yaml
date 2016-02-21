@@ -72,7 +72,7 @@ other:
       Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1455742857000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -116,7 +116,7 @@ other:
       Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 - created: 1455331146000
   description: "<p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\_</p>\
     \ <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Build a Spark MLlib\
@@ -179,15 +179,17 @@ other:
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
-    \ We'll be on the first floor; be sure to bring an ID in order to enter the building.\
-    \ Doors open at 6:00, with food thanks to our awesome sponsors at <a href=\"https://www.socrata.com/\"\
-    >Socrata</a>. The presentations start at 6:30. Our presenters are:</p> <p>\u2022\
-    \_<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\_\
-    (<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work\
-    \ on predicting metro rail delays.</p> <p>\u2022\_Carey Anne Nadeau of\_<a href=\"\
-    http://www.opendatanation.com\">Open Data Nation</a>\_and\_Michael Eichler of\
-    \ <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects\
-    \ in other cities and about the future of WMATA's own APIs and open data.</p>\
+    \ We'll be on the first floor; be sure to bring an ID in order to enter the building.\_\
+    </p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility\
+    \ Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"\
+    http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>Doors\
+    \ open at 6:00; we'll have pizza and stuff. The presentations start at 6:30. Our\
+    \ speakers are:</p> <p>\u2022\_<a href=\"https://github.com/jamesfe/\">James Ferrara</a>\
+    \ will discuss his\_(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\"\
+    >beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\_Carey Anne Nadeau\
+    \ of\_<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\_and\_Michael\
+    \ Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data\
+    \ projects in other cities and about the future of WMATA's own APIs and open data.</p>\
     \ <p>\u2022\_<a href=\"https://ael.me/\">Alex Lindeman</a>\_will demo\_<a href=\"\
     http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app\
     \ that shows the DC Metrorail schedule.\_</p> <p>\u2022\_<a href=\"https://about.me/rebecca.mills\"\
@@ -206,16 +208,14 @@ other:
     \ his\_<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\"\
     >DC Metro and Bus</a>\_app.</p> <p>\u2022 <a href=\"https://github.com/giofrankgatto\"\
     >Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\"\
-    >Traze</a> app which allows riders to report and post issues on Metro.</p> <p><br/>We'd\
-    \ love to have you present your own Metro project. Send\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
-    >Michael Schade</a>\_an email if you'd like to present.\_</p> <p>To build your\
-    \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
-    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_tag,\
-    \ or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.\_\
-    </p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
-    \ /></p> <p>Want to see what happened at previous events? Visit pages for <a href=\"\
-    http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night\
-    \ I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\"\
+    >Traze</a> app which allows riders to report and post issues on Metro.\_</p> <p><img\
+    \ src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
+    \ /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's\
+    \ open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
+    >data-download</a>\_tag, or use their\_<a href=\"https://developer.wmata.com/\"\
+    >developer tools</a>.\_</p> <p>Want to see what happened at previous events? Visit\
+    \ pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\"\
+    >Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\"\
     >II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\"\
     >III</a>, and read\_<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\"\
     >Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\"\
@@ -235,14 +235,14 @@ other:
   rsvp_limit: 150
   status: upcoming
   time: 1456268400000
-  updated: 1455904658000
+  updated: 1456015607000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, lon: -77.019469999999998, name: WMATA HQ,
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 25
-  yes_rsvp_count: 151
+  yes_rsvp_count: 150
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -284,7 +284,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1455656344000
   description: "<p>This month we're going to venture into mapmaking with CartoDB,\
     \ a web platform that lets us make some neat-looking and informative maps to use\
@@ -427,7 +427,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 19
 - created: 1454529221000
   description: "<p><b>Please RSVP here:</b>\_<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"\
     ><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\"\
@@ -1026,7 +1026,7 @@ other:
     lon: -77.048942999999994, name: 'GWU, Funger Hall, Room 108', repinned: false,
     state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 30
+  waitlist_count: 32
   yes_rsvp_count: 3
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
