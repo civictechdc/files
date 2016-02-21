@@ -840,7 +840,7 @@
     }, 
     {
         "activity": [
-            6, 
+            2, 
             8, 
             6, 
             0, 
@@ -849,9 +849,9 @@
             1, 
             0, 
             4, 
+            3, 
+            5, 
             1, 
-            2, 
-            6, 
             0, 
             2, 
             0, 
@@ -882,8 +882,8 @@
             1, 
             4, 
             11, 
-            1, 
-            6, 
+            3, 
+            4, 
             4, 
             0, 
             1, 
@@ -1058,8 +1058,8 @@
     }, 
     {
         "activity": [
-            3, 
-            1, 
+            4, 
+            0, 
             0, 
             0, 
             0, 
@@ -1229,8 +1229,8 @@
     }, 
     {
         "activity": [
-            0, 
-            5, 
+            2, 
+            3, 
             0, 
             0, 
             0, 
@@ -4290,7 +4290,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 175, 
+                "contributions": 177, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4361,7 +4361,7 @@
         "languages": [
             [
                 "Ruby", 
-                51486
+                51453
             ], 
             [
                 "HTML", 
@@ -4383,16 +4383,16 @@
         "license": null, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 21, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-02-21T02:24:11Z", 
+        "pushed_at": "2016-02-21T16:32:54Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6587, 
+        "size": 6593, 
         "updated_at": "2016-02-21T01:42:46Z", 
         "watchers": 1
     }, 

@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [6, 8, 6, 0, 11, 1, 1, 0, 4, 1, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1,
-    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0,
+- activity: [2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1,
+    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1, 0,
     3, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -327,7 +327,7 @@
   size: 17493
   updated_at: '2016-01-18T15:30:25Z'
   watchers: 21
-- activity: [3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     5, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -383,7 +383,7 @@
   size: 945
   updated_at: '2016-02-01T04:45:39Z'
   watchers: 5
-- activity: [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1357,7 +1357,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 175,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 177,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 30,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1387,7 +1387,7 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 51486]
+  - [Ruby, 51453]
   - [HTML, 47383]
   - [CSS, 23729]
   - [JavaScript, 693]
@@ -1395,12 +1395,12 @@
   license: null
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 21
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-02-21T02:24:11Z'
+  pushed_at: '2016-02-21T16:32:54Z'
   short_name: dcaf_case_management
-  size: 6587
+  size: 6593
   updated_at: '2016-02-21T01:42:46Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
