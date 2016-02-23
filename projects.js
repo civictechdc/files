@@ -1,10 +1,10 @@
 projects([
     {
         "activity": [
-            40, 
+            35, 
             0, 
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             11, 
             5, 
@@ -14,10 +14,10 @@ projects([
             0, 
             4, 
             0, 
-            5, 
-            1, 
-            4, 
-            4, 
+            6, 
+            0, 
+            6, 
+            2, 
             0, 
             0, 
             9, 
@@ -25,8 +25,8 @@ projects([
             1, 
             9, 
             0, 
-            19, 
-            54, 
+            40, 
+            33, 
             10, 
             0, 
             2, 
@@ -288,7 +288,7 @@ projects([
         }, 
         "main_language": "Java", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 80, 
+        "open_issues": 94, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -1416,7 +1416,7 @@ projects([
     }, 
     {
         "activity": [
-            1, 
+            0, 
             4, 
             3, 
             0, 
@@ -1560,8 +1560,8 @@ projects([
         "activity": [
             8, 
             0, 
-            0, 
             1, 
+            0, 
             5, 
             0, 
             0, 
@@ -1606,8 +1606,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             0, 
             0
         ], 
@@ -2075,7 +2075,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "develop", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 17, 
+        "forks": 18, 
         "help_wanted": [], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
@@ -2101,14 +2101,14 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 12, 
+        "open_issues": 19, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-23T00:03:49Z", 
+        "pushed_at": "2016-02-23T01:50:07Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 43068, 
         "updated_at": "2016-01-12T01:09:12Z", 
@@ -2680,7 +2680,7 @@ projects([
     }, 
     {
         "activity": [
-            5, 
+            3, 
             0, 
             5, 
             0, 
@@ -2689,9 +2689,9 @@ projects([
             0, 
             0, 
             0, 
-            45, 
-            20, 
-            1, 
+            57, 
+            9, 
+            0, 
             0, 
             0, 
             0, 
@@ -2728,8 +2728,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0
         ], 
@@ -2834,16 +2834,16 @@ projects([
     }, 
     {
         "activity": [
-            47, 
-            56, 
+            41, 
+            49, 
             22, 
-            71, 
-            19, 
-            2, 
+            78, 
+            12, 
+            1, 
             2, 
             1, 
-            4, 
-            2, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2882,8 +2882,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0
         ], 
@@ -2989,7 +2989,7 @@ projects([
     }, 
     {
         "activity": [
-            20, 
+            14, 
             0, 
             1, 
             0, 
@@ -3177,7 +3177,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 100, 
+                "contributions": 102, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3365,7 +3365,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                64852
+                64750
             ], 
             [
                 "JavaScript", 
@@ -3391,19 +3391,19 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-01T04:37:34Z", 
+        "pushed_at": "2016-02-23T13:01:12Z", 
         "short_name": "clean-slate", 
-        "size": 10014, 
+        "size": 10022, 
         "updated_at": "2016-02-11T05:58:45Z", 
         "watchers": 17
     }, 
     {
         "activity": [
-            34, 
+            32, 
             2, 
             19, 
-            0, 
             7, 
+            0, 
             0, 
             0, 
             0, 
@@ -3527,15 +3527,14 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            107, 
-            49, 
-            5, 
+            28, 
+            82, 
+            46, 
+            6, 
             2, 
-            1, 
+            0, 
             0, 
             1, 
-            0, 
             0, 
             0, 
             0, 
@@ -3571,6 +3570,7 @@ projects([
             0, 
             0, 
             4, 
+            0, 
             0, 
             0
         ], 
@@ -3814,8 +3814,8 @@ projects([
             0, 
             16, 
             0, 
-            25, 
-            10, 
+            27, 
+            8, 
             1, 
             0, 
             0, 
@@ -3838,8 +3838,8 @@ projects([
             1, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0
         ], 
@@ -3964,9 +3964,9 @@ projects([
             0, 
             0, 
             0, 
+            2, 
+            4, 
             0, 
-            5, 
-            1, 
             0, 
             0, 
             0, 
@@ -4182,24 +4182,24 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            0, 
-            13, 
+            6, 
+            4, 
+            6, 
+            7, 
             15, 
             0, 
             0, 
             9, 
-            2, 
-            12, 
-            30, 
-            11, 
-            16, 
+            6, 
             8, 
+            39, 
+            2, 
             17, 
             9, 
-            49, 
-            53
+            15, 
+            10, 
+            58, 
+            43
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4359,14 +4359,14 @@ projects([
         "license": null, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 42, 
+        "open_issues": 45, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-02-21T16:32:54Z", 
+        "pushed_at": "2016-02-23T04:49:06Z", 
         "short_name": "dcaf_case_management", 
         "size": 6593, 
         "updated_at": "2016-02-23T00:38:33Z", 
@@ -4508,13 +4508,13 @@ projects([
             0, 
             10, 
             12, 
-            25, 
-            22, 
-            18, 
-            21, 
-            17, 
-            53, 
-            14
+            28, 
+            23, 
+            14, 
+            27, 
+            23, 
+            43, 
+            12
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4561,7 +4561,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
-                "contributions": 86, 
+                "contributions": 89, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
             }, 
@@ -4614,7 +4614,7 @@ projects([
         "languages": [
             [
                 "R", 
-                57394
+                60094
             ], 
             [
                 "HTML", 
@@ -4644,15 +4644,15 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-22T21:33:31Z", 
+        "pushed_at": "2016-02-23T01:14:04Z", 
         "short_name": "school-modernization", 
-        "size": 7469, 
+        "size": 7518, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
     {
         "activity": [
-            2, 
+            1, 
             1, 
             0, 
             0, 
@@ -4688,13 +4688,12 @@ projects([
             0, 
             0, 
             4, 
-            0, 
             1, 
             0, 
             0, 
             0, 
-            1, 
             0, 
+            1, 
             0, 
             0, 
             0, 
@@ -4702,6 +4701,7 @@ projects([
             0, 
             0, 
             2, 
+            0, 
             0, 
             0
         ], 
@@ -4825,8 +4825,8 @@ projects([
             0, 
             0, 
             29, 
-            26, 
             28, 
+            26, 
             0, 
             0, 
             0, 
