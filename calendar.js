@@ -30,6 +30,7 @@ calendar({
                 "country": "us", 
                 "id": 23752411, 
                 "lat": 0, 
+                "localized_country_name": "USA", 
                 "lon": 0, 
                 "name": "Impact Hub DC", 
                 "repinned": false, 
@@ -37,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 84
         }, 
         {
             "announced": true, 
@@ -69,6 +70,7 @@ calendar({
                 "country": "us", 
                 "id": 23752411, 
                 "lat": 0, 
+                "localized_country_name": "USA", 
                 "lon": 0, 
                 "name": "Impact Hub DC", 
                 "repinned": false, 
@@ -76,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 9
         }, 
         {
             "announced": true, 
@@ -108,6 +110,7 @@ calendar({
                 "country": "us", 
                 "id": 23752411, 
                 "lat": 0, 
+                "localized_country_name": "USA", 
                 "lon": 0, 
                 "name": "Impact Hub DC", 
                 "repinned": false, 
@@ -115,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 12
         }
     ], 
     "other": [
@@ -150,6 +153,7 @@ calendar({
                 "country": "us", 
                 "id": 23852906, 
                 "lat": 38.903111000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.059639000000004, 
                 "name": "Palantir Technologies", 
                 "repinned": false, 
@@ -157,11 +161,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1455742857000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228929012/", 
             "group": {
@@ -181,7 +185,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1456183800000, 
-            "updated": 1456109033000, 
+            "updated": 1456184985000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1150 17th Street NW, Ste 200", 
@@ -189,6 +193,7 @@ calendar({
                 "country": "us", 
                 "id": 23263162, 
                 "lat": 38.905338, 
+                "localized_country_name": "USA", 
                 "lon": -77.039008999999993, 
                 "name": "Socrata Office (2nd Floor)", 
                 "repinned": false, 
@@ -196,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1455331146000, 
@@ -228,6 +233,7 @@ calendar({
                 "country": "us", 
                 "id": 23832486, 
                 "lat": 39.209999000000003, 
+                "localized_country_name": "USA", 
                 "lon": -76.879997000000003, 
                 "name": "Loyola Columbia", 
                 "repinned": false, 
@@ -240,7 +246,7 @@ calendar({
         }, 
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0</p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>Doors open at 6:00; we'll have pizza and stuff. The presentations start at 6:30. Our speakers are:</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a> will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.\u00a0</p> <p>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a> will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022 <a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.</p> <p><br/>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>\u2022 <a href=\"https://github.com/giofrankgatto\">Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\">Traze</a> app which allows riders to report and post issues on Metro.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p><br/>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0</p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>Doors open at 6:00; we'll have pizza and cupcakes. The presentations start at 6:30. Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs. Our <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\">speakers</a> are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a>\u00a0will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p><br/>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Ross Filice will talk about how he started with the\u00a0<a href=\"http://www.junebot.com/dc-next-bus.html\">DC Next Bus</a>\u00a0app, then expanded to 18 other cities.\u00a0</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a>\u00a0will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0\u00a0<a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.\u00a0</p> <p>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>\u2022\u00a0<a href=\"https://github.com/giofrankgatto\">Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\">Traze</a> app which allows riders to report and post issues on Metro.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p><br/>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -256,10 +262,10 @@ calendar({
             "id": "228585705", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night IV", 
-            "rsvp_limit": 150, 
+            "rsvp_limit": 154, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1456089322000, 
+            "updated": 1456184526000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -267,13 +273,14 @@ calendar({
                 "country": "us", 
                 "id": 24347865, 
                 "lat": 38.897846000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.019469999999998, 
                 "name": "WMATA HQ", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 24, 
+            "waitlist_count": 37, 
             "yes_rsvp_count": 154
         }, 
         {
@@ -306,6 +313,7 @@ calendar({
                 "country": "us", 
                 "id": 23819674, 
                 "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.042061000000004, 
                 "name": "The Iron Yard DC", 
                 "repinned": false, 
@@ -313,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1455656344000, 
@@ -345,18 +353,19 @@ calendar({
                 "country": "us", 
                 "id": 21261802, 
                 "lat": 0, 
+                "localized_country_name": "USA", 
                 "lon": 0, 
                 "name": "MLK Library Dream Lab", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 60
         }, 
         {
             "created": 1455056568000, 
-            "description": "<p>With tens of thousands of datasets ranging from satellite imagery to material standards to demographic surveys, the U.S. Department of Commerce has long been in the business of Open Data. Through the Commerce Data Usability Project, go on a series of guided tours through the Commerce data lake and learn how you can leverage this free and open data to unlock the possible.</p> <p>Open data is just the first step to opening up knowledge, and the U.S. Department of Commerce believes that contextualization and illumination are a critical part of data delivery. Ready to build the next big thing? Get off to a running start with tutorials that will walk you through each phase of the data discovery process, from initial data touch through preprocessing, joining, analysis and visualization.</p> <p><a href=\"https://www.commerce.gov/datausability/\" class=\"linkified\">https://www.commerce.gov/datausability/</a></p> <p><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 7:30PM Speaker presentation</p> <p>7:30PM - 8:00PM Audience Q &amp; A</p> <p>8:00PM - \u00a0 Data drinks</p>", 
+            "description": "<p>Interested in exploring \u00a0the U.S. Department of Commerce's vast data lake, including\u00a0tens of thousands of datasets ranging from satellite imagery to material standards to demographic surveys? Want to\u00a0showcase your data visualization talents? Have a novel insight on the American experience? Passionate for the public good? \u00a0Then the U.S. Department of Commerce is\u00a0interested in working with you!</p> <p>The Commerce Department is launching the <a href=\"https://www.commerce.gov/datausability/\">Commerce Usability Project</a>. It\u2019s an effort towards making the knowledge required to use government data more open. They aim to provide enough insight, familiarity, and code to enable users to do amazing things with free data. That\u2019s why they are putting out an open call to academia, industry and government to collaborate, demonstrate, and improve their data assets. The Department of Commerce wants to recognize YOUR expertise and contributions to their public data assets!</p> <p><b>Agenda:</b></p> <p><br/>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 7:30PM Speaker presentation</p> <p>7:30PM - 8:00PM Audience Q &amp; A</p> <p>8:00PM - \u00a0 Data drinks</p> <p><br/><b>Star Ying, Data Scientist</b></p> <p><a href=\"https://twitter.com/star_is_here?lang=en\">@star_is_here</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/e/2/4/600_447144100.jpeg\" /></p> <p>Star Ying is a Data Scientist with the Commerce Data Service, promoting and innovating new data products across the Department of Commerce. Previously, he served as a Mathematical Statistician in the U.S. Census Bureau, working with the Decennial Census operation, the American Community Survey, Reimbursable Demographic Surveys, and Economic Indicator Surveys.</p> <p>\n\n\n\n<b>Self-Starters</b></p> <p>Interested in getting started? Here are some examples that have already been developed:</p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_noaa_hail/\">NOAA\u2019s Severe Weather Data Inventory Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_nist_nvd/\">NIST\u2019s National Vulnerability Database Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_acs_rank/\">US Census Bureau\u2019s American Community Survey Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_viirs_part1/\">NOAA\u2019s Visible Infrared Radiometer Suite Tutorial</a></p> <p><br/><b>Conditions</b></p> <p>\u2022\u00a0All data used and code developed must be open and free.</p> <p>\u2022\u00a0Individuals/groups are encouraged to use commerce data combined with other publicly available data.</p> <p>- Commerce Data can be found on\u00a0<a href=\"http://www.data.commerce.gov/\">DOC Data Portal</a>.</p> <p>- The Commerce Department Data Science team is also putting together a\u00a0<a href=\"https://docs.google.com/spreadsheets/d/1fK0TB1GaWJyv3eOd53dOzBuk3rYpCpsRWpoz3rwouKo/edit?usp=sharing.\">masterlist</a>. They are adding more datasets to this base list with some ideas of what can be done with them.</p> <p>\u2022\u00a0Each submission must have at least 2 visualizations. \u00a0</p> <p>\u2022\u00a0At least one of the visualizations should be interactive</p> <p>\u2022\u00a0Code can be embedded in HTML</p> <p>\u2022\u00a0Contributions may be made by individuals as well as teams</p> <p>Guidance is available from the Department of Commerce Data Science Team:\u00a0Jeff Chen, Chief Data Scientist, US Department of Commerce;\u00a0Star Ying, Data Scientist, US Department of Commerce;\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/>&lt;a href=\"https://www.commerce.gov/datausability/\"&gt;&lt;/a&gt;</p>", 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/228735636/", 
             "group": {
                 "created": 1339111847000, 
@@ -374,7 +383,7 @@ calendar({
             "name": "Exploring the Commerce Data Lake", 
             "status": "upcoming", 
             "time": 1456354800000, 
-            "updated": 1455806259000, 
+            "updated": 1456156725000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -382,13 +391,14 @@ calendar({
                 "country": "US", 
                 "id": 20556562, 
                 "lat": 38.901859000000002, 
+                "localized_country_name": "USA", 
                 "lon": -77.020995999999997, 
                 "name": "Georgetown University School of Continuing Studies", 
                 "repinned": false
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1453691652000, 
@@ -420,6 +430,7 @@ calendar({
                 "country": "us", 
                 "id": 24356181, 
                 "lat": 38.902144999999997, 
+                "localized_country_name": "USA", 
                 "lon": -77.032936000000007, 
                 "name": "nclud", 
                 "repinned": false, 
@@ -460,6 +471,7 @@ calendar({
                 "country": "us", 
                 "id": 24356181, 
                 "lat": 38.902144999999997, 
+                "localized_country_name": "USA", 
                 "lon": -77.032936000000007, 
                 "name": "nclud", 
                 "repinned": false, 
@@ -467,7 +479,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1454529221000, 
@@ -498,6 +510,7 @@ calendar({
                 "country": "us", 
                 "id": 4867002, 
                 "lat": 38.899151000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.033195000000006, 
                 "name": "LivingSocial", 
                 "repinned": false, 
@@ -506,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1453727135000, 
@@ -538,6 +551,7 @@ calendar({
                 "country": "us", 
                 "id": 24325392, 
                 "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
                 "lon": -77.036873, 
                 "name": "Katie's YouTube stream", 
                 "repinned": false, 
@@ -545,11 +559,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1455742958000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/first-timers-guide\" class=\"linkified\">http://bit.ly/first-timers-guide</a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/html-study-guide\" class=\"linkified\">http://bit.ly/html-study-guide</a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/js-study-guide\" class=\"linkified\">http://bit.ly/js-study-guide</a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228929042/", 
             "group": {
@@ -569,11 +583,11 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1456788600000, 
-            "updated": 1455811107000, 
+            "updated": 1456185899000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1454948077000, 
@@ -604,6 +618,7 @@ calendar({
                 "country": "us", 
                 "id": 24185893, 
                 "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
                 "lon": -77.042197999999999, 
                 "name": "CHIEF", 
                 "repinned": false, 
@@ -611,11 +626,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 200
+            "yes_rsvp_count": 208
         }, 
         {
             "created": 1455043587000, 
-            "description": "<p>March is coming! \u00a0And with it, the hope of spring! \u00a0</p> <p>Remember how nice it is to stand out on the balcony and enjoy a nice evening chatting about APIs over a cold drink? \u00a0Go ahead and mark your calendars for the next DC API meetup on March 1 (always the first Tuesday of the month). \u00a0The speakers we're lining up are solid and the company is always great. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General Services Administration<br/>* Jackie Kazil - Capital One<br/>*\u00a0Laura Gerhardt - 18F<br/>* Mulesoft\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>March is coming! \u00a0And with it, the hope of spring! \u00a0</p> <p>Remember how nice it is to stand out on the balcony and enjoy a nice evening chatting about APIs over a cold drink? \u00a0Go ahead and mark your calendars for the next DC API meetup on March 1 (always the first Tuesday of the month). \u00a0The speakers we're lining up are solid and the company is always great. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General Services Administration<br/>* Jackie Kazil - Capital One<br/>*\u00a0Laura Gerhardt - 18F<br/>* Jay Fielding - Mulesoft\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/228730607/", 
             "group": {
                 "created": 1347647025000, 
@@ -633,7 +648,7 @@ calendar({
             "name": "DC API User Group - March Edition", 
             "status": "upcoming", 
             "time": 1456873200000, 
-            "updated": 1455137474000, 
+            "updated": 1456189179000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -641,6 +656,7 @@ calendar({
                 "country": "us", 
                 "id": 23841139, 
                 "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
                 "lon": -77.042266999999995, 
                 "name": "CHIEF", 
                 "repinned": false, 
@@ -648,7 +664,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1454252703000, 
@@ -708,6 +724,7 @@ calendar({
                 "country": "us", 
                 "id": 23819674, 
                 "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.042061000000004, 
                 "name": "The Iron Yard DC", 
                 "repinned": false, 
@@ -715,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1452612310000, 
@@ -746,6 +763,7 @@ calendar({
                 "country": "us", 
                 "id": 23819674, 
                 "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.042061000000004, 
                 "name": "The Iron Yard DC", 
                 "repinned": false, 
@@ -784,6 +802,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -791,7 +810,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1451511271000, 
@@ -821,6 +840,7 @@ calendar({
                 "country": "us", 
                 "id": 19047832, 
                 "lat": 38.899109000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.022223999999994, 
                 "name": "WeWork Chinatown", 
                 "repinned": false, 
@@ -828,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1453051773000, 
@@ -859,6 +879,7 @@ calendar({
                 "country": "us", 
                 "id": 20010852, 
                 "lat": 38.914551000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.021095000000003, 
                 "name": "WeWork Wonder Bread Factory", 
                 "repinned": false, 
@@ -866,7 +887,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1454252703000, 
@@ -949,7 +970,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1455927414000, 
@@ -980,6 +1001,7 @@ calendar({
                 "country": "us", 
                 "id": 13300352, 
                 "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.048942999999994, 
                 "name": "GWU, Funger Hall, Room 108", 
                 "repinned": false, 
@@ -987,7 +1009,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -1046,6 +1068,7 @@ calendar({
                 "country": "US", 
                 "id": 20556562, 
                 "lat": 38.901859000000002, 
+                "localized_country_name": "USA", 
                 "lon": -77.020995999999997, 
                 "name": "Georgetown University School of Continuing Studies", 
                 "repinned": false
@@ -1083,6 +1106,7 @@ calendar({
                 "country": "us", 
                 "id": 24366078, 
                 "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
                 "lon": -77.036873, 
                 "name": "TBD", 
                 "repinned": false, 
@@ -1148,6 +1172,7 @@ calendar({
                 "country": "us", 
                 "id": 24357306, 
                 "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
                 "lon": -77.036873, 
                 "name": "TBD", 
                 "repinned": false, 
@@ -1216,6 +1241,7 @@ calendar({
                 "country": "us", 
                 "id": 23690298, 
                 "lat": 38.898392000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.024131999999994, 
                 "name": "MLK Library, Digital Commons", 
                 "repinned": false, 
@@ -1309,6 +1335,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1346,6 +1373,7 @@ calendar({
                 "country": "us", 
                 "id": 19047832, 
                 "lat": 38.899109000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.022223999999994, 
                 "name": "WeWork Chinatown", 
                 "repinned": false, 
@@ -1408,7 +1436,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1326383071000, 
@@ -1439,6 +1467,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1476,6 +1505,7 @@ calendar({
                 "country": "us", 
                 "id": 19047832, 
                 "lat": 38.899109000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.022223999999994, 
                 "name": "WeWork Chinatown", 
                 "repinned": false, 
@@ -1541,6 +1571,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1578,6 +1609,7 @@ calendar({
                 "country": "us", 
                 "id": 19047832, 
                 "lat": 38.899109000000003, 
+                "localized_country_name": "USA", 
                 "lon": -77.022223999999994, 
                 "name": "WeWork Chinatown", 
                 "repinned": false, 
@@ -1643,6 +1675,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1735,6 +1768,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1800,6 +1834,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1865,6 +1900,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1930,6 +1966,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -1995,6 +2032,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -2060,6 +2098,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 
@@ -2125,6 +2164,7 @@ calendar({
                 "country": "us", 
                 "id": 24181227, 
                 "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
                 "repinned": false, 

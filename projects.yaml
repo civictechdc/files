@@ -1,6 +1,6 @@
-- activity: [37, 3, 0, 2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9,
-    0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 3, 2, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [40, 0, 1, 1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9,
+    0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -93,7 +93,7 @@
   size: 21734
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
-- activity: [0, 1, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [1, 0, 4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [2, 8, 6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1,
-    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1, 0,
+- activity: [4, 9, 3, 2, 9, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1,
+    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 4, 0, 1, 1, 0,
     3, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -383,7 +383,7 @@
   size: 945
   updated_at: '2016-02-01T04:45:39Z'
   watchers: 5
-- activity: [2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -614,7 +614,7 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [4, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
-    0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 1, 0, 0, 6, 0, 0,
+    0, 4, 2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 0, 4, 1, 0, 8, 2, 1, 0, 0, 6, 0, 0,
     0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -634,19 +634,7 @@
   default_branch: develop
   description: Displays data about DC Campaign Finance on a site
   forks: 17
-  help_wanted:
-  - assignee: null
-    body: ''
-    comments: 0
-    created_at: '2015-12-08T12:43:08Z'
-    issue: Implement download graph as PNG
-    issue_url: https://github.com/codefordc/dc-campaign-finance-watch/issues/50
-    labels:
-    - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement'}
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
-    project: Campaign Finance Watch
-    project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2015-12-08T12:43:08Z'
+  help_wanted: []
   homepage: http://codefordc.github.io/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
@@ -658,12 +646,12 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 24
+  open_issues: 12
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-17T11:54:55Z'
+  pushed_at: '2016-02-23T00:03:49Z'
   short_name: dc-campaign-finance-watch
-  size: 42013
+  size: 43068
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -974,8 +962,8 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 24, 11,
-    6, 15, 0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0,
+- activity: [3, 0, 3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26, 9,
+    6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0,
     0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1089,7 +1077,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
-  open_issues: 14
+  open_issues: 15
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-02-01T04:37:34Z'
@@ -1299,8 +1287,8 @@
   updated_at: '2015-08-24T01:27:32Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1,
-    11, 5, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2,
+    10, 5, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
   contributors:
@@ -1381,7 +1369,7 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 14
+  forks: 17
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
@@ -1395,16 +1383,16 @@
   license: null
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 22
+  open_issues: 42
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-02-21T16:32:54Z'
   short_name: dcaf_case_management
   size: 6593
-  updated_at: '2016-02-21T01:42:46Z'
-  watchers: 1
+  updated_at: '2016-02-23T00:38:33Z'
+  watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1489,9 +1477,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-20T22:30:37Z'
+  pushed_at: '2016-02-22T21:33:31Z'
   short_name: school-modernization
-  size: 7425
+  size: 7469
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
