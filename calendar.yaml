@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -76,20 +76,22 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 other:
 - created: 1454526149000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters.\
     \ We'll be on the first floor; be sure to bring an ID in order to enter the building.\_\
-    </p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility\
-    \ Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"\
-    http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>Doors\
-    \ open at 6:00; we'll have pizza and cupcakes. The presentations start at 6:30.\
-    \ Please arrive a bit early, as it will take a while to process everyone through\
-    \ the metal detectors and check IDs. Our <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\"\
-    >speakers</a> are:</p> <p>\u2022\_Carey Anne Nadeau of\_<a href=\"http://www.opendatanation.com\"\
-    >Open Data Nation</a>\_and\_Michael Eichler of <a href=\"http://planitmetro.com/\"\
+    Please arrive a bit early, as it will take a while to process everyone through\
+    \ the metal detectors and check IDs.\_</p> <p>Many thanks to our sponsors at <a\
+    \ href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\"\
+    >Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making\
+    \ this meetup possible.</p> <p>We're opening the doors earlier than normal in\
+    \ hopes of not clogging up the security desk. You are welcome to join us at 5:30.\
+    \ We'll have pizzas, salad, and\_cupcakes. The presentations start at 6:30. Our\
+    \ <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\">speakers</a> are:</p>\
+    \ <p>\u2022\_Carey Anne Nadeau of\_<a href=\"http://www.opendatanation.com\">Open\
+    \ Data Nation</a>\_and\_Michael Eichler of <a href=\"http://planitmetro.com/\"\
     >WMATA</a> will talk about open-data projects in other cities and about the future\
     \ of WMATA's own APIs and open data.</p> <p>\u2022\_<a href=\"https://github.com/jamesfe/\"\
     >James Ferrara</a>\_will discuss his\_(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\"\
@@ -140,13 +142,13 @@ other:
   rsvp_limit: 154
   status: upcoming
   time: 1456268400000
-  updated: 1456184526000
+  updated: 1456247206000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 37
+  waitlist_count: 29
   yes_rsvp_count: 154
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -286,7 +288,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 114
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -425,7 +427,7 @@ other:
     lon: -77.036873, name: Katie's YouTube stream, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1455742958000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -468,7 +470,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -582,7 +584,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 207
+  yes_rsvp_count: 210
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -611,7 +613,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -682,7 +684,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -836,7 +838,7 @@ other:
     name: WeWork Wonder Bread Factory, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 93
+  yes_rsvp_count: 100
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -923,7 +925,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1455927414000
   description: '<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP
     on the PyDataDC event page</p> <p><a href="http://www.meetup.com/PyDataDC/events/228980787/"><a
@@ -965,7 +967,7 @@ other:
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 39
+  waitlist_count: 41
   yes_rsvp_count: 3
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -1086,7 +1088,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 173
 - created: 1455416543000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -1193,7 +1195,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\

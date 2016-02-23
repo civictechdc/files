@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "announced": true, 
@@ -78,13 +78,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }
     ], 
     "other": [
         {
             "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0</p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>Doors open at 6:00; we'll have pizza and cupcakes. The presentations start at 6:30. Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs. Our <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\">speakers</a> are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a>\u00a0will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p><br/>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Ross Filice will talk about how he started with the\u00a0<a href=\"http://www.junebot.com/dc-next-bus.html\">DC Next Bus</a>\u00a0app, then expanded to 18 other cities.\u00a0</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a>\u00a0will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0\u00a0<a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.\u00a0</p> <p>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>\u2022\u00a0<a href=\"https://github.com/giofrankgatto\">Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\">Traze</a> app which allows riders to report and post issues on Metro.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p><br/>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.\u00a0</p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>We're opening the doors earlier than normal in hopes of not clogging up the security desk. You are welcome to join us at 5:30. We'll have pizzas, salad, and\u00a0cupcakes. The presentations start at 6:30. Our <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\">speakers</a> are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a>\u00a0will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p><br/>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Ross Filice will talk about how he started with the\u00a0<a href=\"http://www.junebot.com/dc-next-bus.html\">DC Next Bus</a>\u00a0app, then expanded to 18 other cities.\u00a0</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a>\u00a0will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0\u00a0<a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.\u00a0</p> <p>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>\u2022\u00a0<a href=\"https://github.com/giofrankgatto\">Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\">Traze</a> app which allows riders to report and post issues on Metro.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p><br/>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
             "group": {
                 "created": 1384372275000, 
@@ -103,7 +103,7 @@ calendar({
             "rsvp_limit": 154, 
             "status": "upcoming", 
             "time": 1456268400000, 
-            "updated": 1456184526000, 
+            "updated": 1456247206000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -118,7 +118,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 29, 
             "yes_rsvp_count": 154
         }, 
         {
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1453691652000, 
@@ -397,7 +397,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1455742958000, 
@@ -425,7 +425,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1454948077000, 
@@ -464,7 +464,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 207
+            "yes_rsvp_count": 210
         }, 
         {
             "created": 1455043587000, 
@@ -502,7 +502,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1454252703000, 
@@ -570,7 +570,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1452612310000, 
@@ -725,7 +725,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1454252703000, 
@@ -808,7 +808,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1455927414000, 
@@ -847,7 +847,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 39, 
+            "waitlist_count": 41, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -913,7 +913,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 173
         }, 
         {
             "created": 1455416543000, 
@@ -1018,7 +1018,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1454252703000, 
