@@ -148,7 +148,7 @@ other:
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 29
+  waitlist_count: 18
   yes_rsvp_count: 154
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -191,7 +191,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 13
 - created: 1455656344000
   description: "<p>This month we're going to venture into mapmaking with CartoDB,\
     \ a web platform that lets us make some neat-looking and informative maps to use\
@@ -224,7 +224,7 @@ other:
     localized_country_name: USA, lon: 0, name: MLK Library Dream Lab, repinned: false,
     state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 9
   yes_rsvp_count: 60
 - created: 1455056568000
   description: "<p>Interested in exploring \_the U.S. Department of Commerce's vast\
@@ -288,7 +288,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 115
 - created: 1453691652000
   description: "<p>Instead of our regularly scheduled Rails meetup, let's all represent\
     \ Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event\
@@ -395,7 +395,7 @@ other:
     name: LivingSocial, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1453727135000
   description: "<p>Flask is a microframework that is great for creating websites with\
     \ minimal Python experience. If you know how to make a function, you can make\
@@ -470,7 +470,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 20
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -584,7 +584,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 210
+  yes_rsvp_count: 215
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -613,7 +613,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 76
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -728,7 +728,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -750,7 +750,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -837,7 +837,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: WeWork Wonder Bread Factory, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 8
   yes_rsvp_count: 100
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -877,7 +877,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -906,7 +906,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -967,7 +967,7 @@ other:
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 41
+  waitlist_count: 42
   yes_rsvp_count: 3
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
