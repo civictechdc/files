@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": true, 
@@ -78,129 +78,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }
     ], 
     "other": [
-        {
-            "created": 1454526149000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.\u00a0</p> <p>Many thanks to our sponsors at <a href=\"http://mobilitylab.org/\">Mobility Lab</a>, <a href=\"https://www.socrata.com/\">Socrata</a>, and (yes!) <a href=\"http://www.wmata.com/\">WMATA</a> for making this meetup possible.</p> <p>We're opening the doors earlier than normal in hopes of not clogging up the security desk. You are welcome to join us at 5:30. We'll have pizzas, salad, and\u00a0cupcakes. The presentations start at 6:30. Our <a href=\"http://mvjantzen.com/meetup/metrohacknight4.html\">speakers</a> are:</p> <p>\u2022\u00a0Carey Anne Nadeau of\u00a0<a href=\"http://www.opendatanation.com\">Open Data Nation</a>\u00a0and\u00a0Michael Eichler of <a href=\"http://planitmetro.com/\">WMATA</a> will talk about open-data projects in other cities and about the future of WMATA's own APIs and open data.</p> <p>\u2022\u00a0<a href=\"https://github.com/jamesfe/\">James Ferrara</a>\u00a0will discuss his\u00a0(<a href=\"http://ec2-52-0-245-181.compute-1.amazonaws.com/\">beta!</a>) work on predicting metro rail delays.</p> <p><br/>\u2022\u00a0<a href=\"https://ael.me/\">Alex Lindeman</a>\u00a0will demo\u00a0<a href=\"http://github.com/aelindeman/wmata-with-you\">WMATA With You</a>, a Pebble app that shows the DC Metrorail schedule.\u00a0</p> <p>\u2022\u00a0<a href=\"https://about.me/rebecca.mills\">Rebecca Mills</a> will demo <a href=\"https://whatsamata.herokuapp.com/\">WhatsaMATA</a>, which lets riders submit and share their own experiences.</p> <p>\u2022\u00a0Ross Filice will talk about how he started with the\u00a0<a href=\"http://www.junebot.com/dc-next-bus.html\">DC Next Bus</a>\u00a0app, then expanded to 18 other cities.\u00a0</p> <p>\u2022\u00a0<a href=\"https://github.com/andrewyue\">Andrew Yue</a> will show how <a href=\"http://wmatawatcher.herokuapp.com/\">WMATA Watcher</a> uses Metrorail-related tweets to make predictions about delays in service.\u00a0</p> <p>\u2022\u00a0<a href=\"http://jamespizzurro.com/\">James Pizzurro</a>\u00a0will show how\u00a0<a href=\"http://dcmetrohero.com/\">MetroHero</a>\u00a0tracks and visualizes Metrorail trains and delays in real-time.</p> <p>\u2022\u00a0<a href=\"https://github.com/solowt\">Thomas Solow</a> will present his <a href=\"https://dc-trains.herokuapp.com/\">DC Trains</a> project.\u00a0</p> <p>\u2022\u00a0\u00a0<a href=\"http://timburke.co/\">Tim Burke</a> will show how he made a <a href=\"http://dashboard.timburke.co/\">transit dashboard</a> for his condo building.\u00a0</p> <p>\u2022\u00a0<a href=\"http://dixonmobility.com/\">Ian Dixon</a>\u00a0will demo his\u00a0<a href=\"https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721\">DC Metro and Bus</a>\u00a0app.</p> <p>\u2022\u00a0<a href=\"https://github.com/giofrankgatto\">Gio Gatto</a> will preview his <a href=\"https://itunes.apple.com/us/app/id1073721057\">Traze</a> app which allows riders to report and post issues on Metro.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p>Want to see what happened at previous events? Visit pages for <a href=\"http://www.meetup.com/Transportation-Techies/events/154437572/\">Metro Hack Night I</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/218874680/\">II</a> and <a href=\"http://www.meetup.com/Transportation-Techies/events/222624278/\">III</a>, and read\u00a0<a href=\"http://mobilitylab.org/2014/01/06/techies-tackle-wmata-data-at-metro-hack-night/\">Techies Tackle WMATA Data at Metro Hack Night</a> and <a href=\"http://mobilitylab.org/2015/07/07/5-apps-for-catching-your-train-and-being-productive-on-d-c-s-metro/\">5 Apps for Catching Your Train and Being Productive on D.C.\u2019s Metro</a>.</p> <p><br/>Be sure to check out March's event, <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/b/5/c/600_446563868.jpeg\" /></p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/228585705/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "228585705", 
-            "maybe_rsvp_count": 0, 
-            "name": "Metro Hack Night IV", 
-            "rsvp_limit": 154, 
-            "status": "upcoming", 
-            "time": 1456268400000, 
-            "updated": 1456247206000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "Jackson Graham Building, 600 5th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24347865, 
-                "lat": 38.897846000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.019469999999998, 
-                "name": "WMATA HQ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 18, 
-            "yes_rsvp_count": 154
-        }, 
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p><b>This event is intended to be exclusively open for women; we are trans* friendly.</b></p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228672996/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rjstplyvdbfc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1456270200000, 
-            "updated": 1455941507000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1455656344000, 
-            "description": "<p>This month we're going to venture into mapmaking with CartoDB, a web platform that lets us make some neat-looking and informative maps to use elsewhere on the internet. You've probably seen some of their maps on DCist or on other news sites.\u00a0</p> <p><br/>We'll do a walk through of making our very own map, beginning with accessing the source data and creating a dataset within CartoDB, learn how to filter the data and consider different styling choices for our map, and take it through the publishing process. We'll also learn how to start from scratch and make our own original dataset for our map!\u00a0</p> <p><br/>Sign up for a CartoDB account before Maptime here:\u00a0<a href=\"https://cartodb.com/signup\"><a href=\"https://cartodb.com/signup\" class=\"linkified\">https://cartodb.com/signup</a></a></p> <p>Explore what kind of maps you can make with CartoDB:\u00a0<a href=\"https://cartodb.com/gallery/\"><a href=\"https://cartodb.com/gallery/\" class=\"linkified\">https://cartodb.com/gallery/</a></a></p> <p>Please bring a laptop!\u00a0</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/228901604/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "228901604", 
-            "maybe_rsvp_count": 0, 
-            "name": "Introduction to CartoDB", 
-            "rsvp_limit": 60, 
-            "status": "upcoming", 
-            "time": 1456270200000, 
-            "updated": 1455656863000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 9, 
-            "yes_rsvp_count": 60
-        }, 
         {
             "created": 1455056568000, 
             "description": "<p>Interested in exploring \u00a0the U.S. Department of Commerce's vast data lake, including\u00a0tens of thousands of datasets ranging from satellite imagery to material standards to demographic surveys? Want to\u00a0showcase your data visualization talents? Have a novel insight on the American experience? Passionate for the public good? \u00a0Then the U.S. Department of Commerce is\u00a0interested in working with you!</p> <p>The Commerce Department is launching the <a href=\"https://www.commerce.gov/datausability/\">Commerce Usability Project</a>. It\u2019s an effort towards making the knowledge required to use government data more open. They aim to provide enough insight, familiarity, and code to enable users to do amazing things with free data. That\u2019s why they are putting out an open call to academia, industry and government to collaborate, demonstrate, and improve their data assets. The Department of Commerce wants to recognize YOUR expertise and contributions to their public data assets!</p> <p><b>Agenda:</b></p> <p><br/>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 7:30PM Speaker presentation</p> <p>7:30PM - 8:00PM Audience Q &amp; A</p> <p>8:00PM - \u00a0 Data drinks</p> <p><br/><b>Star Ying, Data Scientist</b></p> <p><a href=\"https://twitter.com/star_is_here?lang=en\">@star_is_here</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/e/2/4/600_447144100.jpeg\" /></p> <p>Star Ying is a Data Scientist with the Commerce Data Service, promoting and innovating new data products across the Department of Commerce. Previously, he served as a Mathematical Statistician in the U.S. Census Bureau, working with the Decennial Census operation, the American Community Survey, Reimbursable Demographic Surveys, and Economic Indicator Surveys.</p> <p>\n\n\n\n<b>Self-Starters</b></p> <p>Interested in getting started? Here are some examples that have already been developed:</p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_noaa_hail/\">NOAA\u2019s Severe Weather Data Inventory Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_nist_nvd/\">NIST\u2019s National Vulnerability Database Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_acs_rank/\">US Census Bureau\u2019s American Community Survey Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_viirs_part1/\">NOAA\u2019s Visible Infrared Radiometer Suite Tutorial</a></p> <p><br/><b>Conditions</b></p> <p>\u2022\u00a0All data used and code developed must be open and free.</p> <p>\u2022\u00a0Individuals/groups are encouraged to use commerce data combined with other publicly available data.</p> <p>- Commerce Data can be found on\u00a0<a href=\"http://www.data.commerce.gov/\">DOC Data Portal</a>.</p> <p>- The Commerce Department Data Science team is also putting together a\u00a0<a href=\"https://docs.google.com/spreadsheets/d/1fK0TB1GaWJyv3eOd53dOzBuk3rYpCpsRWpoz3rwouKo/edit?usp=sharing.\">masterlist</a>. They are adding more datasets to this base list with some ideas of what can be done with them.</p> <p>\u2022\u00a0Each submission must have at least 2 visualizations. \u00a0</p> <p>\u2022\u00a0At least one of the visualizations should be interactive</p> <p>\u2022\u00a0Code can be embedded in HTML</p> <p>\u2022\u00a0Contributions may be made by individuals as well as teams</p> <p>Guidance is available from the Department of Commerce Data Science Team:\u00a0Jeff Chen, Chief Data Scientist, US Department of Commerce;\u00a0Star Ying, Data Scientist, US Department of Commerce;\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/>&lt;a href=\"https://www.commerce.gov/datausability/\"&gt;&lt;/a&gt;</p>", 
@@ -236,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1453691652000, 
@@ -276,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1455403462000, 
@@ -317,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1454529221000, 
@@ -425,7 +306,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1454948077000, 
@@ -464,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 215
+            "yes_rsvp_count": 237
         }, 
         {
             "created": 1455043587000, 
@@ -502,7 +383,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1454252703000, 
@@ -609,7 +490,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
@@ -648,7 +529,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1451511271000, 
@@ -724,7 +605,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -808,7 +689,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1455927414000, 
@@ -847,8 +728,57 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 42, 
+            "waitlist_count": 43, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1456284196000, 
+            "description": "<p><b>Introduction to Google Analytics:\u00a0\u00a0</b></p> <p>This course will provide a foundation for anyone seeking to understand the basics of Google Analytics and to improve business performance through better digital measurement.</p> <p>This course will provide you with an overview of today\u2019s digital measurement landscape, best practices for collecting actionable data, descriptions of key digital measurement concepts, as well as a \u00a0deep-dive into Google Analytics reports with specific examples for evaluating your digital marketing performance.</p> <p>\n\n\n<b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/0/1/2/600_447188210.jpeg\" /></p> <p>Emily Patterson is the Sr. Manager of Digital Analytics at PBS. She has worked in the DC area on websites and analytics for the past 8 years. She's helped nonprofits use Google Analytics to track marketing efforts, run A/B tests and improve site user experience. When she's not getting nerdy with data at work, Emily lives in Alexandria with her husband, dog and book collection.</p> <p><br/><b>Getting there:\u00a0</b></p> <p>iStrategy Labs is conveniently located at 641 S St NW - one block away from the Shaw-Howard metro stop\u00a0(on the green and yellow line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229086428/", 
+            "fee": {
+                "accepts": "wepay", 
+                "amount": 24, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "229086428", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Google Analytics", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1457994600000, 
+            "updated": 1456284257000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1454252703000, 
@@ -1330,6 +1260,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
