@@ -1,7 +1,7 @@
 [
     {
         "activity": [
-            35, 
+            28, 
             0, 
             2, 
             0, 
@@ -11,23 +11,23 @@
             7, 
             6, 
             3, 
+            2, 
+            2, 
+            1, 
+            5, 
             0, 
-            4, 
+            8, 
             0, 
-            6, 
             0, 
+            0, 
+            10, 
             6, 
             2, 
+            8, 
             0, 
-            0, 
-            9, 
-            7, 
-            1, 
-            9, 
-            0, 
+            41, 
             40, 
-            33, 
-            10, 
+            2, 
             0, 
             2, 
             3, 
@@ -708,8 +708,8 @@
             0, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -1416,8 +1416,8 @@
     }, 
     {
         "activity": [
-            0, 
             4, 
+            0, 
             3, 
             0, 
             0, 
@@ -2699,8 +2699,8 @@
             0, 
             0, 
             0, 
-            57, 
-            9, 
+            63, 
+            3, 
             0, 
             0, 
             0, 
@@ -2844,13 +2844,13 @@
     }, 
     {
         "activity": [
-            41, 
-            49, 
-            22, 
-            78, 
-            12, 
-            1, 
+            51, 
+            44, 
+            16, 
+            83, 
+            6, 
             2, 
+            1, 
             1, 
             6, 
             0, 
@@ -2867,8 +2867,8 @@
             0, 
             1, 
             0, 
-            3, 
-            14, 
+            5, 
+            12, 
             0, 
             0, 
             0, 
@@ -2999,7 +2999,7 @@
     }, 
     {
         "activity": [
-            14, 
+            12, 
             0, 
             1, 
             0, 
@@ -3187,7 +3187,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 111, 
+                "contributions": 114, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3234,16 +3234,16 @@
                 "name": "mattbailey0"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/10659084?v=3", 
-                "contributions": 7, 
-                "link": "https://github.com/omarimayerswalker", 
-                "name": "omarimayerswalker"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1606922?v=3", 
                 "contributions": 7, 
                 "link": "https://github.com/ParentJA", 
                 "name": "ParentJA"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10659084?v=3", 
+                "contributions": 7, 
+                "link": "https://github.com/omarimayerswalker", 
+                "name": "omarimayerswalker"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
@@ -3264,16 +3264,16 @@
                 "name": "afiedler"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/wam", 
-                "name": "wam"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12052154?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/JasonParentEAB", 
                 "name": "JasonParentEAB"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6122?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/wam", 
+                "name": "wam"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
@@ -3286,65 +3286,20 @@
                 "contributions": 2, 
                 "link": "https://github.com/tmcw", 
                 "name": "tmcw"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1151987?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/Martschink", 
+                "name": "Martschink"
             }
         ], 
-        "contributors_count": 17, 
+        "contributors_count": 18, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
         "forks": 34, 
         "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "Small content changes needed for the entire current code base (as opposed to the new code base specifically that creates a flow for legal clinics). \r\n\r\n1) Edit this page: https://www.cleanslatedc.com/#/eligibility/614\r\n-change \"charge disp\" date to charge disposition date. Only make this change within the question (as opposed to altering the helper text highlighted in blue). \r\n*double check to make sure that there are not other instances in the site to edit as well.\r\n2) Provide a link/button for those who find out they are not eligible for Actual innocence. Edit this page: https://www.cleanslatedc.com/#/eligibility/ineligibleAI. Change the helper text to recommend they hit \"restart\" and try to seal the crime under another category (i.e. conviction or non-conviction). \r\n3) Fix ineligible misdemeanors page:  https://www.cleanslatedc.com/#/eligibility/621. The helper text is acting wonking \r\n4) Edit this page: https://www.cleanslatedc.com/#/eligibility/621a . \r\nReplace \"Someone you know\" with \"someone you are related to by blood or marriage).\r\nInclude the following information in the helper text: \"Examples of someone related by blood or marriage are: wife/husband, daughter/son, nephew/neice, aunt/uncle, and an other step  family members.\" ", 
-                "comments": 0, 
-                "created_at": "2015-11-09T20:05:54Z", 
-                "issue": "4 quick edits to current code based for Clean-Slate (do this before creating code base for legal clinics) ", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/172", 
-                "labels": [
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "5319e7", 
-                        "name": "Priority #1", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-11-09T20:09:02Z"
-            }, 
-            {
-                "assignee": null, 
-                "body": "Once an individual selects they are a legal clinic, we need to add an introductory page/landing page. We have already recorded the video. This issue can be worked on after @jmezetin has submitted his redesign that creates a separate path for the legal clinic and seperate path for the public. ", 
-                "comments": 1, 
-                "created_at": "2015-11-09T19:13:27Z", 
-                "issue": "Once an individual selects they are a legal clinic, we need to add an introductory page/landing page. We have already recorded the video ", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/171", 
-                "labels": [
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "5319e7", 
-                        "name": "Priority #1", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%231"
-                    }, 
-                    {
-                        "color": "006b75", 
-                        "name": "Priority #2", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/Priority%20%232"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-11-09T20:14:56Z"
-            }, 
             {
                 "assignee": null, 
                 "body": "@John Leszczynski", 
@@ -3362,11 +3317,16 @@
                         "color": "159818", 
                         "name": "help wanted", 
                         "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "ffffff", 
+                        "name": "wontfix", 
+                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/wontfix"
                     }
                 ], 
                 "project": "Conviction Expungement", 
                 "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2015-10-28T10:47:14Z"
+                "updated_at": "2016-02-24T02:48:29Z"
             }
         ], 
         "homepage": "https://codefordc.github.io/clean-slate", 
@@ -3375,15 +3335,15 @@
         "languages": [
             [
                 "HTML", 
-                67723
+                132575
             ], 
             [
                 "JavaScript", 
-                61309
+                122618
             ], 
             [
                 "CSS", 
-                3906
+                7812
             ]
         ], 
         "license": {
@@ -3394,24 +3354,24 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 20, 
+        "open_issues": 23, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-23T16:26:08Z", 
+        "pushed_at": "2016-02-24T03:25:49Z", 
         "short_name": "clean-slate", 
-        "size": 10064, 
+        "size": 10071, 
         "updated_at": "2016-02-11T05:58:45Z", 
         "watchers": 17
     }, 
     {
         "activity": [
-            32, 
-            2, 
-            19, 
+            31, 
+            12, 
+            9, 
             7, 
             0, 
             0, 
@@ -3537,14 +3497,14 @@
             0, 
             0, 
             0, 
-            28, 
-            82, 
-            46, 
-            6, 
+            38, 
+            77, 
+            42, 
+            5, 
             2, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -3824,8 +3784,8 @@
             0, 
             16, 
             0, 
-            27, 
-            8, 
+            28, 
+            7, 
             1, 
             0, 
             0, 
@@ -3974,22 +3934,22 @@
             0, 
             0, 
             0, 
-            2, 
+            5, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             4, 
             0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            2, 
             0, 
             0, 
             0, 
@@ -4194,22 +4154,22 @@
             0, 
             6, 
             4, 
+            13, 
+            9, 
             6, 
+            0, 
             7, 
-            15, 
-            0, 
-            0, 
-            9, 
-            6, 
-            8, 
-            39, 
             2, 
-            17, 
-            9, 
-            15, 
+            11, 
+            4, 
+            40, 
+            7, 
             10, 
-            58, 
-            43
+            20, 
+            4, 
+            21, 
+            60, 
+            30
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4510,21 +4470,21 @@
             0, 
             0, 
             0, 
-            0, 
-            3, 
-            0, 
+            1, 
+            2, 
             0, 
             4, 
             0, 
-            10, 
+            2, 
+            8, 
             12, 
             28, 
+            24, 
+            17, 
             23, 
-            14, 
             27, 
-            23, 
-            43, 
-            12
+            48, 
+            6
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4654,16 +4614,15 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-23T01:14:04Z", 
+        "pushed_at": "2016-02-24T15:58:26Z", 
         "short_name": "school-modernization", 
-        "size": 7518, 
+        "size": 7564, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
     {
         "activity": [
-            1, 
-            1, 
+            2, 
             0, 
             0, 
             0, 
@@ -4698,12 +4657,13 @@
             0, 
             0, 
             4, 
-            1, 
-            0, 
-            0, 
-            0, 
             0, 
             1, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4834,9 +4794,9 @@
             0, 
             0, 
             0, 
-            29, 
-            28, 
-            26, 
+            40, 
+            22, 
+            21, 
             0, 
             0, 
             0, 
@@ -5112,8 +5072,8 @@
             0, 
             0, 
             0, 
-            0, 
             5, 
+            0, 
             0
         ], 
         "ci": {
