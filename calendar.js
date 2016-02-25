@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "announced": true, 
@@ -188,7 +188,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1454948077000, 
@@ -227,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 252
+            "yes_rsvp_count": 254
         }, 
         {
             "created": 1455043587000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1454252703000, 
@@ -372,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1326383071000, 
@@ -487,7 +487,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 39, 
+            "waitlist_count": 40, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -571,7 +571,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1455927414000, 
@@ -660,7 +660,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1454252703000, 
@@ -902,6 +902,47 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1456402619000, 
+            "description": "<p>Do you want to join a\u00a0<b>high-impact team\u00a0</b>and work on\u00a0<b>10x ideas and Moonshots\u00a0</b>towards solving some of the most difficult challenges facing humanity?</p> <p>On\u00a0<b>Saturday, April 2nd 2016,</b>\u00a0<a href=\"http://teamexponent.com/\">Team Exponent</a>, in partnership with\u00a0<a href=\"http://www.meetup.com/gdg-dc/\">GDG DC</a>\u00a0and Capital One, is hosting a 1-day\u00a0<b>10x Moonshot Sprint</b>\u00a0session to solve for\u00a0<i>Climate Change through robotics, artificial intelligence and biotech</i>. This is your chance to be a part of something with high-value and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist, Designer, PM or purely passionate about solving for this challenge through moonshot thinking, this is a chance to meet likeminded individuals with the various skills needed to ideate, prototype and bring a potential moonshot project to life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\u00a0for an opportunity to join this unique experience.</p> <p><br/>For more details, visit\u00a0<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\" class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\u00a0<a href=\"http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review all applications and notify you if you are selected, participation is through invitation only and will require a $20 admin registration fee upon confirmation.\u00a0</i><i>The event session will include meals and drinks, and materials required for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\" /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\">Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots, sustainability and the pursuit of change and innovation. Katy develops and executes strategies to solve complex problems using technology, with a focus on achieving product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\u00a0<br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in New York City, inspiring 10x Moonshot thinking and education. We believe in the potential of 10x Moonshot ideas and high-impact teams to help us solve our toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a> | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
+            "duration": 32400000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/229122044/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Moonshot, Startups, Venture, Climate, #BioTech", 
+            "id": "229122044", 
+            "maybe_rsvp_count": 0, 
+            "name": "10x Moonshot Sprint in Washington DC", 
+            "rsvp_limit": 3, 
+            "status": "upcoming", 
+            "time": 1459603800000, 
+            "updated": 1456409602000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1680 Capital One Drive", 
+                "city": "McLean", 
+                "country": "us", 
+                "id": 23933274, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Capital One", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1452612310000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
@@ -988,6 +1029,53 @@ calendar({
                 "localized_country_name": "USA", 
                 "lon": -77.037186000000005, 
                 "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1456426141000, 
+            "description": "<p>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (April 7, 14, 21 and 28; 7-9p).\u00a0\u00a0</p> <p>\n\n\n<b>Introduction to HTML/CSS:\u00a0</b></p> <p>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>We will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p>\n\n\n<b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Thursday, April 7, 7-9p</p> <p>Class 2, Introduction to CSS: Thursday, April 14, 7-9p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Thursday, April 21, 7-9p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday, April 28, 7-9p</p> <p>Curriculum is available <a href=\"https://www.girldevelopit.com/materials/html-intro\">here</a>. Please note that everything in the curriculum will be covered but there may also be additional material depending on the pace of the class.\u00a0</p> <p><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/a/7/4/b/600_447222827.jpeg\" /></p> <p>Jisan is a Fullstack Software Developer, originally from NYC. He works as a technical consultant for Blackstone Technology Group. In his day to day, he works constantly with JavaScript, HTML5, CSS, AngularJS, NodeJS, MongoDB, Cordova/Phonegap, and a bit of iOS and Android. In his spare time, he cooks/bakes, blues dances, travels whenever he can.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>GovDelivery is conveniently located at[masked]th St NW (STE 800) - a few blocks from the Farragut North metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229129701/", 
+            "fee": {
+                "accepts": "wepay", 
+                "amount": 90, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "229129701", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to HTML/CSS", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1460070000000, 
+            "updated": 1456426141000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1152 15th St NW, STE 800", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24390004, 
+                "lat": 38.904938000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.035278000000005, 
+                "name": "GovDelivery", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -1169,7 +1257,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
