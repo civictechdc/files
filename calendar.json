@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": true, 
@@ -82,124 +82,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1455056568000, 
-            "description": "<p>Interested in exploring \u00a0the U.S. Department of Commerce's vast data lake, including\u00a0tens of thousands of datasets ranging from satellite imagery to material standards to demographic surveys? Want to\u00a0showcase your data visualization talents? Have a novel insight on the American experience? Passionate for the public good? \u00a0Then the U.S. Department of Commerce is\u00a0interested in working with you!</p> <p>The Commerce Department is launching the <a href=\"https://www.commerce.gov/datausability/\">Commerce Usability Project</a>. It\u2019s an effort towards making the knowledge required to use government data more open. They aim to provide enough insight, familiarity, and code to enable users to do amazing things with free data. That\u2019s why they are putting out an open call to academia, industry and government to collaborate, demonstrate, and improve their data assets. The Department of Commerce wants to recognize YOUR expertise and contributions to their public data assets!</p> <p><b>Agenda:</b></p> <p><br/>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 7:30PM Speaker presentation</p> <p>7:30PM - 8:00PM Audience Q &amp; A</p> <p>8:00PM - \u00a0 Data drinks</p> <p><br/><b>Star Ying, Data Scientist</b></p> <p><a href=\"https://twitter.com/star_is_here?lang=en\">@star_is_here</a></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/e/2/4/600_447144100.jpeg\" /></p> <p>Star Ying is a Data Scientist with the Commerce Data Service, promoting and innovating new data products across the Department of Commerce. Previously, he served as a Mathematical Statistician in the U.S. Census Bureau, working with the Decennial Census operation, the American Community Survey, Reimbursable Demographic Surveys, and Economic Indicator Surveys.</p> <p>\n\n\n\n<b>Self-Starters</b></p> <p>Interested in getting started? Here are some examples that have already been developed:</p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_noaa_hail/\">NOAA\u2019s Severe Weather Data Inventory Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_nist_nvd/\">NIST\u2019s National Vulnerability Database Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_acs_rank/\">US Census Bureau\u2019s American Community Survey Tutorial</a></p> <p>\u2022\u00a0<a href=\"http://commercedataservice.github.io/tutorial_viirs_part1/\">NOAA\u2019s Visible Infrared Radiometer Suite Tutorial</a></p> <p><br/><b>Conditions</b></p> <p>\u2022\u00a0All data used and code developed must be open and free.</p> <p>\u2022\u00a0Individuals/groups are encouraged to use commerce data combined with other publicly available data.</p> <p>- Commerce Data can be found on\u00a0<a href=\"http://www.data.commerce.gov/\">DOC Data Portal</a>.</p> <p>- The Commerce Department Data Science team is also putting together a\u00a0<a href=\"https://docs.google.com/spreadsheets/d/1fK0TB1GaWJyv3eOd53dOzBuk3rYpCpsRWpoz3rwouKo/edit?usp=sharing.\">masterlist</a>. They are adding more datasets to this base list with some ideas of what can be done with them.</p> <p>\u2022\u00a0Each submission must have at least 2 visualizations. \u00a0</p> <p>\u2022\u00a0At least one of the visualizations should be interactive</p> <p>\u2022\u00a0Code can be embedded in HTML</p> <p>\u2022\u00a0Contributions may be made by individuals as well as teams</p> <p>Guidance is available from the Department of Commerce Data Science Team:\u00a0Jeff Chen, Chief Data Scientist, US Department of Commerce;\u00a0Star Ying, Data Scientist, US Department of Commerce;\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/>&lt;a href=\"https://www.commerce.gov/datausability/\"&gt;&lt;/a&gt;</p>", 
-            "event_url": "http://www.meetup.com/Data-Business-DC/events/228735636/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Business-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "228735636", 
-            "maybe_rsvp_count": 0, 
-            "name": "Exploring the Commerce Data Lake", 
-            "status": "upcoming", 
-            "time": 1456354800000, 
-            "updated": 1456156725000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 105
-        }, 
-        {
-            "created": 1453691652000, 
-            "description": "<p>Instead of our regularly scheduled Rails meetup, let's all represent Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event of its kind event to unabashedly\u00a0celebrate the success of women in the DC tech community.\u00a0We'll join DCFemTech to share and celebrate your accomplishments, large and small.</p> <p>Expect a good mix of networking, small activities, heavy hors d'oeuvres and a celebratory toast for a great year ahead.</p> <p>Share your success, celebrate others, and empower our community.</p> <p><b>It's free to attend, but you have to register here: <a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\" class=\"linkified\">https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082</a></b></p> <p>About DCFemTech:\u00a0</p> <p>DCFemTech is a collective of more than a dozen women in tech organizations in DC including\u00a0Code and Coffee, Code for Progress, DC Web Women, DC PyLadies, Georgetown Women Who Code, Girl Develop It DC, Girls Excelling in Math &amp; Science, Hear Me Code, Ladies Who Code DC, National Center for Women in Tech, Rails Girls DC, Women in Tech Campaign, Women's Society of Cyberjutsu, Women Who Code DC, Women 2.0 City Meetup, and more!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228338446/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Register: https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082", 
-            "id": "228338446", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails @ DCFemTech INSPIRE event", 
-            "status": "upcoming", 
-            "time": 1456356600000, 
-            "updated": 1455030562000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1424 K ST NW #300", 
-                "city": "WASHINGTON", 
-                "country": "us", 
-                "id": 24356181, 
-                "lat": 38.902144999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.032936000000007, 
-                "name": "nclud", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
-            "created": 1455403462000, 
-            "description": "<p>Instead of meeting at our regularly schedule Python meetup group,\u00a0let's all represent Women Who Code DC at the DCFemTech Inspire event! Inspire is the first event of its kind event to unabashedly\u00a0celebrate the success of women in the DC tech community.\u00a0We'll join DCFemTech to share and celebrate your accomplishments, large and small.</p> <p>Register: <a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\"><a href=\"https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082\" class=\"linkified\">https://www.eventbrite.com/e/dcfemtech-inspire-tickets-21366602082</a></a></p> <p>.</p> <p><b>About Python Meetup Group</b></p> <p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p>\n\n(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228834179/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Near McPherson Square Metrostatio", 
-            "id": "228834179", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python @ DCFemTech INSPIRE event", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1456356600000, 
-            "updated": 1455758041000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1424 K ST NW #300", 
-                "city": "WASHINGTON", 
-                "country": "us", 
-                "id": 24356181, 
-                "lat": 38.902144999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.032936000000007, 
-                "name": "nclud", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
-        }, 
         {
             "created": 1454529221000, 
             "description": "<p><b>Please RSVP here:</b>\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/228569951</a></a></p> <p>All of us have dealt with pesky bugs in our Android applications. And although, the\u00a0Android SDK provides most of the tools that you need to debug your applications it's always good to know what else is available.\u00a0We're going to cover Stetho to debug your apps along with other debugging tips. In this meetup learn how to track down bugs like a Pro!</p> <p>_____</p> <p>Schedule:\u00a0</p> <p>6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- Debugging with Stetho - Jared Sheehan</p> <p>7:00 p.m. -- TBD</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid\u00a0or use the #DCAndroid\u00a0hashtag!</p>", 
@@ -345,7 +227,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 250
+            "yes_rsvp_count": 252
         }, 
         {
             "created": 1455043587000, 
@@ -383,7 +265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1454252703000, 
@@ -571,7 +453,7 @@
         }, 
         {
             "created": 1453051773000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022 <a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
             "group": {
                 "created": 1384372275000, 
@@ -590,7 +472,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1456332391000, 
+            "updated": 1456373279000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -605,7 +487,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -1367,6 +1249,34 @@
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745417/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvhbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463005800000, 
+            "updated": 1454624061000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p>The United States Patent Office has been trying to innovate and replace closed systems with systems built on open or open source technologies. One of the current challenges has been to create a new patent search for examiners. The challenge is not only to make patents for the united states available to the examiners, but eventually all of the patent organizations around the world.\u00a0</p> <p>Examiners have a lot of domain knowledge and the way they query the current system must be maintained. It's a little more complicated than boolean queries, and less complicated than natural language search. Rahul will talk about his experience in working on and improving a system built on Java, Scala, Cassandra, Spark, SolR, Dojo, jQuery UI. The goal is for you to understand how large scale organizations deal with changing technology and some business and technology take aways.\u00a0</p> <p><br/><b>Our Speaker</b></p> <p>Rahul Singh is a technology minded business person and a business minded technologist. As CEO of a company devoted to solving the most difficult problems in streamlining, organizing, and unifying business information, he is responsible for training the team, overseeing and creating technology with the research and development team, and fostering client and service partner relationships.\u00a0</p> <p>Although he\u2019s programmed in over 30 computer languages and has worked with numerous platforms, frameworks, and libraries across all major internet software systems, he likes to spend his time sharpening his skills in information retrieval (search), knowledge management, business information systems, and machine learning to come up with ideas for a smarter, more modern enterprise.</p>", 
             "duration": 9000000, 
@@ -1392,6 +1302,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 20
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvhbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
