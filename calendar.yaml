@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -76,7 +76,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 other:
 - created: 1453727135000
   description: "<p>Flask is a microframework that is great for creating websites with\
@@ -266,7 +266,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 259
+  yes_rsvp_count: 260
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -295,7 +295,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 99
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -355,7 +355,7 @@ other:
     lon: -77.036873, name: HacDC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 13
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -386,7 +386,7 @@ other:
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 6
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -453,7 +453,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 48
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -486,7 +486,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -543,8 +543,8 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: WeWork Wonder Bread Factory, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 42
-  yes_rsvp_count: 100
+  waitlist_count: 43
+  yes_rsvp_count: 101
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -719,7 +719,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
