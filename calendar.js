@@ -83,46 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1454529221000, 
-            "description": "<p><b>Please RSVP here:</b>\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/228569951\"><a href=\"http://www.meetup.com/DCAndroid/events/228569951\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/228569951</a></a></p> <p>All of us have dealt with pesky bugs in our Android applications. And although, the\u00a0Android SDK provides most of the tools that you need to debug your applications it's always good to know what else is available.\u00a0We're going to cover Stetho to debug your apps along with other debugging tips. In this meetup learn how to track down bugs like a Pro!</p> <p>_____</p> <p>Schedule:\u00a0</p> <p>6:00 p.m. -- Refreshments and Networking</p> <p>6:30 p.m. -- Debugging with Stetho - Jared Sheehan</p> <p>7:00 p.m. -- TBD</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid\u00a0or use the #DCAndroid\u00a0hashtag!</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/228587290/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "id": "228587290", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Debugging Tips", 
-            "status": "upcoming", 
-            "time": 1456441200000, 
-            "updated": 1454529221000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW, Suite 200", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 4867002, 
-                "lat": 38.899151000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.033195000000006, 
-                "name": "LivingSocial", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 29
-        }, 
-        {
             "created": 1453727135000, 
             "description": "<p>Flask is a microframework that is great for creating websites with minimal Python experience. If you know how to make a function, you can make a Flask website!</p> <p><b>Outline:</b></p> <p>\u2022 Getting up and running with pip</p> <p><br/>\u2022 Using templates\u00a0</p> <p><br/>\u2022 Using Jinja variables and logic</p> <p><br/>\u2022 Using pip freeze to make your project portable</p> <p><br/>\u2022 Using bootstrap</p> <p><br/>\u2022 Creating forms</p> <p><br/>\u2022 Talking to an API (if we have time)</p> <p>\n\n\n\n<b>For this class you will need the following:</b></p> <p>\u2022 Knowledge of the basics of Python (variables, loops, logic, functions)</p> <p><br/>\u2022 A Cloud 9 account (<a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a>)</p> <p><br/>\u2022 A good internet connection (otherwise the stream may get choppy for you)</p>", 
             "duration": 10800000, 
@@ -188,7 +148,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1454948077000, 
@@ -227,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 254
+            "yes_rsvp_count": 258
         }, 
         {
             "created": 1455043587000, 
@@ -265,7 +225,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1454252703000, 
@@ -332,7 +292,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -372,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1326383071000, 
@@ -487,7 +447,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 40, 
+            "waitlist_count": 42, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -571,7 +531,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1455927414000, 
@@ -660,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1454252703000, 
@@ -939,7 +899,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -996,6 +956,54 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1456431672000, 
+            "description": "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke your code and forgot how it was working before? Want to work together with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these and other problems!</p> <p>Git\u00a0is a popular version control application that can track your code changes, as well as help you to be more methodical in your programming. Win-win! This session will introduce the basics of version control, how to use git to keep track of your changes to a project, and using\u00a0GitHub\u00a0(a hosting service) to collaborate with other developers.\u00a0</p> <p>\n\n\n<b>Outline of Session:</b></p> <p>You will learn -\u00a0</p> <p>\u2022\u00a0the basic concepts of version control\u00a0</p> <p>\u2022\u00a0the differences between git and other version control applications</p> <p>\u2022\u00a0fundamental git commands to track changes to a small project</p> <p>\u2022\u00a0the basics of collaborating on code with other developers\u00a0</p> <p>\u2022\u00a0 how to use GitHub\u00a0</p> <p>Curriculum is available\u00a0<a href=\"https://www.girldevelopit.com/materials/intro-git-github\">here</a>. Please note that everything in the curriculum will be covered but there may also be additional material depending on the pace of the class.</p> <p>\n\n\n\n<b>Prerequisites:</b></p> <p>You just need a bit of experience writing code - of any kind! HTML, CSS, JavaScript, Ruby, Python - any one of those is great! Doesn't matter. There's no particular language required.</p> <p>You also need to have a willingness to use the command line to execute commands. Don't be scared! We'll show you how.</p> <p>\n\n\n<b>What to Bring:</b></p> <p>Please bring a laptop and charger to class. A netbook or tablet is NOT a substitute.\u00a0Power outlets and wifi will be provided. You may also wish to bring a notepad and pen/pencil for taking notes.\u00a0</p> <p>Please attempt to install Github prior to the class. You can find <a href=\"https://help.github.com/desktop/guides/getting-started/installing-github-desktop/#platform-mac\">mac instructions here</a>, and <a href=\"https://help.github.com/desktop/guides/getting-started/installing-github-desktop/#platform-windows\">windows instructions here</a>. If you run into issues, no worries, we will open the class by helping you troubleshoot any installation issues.\u00a0</p> <p><br/><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/b/0/600_441079120.jpeg\" /></p> <p>Valerie Woolard is a software engineer. She loves Ruby, Python, algorithms, test-driven development, and teaching other people about those things. She holds a master's degree in computer science from the University of Chicago and bachelor's degrees in French and cognitive science from the University of California, Berkeley. She's always happy to chat about linguistics, diversity in tech, running, musical theatre, and her ever-expanding list of books to read.\u00a0</p> <p>\n\n\n<b>Getting there:\u00a0</b></p> <p>Social Tables is conveniently located at 1325 G Street NW (3rd Floor)\u00a0- a couple of blocks from Metro Center station (on the red, blue and orange line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229132299/", 
+            "fee": {
+                "accepts": "wepay", 
+                "amount": 24, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "229132299", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Git and Github", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1459983600000, 
+            "updated": 1456431672000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
