@@ -152,7 +152,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -266,7 +266,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 264
+  yes_rsvp_count: 267
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -386,7 +386,7 @@ other:
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -431,7 +431,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -453,7 +453,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 53
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -673,7 +673,7 @@ other:
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 45
+  waitlist_count: 46
   yes_rsvp_count: 3
 - created: 1456284196000
   description: "<p><b>Introduction to Google Analytics:\_\_</b></p> <p>This course\
@@ -946,7 +946,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 17
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
