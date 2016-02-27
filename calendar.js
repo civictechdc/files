@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1455742958000, 
@@ -148,7 +148,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1454948077000, 
@@ -225,7 +225,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1454252703000, 
@@ -249,11 +249,11 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1456875000000, 
-            "updated": 1454252703000, 
+            "updated": 1456591707000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1456203496000, 
@@ -330,7 +330,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -370,11 +370,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more. This month - we're going to hear from those trailblazing into new geo-territory.\u00a0</p> <p><br/>\u2022 Sean Gorman - from <a href=\"http://timbr.io/\">Timbr</a> - is going to talk to us about ending the tyranny of buttons: making code driven analysis more accessible. \u00a0 Too often our geospatial analysis options are limited by user interfaces.\u00a0 Code driven analysis opens up a new world of possibilities, but the programming, dev ops and mathematical prerequisites limit accessibility.\u00a0 Can we leverage crowd sourcing and more intelligent data collection to help solve this problem?</p> <p><br/>\u2022 Max Tsvetovat from the Open Cancer Network -\u00a0will talk about their big data analytics platform that enables identification of unusual patterns causing chronic diseases such as cancer.</p> <p><br/>We still have room for more! If you, or someone you know is in the start-up space send us a message and we'll add them in.\u00a0</p> <p>As usual, we will make time to announce any job postings and upcoming geo-events.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/221052566/", 
             "group": {
                 "created": 1307975249000, 
@@ -390,10 +390,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvfbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC March: Start Ups", 
             "status": "upcoming", 
             "time": 1456963200000, 
-            "updated": 1446214011000, 
+            "updated": 1456588138000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -409,7 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1451511271000, 
@@ -510,11 +510,11 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1454252703000, 
+            "updated": 1456591752000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220149000, 
@@ -723,7 +723,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 173
         }, 
         {
             "created": 1455416543000, 
@@ -828,7 +828,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1454252703000, 
@@ -993,7 +993,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1456431672000, 

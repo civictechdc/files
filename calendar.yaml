@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -109,7 +109,7 @@ other:
     lon: -77.036873, name: Katie's YouTube stream, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1455742958000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -152,7 +152,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -295,7 +295,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 100
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -330,11 +330,11 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1456875000000
-  updated: 1454252703000
+  updated: 1456591707000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1456203496000
   description: <p>Join us at HacDC next Tuesday, March 1st at 7:30pm.<br/><a href="http://www.meetup.com/hac-dc/events/229035155/"
     class="linkified">http://www.meetup.com/hac-dc/events/229035155/</a></p>
@@ -386,7 +386,7 @@ other:
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 9
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -431,11 +431,23 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
+    \ network, and hear about the work people are doing with maps, GIS, geodata, and\
+    \ more. This month - we're going to hear from those trailblazing into new geo-territory.\_\
+    </p> <p><br/>\u2022 Sean Gorman - from <a href=\"http://timbr.io/\">Timbr</a>\
+    \ - is going to talk to us about ending the tyranny of buttons: making code driven\
+    \ analysis more accessible. \_ Too often our geospatial analysis options are limited\
+    \ by user interfaces.\_ Code driven analysis opens up a new world of possibilities,\
+    \ but the programming, dev ops and mathematical prerequisites limit accessibility.\_\
+    \ Can we leverage crowd sourcing and more intelligent data collection to help\
+    \ solve this problem?</p> <p><br/>\u2022 Max Tsvetovat from the Open Cancer Network\
+    \ -\_will talk about their big data analytics platform that enables identification\
+    \ of unusual patterns causing chronic diseases such as cancer.</p> <p><br/>We\
+    \ still have room for more! If you, or someone you know is in the start-up space\
+    \ send us a message and we'll add them in.\_</p> <p>As usual, we will make time\
+    \ to announce any job postings and upcoming geo-events.\_</p>"
   event_url: http://www.meetup.com/Geo-DC/events/221052566/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -443,17 +455,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcyvfbdb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'GeoDC March: Start Ups'
   status: upcoming
   time: 1456963200000
-  updated: 1446214011000
+  updated: 1456588138000
   utc_offset: -18000000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -579,11 +591,11 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1457479800000
-  updated: 1454252703000
+  updated: 1456591752000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -839,7 +851,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 172
+  yes_rsvp_count: 173
 - created: 1455416543000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -946,7 +958,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 24
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1154,7 +1166,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
