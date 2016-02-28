@@ -78,38 +78,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 16
 other:
-- created: 1453727135000
-  description: "<p>Flask is a microframework that is great for creating websites with\
-    \ minimal Python experience. If you know how to make a function, you can make\
-    \ a Flask website!</p> <p><b>Outline:</b></p> <p>\u2022 Getting up and running\
-    \ with pip</p> <p><br/>\u2022 Using templates\_</p> <p><br/>\u2022 Using Jinja\
-    \ variables and logic</p> <p><br/>\u2022 Using pip freeze to make your project\
-    \ portable</p> <p><br/>\u2022 Using bootstrap</p> <p><br/>\u2022 Creating forms</p>\
-    \ <p><br/>\u2022 Talking to an API (if we have time)</p> <p>\n\n\n\n<b>For this\
-    \ class you will need the following:</b></p> <p>\u2022 Knowledge of the basics\
-    \ of Python (variables, loops, logic, functions)</p> <p><br/>\u2022 A Cloud 9\
-    \ account (<a href=\"https://c9.io\" class=\"linkified\">https://c9.io</a>)</p>\
-    \ <p><br/>\u2022 A good internet connection (otherwise the stream may get choppy\
-    \ for you)</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/dc-pyladies/events/228344731/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  how_to_find_us: Just be on the stream at 9:30am EST!
-  id: '228344731'
-  maybe_rsvp_count: 0
-  name: Learn Flask in your PJs!
-  status: upcoming
-  time: 1456669800000
-  updated: 1453928655000
-  utc_offset: -18000000
-  venue: {address_1: 'http://www.youtube.com/c/KatieCunningham/live', city: Online,
-    country: us, id: 24325392, lat: 38.907192000000002, localized_country_name: USA,
-    lon: -77.036873, name: Katie's YouTube stream, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 54
 - created: 1455742958000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -152,7 +120,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -266,7 +234,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 270
+  yes_rsvp_count: 274
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -295,7 +263,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 101
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -386,7 +354,7 @@ other:
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 10
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -465,7 +433,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 58
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -498,7 +466,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1456641001000
   description: "<p>For our March Data Science DC Meetup, we will be exploring the\
     \ rapidly developing field of quantum computing. John Kelly and Tristan Cook,\
@@ -544,7 +512,7 @@ other:
       Room 415', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 117
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -1047,7 +1015,35 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
+- created: 1456679073000
+  description: "<p>Learn the basics of using Django to create a basic app. We will\
+    \ be going over:</p> <p>\u2022 Setting up a basic project<br/>\u2022 Creating\
+    \ a model<br/>\u2022 Setting up the admin<br/>\u2022 Creating views<br/>\u2022\
+    \ Adding in templates This class will be held remotely using the Cloud 9 IDE.\
+    \ This IDE is free, and will make troubleshooting your environment a ton easier\
+    \ for us! This class will be held via YouTube Live. You can watch it via Katie's\
+    \ YouTube channel. There will also be a chat room where you can chat with other\
+    \ students and get help from volunteers. You will need:</p> <p>\u2022 Coffee.\
+    \ We start early!<br/>\u2022 A good Internet connection. Don't try to do this\
+    \ at a coffee shop!<br/>\u2022 A Cloud 9 account (<a href=\"http://c9.io\" class=\"\
+    linkified\">http://c9.io</a>)<br/>\u2022 A Github account (<a href=\"http://github.com\"\
+    \ class=\"linkified\">http://github.com</a>)</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/dc-pyladies/events/229200611/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  id: '229200611'
+  maybe_rsvp_count: 0
+  name: Learn Django in your PJs!
+  status: upcoming
+  time: 1458480600000
+  updated: 1456679180000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
