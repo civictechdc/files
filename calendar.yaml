@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -152,7 +152,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -266,7 +266,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 268
+  yes_rsvp_count: 270
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -355,7 +355,7 @@ other:
     lon: -77.036873, name: HacDC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -499,6 +499,52 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 27
+- created: 1456641001000
+  description: "<p>For our March Data Science DC Meetup, we will be exploring the\
+    \ rapidly developing field of quantum computing. John Kelly and Tristan Cook,\
+    \ of QxBranch, will introduce us to quantum computing and discuss what it can\
+    \ bring to machine learning.\_</p> <p><br/><b>Agenda:</b></p> <p>\u2022\_6:30pm\
+    \ -- Networking, Empanadas, and Refreshments</p> <p>\u2022\_7:00pm -- Introduction,\
+    \ Announcements</p> <p>\u2022\_7:15pm -- Presentation and Discussion</p> <p>\u2022\
+    \_8:30pm -- Data Drinks (Location TBA)</p> <p><b>Abstract:</b></p> <p>Check back\
+    \ here Monday for further details on the talk.</p> <p><b>Bio:</b></p> <p>Check\
+    \ back here Monday for further details about John Kelly and Tristan Cook of QxBranch.</p>\
+    \ <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
+    >George Washington Business School MS in Business Analytics Program</a>,\_<a href=\"\
+    http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"http://datamininglab.com/\"\
+    >Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Booz Allen Hamilton</a>,\_<a href=\"http://engineering.aol.com/\">AOL</a>, and\_\
+    <a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\_(Would your organization\
+    \ like to sponsor too? Please get in touch!)\_</p> <p>Also, here's a special note\
+    \ from Data Community DC's newest educational partner and sponsor,\_<a href=\"\
+    http://datasociety.co/\">Data Society</a>.\_They have a limited-time offer during\
+    \ the\_</p> <p><a href=\"https://www.kickstarter.com/projects/978832055/data-science-for-everyone\"\
+    >Kickstarter</a>\_campaign of\_LIFETIME ACCESS\_to the hands-on data science bootcamp.\
+    \ You will learn how to use supervised and unsupervised machine learning in your\
+    \ work, how to use text mining to classify text data (tweets, blogs, e-mails)\
+    \ and how to mine social media to identify key connectors and influencers (and\
+    \ lots more!). The courses are taught in R and provide you with downloadable code\
+    \ templates and companion guides. Less than 3 weeks left before the Kickstarter,\
+    \ and this offer, ends for good!</p>"
+  event_url: http://www.meetup.com/Data-Science-DC/events/229192610/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '229192610'
+  maybe_rsvp_count: 0
+  name: Quantum Computing and Machine Learning
+  rsvp_limit: 500
+  status: upcoming
+  time: 1457479800000
+  updated: 1456641001000
+  utc_offset: -18000000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 24394445, lat: 38.898685,
+    localized_country_name: USA, lon: -77.049187000000003, name: 'GWU, Funger Hall,
+      Room 415', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 34
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -667,7 +713,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1001,7 +1047,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -1379,7 +1425,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcyvgbjb/
+  event_url: http://www.meetup.com/Geo-DC/events/229193679/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0

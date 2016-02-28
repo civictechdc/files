@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "announced": true, 
@@ -148,7 +148,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1454948077000, 
@@ -187,7 +187,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 268
+            "yes_rsvp_count": 270
         }, 
         {
             "created": 1455043587000, 
@@ -291,7 +291,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1446219481000, 
@@ -450,6 +450,45 @@
             "yes_rsvp_count": 27
         }, 
         {
+            "created": 1456641001000, 
+            "description": "<p>For our March Data Science DC Meetup, we will be exploring the rapidly developing field of quantum computing. John Kelly and Tristan Cook, of QxBranch, will introduce us to quantum computing and discuss what it can bring to machine learning.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Location TBA)</p> <p><b>Abstract:</b></p> <p>Check back here Monday for further details on the talk.</p> <p><b>Bio:</b></p> <p>Check back here Monday for further details about John Kelly and Tristan Cook of QxBranch.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p> <p>Also, here's a special note from Data Community DC's newest educational partner and sponsor,\u00a0<a href=\"http://datasociety.co/\">Data Society</a>.\u00a0They have a limited-time offer during the\u00a0</p> <p><a href=\"https://www.kickstarter.com/projects/978832055/data-science-for-everyone\">Kickstarter</a>\u00a0campaign of\u00a0LIFETIME ACCESS\u00a0to the hands-on data science bootcamp. You will learn how to use supervised and unsupervised machine learning in your work, how to use text mining to classify text data (tweets, blogs, e-mails) and how to mine social media to identify key connectors and influencers (and lots more!). The courses are taught in R and provide you with downloadable code templates and companion guides. Less than 3 weeks left before the Kickstarter, and this offer, ends for good!</p>", 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/229192610/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "229192610", 
+            "maybe_rsvp_count": 0, 
+            "name": "Quantum Computing and Machine Learning", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1457479800000, 
+            "updated": 1456641001000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24394445, 
+                "lat": 38.898685, 
+                "localized_country_name": "USA", 
+                "lon": -77.049187000000003, 
+                "name": "GWU, Funger Hall, Room 415", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 34
+        }, 
+        {
             "created": 1453051773000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
@@ -582,7 +621,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1417881835000, 
@@ -868,7 +907,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1454252703000, 
@@ -1164,7 +1203,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvgbjb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/229193679/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
