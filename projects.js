@@ -562,8 +562,8 @@ projects([
     }, 
     {
         "activity": [
-            1, 
-            1, 
+            2, 
+            0, 
             0, 
             0, 
             0, 
@@ -1229,7 +1229,7 @@ projects([
     }, 
     {
         "activity": [
-            5, 
+            3, 
             0, 
             0, 
             0, 
@@ -3187,7 +3187,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 118, 
+                "contributions": 132, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3335,7 +3335,7 @@ projects([
         "languages": [
             [
                 "HTML", 
-                132313
+                132609
             ], 
             [
                 "JavaScript", 
@@ -3361,9 +3361,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-27T18:56:08Z", 
+        "pushed_at": "2016-02-27T19:25:14Z", 
         "short_name": "clean-slate", 
-        "size": 10079, 
+        "size": 10086, 
         "updated_at": "2016-02-11T05:58:45Z", 
         "watchers": 17
     }, 
@@ -3947,8 +3947,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             0, 
