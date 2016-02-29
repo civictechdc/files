@@ -5,28 +5,28 @@ projects([
             0, 
             2, 
             0, 
-            2, 
             11, 
-            10, 
+            4, 
+            8, 
             6, 
-            1, 
-            2, 
+            3, 
+            0, 
             4, 
             0, 
             3, 
             3, 
+            4, 
+            4, 
+            0, 
+            0, 
+            8, 
             2, 
-            6, 
-            0, 
-            0, 
             7, 
-            3, 
-            6, 
-            10, 
+            9, 
             0, 
-            3, 
-            65, 
-            15, 
+            9, 
+            63, 
+            11, 
             0, 
             2, 
             3, 
@@ -43,8 +43,8 @@ projects([
             0, 
             2, 
             0, 
-            2, 
             3, 
+            2, 
             0, 
             0, 
             0, 
@@ -562,7 +562,7 @@ projects([
     }, 
     {
         "activity": [
-            2, 
+            1, 
             0, 
             0, 
             0, 
@@ -1229,7 +1229,7 @@ projects([
     }, 
     {
         "activity": [
-            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -1558,11 +1558,11 @@ projects([
     }, 
     {
         "activity": [
-            1, 
+            0, 
             0, 
             1, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -2042,9 +2042,15 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 66, 
+                "contributions": 68, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7322903?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/bcell", 
+                "name": "bcell"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7241408?v=3", 
@@ -2053,28 +2059,22 @@ projects([
                 "name": "romoy"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7322903?v=3", 
-                "contributions": 4, 
-                "link": "https://github.com/bcell", 
-                "name": "bcell"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
                 "contributions": 3, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/mchelen", 
-                "name": "mchelen"
             }
         ], 
         "contributors_count": 6, 
@@ -2111,16 +2111,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 18, 
+        "open_issues": 15, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-25T19:58:45Z", 
+        "pushed_at": "2016-02-28T20:55:50Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 46258, 
+        "size": 54862, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
@@ -3183,11 +3183,56 @@ projects([
             "coverage": false, 
             "travis": true
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "contact": {
+                "email": "Brianecknight@gmail.com", 
+                "name": "Briane", 
+                "url": "https://twitter.com/bchanellek"
+            }, 
+            "data": [], 
+            "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
+            "geography": [
+                "Washington DC"
+            ], 
+            "homepage": "https://codefordc.github.io/clean-slate", 
+            "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json", 
+            "license": "MIT", 
+            "links": [
+                "https://codefordc.slack.com/messages/clean_slate/"
+            ], 
+            "name": "Conviction Expungement", 
+            "partners": [
+                {
+                    "email": "", 
+                    "name": "Mission Launch", 
+                    "url": "http://www.mission-launch.org/"
+                }, 
+                {
+                    "email": "", 
+                    "name": "Public Defender Service", 
+                    "url": "http://www.pdsdc.org/"
+                }, 
+                {
+                    "email": "", 
+                    "name": "Code for DC", 
+                    "url": "http://codefordc.org"
+                }
+            ], 
+            "repository": "https://github.com/codefordc/clean-slate", 
+            "status": "Alpha", 
+            "tags": [
+                "Re-Entry", 
+                "Expungement", 
+                "Access to Justice", 
+                ""
+            ], 
+            "thumbnail": "", 
+            "type": "Web app"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 132, 
+                "contributions": 133, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3288,47 +3333,24 @@ projects([
                 "name": "tmcw"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1151987?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/Martschink", 
                 "name": "Martschink"
             }
         ], 
-        "contributors_count": 18, 
+        "contributors_count": 19, 
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
         "forks": 34, 
-        "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "@John Leszczynski", 
-                "comments": 7, 
-                "created_at": "2015-07-09T19:08:42Z", 
-                "issue": " whether or not we can move the json file into a spreadsheet so that it will be easier for the legal partner to edit and update questions.", 
-                "issue_url": "https://github.com/codefordc/clean-slate/issues/87", 
-                "labels": [
-                    {
-                        "color": "84b6eb", 
-                        "name": "enhancement", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/enhancement"
-                    }, 
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "ffffff", 
-                        "name": "wontfix", 
-                        "url": "https://api.github.com/repos/codefordc/clean-slate/labels/wontfix"
-                    }
-                ], 
-                "project": "Conviction Expungement", 
-                "project_url": "https://github.com/codefordc/clean-slate", 
-                "updated_at": "2016-02-24T02:48:29Z"
-            }
-        ], 
+        "help_wanted": [], 
         "homepage": "https://codefordc.github.io/clean-slate", 
         "html_url": "https://github.com/codefordc/clean-slate", 
         "id": 28992747, 
@@ -3354,16 +3376,16 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 25, 
+        "open_issues": 23, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-27T19:25:14Z", 
+        "pushed_at": "2016-02-28T22:59:03Z", 
         "short_name": "clean-slate", 
-        "size": 10086, 
+        "size": 10087, 
         "updated_at": "2016-02-11T05:58:45Z", 
         "watchers": 17
     }, 
