@@ -120,7 +120,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1454948077000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\"\
     \ /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the\
@@ -234,7 +234,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 281
+  yes_rsvp_count: 282
 - created: 1455043587000
   description: "<p>March is coming! \_And with it, the hope of spring! \_</p> <p>Remember\
     \ how nice it is to stand out on the balcony and enjoy a nice evening chatting\
@@ -263,7 +263,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 104
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -348,13 +348,13 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1456961400000
-  updated: 1455567575000
+  updated: 1456739844000
   utc_offset: -18000000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 12
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p><b><i>Interested in learning Ruby and Rails with an awesome group\
@@ -402,7 +402,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -436,7 +436,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 60
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -515,7 +515,7 @@ other:
       Room 415', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 133
+  yes_rsvp_count: 148
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -683,8 +683,56 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 6
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov\
+    \ about the mathematics behind prediction and mitigation of rare but catastrophic\
+    \ events.\_</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is\
+    \ associated with a financial instrument?\_Intuitively, risk is clearly connected\
+    \ to the\_probability of a loss.\_ In a simple case, we estimate the volatility;\
+    \ however, the dreadful experience of the recent financial crisis shows that volatility\
+    \ alone does not paint the full picture.\_ The common computation of volatility\
+    \ misses the possibility of rare but catastrophic events. \_</p> <p><br/>One possible\
+    \ reason for this limitation is the overuse of the so-called normal probability\
+    \ distribution.\_ It is called \"normal\" for a reason: indeed, it is the most\
+    \ common way to characterize random variations (such as variations in the value\
+    \ of securities).\_ However, this tool must not be applied indiscriminately.\_\
+    \ A deeper dive shows that it often fails for large, rare variations, precisely\
+    \ when\_there is a possibility of a failure. \_</p> <p>This concept was popularized\
+    \ by Nassim Nicholas Taleb, who christened such events Black Swans.\_ Popular\
+    \ books notwithstanding, there is a real mathematical foundation today to deal\
+    \ with this problem.\_ Applications are common in the insurance industry (Hurricane\
+    \ Katrina) or for construction in the regions, where earthquakes are common.\_\
+    </p> <p>We have recently completed a DARPA-funded research program, where we applied\
+    \ these new ideas for engineering applications.\_ Using real data from various\
+    \ sensors, we were able to detect and mitigate outliers in real time.\_ In this\
+    \ presentation, we will review the concept and the science of rare, catastrophic\
+    \ events, and will talk about ways to alleviate their effects.</p> <p><b>Meetup\
+    \ Agenda</b></p> <p><br/>6:30 PM - Networking, Food &amp; Drink</p> <p>7:00 PM\
+    \ - Intro &amp; Talk</p> <p>Join us for more discussion after the event with Data\
+    \ Drinks at Tonic.</p> <p><b>Sponsors for this Event</b></p> <p>Thanks to <a href=\"\
+    http://www.datacommunitydc.org/\">Data Community DC</a> for organizational support,\
+    \ to <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
+    >GWU</a> for space, and to <a href=\"https://www.excella.com/careers\">Excella\
+    \ Consulting</a> for our food and drink.</p> <p><b>About Our Speaker</b></p> <p>Alexandr\
+    \ \u201CSasha\u201D Draganov grew up in the Soviet Union, with a limited access\
+    \ to computers. When you cannot rely on a computer, you have to compensate by\
+    \ honing your math and analytical techniques. Today, Sasha uses these skills to\
+    \ do research and development in multiple fields, including applied mathematics,\
+    \ algorithm development, signal processing, and telecommunications. He authored\
+    \ winning proposals and served as the Principal Investigator for multimillion-dollar\
+    \ research and development programs. Sasha published over 40 papers, and presented\
+    \ at dozens of conferences. He holds five U.S. patents. He has a Ph.D. in Electrical\
+    \ Engineering from Stanford and a Masters in Theoretical Physics from Kiev University,\
+    \ Ukraine.</p> <p>Sasha runs two start-up companies: one is performing contract\
+    \ research and development for government and commercial customers, and another\
+    \ is developing an innovative software application for personal finance.</p> <p>Sasha\
+    \ loves books. He got hooked on reading while serving 2 years in the Soviet military\
+    \ in a small town, where a local library was the only source of entertainment.\
+    \ He remembers a jolt from reading first few pages of Swann\u2019s Way by Marcel\
+    \ Proust on the steps to a radar cabin. Proust remains one of favorite authors,\
+    \ as are Leo Tolstoy and Robert Musil.\_ Recently, Sasha published a scholarly\
+    \ article in a refereed journal on the idea of virtue in Tolstoy\u2019s work.\_\
+    \ Sasha also loves fine art and has visited many major art museums all over the\
+    \ world.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934610/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -696,7 +744,7 @@ other:
   name: How to Find and Mitigate Rare Catastrophic Events
   status: upcoming
   time: 1457566200000
-  updated: 1449257857000
+  updated: 1456727822000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
@@ -1015,7 +1063,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
     \ be going over:</p> <p>\u2022 Setting up a basic project<br/>\u2022 Creating\
@@ -1043,7 +1091,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\

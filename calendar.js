@@ -108,7 +108,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1454948077000, 
@@ -147,7 +147,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 281
+            "yes_rsvp_count": 282
         }, 
         {
             "created": 1455043587000, 
@@ -185,7 +185,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1454252703000, 
@@ -275,7 +275,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1456961400000, 
-            "updated": 1455567575000, 
+            "updated": 1456739844000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -290,7 +290,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -330,7 +330,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1326383071000, 
@@ -369,7 +369,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1451511271000, 
@@ -446,7 +446,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 148
         }, 
         {
             "created": 1453051773000, 
@@ -585,7 +585,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov about the mathematics behind prediction and mitigation of rare but catastrophic events.\u00a0</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is associated with a financial instrument?\u00a0Intuitively, risk is clearly connected to the\u00a0probability of a loss.\u00a0 In a simple case, we estimate the volatility; however, the dreadful experience of the recent financial crisis shows that volatility alone does not paint the full picture.\u00a0 The common computation of volatility misses the possibility of rare but catastrophic events. \u00a0</p> <p><br/>One possible reason for this limitation is the overuse of the so-called normal probability distribution.\u00a0 It is called \"normal\" for a reason: indeed, it is the most common way to characterize random variations (such as variations in the value of securities).\u00a0 However, this tool must not be applied indiscriminately.\u00a0 A deeper dive shows that it often fails for large, rare variations, precisely when\u00a0there is a possibility of a failure. \u00a0</p> <p>This concept was popularized by Nassim Nicholas Taleb, who christened such events Black Swans.\u00a0 Popular books notwithstanding, there is a real mathematical foundation today to deal with this problem.\u00a0 Applications are common in the insurance industry (Hurricane Katrina) or for construction in the regions, where earthquakes are common.\u00a0</p> <p>We have recently completed a DARPA-funded research program, where we applied these new ideas for engineering applications.\u00a0 Using real data from various sensors, we were able to detect and mitigate outliers in real time.\u00a0 In this presentation, we will review the concept and the science of rare, catastrophic events, and will talk about ways to alleviate their effects.</p> <p><b>Meetup Agenda</b></p> <p><br/>6:30 PM - Networking, Food &amp; Drink</p> <p>7:00 PM - Intro &amp; Talk</p> <p>Join us for more discussion after the event with Data Drinks at Tonic.</p> <p><b>Sponsors for this Event</b></p> <p>Thanks to <a href=\"http://www.datacommunitydc.org/\">Data Community DC</a> for organizational support, to <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">GWU</a> for space, and to <a href=\"https://www.excella.com/careers\">Excella Consulting</a> for our food and drink.</p> <p><b>About Our Speaker</b></p> <p>Alexandr \u201cSasha\u201d Draganov grew up in the Soviet Union, with a limited access to computers. When you cannot rely on a computer, you have to compensate by honing your math and analytical techniques. Today, Sasha uses these skills to do research and development in multiple fields, including applied mathematics, algorithm development, signal processing, and telecommunications. He authored winning proposals and served as the Principal Investigator for multimillion-dollar research and development programs. Sasha published over 40 papers, and presented at dozens of conferences. He holds five U.S. patents. He has a Ph.D. in Electrical Engineering from Stanford and a Masters in Theoretical Physics from Kiev University, Ukraine.</p> <p>Sasha runs two start-up companies: one is performing contract research and development for government and commercial customers, and another is developing an innovative software application for personal finance.</p> <p>Sasha loves books. He got hooked on reading while serving 2 years in the Soviet military in a small town, where a local library was the only source of entertainment. He remembers a jolt from reading first few pages of Swann\u2019s Way by Marcel Proust on the steps to a radar cabin. Proust remains one of favorite authors, as are Leo Tolstoy and Robert Musil.\u00a0 Recently, Sasha published a scholarly article in a refereed journal on the idea of virtue in Tolstoy\u2019s work.\u00a0 Sasha also loves fine art and has visited many major art museums all over the world.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934610/", 
             "group": {
@@ -604,7 +604,7 @@ calendar({
             "name": "How to Find and Mitigate Rare Catastrophic Events", 
             "status": "upcoming", 
             "time": 1457566200000, 
-            "updated": 1449257857000, 
+            "updated": 1456727822000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -867,7 +867,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1456679073000, 
@@ -894,7 +894,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1454252703000, 
