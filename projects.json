@@ -1,32 +1,32 @@
 [
     {
         "activity": [
-            3, 
             0, 
-            2, 
+            1, 
+            1, 
             0, 
             11, 
-            4, 
-            8, 
+            5, 
+            7, 
             6, 
             3, 
             0, 
             4, 
             0, 
-            3, 
-            3, 
+            5, 
+            1, 
             4, 
             4, 
             0, 
             0, 
-            8, 
-            2, 
+            9, 
             7, 
+            1, 
             9, 
             0, 
-            9, 
-            63, 
-            11, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -43,8 +43,8 @@
             0, 
             2, 
             0, 
-            3, 
-            2, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -303,7 +303,7 @@
     }, 
     {
         "activity": [
-            1, 
+            0, 
             4, 
             0, 
             8, 
@@ -691,8 +691,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -3244,7 +3244,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 174, 
+                "contributions": 206, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3369,7 +3369,7 @@
         "languages": [
             [
                 "HTML", 
-                67723
+                69281
             ], 
             [
                 "JavaScript", 
@@ -3388,16 +3388,16 @@
         }, 
         "main_language": "HTML", 
         "name": "Conviction Expungement", 
-        "open_issues": 24, 
+        "open_issues": 25, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-29T04:56:12Z", 
+        "pushed_at": "2016-02-29T20:47:23Z", 
         "short_name": "clean-slate", 
-        "size": 11909, 
+        "size": 11935, 
         "updated_at": "2016-02-11T05:58:45Z", 
         "watchers": 17
     }, 
@@ -4368,7 +4368,7 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 40, 
+        "open_issues": 43, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 

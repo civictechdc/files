@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "announced": true, 
@@ -108,7 +108,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1454948077000, 
@@ -132,7 +132,7 @@
             "rsvp_limit": 190, 
             "status": "upcoming", 
             "time": 1456788600000, 
-            "updated": 1456755058000, 
+            "updated": 1456783124000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -147,8 +147,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 81, 
-            "yes_rsvp_count": 180
+            "waitlist_count": 42, 
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1455043587000, 
@@ -186,7 +186,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1454252703000, 
@@ -204,14 +204,27 @@
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Digital Commons Room 4", 
             "id": "rjstplyvfbcb", 
             "maybe_rsvp_count": 0, 
             "name": "Android Hack Night", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1456875000000, 
-            "updated": 1456591707000, 
+            "updated": 1456789638000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 G St. NW Washington,  D.C.  20001", 
+                "city": "Gaithersburg", 
+                "country": "us", 
+                "id": 24224851, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Martin Luther King Jr. Memorial Library - Central Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
@@ -252,7 +265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446219481000, 
@@ -291,7 +304,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -331,7 +344,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1326383071000, 
@@ -370,7 +383,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1451511271000, 
@@ -412,7 +425,7 @@
         }, 
         {
             "created": 1456641001000, 
-            "description": "<p>For our March Data Science DC Meetup, we will be exploring the rapidly developing field of quantum computing. John Kelly and Tristan Cook, of QxBranch, will introduce us to quantum computing and discuss what it can bring to machine learning.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Location TBA)</p> <p><b>Abstract:</b></p> <p>Check back here Monday for further details on the talk.</p> <p><b>Bio:</b></p> <p>Check back here Monday for further details about John Kelly and Tristan Cook of QxBranch.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p> <p>Also, here's a special note from Data Community DC's newest educational partner and sponsor,\u00a0<a href=\"http://datasociety.co/\">Data Society</a>.\u00a0They have a limited-time offer during the\u00a0</p> <p><a href=\"https://www.kickstarter.com/projects/978832055/data-science-for-everyone\">Kickstarter</a>\u00a0campaign of\u00a0LIFETIME ACCESS\u00a0to the hands-on data science bootcamp. You will learn how to use supervised and unsupervised machine learning in your work, how to use text mining to classify text data (tweets, blogs, e-mails) and how to mine social media to identify key connectors and influencers (and lots more!). The courses are taught in R and provide you with downloadable code templates and companion guides. Less than 3 weeks left before the Kickstarter, and this offer, ends for good!</p>", 
+            "description": "<p>For our March Data Science DC Meetup, we will be exploring the rapidly developing field of quantum computing. John Kelly and Tristan Cook, of QxBranch, will introduce us to quantum computing and discuss what it can bring to machine learning.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Location TBA)</p> <p><b>Abstract:</b></p> <p>The pace of development of quantum computing technologies has accelerated in recent years and along with it the understanding of their impact on solving today\u2019s computationally intractable problems. Machine learning is one discipline in particular where this emerging technology will present significant opportunities. Quantum computing has the potential to provide vast improvements to existing algorithms, as well as potential new methods for data exploration.\u00a0</p> <p>This presentation will provide an overview of the state-of-the-art in quantum computing and the emerging industry ecosystem, and then explore some of the ways that the technology can be harnessed for advances in machine learning. Software engineers from Washington DC based startup, QxBranch, will guide attendees through some example algorithms and applications.</p> <p><b>Bios:</b></p> <p><br/><b>John Kelly, Ph.D</b></p> <p>John Kelly, Director of Analytics at QxBranch, is leading the company\u2019s development of advanced data analytics technologies. Previously, he was the Technical Lead for Corporate Data Analytics at Lockheed Martin. John has experience applying machine learning to a diverse set of domains including healthcare, supply chain optimization, sustainment, and program management. He completed his Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University, where his work focused on machine learning and signal processing algorithms for brain-computer interfaces.</p> <p><b>Tristan Cook</b></p> <p>Tristan Cook is a systems engineer at QxBranch, with extensive experience in investigating quantum computing applications and developing algorithms for D-Wave quantum computers. He was previously a mechatronics engineer at Shoal, where he worked on a variety of complex systems engineering projects such as the SUSat, a microsatellite developed for the international QB50 project. Tristan graduated from the University of Adelaide with a Bachelor of Mechatronic Engineering and a Bachelor of Mathematical &amp; Computer Sciences.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p> <p>Also, here's a special note from Data Community DC's newest educational partner and sponsor,\u00a0<a href=\"http://datasociety.co/\">Data Society</a>.\u00a0They have a limited-time offer during the\u00a0<a href=\"https://www.kickstarter.com/projects/978832055/data-science-for-everyone\">Kickstarter</a>campaign of\u00a0LIFETIME ACCESS\u00a0to the hands-on data science bootcamp. You will learn how to use supervised and unsupervised machine learning in your work, how to use text mining to classify text data (tweets, blogs, e-mails) and how to mine social media to identify key connectors and influencers (and lots more!). The courses are taught in R and provide you with downloadable code templates and companion guides. Less than 3 weeks left before the Kickstarter, and this offer, ends for good!</p>", 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/229192610/", 
             "group": {
                 "created": 1311348860000, 
@@ -428,30 +441,30 @@
             "id": "229192610", 
             "maybe_rsvp_count": 0, 
             "name": "Quantum Computing and Machine Learning", 
-            "rsvp_limit": 500, 
+            "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1456641001000, 
+            "updated": 1456794136000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "2201 G St. NW", 
+                "address_1": "1957 E Street", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24394445, 
-                "lat": 38.898685, 
+                "id": 23619989, 
+                "lat": 38.896275000000003, 
                 "localized_country_name": "USA", 
-                "lon": -77.049187000000003, 
-                "name": "GWU, Funger Hall, Room 415", 
+                "lon": -77.044205000000005, 
+                "name": "GWU, Elliot School, Room 113", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 170
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1453051773000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to our sponsors at the Bike Summit, as well as <a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://www.customink.com/\">CustomInk</a> Tech.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
             "group": {
                 "created": 1384372275000, 
@@ -470,7 +483,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1456373279000, 
+            "updated": 1456781609000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -485,7 +498,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 45, 
+            "waitlist_count": 46, 
             "yes_rsvp_count": 101
         }, 
         {
@@ -514,7 +527,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446220149000, 
@@ -542,7 +555,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1456601813000, 
@@ -582,7 +595,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
@@ -609,7 +622,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1455927414000, 
@@ -648,7 +661,7 @@
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
+            "waitlist_count": 47, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -763,7 +776,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 174
+            "yes_rsvp_count": 175
         }, 
         {
             "created": 1455416543000, 
