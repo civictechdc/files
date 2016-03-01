@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "announced": true, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1454252703000, 
@@ -197,7 +197,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1446219481000, 
@@ -237,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 14, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1452612310000, 
@@ -276,7 +276,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
@@ -315,7 +315,48 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
+        }, 
+        {
+            "created": 1456840411000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>- Dinner</p> <p>- Warmup Exercise for 10-15 min</p> <p>- Work on the following problems -\u00a0</p> <p><b>These are intro problems for anyone who is new to algorithms or interview type questions! We'll work through several of these time permitting</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/tutorial-intro\"><a href=\"https://www.hackerrank.com/challenges/tutorial-intro\" class=\"linkified\">https://www.hackerrank.com/challenges/tutorial-intro</a></a><br/></b></p> <p><b>For those who want more of a challenge</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/saveprincess\"><a href=\"https://www.hackerrank.com/challenges/saveprincess\" class=\"linkified\">https://www.hackerrank.com/challenges/saveprincess</a></a></b></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229254454/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call (574) 323- 7240 if the door is locked outside.", 
+            "id": "229254454", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1457393400000, 
+            "updated": 1456840411000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1451511271000, 
@@ -392,7 +433,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 192
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1453051773000, 
@@ -430,8 +471,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 45, 
-            "yes_rsvp_count": 102
+            "waitlist_count": 50, 
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1454252703000, 
@@ -527,7 +568,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1417881835000, 
@@ -593,7 +634,7 @@
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 47, 
+            "waitlist_count": 48, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -708,7 +749,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 175
+            "yes_rsvp_count": 176
         }, 
         {
             "created": 1455416543000, 
@@ -813,7 +854,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1456679073000, 
@@ -840,7 +881,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1454252703000, 
@@ -1217,7 +1258,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1451511328000, 
@@ -1366,34 +1407,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1446219481000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
