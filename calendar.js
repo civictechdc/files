@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "announced": true, 
@@ -83,76 +83,8 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1455742958000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228929042/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "228929042", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1456788600000, 
-            "updated": 1456185899000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 39
-        }, 
-        {
-            "created": 1454948077000, 
-            "description": "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKXAAAAJDEzMDljNWYzLWY0MjAtNGJlMy1hZmQ3LTZiOWFjNjc0Yjg2YQ.jpg\" /></p> <p>A consistent theme in this DVDC community is <b>how</b> to walk the path towards making visualizing data a part of your careers. DVDC is happy to introduce Nathaniel Pearlman and a discussion of his career from software to data visualization. Nathaniel is the founder/CEO one of the nation's most successful political software companies. After his software company, Nathaniel started\u00a0<a href=\"http://graphicacy.com/\">Graphicacy</a>, a creative analytic design agency, and\u00a0<a href=\"http://www.timeplots.com/\">Timeplots</a>, an online storefront for\u00a0information graphic products.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/3/5/5/600_446677717.jpeg\" /></p> <p>Nathaniel will discuss lessons learned from\u00a0<a href=\"http://www.timeplots.com/\">Timeplots</a>\u00a0where he and a small team created award-winning, political themed information design posters. He'll share examples of his posters and go into how they were built, lessons learned in the process of building them, and what he might do differently now reflecting back on the work.</p> <p>Case studies to be explored include:\u00a0</p> <p>\u2022\u00a0<a href=\"http://www.timeplots.com/collections/catalog/products/a-visual-history-of-the-us-house-and-supreme-court-bundle\">A Visual History of the US House of Representatives</a></p> <p>\u2022\u00a0<a href=\"http://www.timeplots.com/collections/catalog/products/a-visual-history-of-the-united-states-senate\">A Visual History of the US Senate</a></p> <p>\u2022\u00a0<a href=\"http://www.timeplots.com/collections/catalog/products/a-history-of-the-us-presidency\">A Visual History of the American Presidency\u00a0</a></p> <p>\u2022\u00a0<a href=\"http://www.timeplots.com/collections/catalog/products/a-visual-history-of-the-supreme-court-of-the-united-states\">A Visual History of the US Supreme Court</a></p> <p><a href=\"http://static1.squarespace.com/static/55b2b793e4b0a06c6deb4ac5/t/55d8cb80e4b030f73b356529/1450104792939/?format=1000w\" class=\"linkified\">http://static1.squarespace.com/static/55b2b793e4b0a06c6deb4ac5/t/55d8cb80e4b030f73b356529/1450104792939/?format=1000w</a></p> <p>Last year\u00a0Graphicacy held its\u00a0<a href=\"http://www.majorleaguedatachallenge.com/\">2015 Major League Data Challenge</a>, a visual design contest, and DVDC is happy to announce with Graphicacy this year's 2016 Super Tuesday Data Challenge. Details to be provided at the event. If you would like to participate, please reach out to the DVDC organizers.</p> <p>\n\n\n<b>About Nathaniel Pearlman</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/3/e/d/600_446677869.jpeg\" /></p> <p>Nathaniel Pearlman has been visualizing data for more than two decades; his interest goes back as far as his first statistics class with Edward Tufte in 1988. Nathaniel majored in computer science at Yale and he finished all but his dissertation in MIT\u2019s political science doctoral program. Outside of academics, Nathaniel is an experienced entrepreneur. He founded NGP Software, Inc. in 1997 (now NGP VAN, Inc.) to join his interests in politics and technology and grew that company into the market leader in fundraising and compliance software for progressive political campaigns. Nathaniel served as Chief Technology Officer for the Hillary Clinton for President campaign in 2007-8. In 2009, Nathaniel founded the information graphic products company Timeplots and reserved the name Graphicacy for information graphics consulting and services. Together, Timeplots and Graphicacy are dedicated to making the visual display of information more comprehensible and aesthetic.</p> <p>\n\n\n\n<b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - Visualizing Our Branches of Government</p> <p>\u2022 8:00 - Q&amp;A</p> <p><br/>\u2022 8:20 - Data Challenge Details\u00a0</p> <p>\u2022\u00a08:40 - Data Drinks</p> <p><b><br/></b></p> <p><b>ANNOUNCEMENTS</b></p> <p>Check out the <a href=\"http://us3.campaign-archive2.com/?u=75fc125999b198f97fe860a8d&amp;id=6e8db1780b&amp;e=263865b99d\">Data Community DC Newsletter</a>!</p> <p>Are\u00a0you or your company hiring?\u00a0<a href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\">Get in touch!</a></p> <p><br/><b>This Week's Events</b></p> <p>\u2022\u00a0<a href=\"http://www.meetup.com/DC-NLP/events/228357131/\">DC Natural Language Processing</a>\u00a0invites you to their monthly meetup with guest speaker Dr. Boyan Onyshkevich from DARPA's Information Innovation Office.\u00a0On Tuesday, join\u00a0</p> <p><a href=\"http://www.meetup.com/Action-Design-DC/events/225293842/\">\u2022\u00a0Action Design DC</a>\u00a0for a presentation by Opower, a customer engagement platform \u00a0with an energy conservation goal.\u00a0</p> <p>On Wednesday, DC2 is holding three events:</p> <p>\u2022\u00a0<a href=\"http://www.meetup.com/Data-Education-DC/events/228116564/\">Data Education DC</a>\u00a0hosts an introduction to survival analysis, including practical applications and an opportunity to build interactive survival models using R.</p> <p><a href=\"http://www.meetup.com/Data-Wranglers-DC/events/222987192/\">\u2022\u00a0Data Wranglers DC</a>\u00a0offers a demonstration of advanced, context-based\u00a0search tools with the capacity to search multiple websites and databases such as data.gov.</p> <p>\u2022\u00a0<a href=\"http://www.meetup.com/dcnightowls/events/228406886/\">DC2 Digital Nomads</a>\u00a0hosts their monthly Nightowl Productivity event. Come share your ideas and projects with fellow peers.</p> <p>\u2022\u00a0On Saturday,\u00a0<a href=\"http://www.meetup.com/Data-Community-DC/events/227340011/\">Data Community DC and District Data Labs</a>\u00a0co-host a workshop covering fast data applications with Spark and Python.</p> <p>Would you like to announce data-related public events in the\u00a0region?\u00a0<a href=\"http://www.datacommunitydc.org/calendar/\">Submit it to the calendar</a>\u00a0and we'll do the rest.</p> <p>Would you like to share something viral with us? You can reach other regional data afficionados with\u00a0<a href=\"https://twitter.com/search?q=%23datadc\">#datadc on Twitter</a>, or in our\u00a0<a href=\"https://www.facebook.com/groups/datacommunitydc/\">Facebook</a>\u00a0or\u00a0<a href=\"http://www.linkedin.com/groups/Data-Community-DC-4763419\">LinkedIn</a>\u00a0groups!</p> <p><b>Jobs / Internships</b></p> <p>\u2022\u00a0Capital One is looking for brilliant\u00a0<a href=\"https://jobs.capitalone.com/job/mclean/data-engineering-senior-engineer-mclean/1732/1089517\">Data\u00a0Engineers</a>\u00a0to help us be a great open source tech company in banking. We're working with cool things like Spark, Kafka, Storm, Flink and have needs at all levels. If you're interested in finding out more we'd love to hear from you! (VA)</p> <p>\u2022\u00a0Poise is seeking a\u00a0<a href=\"http://www.indeed.com/jobs?q=%22poise+inc%22&amp;l=\">Senior Data Scientist</a>. Candidates will have the opportunity to utilize the following technology: Hadoop, Impala, Hive, Pig or Spark, HQL/SQL, Java (Python, Perl, etc.), numerical and statistical packages (Pandas, Numpy, Sklearn, R). Contact Mr.&lt;a&gt;Steve Roper&lt;/a&gt;\u00a0for more details.\u00a0</p> <p>\u2022\u00a0(DC)The DC Office of the State Superintendent of Education (OSSE) is looking for an\u00a0<a href=\"http://osse.dc.gov/ossecareeropportunities\">Assistant Superintendent</a>\u00a0of Data, Assessment &amp; Research who will play a pivotal role in helping the agency ensure that the 90,000 students in DC receive a great education. (DC)The Psychometrics and Quantitative Research team at the Center for Applied Linguistics is seeking a\u00a0<a href=\"http://www.cal.org/who-we-are/career-opportunities/jobs/quantitative-research-assistant\">Data Analyst</a>\u00a0to support research and project-related activities for a large-scale assessment of English language proficiency. (DC)</p> <p><b>Are\u00a0you or your company hiring?\u00a0<a href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\">Get in touch!</a></b></p> <p><b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.gisonthechester.com/wp-content/uploads/2015/09/bah-share-default-icon-512-1.png\" /></p> <p>\n\n\n<img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/228701721/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "228701721", 
-            "maybe_rsvp_count": 0, 
-            "name": "Visualizing Our Branches of Government & Super Tuesday", 
-            "rsvp_limit": 190, 
-            "status": "upcoming", 
-            "time": 1456788600000, 
-            "updated": 1456783124000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 42, 
-            "yes_rsvp_count": 190
-        }, 
-        {
             "created": 1455043587000, 
-            "description": "<p>March is coming! \u00a0And with it, the hope of spring! \u00a0</p> <p>Remember how nice it is to stand out on the balcony and enjoy a nice evening chatting about APIs over a cold drink? \u00a0Go ahead and mark your calendars for the next DC API meetup on March 1 (always the first Tuesday of the month). \u00a0The speakers we're lining up are solid and the company is always great. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General Services Administration<br/>* Jackie Kazil - Capital One<br/>*\u00a0Laura Gerhardt - 18F<br/>* Jay Fielding - Mulesoft\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>March is coming! \u00a0And with it, the hope of spring! \u00a0</p> <p>Remember how nice it is to stand out on the balcony and enjoy a nice evening chatting about APIs over a cold drink? \u00a0Go ahead and mark your calendars for the next DC API meetup on March 1 (always the first Tuesday of the month). \u00a0The speakers we're lining up are solid and the company is always great. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Justin Herman - General Services Administration<br/>* Jackie Kazil - Capital One<br/>*\u00a0Laura Gerhardt<br/>* Jay Fielding - Mulesoft\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/228730607/", 
             "group": {
                 "created": 1347647025000, 
@@ -170,7 +102,7 @@ calendar({
             "name": "DC API User Group - March Edition", 
             "status": "upcoming", 
             "time": 1456873200000, 
-            "updated": 1456189179000, 
+            "updated": 1456804734000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -186,11 +118,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Hack Night! \u00a0We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>Are you new to android, just need a place to collaborate? Please join us this week at an Android study group.Please join us as we code together, work through problems and hear about some of the projects we have coming up.</i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228672999/", 
             "group": {
@@ -211,7 +143,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1456875000000, 
-            "updated": 1456789638000, 
+            "updated": 1456830338000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 G St. NW Washington,  D.C.  20001", 
@@ -304,7 +236,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -383,7 +315,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1451511271000, 
@@ -460,11 +392,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 182
+            "yes_rsvp_count": 192
         }, 
         {
             "created": 1453051773000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to our sponsors at the Bike Summit, as well as <a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://www.customink.com/\">CustomInk</a> Tech.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>Many thanks to our sponsors at the Bike Summit, as well as <a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://technology.customink.com/\">CustomInk Tech</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
             "group": {
                 "created": 1384372275000, 
@@ -483,7 +415,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1456781609000, 
+            "updated": 1456799507000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -498,8 +430,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
-            "yes_rsvp_count": 101
+            "waitlist_count": 45, 
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1454252703000, 
@@ -599,7 +531,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov about the mathematics behind prediction and mitigation of rare but catastrophic events.\u00a0</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is associated with a financial instrument?\u00a0Intuitively, risk is clearly connected to the\u00a0probability of a loss.\u00a0 In a simple case, we estimate the volatility; however, the dreadful experience of the recent financial crisis shows that volatility alone does not paint the full picture.\u00a0 The common computation of volatility misses the possibility of rare but catastrophic events. \u00a0</p> <p><br/>One possible reason for this limitation is the overuse of the so-called normal probability distribution.\u00a0 It is called \"normal\" for a reason: indeed, it is the most common way to characterize random variations (such as variations in the value of securities).\u00a0 However, this tool must not be applied indiscriminately.\u00a0 A deeper dive shows that it often fails for large, rare variations, precisely when\u00a0there is a possibility of a failure. \u00a0</p> <p>This concept was popularized by Nassim Nicholas Taleb, who christened such events Black Swans.\u00a0 Popular books notwithstanding, there is a real mathematical foundation today to deal with this problem.\u00a0 Applications are common in the insurance industry (Hurricane Katrina) or for construction in the regions, where earthquakes are common.\u00a0</p> <p>We have recently completed a DARPA-funded research program, where we applied these new ideas for engineering applications.\u00a0 Using real data from various sensors, we were able to detect and mitigate outliers in real time.\u00a0 In this presentation, we will review the concept and the science of rare, catastrophic events, and will talk about ways to alleviate their effects.</p> <p><b>Meetup Agenda</b></p> <p><br/>6:30 PM - Networking, Food &amp; Drink</p> <p>7:00 PM - Intro &amp; Talk</p> <p>Join us for more discussion after the event with Data Drinks at Tonic.</p> <p><b>Sponsors for this Event</b></p> <p>Thanks to <a href=\"http://www.datacommunitydc.org/\">Data Community DC</a> for organizational support, to <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">GWU</a> for space, and to <a href=\"https://www.excella.com/careers\">Excella Consulting</a> for our food and drink.</p> <p><b>About Our Speaker</b></p> <p>Alexandr \u201cSasha\u201d Draganov grew up in the Soviet Union, with a limited access to computers. When you cannot rely on a computer, you have to compensate by honing your math and analytical techniques. Today, Sasha uses these skills to do research and development in multiple fields, including applied mathematics, algorithm development, signal processing, and telecommunications. He authored winning proposals and served as the Principal Investigator for multimillion-dollar research and development programs. Sasha published over 40 papers, and presented at dozens of conferences. He holds five U.S. patents. He has a Ph.D. in Electrical Engineering from Stanford and a Masters in Theoretical Physics from Kiev University, Ukraine.</p> <p>Sasha runs two start-up companies: one is performing contract research and development for government and commercial customers, and another is developing an innovative software application for personal finance.</p> <p>Sasha loves books. He got hooked on reading while serving 2 years in the Soviet military in a small town, where a local library was the only source of entertainment. He remembers a jolt from reading first few pages of Swann\u2019s Way by Marcel Proust on the steps to a radar cabin. Proust remains one of favorite authors, as are Leo Tolstoy and Robert Musil.\u00a0 Recently, Sasha published a scholarly article in a refereed journal on the idea of virtue in Tolstoy\u2019s work.\u00a0 Sasha also loves fine art and has visited many major art museums all over the world.</p>", 
+            "description": "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov about the mathematics behind prediction and mitigation of rare, catastrophic events.\u00a0</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is associated with a financial instrument?\u00a0Intuitively, risk is clearly connected to the\u00a0probability of a loss.\u00a0 In a simple case, we estimate the volatility; however, the dreadful experience of the recent financial crisis shows that volatility alone does not paint the full picture.\u00a0 The common computation of volatility misses the possibility of rare but catastrophic events. \u00a0</p> <p><br/>One possible reason for this limitation is the overuse of the so-called normal probability distribution.\u00a0 It is called \"normal\" for a reason: indeed, it is the most common way to characterize random variations (such as variations in the value of securities).\u00a0 However, this tool must not be applied indiscriminately.\u00a0 A deeper dive shows that it often fails for large, rare variations, precisely when\u00a0there is a possibility of a failure. \u00a0</p> <p>This concept was popularized by Nassim Nicholas Taleb, who christened such events Black Swans.\u00a0 Popular books notwithstanding, there is a real mathematical foundation today to deal with this problem.\u00a0 Applications are common in the insurance industry (Hurricane Katrina) or for construction in the regions, where earthquakes are common.\u00a0</p> <p>We have recently completed a DARPA-funded research program, where we applied these new ideas for engineering applications.\u00a0 Using real data from various sensors, we were able to detect and mitigate outliers in real time.\u00a0 In this presentation, we will review the concept and the science of rare, catastrophic events, and will talk about ways to alleviate their effects.</p> <p><b>Meetup Agenda</b></p> <p><br/>6:30 PM - Networking, Food &amp; Drink</p> <p>7:00 PM - Intro &amp; Talk</p> <p>Join us for more discussion after the event with Data Drinks at Tonic.</p> <p><b>Sponsors for this Event</b></p> <p>Thanks to <a href=\"http://www.datacommunitydc.org/\">Data Community DC</a> for organizational support, to <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">GWU</a> for space, and to <a href=\"https://www.excella.com/careers\">Excella Consulting</a> for our food and drink.</p> <p><b>About Our Speaker</b></p> <p>Alexandr \u201cSasha\u201d Draganov grew up in the Soviet Union, with a limited access to computers. When you cannot rely on a computer, you have to compensate by honing your math and analytical techniques. Today, Sasha uses these skills to do research and development in multiple fields, including applied mathematics, algorithm development, signal processing, and telecommunications. He authored winning proposals and served as the Principal Investigator for multimillion-dollar research and development programs. Sasha published over 40 papers, and presented at dozens of conferences. He holds five U.S. patents. He has a Ph.D. in Electrical Engineering from Stanford and a Masters in Theoretical Physics from Kiev University, Ukraine.</p> <p>Sasha runs two start-up companies: one is performing contract research and development for government and commercial customers, and another is developing an innovative software application for personal finance.</p> <p>Sasha loves books. He got hooked on reading while serving 2 years in the Soviet military in a small town, where a local library was the only source of entertainment. He remembers a jolt from reading first few pages of Swann\u2019s Way by Marcel Proust on the steps to a radar cabin. Proust remains one of favorite authors, as are Leo Tolstoy and Robert Musil.\u00a0 Recently, Sasha published a scholarly article in a refereed journal on the idea of virtue in Tolstoy\u2019s work.\u00a0 Sasha also loves fine art and has visited many major art museums all over the world.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934610/", 
             "group": {
@@ -618,11 +550,11 @@ calendar({
             "name": "How to Find and Mitigate Rare Catastrophic Events", 
             "status": "upcoming", 
             "time": 1457566200000, 
-            "updated": 1456727822000, 
+            "updated": 1456837267000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1455927414000, 
@@ -908,7 +840,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1454252703000, 
@@ -1434,6 +1366,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jzwvllyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night(Beginner's Night)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1446219481000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -2153,6 +2113,72 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1485993600000, 
+            "updated": 1446214010000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1602 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywfbcb/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclywfbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "January Meetup", 
+            "status": "upcoming", 
+            "time": 1488411000000, 
+            "updated": 1417881835000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywfbcb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcywfbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1488412800000, 
             "updated": 1446214010000, 
             "utc_offset": -18000000, 
             "venue": {
