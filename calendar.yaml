@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -109,7 +109,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 12
-  yes_rsvp_count: 49
+  yes_rsvp_count: 47
 - created: 1452612310000
   description: "<p><b><i>Interested in learning Ruby and Rails with an awesome group\
     \ of women? </i></b>Looking to build your first web app, learn more about coding,\
@@ -190,7 +190,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 86
 - created: 1456840411000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -227,7 +227,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 25
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -330,7 +330,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 212
+  yes_rsvp_count: 215
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with\
@@ -389,7 +389,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: WeWork Wonder Bread Factory, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 51
+  waitlist_count: 53
   yes_rsvp_count: 103
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
@@ -458,7 +458,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 8
 - created: 1456601813000
   description: "<p>As a continuation from Ruby on Rails: First Timer's Night, this\
     \ event is dedicated to understanding and navigating the Rails framework. \_We\
@@ -498,7 +498,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1417881835000
   description: "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov\
     \ about the mathematics behind prediction and mitigation of rare, catastrophic\
@@ -607,7 +607,7 @@ other:
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 49
+  waitlist_count: 50
   yes_rsvp_count: 3
 - created: 1456284196000
   description: "<p><b>Introduction to Google Analytics:\_\_</b></p> <p>This course\
@@ -908,7 +908,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -987,10 +987,10 @@ other:
   headcount: 0
   id: '229182168'
   maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Intro to RSpec'
+  name: 'Ruby on Rails: Intro to Testing with RSpec'
   status: upcoming
   time: 1458772200000
-  updated: 1456601656000
+  updated: 1456937960000
   utc_offset: -14400000
   venue: {address_1: TBD, city: Washington, country: us, id: 24366078, lat: 38.907192000000002,
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}

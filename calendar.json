@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 12, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1452612310000, 
@@ -198,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1456840411000, 
@@ -239,7 +239,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1451511271000, 
@@ -316,7 +316,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 212
+            "yes_rsvp_count": 215
         }, 
         {
             "created": 1453051773000, 
@@ -354,7 +354,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 51, 
+            "waitlist_count": 53, 
             "yes_rsvp_count": 103
         }, 
         {
@@ -411,7 +411,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1456601813000, 
@@ -451,7 +451,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -517,7 +517,7 @@
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 49, 
+            "waitlist_count": 50, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -764,7 +764,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1454252703000, 
@@ -812,10 +812,10 @@
             "headcount": 0, 
             "id": "229182168", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Intro to RSpec", 
+            "name": "Ruby on Rails: Intro to Testing with RSpec", 
             "status": "upcoming", 
             "time": 1458772200000, 
-            "updated": 1456601656000, 
+            "updated": 1456937960000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "TBD", 
