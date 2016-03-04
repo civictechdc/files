@@ -2042,7 +2042,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 78, 
+                "contributions": 82, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2095,7 +2095,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                11262566
+                11270412
             ], 
             [
                 "CSS", 
@@ -2117,16 +2117,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 15, 
+        "open_issues": 16, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-02-29T14:10:20Z", 
+        "pushed_at": "2016-03-04T13:38:56Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 54862, 
+        "size": 90010, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
@@ -3244,7 +3244,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9157639?v=3", 
-                "contributions": 207, 
+                "contributions": 209, 
                 "link": "https://github.com/brianek", 
                 "name": "brianek"
             }, 
@@ -3395,9 +3395,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-02T21:54:52Z", 
+        "pushed_at": "2016-03-04T17:21:37Z", 
         "short_name": "clean-slate", 
-        "size": 12054, 
+        "size": 12056, 
         "updated_at": "2016-03-03T04:03:16Z", 
         "watchers": 16
     }, 
@@ -4653,9 +4653,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-04T01:51:47Z", 
+        "pushed_at": "2016-03-04T13:05:35Z", 
         "short_name": "school-modernization", 
-        "size": 8736, 
+        "size": 8448, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 

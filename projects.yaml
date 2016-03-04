@@ -619,7 +619,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 78,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 82,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
     link: 'https://github.com/jkoul', name: jkoul}
@@ -643,7 +643,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 11262566]
+  - [JavaScript, 11270412]
   - [CSS, 9175]
   - [HTML, 6073]
   - [Python, 4997]
@@ -651,12 +651,12 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 15
+  open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-29T14:10:20Z'
+  pushed_at: '2016-03-04T13:38:56Z'
   short_name: dc-campaign-finance-watch
-  size: 54862
+  size: 90010
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -994,7 +994,7 @@
     thumbnail: ''
     type: Web app
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 207,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9157639?v=3', contributions: 209,
     link: 'https://github.com/brianek', name: brianek}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7838603?v=3', contributions: 97,
     link: 'https://github.com/jrleszcz', name: jrleszcz}
@@ -1052,9 +1052,9 @@
   open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-02T21:54:52Z'
+  pushed_at: '2016-03-04T17:21:37Z'
   short_name: clean-slate
-  size: 12054
+  size: 12056
   updated_at: '2016-03-03T04:03:16Z'
   watchers: 16
 - activity: [21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1449,9 +1449,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-04T01:51:47Z'
+  pushed_at: '2016-03-04T13:05:35Z'
   short_name: school-modernization
-  size: 8736
+  size: 8448
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

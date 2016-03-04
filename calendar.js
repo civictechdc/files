@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1456840411000, 
@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1456641001000, 
@@ -237,7 +237,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 300
         }, 
         {
@@ -276,7 +276,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 43, 
             "yes_rsvp_count": 115
         }, 
         {
@@ -400,7 +400,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1455927414000, 
@@ -489,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457035881000, 
@@ -620,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1446220217000, 
@@ -709,11 +709,11 @@ calendar({
             "name": "Learn Django in your PJs!", 
             "status": "upcoming", 
             "time": 1458480600000, 
-            "updated": 1456679180000, 
+            "updated": 1457102420000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1454252703000, 
@@ -820,7 +820,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1454252703000, 
