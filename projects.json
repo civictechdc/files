@@ -4,14 +4,14 @@
             0, 
             2, 
             0, 
-            1, 
-            12, 
-            5, 
-            5, 
-            7, 
             2, 
-            3, 
+            11, 
+            10, 
+            6, 
             1, 
+            2, 
+            4, 
+            0, 
             3, 
             3, 
             2, 
@@ -23,9 +23,9 @@
             6, 
             10, 
             0, 
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -310,8 +310,8 @@
             0, 
             4, 
             0, 
-            5, 
-            2, 
+            7, 
+            0, 
             0, 
             0, 
             3, 
@@ -562,7 +562,7 @@
     }, 
     {
         "activity": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -840,14 +840,14 @@
     }, 
     {
         "activity": [
-            7, 
+            6, 
             0, 
             11, 
             1, 
             1, 
             0, 
-            2, 
-            3, 
+            4, 
+            1, 
             2, 
             6, 
             0, 
@@ -872,18 +872,18 @@
             0, 
             0, 
             3, 
-            2, 
             6, 
+            2, 
             0, 
             0, 
             5, 
             1, 
-            3, 
+            4, 
             11, 
             1, 
-            7, 
-            2, 
-            2, 
+            6, 
+            4, 
+            0, 
             1, 
             1, 
             0, 
@@ -1500,7 +1500,7 @@
         "created_at": "2013-08-19T20:26:43Z", 
         "default_branch": "master", 
         "description": "DC Metro Metrics is a project dedicated to collecting and sharing publicly available data related to the DC WMATA Metrorail system.", 
-        "forks": 9, 
+        "forks": 10, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
@@ -1553,8 +1553,8 @@
         "pushed_at": "2016-02-01T04:42:35Z", 
         "short_name": "DCMetroMetrics", 
         "size": 32313, 
-        "updated_at": "2016-03-01T20:17:07Z", 
-        "watchers": 30
+        "updated_at": "2016-03-05T15:58:19Z", 
+        "watchers": 31
     }, 
     {
         "activity": [
@@ -2042,7 +2042,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 82, 
+                "contributions": 83, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2095,7 +2095,7 @@
         "languages": [
             [
                 "JavaScript", 
-                11270412
+                11272405
             ], 
             [
                 "CSS", 
@@ -2124,15 +2124,15 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-04T13:38:56Z", 
+        "pushed_at": "2016-03-05T17:52:55Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 90010, 
+        "size": 89390, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
     {
         "activity": [
-            2, 
+            0, 
             0, 
             0, 
             0, 
@@ -2465,7 +2465,7 @@
     }, 
     {
         "activity": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -3403,7 +3403,7 @@
     }, 
     {
         "activity": [
-            21, 
+            19, 
             0, 
             7, 
             0, 
@@ -3530,11 +3530,11 @@
             0, 
             0, 
             0, 
-            61, 
-            89, 
-            9, 
-            3, 
-            2, 
+            95, 
+            57, 
+            7, 
+            4, 
+            1, 
             0, 
             1, 
             0, 
@@ -3814,10 +3814,10 @@
             0, 
             0, 
             0, 
-            8, 
-            8, 
-            10, 
-            22, 
+            16, 
+            0, 
+            17, 
+            15, 
             4, 
             0, 
             0, 
@@ -3837,8 +3837,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             2, 
@@ -4200,10 +4200,10 @@
             10, 
             24, 
             0, 
-            45, 
             51, 
+            45, 
             54, 
-            8
+            16
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4270,7 +4270,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 193, 
+                "contributions": 205, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4341,11 +4341,11 @@
         "languages": [
             [
                 "Ruby", 
-                52010
+                52389
             ], 
             [
                 "HTML", 
-                47344
+                48112
             ], 
             [
                 "CSS", 
@@ -4368,16 +4368,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 42, 
+        "open_issues": 43, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-03-04T00:56:05Z", 
+        "pushed_at": "2016-03-05T04:38:55Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6632, 
+        "size": 6647, 
         "updated_at": "2016-02-23T00:38:33Z", 
         "watchers": 2
     }, 
@@ -4831,9 +4831,9 @@
             0, 
             0, 
             0, 
-            9, 
-            39, 
-            35, 
+            15, 
+            40, 
+            28, 
             0, 
             0, 
             0, 

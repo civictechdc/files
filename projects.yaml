@@ -1,6 +1,6 @@
-- activity: [0, 2, 0, 1, 12, 5, 5, 7, 2, 3, 1, 3, 3, 2, 6, 0, 0, 7, 3, 6, 10, 0, 2,
-    64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2, 3, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [0, 2, 0, 2, 11, 10, 6, 1, 2, 4, 0, 3, 3, 2, 6, 0, 0, 7, 3, 6, 10, 0,
+    3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2, 3, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -93,7 +93,7 @@
   size: 21734
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
-- activity: [4, 0, 2, 6, 0, 4, 0, 5, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [4, 0, 2, 6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -177,7 +177,7 @@
   size: 72057
   updated_at: '2016-02-06T05:22:46Z'
   watchers: 31
-- activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [7, 0, 11, 1, 1, 0, 2, 3, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 3, 2, 6, 0, 0, 5, 1, 3, 11, 1, 7, 2, 2, 1, 1, 0, 3, 0,
+- activity: [6, 0, 11, 1, 1, 0, 4, 1, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0,
+    0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0, 3, 0,
     0, 1, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -461,7 +461,7 @@
   default_branch: master
   description: DC Metro Metrics is a project dedicated to collecting and sharing publicly
     available data related to the DC WMATA Metrorail system.
-  forks: 9
+  forks: 10
   help_wanted: []
   homepage: null
   html_url: https://github.com/LeeMendelowitz/DCMetroMetrics
@@ -484,8 +484,8 @@
   pushed_at: '2016-02-01T04:42:35Z'
   short_name: DCMetroMetrics
   size: 32313
-  updated_at: '2016-03-01T20:17:07Z'
-  watchers: 30
+  updated_at: '2016-03-05T15:58:19Z'
+  watchers: 31
 - activity: [0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0]
@@ -619,7 +619,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 82,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 83,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
     link: 'https://github.com/jkoul', name: jkoul}
@@ -643,7 +643,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 11270412]
+  - [JavaScript, 11272405]
   - [CSS, 9175]
   - [HTML, 6073]
   - [Python, 4997]
@@ -654,12 +654,12 @@
   open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-04T13:38:56Z'
+  pushed_at: '2016-03-05T17:52:55Z'
   short_name: dc-campaign-finance-watch
-  size: 90010
+  size: 89390
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
-- activity: [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -758,7 +758,7 @@
   size: 1420
   updated_at: '2015-05-19T23:32:07Z'
   watchers: 2
-- activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1057,7 +1057,7 @@
   size: 12056
   updated_at: '2016-03-03T04:03:16Z'
   watchers: 16
-- activity: [21, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [19, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1093,7 +1093,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 61, 89, 9, 3, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 95, 57, 7, 4, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1178,8 +1178,8 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 10,
-    22, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 17,
+    15, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1293,7 +1293,7 @@
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24,
-    0, 45, 51, 54, 8]
+    0, 51, 45, 54, 16]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1317,7 +1317,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 193,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 205,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 57,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1347,20 +1347,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 52010]
-  - [HTML, 47344]
+  - [Ruby, 52389]
+  - [HTML, 48112]
   - [CSS, 23735]
   - [JavaScript, 693]
   - [CoffeeScript, 633]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 42
+  open_issues: 43
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-04T00:56:05Z'
+  pushed_at: '2016-03-05T04:38:55Z'
   short_name: dcaf_case_management
-  size: 6632
+  size: 6647
   updated_at: '2016-02-23T00:38:33Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1510,9 +1510,9 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 9, 39, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 15, 40, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
