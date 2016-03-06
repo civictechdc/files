@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1456840411000, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1451511271000, 
@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1456641001000, 
@@ -237,7 +237,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 300
         }, 
         {
@@ -276,7 +276,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 43, 
+            "waitlist_count": 44, 
             "yes_rsvp_count": 115
         }, 
         {
@@ -301,11 +301,23 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1456591752000, 
+            "updated": 1457216929000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 G St. NW Washington,  D.C.  20001", 
+                "city": "Gaithersburg", 
+                "country": "us", 
+                "id": 24224851, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Martin Luther King Jr. Memorial Library - Central Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1446220149000, 
@@ -325,15 +337,15 @@ calendar({
             "headcount": 0, 
             "id": "bcxvllyvfbmb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python has no Switch/Case - Let's talk about Else If", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1457566200000, 
-            "updated": 1446220149000, 
+            "updated": 1457221440000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1456601813000, 
@@ -400,7 +412,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1455927414000, 
@@ -439,7 +451,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 51, 
+            "waitlist_count": 52, 
             "yes_rsvp_count": 3
         }, 
         {

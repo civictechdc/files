@@ -444,7 +444,7 @@
   size: 2743
   updated_at: '2016-02-01T15:36:10Z'
   watchers: 6
-- activity: [0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1,
+- activity: [2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1,
     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -613,9 +613,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 6, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4,
-    2, 3, 0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0,
-    2, 10, 10]
+- activity: [0, 4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4,
+    2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0,
+    2, 10, 11]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -651,7 +651,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 16
+  open_issues: 18
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-03-05T17:52:55Z'
@@ -825,8 +825,8 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [5, 0, 0, 0, 0, 0, 0, 26, 39, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2,
-    6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+- activity: [5, 0, 0, 0, 0, 0, 0, 43, 22, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 7,
+    1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -878,8 +878,8 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [16, 52, 45, 6, 2, 1, 0, 6, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0,
-    13, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+- activity: [16, 64, 33, 2, 2, 1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0,
+    17, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -969,9 +969,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [3, 0, 1, 0, 0, 0, 0, 15, 40, 28, 8, 35, 33, 1, 0, 27, 2, 21, 14, 6, 15,
-    0, 3, 4, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
-    1, 1, 0, 14, 122]
+- activity: [3, 0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15,
+    0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 1, 1, 0, 32, 104]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1391,8 +1391,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 9, 28, 9, 27, 22, 9,
-    49, 29, 12, 3]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17, 23, 21,
+    13, 53, 18, 15, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
