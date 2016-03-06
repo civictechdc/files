@@ -237,7 +237,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 300
         }, 
         {
@@ -451,7 +451,7 @@ calendar({
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 52, 
+            "waitlist_count": 53, 
             "yes_rsvp_count": 3
         }, 
         {

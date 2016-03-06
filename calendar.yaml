@@ -266,7 +266,7 @@ other:
     localized_country_name: USA, lon: -77.044205000000005, name: 'GWU, Elliot School,
       Room 113', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 21
   yes_rsvp_count: 300
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
@@ -548,7 +548,7 @@ other:
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
-  waitlist_count: 52
+  waitlist_count: 53
   yes_rsvp_count: 3
 - created: 1456284196000
   description: "<p><b>Introduction to Google Analytics:\_\_</b></p> <p>This course\
