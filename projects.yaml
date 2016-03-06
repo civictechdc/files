@@ -1,6 +1,6 @@
-- activity: [0, 2, 0, 2, 11, 10, 6, 1, 2, 4, 0, 3, 3, 2, 6, 0, 0, 7, 3, 6, 10, 0,
-    3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2, 3, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9,
+    63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 3, 2, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -93,8 +93,8 @@
   size: 21734
   updated_at: '2015-12-04T19:40:07Z'
   watchers: 28
-- activity: [4, 0, 2, 6, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,
+- activity: [4, 0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [6, 0, 11, 1, 1, 0, 4, 1, 2, 6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0,
-    0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0, 3, 0,
+- activity: [6, 0, 11, 1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0,
+    0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1, 0, 3, 0,
     0, 1, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -619,14 +619,14 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 83,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 84,
     link: 'https://github.com/mkalish', name: mkalish}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 16,
+    link: 'https://github.com/romoy', name: romoy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
     link: 'https://github.com/jkoul', name: jkoul}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7322903?v=3', contributions: 5,
     link: 'https://github.com/bcell', name: bcell}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 4,
-    link: 'https://github.com/romoy', name: romoy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 3,
@@ -643,20 +643,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 11272405]
-  - [CSS, 9175]
-  - [HTML, 6073]
+  - [JavaScript, 10370822]
+  - [CSS, 6106]
+  - [HTML, 6072]
   - [Python, 4997]
   - [Shell, 758]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 19
+  open_issues: 17
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-06T04:29:30Z'
+  pushed_at: '2016-03-06T17:50:00Z'
   short_name: dc-campaign-finance-watch
-  size: 89390
+  size: 91658
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1093,9 +1093,9 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 95, 57, 7, 4, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
-    0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 104, 50, 7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: getdctrees@gmail.com, name: getdctrees.org, url: 'https://twitter.com/@evonfriedland'}
@@ -1178,8 +1178,8 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 17,
-    15, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 23,
+    12, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1230,7 +1230,7 @@
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1292,8 +1292,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24,
-    0, 51, 45, 54, 16]
+    0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 2, 11, 2, 40, 7, 10, 24,
+    0, 51, 63, 39, 31]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1355,12 +1355,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 38
+  open_issues: 39
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-06T06:26:39Z'
+  pushed_at: '2016-03-06T18:09:27Z'
   short_name: dcaf_case_management
-  size: 6657
+  size: 6662
   updated_at: '2016-02-23T00:38:33Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
