@@ -619,9 +619,9 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 84,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 85,
     link: 'https://github.com/mkalish', name: mkalish}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 16,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 31,
     link: 'https://github.com/romoy', name: romoy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
     link: 'https://github.com/jkoul', name: jkoul}
@@ -643,20 +643,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 10370822]
-  - [CSS, 6106]
+  - [JavaScript, 10237335]
+  - [CSS, 6155]
   - [HTML, 6072]
   - [Python, 4997]
-  - [Shell, 758]
+  - [Shell, 778]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
   open_issues: 17
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-06T17:50:00Z'
+  pushed_at: '2016-03-07T04:25:51Z'
   short_name: dc-campaign-finance-watch
-  size: 91658
+  size: 95365
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
