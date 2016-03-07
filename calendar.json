@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": true, 
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }
     ], 
     "other": [
@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1456840411000, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1451511271000, 
@@ -219,10 +219,10 @@
             "id": "229192610", 
             "maybe_rsvp_count": 0, 
             "name": "Quantum Computing and Machine Learning", 
-            "rsvp_limit": 300, 
+            "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1457316011000, 
+            "updated": 1457371724000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1957 E Street", 
@@ -237,8 +237,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 28, 
-            "yes_rsvp_count": 300
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 363
         }, 
         {
             "created": 1453051773000, 
@@ -258,10 +258,10 @@
             "id": "228155655", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night V", 
-            "rsvp_limit": 110, 
+            "rsvp_limit": 115, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1457036201000, 
+            "updated": 1457365486000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -276,8 +276,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
-            "yes_rsvp_count": 114
+            "waitlist_count": 43, 
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1454252703000, 
@@ -341,8 +341,20 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1457566200000, 
-            "updated": 1457221440000, 
+            "updated": 1457357905000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia", 
+                "city": ".", 
+                "country": "us", 
+                "id": 24314650, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual (Google Hangouts)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 12
@@ -385,7 +397,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1417881835000, 
@@ -412,7 +424,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1455927414000, 
@@ -528,7 +540,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1454252703000, 
@@ -593,7 +605,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 189
+            "yes_rsvp_count": 190
         }, 
         {
             "created": 1455416543000, 
@@ -632,7 +644,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1446220217000, 
