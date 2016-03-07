@@ -127,7 +127,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 16
 - created: 1456840411000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -164,7 +164,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 37
 - created: 1451511271000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -266,7 +266,7 @@ other:
     localized_country_name: USA, lon: -77.044205000000005, name: 'GWU, Elliot School,
       Room 113', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 24
+  waitlist_count: 25
   yes_rsvp_count: 300
 - created: 1453051773000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
@@ -326,8 +326,8 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: WeWork Wonder Bread Factory, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 44
-  yes_rsvp_count: 115
+  waitlist_count: 45
+  yes_rsvp_count: 114
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -506,7 +506,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 83
 - created: 1455927414000
   description: '<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP
     on the PyDataDC event page</p> <p><a href="http://www.meetup.com/PyDataDC/events/228980787/"><a
@@ -863,7 +863,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
     \ be going over:</p> <p>\u2022 Setting up a basic project<br/>\u2022 Creating\
@@ -1371,7 +1371,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

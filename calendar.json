@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1456840411000, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1451511271000, 
@@ -237,7 +237,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 24, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 300
         }, 
         {
@@ -276,8 +276,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
-            "yes_rsvp_count": 115
+            "waitlist_count": 45, 
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1454252703000, 
@@ -412,7 +412,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1455927414000, 
@@ -698,7 +698,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1456679073000, 
@@ -1096,7 +1096,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
