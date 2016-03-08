@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 51
         }, 
         {
             "announced": true, 
@@ -83,87 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1457035701000, 
-            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229322507/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qtfhrlyvfbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1457393400000, 
-            "updated": 1457392513000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
-            "created": 1456840411000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>- Dinner</p> <p>- Warmup Exercise for 10-15 min</p> <p>- Work on the following problems -\u00a0</p> <p><b>These are intro problems for anyone who is new to algorithms or interview type questions! We'll work through several of these time permitting</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/tutorial-intro\"><a href=\"https://www.hackerrank.com/challenges/tutorial-intro\" class=\"linkified\">https://www.hackerrank.com/challenges/tutorial-intro</a></a><br/></b></p> <p><b>For those who want more of a challenge</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/saveprincess\"><a href=\"https://www.hackerrank.com/challenges/saveprincess\" class=\"linkified\">https://www.hackerrank.com/challenges/saveprincess</a></a></b></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229254454/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Call (574) 323- 7240 if the door is locked outside.", 
-            "id": "229254454", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1457393400000, 
-            "updated": 1456840411000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
-        {
             "created": 1451511271000, 
             "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack. Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724648/", 
@@ -199,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1456641001000, 
@@ -238,11 +157,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 392
+            "yes_rsvp_count": 395
         }, 
         {
             "created": 1453051773000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>BikeHackNight is made possible by support from our sponsors at the Bike Summit,\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://technology.customink.com/\">CustomInk Tech</a>. Many thanks!</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza and soft drinks, with speakers starting at 7:00. <i>We have sold out, but please RSVP to be added to the wait list.</i></p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>The search is on for techies to present at our show &amp; tell. If you have a\u00a0bicycle-related app, data visualization, map, or gadgets, contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> to be added to the program. So far we have:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>\u2022 Brian Frickert will demo his app that can\u00a0<a href=\"https://bfrickert.shinyapps.io/data_product_project/\">forecast bike trail usage in Arlington</a>.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>BikeHackNight is made possible by support from our sponsors at the Bike Summit,\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://technology.customink.com/\">CustomInk Tech</a>. Many thanks!</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
             "group": {
                 "created": 1384372275000, 
@@ -258,10 +177,10 @@ calendar({
             "id": "228155655", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night V", 
-            "rsvp_limit": 115, 
+            "rsvp_limit": 118, 
             "status": "upcoming", 
             "time": 1457479800000, 
-            "updated": 1457365486000, 
+            "updated": 1457403816000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "641 S street NW", 
@@ -276,8 +195,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 42, 
-            "yes_rsvp_count": 115
+            "waitlist_count": 39, 
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1454252703000, 
@@ -424,7 +343,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1455927414000, 
@@ -513,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457035881000, 
@@ -581,7 +500,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1453729967000, 
@@ -657,7 +576,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1446220217000, 
@@ -817,7 +736,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457036183000, 
@@ -857,7 +776,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1454252703000, 
@@ -1018,7 +937,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446219481000, 
@@ -1160,7 +1079,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1456426141000, 
@@ -1328,6 +1247,62 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 25
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/gcxvllyvgbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1457212385000, 
+            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/wqrfrlyvgbhc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wqrfrlyvgbhc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1461623400000, 
+            "updated": 1457212385000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
