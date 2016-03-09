@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": true, 
@@ -83,163 +83,6 @@
     ], 
     "other": [
         {
-            "created": 1451511271000, 
-            "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack. Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724648/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "227724648", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 30: Didacts and Narpets", 
-            "status": "upcoming", 
-            "time": 1457479800000, 
-            "updated": 1451577863000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 46
-        }, 
-        {
-            "created": 1456641001000, 
-            "description": "<p>For our March Data Science DC Meetup, we will be exploring the rapidly developing field of quantum computing. John Kelly and Tristan Cook, of QxBranch, will introduce us to quantum computing and discuss what it can bring to machine learning.\u00a0</p> <p><br/><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p>The pace of development of quantum computing technologies has accelerated in recent years and along with it the understanding of their impact on solving today\u2019s computationally intractable problems. Machine learning is one discipline in particular where this emerging technology will present significant opportunities. Quantum computing has the potential to provide vast improvements to existing algorithms, as well as potential new methods for data exploration.\u00a0</p> <p>This presentation will provide an overview of the state-of-the-art in quantum computing and the emerging industry ecosystem, and then explore some of the ways that the technology can be harnessed for advances in machine learning. Software engineers from Washington DC based startup, QxBranch, will guide attendees through some example algorithms and applications.</p> <p><b>Bios:</b></p> <p><br/><b>John Kelly, Ph.D</b></p> <p>John Kelly, Director of Analytics at QxBranch, is leading the company\u2019s development of advanced data analytics technologies. Previously, he was the Technical Lead for Corporate Data Analytics at Lockheed Martin. John has experience applying machine learning to a diverse set of domains including healthcare, supply chain optimization, sustainment, and program management. He completed his Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University, where his work focused on machine learning and signal processing algorithms for brain-computer interfaces.</p> <p><b>Tristan Cook</b></p> <p>Tristan Cook is a systems engineer at QxBranch, with extensive experience in investigating quantum computing applications and developing algorithms for D-Wave quantum computers. He was previously a mechatronics engineer at Shoal, where he worked on a variety of complex systems engineering projects such as the SUSat, a microsatellite developed for the international QB50 project. Tristan graduated from the University of Adelaide with a Bachelor of Mechatronic Engineering and a Bachelor of Mathematical &amp; Computer Sciences.</p> <p><br/><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p> <p>Also, here's a special note from Data Community DC's newest educational partner and sponsor,\u00a0<a href=\"http://datasociety.co/\">Data Society</a>.\u00a0They have a limited-time offer during the\u00a0<a href=\"https://www.kickstarter.com/projects/978832055/data-science-for-everyone\">Kickstarter</a>\u00a0campaign of\u00a0LIFETIME ACCESS\u00a0to the hands-on data science bootcamp. You will learn how to use supervised and unsupervised machine learning in your work, how to use text mining to classify text data (tweets, blogs, e-mails) and how to mine social media to identify key connectors and influencers (and lots more!). The courses are taught in R and provide you with downloadable code templates and companion guides. Less than 3 weeks left before the Kickstarter, and this offer, ends for good!</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/229192610/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "229192610", 
-            "maybe_rsvp_count": 0, 
-            "name": "Quantum Computing and Machine Learning", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1457479800000, 
-            "updated": 1457371724000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1957 E Street", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23619989, 
-                "lat": 38.896275000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.044205000000005, 
-                "name": "GWU, Elliot School, Room 113", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 377
-        }, 
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android and Java apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android/Java Lab! \u00a0We welcome women with all levels of experience (including none). \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a presentation/code along of Java for Android! Please make sure that you have Android Studio installed and working on your laptop before you arrive!\u00a0</i>\u00a0</p> <p>Resources</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228673008/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Digital Commons 2", 
-            "id": "rjstplyvfblb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android/Java Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1457479800000, 
-            "updated": 1457461143000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "901 G St. NW Washington,  D.C.  20001", 
-                "city": "Gaithersburg", 
-                "country": "us", 
-                "id": 24224851, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Martin Luther King Jr. Memorial Library - Central Library", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 18
-        }, 
-        {
-            "created": 1453051773000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. Doors open at 6:30 for pizza, beer, and soft drinks, with speakers starting at 7:00.\u00a0</p> <p>We are thrilled to be returning to <a href=\"https://www.wework.com/locations/washington-d-c/wonder-bread-factory\">WeWork at the Wonderbread Factory</a>. And once again we will be welcoming attendees of the\u00a0National\u00a0<a href=\"http://www.bikeleague.org/summit\">Bike Summit</a>, the conference put on by the\u00a0<a href=\"http://www.bikeleague.org/\">League of American Bicyclists</a>.</p> <p>Our speakers are:</p> <p>\u2022\u00a0<a href=\"http://www.macwright.org/\">Tom MacWright</a> will recount how he helped create <a href=\"http://dccode.org/\">dccode.org</a> in order to enforce keeping the 14th St bikelanes from <a href=\"https://gist.github.com/tmcw/3489037\">being blocked</a> by\u00a0restaurant valets.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/rektide\">Matt Fowle</a> will show how he built a sound system for his bike using Chromecast\u00a0audio, Raspberry Pi, and Mopidy.</p> <p>\u2022\u00a0&lt;a&gt;Jonathan&lt;/a&gt; and <a href=\"https://twitter.com/weidman_kyle\">Kyle</a> Weidman will demo their app for\u00a0<a href=\"http://twowheelvalet.com/\">Two Wheel Valet</a> that lets users to check and claim\u00a0their bikes via text message.</p> <p><br/>\u2022\u00a0<a href=\"http://alongthepike.com/\">Chris Slatt</a> will talk about how he stitched together the <a href=\"http://dcbikemap.com/\">DC Frankenmap</a>, and made <a href=\"http://dcbikemap.com/heat/\">heatmaps</a> of the\u00a0<a href=\"http://freezingsaddles.com/\">Freezing Saddles</a> riders.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of <a href=\"http://district.ninja/\">District Ninja</a> will dive into DC's open data to build maps and dataviz about bicycle safety.</p> <p><br/>\u2022 Brian Frickert will demo his app that can\u00a0<a href=\"https://bfrickert.shinyapps.io/data_product_project/\">forecast bike trail usage in Arlington</a>.</p> <p><br/>See what was presented at previous events:\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/168585592/\">Bike Hack Night I</a>,\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/200015252/\">Bike Hack Night II</a>, <a href=\"http://www.meetup.com/Transportation-Techies/events/220449315/\">Bike Hack Night III</a>, and <a href=\"http://www.meetup.com/Transportation-Techies/events/226911922/\">Bike Hack Night IV</a>.\u00a0Read more at\u00a0<a href=\"http://mobilitylab.org/2014/05/28/transportation-techies-show-what-can-be-done-with-bike-data/\">Transportation Techies Show What Can Be Done With Bike Data</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2014/11/13/d-c-using-data-to-envision-bike-lanes-of-the-future/\">D.C. Using Data to Envision Bike Lanes of the Future</a>.</p> <p>BikeHackNight is made possible by support from our sponsors at the Bike Summit,\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a> and\u00a0<a href=\"http://technology.customink.com/\">CustomInk Tech</a>. Many thanks!</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>\u00a0(and\u00a0<a href=\"https://twitter.com/search?q=%23nbs16\">#nbs16</a> for the Bike Summit). Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/228155655/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "228155655", 
-            "maybe_rsvp_count": 0, 
-            "name": "Bike Hack Night V", 
-            "rsvp_limit": 130, 
-            "status": "upcoming", 
-            "time": 1457480700000, 
-            "updated": 1457479870000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20010852, 
-                "lat": 38.914551000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "WeWork Wonder Bread Factory", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 20, 
-            "yes_rsvp_count": 130
-        }, 
-        {
             "created": 1446220149000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -277,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1456601813000, 
@@ -317,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1417881835000, 
@@ -356,7 +199,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1455927414000, 
@@ -395,7 +238,7 @@
                 "zip": "20052"
             }, 
             "visibility": "public", 
-            "waitlist_count": 55, 
+            "waitlist_count": 56, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -472,7 +315,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1454252703000, 
@@ -513,7 +356,44 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
+        }, 
+        {
+            "created": 1457486626000, 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/229450027/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "id": "229450027", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to OpenStreetMap", 
+            "status": "upcoming", 
+            "time": 1458081000000, 
+            "updated": 1457486626000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "900 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 21261802, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "MLK Library Dream Lab", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1453729967000, 
@@ -550,7 +430,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 189
+            "yes_rsvp_count": 188
         }, 
         {
             "created": 1455416543000, 
@@ -711,6 +591,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1457506954000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229455905/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Nearby the following metro stations: McPherson Station, Farragut North and Farragut West", 
+            "id": "229455905", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1458772200000, 
+            "updated": 1457506954000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1 Thomas Circle", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24416213, 
+                "lat": 38.905323000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.032700000000006, 
+                "name": "Fiscal Note", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1456601656000, 
@@ -1005,7 +926,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1456431672000, 
@@ -1092,7 +1013,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1456426141000, 
@@ -1204,7 +1125,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1446220149000, 
@@ -1259,7 +1180,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1446220217000, 
@@ -1392,7 +1313,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
