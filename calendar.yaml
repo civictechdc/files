@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 59
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -109,7 +109,7 @@ other:
     lon: -77.036873, name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1456601813000
   description: "<p>As a continuation of our Ruby on Rails: First Timer's Night, this\
     \ event will help you understand and navigate the Rails framework. \_We'll create\
@@ -149,9 +149,9 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 24
 - created: 1417881835000
-  description: "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Dragonov\
+  description: "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Draganov\
     \ about the mathematics behind prediction and mitigation of rare, catastrophic\
     \ events.\_</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is\
     \ associated with a financial instrument?\_Intuitively, risk is clearly connected\
@@ -211,14 +211,14 @@ other:
   name: How to Find and Mitigate Rare Catastrophic Events
   status: upcoming
   time: 1457566200000
-  updated: 1457453016000
+  updated: 1457548957000
   utc_offset: -18000000
   venue: {address_1: 1005 7th St. NW Suite 100, city: Washington, country: us, id: 23529357,
     lat: 38.903075999999999, localized_country_name: USA, lon: -77.021843000000004,
     name: Contactually HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 94
 - created: 1455927414000
   description: '<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP
     on the PyDataDC event page</p> <p><a href="http://www.meetup.com/PyDataDC/events/228980787/"><a
@@ -306,7 +306,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1457035881000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -348,7 +348,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -409,7 +409,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 35
 - created: 1453729967000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
     \ minds from NASA to learn about the agency's newly redesigned\_&lt;a&gt;<a href=\"\
@@ -701,7 +701,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 8
 - created: 1456601656000
   description: "<p>Say you're building a simple website with five pages linked together,\
     \ and a simple navigation bar at the top. You make some changes to the code and\
