@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "announced": true, 
@@ -152,7 +152,7 @@ calendar({
             "rsvp_limit": 20, 
             "status": "upcoming", 
             "time": 1457994600000, 
-            "updated": 1457288254000, 
+            "updated": 1457616673000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "641 S St NW", 
@@ -169,7 +169,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457035881000, 
@@ -196,7 +196,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1454252703000, 
@@ -237,7 +237,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1457486626000, 
@@ -312,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 191
+            "yes_rsvp_count": 193
         }, 
         {
             "created": 1455416543000, 
@@ -351,7 +351,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446220217000, 
@@ -417,7 +417,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1456679073000, 
@@ -513,7 +513,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1456601656000, 
@@ -552,7 +552,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457036183000, 
@@ -675,8 +675,47 @@ calendar({
             "yes_rsvp_count": 6
         }, 
         {
+            "created": 1457636180000, 
+            "description": "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lev</a>.</p> <p>6:30 - 7:00 Food, drinks and meet new people<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30 Presentation, Q&amp;A<br/>8:30ish Off to the bar</p> <p>About the Talk</p> <p>Machine learning has become increasingly associated with advanced analytics. We will explore the basic idea behind machine learning, the steps to apply machine learning, and some of the supervised and unsupervised models. We will focus on classification models and will walk through the R code for those models.</p> <p>We will go over a real life business application at a major institution and touch on key practical lessons learned for machine learning. The talk will address know how from a practitioner\u2019s point of view. \u00a0</p> <p><b>There will be code!</b></p> <p><b><i>About Rafi</i></b></p> <p>Rafi is an advance analytics manager with the Advisory Services data and analytics practice at <a href=\"http://www.ey.com\">Ernst &amp; Young</a>. Rafi is a practitioner with a background in economic research, finance and data analytics from algorithms to BI to data mining. He has consulted on new product developments, business initiatives, process reengineering, technology solutions and efficacy implementations.</p> <p>He has developed R machine learning models for large financial institutions and oversees the analytics training for Data and Analytics. Rafi holds a Master's of Science of Finance from Johns Hopkins University and B.S. in Economics from George Washington University. He serves on the financial advisory committee to the board of Washington Yu-Ying Public carter school and on the corporate advisory board for the master in analytics at GWU.</p> <p>Follow him at <a href=\"http://www.twitter.com/refaellav\">@refaellav</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/229492696/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "229492696", 
+            "maybe_rsvp_count": 0, 
+            "name": "Machine Learning with R", 
+            "status": "upcoming", 
+            "time": 1459377000000, 
+            "updated": 1457636180000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24286689, 
+                "lat": 38.898685, 
+                "localized_country_name": "USA", 
+                "lon": -77.049187000000003, 
+                "name": "GWU Funger Hall - Room 103", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1456402619000, 
-            "description": "<p>Do you want to join a\u00a0<b>high-impact team\u00a0</b>and work on\u00a0<b>10x ideas and Moonshots\u00a0</b>towards solving some of the most difficult challenges facing humanity?</p> <p>On\u00a0<b>Saturday, April 2nd 2016,</b>\u00a0<a href=\"http://teamexponent.com/\">Team Exponent</a>, in partnership with\u00a0<a href=\"http://www.meetup.com/gdg-dc/\">GDG DC</a>\u00a0and Capital One, is hosting a 1-day\u00a0<b>10x Moonshot Sprint</b>\u00a0session to solve for\u00a0<i>Climate Change through robotics, artificial intelligence and biotech</i>. This is your chance to be a part of something with high-value and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist, Designer, PM or purely passionate about solving for this challenge through moonshot thinking, this is a chance to meet likeminded individuals with the various skills needed to ideate, prototype and bring a potential moonshot project to life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\u00a0for an opportunity to join this unique experience.</p> <p><br/>For more details, visit\u00a0<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\" class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\u00a0<a href=\"http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review all applications and notify you if you are selected, participation is through invitation only and will require a $20 admin registration fee upon confirmation.\u00a0</i><i>The event session will include meals and drinks, and materials required for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\" /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\">Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots, sustainability and the pursuit of change and innovation. Katy develops and executes strategies to solve complex problems using technology, with a focus on achieving product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\u00a0<br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in New York City, inspiring 10x Moonshot thinking and education. We believe in the potential of 10x Moonshot ideas and high-impact teams to help us solve our toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a> | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
+            "description": "<p>Do you want to join a\u00a0<b>high-impact team\u00a0</b>and work on\u00a0<b>10x ideas and Moonshots\u00a0</b>towards solving some of the most difficult challenges facing humanity?</p> <p>On\u00a0<b>Saturday, April 2nd 2016,</b>\u00a0<a href=\"http://teamexponent.com/\">Team Exponent</a>, in partnership with\u00a0<a href=\"http://www.meetup.com/gdg-dc/\">GDG DC</a>\u00a0and Capital One, is hosting a 1-day\u00a0<b>10x Moonshot Sprint</b>\u00a0session to solve for\u00a0<i>Climate Change through robotics, artificial intelligence and biotech</i>. This is your chance to be a part of something with high-value and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist, Designer, PM or purely passionate about solving for this challenge through moonshot thinking, this is a chance to meet like minded individuals with the various skills needed to ideate, prototype and bring a potential moonshot project to life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\u00a0for an opportunity to join this unique experience.</p> <p><br/>For more details, visit\u00a0<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\" class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\u00a0<a href=\"http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review all applications and notify you if you are selected, participation is through invitation only and will require a $20 admin registration fee upon confirmation.\u00a0</i><i>The event session will include meals and drinks, and materials required for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\" /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\">Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots, sustainability and the pursuit of change and innovation. Katy develops and executes strategies to solve complex problems using technology, with a focus on achieving product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\u00a0<br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in New York City, inspiring 10x Moonshot thinking and education. We believe in the potential of 10x Moonshot ideas and high-impact teams to help us solve our toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a> | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
             "duration": 32400000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/229122044/", 
             "group": {
@@ -697,7 +736,7 @@ calendar({
             "rsvp_limit": 3, 
             "status": "upcoming", 
             "time": 1459603800000, 
-            "updated": 1456409602000, 
+            "updated": 1457635339000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -712,7 +751,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -1062,7 +1101,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446220217000, 
