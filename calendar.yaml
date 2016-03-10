@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -78,147 +78,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 20
 other:
-- created: 1446220149000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227685110/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: bcxvllyvfbmb
-  maybe_rsvp_count: 0
-  name: Python has no Switch/Case - Let's talk about Else If
-  rsvp_limit: 50
-  status: upcoming
-  time: 1457566200000
-  updated: 1457357905000
-  utc_offset: -18000000
-  venue: {address_1: 'https://hangouts.google.com/call/hygtzyr4xvyjpqljjkrdvkq2aia',
-    city: ., country: us, id: 24314650, lat: 38.907192000000002, localized_country_name: USA,
-    lon: -77.036873, name: Virtual (Google Hangouts), repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 22
-- created: 1456601813000
-  description: "<p>As a continuation of our Ruby on Rails: First Timer's Night, this\
-    \ event will help you understand and navigate the Rails framework. \_We'll create\
-    \ the blueprint of all introductory tutorials by making a basic Ruby on Rails\
-    \ blog.\_</p> <p>This event is intended to be exclusively open for people who\
-    \ identify as women - we are transgender friendly.</p> <p><i><b>Please bring a\
-    \ laptop</b></i> to the event so you can participate in the workshop!</p> <p>Check\
-    \ out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Meetup Agenda</b></p>\
-    \ <p>\u2022\_<b>6:30pm</b> - Setup</p> <p>\u2022 <b>6:40 - 6:50pm</b> - Quick\
-    \ introductions</p> <p>\u2022 <b>6:50 - 8:10pm </b>- Building the #Classic Rails\
-    \ Blog</p> <p>\u2022 <b>8:15 - 8:30pm</b> - Wrap Up</p> <p><b>RESOURCES</b></p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229182234/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '229182234'
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Building the #Classic Rails Blog'
-  status: upcoming
-  time: 1457566200000
-  updated: 1457445658000
-  utc_offset: -18000000
-  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
-    lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
-    name: Living Social, repinned: false, state: DC, zip: '20005'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 22
-- created: 1417881835000
-  description: "<p>Please join us for an exciting talk by Dr. Alexandr \"Sasha\" Draganov\
-    \ about the mathematics behind prediction and mitigation of rare, catastrophic\
-    \ events.\_</p> <p><b>About the Talk</b></p> <p>How do we quantify risk that is\
-    \ associated with a financial instrument?\_Intuitively, risk is clearly connected\
-    \ to the\_probability of a loss.\_ In a simple case, we estimate the volatility;\
-    \ however, the dreadful experience of the recent financial crisis shows that volatility\
-    \ alone does not paint the full picture.\_ The common computation of volatility\
-    \ misses the possibility of rare but catastrophic events. \_</p> <p><br/>One possible\
-    \ reason for this limitation is the overuse of the so-called normal probability\
-    \ distribution.\_ It is called \"normal\" for a reason: indeed, it is the most\
-    \ common way to characterize random variations (such as variations in the value\
-    \ of securities).\_ However, this tool must not be applied indiscriminately.\_\
-    \ A deeper dive shows that it often fails for large, rare variations, precisely\
-    \ when\_there is a possibility of a failure. \_</p> <p>This concept was popularized\
-    \ by Nassim Nicholas Taleb, who christened such events Black Swans.\_ Popular\
-    \ books notwithstanding, there is a real mathematical foundation today to deal\
-    \ with this problem.\_ Applications are common in the insurance industry (Hurricane\
-    \ Katrina) or for construction in the regions, where earthquakes are common.\_\
-    </p> <p>We have recently completed a DARPA-funded research program, where we applied\
-    \ these new ideas for engineering applications.\_ Using real data from various\
-    \ sensors, we were able to detect and mitigate outliers in real time.\_ In this\
-    \ presentation, we will review the concept and the science of rare, catastrophic\
-    \ events, and will talk about ways to alleviate their effects.</p> <p><b>Meetup\
-    \ Agenda</b></p> <p><br/>6:30 PM - Networking, Food &amp; Drink</p> <p>7:00 PM\
-    \ - Intro &amp; Talk</p> <p>Join us for more discussion after the event with Data\
-    \ Drinks (location TBD).</p> <p><b>Sponsors for this Event</b></p> <p>Thanks to\
-    \ <a href=\"http://www.datacommunitydc.org/\">Data Community DC</a> for organizational\
-    \ support, to <a href=\"https://www.contactually.com/\">Contactually</a>\_for\
-    \ space, and to <a href=\"https://www.excella.com/careers\">Excella Consulting</a>\
-    \ for our food and drink.</p> <p><b>About Our Speaker</b></p> <p>Alexandr \u201C\
-    Sasha\u201D Draganov grew up in the Soviet Union, with a limited access to computers.\
-    \ When you cannot rely on a computer, you have to compensate by honing your math\
-    \ and analytical techniques. Today, Sasha uses these skills to do research and\
-    \ development in multiple fields, including applied mathematics, algorithm development,\
-    \ signal processing, and telecommunications. He authored winning proposals and\
-    \ served as the Principal Investigator for multimillion-dollar research and development\
-    \ programs. Sasha published over 40 papers, and presented at dozens of conferences.\
-    \ He holds five U.S. patents. He has a Ph.D. in Electrical Engineering from Stanford\
-    \ and a Masters in Theoretical Physics from Kiev University, Ukraine.</p> <p>Sasha\
-    \ runs two start-up companies: one is performing contract research and development\
-    \ for government and commercial customers, and another is developing an innovative\
-    \ software application for personal finance.</p> <p>Sasha loves books. He got\
-    \ hooked on reading while serving 2 years in the Soviet military in a small town,\
-    \ where a local library was the only source of entertainment. He remembers a jolt\
-    \ from reading first few pages of Swann\u2019s Way by Marcel Proust on the steps\
-    \ to a radar cabin. Proust remains one of favorite authors, as are Leo Tolstoy\
-    \ and Robert Musil.\_ Recently, Sasha published a scholarly article in a refereed\
-    \ journal on the idea of virtue in Tolstoy\u2019s work.\_ Sasha also loves fine\
-    \ art and has visited many major art museums all over the world.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934610/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclyvfbdb
-  maybe_rsvp_count: 0
-  name: How to Find and Mitigate Rare Catastrophic Events
-  status: upcoming
-  time: 1457566200000
-  updated: 1457548957000
-  utc_offset: -18000000
-  venue: {address_1: 1005 7th St. NW Suite 100, city: Washington, country: us, id: 23529357,
-    lat: 38.903075999999999, localized_country_name: USA, lon: -77.021843000000004,
-    name: Contactually HQ, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 95
 - created: 1455927414000
   description: '<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP
     on the PyDataDC event page</p> <p><a href="http://www.meetup.com/PyDataDC/events/228980787/"><a
@@ -348,7 +207,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -390,8 +249,21 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1457486626000
+  description: "<p>Join us for an Intro to OpenStreetMap (OSM)- a great way to introduce\
+    \ yourself to the world of map making.\_ OSM is a map of the world, created by\
+    \ people like you, free to use under an open license and used by some of your\
+    \ favorite sites and services such as CartoDB, Craigslist, Foursquare, Mapbox,\
+    \ Stamen Design and Strava.\_ Come and learn how to contribute to OSM, and make\
+    \ your first edit!</p> <p>We\u2019ll start with the basics of OpenStreetMap, explain\
+    \ how to edit and get help, show some examples, followed by a question and answer\
+    \ session, and finally edit some maps!\_ Beginners and curious map people are\
+    \ welcome! No experience is necessary. As always, Maptime is heavily interactive\
+    \ so bring your laptop!\_ And you may want to bring a mouse, as digitizing is\
+    \ harder with a laptop touchpad. \_</p> <p>There are over 2.5 million registered\
+    \ OpenStreetMap contributors crowdsourcing geographic data.\_ Join the millions\
+    \ around the world who are helping to annotate the map of the world!</p>"
   event_url: http://www.meetup.com/Maptime-DC/events/229450027/
   group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
@@ -402,7 +274,7 @@ other:
   name: Intro to OpenStreetMap
   status: upcoming
   time: 1458081000000
-  updated: 1457486626000
+  updated: 1457573414000
   utc_offset: -14400000
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     localized_country_name: USA, lon: 0, name: MLK Library Dream Lab, repinned: false,
@@ -546,7 +418,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -899,7 +771,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -1005,7 +877,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1414,6 +1286,85 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1457035701000
+  description: "<p>Learning to code for the first time with us! We will be going over\
+    \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's\
+    \ <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
+    >JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group\
+    \ where women can come together and help each other learn and understand web development.\
+    \ We welcome devs of all levels and encourage those with more experience to help\
+    \ out those that are just starting. There's always at least one mentor or leader\
+    \ present to help you with best practices or to guide you through if you are stuck\
+    \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
+    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
+    \ be available at the event. Even if you have never coded before, you will be\
+    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022\
+    \ 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into\
+    \ HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm\
+    \ - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit\
+    \ <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github\
+    \ repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
+    >First Timer's JavaScript Guide</a></p> <p><br/>\u2022\_<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\"\
+    >HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\"\
+    >CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\"\
+    >JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building\
+    \ management companies require Meetup hosts to let people in and do not encourage\
+    \ them being contacted. Please respect the policy. In case the location requires\
+    \ access to the building, contact the group lead if information is provided or\
+    \ drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\_\
+    </p> <p>This event is intended to be exclusively open for women; we are trans*\
+    \ friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229365740/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qtfhrlyvhbdb
+  maybe_rsvp_count: 0
+  name: Front End Lab - First Timer's Night
+  status: upcoming
+  time: 1462228200000
+  updated: 1457392514000
+  utc_offset: -14400000
+  venue: {address_1: 641 S St NW, city: Washington, country: us, id: 9483992, lat: 38.914549999999998,
+    localized_country_name: USA, lon: -77.021095000000003, name: iStrategyLabs, repinned: false,
+    state: DC, zip: '20001'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 7
+- created: 1446219481000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387916/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: jzwvllyvhbgb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night(Beginner's Night)
+  rsvp_limit: 50
+  status: upcoming
+  time: 1462401000000
+  updated: 1446219481000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
