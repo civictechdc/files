@@ -83,46 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1455927414000, 
-            "description": "<p>NOTE: This is a special SPDC/PyDataDC joint event. Please RSVP on the PyDataDC event page</p> <p><a href=\"http://www.meetup.com/PyDataDC/events/228980787/\"><a href=\"http://www.meetup.com/PyDataDC/events/228980787/\" class=\"linkified\">http://www.meetup.com/PyDataDC/events/228980787/</a></a></p> <p>to get an accurate count for food and drinks. FYI - The RSVP limit here is 0 (zero). Thank You.</p> <p><br/>Please join us in this special SPDC event to kick off the PyData DC meetup launch with Travis Oliphant, the Co-Founder and CEO of Continuum Analytics. Travis will be speaking about Scaling Up and Scaling Out PyData.</p> <p><br/>Travis has a Ph.D. from the Mayo Clinic and B.S. and M.S. degrees in Mathematics and Electrical Engineering from Brigham Young University. Since 1997, he has worked extensively with Python for numerical and scientific programming, most notably as the primary developer of the NumPy package, and as a founding contributor of the SciPy package. He is also the author of the definitive Guide to NumPy.</p> <p><br/>You can read more about Travis and Continuum here:</p> <p><a href=\"https://www.continuum.io/people/travis-oliphant\"><a href=\"https://www.continuum.io/people/travis-oliphant\" class=\"linkified\">https://www.continuum.io/people/travis-oliphant</a></a></p> <p><br/>We hope you can attend this exciting event! Please RSVP so we can plan accordingly.</p> <p><br/>Note NumFOCUS and Capital One are sponsoring this event. If you are interested in sponsoring future events or have suggestions please get in touch with us either through meetup or on twitter @PyDataDC</p> <p><a href=\"https://twitter.com/PyDataDC\"><a href=\"https://twitter.com/PyDataDC\" class=\"linkified\">https://twitter.com/PyDataDC</a></a></p> <p><br/>Agenda</p> <p>6:30 - 7:00 - Mingle and Eat</p> <p>7:00 - 7:15 - Intros and Announcements</p> <p>7:15 - 8:30 - Presentation, Q&amp;A</p> <p>8:30ish - Data Drinks (TBD)</p>", 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/228986029/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "228986029", 
-            "maybe_rsvp_count": 0, 
-            "name": "Scaling Up and Scaling Out PyData", 
-            "rsvp_limit": 3, 
-            "status": "upcoming", 
-            "time": 1457652600000, 
-            "updated": 1455933827000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 58, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1456284196000, 
             "description": "<p><b>Introduction to Google Analytics:\u00a0\u00a0</b></p> <p>This course will provide a foundation for anyone seeking to understand the basics of Google Analytics and to improve business performance through better digital measurement.</p> <p>This course will provide you with an overview of today\u2019s digital measurement landscape, best practices for collecting actionable data, descriptions of key digital measurement concepts, as well as a \u00a0deep-dive into Google Analytics reports with specific examples for evaluating your digital marketing performance.</p> <p>\n\n\n<b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/0/1/2/600_447188210.jpeg\" /></p> <p>Emily Patterson is the Sr. Manager of Digital Analytics at PBS. She has worked in the DC area on websites and analytics for the past 8 years. She's helped nonprofits use Google Analytics to track marketing efforts, run A/B tests and improve site user experience. When she's not getting nerdy with data at work, Emily lives in Alexandria with her husband, dog and book collection.</p> <p><br/><b>Getting there:\u00a0</b></p> <p>iStrategy Labs is conveniently located at 641 S St NW - one block away from the Shaw-Howard metro stop\u00a0(on the green and yellow line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
             "duration": 7200000, 
@@ -196,7 +156,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457641158000, 
@@ -236,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1454252703000, 
@@ -277,7 +237,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457486626000, 
@@ -352,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 200
+            "yes_rsvp_count": 202
         }, 
         {
             "created": 1455416543000, 
@@ -751,7 +711,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 132
         }, 
         {
             "created": 1456402619000, 
@@ -791,7 +751,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 18, 
             "yes_rsvp_count": 3
         }, 
         {

@@ -1445,8 +1445,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -3529,10 +3529,10 @@
             0, 
             0, 
             0, 
-            53, 
-            79, 
-            26, 
-            4, 
+            61, 
+            89, 
+            9, 
+            3, 
             2, 
             0, 
             1, 
@@ -3813,19 +3813,19 @@
             0, 
             0, 
             0, 
-            2, 
-            14, 
-            0, 
-            28, 
             8, 
+            8, 
+            10, 
+            22, 
+            4, 
             0, 
             0, 
             0, 
             0, 
             0, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             0, 
             0, 
             0, 
@@ -4083,10 +4083,10 @@
             0, 
             0, 
             0, 
-            1, 
             2, 
-            8, 
-            8, 
+            1, 
+            11, 
+            5, 
             0, 
             0, 
             0, 
@@ -4179,8 +4179,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4190,20 +4190,20 @@
             9, 
             6, 
             0, 
-            7, 
+            9, 
+            0, 
+            13, 
             2, 
-            12, 
-            3, 
             40, 
             7, 
             10, 
             24, 
             0, 
-            28, 
-            68, 
-            49, 
-            14, 
-            31
+            45, 
+            51, 
+            57, 
+            10, 
+            34
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4270,13 +4270,13 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 218, 
+                "contributions": 236, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/14868930?v=3", 
-                "contributions": 57, 
+                "contributions": 58, 
                 "link": "https://github.com/ajohnson052", 
                 "name": "ajohnson052"
             }, 
@@ -4287,20 +4287,20 @@
                 "name": "mebates"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10971884?v=3", 
+                "contributions": 17, 
+                "link": "https://github.com/drownedout", 
+                "name": "drownedout"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
                 "contributions": 16, 
                 "link": "https://github.com/Kevin-Wei", 
                 "name": "Kevin-Wei"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/10971884?v=3", 
-                "contributions": 16, 
-                "link": "https://github.com/drownedout", 
-                "name": "drownedout"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
-                "contributions": 6, 
+                "contributions": 8, 
                 "link": "https://github.com/charleshuang80", 
                 "name": "charleshuang80"
             }, 
@@ -4347,15 +4347,15 @@
         "languages": [
             [
                 "Ruby", 
-                54944
+                57691
             ], 
             [
                 "HTML", 
-                50443
+                53312
             ], 
             [
                 "CSS", 
-                23735
+                24447
             ], 
             [
                 "JavaScript", 
@@ -4374,16 +4374,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 40, 
+        "open_issues": 36, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-03-10T13:18:50Z", 
+        "pushed_at": "2016-03-11T05:39:55Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6675, 
+        "size": 6689, 
         "updated_at": "2016-02-23T00:38:33Z", 
         "watchers": 2
     }, 
@@ -4836,8 +4836,8 @@
             0, 
             0, 
             0, 
-            0, 
-            48, 
+            9, 
+            39, 
             35, 
             0, 
             0, 
