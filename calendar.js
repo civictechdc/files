@@ -169,7 +169,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457035881000, 
@@ -196,7 +196,47 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
+        }, 
+        {
+            "created": 1457641158000, 
+            "description": "<p>Please RSVP here:\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/229446339/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/229446339/</a></p> <p>Join us as we learn how Mapbox tests their SDK from end-to-end. We will be hearing from <b>Tobrun Van Nuland</b> on all things testing!</p> <p>Then stay tuned as we learn more about how we can provide directions in our applications without having to integrate with Google Play Services with <b>Brad Leege</b> of Mapbox. It's going to be a great event!</p> <p>_____</p> <p>Schedule: 6:00 p.m. -- Refreshments and Networking, Pizza sponsored by Mapbox.</p> <p>6:30 p.m. -- Full Stack Testing - Tobrun Van Nuland</p> <p>7:00 p.m. -- In-App Directions w/o Google Play Services - Brad Leege</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p> <p>Tweet at @DCAndroid or use the #DCAndroid hashtag!</p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/229494679/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "229494679", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Full Stack Testing & More", 
+            "status": "upcoming", 
+            "time": 1458079200000, 
+            "updated": 1457649071000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW, Suite 200", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 4867002, 
+                "lat": 38.899151000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.033195000000006, 
+                "name": "LivingSocial", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1454252703000, 
@@ -312,7 +352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 193
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1455416543000, 
@@ -351,7 +391,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1446220217000, 
@@ -676,7 +716,7 @@ calendar({
         }, 
         {
             "created": 1457636180000, 
-            "description": "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lev</a>.</p> <p>6:30 - 7:00 Food, drinks and meet new people<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30 Presentation, Q&amp;A<br/>8:30ish Off to the bar</p> <p>About the Talk</p> <p>Machine learning has become increasingly associated with advanced analytics. We will explore the basic idea behind machine learning, the steps to apply machine learning, and some of the supervised and unsupervised models. We will focus on classification models and will walk through the R code for those models.</p> <p>We will go over a real life business application at a major institution and touch on key practical lessons learned for machine learning. The talk will address know how from a practitioner\u2019s point of view. \u00a0</p> <p><b>There will be code!</b></p> <p><b><i>About Rafi</i></b></p> <p>Rafi is an advance analytics manager with the Advisory Services data and analytics practice at <a href=\"http://www.ey.com\">Ernst &amp; Young</a>. Rafi is a practitioner with a background in economic research, finance and data analytics from algorithms to BI to data mining. He has consulted on new product developments, business initiatives, process reengineering, technology solutions and efficacy implementations.</p> <p>He has developed R machine learning models for large financial institutions and oversees the analytics training for Data and Analytics. Rafi holds a Master's of Science of Finance from Johns Hopkins University and B.S. in Economics from George Washington University. He serves on the financial advisory committee to the board of Washington Yu-Ying Public carter school and on the corporate advisory board for the master in analytics at GWU.</p> <p>Follow him at <a href=\"http://www.twitter.com/refaellav\">@refaellav</a></p>", 
+            "description": "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p> <p>6:30 - 7:00 Food, drinks and meet new people<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30 Presentation, Q&amp;A<br/>8:30ish Off to the bar</p> <p><i><b>About the Talk</b></i></p> <p>Machine learning has become increasingly associated with advanced analytics. We will explore the basic idea behind machine learning, the steps to apply machine learning, and some of the supervised and unsupervised models. We will focus on classification models and will walk through the R code for those models.</p> <p>We will go over a real life business application at a major institution and touch on key practical lessons learned for machine learning. The talk will address know how from a practitioner\u2019s point of view. \u00a0</p> <p><b>There will be code!</b></p> <p><b><i>About Rafi</i></b></p> <p>Rafi is an advance analytics manager with the Advisory Services data and analytics practice at <a href=\"http://www.ey.com\">Ernst &amp; Young</a>. Rafi is a practitioner with a background in economic research, finance and data analytics from algorithms to BI to data mining. He has consulted on new product developments, business initiatives, process reengineering, technology solutions and efficacy implementations.</p> <p>He has developed R machine learning models for large financial institutions and oversees the analytics training for Data and Analytics. Rafi holds a Master's of Science of Finance from Johns Hopkins University and B.S. in Economics from George Washington University. He serves on the financial advisory committee to the board of Washington Yu-Ying Public charter\u00a0school and on the corporate advisory board for the master in analytics at GWU.</p> <p>Follow him at <a href=\"http://www.twitter.com/refaellav\">@refaellav</a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/stats-prog-dc/events/229492696/", 
             "group": {
@@ -695,7 +735,7 @@ calendar({
             "name": "Machine Learning with R", 
             "status": "upcoming", 
             "time": 1459377000000, 
-            "updated": 1457636180000, 
+            "updated": 1457644507000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St NW", 
@@ -711,7 +751,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1456402619000, 
@@ -751,7 +791,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -792,7 +832,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446219481000, 
@@ -820,7 +860,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1452612310000, 
