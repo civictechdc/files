@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 68
         }, 
         {
             "announced": true, 
@@ -129,7 +129,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457035881000, 
@@ -156,7 +156,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457641158000, 
@@ -196,7 +196,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1454252703000, 
@@ -237,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457486626000, 
@@ -312,7 +312,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 202
+            "yes_rsvp_count": 206
         }, 
         {
             "created": 1455416543000, 
@@ -351,7 +351,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1446220217000, 
@@ -379,7 +379,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1455036704000, 
@@ -399,9 +399,10 @@
             "id": "228727805", 
             "maybe_rsvp_count": 0, 
             "name": "Tech Talk - Intro to the Go programming language!", 
+            "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1455760738000, 
+            "updated": 1457713648000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "TBD", 
@@ -417,7 +418,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1456679073000, 
@@ -444,7 +445,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1454252703000, 
@@ -711,7 +712,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 143
         }, 
         {
             "created": 1456402619000, 
@@ -751,7 +752,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 18, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -792,7 +793,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
@@ -981,7 +982,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457035881000, 
@@ -1008,7 +1009,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1451511328000, 
@@ -1101,7 +1102,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1446220217000, 
@@ -1135,7 +1136,7 @@
             "created": 1457212385000, 
             "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/wqrfrlyvgbhc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229516526/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1157,7 +1158,45 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1457709309000, 
+            "description": "<p>NoVA\u00a0Elixir\u00a0meetup has graciously offered GDI members\u00a0scholarships for Elixir Mastery three times around. The first two times they were full scholarships but because we've had a no show it is now a partial scholarship. Please only RSVP if you're certain you will be able to make all three days of the series (4/27, 4/28 and 4/29; 830a-5p).\u00a0\u00a0</p> <p>\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1500/pp for three days, but Elixir Mastery is offering GDI DC three tickets at a reduced rate of $75! If you are certain you will be able to make all three days, <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">RSVP here</a>. Again, please ONLY RSVP IF YOU'RE ABSOLUTELY SURE YOU CAN MAKE IT. After three people have entered the code others can no longer claim it.\u00a0</p> <p>\n\n\n<b>About Elixir\u00a0</b></p> <p>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p>\n\n\nMore information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p>\n\n\n<b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">register here</a>. We have scholarships for the first three members that RSVP, making the course $75.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0</p>", 
+            "duration": 203400000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229512542/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "229512542", 
+            "maybe_rsvp_count": 0, 
+            "name": "Intro to Elixir by Elixir Mastery (Partial Scholarship)", 
+            "status": "upcoming", 
+            "time": 1461760200000, 
+            "updated": 1457709340000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 23819537, 
+                "lat": 38.899033000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.032982000000004, 
+                "name": "LivingSocial, Inc", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1457035701000, 
@@ -1329,7 +1368,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1326383071000, 
