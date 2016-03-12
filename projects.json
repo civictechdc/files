@@ -3529,11 +3529,11 @@
             0, 
             0, 
             0, 
-            61, 
-            89, 
-            9, 
-            3, 
-            2, 
+            95, 
+            57, 
+            7, 
+            4, 
+            1, 
             0, 
             1, 
             0, 
@@ -4199,11 +4199,11 @@
             10, 
             24, 
             0, 
-            45, 
             51, 
-            57, 
-            10, 
-            34
+            45, 
+            58, 
+            18, 
+            47
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4270,7 +4270,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 236, 
+                "contributions": 237, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4351,7 +4351,7 @@
             ], 
             [
                 "HTML", 
-                53312
+                53229
             ], 
             [
                 "CSS", 
@@ -4374,16 +4374,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 36, 
+        "open_issues": 38, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-03-11T05:39:55Z", 
+        "pushed_at": "2016-03-12T07:57:25Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6689, 
+        "size": 6698, 
         "updated_at": "2016-02-23T00:38:33Z", 
         "watchers": 2
     }, 
