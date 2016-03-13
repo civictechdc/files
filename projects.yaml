@@ -613,9 +613,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 6, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 4, 2,
-    3, 0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 0, 1, 3, 1, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2,
-    11, 8, 31]
+- activity: [4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2,
+    3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2,
+    11, 19, 20]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -969,9 +969,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [1, 1, 0, 0, 0, 0, 15, 36, 20, 20, 35, 33, 0, 1, 26, 3, 13, 21, 7, 12,
-    3, 0, 7, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
-    1, 1, 0, 14, 120, 4]
+- activity: [0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15,
+    0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 1, 1, 0, 32, 104, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1317,7 +1317,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 240,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 274,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 58,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1349,20 +1349,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 57691]
-  - [HTML, 53050]
+  - [Ruby, 60547]
+  - [HTML, 53463]
   - [CSS, 24447]
   - [JavaScript, 693]
   - [CoffeeScript, 633]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 40
+  open_issues: 37
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-12T18:21:28Z'
+  pushed_at: '2016-03-12T23:38:40Z'
   short_name: dcaf_case_management
-  size: 6672
+  size: 6696
   updated_at: '2016-02-23T00:38:33Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1393,8 +1393,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 6, 25, 15, 24, 18, 16,
-    41, 34, 9, 9, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17, 23, 21, 13,
+    53, 18, 15, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
