@@ -1,5 +1,5 @@
-- activity: [2, 0, 11, 4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63,
-    11, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0,
+- activity: [1, 0, 11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54,
+    10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -484,8 +484,8 @@
   pushed_at: '2016-02-01T04:42:35Z'
   short_name: DCMetroMetrics
   size: 32313
-  updated_at: '2016-03-05T15:58:19Z'
-  watchers: 31
+  updated_at: '2016-03-14T03:59:05Z'
+  watchers: 32
 - activity: [1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     0, 0, 0]
@@ -614,8 +614,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2,
-    3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2,
-    11, 19, 20]
+    3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2,
+    16, 28, 6]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -969,9 +969,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15,
-    0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
-    0, 1, 1, 0, 32, 104, 2]
+- activity: [0, 1, 0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26, 9, 6, 15, 0,
+    7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
+    1, 1, 0, 33, 103, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1250,10 +1250,10 @@
   license: null
   main_language: null
   name: Open Elections Data
-  open_issues: 5
+  open_issues: 6
   owner: {avatar: 'https://avatars.githubusercontent.com/u/1905990?v=3', name: openelections,
     type: Organization, url: 'https://github.com/openelections'}
-  pushed_at: '2015-12-01T14:13:25Z'
+  pushed_at: '2016-03-14T00:47:41Z'
   short_name: openelections-data-dc
   size: 14
   updated_at: '2015-08-24T01:27:32Z'
@@ -1292,8 +1292,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 2, 11, 2, 40, 7, 10, 24, 0,
-    51, 63, 40, 35, 68]
+    0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 15, 0, 0, 9, 2, 12, 30, 11, 16, 8, 17, 9,
+    62, 56, 27, 52, 70]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1357,7 +1357,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 34
+  open_issues: 43
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-03-13T17:38:26Z'
@@ -1393,8 +1393,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17, 23, 21, 13,
-    53, 18, 15, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 25, 22, 18, 21, 17,
+    53, 14, 15, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
