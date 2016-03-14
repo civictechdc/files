@@ -689,8 +689,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -840,8 +840,8 @@ projects([
     }, 
     {
         "activity": [
-            0, 
-            11, 
+            2, 
+            9, 
             1, 
             1, 
             0, 
@@ -855,8 +855,8 @@ projects([
             0, 
             5, 
             1, 
-            0, 
-            20, 
+            10, 
+            10, 
             1, 
             7, 
             1, 
@@ -874,13 +874,13 @@ projects([
             6, 
             2, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             1, 
             4, 
             11, 
-            3, 
             4, 
+            3, 
             4, 
             0, 
             1, 
@@ -1553,8 +1553,8 @@ projects([
         "pushed_at": "2016-02-01T04:42:35Z", 
         "short_name": "DCMetroMetrics", 
         "size": 32313, 
-        "updated_at": "2016-03-14T03:59:05Z", 
-        "watchers": 32
+        "updated_at": "2016-03-14T15:54:48Z", 
+        "watchers": 33
     }, 
     {
         "activity": [
@@ -4006,12 +4006,18 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2214?v=3", 
-                "contributions": 10, 
+                "contributions": 11, 
                 "link": "https://github.com/dwillis", 
                 "name": "dwillis"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4406333?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/LindsayYoung", 
+                "name": "LindsayYoung"
             }
         ], 
-        "contributors_count": 1, 
+        "contributors_count": 2, 
         "created_at": "2015-08-24T01:27:32Z", 
         "default_branch": "master", 
         "description": "Pre-processed election results for District of Columbia elections", 
@@ -4020,21 +4026,26 @@ projects([
         "homepage": null, 
         "html_url": "https://github.com/openelections/openelections-data-dc", 
         "id": 41275020, 
-        "languages": [], 
+        "languages": [
+            [
+                "Python", 
+                4194
+            ]
+        ], 
         "license": null, 
-        "main_language": null, 
+        "main_language": "Python", 
         "name": "Open Elections Data", 
-        "open_issues": 6, 
+        "open_issues": 4, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/1905990?v=3", 
             "name": "openelections", 
             "type": "Organization", 
             "url": "https://github.com/openelections"
         }, 
-        "pushed_at": "2016-03-14T00:47:41Z", 
+        "pushed_at": "2016-03-14T14:58:37Z", 
         "short_name": "openelections-data-dc", 
-        "size": 14, 
-        "updated_at": "2015-08-24T01:27:32Z", 
+        "size": 245, 
+        "updated_at": "2016-03-14T14:58:38Z", 
         "watchers": 0
     }, 
     {

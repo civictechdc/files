@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "announced": true, 
@@ -109,10 +109,10 @@ calendar({
             "id": "229086428", 
             "maybe_rsvp_count": 0, 
             "name": "Intro to Google Analytics", 
-            "rsvp_limit": 20, 
+            "rsvp_limit": 22, 
             "status": "upcoming", 
             "time": 1457994600000, 
-            "updated": 1457616673000, 
+            "updated": 1457966454000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "641 S St NW", 
@@ -129,7 +129,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457035881000, 
@@ -156,7 +156,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1457641158000, 
@@ -196,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1454252703000, 
@@ -312,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 211
+            "yes_rsvp_count": 220
         }, 
         {
             "created": 1455416543000, 
@@ -379,7 +379,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1455036704000, 
@@ -402,22 +402,22 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1457713648000, 
+            "updated": 1457977715000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "TBD", 
+                "address_1": "1133 15th St NW, 8th floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24357306, 
-                "lat": 38.907192000000002, 
+                "id": 19813392, 
+                "lat": 38.904854, 
                 "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "TBD", 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -445,7 +445,35 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
+        }, 
+        {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579156/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvfbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1458599400000, 
+            "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1454252703000, 
@@ -712,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 174
+            "yes_rsvp_count": 177
         }, 
         {
             "created": 1456402619000, 
@@ -793,7 +821,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446219481000, 
@@ -848,7 +876,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1456431672000, 
@@ -1105,6 +1133,34 @@ calendar({
             "yes_rsvp_count": 32
         }, 
         {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rzpmrlyvgbxb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvgbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1461018600000, 
+            "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1446220217000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1196,75 +1252,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1457035701000, 
-            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365740/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qtfhrlyvhbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1462228200000, 
-            "updated": 1457392514000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387916/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jzwvllyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night(Beginner's Night)", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1446219481000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 0
         }, 
         {
             "created": 1326383071000, 
