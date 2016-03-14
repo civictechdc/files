@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - announced: true
   created: 1456078694000
   description: "<p>6:30 - 7:00\_Participants arrive and socialize.\_</p> <p>7:00 -\
@@ -236,7 +236,7 @@ other:
     lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 25
 - created: 1457486626000
   description: "<p>Join us for an Intro to OpenStreetMap (OSM)- a great way to introduce\
@@ -269,7 +269,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1453729967000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
     \ minds from NASA to learn about the agency's newly redesigned\_&lt;a&gt;<a href=\"\
@@ -350,7 +350,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 208
+  yes_rsvp_count: 209
 - created: 1455416543000
   description: "<p><i>Threespot will be providing pizza and drinks in addition to\
     \ the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework\
@@ -435,7 +435,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1455036704000
   description: "<p>Interested in learning how to program in Go? Come to this tech\
     \ talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p>\
@@ -674,7 +674,7 @@ other:
     name: Socrata Office (2nd Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -804,7 +804,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 170
+  yes_rsvp_count: 171
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -910,7 +910,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1164,7 +1164,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
