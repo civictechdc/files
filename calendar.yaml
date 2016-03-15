@@ -69,7 +69,7 @@ other:
     name: LivingSocial, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 23
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android and Java apps with\
     \ an awesome group of women? \_Looking to build your first app or build on existing\
@@ -98,18 +98,18 @@ other:
   headcount: 0
   id: rjstplyvfbtb
   maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
+  name: 'Android Lab: Collaborative App Making'
+  rsvp_limit: 28
   status: upcoming
   time: 1458081000000
-  updated: 1458012372000
+  updated: 1458048019000
   utc_offset: -14400000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1457486626000
   description: "<p>Join us for an Intro to OpenStreetMap (OSM)- a great way to introduce\
     \ yourself to the world of map making.\_ OSM is a map of the world, created by\
@@ -141,7 +141,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 45
 - created: 1453729967000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
     \ minds from NASA to learn about the agency's newly redesigned\_&lt;a&gt;<a href=\"\
@@ -278,7 +278,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 24
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. This lab environment is to learn from each other and to practice\
@@ -313,7 +313,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1455036704000
   description: "<p>Interested in learning how to program in Go? Come to this tech\
     \ talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p>\
@@ -347,7 +347,7 @@ other:
     id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 3
   yes_rsvp_count: 50
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
@@ -376,7 +376,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -419,7 +419,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -450,12 +450,14 @@ other:
   headcount: 0
   id: rjstplyvfbdc
   maybe_rsvp_count: 0
-  name: Android Hack Night
+  name: Android Lab
   rsvp_limit: 25
   status: upcoming
   time: 1458685800000
-  updated: 1454252703000
+  updated: 1458063791000
   utc_offset: -14400000
+  venue: {address_1: TBD, city: Washington, country: us, id: 24366078, lat: 38.907192000000002,
+    localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
@@ -492,7 +494,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1456601656000
   description: "<p>Say you're building a simple website with five pages linked together,\
     \ and a simple navigation bar at the top. You make some changes to the code and\
@@ -557,7 +559,37 @@ other:
     localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 9
+- created: 1458052402000
+  description: "<p>Are you a professional developer, designer, sysadmin, or working\
+    \ in a field somehow related to code? Come brunch with others like you!\_</p>\
+    \ <p>The estimated cost for the brunch is $10, but the final cost will be whatever\
+    \ you owe the restaurant for your order, which you will pay directly to them.\
+    \ (We will not be taking any payments from you).</p> <p>-----------------------------</p>\
+    \ <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs\
+    \ where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street\
+    \ from the Archives/Navy Memorial Metro Station, but also short walk from the\
+    \ Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL\
+    \ the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p>"
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229607288/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '229607288'
+  maybe_rsvp_count: 0
+  name: Professional Networking Brunch
+  rsvp_limit: 25
+  status: upcoming
+  time: 1459004400000
+  updated: 1458052546000
+  utc_offset: -14400000
+  venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
+    id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 13
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -636,11 +668,11 @@ other:
   how_to_find_us: Room 2
   id: rjstplyvfbmc
   maybe_rsvp_count: 0
-  name: Android Hack Night - Java Study Group
+  name: Android Lab - Java Study Group
   rsvp_limit: 25
   status: upcoming
   time: 1459290600000
-  updated: 1454898355000
+  updated: 1458050556000
   utc_offset: -14400000
   venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
     lat: 38.898392000000001, localized_country_name: USA, lon: -77.024131999999994,
@@ -694,7 +726,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 10
 - created: 1458007544000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -727,7 +759,7 @@ other:
     name: OPOWER, repinned: false, state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1457636180000
   description: "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning\
     \ with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p>\
@@ -771,7 +803,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 181
+  yes_rsvp_count: 182
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -826,7 +858,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 22
   yes_rsvp_count: 3
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -877,7 +909,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -940,61 +972,14 @@ other:
   headcount: 0
   id: cjdtnlyvgbjb
   maybe_rsvp_count: 0
-  name: 'Ruby on Rails: First Timer''s Night!'
+  name: 'Ruby on Rails: Beginners Night!'
   status: upcoming
   time: 1459981800000
-  updated: 1452612358000
+  updated: 1458050849000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 9
-- created: 1457885322000
-  description: "<p><b><i>Interested in learning Ruby and Rails with an awesome group\
-    \ of women? </i></b>Looking to build your first web app, learn more about coding,\
-    \ or build on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on\
-    \ Rails(ROR) Study Group. This event is intended for those new to programming\
-    \ and/or ROR (but we welcome people of all levels to attend and help out)! The\
-    \ agenda will include a lecture that covers Ruby and Rails, an installfest to\
-    \ help you set up Rails on your own computer and a brief overview of Ruby Basics.\_\
-    </p> <p>You can visit the \"ROR: First Timer's Presentation\" through this link\
-    \ \"www.rorftn.com\"</p> <p>This event is intended to be exclusively open for\
-    \ people who identify as women - we are transgender friendly.</p> <p><b>Please\
-    \ bring a laptop</b> to the event so you can participate in\_the installfest!</p>\
-    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Meetup Agenda</b></p>\
-    \ <p>\u2022\_<b>6:30pm</b> - Setup</p> <p>\u2022 <b>6:40 - 6:50pm</b> - Quick\
-    \ introductions</p> <p>\u2022 <b>6:50 - 7:10pm </b>- Introduction talk to Ruby\
-    \ and Rails\_</p> <p>\u2022 <b>7:10 - 8:10pm</b> - Install necessary software\
-    \ following the\_<a href=\"http://installrails.com/\">InstallRails</a>\_guide.\_\
-    </p> <p>\u2022 <b>8:15 - 8:30pm</b> - Wrap Up</p> <p><b>RESOURCES</b></p> <p>These\
-    \ are the resources that members have been following along, feel free to suggest\
-    \ if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229556260/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '229556260'
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails: First Timer''s Night!'
-  status: upcoming
-  time: 1459981800000
-  updated: 1458006517000
-  utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
-    name: The Iron Yard DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
@@ -1136,7 +1121,43 @@ other:
     name: GovDelivery, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
+- created: 1458049267000
+  description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
+    \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085\"\
+    >event registration page</a>.\_</p> <p>\n\n\nJoin in for a screening of the documentary\
+    \ \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap</a>\",\
+    \ on\_Friday April 8 at 1PM ET. This event is sponsored by the\_U.S. Patent and\
+    \ Trademark Office\_(USPTO),\_Capital One, and\_ABI.DC Community.</p> <p>\n\n\n\
+    \nCODE exposes the dearth of American female and minority software engineers and\
+    \ explores the reasons for this gender gap.\_ CODE raises the question: what would\
+    \ society gain from having more women and minorities code?\_<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\"\
+    >Watch the trailer</a>.</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks\
+    \ by\_Under Secretary of Commerce for Intellectual Property and Director of the\
+    \ U.S. Patent and Trademark Office\_<a href=\"http://www.uspto.gov/about-us/executive-biographies/michelle-k-lee\"\
+    >Michelle K. Lee</a></p> <p>1:05-2:20 Screening of CODE, Debugging the Gender\
+    \ Gap</p> <p>2:20-3:00\_Panel Discussion and\_Q&amp;A,\_featuring:</p> <p>3:00-4:00\
+    \ PM\_Coding activity for students</p> <p>3:00-4:00 PM Networking session in the\
+    \ atrium adjacent to the auditorium.</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/229605995/
+  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
+    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
+    who: Nerdettes}
+  headcount: 0
+  id: '229605995'
+  maybe_rsvp_count: 0
+  name: "CODE \u2014 Debugging the Gender Gap (Documentary Screening)"
+  status: upcoming
+  time: 1460134800000
+  updated: 1458049267000
+  utc_offset: -14400000
+  venue: {address_1: 600 Dulaney Street, city: Alexandria, country: us, id: 24428792,
+    lat: 38.801155000000001, localized_country_name: USA, lon: -77.063744, name: Madison
+      Building Auditorium, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1457035881000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1250,7 +1271,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 3
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\

@@ -80,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1454252703000, 
@@ -100,11 +100,11 @@
             "headcount": 0, 
             "id": "rjstplyvfbtb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
+            "name": "Android Lab: Collaborative App Making", 
+            "rsvp_limit": 28, 
             "status": "upcoming", 
             "time": 1458081000000, 
-            "updated": 1458012372000, 
+            "updated": 1458048019000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1457486626000, 
@@ -159,7 +159,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1453729967000, 
@@ -235,7 +235,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1446220217000, 
@@ -275,7 +275,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1455036704000, 
@@ -313,7 +313,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -341,7 +341,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1457965726000, 
@@ -369,7 +369,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1454252703000, 
@@ -389,12 +389,24 @@
             "headcount": 0, 
             "id": "rjstplyvfbdc", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night", 
+            "name": "Android Lab", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1458685800000, 
-            "updated": 1454252703000, 
+            "updated": 1458063791000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "TBD", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24366078, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "TBD", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -438,7 +450,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1456601656000, 
@@ -477,7 +489,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1458052402000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!\u00a0</p> <p>The estimated cost for the brunch is $10, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229607288/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "229607288", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1459004400000, 
+            "updated": 1458052546000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "400 8th St NW, Washington, DC 20004", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23631792, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Teaism Penn Quarter", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457036183000, 
@@ -538,11 +589,11 @@
             "how_to_find_us": "Room 2", 
             "id": "rjstplyvfbmc", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Hack Night - Java Study Group", 
+            "name": "Android Lab - Java Study Group", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1459290600000, 
-            "updated": 1454898355000, 
+            "updated": 1458050556000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G Street NW", 
@@ -597,7 +648,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1458007544000, 
@@ -639,7 +690,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1457636180000, 
@@ -678,7 +729,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 181
+            "yes_rsvp_count": 182
         }, 
         {
             "created": 1456402619000, 
@@ -718,7 +769,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -759,7 +810,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1446219481000, 
@@ -807,53 +858,14 @@
             "headcount": 0, 
             "id": "cjdtnlyvgbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: First Timer's Night!", 
+            "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1459981800000, 
-            "updated": 1452612358000, 
+            "updated": 1458050849000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1457885322000, 
-            "description": "<p><b><i>Interested in learning Ruby and Rails with an awesome group of women? </i></b>Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails, an installfest to help you set up Rails on your own computer and a brief overview of Ruby Basics.\u00a0</p> <p>You can visit the \"ROR: First Timer's Presentation\" through this link \"www.rorftn.com\"</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p><b>Please bring a laptop</b> to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p><b>Meetup Agenda</b></p> <p>\u2022\u00a0<b>6:30pm</b> - Setup</p> <p>\u2022 <b>6:40 - 6:50pm</b> - Quick introductions</p> <p>\u2022 <b>6:50 - 7:10pm </b>- Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 <b>7:10 - 8:10pm</b> - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 <b>8:15 - 8:30pm</b> - Wrap Up</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229556260/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "229556260", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: First Timer's Night!", 
-            "status": "upcoming", 
-            "time": 1459981800000, 
-            "updated": 1458006517000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1456431672000, 
@@ -987,7 +999,46 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1458049267000, 
+            "description": "<p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085\">event registration page</a>.\u00a0</p> <p>\n\n\nJoin in for a screening of the documentary \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap</a>\", on\u00a0Friday April 8 at 1PM ET. This event is sponsored by the\u00a0U.S. Patent and Trademark Office\u00a0(USPTO),\u00a0Capital One, and\u00a0ABI.DC Community.</p> <p>\n\n\n\nCODE exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap.\u00a0 CODE raises the question: what would society gain from having more women and minorities code?\u00a0<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\">Watch the trailer</a>.</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks by\u00a0Under Secretary of Commerce for Intellectual Property and Director of the U.S. Patent and Trademark Office\u00a0<a href=\"http://www.uspto.gov/about-us/executive-biographies/michelle-k-lee\">Michelle K. Lee</a></p> <p>1:05-2:20 Screening of CODE, Debugging the Gender Gap</p> <p>2:20-3:00\u00a0Panel Discussion and\u00a0Q&amp;A,\u00a0featuring:</p> <p>3:00-4:00 PM\u00a0Coding activity for students</p> <p>3:00-4:00 PM Networking session in the atrium adjacent to the auditorium.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229605995/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "229605995", 
+            "maybe_rsvp_count": 0, 
+            "name": "CODE \u2014 Debugging the Gender Gap (Documentary Screening)", 
+            "status": "upcoming", 
+            "time": 1460134800000, 
+            "updated": 1458049267000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "600 Dulaney Street", 
+                "city": "Alexandria", 
+                "country": "us", 
+                "id": 24428792, 
+                "lat": 38.801155000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.063744, 
+                "name": "Madison Building Auditorium", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1457035881000, 
@@ -1092,7 +1143,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1446220149000, 
