@@ -613,9 +613,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [4, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0,
-    3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 0, 0, 4, 1, 3, 5, 4, 1, 0, 1, 10, 1, 0, 0, 0, 3,
-    18, 32, 1]
+- activity: [5, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 6, 2,
+    1, 2, 5, 5, 4, 3, 6, 2, 0, 0, 0, 0, 4, 1, 8, 1, 3, 1, 1, 10, 0, 1, 0, 0, 0, 9,
+    12, 32, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -825,7 +825,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 57, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0,
+- activity: [0, 0, 0, 0, 0, 0, 63, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -878,9 +878,9 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [78, 12, 1, 2, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14,
-    0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
-    0, 0, 0, 0]
+- activity: [83, 6, 2, 1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0,
+    0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: '', name: Emanuel Feld, url: 'https://twitter.com/@booksfordc'}
@@ -969,9 +969,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [1, 0, 0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27, 10, 4, 15, 0,
-    7, 0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1,
-    1, 0, 0, 108, 28, 2]
+- activity: [1, 0, 0, 0, 0, 1, 35, 19, 36, 2, 66, 0, 1, 7, 22, 4, 27, 6, 4, 15, 0,
+    7, 2, 4, 0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1,
+    0, 11, 111, 16, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1093,7 +1093,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [0, 0, 0, 28, 82, 46, 6, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
+- activity: [0, 0, 0, 38, 77, 42, 5, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1149,8 +1149,8 @@
   size: 21200
   updated_at: '2016-02-01T04:27:57Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1178,7 +1178,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 27, 8,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 28, 7,
     1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1229,8 +1229,8 @@
   size: 216
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
-    4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 6]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1262,7 +1262,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 10, 5, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 13, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1295,8 +1295,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8, 39, 2, 17, 9, 15, 10, 71,
-    48, 26, 51, 71]
+    0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7, 10, 20, 4, 21,
+    73, 51, 14, 48, 77]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1320,9 +1320,9 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 294,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 296,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 58,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 64,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 18,
     link: 'https://github.com/mebates', name: mebates}
@@ -1332,7 +1332,7 @@
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 8,
     link: 'https://github.com/charleshuang80', name: charleshuang80}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 4,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12372787?v=3', contributions: 2,
     link: 'https://github.com/adinneen', name: adinneen}
@@ -1352,20 +1352,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 63991]
-  - [HTML, 53616]
+  - [Ruby, 64379]
+  - [HTML, 53791]
   - [CSS, 24628]
   - [CoffeeScript, 844]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 49
+  open_issues: 46
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-15T18:16:58Z'
+  pushed_at: '2016-03-16T02:56:30Z'
   short_name: dcaf_case_management
-  size: 6717
+  size: 6751
   updated_at: '2016-02-23T00:38:33Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1396,8 +1396,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 28, 23, 14, 27, 23,
-    43, 12, 15, 0, 3]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 2, 8, 12, 28, 24, 17, 23, 27,
+    48, 6, 12, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1460,7 +1460,7 @@
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1515,7 +1515,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [0, 0, 0, 29, 28, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 40, 22, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1595,7 +1595,7 @@
   updated_at: '2016-01-28T15:29:07Z'
   watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:

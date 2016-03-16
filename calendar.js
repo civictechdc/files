@@ -38,89 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }
     ], 
     "other": [
-        {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android and Java apps with an awesome group of women? \u00a0Looking to build your first app or build on existing skills? \u00a0Come to our weekly Android Lab! \u00a0We welcome women with all levels of experience (including none). \u00a0***Please bring your laptop to this event as computers will not be provided.***</p> <p>\n\n\nMeetup Format:</p> <p><i>This week we will begin our new Android app development bootcamp! Please make sure that you have Android Studio installed and working on your laptop before you arrive.\u00a0</i></p> <p>\n\n\n\nBuilding Access:</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. \u00a0 Please respect the policy in case the location requires access to the building. \u00a0To gain access, contact us on Slack or drop a comment on the meetup page. We'll come get you.</p> <p>\n\n\nResources:</p> <p>Beginners should check out our\u00a0<a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. \u00a0It's chock full of information to get you up and running. \u00a0It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>\n\n\nAll Women Welcome!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our\u00a0<a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a>\u00a0group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228673011/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rjstplyvfbtb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab: Collaborative App Making", 
-            "rsvp_limit": 28, 
-            "status": "upcoming", 
-            "time": 1458081000000, 
-            "updated": 1458048019000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
-            "created": 1457486626000, 
-            "description": "<p>Join us for an Intro to OpenStreetMap (OSM)- a great way to introduce yourself to the world of map making.\u00a0 OSM is a map of the world, created by people like you, free to use under an open license and used by some of your favorite sites and services such as CartoDB, Craigslist, Foursquare, Mapbox, Stamen Design and Strava.\u00a0 Come and learn how to contribute to OSM, and make your first edit!</p> <p>We\u2019ll start with the basics of OpenStreetMap, explain how to edit and get help, show some examples, followed by a question and answer session, and finally edit some maps!\u00a0 Beginners and curious map people are welcome! No experience is necessary. As always, Maptime is heavily interactive so bring your laptop!\u00a0 And you may want to bring a mouse, as digitizing is harder with a laptop touchpad. \u00a0</p> <p>There are over 2.5 million registered OpenStreetMap contributors crowdsourcing geographic data.\u00a0 Join the millions around the world who are helping to annotate the map of the world!</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/229450027/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "229450027", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to OpenStreetMap", 
-            "status": "upcoming", 
-            "time": 1458081000000, 
-            "updated": 1457573414000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
         {
             "created": 1453729967000, 
             "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned\u00a0&lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt;\u00a0Spark\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt;\u00a0Spark</a> your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p><br/>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/,\"><a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>,</a> and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><b><br/></b></p> <p><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><b><br/></b></p> <p><b>Check out these links in advance:</b></p> <p><br/><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p><a href=\"https://open.nasa.gov/explore/space-apps/\"><a href=\"https://open.nasa.gov/explore/space-apps/\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/</a></a></p> <p><a href=\"https://open.nasa.gov/explore/datanauts/\"><a href=\"https://open.nasa.gov/explore/datanauts/\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/</a></a></p> <p><b><br/></b></p> <p><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/0/600_445900704.jpeg\" /></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and\u00a0mass collaboration. Beth leads the\u00a0&lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt;\u00a0program\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt;\u00a0program</a>, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award winning\u00a0<a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a>\u00a0program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\n\n\nKathy Hsu, Socrata</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/b/600_445900715.jpeg\" /></p> <p>Kathy is the Federal Account Consultant at Socrata. Her primary focus is on enabling a data driven framework for the U.S government. By understanding the goals and mission of an agency, Kathy actively advises federal agencies on best practices for publishing data. She drives innovation through making data more accessible - Kathy finds creative ways to utilize federal data to drive a positive impact to the economy. Prior to joining Socrata, she managed the federal ecosystem for a tech startup in the Silicon Valley. Her experience with innovative technologies and her passion in working with the federal government brought her to Washington D.C. Here in DC, she is dedicated to improve the quality of life through the power of data.\u00a0</p> <p>\n\n\nChristian Hoogerheyde, Socrata</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/f/1/4/600_445900724.jpeg\" /></p> <p>Christian\u00a0is the technical architect focused on Socrata's Federal customers including NASA, Department of the Treasury, Department of Commerce, and others. He specializes in transforming, integrating, and visualizing data, and brings substantial experience harmonizing information systems to improve the flow of data within large organizations. Christian also actively advises\u00a0federal agencies on best practices for publishing data to support scientists, researchers, policymakers, and other data users.</p>", 
@@ -156,46 +77,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 210
-        }, 
-        {
-            "created": 1455416543000, 
-            "description": "<p><i>Threespot will be providing pizza and drinks in addition to the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework that combines the\u00a0Ruby\u00a0programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset.</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Ruby on Rails: Focus on Fundamentals\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228837470/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "228837470", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Focus on Fundamentals", 
-            "status": "upcoming", 
-            "time": 1458167400000, 
-            "updated": 1457388025000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "806 7th St NW #201", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24412919, 
-                "lat": 38.900185, 
-                "localized_country_name": "USA", 
-                "lon": -77.022148000000001, 
-                "name": "threespot", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 201
         }, 
         {
             "created": 1446220217000, 
@@ -235,7 +117,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1455036704000, 
@@ -329,7 +211,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1454252703000, 
@@ -488,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457036183000, 
@@ -528,7 +410,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1454252703000, 
@@ -569,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1456601712000, 
@@ -689,7 +571,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 188
         }, 
         {
             "created": 1456402619000, 
@@ -821,11 +703,23 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1459981800000, 
-            "updated": 1458050849000, 
+            "updated": 1458097282000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1456431672000, 
@@ -1063,7 +957,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1457885761000, 
@@ -1187,6 +1081,61 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1457889032000, 
+            "description": "<p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229557593/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "229557593", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Lab", 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1458006623000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229588476/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1457709309000, 
