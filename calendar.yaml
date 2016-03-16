@@ -39,37 +39,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 21
 other:
-- created: 1457641158000
-  description: "<p>Please RSVP here:\_<a href=\"http://www.meetup.com/DCAndroid/events/229446339/\"\
-    \ class=\"linkified\">http://www.meetup.com/DCAndroid/events/229446339/</a></p>\
-    \ <p>Join us as we learn how Mapbox tests their SDK from end-to-end. We will be\
-    \ hearing from <b>Tobrun Van Nuland</b> on all things testing!</p> <p>Then stay\
-    \ tuned as we learn more about how we can provide directions in our applications\
-    \ without having to integrate with Google Play Services with <b>Brad Leege</b>\
-    \ of Mapbox. It's going to be a great event!</p> <p>_____</p> <p>Schedule: 6:00\
-    \ p.m. -- Refreshments and Networking, Pizza sponsored by Mapbox.</p> <p>6:30\
-    \ p.m. -- Full Stack Testing - Tobrun Van Nuland</p> <p>7:00 p.m. -- In-App Directions\
-    \ w/o Google Play Services - Brad Leege</p> <p>7:30 p.m. -- Wrap Up</p> <p>_____</p>\
-    \ <p>Tweet at @DCAndroid or use the #DCAndroid hashtag!</p>"
-  duration: 5400000
-  event_url: http://www.meetup.com/gdg-dc/events/229494679/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
-    urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  id: '229494679'
-  maybe_rsvp_count: 0
-  name: Android Full Stack Testing & More
-  status: upcoming
-  time: 1458079200000
-  updated: 1457649071000
-  utc_offset: -14400000
-  venue: {address_1: '1445 New York Ave NW, Suite 200', city: Washington, country: us,
-    id: 4867002, lat: 38.899151000000003, localized_country_name: USA, lon: -77.033195000000006,
-    name: LivingSocial, repinned: false, state: DC, zip: '20005'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 23
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android and Java apps with\
     \ an awesome group of women? \_Looking to build your first app or build on existing\
@@ -109,7 +78,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 21
 - created: 1457486626000
   description: "<p>Join us for an Intro to OpenStreetMap (OSM)- a great way to introduce\
     \ yourself to the world of map making.\_ OSM is a map of the world, created by\
@@ -141,7 +110,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 40
 - created: 1453729967000
   description: "<p>Wanna know what data looks like from space? Join the brightest\
     \ minds from NASA to learn about the agency's newly redesigned\_&lt;a&gt;<a href=\"\
@@ -222,7 +191,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 229
+  yes_rsvp_count: 210
 - created: 1455416543000
   description: "<p><i>Threespot will be providing pizza and drinks in addition to\
     \ the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework\
@@ -278,7 +247,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 23
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. This lab environment is to learn from each other and to practice\
@@ -305,11 +274,10 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1458167400000
-  updated: 1458007380000
+  updated: 1458084468000
   utc_offset: -14400000
-  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 24112015,
-    lat: 38.898646999999997, localized_country_name: USA, lon: -77.024628000000007,
-    name: 'Martin Luther King, Jr. Memorial Library- Dream Lab', repinned: false,
+  venue: {address_1: Online, city: Washington, country: us, id: 24429929, lat: 38.907192000000002,
+    localized_country_name: USA, lon: -77.036873, name: Virtual Google Hangouts, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
@@ -347,7 +315,7 @@ other:
     id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 50
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
@@ -376,7 +344,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -419,7 +387,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -494,7 +462,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1456601656000
   description: "<p>Say you're building a simple website with five pages linked together,\
     \ and a simple navigation bar at the top. You make some changes to the code and\
@@ -589,7 +557,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 17
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -803,7 +771,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 182
+  yes_rsvp_count: 183
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -1157,7 +1125,7 @@ other:
       Building Auditorium, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1457035881000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\

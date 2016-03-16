@@ -91,8 +91,8 @@
   pushed_at: '2016-02-01T04:40:07Z'
   short_name: districthousing
   size: 21734
-  updated_at: '2015-12-04T19:40:07Z'
-  watchers: 28
+  updated_at: '2016-03-15T22:40:30Z'
+  watchers: 29
 - activity: [0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0,
     0, 0, 0]
@@ -1360,10 +1360,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 48
+  open_issues: 49
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-15T03:04:30Z'
+  pushed_at: '2016-03-15T18:16:58Z'
   short_name: dcaf_case_management
   size: 6717
   updated_at: '2016-02-23T00:38:33Z'
