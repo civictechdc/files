@@ -38,87 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }
     ], 
     "other": [
-        {
-            "created": 1453729967000, 
-            "description": "<p>Wanna know what data looks like from space? Join the brightest minds from NASA to learn about the agency's newly redesigned\u00a0&lt;a&gt;<a href=\"https://open.nasa.gov.&lt;/a&gt;\u00a0Spark\" class=\"linkified\">https://open.nasa.gov.&lt;/a&gt;\u00a0Spark</a> your creative juices and equip yourself with the tools to innovate here on Earth and beyond by leveraging NASA's local, global, and interstellar datasets.</p> <p><br/>The NASA team will provide an overview of the agency's open data efforts and the newly redesigned open.nasa.gov website \u2014 of which the data.nasa.gov data portal is featured. They'll walk through\u00a0<a href=\"https://data.nasa.gov/,\"><a href=\"https://data.nasa.gov/\" class=\"linkified\">https://data.nasa.gov/</a>,</a> and provide detailed answers to your questions (e.g. on data usability, creating APIs from the site). They will also give an update on Space Apps 2016 with some highlights from last year, as well as an overview of the new Datanaut program!</p> <p><b><br/></b></p> <p><b>Agenda:</b></p> <p>6:00PM - 6:30PM Food and networking</p> <p>6:30PM - 6:40PM Introductions</p> <p>6:40PM - 8:00PM Speaker presentations</p> <p>8:00PM - \u00a0 Data drinks</p> <p><b>Check out these links in advance:</b></p> <p><br/><a href=\"https://open.nasa.gov/\"><a href=\"https://open.nasa.gov\" class=\"linkified\">https://open.nasa.gov</a></a></p> <p><a href=\"https://open.nasa.gov/explore/space-apps/\"><a href=\"https://open.nasa.gov/explore/space-apps/\" class=\"linkified\">https://open.nasa.gov/explore/space-apps/</a></a></p> <p><a href=\"https://open.nasa.gov/explore/datanauts/\"><a href=\"https://open.nasa.gov/explore/datanauts/\" class=\"linkified\">https://open.nasa.gov/explore/datanauts/</a></a></p> <p><b><br/></b></p> <p><b>Speakers:</b></p> <p>Beth Beck, Open Innovation Program Manager at NASA</p> <p><a href=\"http://twitter.com/bethbeck\">@bethbeck</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/0/600_445900704.jpeg\" /></p> <p>Beth Beck is passionate about public service. She views innovation and collaboration as tools to challenge bureaucratic status quo. As NASA's Open Innovation Program Manager, her role is to accelerate the identification and adoption of breakthrough innovation and cutting-edge data technology solutions through open government, digital strategy, and\u00a0mass collaboration. Beth leads the\u00a0&lt;a&gt;<a href=\"http://SpaceAppsChallenge&lt;/a&gt;\u00a0program\" class=\"linkified\">http://SpaceAppsChallenge&lt;/a&gt;\u00a0program</a>, a two-day code-a-thon that enables planetary citizens in hundreds of locations around the world create innovative solutions using NASA data and tools. As an outgrowth of Space Apps, she and her team created NASA\u2019s new Data Bootcamp, Datanaut Corps, and Space Apps Project Accelerator Toolkit. Beth co-founded the award winning\u00a0<a href=\"http://launch.org/\"><a href=\"http://LAUNCH.org\" class=\"linkified\">http://LAUNCH.org</a></a>\u00a0program to demonstrate relevance between scarce resources on Earth and life in the extremely hostile environment of space. She received NASA\u2019s Exceptional Service Medal for innovative public outreach programs and the Aerospace Awareness Award by the Women in Aerospace, and was recognized by FedScoop as one of DC's Top Women in Tech two years in a row. Beth, a Phi Beta Kappa, received both graduate and undergraduate degrees from the University of Texas at Austin in government and public affairs, and is a PhD candidate at Virginia Tech. Her dissertation topic is Innovation through Complex Collaboration.</p> <p>\n\nJason Duley, NASA\u00a0</p> <p>Ames Research Center,\u00a0Open Innovation Team</p> <p>\n\n\nKathy Hsu, Socrata</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/f/0/b/600_445900715.jpeg\" /></p> <p>Kathy is the Federal Account Consultant at Socrata. Her primary focus is on enabling a data driven framework for the U.S government. By understanding the goals and mission of an agency, Kathy actively advises federal agencies on best practices for publishing data. She drives innovation through making data more accessible - Kathy finds creative ways to utilize federal data to drive a positive impact to the economy. Prior to joining Socrata, she managed the federal ecosystem for a tech startup in the Silicon Valley. Her experience with innovative technologies and her passion in working with the federal government brought her to Washington D.C. Here in DC, she is dedicated to improve the quality of life through the power of data.\u00a0</p> <p>\n\n\nAmy Ghate, Socrata</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/1/5/9/600_447908537.jpeg\" /></p> <p>Amy is a technical architect focused on Socrata's Federal and NGO/Non-Profit customers including NASA, World Bank, Department of Commerce, and others. She works with agencies to integrate data discovery, access and management and into existing information systems so organizations can effectively use their data. Amy also actively advises\u00a0federal agencies and NGOs on best practices for publishing data to support scientists, researchers, policymakers, and other data users.</p>", 
-            "event_url": "http://www.meetup.com/Data-Business-DC/events/228345210/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Business-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "228345210", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data Beyond this World: A Night with NASA", 
-            "status": "upcoming", 
-            "time": 1458165600000, 
-            "updated": 1458161646000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 182
-        }, 
-        {
-            "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. This lab environment is to learn from each other and to practice coding. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language.\u00a0 Folks of all skill levels are welcome! You can work on one of our small assignments or bring in what your working on.</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227805036/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gcxvllyvfbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab - Data Structures: Lists & Dictionaries", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1458167400000, 
-            "updated": 1458084468000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Online", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24429929, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Virtual Google Hangouts", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
-        }, 
         {
             "created": 1455036704000, 
             "description": "<p>Interested in learning how to program in Go? Come to this tech talk where Eve Freeman and WWC's other Go enthusiasts will help you get started!</p> <p>\u2022 installing go, setting up paths and a \"workspace\"</p> <p>\u2022 overview of typical go development workflow with the go build tool</p> <p><br/>\u2022 introduction to go syntax</p> <p><br/>\u2022 building a hello world web service in go\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/c/e/7/600_446967879.jpeg\" /></p> <p>gopher by Renee French :D</p> <p>\n\n\n<b>******* THANK YOU's \u00a0*******</b></p> <p>We couldn't do this without the support of the community!</p> <p><b>A huge thanks to our host GA.\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/2/e/a/b/600_447851947.jpeg\" /></p> <p><i>Established in early 2011 as an innovative community in New York City for entrepreneurs and startup companies, General Assembly is an educational institution that\u00a0transforms thinkers into creators\u00a0through education in technology, business, and design at fifteen campuses across four continents.</i></p> <p><b>And much thanks to our food sponsor, Capital One! \u00a0</b></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/2/e/e/b/600_447852011.jpeg\" /></p>", 
@@ -155,7 +78,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 0, 
             "yes_rsvp_count": 52
         }, 
         {
@@ -211,7 +134,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1458153181000, 
@@ -252,7 +175,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1454252703000, 
@@ -292,7 +215,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457506954000, 
@@ -411,7 +334,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457036183000, 
@@ -612,7 +535,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 197
+            "yes_rsvp_count": 202
         }, 
         {
             "created": 1456402619000, 
@@ -721,7 +644,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1452612310000, 
@@ -847,7 +770,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1456426141000, 
@@ -1149,6 +1072,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229588476/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvgbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461191400000, 
+            "updated": 1446220217000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1457709309000, 
