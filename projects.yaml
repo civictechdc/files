@@ -93,7 +93,7 @@
   size: 21734
   updated_at: '2016-03-15T22:40:30Z'
   watchers: 29
-- activity: [0, 8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 8, 0, 3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -213,7 +213,7 @@
   updated_at: '2016-02-09T21:08:06Z'
   watchers: 11
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [2, 9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2, 5, 1, 0, 0, 0,
-    0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0,
+- activity: [2, 9, 1, 1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0,
+    0, 0, 0, 2, 0, 0, 0, 5, 5, 1, 0, 5, 1, 2, 7, 6, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0,
     1, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -310,7 +310,7 @@
   html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
-  - [HTML, 113370]
+  - [HTML, 113654]
   - [JavaScript, 16189]
   - [CSS, 13748]
   - [Shell, 5425]
@@ -319,12 +319,12 @@
     url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 20
+  open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-16T14:40:49Z'
+  pushed_at: '2016-03-16T23:32:56Z'
   short_name: codefordc.github.com
-  size: 17497
+  size: 17542
   updated_at: '2016-01-18T15:30:25Z'
   watchers: 21
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
