@@ -60,10 +60,10 @@
             "id": "228727805", 
             "maybe_rsvp_count": 0, 
             "name": "Tech Talk - Intro to the Go programming language!", 
-            "rsvp_limit": 50, 
+            "rsvp_limit": 55, 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1457981410000, 
+            "updated": 1458219671000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW, 8th floor", 
@@ -106,7 +106,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457965726000, 
@@ -134,7 +134,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1458153181000, 
@@ -175,7 +175,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1454252703000, 
@@ -199,23 +199,23 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1458685800000, 
-            "updated": 1458063791000, 
+            "updated": 1458226159000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "TBD", 
-                "city": "Washington", 
+                "address_1": "901 G St. NW Washington,  D.C.  20001", 
+                "city": "Gaithersburg", 
                 "country": "us", 
-                "id": 24366078, 
+                "id": 24224851, 
                 "lat": 38.907192000000002, 
                 "localized_country_name": "USA", 
                 "lon": -77.036873, 
-                "name": "TBD", 
+                "name": "Martin Luther King Jr. Memorial Library - Central Library", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457506954000, 
@@ -256,7 +256,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1456601656000, 
@@ -333,7 +333,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -415,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1456601712000, 
@@ -535,7 +535,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 202
+            "yes_rsvp_count": 203
         }, 
         {
             "created": 1456402619000, 
@@ -644,7 +644,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1452612310000, 
@@ -1137,7 +1137,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 0
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
