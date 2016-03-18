@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 other:
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
@@ -93,7 +93,7 @@ other:
     \ information is provided or drop a comment on the Meetup page. We'll come and\
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
-  duration: 612000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/229579156/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -105,11 +105,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1458599400000
-  updated: 1457965726000
+  updated: 1458307828000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1458153181000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -146,7 +146,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -282,10 +282,11 @@ other:
   name: 'Ruby on Rails: Intro to Testing with RSpec'
   status: upcoming
   time: 1458772200000
-  updated: 1456959798000
+  updated: 1458314224000
   utc_offset: -14400000
-  venue: {address_1: TBD, city: Washington, country: us, id: 24366078, lat: 38.907192000000002,
-    localized_country_name: USA, lon: -77.036873, name: TBD, repinned: false, state: DC}
+  venue: {address_1: '1133 15th St NW, Room 100', city: Washington, country: us, id: 24435187,
+    lat: 38.904865000000001, localized_country_name: USA, lon: -77.033996999999999,
+    name: New York Code & Design Academy, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 10
@@ -317,7 +318,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 2
   yes_rsvp_count: 25
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -365,7 +366,7 @@ other:
     name: Socrata Office (2nd Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -532,7 +533,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 208
+  yes_rsvp_count: 211
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -587,7 +588,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 25
+  waitlist_count: 26
   yes_rsvp_count: 3
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -711,7 +712,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
@@ -800,7 +801,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\

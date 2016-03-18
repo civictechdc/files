@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }
     ], 
     "other": [
@@ -72,7 +72,7 @@
         {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 612000000, 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579156/", 
             "group": {
                 "created": 1395616294000, 
@@ -91,11 +91,11 @@
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1458599400000, 
-            "updated": 1457965726000, 
+            "updated": 1458307828000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1458153181000, 
@@ -136,7 +136,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1454252703000, 
@@ -240,17 +240,17 @@
             "name": "Ruby on Rails: Intro to Testing with RSpec", 
             "status": "upcoming", 
             "time": 1458772200000, 
-            "updated": 1456959798000, 
+            "updated": 1458314224000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "TBD", 
+                "address_1": "1133 15th St NW, Room 100", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24366078, 
-                "lat": 38.907192000000002, 
+                "id": 24435187, 
+                "lat": 38.904865000000001, 
                 "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "TBD", 
+                "lon": -77.033996999999999, 
+                "name": "New York Code & Design Academy", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -294,7 +294,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -335,7 +335,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1454252703000, 
@@ -496,7 +496,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 208
+            "yes_rsvp_count": 211
         }, 
         {
             "created": 1456402619000, 
@@ -536,7 +536,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -644,7 +644,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1456431672000, 
@@ -731,7 +731,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1456426141000, 
