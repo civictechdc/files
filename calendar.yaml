@@ -60,20 +60,24 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: Please go to the 8th floor and someone will guide you to the room
+    we are in on the 12th floor. There is another event going on at the same time
+    on the 12 th floor so follow the sign or person to the conference room on the
+    back corner
   id: '228727805'
   maybe_rsvp_count: 0
   name: Tech Talk - Intro to the Go programming language!
   rsvp_limit: 55
   status: upcoming
   time: 1458253800000
-  updated: 1458219671000
+  updated: 1458252611000
   utc_offset: -14400000
-  venue: {address_1: '1133 15th St NW, 8th floor', city: Washington, country: us,
-    id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
-    name: General Assembly @ 1776, repinned: false, state: DC}
+  venue: {address_1: '1133 15th Street, NW, 8th Floor', city: Washington, country: us,
+    id: 20519552, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
+    name: GA @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 46
 - created: 1456679073000
   description: "<p>Learn the basics of using Django to create a basic app. We will\
     \ be going over:</p> <p>\u2022 Setting up a basic project<br/>\u2022 Creating\
@@ -144,7 +148,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1458153181000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -181,7 +185,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 22
 - created: 1454252703000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? \_Looking to build your first app or build on existing skills?\
@@ -247,11 +251,11 @@ other:
     North and Farragut West'
   id: '229455905'
   maybe_rsvp_count: 0
-  name: Python Lab
+  name: Python Lab - Code Review
   rsvp_limit: 50
   status: upcoming
   time: 1458772200000
-  updated: 1457506954000
+  updated: 1458258005000
   utc_offset: -14400000
   venue: {address_1: 1 Thomas Circle, city: Washington, country: us, id: 24416213,
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
@@ -523,7 +527,7 @@ other:
     name: OPOWER, repinned: false, state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1457636180000
   description: "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning\
     \ with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p>\
@@ -567,7 +571,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 203
+  yes_rsvp_count: 206
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -622,7 +626,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 24
+  waitlist_count: 25
   yes_rsvp_count: 3
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\

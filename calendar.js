@@ -57,29 +57,30 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Please go to the 8th floor and someone will guide you to the room we are in on the 12th floor. There is another event going on at the same time on the 12 th floor so follow the sign or person to the conference room on the back corner", 
             "id": "228727805", 
             "maybe_rsvp_count": 0, 
             "name": "Tech Talk - Intro to the Go programming language!", 
             "rsvp_limit": 55, 
             "status": "upcoming", 
             "time": 1458253800000, 
-            "updated": 1458219671000, 
+            "updated": 1458252611000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1133 15th St NW, 8th floor", 
+                "address_1": "1133 15th Street, NW, 8th Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 19813392, 
+                "id": 20519552, 
                 "lat": 38.904854, 
                 "localized_country_name": "USA", 
                 "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776", 
+                "name": "GA @ 1776", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1456679073000, 
@@ -134,7 +135,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1458153181000, 
@@ -175,7 +176,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1454252703000, 
@@ -236,11 +237,11 @@ calendar({
             "how_to_find_us": "Nearby the following metro stations: McPherson Station, Farragut North and Farragut West", 
             "id": "229455905", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Python Lab - Code Review", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1458772200000, 
-            "updated": 1457506954000, 
+            "updated": 1458258005000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1 Thomas Circle", 
@@ -496,7 +497,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457636180000, 
@@ -535,7 +536,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 203
+            "yes_rsvp_count": 206
         }, 
         {
             "created": 1456402619000, 
@@ -575,7 +576,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 24, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 3
         }, 
         {
