@@ -66,7 +66,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -533,7 +533,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 213
+  yes_rsvp_count: 214
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
