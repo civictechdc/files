@@ -67,7 +67,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1457965726000, 
@@ -136,7 +136,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1454252703000, 
@@ -256,7 +256,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1458052402000, 
@@ -294,7 +294,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -496,7 +496,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 214
+            "yes_rsvp_count": 216
         }, 
         {
             "created": 1456402619000, 
@@ -536,7 +536,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
+            "waitlist_count": 28, 
             "yes_rsvp_count": 3
         }, 
         {
