@@ -81,7 +81,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1458153181000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -261,7 +261,7 @@ other:
     name: New York Code & Design Academy, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1458052402000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
     \ in a field somehow related to code? Come brunch with others like you!\_</p>\
@@ -290,7 +290,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 14
   yes_rsvp_count: 25
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -382,6 +382,87 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 7
+- created: 1458559488000
+  description: "<p>DVDC Lightning Talks!</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJhAAAAJDk2ZWMzOGU0LTA0YTQtNDQ2OC1iYjJkLTUzYTI1MmNlNjFiNg.jpg\"\
+    \ /></p> <p><a href=\"https://www.linkedin.com/in/kathyqian\">Kathy Qian: Founder\
+    \ &amp; CEO at Tickermachine</a></p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/190/0c6/1bbc50e.jpg\"\
+    \ /></p> <p><a href=\"https://www.linkedin.com/in/harlanharris\">Harlan Harris:\
+    \ Director of Data Science at The Education Advisory Board\_</a></p> <p><img src=\"\
+    https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAb7AAAAJDdhMjhhMDA5LTFmNGUtNGNkMy1hZjdlLTE2NWIwMjM2ZWZmMg.jpg\"\
+    \ /></p> <p><a href=\"https://www.linkedin.com/in/amanda-traud-44257914\">Amanda\
+    \ Traud: Senior Data Scientist at Cybraics</a></p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/15e/355/24c0528.jpg\"\
+    \ /></p> <p><a href=\"https://www.linkedin.com/in/bill-rapp-21880642\">Bill Rapp:\
+    \ Principal at Signal2Noise LLC</a></p> <p>Join your fellow data visualizers on\
+    \ Tuesday, March 29th\_for DVDC Lightning Talks.\_For this March Meetup, DVDC\
+    \ will host Harlan Harris, Amanda Traud, Bill Rapp, and\_Kathy Qian\_for a series\
+    \ of lighting talks exploring the biggest ideas in data science and data visualization\
+    \ in under 20 minutes; Q&amp;A welcome.</p> <p>DVDC Lighting Talks will be held\
+    \ at Capital One\u2019s office in McLean, Virginia (1680 Capital One Drive,\_\
+    McLean, VA[masked]), the office is across the street from the Silver Line\u2019\
+    s McLean Metro Station, and we recommend that you take the train if you want to\
+    \ stay for data drinks after.\_</p> <p>To access Capital One\u2019s McLean Headquarters,\
+    \ please confirm your RSVP as soon as possible, and bring a recent government\
+    \ ID with you the night of the event.</p> <p>We look forward to seeing you!\_\
+    </p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022\
+    \ 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - <a href=\"https://www.linkedin.com/in/kathyqian\"\
+    >Kathy Qian: Founder &amp; CEO at Tickermachine</a></p> <p>\u2022 7:35 - <a href=\"\
+    https://www.linkedin.com/in/harlanharris\">Harlan Harris: Director at The Education\
+    \ Advisory Board\_</a></p> <p><br/>\u2022 7:55 - <a href=\"https://www.linkedin.com/in/amanda-traud-44257914\"\
+    >Amanda Traud: Senior Data Scientist at Cybraics</a></p> <p><br/>\u2022 8:15 -\
+    \ <a href=\"https://www.linkedin.com/in/bill-rapp-21880642\">Bill Rapp: Principal\
+    \ at Signal2Noise LLC</a></p> <p>\u2022\_8:40 - Data Drinks</p> <p><b><br/></b></p>\
+    \ <p><b>ANNOUNCEMENTS</b></p> <p>Check out the <a href=\"http://us3.campaign-archive2.com/?u=75fc125999b198f97fe860a8d&amp;id=6e8db1780b&amp;e=263865b99d\"\
+    >Data Community DC Newsletter</a>!</p> <p>Are\_you or your company hiring?\_<a\
+    \ href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\">Get\
+    \ in touch!</a></p> <p><br/>Would you like to announce data-related public events\
+    \ in the\_region?\_<a href=\"http://www.datacommunitydc.org/calendar/\">Submit\
+    \ it to the calendar</a>\_and we'll do the rest.</p> <p><br/>Would you like to\
+    \ share something viral with us? You can reach other regional data afficionados\
+    \ with\_<a href=\"https://twitter.com/search?q=%23datadc\">#datadc on Twitter</a>,\
+    \ or in our\_<a href=\"https://www.facebook.com/groups/datacommunitydc/\">Facebook</a>\_\
+    or\_<a href=\"http://www.linkedin.com/groups/Data-Community-DC-4763419\">LinkedIn</a>\_\
+    groups!</p> <p><b>Jobs / Internships</b></p> <p>\u2022\_Capital One is looking\
+    \ for brilliant\_<a href=\"https://jobs.capitalone.com/job/mclean/data-engineering-senior-engineer-mclean/1732/1089517\"\
+    >Data\_Engineers</a>\_to help us be a great open source tech company in banking.\
+    \ We're working with cool things like Spark, Kafka, Storm, Flink and have needs\
+    \ at all levels. If you're interested in finding out more we'd love to hear from\
+    \ you! (VA)</p> <p>\u2022\_Poise is seeking a\_<a href=\"http://www.indeed.com/jobs?q=%22poise+inc%22&amp;l=\"\
+    >Senior Data Scientist</a>. Candidates will have the opportunity to utilize the\
+    \ following technology: Hadoop, Impala, Hive, Pig or Spark, HQL/SQL, Java (Python,\
+    \ Perl, etc.), numerical and statistical packages (Pandas, Numpy, Sklearn, R).\
+    \ Contact Mr.&lt;a&gt;Steve Roper&lt;/a&gt;\_for more details.\_</p> <p>\u2022\
+    \_(DC)The DC Office of the State Superintendent of Education (OSSE) is looking\
+    \ for an\_<a href=\"http://osse.dc.gov/ossecareeropportunities\">Assistant Superintendent</a>\_\
+    of Data, Assessment &amp; Research who will play a pivotal role in helping the\
+    \ agency ensure that the 90,000 students in DC receive a great education. (DC)The\
+    \ Psychometrics and Quantitative Research team at the Center for Applied Linguistics\
+    \ is seeking a\_<a href=\"http://www.cal.org/who-we-are/career-opportunities/jobs/quantitative-research-assistant\"\
+    >Data Analyst</a>\_to support research and project-related activities for a large-scale\
+    \ assessment of English language proficiency. (DC)</p> <p><b>Are\_you or your\
+    \ company hiring?\_<a href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\"\
+    >Get in touch!</a></b></p> <p><b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\"\
+    \ /></p> <p><img src=\"http://www.gisonthechester.com/wp-content/uploads/2015/09/bah-share-default-icon-512-1.png\"\
+    \ /></p> <p>\n\n\n<img src=\"http://www.statistics.com/images/logo_new.png\" /></p>"
+  duration: 8100000
+  event_url: http://www.meetup.com/Data-Visualization-DC/events/229757218/
+  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
+    who: Data Visualizers}
+  headcount: 0
+  how_to_find_us: "Across the street from the Silver Line\u2019s McLean Metro Station"
+  id: '229757218'
+  maybe_rsvp_count: 0
+  name: Lightning Talks
+  status: upcoming
+  time: 1459290600000
+  updated: 1458559488000
+  utc_offset: -14400000
+  venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 24439761,
+    lat: 38.924605999999997, localized_country_name: USA, lon: -77.212929000000003,
+    name: Capital One, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -505,7 +586,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 218
+  yes_rsvp_count: 219
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -612,6 +693,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 19
+- created: 1458531639000
+  description: "<p>Spring weather is here. \_:) \_\_And with the cool, refreshing\
+    \ evening breeze of April 5, you can add in some high quality API talks! \_</p>\
+    \ <p>There'll be plenty of good food and good drink to go along with the all of\
+    \ the solid folks who'll be there, so go ahead and mark the first Tuesday of the\
+    \ month on your calendar. \_See you soon! \_</p> <p><br/>6:00pm - 6:45pm Food,\
+    \ drinks and networking\_<br/>6:45pm - 6:55pm Introductions and Announcements\_\
+    <br/>6:55pm - 8:00pm Presentations</p> <p>*\_Christen Geile - National Institutes\
+    \ of Health<br/>*\_Jennifer Rondeau<br/>* Sabrina Williams</p> <p>7:55pm - 8:00pm\
+    \ Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm -\
+    \ 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/229750566/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '229750566'
+  maybe_rsvp_count: 0
+  name: DC API User Group - April Edition
+  status: upcoming
+  time: 1459893600000
+  updated: 1458531639000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -773,7 +883,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
