@@ -1102,8 +1102,8 @@
             0, 
             0, 
             0, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -2042,7 +2042,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 89, 
+                "contributions": 90, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2077,16 +2077,16 @@
                 "name": "JoshData"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2614536?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/supineUnicorn", 
+                "name": "supineUnicorn"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/870645?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/caseypatrickdriscoll", 
                 "name": "caseypatrickdriscoll"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2614536?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/supineUnicorn", 
-                "name": "supineUnicorn"
             }
         ], 
         "contributors_count": 8, 

@@ -328,7 +328,7 @@
   updated_at: '2016-01-18T15:30:25Z'
   watchers: 21
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -619,7 +619,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 89,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 90,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 31,
     link: 'https://github.com/romoy', name: romoy}
@@ -631,10 +631,10 @@
     link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2614536?v=3', contributions: 2,
+    link: 'https://github.com/supineUnicorn', name: supineUnicorn}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/870645?v=3', contributions: 1,
     link: 'https://github.com/caseypatrickdriscoll', name: caseypatrickdriscoll}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2614536?v=3', contributions: 1,
-    link: 'https://github.com/supineUnicorn', name: supineUnicorn}
   contributors_count: 8
   created_at: '2014-07-12T18:04:36Z'
   default_branch: develop
