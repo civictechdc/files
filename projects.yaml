@@ -1,5 +1,5 @@
-- activity: [0, 11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33,
-    10, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 11, 5, 7, 6, 3, 2, 2, 1, 5, 0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40,
+    2, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -93,7 +93,7 @@
   size: 21734
   updated_at: '2016-03-20T01:10:58Z'
   watchers: 30
-- activity: [8, 0, 0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [8, 0, 3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [9, 1, 1, 0, 4, 3, 6, 0, 0, 2, 0, 0, 5, 1, 10, 11, 2, 5, 1, 0, 0, 0, 0,
-    0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0, 1,
+- activity: [9, 1, 1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0, 0,
+    0, 0, 2, 0, 0, 0, 5, 5, 1, 0, 5, 1, 2, 7, 6, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0, 1,
     0, 0, 5]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -827,7 +827,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 57, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0,
+- activity: [0, 0, 0, 0, 0, 63, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -971,9 +971,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27, 10, 4, 15, 0, 7,
-    0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1,
-    0, 0, 108, 28, 2, 3]
+- activity: [0, 0, 0, 0, 1, 35, 19, 36, 2, 66, 0, 1, 7, 22, 4, 27, 6, 4, 15, 0, 7,
+    2, 4, 0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0,
+    11, 111, 16, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1423,7 +1423,7 @@
     thumbnail: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 116,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 119,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 71,
     link: 'https://github.com/samiam151', name: samiam151}
@@ -1447,7 +1447,7 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [R, 70594]
+  - [R, 73831]
   - [HTML, 36126]
   - [CSS, 19263]
   - [Python, 6016]
@@ -1458,13 +1458,13 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-22T01:37:00Z'
+  pushed_at: '2016-03-23T01:10:41Z'
   short_name: school-modernization
-  size: 15872
+  size: 15826
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
