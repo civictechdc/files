@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 50
         }
     ], 
     "other": [
@@ -200,7 +200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1456601712000, 
@@ -320,7 +320,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 252
+            "yes_rsvp_count": 279
         }, 
         {
             "created": 1456402619000, 
@@ -679,7 +679,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457035881000, 
@@ -746,33 +746,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
-        }, 
-        {
-            "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.</p> <p>The location will be in Crystal City; we'll announce once it becomes official.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "229819688", 
-            "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night V", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1460584800000, 
-            "updated": 1458787861000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457885761000, 
@@ -1046,6 +1019,45 @@
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1458758791000, 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.</p> <p>The location will be in Crystal City; we'll announce once it becomes official.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "229819688", 
+            "maybe_rsvp_count": 0, 
+            "name": "CaBi Hack Night V", 
+            "rsvp_limit": 125, 
+            "status": "upcoming", 
+            "time": 1461880800000, 
+            "updated": 1458877589000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2221 SOUTH CLARK ST", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24336429, 
+                "lat": 38.853954000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.051636000000002, 
+                "name": "WeWork Crystal City", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
+        }, 
+        {
             "created": 1457035701000, 
             "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -1204,7 +1216,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1451511413000, 
