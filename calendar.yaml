@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 other:
 - created: 1458052402000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -67,7 +67,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 11
+  waitlist_count: 5
   yes_rsvp_count: 30
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -239,7 +239,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 126
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -363,7 +363,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 297
+  yes_rsvp_count: 300
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -469,7 +469,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -498,7 +498,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -640,9 +640,34 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 6
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
+    \ network, and hear about the work people are doing with maps, GIS, geodata, and\
+    \ more. This week the <a href=\"http://cadasta.org\">Cadasta Foundation</a> is\
+    \ in town (all together for the first time)! They are working to build a future\
+    \ where, through technology and community partnership, land and resource rights\
+    \ are universally recognized and protected. They'd like to share what they are\
+    \ working on and things that excite them with the GeoDC community. It's a packed\
+    \ agenda - but they're sticking to our lightening talk theme!\_</p> <p><br/>\u2022\
+    \_<a href=\"https://twitter.com/eomwandho\">Erick Opiyo</a>: Using GeoODK to document\
+    \ land rights. GeoODK is a mobile data collection application built on top of\
+    \ OpenDataKit. This talk will go over how it works and how it is being used to\
+    \ collect land rights info.\_</p> <p>\u2022\_<a href=\"https://twitter.com/fhpichel\"\
+    >Frank Pichel</a>: Cadasta is building an open-source platform to help communities\
+    \ document their land rights. Learn more about why land matters and how technology\
+    \ can help.\_</p> <p>\u2022\_<a href=\"https://twitter.com/wonderchook\">Kate\
+    \ Chapman</a>: Imagery is a key aspect to mapping community land boundaries. Learn\
+    \ how imagery is used and what developments are helping reduce costs.\_</p> <p>\u2022\
+    \_<a href=\"https://twitter.com/linzjax\">Lindsey Jacks</a>: Field Papers allows\
+    \ people to easily print atlases, sketch on those maps and then upload them again\
+    \ to transcribe their notes. Recently Cadasta sponsored an internship to redesign\
+    \ the atlas making interface to make it more user friendly. Learn what we did\
+    \ and what we might do next.\_</p> <p>\u2022\_<a href=\"https://twitter.com/Lindsay_Joelle\"\
+    >Lindsay Ferris</a>: Combining maps with open data on land tenure can help paint\
+    \ a clearer picture of property ownership within a country. Cadasta is sponsoring\
+    \ a research fellowship to define open data in land and identify key open government\
+    \ datasets that can strengthen property rights. We\u2019ll share what we\u2019\
+    re learning and what we hope to accomplish through this initiative.</p> <p>Join\
+    \ us for what promises to be a fascinating and fabulous night!\_</p>"
   event_url: http://www.meetup.com/Geo-DC/events/229193679/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -650,17 +675,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcyvgbjb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'GeoDC April: Land Rights + Open Mapping'
   status: upcoming
   time: 1459983600000
-  updated: 1446214010000
+  updated: 1458952242000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 26
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -800,7 +825,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -1227,7 +1252,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1417,7 +1442,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 45
 - created: 1451511413000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Heads\
     \ up, this is a Wednesday (as opposed to our\_Tuesday\_normal dates).</p> <p>Everyone\

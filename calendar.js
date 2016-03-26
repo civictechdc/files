@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1456601712000, 
@@ -320,7 +320,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 297
+            "yes_rsvp_count": 300
         }, 
         {
             "created": 1456402619000, 
@@ -401,7 +401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1458531639000, 
@@ -439,7 +439,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1446219481000, 
@@ -558,7 +558,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more. This week the <a href=\"http://cadasta.org\">Cadasta Foundation</a> is in town (all together for the first time)! They are working to build a future where, through technology and community partnership, land and resource rights are universally recognized and protected. They'd like to share what they are working on and things that excite them with the GeoDC community. It's a packed agenda - but they're sticking to our lightening talk theme!\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/eomwandho\">Erick Opiyo</a>: Using GeoODK to document land rights. GeoODK is a mobile data collection application built on top of OpenDataKit. This talk will go over how it works and how it is being used to collect land rights info.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/fhpichel\">Frank Pichel</a>: Cadasta is building an open-source platform to help communities document their land rights. Learn more about why land matters and how technology can help.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/wonderchook\">Kate Chapman</a>: Imagery is a key aspect to mapping community land boundaries. Learn how imagery is used and what developments are helping reduce costs.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/linzjax\">Lindsey Jacks</a>: Field Papers allows people to easily print atlases, sketch on those maps and then upload them again to transcribe their notes. Recently Cadasta sponsored an internship to redesign the atlas making interface to make it more user friendly. Learn what we did and what we might do next.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/Lindsay_Joelle\">Lindsay Ferris</a>: Combining maps with open data on land tenure can help paint a clearer picture of property ownership within a country. Cadasta is sponsoring a research fellowship to define open data in land and identify key open government datasets that can strengthen property rights. We\u2019ll share what we\u2019re learning and what we hope to accomplish through this initiative.</p> <p>Join us for what promises to be a fascinating and fabulous night!\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/229193679/", 
             "group": {
                 "created": 1307975249000, 
@@ -574,10 +574,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvgbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC April: Land Rights + Open Mapping", 
             "status": "upcoming", 
             "time": 1459983600000, 
-            "updated": 1446214010000, 
+            "updated": 1458952242000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -593,7 +593,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1456426141000, 
@@ -707,7 +707,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1451511328000, 
@@ -1055,7 +1055,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457035701000, 
@@ -1216,7 +1216,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1451511413000, 
