@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 other:
 - created: 1458052402000
   description: "<p>Are you a professional developer, designer, sysadmin, or working\
@@ -67,8 +67,8 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
-  yes_rsvp_count: 30
+  waitlist_count: 0
+  yes_rsvp_count: 29
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -239,7 +239,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 126
+  yes_rsvp_count: 127
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -296,9 +296,10 @@ other:
     \ the first Wednesday of every month, which caters especially for absolute beginners\
     \ and people with basic familiarity.</p> <p>All other study group nights will\
     \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>This coming\
+    \ Wednesday, we are going to do a show and tell of what project you have been\
+    \ working on.\_</b></p> <p><b>Note:</b>\_</p> <p>This Women Who Code DC event\
+    \ is intended to be exclusively open for women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/229597215/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -308,11 +309,11 @@ other:
   how_to_find_us: Nearby Courthouse Metro Station
   id: '229597215'
   maybe_rsvp_count: 0
-  name: Python Lab
+  name: Python Lab - Show and Tell  Your Project
   rsvp_limit: 50
   status: upcoming
   time: 1459377000000
-  updated: 1458007544000
+  updated: 1458998807000
   utc_offset: -14400000
   venue: {address_1: 1515 N Courthouse Road, city: Arlington, country: us, id: 1555993,
     lat: 38.891196999999998, localized_country_name: USA, lon: -77.083740000000006,
@@ -363,7 +364,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 300
+  yes_rsvp_count: 304
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -685,7 +686,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 33
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -825,7 +826,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -926,7 +927,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
@@ -1252,7 +1253,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
