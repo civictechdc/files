@@ -78,7 +78,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - announced: false
   created: 1459093369000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -119,7 +119,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 other:
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -167,7 +167,7 @@ other:
     name: Socrata Office (2nd Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -203,14 +203,14 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1459290600000
-  updated: 1458050556000
+  updated: 1459118114000
   utc_offset: -14400000
   venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 23690298,
     lat: 38.898392000000001, localized_country_name: USA, lon: -77.024131999999994,
     name: 'MLK Library, Digital Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 14
 - created: 1458559488000
   description: "<p>DVDC Lightning Talks!</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJhAAAAJDk2ZWMzOGU0LTA0YTQtNDQ2OC1iYjJkLTUzYTI1MmNlNjFiNg.jpg\"\
     \ /></p> <p><a href=\"https://www.linkedin.com/in/kathyqian\">Kathy Qian: Founder\
@@ -291,7 +291,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 129
+  yes_rsvp_count: 131
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -338,7 +338,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1458007544000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -416,7 +416,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 311
+  yes_rsvp_count: 312
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -580,7 +580,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -624,7 +624,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 25
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
@@ -738,7 +738,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -1089,7 +1089,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 19
 - created: 1457889032000
   description: "<p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p>\

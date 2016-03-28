@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "announced": false, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }
     ], 
     "other": [
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1454252703000, 
@@ -185,7 +185,7 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1459290600000, 
-            "updated": 1458050556000, 
+            "updated": 1459118114000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "901 G Street NW", 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1458559488000, 
@@ -241,7 +241,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 129
+            "yes_rsvp_count": 131
         }, 
         {
             "created": 1456601712000, 
@@ -280,7 +280,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1458007544000, 
@@ -361,7 +361,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 311
+            "yes_rsvp_count": 312
         }, 
         {
             "created": 1456402619000, 
@@ -508,7 +508,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1452612310000, 
@@ -547,7 +547,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1456431672000, 
@@ -634,7 +634,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1456426141000, 
@@ -947,7 +947,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457889032000, 
