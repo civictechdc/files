@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 61
 - announced: false
   created: 1459093337000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -167,7 +167,7 @@ other:
     name: Socrata Office (2nd Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 39
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -210,7 +210,7 @@ other:
     name: 'MLK Library, Digital Commons', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1458559488000
   description: "<p>DVDC Lightning Talks!</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJhAAAAJDk2ZWMzOGU0LTA0YTQtNDQ2OC1iYjJkLTUzYTI1MmNlNjFiNg.jpg\"\
     \ /></p> <p><a href=\"https://www.linkedin.com/in/kathyqian\">Kathy Qian: Founder\
@@ -291,26 +291,22 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 144
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
-    \ <p>\u2022 <b>7:15pm</b> - \"Ruby on Rails: Understanding MVC\"</p> <p>\u2022\
-    \ <b>8:15 - 8:30pm</b> - Wrap Up</p> <p><b>Understanding the Model View Controller</b></p>\
-    \ <p>One of the most quoted architectural pattern web frameworks, Model-View-Controller\
-    \ has taken a recent rise in popularity over the recent years. \_At this event\
-    \ WWC will go over the history, the core components, the pros and cons, as well\
-    \ as the numerous frameworks that follow this pattern including our beloved Rails.\_\
-    </p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building\
-    \ managements requires meetup hosts to let people in and do not encourage them\
-    \ being contacted. Please respect the policy, in case the location requires access\
-    \ to the building contact the group lead if information is provided, or drop a\
-    \ comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails\
-    \ Study Group leader? If you are passionate about learning ROR with fellow awesome\
-    \ women and want to help us, come on out! Drop us a message or email us and let\
-    \ us know that you are interested in helping us with the Rails study group!</p>\
-    \ <p><b>RESOURCES</b></p> <p>These are the resources that members have been following\
-    \ along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ <p>\u2022 <b>7:15pm - 8:30 pm</b>\_- Open Lab!</p> <p><b>Open Lab</b></p> <p>Come\
+    \ work on projects, ask for help or feedback!</p> <p><b>Contact policy at buildings\
+    \ that need access</b></p> <p>Certain building managements requires meetup hosts\
+    \ to let people in and do not encourage them being contacted. Please respect the\
+    \ policy, in case the location requires access to the building contact the group\
+    \ lead if information is provided, or drop a comment on the meetup page. We'll\
+    \ come and get you. Want to be a Ruby on Rails Study Group leader? If you are\
+    \ passionate about learning ROR with fellow awesome women and want to help us,\
+    \ come on out! Drop us a message or email us and let us know that you are interested\
+    \ in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These\
+    \ are the resources that members have been following along, feel free to suggest\
+    \ if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
     \ <p>This event is intended to be exclusively open for people who identify as\
@@ -328,17 +324,17 @@ other:
   headcount: 0
   id: '229182181'
   maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Understanding MVC'
+  name: Ruby on Rails Lab (Updated!)
   status: upcoming
   time: 1459377000000
-  updated: 1457981856000
+  updated: 1459175074000
   utc_offset: -14400000
   venue: {address_1: '1005 7th St NW, Suite 100', city: Washington, country: us, id: 24427130,
     lat: 38.903229000000003, localized_country_name: USA, lon: -77.021629000000004,
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1458007544000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -416,7 +412,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 318
+  yes_rsvp_count: 322
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -471,7 +467,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 35
+  waitlist_count: 36
   yes_rsvp_count: 3
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -522,7 +518,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -532,8 +528,8 @@ other:
     \ Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions and Announcements\_\
     <br/>6:55pm - 8:00pm Presentations</p> <p>*\_Jennifer Rondeau - Capital One<br/>*\
     \ Sabrina Williams<br/>* Christen Geile - National Institutes of Health<br/>*\
-    \ Ben Morris\_</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm\
-    \ Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+    \ Ben Morris - STSI</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm -\
+    \ 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/229750566/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -544,14 +540,14 @@ other:
   name: DC API User Group - April Edition
   status: upcoming
   time: 1459893600000
-  updated: 1458663784000
+  updated: 1459183665000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 44
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -738,7 +734,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -827,7 +823,7 @@ other:
       Building Auditorium, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1457035881000
   description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
     \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
@@ -911,7 +907,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1457885761000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_6:30pm - Setup and start\
     \ working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm\
@@ -1089,7 +1085,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 28
 - created: 1457889032000
   description: "<p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p>\
@@ -1353,7 +1349,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
