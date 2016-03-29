@@ -212,7 +212,7 @@
   size: 1980
   updated_at: '2016-02-09T21:08:06Z'
   watchers: 11
-- activity: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -260,8 +260,8 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0, 0, 0, 0,
-    0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0,
+- activity: [1, 1, 0, 4, 3, 5, 1, 0, 2, 0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0, 0, 0,
+    0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0,
     0, 5, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -619,9 +619,9 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 90,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 95,
     link: 'https://github.com/mkalish', name: mkalish}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 31,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 32,
     link: 'https://github.com/romoy', name: romoy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
     link: 'https://github.com/jkoul', name: jkoul}
@@ -645,20 +645,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 9974309]
-  - [CSS, 6219]
-  - [HTML, 6072]
+  - [JavaScript, 10935723]
+  - [CSS, 6304]
+  - [HTML, 6129]
   - [Python, 4997]
   - [Shell, 864]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 17
+  open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-22T11:54:24Z'
+  pushed_at: '2016-03-28T23:43:00Z'
   short_name: dc-campaign-finance-watch
-  size: 94984
+  size: 96263
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -827,7 +827,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 43, 22, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 7, 1, 0, 0,
+- activity: [0, 0, 0, 0, 45, 20, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1039,7 +1039,7 @@
   default_branch: gh-pages
   description: A simple website for people trying to navigate the process of having
     records sealed in DC
-  forks: 35
+  forks: 37
   help_wanted: []
   homepage: https://codefordc.github.io/clean-slate
   html_url: https://github.com/codefordc/clean-slate
@@ -1350,7 +1350,7 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 19
+  forks: 21
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
@@ -1364,7 +1364,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 49
+  open_issues: 51
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-03-27T21:28:18Z'
@@ -1391,7 +1391,7 @@
   license: null
   main_language: null
   name: DC Code Metadata
-  open_issues: 5
+  open_issues: 6
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4590660?v=3', name: DCCouncil,
     type: Organization, url: 'https://github.com/DCCouncil'}
   pushed_at: '2016-02-01T04:42:52Z'

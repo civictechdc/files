@@ -37,7 +37,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 59
 - announced: false
   created: 1459093337000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -119,7 +119,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 other:
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -167,7 +167,7 @@ other:
     name: Socrata Office (2nd Floor), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 30
 - created: 1454252703000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -291,7 +291,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 144
+  yes_rsvp_count: 157
 - created: 1456601712000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -368,7 +368,7 @@ other:
     name: OPOWER, repinned: false, state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1457636180000
   description: "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning\
     \ with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p>\
@@ -412,7 +412,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 322
+  yes_rsvp_count: 326
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -467,7 +467,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 36
+  waitlist_count: 37
   yes_rsvp_count: 3
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -518,7 +518,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -547,7 +547,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -734,7 +734,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -908,6 +908,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1459207945000
+  description: "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"\
+    https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\"\
+    >\_more than twenty</a>\_legal hacking, technology, or innovation groups around\
+    \ the country.\_</p> <p>A legal hacker is someone who cares about the intersection\
+    \ of law and technology and seeks to improve legal practice through technology\
+    \ while simultaneously using legal skills to promote technological innovation\
+    \ and exploration.</p> <p><b>Join us on Wednesday, April 13, \_2015 to\_discuss\
+    \ everything FBI v. Apple\_over pizza and beer featuring some surprise expert\
+    \ guests.\_</b></p> <p>Thanks so much to New America for hosting us!</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/DCLegalHackers/events/229947703/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  how_to_find_us: Suite 900, text 413-387-8268 to be let in
+  id: '229947703'
+  maybe_rsvp_count: 0
+  name: '#LegalHack FBI v. Apple'
+  status: upcoming
+  time: 1460584800000
+  updated: 1459208034000
+  utc_offset: -14400000
+  venue: {address_1: '740 15th St NW #900', city: Washington, country: us, id: 24453919,
+    lat: 38.899749999999997, localized_country_name: USA, lon: -77.033835999999994,
+    name: New America Foundation, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1457885761000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_6:30pm - Setup and start\
     \ working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm\
@@ -1085,7 +1115,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1457889032000
   description: "<p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup and start working</p>\
     \ <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p>\
@@ -1206,6 +1236,40 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1455651624000
+  description: "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\"\
+    >Eventbrite</a>\_(early registration though next week).</b></p> <p>Google defines\
+    \ User Experience (UX) as \"the overall experience of a person using a product\
+    \ such as a website...especially in terms of how easy or pleasing it is to use\"\
+    .</p> <p><br/>- Is your website easy and pleasing to use?\_</p> <p>- Are you visitors\
+    \ able to accomplish tasks with ease and leave with a positive experience?\_</p>\
+    \ <p>- What are your options for improving website UX?\_</p> <p>This event will\
+    \ help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p>\
+    \ <p>\u2022\_What makes for good website user experience, including mobile web</p>\
+    \ <p>\u2022\_How to evaluate your website UX and do basic user research</p> <p>\u2022\
+    \ What changes you can make to your website to enhance usability and UX</p> <p>We\
+    \ begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p>\
+    \ <p><br/>This event is focused on people who manage and build websites, as well\
+    \ as those interested in user experience.</p> <p>If you are interested in sponsorship,\
+    \ contact [masked].</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/228899649/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '228899649'
+  maybe_rsvp_count: 0
+  name: Website User Experience
+  status: upcoming
+  time: 1461711600000
+  updated: 1459200712000
+  utc_offset: -14400000
+  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
+    id: 19625362, lat: 38.904330999999999, localized_country_name: USA, lon: -77.033278999999993,
+    name: OpenGov Hub, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1349,7 +1413,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\

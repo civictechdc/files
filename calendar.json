@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 59
         }, 
         {
             "announced": false, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }
     ], 
     "other": [
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1454252703000, 
@@ -241,7 +241,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 144
+            "yes_rsvp_count": 157
         }, 
         {
             "created": 1456601712000, 
@@ -322,7 +322,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457636180000, 
@@ -361,7 +361,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 322
+            "yes_rsvp_count": 326
         }, 
         {
             "created": 1456402619000, 
@@ -401,7 +401,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 37, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -442,7 +442,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1458531639000, 
@@ -480,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1446219481000, 
@@ -634,7 +634,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1456426141000, 
@@ -787,6 +787,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1459207945000, 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.\u00a0</b></p> <p>Thanks so much to New America for hosting us!</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/229947703/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Suite 900, text 413-387-8268 to be let in", 
+            "id": "229947703", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack FBI v. Apple", 
+            "status": "upcoming", 
+            "time": 1460584800000, 
+            "updated": 1459208034000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "740 15th St NW #900", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24453919, 
+                "lat": 38.899749999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033835999999994, 
+                "name": "New America Foundation", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1457885761000, 
@@ -947,7 +987,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1457889032000, 
@@ -1031,6 +1071,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1455651624000, 
+            "description": "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\">Eventbrite</a>\u00a0(early registration though next week).</b></p> <p>Google defines User Experience (UX) as \"the overall experience of a person using a product such as a website...especially in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website easy and pleasing to use?\u00a0</p> <p>- Are you visitors able to accomplish tasks with ease and leave with a positive experience?\u00a0</p> <p>- What are your options for improving website UX?\u00a0</p> <p>This event will help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p> <p>\u2022\u00a0What makes for good website user experience, including mobile web</p> <p>\u2022\u00a0How to evaluate your website UX and do basic user research</p> <p>\u2022 What changes you can make to your website to enhance usability and UX</p> <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p> <p><br/>This event is focused on people who manage and build websites, as well as those interested in user experience.</p> <p>If you are interested in sponsorship, contact [masked].</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/228899649/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "228899649", 
+            "maybe_rsvp_count": 0, 
+            "name": "Website User Experience", 
+            "status": "upcoming", 
+            "time": 1461711600000, 
+            "updated": 1459200712000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1110 Vermont Avenue NW, Suite 500", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19625362, 
+                "lat": 38.904330999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.033278999999993, 
+                "name": "OpenGov Hub", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1457709309000, 
@@ -1134,7 +1212,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457035701000, 

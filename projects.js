@@ -687,8 +687,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -853,8 +853,8 @@ projects([
             0, 
             5, 
             1, 
-            0, 
-            20, 
+            10, 
+            10, 
             1, 
             7, 
             1, 
@@ -872,13 +872,13 @@ projects([
             6, 
             2, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             1, 
             4, 
             11, 
-            3, 
             4, 
+            3, 
             4, 
             0, 
             1, 
@@ -2042,13 +2042,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 90, 
+                "contributions": 95, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7241408?v=3", 
-                "contributions": 31, 
+                "contributions": 32, 
                 "link": "https://github.com/romoy", 
                 "name": "romoy"
             }, 
@@ -2101,15 +2101,15 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                9974309
+                10935723
             ], 
             [
                 "CSS", 
-                6219
+                6304
             ], 
             [
                 "HTML", 
-                6072
+                6129
             ], 
             [
                 "Python", 
@@ -2123,16 +2123,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 17, 
+        "open_issues": 19, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-22T11:54:24Z", 
+        "pushed_at": "2016-03-28T23:43:00Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 94984, 
+        "size": 96263, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
@@ -2706,8 +2706,8 @@ projects([
             0, 
             0, 
             0, 
-            43, 
-            22, 
+            45, 
+            20, 
             1, 
             0, 
             0, 
@@ -2721,8 +2721,8 @@ projects([
             0, 
             2, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -3367,7 +3367,7 @@ projects([
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 35, 
+        "forks": 37, 
         "help_wanted": [], 
         "homepage": "https://codefordc.github.io/clean-slate", 
         "html_url": "https://github.com/codefordc/clean-slate", 
@@ -4362,7 +4362,7 @@ projects([
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
-        "forks": 19, 
+        "forks": 21, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4397,7 +4397,7 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 49, 
+        "open_issues": 51, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
@@ -4486,7 +4486,7 @@ projects([
         "license": null, 
         "main_language": null, 
         "name": "DC Code Metadata", 
-        "open_issues": 5, 
+        "open_issues": 6, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/4590660?v=3", 
             "name": "DCCouncil", 
