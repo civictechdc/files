@@ -9,10 +9,10 @@ projects([
             0, 
             4, 
             0, 
-            5, 
-            1, 
-            4, 
-            4, 
+            6, 
+            0, 
+            6, 
+            2, 
             0, 
             0, 
             9, 
@@ -20,8 +20,8 @@ projects([
             1, 
             9, 
             0, 
-            19, 
-            54, 
+            40, 
+            33, 
             10, 
             0, 
             2, 
@@ -1601,8 +1601,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             0, 
             0, 
             0, 
@@ -1998,15 +1998,15 @@ projects([
             0, 
             3, 
             0, 
-            4, 
-            2, 
+            6, 
+            0, 
             3, 
-            0, 
-            7, 
+            2, 
+            5, 
             2, 
             7, 
-            1, 
-            8, 
+            3, 
+            6, 
             2, 
             0, 
             0, 
@@ -2014,23 +2014,23 @@ projects([
             0, 
             4, 
             1, 
-            0, 
-            8, 
-            2, 
             3, 
+            5, 
+            4, 
+            1, 
             0, 
             1, 
             10, 
-            0, 
             1, 
             0, 
             0, 
-            2, 
-            16, 
-            28, 
-            7, 
-            4, 
-            2
+            0, 
+            3, 
+            18, 
+            32, 
+            1, 
+            6, 
+            7
         ], 
         "ci": {
             "codeclimate": false, 
@@ -2042,7 +2042,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 95, 
+                "contributions": 102, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2054,7 +2054,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 6, 
+                "contributions": 10, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
             }, 
@@ -2065,10 +2065,10 @@ projects([
                 "name": "bcell"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/mchelen", 
-                "name": "mchelen"
+                "avatar_url": "https://avatars.githubusercontent.com/u/2614536?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/matthewringer", 
+                "name": "matthewringer"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
@@ -2077,10 +2077,10 @@ projects([
                 "name": "JoshData"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2614536?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/matthewringer", 
-                "name": "matthewringer"
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/870645?v=3", 
@@ -2101,7 +2101,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                10935723
+                10945015
             ], 
             [
                 "CSS", 
@@ -2130,9 +2130,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-28T23:43:00Z", 
+        "pushed_at": "2016-03-29T11:55:55Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 96263, 
+        "size": 104079, 
         "updated_at": "2016-01-12T01:09:12Z", 
         "watchers": 17
     }, 
@@ -3146,34 +3146,34 @@ projects([
             0, 
             0, 
             0, 
-            15, 
-            40, 
+            20, 
+            35, 
             36, 
             0, 
-            53, 
-            15, 
+            67, 
             1, 
+            1, 
+            4, 
+            25, 
             0, 
             27, 
-            2, 
-            26, 
-            9, 
-            6, 
+            10, 
+            4, 
             15, 
             0, 
             7, 
             0, 
             6, 
             0, 
-            42, 
-            38, 
+            70, 
+            10, 
             0, 
-            0, 
-            8, 
+            2, 
+            6, 
             3, 
+            2, 
+            8, 
             0, 
-            9, 
-            1, 
             13, 
             0, 
             0, 
@@ -3185,12 +3185,12 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
             1, 
             0, 
-            33, 
-            103, 
+            0, 
+            108, 
+            28, 
             2, 
             3, 
             0
@@ -3969,37 +3969,37 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            5, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             2, 
             4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
+            2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            6, 
+            0, 
             0
         ], 
         "ci": {
@@ -4287,7 +4287,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 354, 
+                "contributions": 356, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4322,6 +4322,12 @@ projects([
                 "name": "charleshuang80"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/cmgiven", 
@@ -4340,16 +4346,16 @@ projects([
                 "name": "adinneen"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/mchelen", 
-                "name": "mchelen"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/kndllbrwn", 
                 "name": "kndllbrwn"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/valeriecodes", 
+                "name": "valeriecodes"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16469242?v=3", 
@@ -4358,7 +4364,7 @@ projects([
                 "name": "RAGarza8"
             }
         ], 
-        "contributors_count": 12, 
+        "contributors_count": 13, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4374,7 +4380,7 @@ projects([
             ], 
             [
                 "HTML", 
-                55851
+                56256
             ], 
             [
                 "CSS", 
@@ -4397,18 +4403,18 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 51, 
+        "open_issues": 57, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-03-27T21:28:18Z", 
+        "pushed_at": "2016-03-29T04:40:26Z", 
         "short_name": "dcaf_case_management", 
-        "size": 6785, 
-        "updated_at": "2016-03-21T23:54:46Z", 
-        "watchers": 3
+        "size": 6806, 
+        "updated_at": "2016-03-29T01:03:36Z", 
+        "watchers": 4
     }, 
     {
         "activity": [
@@ -4541,18 +4547,18 @@ projects([
             0, 
             10, 
             12, 
-            25, 
-            22, 
-            18, 
-            21, 
-            17, 
-            53, 
+            28, 
+            23, 
             14, 
+            27, 
+            23, 
+            43, 
+            12, 
             15, 
             0, 
-            0, 
+            3, 
             6, 
-            25
+            22
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4605,7 +4611,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
-                "contributions": 71, 
+                "contributions": 126, 
                 "link": "https://github.com/samiam151", 
                 "name": "samiam151"
             }, 
@@ -4656,15 +4662,15 @@ projects([
             ], 
             [
                 "HTML", 
-                36126
+                38964
             ], 
             [
                 "CSS", 
-                19263
+                25627
             ], 
             [
                 "Python", 
-                6016
+                6152
             ]
         ], 
         "license": {
@@ -4682,9 +4688,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-26T21:03:01Z", 
+        "pushed_at": "2016-03-29T03:34:16Z", 
         "short_name": "school-modernization", 
-        "size": 16075, 
+        "size": 16118, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
@@ -4721,13 +4727,12 @@ projects([
             0, 
             0, 
             4, 
-            0, 
             1, 
             0, 
             0, 
             0, 
-            1, 
             0, 
+            1, 
             0, 
             0, 
             0, 
@@ -4735,6 +4740,7 @@ projects([
             0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -4858,8 +4864,8 @@ projects([
         "activity": [
             0, 
             29, 
-            26, 
             28, 
+            26, 
             0, 
             0, 
             0, 

@@ -1,46 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1456078694000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please use the contact form below to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/229021217/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "229021217", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1459204200000, 
-            "updated": 1456078694000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 59
-        }, 
-        {
             "announced": false, 
             "created": 1459093337000, 
             "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
@@ -123,46 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1457036183000, 
-            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229322658/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "fkkdrlyvfblc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1459204200000, 
-            "updated": 1457392802000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1150 17th Street NW, Ste 200", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23263162, 
-                "lat": 38.905338, 
-                "localized_country_name": "USA", 
-                "lon": -77.039008999999993, 
-                "name": "Socrata Office (2nd Floor)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
             "created": 1454252703000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Hack Night! We welcome women with all levels of Android experience (including none), but coding experience *is*preferred as Android is not the friendliest way to learn how to code. ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a Java Study group.Whether you're a java expert or are seeking to learn in order to enhance mobile apps.Please come out to get up and running with java, try your hand out at some java challenges and ask questions on current projects.Hope to see you there </i></p> <p>Building Access</p> <p>The management in certain buildings requires meetup hosts to let people in instead of relying on their security staff. Please respect the policy in case the location requires access to the building. To gain access, contact the group lead if information is provided or drop a comment on the meetup page. We'll come get you.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/java-android/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
@@ -241,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 162
         }, 
         {
             "created": 1456601712000, 
@@ -280,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1458007544000, 
@@ -361,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 326
+            "yes_rsvp_count": 329
         }, 
         {
             "created": 1456402619000, 
@@ -508,7 +428,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1452612310000, 
@@ -786,11 +706,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459207945000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.\u00a0</b></p> <p>Thanks so much to New America for hosting us!</p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.</b></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/229947703/", 
             "group": {
@@ -804,29 +724,28 @@ calendar({
                 "who": "Legal Hackers"
             }, 
             "headcount": 0, 
-            "how_to_find_us": "Suite 900, text 413-387-8268 to be let in", 
             "id": "229947703", 
             "maybe_rsvp_count": 0, 
             "name": "#LegalHack FBI v. Apple", 
             "status": "upcoming", 
             "time": 1460584800000, 
-            "updated": 1459208034000, 
+            "updated": 1459231046000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "740 15th St NW #900", 
+                "address_1": "NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24453919, 
-                "lat": 38.899749999999997, 
+                "id": 24453979, 
+                "lat": 38.938091, 
                 "localized_country_name": "USA", 
-                "lon": -77.033835999999994, 
-                "name": "New America Foundation", 
+                "lon": -77.044929999999994, 
+                "name": "TBD ", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457885761000, 
@@ -1108,7 +1027,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1457709309000, 
@@ -1212,7 +1131,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457035701000, 
@@ -1469,6 +1388,34 @@ calendar({
             "yes_rsvp_count": 30
         }, 
         {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/rzpmrlyvhbvb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvhbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1463437800000, 
+            "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvjbcb/", 
@@ -1565,8 +1512,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "June Meetup", 
             "status": "upcoming", 
-            "time": 1465425000000, 
-            "updated": 1449242274000, 
+            "time": 1466029800000, 
+            "updated": 1459227108000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1639,33 +1586,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvlbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "August Meetup", 
-            "status": "upcoming", 
-            "time": 1470263400000, 
-            "updated": 1444350500000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvlbfb/", 
@@ -1708,7 +1628,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1720,12 +1640,12 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvmbkb", 
+            "id": "hffzclyvlbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "September Meetup", 
+            "name": "August Meetup", 
             "status": "upcoming", 
-            "time": 1473287400000, 
-            "updated": 1444350516000, 
+            "time": 1470868200000, 
+            "updated": 1459227076000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1774,7 +1694,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934884/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1786,12 +1706,12 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvnbhb", 
+            "id": "hffzclyvmbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "October Meetup", 
+            "name": "September Meetup", 
             "status": "upcoming", 
-            "time": 1475706600000, 
-            "updated": 1444350530000, 
+            "time": 1473892200000, 
+            "updated": 1459227123000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1840,7 +1760,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/227244151/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934884/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1852,12 +1772,12 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvpbdb", 
+            "id": "hffzclyvnbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "October Meetup", 
             "status": "upcoming", 
-            "time": 1478125800000, 
-            "updated": 1417881835000, 
+            "time": 1476311400000, 
+            "updated": 1459227152000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1906,7 +1826,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557398/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/227244151/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1918,16 +1838,16 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclyvqbkb", 
+            "id": "hffzclyvpbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "November Meetup", 
             "status": "upcoming", 
-            "time": 1481153400000, 
-            "updated": 1417881835000, 
+            "time": 1478734200000, 
+            "updated": 1459227180000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
@@ -1972,7 +1892,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557395/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557398/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
@@ -1984,12 +1904,12 @@ calendar({
                 "who": "Data Wranglers"
             }, 
             "headcount": 0, 
-            "id": "hffzclywcbgb", 
+            "id": "hffzclyvqbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
+            "name": "December Meetup", 
             "status": "upcoming", 
-            "time": 1483572600000, 
-            "updated": 1417881835000, 
+            "time": 1481758200000, 
+            "updated": 1459227202000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -2030,6 +1950,33 @@ calendar({
                 "repinned": false, 
                 "state": "DC"
             }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557395/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclywcbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "January Meetup", 
+            "status": "upcoming", 
+            "time": 1484177400000, 
+            "updated": 1459227228000, 
+            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1

@@ -1,4 +1,4 @@
-- activity: [11, 5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10,
+- activity: [11, 5, 7, 6, 3, 0, 4, 0, 6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10,
     0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -487,7 +487,7 @@
   updated_at: '2016-03-14T15:54:48Z'
   watchers: 33
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -613,26 +613,26 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0,
-    7, 2, 7, 1, 8, 2, 0, 0, 0, 0, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2, 16, 28,
-    7, 4, 2]
+- activity: [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0, 3, 2,
+    5, 2, 7, 3, 6, 2, 0, 0, 0, 0, 4, 1, 3, 5, 4, 1, 0, 1, 10, 1, 0, 0, 0, 3, 18, 32,
+    1, 6, 7]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 95,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 102,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 32,
     link: 'https://github.com/romoy', name: romoy}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 6,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 10,
     link: 'https://github.com/jkoul', name: jkoul}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7322903?v=3', contributions: 5,
     link: 'https://github.com/bcell', name: bcell}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 3,
-    link: 'https://github.com/mchelen', name: mchelen}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2614536?v=3', contributions: 4,
+    link: 'https://github.com/matthewringer', name: matthewringer}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/2614536?v=3', contributions: 2,
-    link: 'https://github.com/matthewringer', name: matthewringer}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 3,
+    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/870645?v=3', contributions: 1,
     link: 'https://github.com/caseypatrickdriscoll', name: caseypatrickdriscoll}
   contributors_count: 8
@@ -645,7 +645,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 10935723]
+  - [JavaScript, 10945015]
   - [CSS, 6304]
   - [HTML, 6129]
   - [Python, 4997]
@@ -656,9 +656,9 @@
   open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-28T23:43:00Z'
+  pushed_at: '2016-03-29T11:55:55Z'
   short_name: dc-campaign-finance-watch
-  size: 96263
+  size: 104079
   updated_at: '2016-01-12T01:09:12Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -971,9 +971,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26, 9, 6, 15, 0, 7, 0,
-    6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1,
-    0, 33, 103, 2, 3, 0]
+- activity: [0, 0, 0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27, 10, 4, 15, 0, 7, 0,
+    6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0,
+    0, 108, 28, 2, 3, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1231,9 +1231,9 @@
   size: 216
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    2, 4, 0]
+    6, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1322,7 +1322,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 354,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 356,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 71,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1334,19 +1334,21 @@
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 8,
     link: 'https://github.com/charleshuang80', name: charleshuang80}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 5,
+    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3891862?v=3', contributions: 3,
     link: 'https://github.com/rebeccaestes', name: rebeccaestes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12372787?v=3', contributions: 2,
     link: 'https://github.com/adinneen', name: adinneen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 2,
-    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12459939?v=3', contributions: 1,
     link: 'https://github.com/kndllbrwn', name: kndllbrwn}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5439589?v=3', contributions: 1,
+    link: 'https://github.com/valeriecodes', name: valeriecodes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16469242?v=3', contributions: 1,
     link: 'https://github.com/RAGarza8', name: RAGarza8}
-  contributors_count: 12
+  contributors_count: 13
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
@@ -1357,21 +1359,21 @@
   id: 43036761
   languages:
   - [Ruby, 73252]
-  - [HTML, 55851]
+  - [HTML, 56256]
   - [CSS, 24652]
   - [CoffeeScript, 1054]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 51
+  open_issues: 57
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-03-27T21:28:18Z'
+  pushed_at: '2016-03-29T04:40:26Z'
   short_name: dcaf_case_management
-  size: 6785
-  updated_at: '2016-03-21T23:54:46Z'
-  watchers: 3
+  size: 6806
+  updated_at: '2016-03-29T01:03:36Z'
+  watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1400,8 +1402,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 25, 22, 18, 21, 17, 53, 14,
-    15, 0, 0, 6, 25]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 28, 23, 14, 27, 23, 43, 12,
+    15, 0, 3, 6, 22]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1425,7 +1427,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 132,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 71,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 126,
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
@@ -1448,9 +1450,9 @@
   id: 46313726
   languages:
   - [R, 74813]
-  - [HTML, 36126]
-  - [CSS, 19263]
-  - [Python, 6016]
+  - [HTML, 38964]
+  - [CSS, 25627]
+  - [Python, 6152]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: R
@@ -1458,13 +1460,13 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-03-26T21:03:01Z'
+  pushed_at: '2016-03-29T03:34:16Z'
   short_name: school-modernization
-  size: 16075
+  size: 16118
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1519,7 +1521,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [0, 29, 26, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 29, 28, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
