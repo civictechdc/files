@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1458007544000, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457636180000, 
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 346
+            "yes_rsvp_count": 344
         }, 
         {
             "created": 1456402619000, 
@@ -244,6 +244,47 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1459347644000, 
+            "description": "<p><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"linkified\">https://www.hackerrank.com/challenges/botclean</a></p> <p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>- Dinner</p> <p>- Work on the following problems -\u00a0</p> <p><b>These are intro problems for anyone who is new to algorithms or interview type questions! We'll continue working through several of these\u00a0</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/tutorial-intro\"><a href=\"https://www.hackerrank.com/challenges/tutorial-intro\" class=\"linkified\">https://www.hackerrank.com/challenges/tutorial-intro</a></a><br/></b></p> <p><b>For those who want more of a challenge</b></p> <p>\u2022\u00a0<b><a href=\"https://www.hackerrank.com/challenges/botclean\"><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"linkified\">https://www.hackerrank.com/challenges/botclean</a></a></b></p> <p><br/>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229988888/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call (703) 981 - 4542 if the door is locked outside.", 
+            "id": "229988888", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1459809000000, 
+            "updated": 1459347644000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 18
+        }, 
+        {
             "created": 1457035701000, 
             "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Lab is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding with us!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -281,7 +322,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1458531639000, 
@@ -347,7 +388,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446219481000, 
@@ -375,7 +416,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1452612310000, 
@@ -501,7 +542,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1456426141000, 
@@ -549,6 +590,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1459355635000, 
+            "description": "<p>Let's join up and attend ABI.DC's screening of the documentary \u201cCODE \u2013 Debugging the Gender Gap\u201c, on Friday April 8 at 1PM ET. This event is sponsored by the U.S. Patent and Trademark Office, Capital One, an ABI.DC Community, an Anita Borg Institute Community.</p> <p>YOU MUST RSVP HERE:\u00a0<a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"><a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\" class=\"linkified\">https://local.anitaborg.org/event/code-debugging-the-gender-gap/</a></a></p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/229992333/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "229992333", 
+            "maybe_rsvp_count": 0, 
+            "name": "CODE \u2014 Debugging the Gender Gap showing", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1460134800000, 
+            "updated": 1459355635000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "600 Dulaney Street  ", 
+                "city": "Alexandria", 
+                "country": "us", 
+                "id": 24457533, 
+                "lat": 38.801155000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.063744, 
+                "name": "Madison Building Auditorium ", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1458049267000, 
@@ -615,7 +696,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1451511328000, 
@@ -720,7 +801,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457885761000, 
@@ -815,7 +896,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1457965726000, 
@@ -881,7 +962,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -1058,7 +1139,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1457709309000, 
@@ -1127,7 +1208,7 @@ calendar({
         }, 
         {
             "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's multi-modal transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>. \u00a0</p> <p>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
             "group": {
                 "created": 1384372275000, 
@@ -1146,7 +1227,7 @@ calendar({
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1461880800000, 
-            "updated": 1458922422000, 
+            "updated": 1459355156000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1162,7 +1243,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457035701000, 
@@ -1202,7 +1283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
@@ -1227,33 +1308,6 @@ calendar({
             "status": "upcoming", 
             "time": 1462314600000, 
             "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579375/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvhbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1462401000000, 
-            "updated": 1458050850000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 

@@ -124,7 +124,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1458007544000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -158,7 +158,7 @@ other:
     name: OPOWER, repinned: false, state: VA, zip: '22201'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1457636180000
   description: "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning\
     \ with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p>\
@@ -202,7 +202,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 346
+  yes_rsvp_count: 344
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
     \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
@@ -259,6 +259,44 @@ other:
   visibility: public
   waitlist_count: 38
   yes_rsvp_count: 3
+- created: 1459347644000
+  description: "<p><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"\
+    linkified\">https://www.hackerrank.com/challenges/botclean</a></p> <p>Interested\
+    \ in sharpening your problem solving skills and learning more about algorithms?\
+    \ Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p>\
+    \ <p>- Dinner</p> <p>- Work on the following problems -\_</p> <p><b>These are\
+    \ intro problems for anyone who is new to algorithms or interview type questions!\
+    \ We'll continue working through several of these\_</b></p> <p><b>\u2022\_<a href=\"\
+    https://www.hackerrank.com/challenges/tutorial-intro\"><a href=\"https://www.hackerrank.com/challenges/tutorial-intro\"\
+    \ class=\"linkified\">https://www.hackerrank.com/challenges/tutorial-intro</a></a><br/></b></p>\
+    \ <p><b>For those who want more of a challenge</b></p> <p>\u2022\_<b><a href=\"\
+    https://www.hackerrank.com/challenges/botclean\"><a href=\"https://www.hackerrank.com/challenges/botclean\"\
+    \ class=\"linkified\">https://www.hackerrank.com/challenges/botclean</a></a></b></p>\
+    \ <p><br/>We want to do a combination of whiteboarding and coding on the computer\
+    \ so please bring a computer. <b>You can code in the language of your choice (including\
+    \ pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for\
+    \ women; we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229988888/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  how_to_find_us: Call (703) 981 - 4542 if the door is locked outside.
+  id: '229988888'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1459809000000
+  updated: 1459347644000
+  utc_offset: -14400000
+  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
+    id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
+    name: Palantir Technologies, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -308,7 +346,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 61
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -367,7 +405,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -396,7 +434,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -554,7 +592,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -608,6 +646,33 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 9
+- created: 1459355635000
+  description: "<p>Let's join up and attend ABI.DC's screening of the documentary\
+    \ \u201CCODE \u2013 Debugging the Gender Gap\u201C, on Friday April 8 at 1PM ET.\
+    \ This event is sponsored by the U.S. Patent and Trademark Office, Capital One,\
+    \ an ABI.DC Community, an Anita Borg Institute Community.</p> <p>YOU MUST RSVP\
+    \ HERE:\_<a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"\
+    ><a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"\
+    \ class=\"linkified\">https://local.anitaborg.org/event/code-debugging-the-gender-gap/</a></a></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/dc-pyladies/events/229992333/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  id: '229992333'
+  maybe_rsvp_count: 0
+  name: "CODE \u2014 Debugging the Gender Gap showing"
+  rsvp_limit: 1
+  status: upcoming
+  time: 1460134800000
+  updated: 1459355635000
+  utc_offset: -14400000
+  venue: {address_1: '600 Dulaney Street  ', city: Alexandria, country: us, id: 24457533,
+    lat: 38.801155000000001, localized_country_name: USA, lon: -77.063744, name: 'Madison
+      Building Auditorium ', repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1458049267000
   description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
     \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085\"\
@@ -694,7 +759,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -786,7 +851,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1457885761000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_6:30pm - Setup and start\
     \ working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm\
@@ -873,7 +938,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -964,7 +1029,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1178,7 +1243,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1283,8 +1348,12 @@ other:
     \ will share some new projects.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/1littlevictory\"\
     >Anna Petrone</a> will show how she built an\_<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\"\
     >interactive visualization tool for CaBi trip data</a> built with Amazon Web Services\
-    \ and Leaflet.\_</p> <p>\u2022\_Amir Farhangi and Matt Triner of\_<a href=\"http://district.ninja/\"\
-    >District Ninja</a>\_will show how they calculated\_<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
+    \ and Leaflet.\_</p> <p>\u2022\_<a href=\"https://twitter.com/mapping_sam\">Sam\
+    \ Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\"\
+    >data analysis</a> on CaBi's\_first and last mile contribution to Metro's multi-modal\
+    \ transportation solution.</p> <p><br/>\u2022\_Amir Farhangi and Matt Triner of\_\
+    <a href=\"http://district.ninja/\">District Ninja</a>\_will show how they calculated\_\
+    <a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
     >DC neighborhoods with the most capital bikeshare use</a>. \_</p> <p>\u2022\_\
     <a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\_will show his\_<a\
     \ href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python\
@@ -1315,14 +1384,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1461880800000
-  updated: 1458922422000
+  updated: 1459355156000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1372,7 +1441,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1399,47 +1468,6 @@ other:
   status: upcoming
   time: 1462314600000
   updated: 1459265764000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
-- created: 1452612310000
-  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
-    \ women? Looking to build your first web app, learn more about coding, or build\
-    \ on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR)\
-    \ Study Group. This event is intended for those new to programming and/or ROR\
-    \ (but we welcome people of all levels to attend and help out)! The agenda will\
-    \ include a lecture that covers Ruby and Rails and an installfest to help you\
-    \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
-    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
-    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
-    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
-    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229579375/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: cjdtnlyvhbgb
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Beginners Night!'
-  status: upcoming
-  time: 1462401000000
-  updated: 1458050850000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
