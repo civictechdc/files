@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "announced": false, 
@@ -83,87 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1454252703000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p><i>This week we will have a Java Study group. Whether you're a java expert or are seeking to learn in order to enhance mobile apps, please come out to get up and running with java, try your hand out at some java challenges and ask questions on current projects. Hope to see you there! </i></p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745447/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Room 2", 
-            "id": "rjstplyvfbmc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab - Java Study Group", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1459290600000, 
-            "updated": 1459263809000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23690298, 
-                "lat": 38.898392000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.024131999999994, 
-                "name": "MLK Library, Digital Commons", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1458559488000, 
-            "description": "<p>DVDC Lightning Talks!</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJhAAAAJDk2ZWMzOGU0LTA0YTQtNDQ2OC1iYjJkLTUzYTI1MmNlNjFiNg.jpg\" /></p> <p><a href=\"https://www.linkedin.com/in/kathyqian\">Kathy Qian: Founder &amp; CEO at Tickermachine</a></p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/190/0c6/1bbc50e.jpg\" /></p> <p><a href=\"https://www.linkedin.com/in/harlanharris\">Harlan Harris: Director of Data Science at The Education Advisory Board\u00a0</a></p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAb7AAAAJDdhMjhhMDA5LTFmNGUtNGNkMy1hZjdlLTE2NWIwMjM2ZWZmMg.jpg\" /></p> <p><a href=\"https://www.linkedin.com/in/amanda-traud-44257914\">Amanda Traud: Senior Data Scientist at Cybraics</a></p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/15e/355/24c0528.jpg\" /></p> <p><a href=\"https://www.linkedin.com/in/bill-rapp-21880642\">Bill Rapp: Principal at Signal2Noise LLC</a></p> <p>Join your fellow data visualizers on Tuesday, March 29th\u00a0for DVDC Lightning Talks.\u00a0For this March Meetup, DVDC will host Harlan Harris, Amanda Traud, Bill Rapp, and\u00a0Kathy Qian\u00a0for a series of lighting talks exploring the biggest ideas in data science and data visualization in under 20 minutes; Q&amp;A welcome.</p> <p>DVDC Lighting Talks will be held at Capital One\u2019s office in McLean, Virginia (1680 Capital One Drive,\u00a0McLean, VA[masked]), the office is across the street from the Silver Line\u2019s McLean Metro Station, and we recommend that you take the train if you want to stay for data drinks after.\u00a0</p> <p>To access Capital One\u2019s McLean Headquarters, please confirm your RSVP as soon as possible, and bring a recent government ID with you the night of the event.</p> <p>We look forward to seeing you!\u00a0</p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:15 - <a href=\"https://www.linkedin.com/in/kathyqian\">Kathy Qian: Founder &amp; CEO at Tickermachine</a></p> <p>\u2022 7:35 - <a href=\"https://www.linkedin.com/in/harlanharris\">Harlan Harris: Director at The Education Advisory Board\u00a0</a></p> <p><br/>\u2022 7:55 - <a href=\"https://www.linkedin.com/in/amanda-traud-44257914\">Amanda Traud: Senior Data Scientist at Cybraics</a></p> <p><br/>\u2022 8:15 - <a href=\"https://www.linkedin.com/in/bill-rapp-21880642\">Bill Rapp: Principal at Signal2Noise LLC</a></p> <p>\u2022\u00a08:40 - Data Drinks</p> <p><b><br/></b></p> <p><b>ANNOUNCEMENTS</b></p> <p>Check out the <a href=\"http://us3.campaign-archive2.com/?u=75fc125999b198f97fe860a8d&amp;id=6e8db1780b&amp;e=263865b99d\">Data Community DC Newsletter</a>!</p> <p>Are\u00a0you or your company hiring?\u00a0<a href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\">Get in touch!</a></p> <p><br/>Would you like to announce data-related public events in the\u00a0region?\u00a0<a href=\"http://www.datacommunitydc.org/calendar/\">Submit it to the calendar</a>\u00a0and we'll do the rest.</p> <p><br/>Would you like to share something viral with us? You can reach other regional data afficionados with\u00a0<a href=\"https://twitter.com/search?q=%23datadc\">#datadc on Twitter</a>, or in our\u00a0<a href=\"https://www.facebook.com/groups/datacommunitydc/\">Facebook</a>\u00a0or\u00a0<a href=\"http://www.linkedin.com/groups/Data-Community-DC-4763419\">LinkedIn</a>\u00a0groups!</p> <p><b>Jobs / Internships</b></p> <p>\u2022\u00a0Capital One is looking for brilliant\u00a0<a href=\"https://jobs.capitalone.com/job/mclean/data-engineering-senior-engineer-mclean/1732/1089517\">Data\u00a0Engineers</a>\u00a0to help us be a great open source tech company in banking. We're working with cool things like Spark, Kafka, Storm, Flink and have needs at all levels. If you're interested in finding out more we'd love to hear from you! (VA)</p> <p>\u2022\u00a0Poise is seeking a\u00a0<a href=\"http://www.indeed.com/jobs?q=%22poise+inc%22&amp;l=\">Senior Data Scientist</a>. Candidates will have the opportunity to utilize the following technology: Hadoop, Impala, Hive, Pig or Spark, HQL/SQL, Java (Python, Perl, etc.), numerical and statistical packages (Pandas, Numpy, Sklearn, R). Contact Mr.&lt;a&gt;Steve Roper&lt;/a&gt;\u00a0for more details.\u00a0</p> <p>\u2022\u00a0(DC)The DC Office of the State Superintendent of Education (OSSE) is looking for an\u00a0<a href=\"http://osse.dc.gov/ossecareeropportunities\">Assistant Superintendent</a>\u00a0of Data, Assessment &amp; Research who will play a pivotal role in helping the agency ensure that the 90,000 students in DC receive a great education. (DC)The Psychometrics and Quantitative Research team at the Center for Applied Linguistics is seeking a\u00a0<a href=\"http://www.cal.org/who-we-are/career-opportunities/jobs/quantitative-research-assistant\">Data Analyst</a>\u00a0to support research and project-related activities for a large-scale assessment of English language proficiency. (DC)</p> <p><b>Are\u00a0you or your company hiring?\u00a0<a href=\"https://datacommunitydc.wufoo.com/forms/dc2-job-ad-submission/\">Get in touch!</a></b></p> <p><b>SPONSORS</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/b/8/5/600_445643429.jpeg\" /></p> <p><img src=\"http://www.gisonthechester.com/wp-content/uploads/2015/09/bah-share-default-icon-512-1.png\" /></p> <p>\n\n\n<img src=\"http://www.statistics.com/images/logo_new.png\" /></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/229757218/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Across the street from the Silver Line\u2019s McLean Metro Station", 
-            "id": "229757218", 
-            "maybe_rsvp_count": 0, 
-            "name": "Lightning Talks", 
-            "status": "upcoming", 
-            "time": 1459290600000, 
-            "updated": 1458559488000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1680 Capital One Drive", 
-                "city": "McLean", 
-                "country": "us", 
-                "id": 24439761, 
-                "lat": 38.924605999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.212929000000003, 
-                "name": "Capital One", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 145
-        }, 
-        {
             "created": 1456601712000, 
             "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab!</p> <p><b>Open Lab</b></p> <p>Come work on projects, ask for help or feedback!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b>**** THANK YOU's ****</b></p> <p><b>Thank you to our host Contactually!</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/f/d/4/600_447852244.jpeg\" /></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
@@ -200,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1458007544000, 
@@ -242,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457636180000, 
@@ -281,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 347
+            "yes_rsvp_count": 346
         }, 
         {
             "created": 1456402619000, 
@@ -321,7 +240,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 38, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -362,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1458531639000, 
@@ -428,7 +347,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446219481000, 
@@ -495,7 +414,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1456431672000, 
@@ -543,7 +462,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -582,7 +501,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1456426141000, 
@@ -696,7 +615,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1451511328000, 
@@ -801,7 +720,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1457885761000, 
@@ -962,7 +881,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1459265642000, 
@@ -1139,7 +1058,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457709309000, 
@@ -1308,6 +1227,33 @@ calendar({
             "status": "upcoming", 
             "time": 1462314600000, 
             "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579375/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Beginners Night!", 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1458050850000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
