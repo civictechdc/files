@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "announced": false, 
@@ -82,126 +82,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1456601712000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab!</p> <p><b>Open Lab</b></p> <p>Come work on projects, ask for help or feedback!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b>**** THANK YOU's ****</b></p> <p><b>Thank you to our host Contactually!</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/f/d/4/600_447852244.jpeg\" /></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229182181/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "229182181", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab (Updated!)", 
-            "status": "upcoming", 
-            "time": 1459377000000, 
-            "updated": 1459175074000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1005 7th St NW, Suite 100", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24427130, 
-                "lat": 38.903229000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.021629000000004, 
-                "name": "Contactually", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1458007544000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>This coming Wednesday, we are going to do a show and tell of what project you have been working on.\u00a0</b></p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229597215/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Nearby Courthouse Metro Station", 
-            "id": "229597215", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab - Show and Tell  Your Project", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1459377000000, 
-            "updated": 1458998807000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1515 N Courthouse Road", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 1555993, 
-                "lat": 38.891196999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.083740000000006, 
-                "name": "OPOWER", 
-                "repinned": false, 
-                "state": "VA", 
-                "zip": "22201"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1457636180000, 
-            "description": "<p>Please join us for our next meetup on Wed 3/30 on <b>Machine Learning with R </b>with <a href=\"https://www.linkedin.com/in/refaellav\">Rafi Lav</a>.</p> <p>6:30 - 7:00 Food, drinks and meet new people<br/>7:00 - 7:15 Intros and announcements<br/>7:15 - 8:30 Presentation, Q&amp;A<br/>8:30ish Off to the bar</p> <p><i><b>About the Talk</b></i></p> <p>Machine learning has become increasingly associated with advanced analytics. We will explore the basic idea behind machine learning, the steps to apply machine learning, and some of the supervised and unsupervised models. We will focus on classification models and will walk through the R code for those models.</p> <p>We will go over a real life business application at a major institution and touch on key practical lessons learned for machine learning. The talk will address know how from a practitioner\u2019s point of view. \u00a0</p> <p><b>There will be code!</b></p> <p><b><i>About Rafi</i></b></p> <p>Rafi is an advance analytics manager with the Advisory Services data and analytics practice at <a href=\"http://www.ey.com\">Ernst &amp; Young</a>. Rafi is a practitioner with a background in economic research, finance and data analytics from algorithms to BI to data mining. He has consulted on new product developments, business initiatives, process reengineering, technology solutions and efficacy implementations.</p> <p>He has developed R machine learning models for large financial institutions and oversees the analytics training for Data and Analytics. Rafi holds a Master's of Science of Finance from Johns Hopkins University and B.S. in Economics from George Washington University. He serves on the financial advisory committee to the board of Washington Yu-Ying Public charter\u00a0school and on the corporate advisory board for the master in analytics at GWU.</p> <p>Follow him at <a href=\"http://www.twitter.com/refaellav\">@refaellav</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/229492696/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "229492696", 
-            "maybe_rsvp_count": 0, 
-            "name": "Machine Learning with R", 
-            "status": "upcoming", 
-            "time": 1459377000000, 
-            "updated": 1457644507000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24286689, 
-                "lat": 38.898685, 
-                "localized_country_name": "USA", 
-                "lon": -77.049187000000003, 
-                "name": "GWU Funger Hall - Room 103", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 345
-        }, 
         {
             "created": 1456402619000, 
             "description": "<p>Do you want to join a\u00a0<b>high-impact team\u00a0</b>and work on\u00a0<b>10x ideas and Moonshots\u00a0</b>towards solving some of the most difficult challenges facing humanity?</p> <p>On\u00a0<b>Saturday, April 2nd 2016,</b>\u00a0<a href=\"http://teamexponent.com/\">Team Exponent</a>, in partnership with\u00a0<a href=\"http://www.meetup.com/gdg-dc/\">GDG DC</a>\u00a0and Capital One, is hosting a 1-day\u00a0<b>10x Moonshot Sprint</b>\u00a0session to solve for\u00a0<i>Climate Change through robotics, artificial intelligence and biotech</i>. This is your chance to be a part of something with high-value and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist, Designer, PM or purely passionate about solving for this challenge through moonshot thinking, this is a chance to meet like minded individuals with the various skills needed to ideate, prototype and bring a potential moonshot project to life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\u00a0for an opportunity to join this unique experience.</p> <p><br/>For more details, visit\u00a0<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\" class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\u00a0<a href=\"http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review all applications and notify you if you are selected, participation is through invitation only and will require a $20 admin registration fee upon confirmation.\u00a0</i><i>The event session will include meals and drinks, and materials required for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\" /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\">Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots, sustainability and the pursuit of change and innovation. Katy develops and executes strategies to solve complex problems using technology, with a focus on achieving product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\u00a0<br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in New York City, inspiring 10x Moonshot thinking and education. We believe in the potential of 10x Moonshot ideas and high-impact teams to help us solve our toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a> | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
@@ -282,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1457035701000, 
@@ -322,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1459379311000, 
@@ -361,7 +241,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1458531639000, 
@@ -399,7 +279,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1459265642000, 
@@ -468,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1452612310000, 
@@ -748,7 +628,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1451511328000, 
@@ -854,6 +734,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 32
+        }, 
+        {
+            "created": 1459398068000, 
+            "description": "<p>Join\u00a0<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\u00a0and members of the DC\u00a0business &amp; tech\u00a0communities as we celebrate Powerful Women Programmers and Powerful Women Designers at\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=2225c5244a&amp;e=c5fb492fa7\">The 2016 DCFemTech Awards Reception</a>. (Drinks &amp; appetizers served.)</p> <p>We'll congratulate women who are working in the trenches of tech &amp; design to help their company or organization achieve success, sometimes entirely behind the scenes. (Both men &amp; women encouraged to attend)</p> <p>Official program starts at\u00a06:45pm\u00a0with an address by\u00a0<i>new DC CTO Archana Vemulapalli</i>.\u00a0</p> <p><b>YOU MUST\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=44d0507845&amp;e=c5fb492fa7\">RSVP HERE!</a>\u00a0</b></p> <p>Appetizers &amp; drinks provided thanks to generous sponsors -\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=f72519f3ae&amp;e=c5fb492fa7\">Capital One</a>,\u00a0<a href=\"http://github.us8.list-manage2.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=e92956f9a5&amp;e=c5fb492fa7\">Siteworx</a>,\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=3144c7e5ab&amp;e=c5fb492fa7\">Wingate Hughes</a>,\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=0ae634b2fe&amp;e=c5fb492fa7\">GitHub</a>\u00a0&amp;\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=f5417cd7ca&amp;e=c5fb492fa7\">Social Tables</a>.\u00a0</p> <p>We can't wait to celebrate with you.</p> <p>Questions? Email\u00a0<a href=\"mailto:[masked]\">[masked]</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/230009967/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "230009967", 
+            "maybe_rsvp_count": 0, 
+            "name": "2016 DCFemtech Awards Reception!!", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1460584800000, 
+            "updated": 1459398128000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1457885761000, 
@@ -976,7 +896,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459089487000, 
@@ -1014,7 +934,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -1125,7 +1045,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -1191,7 +1111,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1457709309000, 
@@ -1295,7 +1215,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457035701000, 
@@ -1336,6 +1256,61 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbfb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvhbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1462314600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579375/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvhbgb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Beginners Night!", 
+            "status": "upcoming", 
+            "time": 1462401000000, 
+            "updated": 1458050850000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1326383071000, 
