@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }
     ], 
     "other": [
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1458007544000, 
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 344
+            "yes_rsvp_count": 345
         }, 
         {
             "created": 1456402619000, 
@@ -282,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457035701000, 
@@ -322,7 +322,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
+        }, 
+        {
+            "created": 1459379311000, 
+            "description": "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated to building global communities of women who make each other feel supported, inspired, free and happy.</i></b></p> <p><b><br/></b></p> <p><b>About Jen and VINA:</b></p> <p>\u2022\u00a0Jen is a full-stack developer and has developed products for a variety of companies, from large financial institutions to social gaming companies to NBA teams. After falling in love with the startup space, she is enjoying the opportunity to craft meaningful technology products for women. Jen enjoys baking and writing crime novels, and watches a lot of Star Trek while she works.</p> <p>\u2022\u00a0Jen works primarily with Swift, Ruby, Rails, Sinatra, JavaScript, MongoDB, and AWS Aurora.</p> <p>\u2022\u00a0VINA aims to help women to connect, empower and celebrate one another through the <a href=\"http://heyvina.com/\">Hey! VINA</a> mobile app and <a href=\"http://www.ladybrag.com/\">LadyBrag.com</a>.</p> <p>\n\n\n<b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p>\u2022\u00a0\u200bProduct Development and Iteration</p> <p>\u2022\u00a0The various challenges of starting a tech company: leading an all female team, being a technical co-founder, having to change priorities and scale quickly.</p> <p>\n\n\n<b>How do I sign up?</b></p> <p>\u2022\u00a0Request to join our Slack channel: <a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>\u2022\u00a0Join the <a href=\"https://womenwhocodedc.slack.com/messages/ama/\">#ama </a>channel</p> <p>\u2022\u00a0<a href=\"http://ctt.ec/fvcZt\">Click to tweet </a>and show support!</p> <p>\n\n\n<b>Schedule</b></p> <p>\u2022\u00a0Tuesday April 5 @ 12:00PM EST: We will kick off the event and you can start asking your questions</p> <p>\u2022\u00a0Wednesday April 6: We will remind members to ask their final questions by 9:00PM</p> <p>\u2022\u00a0Thursday April 7 @ 5:00PM EST: End of the AMA</p> <p>During this period Jen will answer your questions. Members are welcome to post questions at any point during the AMA from noon Tuesday to 9:00pm EST Wednesday. \u00a0</p> <p>This event is for everyone, and may be really helpful for aspiring entrepreneurs, developers looking to become CTOs and product managers. Come join us on</p> <p><a href=\"https://womenwhocodedc.slack.com/\">slack</a></p> <p>.</p>", 
+            "duration": 190800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230001827/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "230001827", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ask Me Anything! with Jen Aprahamian (Co-Founder and CTO of VINA, Inc.)", 
+            "status": "upcoming", 
+            "time": 1459872000000, 
+            "updated": 1459379311000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Slack", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24125305, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Online", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1458531639000, 
@@ -360,7 +399,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1459265642000, 
@@ -388,7 +427,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
@@ -406,17 +445,30 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Near Farragut North Metrostation", 
             "id": "jzwvllyvgbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
+            "name": "Python Lab - Beginners Night", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1459981800000, 
-            "updated": 1459264820000, 
+            "updated": 1459371645000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1452612310000, 
@@ -542,7 +594,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1456426141000, 
@@ -628,7 +680,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -801,7 +853,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1457885761000, 
@@ -962,7 +1014,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -1139,7 +1191,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1457709309000, 
@@ -1243,7 +1295,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457035701000, 
@@ -1284,34 +1336,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbfb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvhbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1462314600000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -1415,7 +1439,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1326383071000, 
