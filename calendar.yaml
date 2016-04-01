@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1459093337000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
     >DataKind DC</a>!</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_</p>\
@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - announced: false
   created: 1459093369000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -80,7 +80,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 other:
 - created: 1456402619000
   description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
@@ -175,7 +175,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -225,7 +225,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1459379311000
   description: "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder\
     \ and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated\
@@ -275,7 +275,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -304,7 +304,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -692,7 +692,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 99
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -784,7 +784,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -908,7 +908,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -999,7 +999,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 44
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1105,7 +1105,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 2
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -1324,12 +1324,13 @@ other:
     \ transportation solution.</p> <p><br/>\u2022\_Amir Farhangi and Matt Triner of\_\
     <a href=\"http://district.ninja/\">District Ninja</a>\_will show how they calculated\_\
     <a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
-    >DC neighborhoods with the most capital bikeshare use</a>. \_</p> <p>\u2022\_\
-    <a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\_will show his\_<a\
-    \ href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python\
-    \ tools</a>\_for working with CaBi trip data.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\"\
-    >Michael Schade</a> will show how he used Processing to create animation showing\
-    \ traffic to/from\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\"\
+    >DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\_Hans\
+    \ Engler will show how he\_extracts spatio-temporal trip patterns from historic\
+    \ CaBi data.</p> <p><br/>\u2022\_<a href=\"https://www.dylanbarlett.com/\">Dylan\
+    \ Barlett</a>\_will show his\_<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\"\
+    >Python tools</a>\_for working with CaBi trip data.</p> <p><br/>\u2022\_<a href=\"\
+    http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to\
+    \ create animation showing traffic to/from\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\"\
     >Columbus Circle</a>, the\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\"\
     >Lincoln Memorial</a>, and\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\"\
     >Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"\
@@ -1354,14 +1355,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1461880800000
-  updated: 1459355156000
+  updated: 1459448866000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
