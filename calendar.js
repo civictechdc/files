@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": false, 
@@ -279,7 +279,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1459265642000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1456431672000, 
@@ -474,7 +474,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1456426141000, 
@@ -521,7 +521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459355635000, 
@@ -621,14 +621,14 @@ calendar({
             "id": "ghkdrlyvgbpb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Lab - Intro to APIs", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1460413800000, 
-            "updated": 1458680058000, 
+            "updated": 1459530511000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1451511328000, 
@@ -868,7 +868,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1457965726000, 
@@ -934,7 +934,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459265642000, 
@@ -1111,7 +1111,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1457709309000, 
@@ -1180,7 +1180,7 @@ calendar({
         }, 
         {
             "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's multi-modal transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's multi-modal transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0Alex Rixey will share <a href=\"http://www.fehrandpeersdc.com/\">Fehr and Peers</a>' work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
             "group": {
                 "created": 1384372275000, 
@@ -1199,7 +1199,7 @@ calendar({
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1461880800000, 
-            "updated": 1459448866000, 
+            "updated": 1459521370000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1215,7 +1215,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1457035701000, 
@@ -1310,7 +1310,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 

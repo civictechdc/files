@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 20
 - announced: false
   created: 1459093369000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -304,7 +304,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1459265642000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? Looking to build your first app or build on existing skills?\
@@ -416,7 +416,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 26
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
@@ -530,7 +530,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 67
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -583,7 +583,7 @@ other:
     name: GovDelivery, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1459355635000
   description: "<p>Let's join up and attend ABI.DC's screening of the documentary\
     \ \u201CCODE \u2013 Debugging the Gender Gap\u201C, on Friday April 8 at 1PM ET.\
@@ -690,14 +690,14 @@ other:
   id: ghkdrlyvgbpb
   maybe_rsvp_count: 0
   name: Front End Lab - Intro to APIs
-  rsvp_limit: 100
+  rsvp_limit: 125
   status: upcoming
   time: 1460413800000
-  updated: 1458680058000
+  updated: 1459530511000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 100
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -913,7 +913,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1004,7 +1004,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1218,7 +1218,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1331,7 +1331,9 @@ other:
     <a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
     >DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\_Hans\
     \ Engler will show how he\_extracts spatio-temporal trip patterns from historic\
-    \ CaBi data.</p> <p><br/>\u2022\_<a href=\"https://www.dylanbarlett.com/\">Dylan\
+    \ CaBi data.</p> <p><br/>\u2022\_Alex Rixey will share <a href=\"http://www.fehrandpeersdc.com/\"\
+    >Fehr and Peers</a>' work on CaBi\_ridership forecasting and measuring\_low-stress\
+    \ bikeways.</p> <p><br/>\u2022\_<a href=\"https://www.dylanbarlett.com/\">Dylan\
     \ Barlett</a>\_will show his\_<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\"\
     >Python tools</a>\_for working with CaBi trip data.</p> <p><br/>\u2022\_<a href=\"\
     http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to\
@@ -1360,14 +1362,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1461880800000
-  updated: 1459448866000
+  updated: 1459521370000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 52
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1488,7 +1490,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
