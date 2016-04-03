@@ -2003,8 +2003,8 @@
             0, 
             7, 
             2, 
-            3, 
-            5, 
+            7, 
+            1, 
             4, 
             6, 
             0, 
@@ -2026,11 +2026,11 @@
             0, 
             2, 
             11, 
-            12, 
-            28, 
+            19, 
+            21, 
             5, 
-            3, 
-            30
+            4, 
+            29
         ], 
         "ci": {
             "codeclimate": false, 
@@ -2042,13 +2042,13 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 113, 
+                "contributions": 115, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7241408?v=3", 
-                "contributions": 34, 
+                "contributions": 41, 
                 "link": "https://github.com/romoy", 
                 "name": "romoy"
             }, 
@@ -2087,9 +2087,15 @@
                 "contributions": 1, 
                 "link": "https://github.com/caseypatrickdriscoll", 
                 "name": "caseypatrickdriscoll"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4925075?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/pythagoraswitch", 
+                "name": "pythagoraswitch"
             }
         ], 
-        "contributors_count": 8, 
+        "contributors_count": 9, 
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "develop", 
         "description": "Displays data about DC Campaign Finance on a site", 
@@ -2101,7 +2107,7 @@
         "languages": [
             [
                 "JavaScript", 
-                10955886
+                10958102
             ], 
             [
                 "CSS", 
@@ -2130,9 +2136,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-03-30T11:04:33Z", 
+        "pushed_at": "2016-04-03T16:35:07Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 104680, 
+        "size": 106032, 
         "updated_at": "2016-03-29T16:29:58Z", 
         "watchers": 16
     }, 
@@ -4545,20 +4551,20 @@
             4, 
             0, 
             10, 
-            9, 
-            28, 
-            9, 
+            10, 
             27, 
-            22, 
-            9, 
-            49, 
-            30, 
+            17, 
+            23, 
+            21, 
+            13, 
+            53, 
+            20, 
+            21, 
             18, 
-            19, 
-            9, 
-            12, 
-            26, 
-            19
+            6, 
+            13, 
+            36, 
+            8
         ], 
         "ci": {
             "codeclimate": false, 
